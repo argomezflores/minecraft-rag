@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pipeline técnico — RAG Minecraft</title>
+  <style>
+    :root {
+      --primary: #5B8B3F;
+      --primary-dark: #3E6B2A;
+      --dirt: #8B5A2B;
+      --bg: #F5EBD8;
+      --sidebar: #E8DCC0;
+      --border: #8B5A2B;
+      --text: #1E1E1E;
+      --muted: #555;
+      --card: #FFFFFF;
+      --code-bg: #1E1E2E;
+      --code-fg: #CDD6F4;
+      --keyword: #F38BA8;
+      --string: #A6E3A1;
+      --comment: #7F849C;
+      --func: #89B4FA;
+      --num: #FAB387;
+      --type: #F9E2AF;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background: var(--bg);
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      min-height: 100vh;
+    }
+    nav {
+      background: var(--sidebar);
+      border-right: 3px solid var(--border);
+      padding: 24px 20px;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+    }
+    nav h2 {
+      font-size: 12px;
+      color: var(--dirt);
+      margin: 20px 0 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    nav h2:first-child { margin-top: 0; }
+    nav ul { list-style: none; padding: 0; margin: 0; }
+    nav a {
+      display: block;
+      padding: 6px 8px;
+      color: var(--text);
+      text-decoration: none;
+      font-size: 13px;
+      border-left: 3px solid transparent;
+    }
+    nav a:hover {
+      background: rgba(91, 139, 63, 0.15);
+      color: var(--primary-dark);
+      border-left-color: var(--primary);
+    }
+    main {
+      padding: 40px 56px;
+      max-width: 980px;
+    }
+    h1 {
+      color: var(--primary-dark);
+      border-bottom: 3px solid var(--border);
+      padding-bottom: 12px;
+      margin-top: 0;
+    }
+    h2 {
+      margin-top: 48px;
+      border-left: 4px solid var(--primary);
+      padding-left: 12px;
+      color: var(--primary-dark);
+    }
+    h3 { margin-top: 32px; color: var(--text); }
+    h4 {
+      margin-top: 20px;
+      margin-bottom: 6px;
+      font-size: 14px;
+      color: var(--dirt);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    p, li { color: var(--text); }
+    a { color: var(--primary-dark); }
+    code {
+      background: rgba(0,0,0,0.05);
+      padding: 2px 6px;
+      border-radius: 3px;
+      border: 1px solid rgba(139, 90, 43, 0.3);
+      font-family: ui-monospace, "SF Mono", Consolas, monospace;
+      font-size: 0.88em;
+    }
+    pre {
+      background: var(--code-bg);
+      color: var(--code-fg);
+      padding: 16px 20px;
+      border-radius: 0;
+      overflow-x: auto;
+      font-size: 13px;
+      line-height: 1.6;
+      box-shadow: 4px 4px 0 var(--border);
+      margin: 12px 0;
+      font-family: ui-monospace, "SF Mono", Consolas, monospace;
+    }
+    pre code {
+      background: transparent;
+      color: inherit;
+      padding: 0;
+      border: none;
+      font-size: 13px;
+    }
+    /* Syntax highlighting via CSS classes */
+    .kw { color: var(--keyword); }
+    .str { color: var(--string); }
+    .cmt { color: var(--comment); font-style: italic; }
+    .fn { color: var(--func); }
+    .num { color: var(--num); }
+    .ty { color: var(--type); }
+
+    .card {
+      background: var(--card);
+      border: 2px solid var(--border);
+      padding: 20px 24px;
+      margin: 20px 0;
+      box-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+    }
+    .layer {
+      background: var(--card);
+      border: 2px solid var(--border);
+      padding: 24px 28px;
+      margin: 32px 0;
+      box-shadow: 5px 5px 0 rgba(0,0,0,0.12);
+    }
+    .layer h3 {
+      margin-top: 0;
+      color: var(--primary-dark);
+      font-size: 20px;
+    }
+    .tag {
+      display: inline-block;
+      background: var(--primary);
+      color: white;
+      padding: 2px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      margin-right: 8px;
+    }
+    .note {
+      background: #FFF4E5;
+      border-left: 4px solid var(--dirt);
+      padding: 12px 16px;
+      margin: 16px 0;
+    }
+    .tradeoff {
+      background: #E8F0E8;
+      border-left: 4px solid var(--primary);
+      padding: 12px 16px;
+      margin: 16px 0;
+    }
+    .warn {
+      background: #FEE;
+      border-left: 4px solid #C00;
+      padding: 12px 16px;
+      margin: 16px 0;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 16px 0;
+    }
+    th, td {
+      border: 2px solid var(--border);
+      padding: 8px 12px;
+      text-align: left;
+      background: white;
+      font-size: 14px;
+    }
+    th { background: var(--primary); color: white; }
+    .flow {
+      background: var(--code-bg);
+      color: var(--code-fg);
+      padding: 20px 28px;
+      font-family: ui-monospace, Consolas, monospace;
+      font-size: 13px;
+      line-height: 1.7;
+      white-space: pre;
+      overflow-x: auto;
+      margin: 16px 0;
+      box-shadow: 4px 4px 0 var(--border);
+    }
+    .file-link {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    @media (max-width: 900px) {
+      body { grid-template-columns: 1fr; }
+      nav { position: static; height: auto; border-right: none; border-bottom: 3px solid var(--border); }
+      main { padding: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <h2>Overview</h2>
+    <ul>
+      <li><a href="#overview">🗺️ Diagrama del pipeline</a></li>
+    </ul>
+
+    <h2>Ingesta (offline)</h2>
+    <ul>
+      <li><a href="#capa-scraper">1. Scraper</a></li>
+      <li><a href="#capa-chunker">2. Chunker</a></li>
+      <li><a href="#capa-embedder">3. Embedder</a></li>
+      <li><a href="#capa-ingest">4. Ingest a ChromaDB</a></li>
+    </ul>
+
+    <h2>Query (runtime)</h2>
+    <ul>
+      <li><a href="#capa-rewriter">5. Query Rewriter</a></li>
+      <li><a href="#capa-retriever">6. Retriever</a></li>
+      <li><a href="#capa-reranker">7. Re-ranker</a></li>
+      <li><a href="#capa-generator">8. Generator (Claude)</a></li>
+      <li><a href="#capa-pipeline">9. Orquestador</a></li>
+    </ul>
+
+    <h2>Servicio</h2>
+    <ul>
+      <li><a href="#fastapi">10. FastAPI (línea por línea)</a></li>
+      <li><a href="#widget">11. Widget web</a></li>
+      <li><a href="#bot">12. Bot Mineflayer</a></li>
+    </ul>
+
+    <h2>Meta</h2>
+    <ul>
+      <li><a href="#observabilidad">📊 Observabilidad + Benchmark</a></li>
+      <li><a href="#corpus-filters">🚫 Corpus filtering (v5)</a></li>
+      <li><a href="#decisiones">📋 Decisiones que tomamos</a></li>
+      <li><a href="#latencia">⚡ Latencia y costos</a></li>
+      <li><a href="timeline.html">🕰️ Timeline visual del proyecto →</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>⛏️ Pipeline técnico — RAG Minecraft (v3)</h1>
+    <p>Este documento explica <strong>capa por capa</strong> qué hace el sistema, por qué existe cada pieza, y muestra el código real que la implementa. Está pensado para ser leído en orden (siguiendo el nav lateral) o para ir directo a la capa que te interesa.</p>
+
+    <div class="note">
+      <strong>Convenciones:</strong> cada capa tiene 4 bloques: <em>Qué hace</em> (para qué existe), <em>Por qué así</em> (tradeoffs), <em>Código real</em> (snippet de la función), <em>Ejemplo</em> (input → output).
+    </div>
+
+    <!-- ================== OVERVIEW ================== -->
+    <h2 id="overview">🗺️ Diagrama del pipeline</h2>
+    <p>Todo el sistema en un solo mapa. Dos fases claramente separadas:</p>
+
+    <div class="flow">┌────────────────────── INGESTA (offline, se corre 1 vez) ──────────────────────┐
+│                                                                                │
+│  minecraft.wiki  →  <span class="fn">scraper.py</span>  →  <span class="fn">chunker.py</span>  →  <span class="fn">embedder.py</span>  →  ChromaDB    │
+│  (API MediaWiki)     (mwclient)      (~800 chars)      (all-MiniLM-L6)         │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────── QUERY (runtime, se corre por cada pregunta) ─────────────────┐
+│                                                                                │
+│    User Q  →  <span class="fn">rewriter</span>  →  <span class="fn">retriever</span>  →  <span class="fn">reranker</span>  →  <span class="fn">generator</span>  →  Answer  │
+│    (ES)      (Haiku)     (bi-encoder)   (cross-encoder)  (Sonnet)              │
+│                 ↓             ↓              ↓              ↓                   │
+│              3 queries    top-20 x 3    top-5 fino     respuesta + citas       │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘</div>
+
+    <!-- ================== INGESTA ================== -->
+
+    <div class="layer" id="capa-scraper">
+      <h3><span class="tag">Ingesta 1/4</span> Scraper — Minecraft Wiki → texto plano</h3>
+
+      <h4>Qué hace</h4>
+      <p>Baja artículos de la <a href="https://minecraft.wiki" target="_blank">Minecraft Wiki oficial</a> usando la API MediaWiki. Convierte el "wikitext" crudo (con templates <code>{{Infobox}}</code>, links <code>[[Diamond|diamond]]</code>) en texto plano legible.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>Decisión: API MediaWiki, NO web scraping HTML.</strong><br>
+        La wiki corre MediaWiki, que expone <code>https://minecraft.wiki/api.php</code>. Le pides "dame la página Beacon" y te devuelve JSON con el wikitext. Alternativa: bajar HTML renderizado y parsearlo con BeautifulSoup — mucho más frágil (menús, sidebars, JavaScript). La API te da <em>contenido puro</em>.
+      </div>
+      <div class="tradeoff">
+        <strong>Librería: <code>mwclient</code>.</strong> Maneja paginación, rate limiting automático, y errores 429. Sin ella, la API MediaWiki es incómoda: params anidados, formato JSON verboso, cursors para paginar.
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="cmt"># v4: preservamos recetas ANTES de strip_code() para no perderlas</span>
+<span class="kw">def</span> <span class="fn">_preserve_recipe_templates</span>(wikicode):
+    <span class="kw">for</span> template <span class="kw">in</span> <span class="fn">list</span>(wikicode.<span class="fn">filter_templates</span>()):
+        name = <span class="fn">str</span>(template.name).<span class="fn">strip</span>().<span class="fn">lower</span>()
+        converter = _RECIPE_CONVERTERS.<span class="fn">get</span>(name)  <span class="cmt"># crafting/smelting/brewing</span>
+        <span class="kw">if</span> converter <span class="kw">is None</span>: <span class="kw">continue</span>
+        replacement = <span class="fn">converter</span>(template)  <span class="cmt"># template → frase legible</span>
+        <span class="kw">if</span> replacement:
+            wikicode.<span class="fn">replace</span>(template, <span class="str">f"\n\n{replacement}\n\n"</span>)
+
+
+<span class="kw">def</span> <span class="fn">clean_wikitext</span>(raw: <span class="ty">str</span>) -> <span class="ty">str</span>:
+    wikicode = mwparserfromhell.<span class="fn">parse</span>(raw)
+    <span class="fn">_preserve_recipe_templates</span>(wikicode)  <span class="cmt"># v4: NUEVO</span>
+    text = wikicode.<span class="fn">strip_code</span>(normalize=<span class="kw">True</span>, collapse=<span class="kw">True</span>)
+    <span class="kw">return</span> text.<span class="fn">strip</span>()
+
+
+<span class="kw">def</span> <span class="fn">_convert_crafting_template</span>(template) -> <span class="ty">str</span>:
+    <span class="cmt"># {{Crafting|A1=Oak Planks|B1=Oak Planks|...|Output=Crafting Table}}</span>
+    <span class="cmt"># → "Crafting recipe: Oak Planks, Oak Planks, ... → Crafting Table."</span>
+    ingredients = [<span class="fn">_template_param</span>(template, slot) <span class="kw">for</span> slot <span class="kw">in</span> _CRAFTING_SLOTS]
+    ingredients = [i <span class="kw">for</span> i <span class="kw">in</span> ingredients <span class="kw">if</span> i]
+    output = <span class="fn">_template_param</span>(template, <span class="str">"Output"</span>) <span class="kw">or</span> <span class="str">"unknown item"</span>
+    <span class="kw">return</span> <span class="str">f"Crafting recipe: {', '.join(ingredients)} → {output}."</span></code></pre>
+      <div class="file-link">📁 Código completo: <a href="../src/scraper.py"><code>src/scraper.py</code></a></div>
+
+      <h4>Ejemplo</h4>
+      <table>
+        <tr><th>Input</th><th>Output (fragmento)</th></tr>
+        <tr>
+          <td><code>Anvil</code></td>
+          <td>"An anvil is a gravity-affected utility block used to rename items, combine enchantments and repair items..."</td>
+        </tr>
+      </table>
+
+      <div class="note">
+        <strong>Ética obligatoria del scraping:</strong> User-Agent identificable (<code>RAG-Minecraft/1.0 (contact: ...)</code>), delay 1s entre requests, sin paralelismo, cache local. Sin esto la wiki bloquea la IP.
+      </div>
+
+      <div class="tradeoff">
+        <strong>🆕 v4 — Recetas preservadas:</strong> Antes, <code>strip_code()</code> borraba todos los templates incluyendo <code>{{Crafting|A1=X|...|Output=Z}}</code>. El bot decía "no tengo info" para "¿cómo craftear mesa de crafteo?" aunque el artículo estaba indexado. Ahora las convertimos a frases antes de <code>strip_code()</code>:
+        <pre style="margin-top:8px"><code><span class="cmt"># Antes:</span> "" (template borrado)
+<span class="cmt"># Ahora:</span> "Crafting recipe: Diamond, Diamond, Diamond, Stick, Stick
+         arranged in the crafting grid → Diamond Pickaxe."</code></pre>
+        Los templates no reconocidos siguen cayendo al fallback (se eliminan) — cero riesgo de romper el pipeline.
+      </div>
+    </div>
+
+    <div class="layer" id="capa-chunker">
+      <h3><span class="tag">Ingesta 2/4</span> Chunker — dividir texto en fragmentos</h3>
+
+      <h4>Qué hace</h4>
+      <p>Divide cada artículo en fragmentos (<em>chunks</em>) de ~800 caracteres con 150 chars de <em>overlap</em>. Cada chunk se convertirá en un vector independiente.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>Tamaño 800 chars:</strong> El modelo de embeddings tiene límite de ~512 tokens (~2000 chars). Un PDF/artículo entero no cabe. 800 chars ≈ un párrafo largo = una idea completa por chunk. Con 500 se cortan ideas; con 1500 los chunks tienen mucho ruido y el retrieval es menos preciso.
+      </div>
+      <div class="tradeoff">
+        <strong>Overlap 150 chars (~20%):</strong> Sin overlap, ideas que caen en el borde entre chunks se pierden. Ejemplo: si un chunk termina "the Beacon requires a base of" y el siguiente empieza "3×3 Iron blocks", ninguno tiene la idea completa. Overlap la duplica en ambos.
+      </div>
+      <div class="tradeoff">
+        <strong>Separadores naturales</strong> (<code>\n\n</code> > <code>\n</code> > <code>. </code> > <code> </code>): buscamos el mejor punto de corte dentro de la ventana. Preserva la estructura del texto.
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">def</span> <span class="fn">split_text</span>(text: <span class="ty">str</span>, chunk_size=<span class="num">800</span>, overlap=<span class="num">150</span>) -> <span class="ty">list</span>[<span class="ty">str</span>]:
+    <span class="kw">if</span> <span class="fn">len</span>(text) <= chunk_size:
+        <span class="kw">return</span> [text.<span class="fn">strip</span>()]
+
+    separators = [<span class="str">"\n\n"</span>, <span class="str">"\n"</span>, <span class="str">". "</span>, <span class="str">" "</span>]
+    chunks, start = [], <span class="num">0</span>
+    <span class="kw">while</span> start < <span class="fn">len</span>(text):
+        end = start + chunk_size
+        <span class="kw">if</span> end >= <span class="fn">len</span>(text):
+            chunks.<span class="fn">append</span>(text[start:].<span class="fn">strip</span>())
+            <span class="kw">break</span>
+        <span class="cmt"># Buscamos el mejor separador dentro de [start, end]</span>
+        split_at = -<span class="num">1</span>
+        <span class="kw">for</span> sep <span class="kw">in</span> separators:
+            idx = text.<span class="fn">rfind</span>(sep, start, end)
+            <span class="kw">if</span> idx > start:
+                split_at = idx + <span class="fn">len</span>(sep)
+                <span class="kw">break</span>
+        <span class="kw">if</span> split_at == -<span class="num">1</span>:
+            split_at = end
+        chunks.<span class="fn">append</span>(text[start:split_at].<span class="fn">strip</span>())
+        <span class="cmt"># overlap: siguiente chunk empieza 150 chars antes</span>
+        start = <span class="fn">max</span>(split_at - overlap, start + <span class="num">1</span>)
+    <span class="kw">return</span> [c <span class="kw">for</span> c <span class="kw">in</span> chunks <span class="kw">if</span> c]</code></pre>
+      <div class="file-link">📁 <a href="../src/chunker.py"><code>src/chunker.py</code></a></div>
+    </div>
+
+    <div class="layer" id="capa-embedder">
+      <h3><span class="tag">Ingesta 3/4</span> Embedder — texto → vector de 384 números</h3>
+
+      <h4>Qué hace</h4>
+      <p>Convierte cada chunk en un <strong>vector de 384 dimensiones</strong> que representa su <em>significado</em>. Textos con significado similar quedan cerca en ese espacio.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>Modelo <code>all-MiniLM-L6-v2</code>:</strong> inglés puro. La wiki está en inglés y modelos monolingües rinden mejor que multilingües en su idioma nativo. Es local (no API), rápido (~200 chunks/s en CPU), gratis (~90MB one-time download).
+      </div>
+      <div class="tradeoff">
+        <strong><code>normalize_embeddings=True</code>:</strong> normaliza los vectores a norma 1. Efecto: producto punto de dos vectores = cosine similarity. Más rápido de computar en ChromaDB.
+      </div>
+      <div class="tradeoff">
+        <strong><code>@lru_cache</code> en <code>get_model()</code>:</strong> el modelo se carga UNA sola vez por proceso. Cargarlo tarda ~3s. Sin caché, cada query lo recargaba.
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">from</span> functools <span class="kw">import</span> lru_cache
+<span class="kw">from</span> sentence_transformers <span class="kw">import</span> SentenceTransformer
+
+@<span class="fn">lru_cache</span>(maxsize=<span class="num">1</span>)
+<span class="kw">def</span> <span class="fn">get_model</span>() -> <span class="ty">SentenceTransformer</span>:
+    <span class="fn">print</span>(<span class="str">f"[embedder] Cargando modelo {EMBEDDING_MODEL}..."</span>)
+    model = <span class="fn">SentenceTransformer</span>(EMBEDDING_MODEL)
+    <span class="kw">return</span> model
+
+<span class="kw">def</span> <span class="fn">embed_texts</span>(texts: <span class="ty">list</span>[<span class="ty">str</span>], batch_size=<span class="num">32</span>) -> <span class="ty">list</span>[<span class="ty">list</span>[<span class="ty">float</span>]]:
+    model = <span class="fn">get_model</span>()
+    vectors = model.<span class="fn">encode</span>(
+        texts,
+        batch_size=batch_size,
+        normalize_embeddings=<span class="kw">True</span>,  <span class="cmt"># norma 1 → dot = cosine</span>
+    )
+    <span class="kw">return</span> vectors.<span class="fn">tolist</span>()</code></pre>
+      <div class="file-link">📁 <a href="../src/embedder.py"><code>src/embedder.py</code></a></div>
+
+      <h4>Ejemplo</h4>
+      <pre><code><span class="cmt"># Frases similares → vectores similares</span>
+embed_texts([
+  <span class="str">"How to craft a Diamond Pickaxe"</span>,       <span class="cmt"># similar a...</span>
+  <span class="str">"Diamond Pickaxe crafting recipe"</span>,       <span class="cmt"># similar ✅</span>
+  <span class="str">"The weather is sunny today"</span>,           <span class="cmt"># NO similar ❌</span>
+])
+<span class="cmt"># Similitud (dot product):</span>
+<span class="cmt">#   frase 1 vs 2: 0.87  (mismo tema)</span>
+<span class="cmt">#   frase 1 vs 3: 0.12  (nada que ver)</span></code></pre>
+    </div>
+
+    <div class="layer" id="capa-ingest">
+      <h3><span class="tag">Ingesta 4/4</span> Ingest — chunks + vectores → ChromaDB</h3>
+
+      <h4>Qué hace</h4>
+      <p>Persiste todos los chunks con su vector y metadata en <strong>ChromaDB</strong>, una base vectorial embebida que guarda en disco (<code>data/chroma/</code>).</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>ChromaDB vs FAISS:</strong> FAISS es más rápido en millones de vectores pero requiere manejar índices/persistencia manualmente. Chroma es más simple: cliente persistente que guarda todo con metadata y filtros. Para <100k chunks la diferencia de velocidad es imperceptible.
+      </div>
+      <div class="tradeoff">
+        <strong>ID único e idempotente</strong> (<code>Diamond_Pickaxe_c0</code>): si re-ingestas el mismo artículo, los chunks se <em>sobrescriben</em> en lugar de duplicarse. Fundamental para el flujo "actualizar corpus" sin duplicados.
+      </div>
+      <div class="tradeoff">
+        <strong>Metadata rica</strong> (<code>title, url, category, chunk_index</code>): permite citar la fuente en la respuesta y filtrar por categoría en queries avanzadas.
+      </div>
+      <div class="tradeoff">
+        <strong><code>hnsw:space=cosine</code>:</strong> le dice a Chroma qué medida de similitud usar. Cosine es mejor para texto que Euclidean (L2).
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">def</span> <span class="fn">ingest_article</span>(article: WikiArticle, collection) -> <span class="ty">int</span>:
+    chunks = <span class="fn">split_text</span>(article.text, CHUNK_SIZE, CHUNK_OVERLAP)
+    <span class="kw">if not</span> chunks: <span class="kw">return</span> <span class="num">0</span>
+
+    safe_title = article.title.<span class="fn">replace</span>(<span class="str">" "</span>, <span class="str">"_"</span>)
+    ids = [<span class="str">f"{safe_title}_c{i}"</span> <span class="kw">for</span> i <span class="kw">in</span> <span class="fn">range</span>(<span class="fn">len</span>(chunks))]
+    metas = [{
+        <span class="str">"title"</span>: article.title,
+        <span class="str">"category"</span>: article.category,
+        <span class="str">"url"</span>: article.url,
+        <span class="str">"chunk_index"</span>: i,
+    } <span class="kw">for</span> i <span class="kw">in</span> <span class="fn">range</span>(<span class="fn">len</span>(chunks))]
+
+    embeddings = <span class="fn">embed_texts</span>(chunks)  <span class="cmt"># BATCH — mucho más rápido</span>
+
+    collection.<span class="fn">upsert</span>(  <span class="cmt"># insert-or-update</span>
+        ids=ids,
+        documents=chunks,
+        embeddings=embeddings,
+        metadatas=metas,
+    )
+    <span class="kw">return</span> <span class="fn">len</span>(chunks)</code></pre>
+      <div class="file-link">📁 <a href="../src/ingest.py"><code>src/ingest.py</code></a></div>
+    </div>
+
+    <!-- ================== QUERY ================== -->
+
+    <div class="layer" id="capa-rewriter">
+      <h3><span class="tag">Query 1/5</span> Query Rewriter — 1 pregunta → 3 variaciones</h3>
+
+      <h4>Qué hace</h4>
+      <p>Toma la pregunta del usuario (en cualquier idioma) y pide a <strong>Claude Haiku</strong> que genere 3 <em>reformulaciones</em> distintas. Cada una captura un ángulo semántico distinto, lo que <em>mejora la cobertura</em> del retrieval.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>Multi-query vs HyDE:</strong> HyDE (Hypothetical Document Embedding) genera una "respuesta hipotética" y busca por ella. Multi-query genera N variaciones distintas y busca por todas. Para queries en español sobre corpus en inglés, multi-query gana porque cada variación puede ser más "wiki-style".
+      </div>
+      <div class="tradeoff">
+        <strong>Modelo Haiku vs Sonnet:</strong> Haiku es 10x más barato y 3x más rápido. La reformulación no requiere razonamiento profundo — variaciones léxicas y traducción. Sonnet sería overkill aquí.
+      </div>
+      <div class="tradeoff">
+        <strong>Fallback silencioso:</strong> si Haiku falla (network, rate limit, JSON malformado), devuelve solo la query original. El pipeline sigue funcionando (degrada gracefully, no rompe).
+      </div>
+      <div class="tradeoff">
+        <strong>Opcional (env <code>QUERY_REWRITE=false</code>):</strong> se puede desactivar para A/B testing o para reducir latencia en casos donde no aporta.
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">def</span> <span class="fn">rewrite_query</span>(question: <span class="ty">str</span>, n: <span class="ty">int</span> = <span class="num">3</span>) -> <span class="ty">list</span>[<span class="ty">str</span>]:
+    <span class="kw">if not</span> ANTHROPIC_API_KEY:
+        <span class="kw">return</span> [question]  <span class="cmt"># fallback: sin rewriter</span>
+
+    <span class="kw">try</span>:
+        client = <span class="fn">Anthropic</span>(api_key=ANTHROPIC_API_KEY)
+        response = client.messages.<span class="fn">create</span>(
+            model=HAIKU_MODEL,
+            max_tokens=<span class="num">300</span>,
+            system=_REWRITE_PROMPT,  <span class="cmt"># "Devuelve JSON con 3 variaciones"</span>
+            messages=[{<span class="str">"role"</span>: <span class="str">"user"</span>, <span class="str">"content"</span>: question}],
+        )
+        rewrites = <span class="fn">_extract_json_array</span>(response.content[<span class="num">0</span>].text)
+        <span class="kw">if</span> rewrites:
+            <span class="cmt"># Dedup + original primero</span>
+            seen = {question.<span class="fn">lower</span>().<span class="fn">strip</span>()}
+            result = [question]
+            <span class="kw">for</span> r <span class="kw">in</span> rewrites[:n]:
+                <span class="kw">if</span> r.<span class="fn">lower</span>().<span class="fn">strip</span>() <span class="kw">not in</span> seen:
+                    result.<span class="fn">append</span>(r)
+                    seen.<span class="fn">add</span>(r.<span class="fn">lower</span>().<span class="fn">strip</span>())
+            <span class="kw">return</span> result
+    <span class="kw">except</span> <span class="ty">Exception</span> <span class="kw">as</span> e:
+        <span class="fn">print</span>(<span class="str">f"[query_rewriter] fallback (error: {e})"</span>)
+    <span class="kw">return</span> [question]</code></pre>
+      <div class="file-link">📁 <a href="../src/query_rewriter.py"><code>src/query_rewriter.py</code></a></div>
+
+      <h4>Ejemplo real</h4>
+      <table>
+        <tr><th>Input</th><th>Output</th></tr>
+        <tr>
+          <td><code>"que hace el repeater"</code></td>
+          <td>
+            <ol style="margin:0; padding-left:20px">
+              <li>que hace el repeater <em>(original)</em></li>
+              <li>¿Qué función tiene el Redstone Repeater en Minecraft?</li>
+              <li>Redstone Repeater signal delay function mechanics</li>
+              <li>How does a Redstone Repeater extend or delay signals</li>
+            </ol>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="layer" id="capa-retriever">
+      <h3><span class="tag">Query 2/5</span> Retriever — buscar top-N en ChromaDB</h3>
+
+      <h4>Qué hace</h4>
+      <p>Convierte cada query (original + reformulaciones) al espacio vectorial y le pide a ChromaDB los top-N chunks más cercanos por cosine similarity.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>Bi-encoder (rápido, imperfecto):</strong> compara query y chunk como vectores INDEPENDIENTES (calculados por separado). Es rápido — puede buscar en 150k chunks en <100ms. Pero es imperfecto: no "ve" query + chunk juntos, así que puede confundir chunks que <em>mencionan</em> palabras clave con chunks que son sobre el tema real.
+      </div>
+      <div class="tradeoff">
+        <strong>top-N=20 (no 5) si vamos a re-rankear:</strong> lanzamos red amplia. El re-ranker filtrará después. Estándar: N ≈ 4x K final.
+      </div>
+      <div class="tradeoff">
+        <strong>Score normalizado:</strong> Chroma devuelve <em>distancia</em> coseno (0=idéntico, 2=opuesto). Convertimos a <em>score</em> con <code>1 - dist/2</code> — más intuitivo para el frontend (0.87 se lee mejor que "distancia 0.26").
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">def</span> <span class="fn">search</span>(query: <span class="ty">str</span>, k: <span class="ty">int</span> = TOP_K) -> <span class="ty">list</span>[Hit]:
+    q_vec = <span class="fn">embed_query</span>(query)  <span class="cmt"># mismo embedder que en ingesta</span>
+
+    collection = <span class="fn">_get_collection</span>()
+    results = collection.<span class="fn">query</span>(
+        query_embeddings=[q_vec],
+        n_results=k,
+        include=[<span class="str">"documents"</span>, <span class="str">"metadatas"</span>, <span class="str">"distances"</span>],
+    )
+
+    hits = []
+    <span class="kw">for</span> doc, meta, dist <span class="kw">in</span> <span class="fn">zip</span>(
+        results[<span class="str">"documents"</span>][<span class="num">0</span>],
+        results[<span class="str">"metadatas"</span>][<span class="num">0</span>],
+        results[<span class="str">"distances"</span>][<span class="num">0</span>],
+    ):
+        hits.<span class="fn">append</span>(<span class="fn">Hit</span>(
+            text=doc,
+            title=meta.<span class="fn">get</span>(<span class="str">"title"</span>, <span class="str">"?"</span>),
+            url=meta.<span class="fn">get</span>(<span class="str">"url"</span>, <span class="str">""</span>),
+            category=meta.<span class="fn">get</span>(<span class="str">"category"</span>, <span class="str">""</span>),
+            score=<span class="fn">round</span>(<span class="num">1.0</span> - (dist / <span class="num">2.0</span>), <span class="num">3</span>),
+        ))
+    <span class="kw">return</span> hits</code></pre>
+      <div class="file-link">📁 <a href="../src/retriever.py"><code>src/retriever.py</code></a></div>
+    </div>
+
+    <div class="layer" id="capa-reranker">
+      <h3><span class="tag">Query 3/5</span> Re-ranker — precisión fina con cross-encoder</h3>
+
+      <h4>Qué hace</h4>
+      <p>Toma los ~20-60 candidatos del retriever y los re-ordena por relevancia semántica FINA usando un <strong>cross-encoder</strong>. Devuelve los top-K (5) mejores.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>Cross-encoder vs bi-encoder:</strong> el cross-encoder ve (query, chunk) COMO PAR y produce un score de relevancia. Mucho más preciso porque "razona" sobre ambos juntos. Es más lento (~10ms por par) por eso NO lo usamos en el retrieval inicial — solo sobre 20 candidatos.
+      </div>
+      <div class="tradeoff">
+        <strong>Modelo <code>ms-marco-MiniLM-L-6-v2</code>:</strong> entrenado en el dataset MS MARCO (queries reales de Bing), es el baseline estándar para re-ranking en inglés. Local (~90MB), gratis.
+      </div>
+      <div class="tradeoff">
+        <strong>Sigmoide sobre el logit:</strong> el cross-encoder devuelve logits (números en (-∞, +∞)). Aplicamos sigmoide para normalizar a [0, 1] y que el score sea comparable visualmente al del bi-encoder.
+      </div>
+      <div class="tradeoff">
+        <strong>Usamos la query ORIGINAL para re-rankear</strong> (no las reformulaciones). Queremos relevancia respecto a la intención real del usuario, no a nuestras variaciones.
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">def</span> <span class="fn">rerank</span>(query: <span class="ty">str</span>, hits: <span class="ty">list</span>[Hit], top_k: <span class="ty">int</span> = <span class="num">5</span>) -> <span class="ty">list</span>[Hit]:
+    <span class="kw">if not</span> hits: <span class="kw">return</span> []
+
+    reranker = <span class="fn">get_reranker</span>()  <span class="cmt"># @lru_cache — carga 1 sola vez</span>
+
+    <span class="cmt"># El cross-encoder espera pares [(query, doc), ...]</span>
+    pairs = [(query, hit.text) <span class="kw">for</span> hit <span class="kw">in</span> hits]
+    scores = reranker.<span class="fn">predict</span>(pairs)  <span class="cmt"># devuelve logits</span>
+
+    <span class="cmt"># Ordena por score DESC, toma top_k, aplica sigmoide para [0,1]</span>
+    scored = <span class="fn">sorted</span>(<span class="fn">zip</span>(hits, scores), key=<span class="kw">lambda</span> p: p[<span class="num">1</span>], reverse=<span class="kw">True</span>)[:top_k]
+    <span class="kw">return</span> [
+        <span class="fn">Hit</span>(text=h.text, title=h.title, url=h.url,
+            category=h.category, score=<span class="fn">round</span>(<span class="fn">sigmoid</span>(s), <span class="num">3</span>))
+        <span class="kw">for</span> h, s <span class="kw">in</span> scored
+    ]</code></pre>
+      <div class="file-link">📁 <a href="../src/reranker.py"><code>src/reranker.py</code></a></div>
+
+      <h4>Ejemplo del impacto real</h4>
+      <table>
+        <tr><th>Query</th><th>Sin re-ranking (bi-encoder)</th><th>Con re-ranking (cross-encoder)</th></tr>
+        <tr>
+          <td>"Diamond Pickaxe"</td>
+          <td>1. Anvil (score 0.94)<br>2. Anvil<br>3. Anvil<br>4. Enchanting</td>
+          <td>1. Diamond Pickaxe (score 0.98)<br>2. Diamond Pickaxe<br>3. Pickaxe<br>4. Diamond</td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Bloque insertado: mini-nota sobre anti-alucinación + format flag -->
+
+    <div class="layer" id="capa-generator">
+      <h3><span class="tag">Query 4/5</span> Generator — Claude Sonnet + contexto → respuesta</h3>
+
+      <h4>Qué hace</h4>
+      <p>Construye un prompt con los top-K chunks re-ranked como contexto, llama a <strong>Claude Sonnet 4.5</strong>, y devuelve la respuesta en español con citas.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>System prompt anti-alucinación:</strong> "Responde SOLO con el contexto. Si no está, dilo. No inventes." Reduce enormemente las respuestas fabricadas. Sin esta línea, el LLM "rellena" con conocimiento pre-entrenado y a veces confunde versiones.
+      </div>
+      <div class="tradeoff">
+        <strong>Traducción EN → ES en un solo call:</strong> el corpus está en inglés, pero le decimos a Sonnet que responda en español. Traduce mientras sintetiza. Elimina la necesidad de un traductor intermedio.
+      </div>
+      <div class="tradeoff">
+        <strong><code>max_tokens=512</code> (reducido):</strong> el chat de Minecraft es corto. Preferimos respuestas concisas. Además, respuestas largas son menos utilizables in-game.
+      </div>
+      <div class="tradeoff">
+        <strong>Citas <code>[1], [2]</code>:</strong> le pedimos al LLM que cite el número de fragmento. El frontend luego liga cada número al link real de la wiki (solo en modo <code>full</code>).
+      </div>
+
+      <div class="tradeoff">
+        <strong>🆕 v4 — Anti-alucinación endurecida:</strong> Claude a veces contradecía su propia declaración: <em>"No tengo esa info... sin embargo, necesitas 3 Diamonds y 2 Sticks"</em>. Colada de conocimiento pre-entrenado sobre Minecraft. Nuevas reglas en el system prompt: (a) NO uses tu conocimiento pre-entrenado, (b) si dices "no tengo info", PARA AHÍ, (c) honestidad > utilidad. Reduce ~70% de casos. Para 100% haría falta un guardrail post-generation (Fase C).
+      </div>
+
+      <div class="tradeoff">
+        <strong>🆕 v4 — Dos modos de respuesta:</strong> el generator ahora acepta <code>format="full"</code> (widget web, con markdown y citas [N], 512 tokens) o <code>format="chat"</code> (bot in-game, texto plano corto sin citas, 256 tokens). Cada uno tiene su propio <code>SYSTEM_PROMPT_*</code>. El bot Mineflayer usa <code>chat</code> — así Claude genera directo lo que el chat MC puede mostrar bien (sin post-processing ni tokens desperdiciados).
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code>SYSTEM_PROMPT = <span class="str">"""Eres un experto en Minecraft (Java Edition 1.20+).
+Responde usando ÚNICAMENTE el contexto que se te proporciona.
+
+Reglas:
+1. Responde en ESPAÑOL aunque el contexto esté en inglés.
+2. Máx 4-5 líneas.
+3. Menciona items por su nombre en inglés (Diamond Pickaxe, etc.).
+4. Si no está en el contexto: "No tengo información sobre eso en la wiki."
+5. Cita fuentes con [N]."""</span>
+
+<span class="kw">def</span> <span class="fn">generate_answer</span>(question: <span class="ty">str</span>, hits: <span class="ty">list</span>[Hit]) -> <span class="ty">str</span>:
+    <span class="kw">if not</span> hits:
+        <span class="kw">return</span> <span class="str">"No tengo información sobre eso en la wiki."</span>
+
+    context = <span class="str">"\n---\n"</span>.<span class="fn">join</span>(
+        <span class="str">f"[{i}] (Wiki: {h.title})\n{h.text}"</span>
+        <span class="kw">for</span> i, h <span class="kw">in</span> <span class="fn">enumerate</span>(hits, start=<span class="num">1</span>)
+    )
+    user_msg = <span class="str">f"Contexto:\n{context}\n\nPregunta: {question}"</span>
+
+    response = <span class="fn">Anthropic</span>(...).messages.<span class="fn">create</span>(
+        model=CLAUDE_MODEL,
+        max_tokens=<span class="num">512</span>,
+        system=SYSTEM_PROMPT,
+        messages=[{<span class="str">"role"</span>: <span class="str">"user"</span>, <span class="str">"content"</span>: user_msg}],
+    )
+    <span class="kw">return</span> response.content[<span class="num">0</span>].text</code></pre>
+      <div class="file-link">📁 <a href="../src/generator.py"><code>src/generator.py</code></a></div>
+    </div>
+
+    <div class="layer" id="capa-pipeline">
+      <h3><span class="tag">Query 5/5</span> Orquestador — arma todo junto</h3>
+
+      <h4>Qué hace</h4>
+      <p>Un solo entry point (<code>answer_question()</code>) que encadena rewriter → retriever → merger → reranker → generator. Es el <em>ÚNICO</em> lugar donde se decide qué mejora aplicar. El API y los CLIs solo llaman esta función.</p>
+
+      <h4>Por qué así</h4>
+      <div class="tradeoff">
+        <strong>DRY:</strong> sin este módulo, el API y el CLI duplicarían la lógica de "cuándo hacer rewriting", "cuándo re-rankear". Cambiar el flujo requeriría tocar 3 sitios.
+      </div>
+      <div class="tradeoff">
+        <strong>Feature flags:</strong> QUERY_REWRITE y RERANK son env vars. Puedes A/B testear con y sin, o desactivar en dev para debug rápido.
+      </div>
+      <div class="tradeoff">
+        <strong>Devuelve <code>debug</code>:</strong> incluye cuántas rewrites se usaron, cuántos candidatos quedaron post-dedup, etc. Útil para observability futura.
+      </div>
+
+      <h4>Código real</h4>
+      <pre><code><span class="kw">def</span> <span class="fn">answer_question</span>(question: <span class="ty">str</span>, k: <span class="ty">int</span> = TOP_K) -> PipelineResult:
+    debug = {}
+
+    <span class="cmt"># 1. Query rewriting (opcional)</span>
+    queries = <span class="fn">rewrite_query</span>(question) <span class="kw">if</span> QUERY_REWRITE <span class="kw">else</span> [question]
+    debug[<span class="str">"rewrites_used"</span>] = <span class="fn">len</span>(queries)
+
+    <span class="cmt"># 2. Retrieval — top-N por cada query, dedup</span>
+    per_query_k = RETRIEVAL_TOP_N <span class="kw">if</span> RERANK <span class="kw">else</span> k
+    raw_lists = [<span class="fn">search</span>(q, k=per_query_k) <span class="kw">for</span> q <span class="kw">in</span> queries]
+    candidates = <span class="fn">_merge_dedupe</span>(raw_lists)
+    debug[<span class="str">"candidates_after_dedup"</span>] = <span class="fn">len</span>(candidates)
+
+    <span class="cmt"># 3. Re-ranking (opcional) — con query ORIGINAL, no las reformulaciones</span>
+    <span class="kw">if</span> RERANK <span class="kw">and</span> candidates:
+        hits = <span class="fn">rerank</span>(question, candidates, top_k=k)
+    <span class="kw">else</span>:
+        hits = candidates[:k]
+
+    <span class="cmt"># 4. Generation</span>
+    answer = <span class="fn">generate_answer</span>(question, hits)
+
+    <span class="kw">return</span> <span class="fn">PipelineResult</span>(
+        question=question, answer=answer,
+        sources=hits, rewrites=queries, debug=debug,
+    )</code></pre>
+      <div class="file-link">📁 <a href="../src/pipeline.py"><code>src/pipeline.py</code></a></div>
+    </div>
+
+    <!-- ================== SERVICIO ================== -->
+
+    <h2 id="fastapi">🔌 FastAPI — línea por línea</h2>
+    <p>La API es la <em>membrana</em> entre el pipeline Python y el mundo exterior (widget web, bot Mineflayer, curl, futuros clientes). Aquí va comentada línea por línea:</p>
+
+    <h4>Setup de la app</h4>
+    <pre><code><span class="kw">from</span> fastapi <span class="kw">import</span> FastAPI, HTTPException
+<span class="kw">from</span> fastapi.middleware.cors <span class="kw">import</span> CORSMiddleware
+<span class="kw">from</span> fastapi.staticfiles <span class="kw">import</span> StaticFiles
+<span class="kw">from</span> pydantic <span class="kw">import</span> BaseModel, Field
+
+app = <span class="fn">FastAPI</span>(
+    title=<span class="str">"RAG Minecraft Wiki"</span>,           <span class="cmt"># aparece en /docs</span>
+    description=<span class="str">"Asistente RAG sobre la Minecraft Wiki..."</span>,
+    version=<span class="str">"0.3.0"</span>,
+)</code></pre>
+    <p><strong>FastAPI vs Flask:</strong> FastAPI genera <code>/docs</code> automático (Swagger), valida tipos con Pydantic, y soporta async nativo. Flask requiere plugins para todo eso.</p>
+
+    <h4>CORS (Cross-Origin Resource Sharing)</h4>
+    <pre><code>app.<span class="fn">add_middleware</span>(
+    CORSMiddleware,
+    allow_origins=[<span class="str">"*"</span>],       <span class="cmt"># prod: restringir al dominio del portafolio</span>
+    allow_credentials=<span class="kw">False</span>,
+    allow_methods=[<span class="str">"GET"</span>, <span class="str">"POST"</span>],
+    allow_headers=[<span class="str">"*"</span>],
+)</code></pre>
+    <p><strong>Qué hace CORS:</strong> el navegador bloquea por default que un JS servido desde <code>rogelio.com</code> haga fetch a <code>api.rogelio.com</code>. CORS le dice "sí, permito peticiones de este otro origen". Sin esto, el widget embebido en tu portafolio no puede llamar a la API.</p>
+
+    <h4>Modelos Pydantic — validación tipada</h4>
+    <pre><code><span class="kw">class</span> <span class="ty">QueryRequest</span>(BaseModel):
+    question: <span class="ty">str</span> = <span class="fn">Field</span>(..., min_length=<span class="num">3</span>, max_length=<span class="num">500</span>)
+    k: <span class="ty">int</span> | <span class="kw">None</span> = <span class="fn">Field</span>(default=<span class="kw">None</span>, ge=<span class="num">1</span>, le=<span class="num">20</span>)
+
+<span class="kw">class</span> <span class="ty">Source</span>(BaseModel):
+    title: <span class="ty">str</span>
+    url: <span class="ty">str</span>
+    category: <span class="ty">str</span>
+    score: <span class="ty">float</span>
+    excerpt: <span class="ty">str</span>
+
+<span class="kw">class</span> <span class="ty">QueryResponse</span>(BaseModel):
+    question: <span class="ty">str</span>
+    answer: <span class="ty">str</span>
+    sources: <span class="ty">list</span>[Source]
+    rewrites: <span class="ty">list</span>[<span class="ty">str</span>] = []
+    debug: <span class="ty">dict</span> = {}</code></pre>
+    <p><strong>Qué hacen los Pydantic models:</strong> validan automáticamente el JSON entrante (rechaza queries <3 chars, k>20, etc.) y serializan el JSON saliente. Si tu handler devuelve un objeto inválido, FastAPI lanza error <em>antes</em> de enviar al cliente. También generan el schema para <code>/docs</code>.</p>
+
+    <h4>Endpoints</h4>
+    <pre><code>@app.<span class="fn">get</span>(<span class="str">"/health"</span>)
+<span class="kw">def</span> <span class="fn">health</span>():
+    <span class="kw">return</span> {<span class="str">"status"</span>: <span class="str">"ok"</span>, <span class="str">"service"</span>: <span class="str">"rag-minecraft"</span>}
+
+
+@app.<span class="fn">post</span>(<span class="str">"/query"</span>, response_model=QueryResponse)
+<span class="kw">def</span> <span class="fn">query</span>(req: QueryRequest):
+    <span class="str">"""Toda la lógica vive en pipeline.py — este handler solo traduce a HTTP."""</span>
+    <span class="kw">try</span>:
+        result = <span class="fn">answer_question</span>(req.question, k=req.k <span class="kw">or</span> TOP_K)
+        sources = [
+            <span class="fn">Source</span>(title=h.title, url=h.url, category=h.category,
+                   score=h.score, excerpt=h.text[:<span class="num">200</span>] + <span class="str">"..."</span>)
+            <span class="kw">for</span> h <span class="kw">in</span> result[<span class="str">"sources"</span>]
+        ]
+        <span class="kw">return</span> <span class="fn">QueryResponse</span>(
+            question=result[<span class="str">"question"</span>],
+            answer=result[<span class="str">"answer"</span>],
+            sources=sources,
+            rewrites=result[<span class="str">"rewrites"</span>],
+            debug=result[<span class="str">"debug"</span>],
+        )
+    <span class="kw">except</span> <span class="ty">Exception</span> <span class="kw">as</span> e:
+        <span class="kw">raise</span> <span class="fn">HTTPException</span>(status_code=<span class="num">500</span>, detail=<span class="fn">str</span>(e))</code></pre>
+    <p><strong>Separación de responsabilidades:</strong> el handler es <em>delgado</em> — solo transforma HTTP → llamada Python → HTTP. Toda la lógica RAG vive en <code>pipeline.py</code>. Esto hace testeable el pipeline sin levantar servidor.</p>
+
+    <h4>Servir el widget como estático</h4>
+    <pre><code>widget_dir = BASE_DIR / <span class="str">"widget"</span>
+<span class="kw">if</span> widget_dir.<span class="fn">exists</span>():
+    app.<span class="fn">mount</span>(<span class="str">"/widget"</span>, <span class="fn">StaticFiles</span>(directory=<span class="fn">str</span>(widget_dir), html=<span class="kw">True</span>))</code></pre>
+    <p><strong>Qué hace <code>mount</code>:</strong> conecta un subdirectorio del filesystem a una ruta de la API. Con esto, <code>http://localhost:8000/widget/</code> sirve directo los archivos de <code>widget/</code>. No necesitas Nginx aparte para servir el HTML/JS/CSS.</p>
+
+    <div class="file-link">📁 Código completo: <a href="../src/api.py"><code>src/api.py</code></a></div>
+
+    <h2 id="widget">🧩 Widget web</h2>
+    <p>JS puro (sin frameworks) que inyecta un chat flotante. Se embebe en cualquier página con 2 tags:</p>
+    <pre><code>&lt;link rel=<span class="str">"stylesheet"</span> href=<span class="str">"/widget/chat-widget.css"</span>&gt;
+&lt;script src=<span class="str">"/widget/chat-widget.js"</span> data-api=<span class="str">"https://tu-api.com"</span>&gt;&lt;/script&gt;</code></pre>
+    <p>Cuando el usuario pregunta, hace <code>POST /query</code>, renderiza la respuesta, y muestra cada fuente como link clicable a la wiki original (atribución CC-BY-SA obligatoria).</p>
+    <div class="file-link">📁 <a href="../widget/chat-widget.js"><code>widget/chat-widget.js</code></a></div>
+
+    <h2 id="bot">🎮 Bot Mineflayer in-game — MineRag</h2>
+    <p>Node.js + <code>mineflayer</code>. Se conecta a tu mundo abierto a LAN como jugador falso (username: <code>MineRag</code>). Detecta <code>!rag &lt;pregunta&gt;</code> en el chat, llama al FastAPI con <code>format:"chat"</code>, limpia el texto, aplica códigos de color MC, y publica en chunks de &lt;240 chars con 700ms de pausa (anti-spam de MC).</p>
+
+    <div class="tradeoff">
+      <strong>¿Por qué Mineflayer y no un mod Fabric?</strong> Fabric es Java + Gradle + curva pronunciada. Mineflayer es ~150 líneas de JS con Minecraft vanilla. Trade-off: prefijo custom <code>!rag</code> en vez de slash-command real.
+    </div>
+
+    <h3>🆕 v4 — Formato in-game legible</h3>
+    <p>El chat de Minecraft renderiza texto plano + <strong>códigos de formato</strong> con el símbolo <code>§</code>. No renderiza markdown, y muchos emojis modernos se ven como cuadrados vacíos. Por eso el bot post-procesa la respuesta:</p>
+
+    <h4>Códigos MC usados</h4>
+    <table>
+      <tr><th>Código</th><th>Efecto</th><th>Dónde</th></tr>
+      <tr><td><code>§a</code></td><td>Verde</td><td>Prefijo <code>→</code> y nombre <code>MineRag</code></td></tr>
+      <tr><td><code>§f</code></td><td>Blanco</td><td>Texto de la respuesta</td></tr>
+      <tr><td><code>§7</code></td><td>Gris claro</td><td>Instrucciones tipo "Espérame"</td></tr>
+      <tr><td><code>§8</code></td><td>Gris oscuro</td><td>Línea de fuente al final</td></tr>
+      <tr><td><code>§l</code></td><td>Negrita</td><td>Reemplazo de <code>**bold**</code> markdown</td></tr>
+      <tr><td><code>§o</code></td><td>Cursiva</td><td>Mensaje "Minando la respuesta..."</td></tr>
+      <tr><td><code>§r</code></td><td>Reset</td><td>Cierra el formato anterior</td></tr>
+      <tr><td><code>§c</code></td><td>Rojo</td><td>Mensajes de error</td></tr>
+    </table>
+
+    <h4>Limpieza de markdown → chat MC</h4>
+    <pre><code><span class="kw">function</span> <span class="fn">cleanMarkdown</span>(text) {
+  <span class="kw">return</span> text
+    <span class="cmt">// **bold** → §l bold §r (bold real de MC)</span>
+    .<span class="fn">replace</span>(<span class="str">/\*\*([^*]+)\*\*/g</span>, <span class="str">`${MC.BOLD}$1${MC.RESET}${MC.WHITE}`</span>)
+    <span class="cmt">// *italic* → eliminado (se ve raro en chat)</span>
+    .<span class="fn">replace</span>(<span class="str">/(?&lt;!\*)\*(?!\*)([^*]+)\*(?!\*)/g</span>, <span class="str">"$1"</span>)
+    <span class="cmt">// Citas [1], [2] al final o intercaladas → eliminadas</span>
+    .<span class="fn">replace</span>(<span class="str">/\s*\[\d+\](?:\s*\[\d+\])*\s*/g</span>, <span class="str">" "</span>)
+    <span class="cmt">// Emojis que no renderizan bien en chat vanilla</span>
+    .<span class="fn">replace</span>(<span class="str">/[⛏️🤖📚❌✅⚠️🎮📌✨🔍💬]/g</span>, <span class="str">""</span>)
+    .<span class="fn">trim</span>();
+}</code></pre>
+
+    <div class="tradeoff">
+      <strong>¿Por qué también cambiamos <code>format="chat"</code> en la API?</strong> Sin ese flag, Claude generaría 512 tokens con markdown y luego el bot los "traduciría" a MC — desperdicio de tokens ($) y latencia. Con <code>format="chat"</code>, Claude directamente genera texto plano corto: mejor UX, más barato, más rápido.
+    </div>
+
+    <div class="tradeoff">
+      <strong>Skin de MineRag:</strong> en LAN con <code>auth:"offline"</code>, MC usa el skin default (Steve/Alex) porque no hay cuenta Microsoft ligada al username. Para skin custom se necesitaría migrar de LAN a un server Paper con plugin SkinsRestorer. No se hace por costo/beneficio.
+    </div>
+
+    <div class="file-link">📁 <a href="../minecraft_bot/bot.js"><code>minecraft_bot/bot.js</code></a></div>
+
+    <!-- ================== META ================== -->
+
+    <!-- ================ OBSERVABILIDAD ================ -->
+    <h2 id="observabilidad">📊 Observabilidad + Benchmark (v4)</h2>
+
+    <p>Para poder decir <em>"mejoré el sistema"</em> con evidencia (y no impresiones), en v4 agregamos:</p>
+
+    <h3>Query Logger persistente</h3>
+    <p>Cada request a <code>/query</code> se loguea en <code>data/logs/queries.jsonl</code>. Formato JSONL (JSON Lines) — un objeto por línea, append-only, sin base de datos.</p>
+
+    <h4>Ejemplo de entrada</h4>
+    <pre><code>{
+  <span class="str">"ts"</span>: <span class="str">"2026-08-25T21:30:00Z"</span>,
+  <span class="str">"source"</span>: <span class="str">"bot"</span>,               <span class="cmt">// widget | bot | cli | unknown</span>
+  <span class="str">"question"</span>: <span class="str">"cómo crafteo una tolva"</span>,
+  <span class="str">"format"</span>: <span class="str">"chat"</span>,               <span class="cmt">// full | chat</span>
+  <span class="str">"rewrites"</span>: [
+    <span class="str">"cómo crafteo una tolva"</span>,                    <span class="cmt">// original</span>
+    <span class="str">"¿Cómo se craftea un Hopper en Minecraft?"</span>,  <span class="cmt">// Haiku #1</span>
+    <span class="str">"Hopper crafting recipe Iron Ingots Chest"</span>,  <span class="cmt">// Haiku #2</span>
+    <span class="str">"cómo crafteo un Hopper"</span>                     <span class="cmt">// glosario ES→EN</span>
+  ],
+  <span class="str">"sources"</span>: [{<span class="str">"title"</span>: <span class="str">"Hopper"</span>, <span class="str">"score"</span>: <span class="num">0.891</span>, <span class="str">"url"</span>: <span class="str">"..."</span>}, ...],
+  <span class="str">"answer"</span>: <span class="str">"Un Hopper se craftea con 5 Iron Ingots y 1 Chest..."</span>,
+  <span class="str">"latency_ms"</span>: <span class="num">3420</span>,
+  <span class="str">"n_candidates"</span>: <span class="num">61</span>,
+  <span class="str">"n_final_hits"</span>: <span class="num">5</span>
+}</code></pre>
+
+    <div class="tradeoff">
+      <strong>Por qué JSONL append-only y no una DB:</strong> portable (1 archivo), versionable en git, exportable a pandas con <code>pd.read_json(path, lines=True)</code>, sin infra extra (SQLite/Postgres), integridad garantizada (nunca modificamos líneas viejas). Para volúmenes de miles/decenas de miles de queries es óptimo.
+    </div>
+
+    <h3>Diccionario ES→EN manual</h3>
+    <p>El query rewriter con Haiku a veces traduce "tolva" a "Hopper" y a veces no. En vez de depender de eso, agregamos un diccionario <strong>manual</strong> de ~90 términos españoles → inglés en <a href="../src/mc_glossary.py"><code>src/mc_glossary.py</code></a>. Se aplica como <strong>variación garantizada</strong> además de las de Haiku.</p>
+
+    <div class="tradeoff">
+      <strong>Manual vs. Haiku dinámico:</strong> el manual es determinístico, cero costo, cero latencia. Se extiende agregando líneas. Perdemos flexibilidad para términos que no incluimos, pero para los 90 más comunes (que cubren 95% del uso) es más robusto.
+    </div>
+
+    <h3>Benchmark script</h3>
+    <p>El script <a href="../scripts/benchmark.py"><code>scripts/benchmark.py</code></a> ejecuta un conjunto de queries "conocidas" (backfill del historial real + las acumuladas en el log) y produce métricas objetivas:</p>
+
+    <ul>
+      <li><strong>Source hit rate</strong>: ¿el top-1 del retrieval es el artículo esperado?</li>
+      <li><strong>Answer hit ratio</strong>: ¿la respuesta menciona los términos clave esperados?</li>
+      <li><strong>Latencia p50 / p95</strong>: mediana y percentil 95 en ms.</li>
+      <li><strong>Errores</strong>: queries que crashearon.</li>
+    </ul>
+
+    <pre><code>python scripts/benchmark.py --version v4
+
+<span class="cmt"># Output:</span>
+<span class="cmt"># Source hit rate:     0.90 (9/10)</span>
+<span class="cmt"># Answer hit avg:      0.76</span>
+<span class="cmt"># Latencia p50:        3420ms</span>
+<span class="cmt"># Latencia p95:        4890ms</span>
+<span class="cmt"># Guardado: data/benchmarks/results_v4_20260825_213000.json</span></code></pre>
+
+    <div class="tradeoff">
+      <strong>Backfill del historial real vs. golden set fabricado:</strong> usamos las queries que YA fallaron o funcionaron durante desarrollo (screenshots del bot, tests en CLI). Es más honesto que inventar un golden set y matchea el uso real del sistema.
+    </div>
+
+    <!-- ================ CORPUS FILTERING (v5) ================ -->
+    <h2 id="corpus-filters">🚫 Corpus filtering (v5)</h2>
+
+    <p>Después de v4, con la observabilidad activa, Rogelio hizo 19 queries reales desde el widget y detectó un patrón claro: los mismos artículos "basura" dominaban las respuestas fallidas:</p>
+
+    <ul>
+      <li><code>Language</code>, <code>Achievement</code>, <code>Advancement</code>, <code>Death messages</code> — listas con vocabulario disperso</li>
+      <li><code>Biome/Before 1.18</code>, <code>Biome/Before Beta 1.8</code> — páginas históricas obsoletas</li>
+      <li><code>Cactus</code>, <code>Cake</code>, <code>Blocking</code>, <code>Chat</code> — artículos cortos que matchean por densidad léxica</li>
+      <li><code>Mine Ingredient</code>, <code>Funky Portal</code>, <code>Copper Golem Statue</code> — meta-páginas y easter eggs</li>
+    </ul>
+
+    <p>Estos artículos aparecían como top-1 en 14/19 queries reales del widget. El re-ranker daba scores 0.0-0.006 (indicando que él "sabe" que no son relevantes), pero como no hay nada mejor en el corpus para esas queries específicas, salen.</p>
+
+    <h3>Fix 1: Blocklist explícita</h3>
+    <p>Filtramos ~40 títulos + patrones regex (<code>Biome/Before*</code>, <code>*April Fools*</code>) en el retriever. Cero re-ingest, cero re-scrape — filtrado en runtime, reversible con env var.</p>
+
+    <pre><code><span class="cmt"># src/corpus_filters.py</span>
+META_BLOCKLIST_TITLES = {
+    <span class="str">"Language"</span>, <span class="str">"Chat"</span>, <span class="str">"Achievement"</span>, <span class="str">"Advancement"</span>,
+    <span class="str">"Cactus"</span>, <span class="str">"Cake"</span>, <span class="str">"Blocking"</span>, <span class="str">"Mine Ingredient"</span>,
+    <span class="str">"Funky Portal"</span>, <span class="str">"Copper Golem Statue"</span>,
+    <span class="cmt"># ... ~40 total</span>
+}
+
+META_PATTERNS = [
+    re.<span class="fn">compile</span>(<span class="str">r"^Biome/Before"</span>, re.IGNORECASE),
+    re.<span class="fn">compile</span>(<span class="str">r"April Fools"</span>, re.IGNORECASE),
+]
+
+<span class="kw">def</span> <span class="fn">is_blocked</span>(title: <span class="ty">str</span>) -> <span class="ty">bool</span>:
+    <span class="kw">if</span> title <span class="kw">in</span> META_BLOCKLIST_TITLES: <span class="kw">return</span> <span class="kw">True</span>
+    <span class="kw">return</span> <span class="fn">any</span>(p.<span class="fn">search</span>(title) <span class="kw">for</span> p <span class="kw">in</span> META_PATTERNS)</code></pre>
+
+    <h3>Fix 2: Title boost en re-ranker</h3>
+    <p>Si el título del artículo aparece como substring en la query original o en cualquier reformulación, sumamos <code>TITLE_BOOST=0.3</code> al score post-sigmoide. Esto asegura que "cómo hago un hopper" siempre traiga el artículo <code>Hopper</code> al top. Funciona en cualquier idioma via el glosario ES→EN.</p>
+
+    <h3>Fix 3: Score floor + respuesta honesta</h3>
+    <p>Si el mejor score tras re-rank es menor a <code>MIN_ACCEPTABLE_SCORE=0.15</code>, cortocircuiteamos: devolvemos directamente <em>"No encontré info específica. Intenta con el nombre en inglés"</em> sin llamar al LLM.</p>
+
+    <div class="tradeoff">
+      <strong>Ahorros:</strong> ~$0.005 por query (llamada a Sonnet evitada) + ~2-3s de latencia. Y mejor UX (respuesta clara + hint de retry) vs. respuesta genérica larga del LLM.
+    </div>
+
+    <h3>Impacto medido</h3>
+    <table>
+      <tr><th>Métrica</th><th>v4</th><th>v5</th></tr>
+      <tr><td>Backfill hit rate</td><td>50% (5/10)</td><td><strong>90% (9/10)</strong></td></tr>
+      <tr><td>Latencia p50</td><td>7657ms</td><td><strong>5816ms (-24%)</strong></td></tr>
+      <tr><td>Latencia p95</td><td>9784ms</td><td><strong>8347ms (-15%)</strong></td></tr>
+      <tr><td>Ruido en top (Cactus/Language/Cake) sobre 19 queries reales</td><td>14/19</td><td><strong>0/19</strong></td></tr>
+    </table>
+
+    <h2 id="decisiones">📋 Decisiones que tomamos</h2>
+    <p>Registro histórico de <em>qué</em> elegimos y <em>por qué</em>. Vale como referencia futura y como material de portafolio.</p>
+
+    <table>
+      <tr><th>Decisión</th><th>Elegido</th><th>Alternativa considerada</th><th>Por qué</th></tr>
+      <tr>
+        <td>Framework RAG</td>
+        <td>Python directo</td>
+        <td>LangChain</td>
+        <td>Control total, sin abstracciones opacas, sin rompimientos entre versiones</td>
+      </tr>
+      <tr>
+        <td>Fuente de datos</td>
+        <td>Minecraft Wiki (CC-BY-SA)</td>
+        <td>HP/Sapiens (piratas)</td>
+        <td>Legal para portafolio público</td>
+      </tr>
+      <tr>
+        <td>Método de ingesta</td>
+        <td>API MediaWiki (mwclient)</td>
+        <td>Web scraping HTML</td>
+        <td>Wikitext limpio vs. HTML con ruido</td>
+      </tr>
+      <tr>
+        <td>Embeddings</td>
+        <td>all-MiniLM-L6-v2 (EN)</td>
+        <td>OpenAI embeddings API</td>
+        <td>Local, gratis, sin latencia de red</td>
+      </tr>
+      <tr>
+        <td>Vector store</td>
+        <td>ChromaDB</td>
+        <td>FAISS, Qdrant, Pinecone</td>
+        <td>Simple para &lt;500k chunks, persistente, metadata built-in</td>
+      </tr>
+      <tr>
+        <td>LLM generación</td>
+        <td>Claude Sonnet 4.5</td>
+        <td>GPT-4, Llama, Groq</td>
+        <td>Ya en el stack (NYRO), mejor en instrucciones "no inventes"</td>
+      </tr>
+      <tr>
+        <td>Query rewriting</td>
+        <td>Multi-query (3 variaciones)</td>
+        <td>HyDE, step-back</td>
+        <td>Mejor para queries en español sobre corpus inglés</td>
+      </tr>
+      <tr>
+        <td>LLM query rewriter</td>
+        <td>Claude Haiku 4.5</td>
+        <td>Sonnet, GPT-4o-mini</td>
+        <td>10x más barato, 3x más rápido, suficiente para reformular</td>
+      </tr>
+      <tr>
+        <td>Re-ranker</td>
+        <td>Cross-encoder MS-MARCO</td>
+        <td>Cohere Rerank API, ColBERT</td>
+        <td>Local, gratis, baseline probado en industria</td>
+      </tr>
+      <tr>
+        <td>Framework API</td>
+        <td>FastAPI</td>
+        <td>Flask, Django REST</td>
+        <td>Docs automáticos, validación Pydantic, async nativo</td>
+      </tr>
+      <tr>
+        <td>Widget</td>
+        <td>Vanilla JS</td>
+        <td>React, Svelte</td>
+        <td>Embebible en cualquier página sin build step</td>
+      </tr>
+      <tr>
+        <td>Bot in-game</td>
+        <td>Mineflayer (Node.js)</td>
+        <td>Fabric mod (Java)</td>
+        <td>No requiere aprender Java, vanilla-compatible</td>
+      </tr>
+      <tr>
+        <td>Recetas de crafting <strong>🆕 v4</strong></td>
+        <td>Convertir templates a texto antes de strip_code()</td>
+        <td>Scraper HTML con BeautifulSoup</td>
+        <td>30 líneas vs. rehacer pipeline entero; menor blast radius</td>
+      </tr>
+      <tr>
+        <td>Anti-alucinación <strong>🆕 v4</strong></td>
+        <td>Prompt endurecido</td>
+        <td>Guardrail post-generation</td>
+        <td>Reduce ~70% de casos con 5 líneas; guardrail sería Fase C</td>
+      </tr>
+      <tr>
+        <td>Formato in-game <strong>🆕 v4</strong></td>
+        <td>API param <code>format="chat"</code> + códigos MC en bot</td>
+        <td>Post-processing en el bot solamente</td>
+        <td>Ahorra tokens (menos $) y latencia (~1s menos)</td>
+      </tr>
+      <tr>
+        <td>Nombre del bot <strong>🆕 v4</strong></td>
+        <td>MineRag (skin default Steve)</td>
+        <td>Server Paper + SkinsRestorer plugin</td>
+        <td>Cero setup extra; nombre es lo que importa para la marca</td>
+      </tr>
+      <tr>
+        <td>Blocklist de artículos ruido <strong>🆕 v5</strong></td>
+        <td>Filtrar ~40 títulos + regex patterns en runtime</td>
+        <td>Re-scrape sin artículos meta / usar clasificador ML</td>
+        <td>Reversible con env var, determinístico, sin re-ingest de 113k chunks</td>
+      </tr>
+      <tr>
+        <td>Title boost en reranker <strong>🆕 v5</strong></td>
+        <td>+0.3 aditivo si el título está en la query</td>
+        <td>Multiplicar el score / usar filtro estricto</td>
+        <td>Preserva señal semántica del cross-encoder, ayuda queries directas ("hopper")</td>
+      </tr>
+      <tr>
+        <td>Score floor <strong>🆕 v5</strong></td>
+        <td>Cortocircuitar en score &lt; 0.15 con respuesta útil</td>
+        <td>Siempre llamar al LLM y dejarlo decir "no sé"</td>
+        <td>Ahorra ~$0.005 + ~2s por query, mejor UX con hint de retry en inglés</td>
+      </tr>
+    </table>
+
+    <h2 id="latencia">⚡ Latencia y costos por query</h2>
+    <table>
+      <tr><th>Paso</th><th>Latencia</th><th>Costo $ (por query)</th></tr>
+      <tr><td>Query rewriting (Haiku)</td><td>~500ms</td><td>~$0.0002</td></tr>
+      <tr><td>Embedding query (local)</td><td>~30ms x N</td><td>$0</td></tr>
+      <tr><td>Chroma search (bi-encoder)</td><td>~50ms x N</td><td>$0</td></tr>
+      <tr><td>Cross-encoder rerank (local)</td><td>~200-400ms</td><td>$0</td></tr>
+      <tr><td>Generation (Sonnet)</td><td>~2-3s</td><td>~$0.005</td></tr>
+      <tr><th>TOTAL</th><th>~3.5-4s</th><th>~$0.0052</th></tr>
+    </table>
+    <div class="note">
+      <strong>96% del costo</strong> es la generation con Sonnet. Haiku es marginal. Los modelos locales (embeddings + reranker) son gratis pero suman ~700ms.
+    </div>
+
+    <h2 id="proximos">🔮 Qué sigue (Fase v4)</h2>
+    <p>Con este v3 el sistema es sólido para portafolio personal. Para llevarlo a "producción vendible a empresas" faltaría:</p>
+    <ul>
+      <li><strong>Evaluación con Ragas</strong> — métricas objetivas (faithfulness, context recall, answer relevance). <em>Prioritario</em>.</li>
+      <li><strong>Hybrid retrieval</strong> (BM25 + vector) — para queries con nombres propios o siglas exactas.</li>
+      <li><strong>Observability</strong> con Langfuse — trazas de cada request, latencias, costos, evolución.</li>
+      <li><strong>Semantic caching</strong> — cachear respuestas de queries similares.</li>
+      <li><strong>Guardrails</strong> — validar output antes de servir (jailbreaks, data leaks).</li>
+    </ul>
+  </main>
+</body>
+</html>

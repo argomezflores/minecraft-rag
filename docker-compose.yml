@@ -1,0 +1,18 @@
+services:
+  rag-api:
+    build: .
+    container_name: rag-gob-mx
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - CLAUDE_MODEL=${CLAUDE_MODEL:-claude-sonnet-4-5-20250929}
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-paraphrase-multilingual-MiniLM-L12-v2}
+      - CHROMA_PATH=/app/data/chroma
+      - PDFS_PATH=/app/data/pdfs
+      - COLLECTION_NAME=${COLLECTION_NAME:-gob_mx}
+      - TOP_K=${TOP_K:-5}
+    volumes:
+      - ./data/chroma:/app/data/chroma
+      - ./data/pdfs:/app/data/pdfs
+    restart: unless-stopped

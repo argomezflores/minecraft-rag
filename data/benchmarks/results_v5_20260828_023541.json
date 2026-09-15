@@ -1,0 +1,598 @@
+{
+  "version": "v5",
+  "timestamp": "20260828_023541",
+  "format": "full",
+  "summary": {
+    "total_queries": 19,
+    "source_hit_rate": 1.0,
+    "source_hits": 19,
+    "answer_hit_avg": null,
+    "latency_p50_ms": 5816,
+    "latency_p95_ms": 8347,
+    "errors": 0
+  },
+  "total_queries_in_log": 19,
+  "backfill_count": 10,
+  "log_added_count": 0,
+  "results": [
+    {
+      "question": "¿Cómo hago una mesa de crafteo?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Crafting Table",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "Para hacer una **Crafting Table** (Mesa de Crafteo), necesitas colocar **4 tablas de cualquier tipo** (Any Planks) en la cuadrícula de crafteo, ocupando las 4 casillas disponibles en tu inventario (2×2). El resultado será una Crafting Table.\n\nLas tablas (planks) se obtienen procesando madera, aunque los detalles de esa receta específica no están en este fragmento de la wiki.\n\n[1] [4]",
+      "rewrites": [
+        "¿Cómo hago una mesa de crafteo?",
+        "¿Cómo craftear una mesa de trabajo en Minecraft?",
+        "Crafting Table recipe Wood Planks",
+        "How to craft and use a Crafting Table",
+        "¿Cómo hago una Crafting Table?"
+      ],
+      "latency_ms": 10075,
+      "n_candidates": 74,
+      "sources_titles": [
+        "Crafting Table",
+        "Crafting",
+        "Crafting",
+        "Crafting Table",
+        "Crafting Table"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cómo hago una antorcha?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Mob spawning",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en la wiki. Los fragmentos proporcionados no contienen la receta de crafting para antorchas (Torch). Revisa el link de la fuente oficial de Minecraft Wiki.",
+      "rewrites": [
+        "¿Cómo hago una antorcha?",
+        "¿Cómo se craftea una Torch en Minecraft?",
+        "Torch crafting recipe Coal Stick",
+        "How to craft Torches for light sources and mob spawning prevention"
+      ],
+      "latency_ms": 5497,
+      "n_candidates": 56,
+      "sources_titles": [
+        "Mob spawning",
+        "Crafting",
+        "Light",
+        "Light",
+        "Crafting"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Qué hace una tolva?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Hopper",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "Una **tolva (Hopper)** es un bloque de almacenamiento de baja capacidad que sirve para:\n\n1. **Recoger objetos** que caen directamente encima de ella.\n2. **Transferir objetos** hacia dentro y fuera de otros contenedores (cofres, hornos, etc.).\n3. Puede ser **bloqueada con redstone** para detener el movimiento de objetos.\n\nLa tolva tiene un \"tubo de salida\" en su parte inferior que puede apuntar hacia abajo o hacia los lados, indicando a qué bloque enviará los objetos. Tiene un período de enfriamiento de 8 ticks (0.4 segundos) tras recoger/transferir items [3][4].\n\n**Receta:** 5 Iron Ingots + 1 Chest → 1 Hopper [5].\n\n[1][2][3][4][5]",
+      "rewrites": [
+        "¿Qué hace una tolva?",
+        "¿Cuál es la función de un Hopper en Minecraft?",
+        "Hopper functionality item transport redstone interaction",
+        "How does a Hopper work for collecting and transferring items",
+        "¿Qué hace una Hopper?"
+      ],
+      "latency_ms": 8347,
+      "n_candidates": 65,
+      "sources_titles": [
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cómo hago un hopper?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Hopper",
+      "top_score": 0.306,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "Para craftear un **Hopper** necesitas:\n- 1 **Chest** (cofre)\n- 5 **Iron Ingot** (lingotes de hierro)\n\nLos colocas en la mesa de crafteo según el patrón indicado en la wiki y obtienes 1 Hopper. [1]\n\nTambién puedes obtenerlo minándolo con un pico (si usas otra herramienta solo sueltan los items que contenía), o encontrarlo generado naturalmente sobre barriles en las trial chambers. [1]",
+      "rewrites": [
+        "¿Cómo hago un hopper?",
+        "¿Cómo se craftea un Hopper en Minecraft?",
+        "Hopper crafting recipe Iron Ingots Chest materials",
+        "How to craft a Hopper for item collection and transport systems"
+      ],
+      "latency_ms": 6916,
+      "n_candidates": 63,
+      "sources_titles": [
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cómo hago un repeater?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Redstone Repeater",
+      "top_score": 0.306,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "La wiki no tiene la receta de crafteo del Redstone Repeater indexada en estos fragmentos. Solo describe qué es y cómo funciona el bloque.\n\nRevisa el link de la fuente completa de la wiki para encontrar la receta exacta. [2]",
+      "rewrites": [
+        "¿Cómo hago un repeater?",
+        "¿Cómo crafteo un Redstone Repeater en Minecraft?",
+        "Redstone Repeater crafting recipe Redstone Dust",
+        "How to craft a Redstone Repeater for signal delay and timing"
+      ],
+      "latency_ms": 5158,
+      "n_candidates": 67,
+      "sources_titles": [
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cómo hago que aparezca un raid en una aldea?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Illager",
+      "top_score": 0.003,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No encontré información específica sobre eso en la wiki. Puede que el artículo no esté indexado en este corpus, o que la pregunta sea muy ambigua. Intenta con el nombre exacto en inglés (ej. 'Hopper', 'Beacon', 'Fortune', 'Netherite').",
+      "rewrites": [
+        "¿Cómo hago que aparezca un raid en una aldea?",
+        "¿Cómo activar un raid en una aldea de Minecraft?",
+        "How to trigger a raid Bad Omen effect Village",
+        "Raid mechanics Village spawning conditions Bad Omen potion effect"
+      ],
+      "latency_ms": 2230,
+      "n_candidates": 51,
+      "sources_titles": [
+        "Illager",
+        "Bed",
+        "Block of Gold",
+        "Chest",
+        "Crossbow"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "Qué hace el encantamiento mending?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Experience",
+      "top_score": 0.303,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "El encantamiento **Mending** restaura la durabilidad de una herramienta dañada cuando recoges orbes de experiencia. Solo funciona si la herramienta ya está dañada antes de recoger los orbes.\n\n[1][2][3][4][5]",
+      "rewrites": [
+        "Qué hace el encantamiento mending?",
+        "¿Qué efecto tiene el encantamiento Mending en Minecraft?",
+        "Mending enchantment durability repair experience orbs",
+        "How does Mending work to restore tool durability using XP"
+      ],
+      "latency_ms": 4368,
+      "n_candidates": 56,
+      "sources_titles": [
+        "Experience",
+        "Experience",
+        "Experience",
+        "Experience",
+        "Experience"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "Qué hace el encantamiento de Fortuna?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Drops",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "El encantamiento **Fortune** (Fortuna) aumenta la cantidad de ítems que sueltan ciertos bloques al romperlos. Funciona con diferentes niveles:\n\n- **Fortune I**: 33% de probabilidad de duplicar los drops (33% más en promedio)\n- **Fortune II**: 25% chance de x2, 25% de x3 (75% más en promedio)  \n- **Fortune III**: 20% chance de x2, 20% de x3, 20% de x4 (120% más en promedio)\n\nAlgunos bloques reciben incrementos simples (0-lvl ítems extra) en lugar de multiplicación. No afecta el *tipo* de drop, solo la cantidad y probabilidades [3][5].",
+      "rewrites": [
+        "Qué hace el encantamiento de Fortuna?",
+        "¿Qué efecto tiene el encantamiento Fortuna en Minecraft?",
+        "Fortune enchantment drop rates ore blocks increase",
+        "Fortune enchantment mechanics: how it multiplies block drops and resource yields",
+        "Qué hace el encantamiento de Fortune?"
+      ],
+      "latency_ms": 7088,
+      "n_candidates": 57,
+      "sources_titles": [
+        "Drops",
+        "Drops",
+        "Drops",
+        "Drops",
+        "Drops"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "Como hago una poción de fuerza?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Potion",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en el contexto proporcionado de la wiki. Los fragmentos solo mencionan \"potion of Weakness\" (poción de Debilidad), pero no hay datos sobre cómo crear una poción de fuerza (Strength).\n\nPara obtener esa receta específica, revisa el link de la fuente original en la Minecraft Wiki.",
+      "rewrites": [
+        "Como hago una poción de fuerza?",
+        "¿Cómo se prepara una Potion of Strength en Minecraft?",
+        "Potion of Strength brewing Awkward Potion Fire Resistance",
+        "How to brew Strength potion with Blaze Powder ingredient",
+        "Como hago una Potion of Strength?"
+      ],
+      "latency_ms": 5100,
+      "n_candidates": 64,
+      "sources_titles": [
+        "Potion",
+        "Potion",
+        "Potion",
+        "Potion",
+        "Potion"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Dónde se consigue netherite?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Ancient Debris",
+      "top_score": 0.308,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "Según la wiki, el **netherite** (netherita) se obtiene de los **Ancient Debris** (Escombros ancestrales), un mineral raro que se encuentra **en el Nether**. \n\nDebes minar Ancient Debris con un **Diamond Pickaxe o Netherite Pickaxe** (si usas otra herramienta no dropea nada). Luego lo fundas en un horno para obtener **Netherite Scrap**, que se usa para craftear **Netherite Ingots** (lingotes de netherita) y mejorar equipo de diamante.\n\n[2][3][5]",
+      "rewrites": [
+        "¿Dónde se consigue netherite?",
+        "¿Dónde encontrar y obtener Netherite en Minecraft?",
+        "Ancient Debris mining location Nether Netherite Ingot smelting",
+        "How to find Ancient Debris and craft Netherite tools"
+      ],
+      "latency_ms": 7446,
+      "n_candidates": 55,
+      "sources_titles": [
+        "Ancient Debris",
+        "Ancient Debris",
+        "Ancient Debris",
+        "Ancient Debris",
+        "Smelting"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "Como hago una poción de velocidad?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Potion",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en la wiki. Los fragmentos proporcionados solo mencionan conceptos generales sobre pociones (tipos, uso de gunpowder para splash potions), pero no incluyen la receta específica de la poción de velocidad (Speed/Swiftness). \n\nRevisa el link de la fuente completa de la wiki para encontrar las recetas de brewing.",
+      "rewrites": [
+        "Como hago una poción de velocidad?",
+        "¿Cómo se prepara una Poción de Velocidad en Minecraft?",
+        "Speed Potion brewing recipe Nether Wart Sugar Awkward Potion",
+        "How to brew Speed Potion using Brewing Stand ingredients",
+        "Como hago una Potion of Swiftness?"
+      ],
+      "latency_ms": 5211,
+      "n_candidates": 57,
+      "sources_titles": [
+        "Potion",
+        "Potion",
+        "Potion",
+        "Brewing",
+        "Potion"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Qué hace el encatamiento de toque de seda?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Silk Touch",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "**Silk Touch** (Toque de Seda) es un encantamiento que se aplica a herramientas y hace que ciertos bloques se dropeen a sí mismos en lugar de sus drops normales.\n\n**Ejemplo:** Si minas un bloque de piedra (stone) con un pico sin Silk Touch, obtendrás cobblestone. Pero con Silk Touch, obtendrás el bloque de stone directamente.\n\n**Cómo obtenerlo:** Puedes conseguirlo en mesas de encantamientos, de mobs en raids, pescando libros, cofres de mazmorras, comerciando con aldeanos bibliotecarios, o en estructuras generadas [1].\n\n[1] Fuente: Wiki oficial de Minecraft - Silk Touch",
+      "rewrites": [
+        "¿Qué hace el encatamiento de toque de seda?",
+        "¿Qué hace el encantamiento Toque de Seda en Minecraft?",
+        "Silk Touch enchantment blocks drops ore mining",
+        "How does Silk Touch work for collecting blocks without breaking them",
+        "¿Qué hace el encatamiento de Silk Touch?"
+      ],
+      "latency_ms": 6967,
+      "n_candidates": 58,
+      "sources_titles": [
+        "Silk Touch",
+        "Silk Touch",
+        "Bed",
+        "Block of Gold",
+        "Chest"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cómo hago un horno?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Smelting",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en la wiki. Los fragmentos del contexto mencionan el \"furnace\" (horno) pero no incluyen su receta de crafteo. Revisa el link de la fuente completa sobre Smelting para encontrar cómo crear el horno.",
+      "rewrites": [
+        "¿Cómo hago un horno?",
+        "¿Cómo se crafteá un Furnace en Minecraft?",
+        "Furnace crafting recipe Cobblestone",
+        "How to craft and use a Furnace for smelting ores",
+        "¿Cómo hago un Furnace?"
+      ],
+      "latency_ms": 6145,
+      "n_candidates": 62,
+      "sources_titles": [
+        "Smelting",
+        "Smelting",
+        "Smelting",
+        "Smelting",
+        "Smelting"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Qué hace el smoker?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Smelting",
+      "top_score": 0.317,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "El **Smoker** es un bloque que cocina comida dos veces más rápido que un Furnace normal, pero no puede fundir ningún otro tipo de objeto. También funciona como bloque de trabajo (job site block) para los aldeanos carniceros (Butcher). Se puede minar con cualquier Pickaxe y suelta su contenido al romperse [2].\n\n**Fuentes:** [2]",
+      "rewrites": [
+        "¿Qué hace el smoker?",
+        "¿Para qué sirve el Smoker en Minecraft?",
+        "Smoker block cooking food faster smelting",
+        "How does Smoker work compared to Furnace cooking speed"
+      ],
+      "latency_ms": 5670,
+      "n_candidates": 53,
+      "sources_titles": [
+        "Smelting",
+        "Smoker",
+        "Smelting",
+        "Smelting",
+        "Smelting"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cuanto dura la armadura de diamante?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Damage",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "Según la wiki, la durabilidad de cada pieza de armadura de diamante (Diamond) es:\n\n- **Helmet (casco)**: 363 puntos\n- **Chestplate (peto)**: 528 puntos\n- **Leggings (pantalones)**: 495 puntos\n- **Boots (botas)**: 429 puntos\n\nCada punto de durabilidad se consume cuando recibes daño que la armadura puede reducir. [2]",
+      "rewrites": [
+        "¿Cuanto dura la armadura de diamante?",
+        "¿Cuántos puntos de durabilidad tiene la armadura de diamante?",
+        "Diamond Armor durability points per piece",
+        "Diamond Armor damage reduction and durability comparison with other materials",
+        "¿Cuanto dura la armadura de Diamond?"
+      ],
+      "latency_ms": 6048,
+      "n_candidates": 53,
+      "sources_titles": [
+        "Damage",
+        "Durability",
+        "Armor",
+        "Bed",
+        "Block of Gold"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Cuanta experiencia necesito para encantar?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Enchanting Table",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "Según el contexto de la Wiki:\n\nPara encantar en una Enchanting Table, necesitas tener **al menos el nivel de experiencia** que marca la opción de encantamiento (por ejemplo, nivel 30 para un encantamiento de nivel 30). Sin embargo, **solo pagas** la cantidad de niveles equivalente al requisito de lapis lazuli (normalmente 1-3 niveles).\n\nEjemplo: Si quieres un encantamiento nivel 30, debes **tener** 30+ niveles, pero solo **gastarás** 3 niveles y 3 lapis lazuli. [4]\n\n**Nota:** El contexto no especifica cuántos niveles totales necesitas acumular desde cero ni cómo se obtiene la experiencia.",
+      "rewrites": [
+        "¿Cuanta experiencia necesito para encantar?",
+        "¿Cuánta experiencia se necesita para encantar un objeto en Minecraft?",
+        "Enchanting experience levels required Enchantment Table",
+        "How much XP do I need to use an Enchanting Table and what enchantment levels are available"
+      ],
+      "latency_ms": 7824,
+      "n_candidates": 64,
+      "sources_titles": [
+        "Enchanting Table",
+        "Experience",
+        "Enchantment",
+        "Enchanting Table",
+        "Enchantment"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Como hago papel?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Crafting",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo información sobre cómo hacer papel en el contexto proporcionado de la wiki. Los fragmentos solo mencionan recetas de Ladder, White Wool, Glowstone, Bamboo Raft y Copper Trapdoor. \n\nRevisa el link de la fuente oficial de la Minecraft Wiki para encontrar la receta de Paper.",
+      "rewrites": [
+        "¿Como hago papel?",
+        "¿Cómo se crafta papel en Minecraft?",
+        "Paper crafting recipe Sugar Cane",
+        "How to make Paper from Sugar Cane blocks"
+      ],
+      "latency_ms": 5210,
+      "n_candidates": 64,
+      "sources_titles": [
+        "Crafting",
+        "Crafting",
+        "Crafting",
+        "Crafting",
+        "Crafting"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Como consigo el logro de \"Cuando los cerdos vuelen\"?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Bed",
+      "top_score": 0.0,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No encontré información específica sobre eso en la wiki. Puede que el artículo no esté indexado en este corpus, o que la pregunta sea muy ambigua. Intenta con el nombre exacto en inglés (ej. 'Hopper', 'Beacon', 'Fortune', 'Netherite').",
+      "rewrites": [
+        "¿Como consigo el logro de \"Cuando los cerdos vuelen\"?",
+        "¿Cómo desbloquear el logro 'Cuando los cerdos vuelen' en Minecraft?",
+        "When Pigs Fly achievement Saddle Pig flying",
+        "How to get When Pigs Fly achievement with Saddle and Pig"
+      ],
+      "latency_ms": 2420,
+      "n_candidates": 60,
+      "sources_titles": [
+        "Bed",
+        "Block of Gold",
+        "Chest",
+        "Crossbow",
+        "Crying Obsidian"
+      ],
+      "error": null,
+      "from_log": true
+    },
+    {
+      "question": "¿Como hago una zanahoria de oro?",
+      "format": "full",
+      "tags": [],
+      "expected_source": "",
+      "top_source": "Crafting",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en la wiki indexada. Los fragmentos proporcionados solo mencionan zanahorias normales (carrots) y cómo obtenerlas de cultivos, pero no incluyen la receta de crafting para la zanahoria dorada (golden carrot). \n\nRevisa el link de la fuente oficial de la Minecraft Wiki para encontrar esa receta específica.\n\n[3]",
+      "rewrites": [
+        "¿Como hago una zanahoria de oro?",
+        "¿Cómo se craftea una Zanahoria Dorada en Minecraft?",
+        "Golden Carrot crafting recipe Gold Ingots Carrot",
+        "How to craft Golden Carrot for night vision effect",
+        "¿Como hago una Carrot de oro?"
+      ],
+      "latency_ms": 5816,
+      "n_candidates": 75,
+      "sources_titles": [
+        "Crafting",
+        "Crafting",
+        "Carrot",
+        "Crafting",
+        "Crafting"
+      ],
+      "error": null,
+      "from_log": true
+    }
+  ]
+}

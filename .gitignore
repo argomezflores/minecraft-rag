@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+data/pdfs/*.pdf
+data/chroma/
+data/wiki/*.txt
+# 📚 v4: no ignoramos data/logs/ ni data/benchmarks/ — son parte del portafolio.
+# Si prefieres no versionarlos, descomenta:
+# data/logs/
+# data/benchmarks/
+.pytest_cache/
+.vscode/
+.idea/
+*.egg-info/

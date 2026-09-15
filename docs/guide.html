@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guía técnica — RAG Minecraft Wiki</title>
+  <style>
+    :root {
+      --primary: #5B8B3F;
+      --primary-dark: #3E6B2A;
+      --dirt: #8B5A2B;
+      --bg: #F5EBD8;
+      --sidebar: #E8DCC0;
+      --border: #8B5A2B;
+      --text: #1E1E1E;
+      --muted: #555;
+      --code-bg: #FFF;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background: var(--bg);
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      min-height: 100vh;
+    }
+    nav {
+      background: var(--sidebar);
+      border-right: 3px solid var(--border);
+      padding: 24px 20px;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+    }
+    nav h2 { font-size: 14px; color: var(--dirt); margin: 0 0 12px; text-transform: uppercase; letter-spacing: 0.05em; }
+    nav ul { list-style: none; padding: 0; margin: 0 0 24px; }
+    nav a {
+      display: block;
+      padding: 6px 8px;
+      color: var(--text);
+      text-decoration: none;
+      border-radius: 0;
+      font-size: 14px;
+      border-left: 3px solid transparent;
+    }
+    nav a:hover { background: rgba(91, 139, 63, 0.15); color: var(--primary-dark); border-left-color: var(--primary); }
+    main {
+      padding: 48px 64px;
+      max-width: 900px;
+    }
+    h1 { color: var(--primary-dark); border-bottom: 3px solid var(--border); padding-bottom: 12px; }
+    h2 { margin-top: 40px; border-left: 4px solid var(--primary); padding-left: 12px; }
+    h3 { margin-top: 28px; color: var(--text); }
+    p, li { color: var(--text); }
+    code {
+      background: var(--code-bg);
+      padding: 2px 6px;
+      border-radius: 0;
+      border: 1px solid var(--border);
+      font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+      font-size: 0.9em;
+    }
+    pre {
+      background: #1E1E1E;
+      color: #E2E8F0;
+      padding: 16px 20px;
+      border-radius: 0;
+      overflow-x: auto;
+      font-size: 0.85em;
+      line-height: 1.5;
+      box-shadow: 4px 4px 0 var(--border);
+    }
+    pre code { background: transparent; color: inherit; padding: 0; border: none; }
+    .box {
+      background: #FFF;
+      border-left: 4px solid var(--dirt);
+      padding: 12px 16px;
+      margin: 16px 0;
+      border-radius: 0;
+      box-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+    }
+    .note {
+      background: #FFF;
+      border-left: 4px solid var(--primary);
+      padding: 12px 16px;
+      margin: 16px 0;
+      border-radius: 0;
+      box-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 16px 0;
+    }
+    th, td {
+      border: 2px solid var(--border);
+      padding: 8px 12px;
+      text-align: left;
+      background: #FFF;
+    }
+    th { background: var(--primary); color: white; }
+    @media (max-width: 800px) {
+      body { grid-template-columns: 1fr; }
+      nav { position: static; height: auto; border-right: none; border-bottom: 3px solid var(--border); }
+      main { padding: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <h2>Contenido</h2>
+    <ul>
+      <li><a href="#intro">1. ¿Qué es RAG?</a></li>
+      <li><a href="#ingesta">2. Ingesta (scraping + chunking)</a></li>
+      <li><a href="#query">3. Query (retrieval + gen)</a></li>
+      <li><a href="#ingame">4. Bot in-game</a></li>
+      <li><a href="#decisiones">5. Decisiones técnicas</a></li>
+      <li><a href="#modificar">6. Cómo modificar</a></li>
+      <li><a href="#agentic">7. Evolución a Agentic</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>⛏️ Guía técnica — RAG Minecraft Wiki</h1>
+    <p>Un tour narrativo por el proyecto. Se lee en orden, siguiendo el flujo real de los datos: de la Minecraft Wiki hasta una respuesta con citas en el chat del juego.</p>
+    <div class="note" style="background:#FFF; border-left: 4px solid #5B8B3F; padding: 12px 16px; margin: 16px 0;">
+      🆕 <strong>Nuevo en v3</strong>: query rewriting (Claude Haiku) + re-ranking (cross-encoder). Para una explicación técnica <em>profunda</em> con código, snippets y tradeoffs de cada capa, mira <a href="pipeline.html"><strong>pipeline.html</strong></a>.
+    </div>
+
+    <h2 id="intro">1. ¿Qué es RAG?</h2>
+    <p><strong>Retrieval-Augmented Generation</strong>. Un LLM (Claude) es bueno redactando pero no conoce tu información específica (aquí: todos los items, mobs y mecánicas de Minecraft).</p>
+    <p><strong>Solución RAG</strong>: buscamos los fragmentos más relevantes en la wiki oficial y se los damos al LLM como contexto. Ya no inventa — sintetiza lo que le pasaste.</p>
+    <div class="note">
+      <strong>Dos fases:</strong>
+      <ul>
+        <li><strong>Ingesta (offline)</strong>: scrapear la wiki y guardar vectores.</li>
+        <li><strong>Query (runtime)</strong>: cada pregunta usa esos vectores para encontrar contexto y generar respuesta.</li>
+      </ul>
+    </div>
+
+    <h2 id="ingesta">2. Recorrido del código: Ingesta</h2>
+    <p>Punto de entrada: <code>python scripts/scrape_wiki.py</code> seguido de <code>python scripts/ingest_all.py --reset</code>.</p>
+
+    <h3>2.1. Scraping → <code>scripts/scrape_wiki.py</code> + <code>src/scraper.py</code></h3>
+    <p>Bajamos ~800 artículos de 8 categorías curadas usando la API MediaWiki (<code>minecraft.wiki/api.php</code>). La librería <code>mwclient</code> maneja rate limiting; <code>mwparserfromhell</code> limpia <code>{{templates}}</code> y <code>[[links]]</code>.</p>
+    <div class="box">
+      <strong>Ética obligatoria:</strong> User-Agent identificable + 1s delay + sin paralelismo + cache local. Sin esto te bloquean.
+    </div>
+
+    <h3>2.2. Chunking → <code>src/chunker.py</code></h3>
+    <p><code>split_text(text, chunk_size=800, overlap=150)</code>. Cortamos en separadores naturales (<code>\n\n</code> > <code>\n</code> > <code>. </code> > <code> </code>) para respetar la estructura.</p>
+
+    <h3>2.3. Embeddings → <code>src/embedder.py</code></h3>
+    <p>Usamos <code>all-MiniLM-L6-v2</code>: <strong>inglés puro</strong> (mejor calidad que multilingüe para EN), local, gratis, 384 dims.</p>
+
+    <h3>2.4. Vector store → <code>src/ingest.py</code></h3>
+    <p>Cada chunk se guarda en ChromaDB con: <code>id</code> único, texto, vector, y metadata (<code>title</code>, <code>url</code>, <code>category</code>).</p>
+
+    <h2 id="query">3. Recorrido del código: Query</h2>
+    <p>Punto de entrada: <code>POST /query {"question": "..."}</code></p>
+
+    <h3>3.1. Retrieval → <code>src/retriever.py</code></h3>
+    <ol>
+      <li>La pregunta se convierte al mismo espacio vectorial que los chunks.</li>
+      <li>Chroma busca los K vectores más cercanos (K=5 default).</li>
+      <li>Devolvemos texto + metadata + score.</li>
+    </ol>
+
+    <h3>3.2. Generation → <code>src/generator.py</code></h3>
+    <p>Prompt con reglas estrictas: responder en español, ser conciso (chat MC es corto), citar fuentes con [N], no inventar. Claude traduce EN → ES en un solo call.</p>
+    <div class="box"><strong>Anti-alucinación:</strong> "Si no está en el contexto, dilo." — reduce respuestas inventadas drásticamente.</div>
+
+    <h3>3.3. API → <code>src/api.py</code></h3>
+    <p>FastAPI: <code>POST /query</code>, <code>GET /health</code>, <code>POST /ingest</code>, <code>GET /docs</code>. CORS abierto para widget + bot.</p>
+
+    <h3>3.4. Widget web → <code>widget/chat-widget.js</code></h3>
+    <p>JS puro con tema Minecraft (verde grass, sombras pixel). Cada fuente es link a la wiki original (atribución CC BY-SA).</p>
+
+    <h2 id="ingame">4. Bot in-game → <code>minecraft_bot/bot.js</code></h2>
+    <p>Node.js + <code>mineflayer</code>. El bot se conecta a tu mundo abierto a LAN como jugador falso. Cuando escribes <code>!rag &lt;pregunta&gt;</code> en el chat:</p>
+    <ol>
+      <li>Extrae la pregunta.</li>
+      <li>Llama al FastAPI local.</li>
+      <li>Divide la respuesta en chunks de &lt;240 chars.</li>
+      <li>Publica cada chunk con 700ms pausa (anti-spam de MC).</li>
+      <li>Cita la fuente principal al final.</li>
+    </ol>
+    <div class="note">
+      <strong>¿Por qué Mineflayer y no un mod Fabric?</strong> Fabric es Java + Gradle + curva pronunciada. Mineflayer es ~50 líneas JS con Minecraft vanilla. Trade-off: usas prefijo custom <code>!rag</code>, no slash-command real.
+    </div>
+
+    <h2 id="decisiones">5. Decisiones técnicas importantes</h2>
+
+    <h3>¿Por qué ChromaDB y no FAISS?</h3>
+    <p>Chroma es más simple para &lt;100k chunks. FAISS gana con millones.</p>
+
+    <h3>¿Por qué modelo en inglés?</h3>
+    <p>La wiki está en inglés. Modelos monolingües rinden mejor que multilingües en su idioma nativo. La traducción al español la hace Claude, mejor y en un solo call.</p>
+
+    <h3>¿Por qué scrape + cache, no runtime?</h3>
+    <p>Runtime queries deben ser &lt;2s. Un scrape live tarda 3-5s por artículo. Además, la wiki cambia poco día a día — cachear es sano y aísla de outages.</p>
+
+    <h3>Parámetros clave</h3>
+    <table>
+      <tr><th>Param</th><th>Valor</th><th>Por qué</th></tr>
+      <tr><td>CHUNK_SIZE</td><td>800</td><td>Sweet spot en chars (idea completa sin ruido)</td></tr>
+      <tr><td>CHUNK_OVERLAP</td><td>150 (~20%)</td><td>Estándar en literatura RAG</td></tr>
+      <tr><td>TOP_K</td><td>5</td><td>Balance recall/precision</td></tr>
+      <tr><td>max_tokens</td><td>512</td><td>Respuestas cortas para chat game</td></tr>
+    </table>
+
+    <h2 id="modificar">6. Cómo modificar cosas comunes</h2>
+
+    <h3>Agregar más categorías</h3>
+    <pre><code># scripts/scrape_wiki.py
+CATEGORIES = [
+    ...
+    ("Structures", 60),   # ejemplo
+]</code></pre>
+
+    <h3>Cambiar el prefijo del bot</h3>
+    <pre><code>$env:COMMAND_PREFIX = "!mc "     # ahora "!mc &lt;pregunta&gt;"</code></pre>
+
+    <h3>Ajustar top-K por request</h3>
+    <pre><code>POST /query {"question": "...", "k": 8}</code></pre>
+
+    <h2 id="agentic">7. Evolución a Agentic (Fase B)</h2>
+    <p>Este RAG es reactivo. Un <strong>RAG agentic</strong> clasificaría la pregunta, buscaría en múltiples fuentes (wiki + Reddit + patch notes), detectaría respuestas incompletas y reformularía.</p>
+    <p><strong>Herramienta</strong>: <a href="https://langchain-ai.github.io/langgraph/">LangGraph</a> (solo LangGraph, no LangChain). Envuelve las funciones existentes como nodos.</p>
+    <pre><code>def rag_node(state):
+    hits = search(state["question"])
+    if max(h.score for h in hits) &lt; 0.6:
+        return {"next": "reformulate"}
+    return {"answer": generate_answer(state["question"], hits), "next": "END"}</code></pre>
+  </main>
+</body>
+</html>

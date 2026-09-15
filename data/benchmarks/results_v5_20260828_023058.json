@@ -1,0 +1,384 @@
+{
+  "version": "v5",
+  "timestamp": "20260828_023058",
+  "format": "full",
+  "summary": {
+    "total_queries": 10,
+    "source_hit_rate": 0.9,
+    "source_hits": 9,
+    "answer_hit_avg": 0.5,
+    "latency_p50_ms": 7915,
+    "latency_p95_ms": 10357,
+    "errors": 0
+  },
+  "total_queries_in_log": 19,
+  "backfill_count": 10,
+  "log_added_count": 0,
+  "results": [
+    {
+      "question": "¿Cómo puedo craftear una mesa de crafteo?",
+      "format": "full",
+      "tags": [
+        "crafting",
+        "recipe",
+        "spanish"
+      ],
+      "expected_source": "Crafting Table",
+      "top_source": "Crafting Table",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Planks",
+        "4"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear una **Crafting Table** (Mesa de Crafteo), necesitas colocar **4 Planks** (Tablones de madera, de cualquier tipo) en la cuadrícula de crafteo de tu inventario (2×2). La disposición es simple: llena los 4 espacios con tablones y obtendrás una mesa de crafteo. [1][2]",
+      "rewrites": [
+        "¿Cómo puedo craftear una mesa de crafteo?",
+        "¿Cómo se craftea una mesa de crafteo (Crafting Table)?",
+        "Crafting Table recipe Wooden Planks",
+        "How to craft a Crafting Table from Wood Planks",
+        "¿Cómo puedo craftear una Crafting Table?"
+      ],
+      "latency_ms": 9758,
+      "n_candidates": 60,
+      "sources_titles": [
+        "Crafting Table",
+        "Crafting Table",
+        "Crafting Table",
+        "Crafting",
+        "Planks"
+      ],
+      "error": null
+    },
+    {
+      "question": "Como crafteo un pico de diamante?",
+      "format": "full",
+      "tags": [
+        "crafting",
+        "recipe",
+        "spanish",
+        "tools"
+      ],
+      "expected_source": "Diamond Pickaxe",
+      "top_source": "Diamond Pickaxe",
+      "top_score": 0.365,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Diamond",
+        "Stick"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Diamond Pickaxe** necesitas:\n- 3 Diamonds (fila superior)\n- 2 Sticks (centro y abajo-centro)\n\nColócalos en la cuadrícula de crafteo en esa disposición y obtendrás 1 Diamond Pickaxe. [5]\n\nEs el segundo pico más fuerte del juego (después del de netherite) y te permite minar obsidiana y ancient debris.",
+      "rewrites": [
+        "Como crafteo un pico de diamante?",
+        "¿Cómo se craftea un Pico de Diamante en Minecraft?",
+        "Diamond Pickaxe crafting recipe Diamonds Sticks",
+        "How to craft Diamond Pickaxe mining tool materials",
+        "Como crafteo un Diamond Pickaxe?"
+      ],
+      "latency_ms": 10357,
+      "n_candidates": 71,
+      "sources_titles": [
+        "Diamond Pickaxe",
+        "Diamond",
+        "Diamond Pickaxe",
+        "Diamond",
+        "Diamond Pickaxe"
+      ],
+      "error": null
+    },
+    {
+      "question": "Cómo crafteo una tolva?",
+      "format": "full",
+      "tags": [
+        "crafting",
+        "recipe",
+        "spanish",
+        "translation"
+      ],
+      "expected_source": "Hopper",
+      "top_source": "Hopper",
+      "top_score": 0.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Iron",
+        "Chest"
+      ],
+      "answer_hits": 0,
+      "answer_hit_ratio": 0.0,
+      "answer": "Lamento informarte que **la wiki no tiene la receta de crafteo de la tolva (Hopper) indexada** en los fragmentos que tengo disponibles. El contexto solo menciona que existe el Hopper y su uso con el crafter automático, pero no detalla cómo fabricarlo.\n\nTe recomiendo revisar el link de la fuente directamente en la Minecraft Wiki oficial para obtener la receta completa.\n\n[1]",
+      "rewrites": [
+        "Cómo crafteo una tolva?",
+        "¿Cómo se craftea un Hopper en Minecraft?",
+        "Hopper crafting recipe Iron Ingots",
+        "How to craft and use a Hopper for automated item sorting",
+        "Cómo crafteo una Hopper?"
+      ],
+      "latency_ms": 6671,
+      "n_candidates": 59,
+      "sources_titles": [
+        "Hopper",
+        "Crafting",
+        "Iron Ingot",
+        "Crafting",
+        "Crafting"
+      ],
+      "error": null
+    },
+    {
+      "question": "para qué sirve el beacon",
+      "format": "full",
+      "tags": [
+        "usage",
+        "spanish"
+      ],
+      "expected_source": "Beacon",
+      "top_source": "Beacon",
+      "top_score": 0.348,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "pyramid",
+        "efecto",
+        "block"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 0.3333333333333333,
+      "answer": "Según el contexto de la wiki, el beacon (faro) es un bloque que otorga **efectos de poder** al jugador. Funciona mediante una GUI donde introduces un ítem (lingote o gema) y seleccionas un \"Primary Power\" (poder primario). Si está sobre una pirámide de 4 niveles, se activa también \"Secondary Power\" (poder secundario), permitiendo Regeneration adicional o subir el poder primario a nivel II. Los efectos se muestran en el HUD con contorno azul [4].\n\nLa wiki no detalla qué efectos específicos da cada categoría de poder, solo el sistema de activación.\n\n**Fuentes:** [4]",
+      "rewrites": [
+        "para qué sirve el beacon",
+        "¿Para qué sirve el Beacon en Minecraft?",
+        "Beacon block effects status Strength Speed Haste Resistance Jump Boost",
+        "How to use Beacon for status effects and power requirements"
+      ],
+      "latency_ms": 7699,
+      "n_candidates": 53,
+      "sources_titles": [
+        "Beacon",
+        "Beacon",
+        "Beacon",
+        "Beacon",
+        "Beacon"
+      ],
+      "error": null
+    },
+    {
+      "question": "que hace el repeater en redstone",
+      "format": "full",
+      "tags": [
+        "redstone",
+        "spanish",
+        "translation"
+      ],
+      "expected_source": "Repeater",
+      "top_source": "Redstone Repeater",
+      "top_score": 1.0,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "signal",
+        "delay",
+        "redstone"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 0.6666666666666666,
+      "answer": "El **Redstone Repeater** tiene 4 funciones principales:\n\n1. **Repetir señales**: Restaura la señal de redstone a potencia máxima (nivel 15). Las señales pierden 1 nivel por cada bloque de polvo que atraviesan, y el repeater las refuerza.\n\n2. **Añadir retraso**: Puede configurarse en 4 ajustes diferentes de delay (retraso), desde 1 hasta 4 ticks, lo que permite controlar el timing de circuitos.\n\n3. **Señal unidireccional**: Solo transmite señales de atrás hacia adelante (la flecha indica el frente), evitando que vuelvan hacia atrás.\n\n4. **Bloquear señales**: Se puede \"lockear\" (bloquear) en su estado actual si se alimenta lateralmente con otro repeater o un Redstone Comparator.\n\nEs esencial para transmitir señales a más de 15 bloques de distancia. [1][2][3][5]",
+      "rewrites": [
+        "que hace el repeater en redstone",
+        "¿Qué función tiene el Redstone Repeater en Minecraft?",
+        "Redstone Repeater delay signal transmission mechanics",
+        "How does a Redstone Repeater extend and delay redstone signals"
+      ],
+      "latency_ms": 9779,
+      "n_candidates": 59,
+      "sources_titles": [
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone circuits/Transmission"
+      ],
+      "error": null
+    },
+    {
+      "question": "como funciona un hopper para transportar items",
+      "format": "full",
+      "tags": [
+        "usage",
+        "spanish"
+      ],
+      "expected_source": "Hopper",
+      "top_source": "Hopper",
+      "top_score": 0.306,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "item",
+        "container"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 0.5,
+      "answer": "Un **Hopper** funciona así para transportar items:\n\n1. **Extrae** items del contenedor que tenga encima (chest, otro hopper, etc.) usando el slot más a la izquierda disponible.\n2. **Empuja** items de su inventario hacia el contenedor al que apunta (abajo o lateral), también priorizando slots izquierdos.\n3. Si NO hay contenedor arriba, **recoge** items sueltos del suelo (entidades) en el espacio sobre él.\n\nOpera cada **8 game ticks (0.4 segundos)** después de mover un item (cooldown). Se puede **bloquear** con señal de redstone para detenerlo. Los hoppers pueden conectarse en cadenas (*hopper chains*) para transportar items a través de varios bloques [2][5].\n\n**Receta**: 5 Iron Ingot + 1 Chest → 1 Hopper [3].",
+      "rewrites": [
+        "como funciona un hopper para transportar items",
+        "¿Cómo funcionan los Hoppers para transportar objetos en Minecraft?",
+        "Hopper item transport mechanics input output redstone signal",
+        "How do Hoppers work for automatic item sorting and transfer between containers"
+      ],
+      "latency_ms": 12563,
+      "n_candidates": 54,
+      "sources_titles": [
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper"
+      ],
+      "error": null
+    },
+    {
+      "question": "para que sirve el smoker y en que se diferencia del furnace",
+      "format": "full",
+      "tags": [
+        "usage",
+        "spanish",
+        "comparison"
+      ],
+      "expected_source": "Smoker",
+      "top_source": "Smoker",
+      "top_score": 0.302,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "food",
+        "faster"
+      ],
+      "answer_hits": 0,
+      "answer_hit_ratio": 0.0,
+      "answer": "El **Smoker** sirve para cocinar alimentos **el doble de rápido** que un furnace normal: tarda solo 5 segundos por ítem en vez de 10. Es la contraparte del blast furnace (que se usa para fundir minerales y herramientas rápidamente).\n\n**Diferencia clave:** El smoker SOLO cocina comida, no puede fundir otros materiales como el furnace regular. Usa combustible al doble de velocidad, pero cocina la misma cantidad de ítems por unidad de fuel. Además, sirve como bloque de trabajo para aldeanos butcher [1][2].",
+      "rewrites": [
+        "para que sirve el smoker y en que se diferencia del furnace",
+        "¿Para qué sirve el Smoker y cuál es la diferencia con el Furnace?",
+        "Smoker vs Furnace cooking speed fuel efficiency Minecraft",
+        "How does a Smoker differ from a Furnace for cooking food items"
+      ],
+      "latency_ms": 7151,
+      "n_candidates": 27,
+      "sources_titles": [
+        "Smoker",
+        "Smoker",
+        "Smelting",
+        "Smelting",
+        "Smelting"
+      ],
+      "error": null
+    },
+    {
+      "question": "como hago una poción de debilidad",
+      "format": "full",
+      "tags": [
+        "brewing",
+        "spanish",
+        "translation"
+      ],
+      "expected_source": "Potion of Weakness",
+      "top_source": "Potion",
+      "top_score": 0.3,
+      "source_hit": false,
+      "expected_answer_contains": [
+        "fermented",
+        "spider"
+      ],
+      "answer_hits": 0,
+      "answer_hit_ratio": 0.0,
+      "answer": "La wiki no tiene la receta de crafteo o preparación completa de la poción de debilidad indexada en estos fragmentos. Solo menciona variantes como \"potion of Weakness\", \"extended potion of Weakness\" y que se puede extender con algún ingrediente, pero no especifica los pasos ni ingredientes base.\n\nRevisa el link de la fuente completa de Potion en la Minecraft Wiki para ver la receta detallada.\n\n[1][2][3][4][5]",
+      "rewrites": [
+        "como hago una poción de debilidad",
+        "¿Cómo se prepara una Poción de Debilidad en Minecraft?",
+        "Weakness Potion brewing recipe Fermented Spider Eye",
+        "How to craft Weakness Potion for PvP effects",
+        "como hago una Potion of Weakness"
+      ],
+      "latency_ms": 6197,
+      "n_candidates": 61,
+      "sources_titles": [
+        "Potion",
+        "Potion",
+        "Potion",
+        "Potion",
+        "Potion"
+      ],
+      "error": null
+    },
+    {
+      "question": "how to craft a diamond pickaxe",
+      "format": "full",
+      "tags": [
+        "crafting",
+        "recipe",
+        "english"
+      ],
+      "expected_source": "Diamond Pickaxe",
+      "top_source": "Diamond Pickaxe",
+      "top_score": 1.0,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Diamond",
+        "Stick"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Diamond Pickaxe** necesitas colocar en la mesa de crafteo:\n- **3 diamantes** en la fila superior\n- **2 palos (sticks)** en el centro: uno en la fila del medio y otro en la fila inferior\n\nEsto te dará 1 Diamond Pickaxe. Es el segundo pico de mayor nivel, puede minar obsidiana y ancient debris, y se puede mejorar a Netherite Pickaxe usando un netherite ingot en una smithing table [1][2].",
+      "rewrites": [
+        "how to craft a diamond pickaxe",
+        "¿Cómo se craftea un Diamond Pickaxe en Minecraft?",
+        "Diamond Pickaxe crafting recipe 3 Diamonds 2 Sticks",
+        "Diamond Pickaxe crafting table ingredients and pattern"
+      ],
+      "latency_ms": 6827,
+      "n_candidates": 28,
+      "sources_titles": [
+        "Diamond Pickaxe",
+        "Diamond Pickaxe",
+        "Diamond",
+        "Diamond Pickaxe",
+        "Block of Diamond"
+      ],
+      "error": null
+    },
+    {
+      "question": "what does the fortune enchantment do",
+      "format": "full",
+      "tags": [
+        "enchantment",
+        "english"
+      ],
+      "expected_source": "Fortune",
+      "top_source": "Fortune",
+      "top_score": 1.0,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "drops",
+        "chance"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 0.5,
+      "answer": "**Fortune** es un encantamiento que se aplica a herramientas y otorga la posibilidad de recibir más drops (objetos) al romper ciertos bloques. Afecta la **cantidad** de drops y las **probabilidades**, pero **no el tipo** de objeto que cae. [1][2]\n\n**Cómo obtenerlo:** Mesas de encantamientos, botín de raids, pesca, aldeanos bibliotecarios, comerciantes errantes, y cofres en estructuras como pirámides del desierto, fortalezas, ruinas oceánicas, mansiones, puestos de saqueadores, ciudades antiguas, ciudades del End, minas, mazmorras, pirámides de la jungla y bóvedas en trial chambers. [1]\n\n**Nota:** No necesitas usar la herramienta correcta para que funcione. [1]",
+      "rewrites": [
+        "what does the fortune enchantment do",
+        "¿Qué hace el encantamiento Fortune en Minecraft?",
+        "Fortune Enchantment mining drops ore blocks yield",
+        "Fortune Enchantment effect on block drops and ore mining"
+      ],
+      "latency_ms": 8131,
+      "n_candidates": 47,
+      "sources_titles": [
+        "Fortune",
+        "Drops",
+        "Drops",
+        "Drops",
+        "Drops"
+      ],
+      "error": null
+    }
+  ]
+}

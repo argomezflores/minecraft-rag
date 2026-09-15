@@ -1,0 +1,17 @@
+{
+  "name": "minerag-bot",
+  "version": "0.2.0",
+  "description": "MineRag: bot Mineflayer que consulta al RAG y responde en el chat de Minecraft con formato limpio",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "axios": "^1.7.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

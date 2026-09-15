@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Timeline del proyecto — RAG Minecraft Wiki</title>
+  <style>
+    :root {
+      --primary: #5B8B3F;
+      --primary-dark: #3E6B2A;
+      --dirt: #8B5A2B;
+      --bg: #F5EBD8;
+      --card: #FFFFFF;
+      --border: #8B5A2B;
+      --text: #1E1E1E;
+      --muted: #555;
+      --accent-brain: #6366F1;
+      --accent-bug: #EF4444;
+      --accent-learn: #10B981;
+      --accent-goal: #F59E0B;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background: var(--bg);
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      padding: 60px 40px 80px;
+      text-align: center;
+      box-shadow: 0 4px 0 var(--dirt);
+    }
+    header h1 {
+      font-size: 42px;
+      margin: 0 0 12px;
+      text-shadow: 3px 3px 0 rgba(0,0,0,0.25);
+      letter-spacing: -0.5px;
+    }
+    header .sub {
+      font-size: 18px;
+      opacity: 0.95;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    .container {
+      max-width: 960px;
+      margin: -40px auto 60px;
+      padding: 0 24px;
+    }
+
+    /* --- Timeline vertical --- */
+    .timeline {
+      position: relative;
+      padding-left: 40px;
+      margin-top: 20px;
+    }
+    .timeline::before {
+      content: "";
+      position: absolute;
+      left: 12px;
+      top: 20px;
+      bottom: 20px;
+      width: 4px;
+      background: var(--primary);
+      border-radius: 2px;
+    }
+    .card {
+      position: relative;
+      background: var(--card);
+      border: 3px solid var(--border);
+      padding: 24px 28px;
+      margin-bottom: 40px;
+      box-shadow: 6px 6px 0 rgba(0,0,0,0.15);
+    }
+    .card::before {
+      content: "";
+      position: absolute;
+      left: -46px;
+      top: 28px;
+      width: 24px;
+      height: 24px;
+      background: var(--primary);
+      border: 4px solid var(--card);
+      border-radius: 50%;
+      box-shadow: 0 0 0 3px var(--border);
+    }
+    .card h2 {
+      margin: 0 0 4px;
+      color: var(--primary-dark);
+      font-size: 24px;
+    }
+    .card .meta {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+    .card h3 {
+      margin: 18px 0 8px;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--dirt);
+    }
+    .card ul { margin: 6px 0 12px 0; padding-left: 20px; }
+    .card li { margin-bottom: 6px; }
+    .card p { margin: 8px 0; }
+    .card code {
+      background: rgba(0,0,0,0.05);
+      padding: 2px 6px;
+      border-radius: 3px;
+      border: 1px solid rgba(139, 90, 43, 0.3);
+      font-family: ui-monospace, Consolas, monospace;
+      font-size: 0.88em;
+    }
+    .icon {
+      display: inline-block;
+      width: 22px;
+      text-align: center;
+      margin-right: 6px;
+    }
+    .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-top: 8px;
+    }
+    @media (max-width: 720px) {
+      .row { grid-template-columns: 1fr; }
+      header h1 { font-size: 30px; }
+    }
+    .section-label {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 3px;
+      color: white;
+      margin-right: 8px;
+    }
+    .goal { background: var(--accent-goal); }
+    .brain { background: var(--accent-brain); }
+    .bug { background: var(--accent-bug); }
+    .learn { background: var(--accent-learn); }
+
+    /* --- Manifesto section --- */
+    .manifesto {
+      background: white;
+      border: 3px solid var(--dirt);
+      padding: 40px 48px;
+      margin-top: 60px;
+      box-shadow: 8px 8px 0 rgba(0,0,0,0.15);
+    }
+    .manifesto h2 {
+      color: var(--primary-dark);
+      font-size: 28px;
+      margin-top: 0;
+      border-bottom: 3px solid var(--primary);
+      padding-bottom: 10px;
+    }
+    .manifesto blockquote {
+      border-left: 6px solid var(--primary);
+      padding-left: 20px;
+      margin: 24px 0;
+      color: var(--text);
+      font-style: italic;
+    }
+    .manifesto ol { padding-left: 24px; }
+    .manifesto ol li { margin-bottom: 12px; }
+    .manifesto .highlight {
+      background: linear-gradient(120deg, transparent 0%, transparent 30%, #FFE082 30%, #FFE082 100%);
+      padding: 0 4px;
+      font-weight: 600;
+    }
+
+    /* --- Nav back --- */
+    .back-link {
+      display: inline-block;
+      color: white;
+      text-decoration: none;
+      margin-bottom: 12px;
+      opacity: 0.85;
+      font-size: 14px;
+    }
+    .back-link:hover { opacity: 1; }
+
+    /* Tag cloud */
+    .tag-cloud {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 20px;
+    }
+    .tag {
+      background: rgba(139, 90, 43, 0.1);
+      border: 1px solid var(--dirt);
+      color: var(--dirt);
+      padding: 4px 12px;
+      font-size: 13px;
+      border-radius: 3px;
+    }
+    .tag.brain { background: rgba(99, 102, 241, 0.1); border-color: var(--accent-brain); color: var(--accent-brain); }
+    .tag.bug { background: rgba(239, 68, 68, 0.1); border-color: var(--accent-bug); color: var(--accent-bug); }
+    .tag.learn { background: rgba(16, 185, 129, 0.1); border-color: var(--accent-learn); color: var(--accent-learn); }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="pipeline.html" class="back-link">← Volver al pipeline técnico</a>
+    <h1>🕰️ Timeline del proyecto</h1>
+    <p class="sub">RAG sobre la Minecraft Wiki — 5 iteraciones de mejora dirigidas por evidencia real, no por checklist de features.</p>
+  </header>
+
+  <div class="container">
+
+    <div class="timeline">
+
+      <!-- ============ v1 ============ -->
+      <div class="card">
+        <h2>v1 — RAG Minecraft Wiki (baseline)</h2>
+        <div class="meta">🎯 Objetivo: construir el pipeline RAG clásico end-to-end sobre un dataset con alma.</div>
+
+        <p><strong>Lo que salió:</strong> pipeline completo en Python puro (sin LangChain), scraping de la Minecraft Wiki vía API MediaWiki con <code>mwclient</code>, embeddings con <code>all-MiniLM-L6-v2</code> (inglés puro), ChromaDB local, FastAPI + widget web embebible, bot Mineflayer para chat in-game, Docker para deploy.</p>
+
+        <h3><span class="section-label brain">🧠 Decisiones de orquestación</span></h3>
+        <ul>
+          <li><strong>Sin LangChain</strong>: control total, sin abstracciones opacas que rompen entre versiones. Puedo debug cada capa yo mismo.</li>
+          <li><strong>CC-BY-SA de la wiki</strong>: dataset legal para portafolio público. Dije NO a scrapear libros de Harry Potter/Sapiens por copyright.</li>
+          <li><strong>Modelo monolingüe inglés</strong>: mejor performance que multilingüe cuando el corpus está en inglés. Claude traduce al responder.</li>
+          <li><strong>Mineflayer en vez de Fabric mod</strong>: evita aprender Java + Gradle. ~150 líneas de JS vs. un proyecto Java completo.</li>
+          <li><strong>ChromaDB local</strong>: simple, persistente, sin infra extra. Suficiente para &lt;100k chunks.</li>
+        </ul>
+
+        <h3><span class="section-label bug">🐛 Problemas que detecté probando</span></h3>
+        <ul>
+          <li>Retrieval imperciso: pedía "Diamond Pickaxe" y salía Anvil (porque menciona diamond).</li>
+          <li>Preguntas en español a corpus inglés: score bajo, chunks poco relevantes.</li>
+          <li>El artículo "Fortune" existía pero no salía en top-5 aunque preguntara directo por él.</li>
+        </ul>
+
+        <h3><span class="section-label learn">📚 Lo que aprendí</span></h3>
+        <ul>
+          <li>El patrón RAG completo: <em>retrieve → contexto → LLM → respuesta con citas</em>.</li>
+          <li>Embeddings, cosine similarity, top-K.</li>
+          <li>Web scraping vía MediaWiki API es mucho más limpio que HTML.</li>
+          <li>Chunk size + overlap tradeoffs (800/150 es el sweet spot para wikis).</li>
+        </ul>
+      </div>
+
+      <!-- ============ v2 ============ -->
+      <div class="card">
+        <h2>v2 — Calidad: Query Rewriting + Re-ranking</h2>
+        <div class="meta">🎯 Objetivo: fixear el retrieval impreciso con las técnicas estándar de la industria.</div>
+
+        <p><strong>Lo que salió:</strong> <code>Claude Haiku</code> genera 3 variaciones de la query (multi-query) + <code>cross-encoder ms-marco</code> reordena top-20 → top-5 con precisión mucho mayor que el bi-encoder solo. Todo detrás de feature flags <code>QUERY_REWRITE</code> y <code>RERANK</code> para A/B testing. Orquestador único en <code>pipeline.py</code>.</p>
+
+        <h3><span class="section-label brain">🧠 Decisiones de orquestación</span></h3>
+        <ul>
+          <li><strong>Multi-query en vez de HyDE</strong>: mejor cobertura para queries en español sobre corpus inglés (cada variación captura un ángulo distinto).</li>
+          <li><strong>Haiku para rewriter, Sonnet para respuesta</strong>: Haiku es 10x más barato + 3x más rápido, suficiente para reformular. Sonnet solo para lo que necesita razonamiento.</li>
+          <li><strong>Cross-encoder local</strong>: gratis (~90 MB one-time), no API, no costo por query. Corre en CPU en ~200ms.</li>
+          <li><strong>Feature flags para A/B testing</strong>: puedo comparar con/sin cada mejora empíricamente en vez de asumir.</li>
+        </ul>
+
+        <h3><span class="section-label bug">🐛 Problemas que detecté probando</span></h3>
+        <ul>
+          <li>Crafting recipes desaparecían del texto scrapeado (bug del scraper: <code>strip_code()</code> borraba los templates <code>{{Crafting}}</code>).</li>
+          <li>LLM alucinaba: "No tengo info... <em>sin embargo, sé que 3 Diamonds + 2 Sticks</em>" — colada de conocimiento pre-entrenado.</li>
+          <li>Chat MC mostraba <code>**asteriscos**</code> literales (markdown no se renderiza).</li>
+        </ul>
+
+        <h3><span class="section-label learn">📚 Lo que aprendí</span></h3>
+        <ul>
+          <li>Bi-encoder vs cross-encoder: por qué existen los dos, cuándo usar cada uno.</li>
+          <li>Tradeoff latencia vs calidad: +200ms de re-ranking vs. +10-15% precisión.</li>
+          <li>Feature flags como técnica de ingeniería, no solo de producto.</li>
+          <li>Cuándo un LLM "cuela" info pre-entrenada aunque le digas que no.</li>
+        </ul>
+      </div>
+
+      <!-- ============ v3 ============ -->
+      <div class="card">
+        <h2>v3 — UX in-game + fix de recetas + anti-alucinación</h2>
+        <div class="meta">🎯 Objetivo: hacer el sistema usable de verdad in-game.</div>
+
+        <p><strong>Lo que salió:</strong> preservación de templates <code>{{Crafting}}</code> antes de <code>strip_code()</code> (30 líneas de scraper) para que las recetas SÍ estén en el corpus. Dos system prompts: <code>SYSTEM_PROMPT_FULL</code> (widget web, markdown + citas) y <code>SYSTEM_PROMPT_CHAT</code> (bot in-game, texto plano corto). Rebranding del bot a <strong>MineRag</strong>. Función <code>cleanMarkdown()</code> en el bot que elimina asteriscos y citas [N] antes de mandar al chat.</p>
+
+        <h3><span class="section-label brain">🧠 Decisiones de orquestación</span></h3>
+        <ul>
+          <li><strong>Convertir templates en el scraper (30 líneas)</strong> en vez de migrar a HTML scraping (que rompía todo el pipeline). Menor blast radius.</li>
+          <li><strong>API param <code>format</code></strong> en vez de post-procesar en el bot: le decimos a Claude "sé breve y sin markdown" desde el prompt, ahorra tokens ($) y latencia (~1s).</li>
+          <li><strong>Texto plano en el bot</strong> cuando descubrí que MC kickea clientes que envían <code>§</code> (código de color): solo el servidor puede enviarlos.</li>
+        </ul>
+
+        <h3><span class="section-label bug">🐛 Problemas que detecté probando in-game</span></h3>
+        <ul>
+          <li>Bot kickeado por <code>multiplayer.disconnect.illegal_characters</code> al usar <code>§</code>.</li>
+          <li><code>SYSTEM_PROMPT_CHAT</code> quedó demasiado defensivo ("PARA AHÍ", "honestidad > utilidad") → el modelo se autocensuraba aunque tuviera contexto válido. Pico de diamante ya no respondía.</li>
+          <li>Corpus incompleto: Weakness Potion y otros no estaban porque solo scrapeé priority pages para probar el fix.</li>
+          <li>"Tolva" no matcheaba "Hopper" en retrieval consistentemente — el rewriter dependía de que Haiku acertara.</li>
+        </ul>
+
+        <h3><span class="section-label learn">📚 Lo que aprendí</span></h3>
+        <ul>
+          <li>MC solo permite <code>§</code> desde servidor, no cliente. Diferencia arquitectural importante.</li>
+          <li>Prompt engineering fino: balance entre defensivo y útil. "Honestidad" mal calibrada = sistema inútil.</li>
+          <li><code>mwparserfromhell</code> es potente pero tiene límites: templates específicos requieren manejo custom.</li>
+          <li>Cuándo re-scrape es necesario y cuándo re-ingest basta.</li>
+        </ul>
+      </div>
+
+      <!-- ============ v4 ============ -->
+      <div class="card">
+        <h2>v4 — Observabilidad + traducción robusta + benchmark</h2>
+        <div class="meta">🎯 Objetivo: datos reales medibles para vender el proyecto con evidencia (portafolio).</div>
+
+        <p><strong>Lo que salió:</strong> query logger persistente JSONL (<code>data/logs/queries.jsonl</code>) que graba cada request al RAG con respuesta completa. Diccionario ES→EN manual (~90 términos) que garantiza traducción determinística en el rewriter. Rebalance del <code>SYSTEM_PROMPT_CHAT</code> (menos defensivo, más útil). Benchmark script con backfill de las queries reales del historial. Timeline visual (esta página).</p>
+
+        <h3><span class="section-label brain">🧠 Decisiones de orquestación</span></h3>
+        <ul>
+          <li><strong>Diccionario manual en vez de traducción dinámica con Haiku</strong>: determinístico, cero costo, cero latencia. Extensible línea a línea.</li>
+          <li><strong>JSONL append-only en vez de DB</strong>: portable, versionable en git, exportable a pandas con 1 línea, sin infra.</li>
+          <li><strong>Backfill del historial real</strong> en vez de golden set fabricado: las queries que fallaron en pruebas son las mejores para benchmark.</li>
+          <li><strong>Gráficas después, no ahora</strong>: con 5 queries son ruido, con 50+ son historia. Primero acumular datos reales de uso.</li>
+        </ul>
+
+        <h3><span class="section-label bug">🐛 Problemas que detecté probando</span></h3>
+        <ul>
+          <li>Regresión in-game: "cómo crafteo una tolva" seguía sin funcionar aunque Hopper estaba en el corpus → glosario ES→EN lo resuelve deterministicamente.</li>
+          <li>Regresión in-game: "pico de diamante" en chat devolvía "no tengo info" cuando en CLI sí funcionaba → prompt chat demasiado defensivo.</li>
+          <li><strong>🆕 (con el logger activo)</strong>: al hacer 19 queries reales desde el widget, detecté que <code>Language</code>, <code>Cactus</code>, <code>Cake</code>, <code>Biome/Before*</code> dominaban en 14/19 queries. Este bug era invisible antes del logger — fue v5 quien lo arregló.</li>
+        </ul>
+
+        <h3><span class="section-label learn">📚 Lo que aprendí</span></h3>
+        <ul>
+          <li>Observabilidad es Fase B obligatoria en RAG serio, no opcional.</li>
+          <li>Tradeoff manual vs dinámico en glossaries: manual gana en cero-costo y determinismo.</li>
+          <li>Cómo medir sin sobre-ingeniar: JSONL + un script python bastan para el 90% del valor.</li>
+          <li>Datos reales &gt; golden sets fabricados. Un usuario probando 2 semanas genera mejor benchmark que 100 queries inventadas.</li>
+        </ul>
+      </div>
+
+      <!-- ============ v5 ============ -->
+      <div class="card">
+        <h2>v5 — Filtrar corpus ruidoso (con datos reales)</h2>
+        <div class="meta">🎯 Objetivo: eliminar los artículos "basura" que dominaban el retrieval en las queries reales del widget.</div>
+
+        <p><strong>Lo que salió:</strong> tras 19 queries reales del widget (registradas por el logger de v4), detecté que <code>Language</code>, <code>Cactus</code>, <code>Cake</code>, <code>Biome/Before*</code>, <code>Achievement</code> aparecían constantemente como top-1 falso. Fix con 3 defensas complementarias: <strong>blocklist</strong> (~40 títulos + regex patterns), <strong>title boost</strong> (+0.3 al score si el título aparece en la query), <strong>score floor</strong> (0.15 → respuesta honesta sin llamar al LLM).</p>
+
+        <h3><span class="section-label brain">🧠 Decisiones de orquestación</span></h3>
+        <ul>
+          <li><strong>Filtrar en runtime, no re-scrape</strong>: los 1039 artículos siguen ahí. Cero riesgo de perder datos, cambio reversible con env var.</li>
+          <li><strong>Blocklist manual, no ML</strong>: determinístico, auditable línea a línea. Un modelo para "clasificar artículos basura" sería overkill para 40 casos claros.</li>
+          <li><strong>Boost aditivo</strong>: preserva la señal semántica del cross-encoder pero premia matching directo por nombre.</li>
+          <li><strong>Score floor conservador (0.15)</strong>: bajo para no bloquear respuestas legítimas cortas. Ahorra $$$ y latencia cuando el retrieval no encontró nada útil.</li>
+          <li><strong>Datos reales &gt; intuición</strong>: sin el logger de v4, este problema hubiera sido invisible.</li>
+        </ul>
+
+        <h3><span class="section-label bug">🐛 Problemas que detecté probando</span></h3>
+        <ul>
+          <li>14 de 19 queries reales del widget devolvían artículos irrelevantes en top-1 (Cactus, Language, Cake, Biome/Before 1.18).</li>
+          <li>Scores del cross-encoder consistentemente en 0.0-0.006 en las queries fallidas — señal de que el reranker "sabía" que los chunks eran malos, pero no había alternativa mejor.</li>
+        </ul>
+
+        <h3><span class="section-label learn">📚 Lo que aprendí</span></h3>
+        <ul>
+          <li><strong>RAG en producción requiere defensas explícitas</strong>. Los embeddings + re-ranking no son suficientes cuando el corpus tiene artículos con vocabulario disperso.</li>
+          <li><strong>La observabilidad de v4 fue lo que hizo detectable este problema</strong>. Sin el <code>queries.jsonl</code>, el patrón sería invisible.</li>
+          <li><strong>La solución óptima NO es más ML</strong> (más embeddings, mejor re-ranker) sino <strong>filtros de dominio</strong>. El humano orquestador aporta ese conocimiento que ningún modelo tiene.</li>
+          <li><strong>Score floor + respuesta útil</strong> es mejor UX que forzar al LLM a fabricar "no tengo info" verbose. Menos $$, menos tiempo, mejor experiencia.</li>
+        </ul>
+
+        <h3><span class="section-label goal">📈 Impacto medido</span></h3>
+        <table style="width:100%; border-collapse: collapse; margin-top: 10px;">
+          <tr style="background:#F5EBD8;">
+            <th style="padding: 6px; border: 1px solid #8B5A2B; text-align:left;">Métrica</th>
+            <th style="padding: 6px; border: 1px solid #8B5A2B;">v4</th>
+            <th style="padding: 6px; border: 1px solid #8B5A2B;">v5</th>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Backfill hit rate</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">50% (5/10)</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>90% (9/10)</strong></td>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Latencia p50</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">7657ms</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>5816ms (-24%)</strong></td>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Ruido (Cactus/Language) en top-1</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">14/19 queries</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>0/19 queries</strong> 🎯</td>
+          </tr>
+        </table>
+      </div>
+
+    </div>
+
+    <!-- ============ Manifiesto ============ -->
+    <div class="manifesto">
+      <h2>🎼 Sobre orquestar en la era del AI-assisted coding</h2>
+
+      <p>Este proyecto no lo "hice" en el sentido tradicional. <strong>No escribí cada línea de código.</strong> Lo que hice fue tomar decisiones de ingeniería fundamentadas y dirigir la iteración basándome en pruebas reales.</p>
+
+      <p>Mi trabajo real fue:</p>
+
+      <ol>
+        <li><strong>Elegir el problema correcto.</strong> RAG sobre Minecraft, no sobre políticas del IMSS. Esa decisión determinó la vibra, el uso real, y el valor del portafolio. El código gubernamental que hice primero fue solo el warm-up.</li>
+
+        <li><strong>Tomar decisiones técnicas fundamentadas.</strong> Sin LangChain, con re-ranking + query rewriting, in-game con Mineflayer y no con Fabric mod. Cada decisión tiene un tradeoff que <em>entiendo</em> — puedo explicar por qué elegí X sobre Y en una entrevista.</li>
+
+        <li><strong>Probar en el mundo real y detectar bugs.</strong> La mayoría de los fixes de v2 → v4 vinieron de mí jugando Minecraft y notando que "esto no responde bien", no de tests automatizados. Ese instinto de producto es lo que separa un demo de un sistema útil.</li>
+
+        <li><strong>Dirigir la iteración.</strong> Cada versión resolvió problemas específicos que vi. No es una lista de features aleatorias, es un ciclo de <em>probar → detectar → decidir prioridad → arreglar → volver a probar</em>.</li>
+      </ol>
+
+      <blockquote>
+        El AI fue el pair programmer que escribió el código. <span class="highlight">Yo fui el ingeniero que decidió qué código escribir, qué probar, qué priorizar, y qué desechar.</span> En 2026, esa es la habilidad que separa a un desarrollador reemplazable de un partner técnico.
+      </blockquote>
+
+      <p><strong>Cosas que valen la pena que veas en el código</strong>, no porque las escribí yo, sino porque las <em>decidí</em>:</p>
+
+      <div class="tag-cloud">
+        <span class="tag brain">Multi-query en vez de HyDE</span>
+        <span class="tag brain">Cross-encoder local, no Cohere API</span>
+        <span class="tag brain">Diccionario manual, no Haiku dinámico</span>
+        <span class="tag brain">API <code>format</code> flag, no post-processing</span>
+        <span class="tag brain">JSONL append-only, no DB</span>
+        <span class="tag brain">Mineflayer, no Fabric mod</span>
+        <span class="tag brain">Blocklist runtime, no re-scrape</span>
+        <span class="tag brain">Title boost aditivo</span>
+        <span class="tag brain">Score floor + short-circuit</span>
+        <span class="tag bug">§ ilegal en cliente MC</span>
+        <span class="tag bug">Prompt CHAT demasiado defensivo</span>
+        <span class="tag bug">Templates borrados por strip_code</span>
+        <span class="tag bug">Language/Cactus dominando retrieval</span>
+        <span class="tag learn">Bi-encoder + cross-encoder pipeline</span>
+        <span class="tag learn">Feature flags para A/B testing</span>
+        <span class="tag learn">Anti-alucinación balanceada</span>
+        <span class="tag learn">Observabilidad revela bugs invisibles</span>
+        <span class="tag learn">Filtros de dominio &gt; más ML</span>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
