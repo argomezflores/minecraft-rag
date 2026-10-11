@@ -287,7 +287,13 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 4. **Blocklist** ([src/corpus_filters.py](../src/corpus_filters.py)). Cake, Cactus, Banner, Fluid, Cooking y Player se bloquearon por el bug del chunker (#001), así que "¿cómo hago un pastel?" nunca encuentra Cake. Quitarlos, agregar 2 preguntas al eval y volver a medir.
 5. **Docs desactualizados.** `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
 6. **Capturas** del widget y del bot in-game → `docs/img/`, enlazadas desde el README (las toma Rogelio).
-7. **CV.** Los bullets con los números finales ya están. Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026.
+7. **CV.** Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026. Bullets propuestos con los números finales:
+   > **Minecraft Knowledge Assistant (RAG)** · Python, FastAPI, ChromaDB, Claude API · github.com/argomezflores/minecraft-rag
+   > - Built a from-scratch RAG pipeline (no LangChain) over 1,000+ Minecraft Wiki articles that answers Spanish gameplay questions with cited sources, through a REST API, a web widget and an in-game bot.
+   > - Designed an evaluation harness that exposed five root-cause bugs, among them a chunker that duplicated text 19× and an English-only re-ranker that was blind to Spanish queries. Fixing them raised top-1 retrieval accuracy from 52% to 100% on a 27-question dev set and cut false "not found" answers from 7 to 0.
+   > - Reduced the vector index from 113K to 8.4K chunks and indexing time from ~15 to ~3 minutes.
+
+   En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente.
 8. **Opcional, después del CV:**
    - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
    - Docker de un comando (el compose está corregido pero sin probar).
