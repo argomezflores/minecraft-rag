@@ -31,19 +31,14 @@ META_BLOCKLIST_TITLES: set[str] = {
     "Advancement",           # Lista de avances (Java Edition); keyword denso
     "Death messages",        # Lista de mensajes de muerte; vocabulario disperso
     "Server",                # Sistema de servidores; no aporta a queries de items
-    "Player",                # Página del jugador; keyword espurio en mecánicas
     "Gameplay",              # Página raíz de gameplay; disperso
     "Blocking",              # Mecánica antigua eliminada; matchea "bloque" falsamente
 
     # --- Recopilaciones que dominan por densidad léxica
     "Mine Ingredient",       # Página específica de Bedrock, muy densa
-    "Cooking",               # Lista de recetas; keyword denso
-
-    # --- Artículos cortos con matcheo espurio
-    "Cactus",                # Corto y denso; aparece constantemente
-    "Cake",                  # Corto y denso; aparece constantemente
-    "Fluid",                 # Página genérica de fluidos
-    "Banner",                # Aparece como falso positivo en logs
+    # 📚 v6: Player, Cooking, Cactus, Cake, Fluid y Banner se desbloquearon. Dominaban
+    # por el bug del chunker (miles de chunks duplicados), no por ser ruido;
+    # bloquearlos impedía responder "¿cómo hago un pastel?" (docs/eval-log.md #012).
 
     # --- Easter eggs / April Fools (no son mecánicas reales)
     "Funky Portal",          # April Fools

@@ -30,6 +30,9 @@
   {"question": "¿Cómo hago un horno?", "expected_source_contains": "Furnace", "expected_answer_contains": ["Cobblestone"], "tags": ["crafting"]},
   {"question": "¿Cómo hago un soporte para pociones?", "expected_source_contains": "Brewing Stand", "expected_answer_contains": ["Blaze Rod", "Cobblestone"], "tags": ["crafting"]},
 
+  {"question": "¿Cómo hago un pastel?", "expected_source_contains": "Cake", "expected_answer_contains": ["Milk", "Sugar", "Wheat"], "tags": ["crafting", "blocklist"]},
+  {"question": "¿Cómo hago un estandarte?", "expected_source_contains": "Banner", "expected_answer_contains": ["Wool", "Stick"], "tags": ["crafting", "blocklist"]},
+
   {"question": "¿Cómo crafteo una espada de rubí?", "expect_abstain": true, "tags": ["negative"]},
   {"question": "¿Cómo instalo mods con Forge?", "expect_abstain": true, "tags": ["negative"]},
   {"question": "¿Cómo hago una poción de vuelo?", "expect_abstain": true, "tags": ["negative"]}

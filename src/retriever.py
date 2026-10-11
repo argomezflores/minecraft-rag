@@ -10,7 +10,7 @@ Devolvemos también el score y metadata para poder mostrarle al usuario
 de dónde salió la información (link a la wiki).
 
 🆕 v5: filtrado post-retrieval con blocklist de artículos "ruido"
-(Language, Cactus, Cake, Biome/Before*, etc.) detectados en logs reales.
+(Language, Death messages, Biome/Before*, April Fools, etc.) detectados en logs reales.
 Ver src/corpus_filters.py para la lista completa.
 """
 

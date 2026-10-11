@@ -277,6 +277,61 @@ Términos que aún faltan:
 
 ---
 
+## 011 — El scraper no entra a subcategorías: casi no hay mobs, biomas ni estructuras
+
+**Síntoma.** Rogelio preguntó si se puede preguntar por el Ender Dragon. No está en el corpus, y tampoco el Creeper, el Wither, el Zombie, el Enderman, el Nether, el End ni ninguna estructura.
+
+**Evidencia.**
+
+| Categoría | Artículos en el corpus |
+|---|---|
+| Blocks | 462 |
+| Items | 296 |
+| Gameplay | 127 |
+| Priority | 84 |
+| Enchantments | 36 |
+| Potions | 24 |
+| **Mobs** | **12** |
+| **Biomes** | **3** |
+| Redstone circuits | 2 |
+
+Los 12 "mobs" son páginas generales (*Mob*, *Boss*, *Undead*…). En la wiki, `Category:Mobs` tiene 13 páginas y **27 subcategorías** (*Hostile mobs*, *Boss mobs*…), y ahí viven los mobs reales.
+
+**Causa.** `fetch_category()` ([src/scraper.py](../src/scraper.py)) solo procesa las páginas directas (namespace 0) y descarta las subcategorías sin avisar. Además, varias categorías de `CATEGORIES` en `scrape_wiki.py` no existen en la wiki (`Mechanics`, `Redstone components`, `Utility blocks`, `Farming`) y regresaron 0 artículos sin error. También faltan 5 páginas prioritarias que en realidad son redirects (ej. `Enchanting`, `Hunger`), y `_process_page()` también las descarta en silencio.
+
+**Lo que falta, contado en la API de la wiki:**
+
+| Subcategoría | Páginas |
+|---|---|
+| Hostile mobs | 46 |
+| Passive mobs | 41 (3 ya están) |
+| Neutral mobs | 20 |
+| Boss mobs | 2 (Ender Dragon, Wither) |
+| Generated structures | 41 |
+| Dimensions | 9 |
+| Overworld biomes | 59 |
+| Nether biomes | 5 |
+| End biomes | 5 |
+
+En total son **~220 páginas**: ~4-5 min de scrape a 1 req/s y ~4 min de re-ingest.
+
+**Decisión.** _(pendiente — Rogelio)_
+
+---
+
+## 012 — Desbloquear artículos legítimos de la blocklist
+
+**Contexto.** La blocklist de v5 bloqueaba Cake, Cactus, Banner, Fluid, Cooking y Player como "ruido". En realidad dominaban por el bug del chunker (#001), así que "¿cómo hago un pastel?" nunca podía encontrar *Cake*.
+
+**Decisión** (Rogelio): desbloquear esos 6 artículos. Language, Death messages, Biome/Before*, April Fools, easter eggs y meta-páginas siguen bloqueados. Se agregaron 2 preguntas al eval (pastel y estandarte); ahora son 32.
+
+**Resultado** (`results_blocklist-clean_*.json`):
+- Fuente top-1: **29/29**. "¿Cómo hago un pastel?" → *Cake*, con la receta completa (3 Milk Bucket, 2 Sugar, Egg, 3 Wheat). "¿Cómo hago un estandarte?" → *Banner*, con 6 de lana y 1 Stick.
+- Fuente en top-5: 100%. Términos esperados: 0.91. Falsas abstenciones: 0. Negativas: 3/3. Latencia p50: 6.5 s.
+- No hubo regresiones en las 27 preguntas anteriores.
+
+---
+
 ## Pendientes (actualizado 2026-10-11)
 
 Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo lo de v6. Docs actualizados a v6: `README.md`, este log, `docs/pipeline.html` y `docs/timeline.html`.
@@ -284,7 +339,7 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 1. **Visibilidad.** Confirmar que el repo está en **Public** (Settings → Danger Zone). Al hacerlo público, el email `argomezflores@gmail.com` queda visible en el User-Agent (`.env.example`, `src/config.py`, notebook). Opción: cambiarlo por la URL del repo, que la wiki también acepta como contacto.
 2. **`ipykernel` fuera de `requirements.txt`.** La app no lo usa (solo el notebook), y su dependencia `debugpy` tiene rutas tan largas que `pip install` falló en Windows al clonar en una carpeta anidada. Moverlo a `requirements-notebook.txt`.
 3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
-4. **Blocklist** ([src/corpus_filters.py](../src/corpus_filters.py)). Cake, Cactus, Banner, Fluid, Cooking y Player se bloquearon por el bug del chunker (#001), así que "¿cómo hago un pastel?" nunca encuentra Cake. Quitarlos, agregar 2 preguntas al eval y volver a medir.
+4. ~~**Blocklist**~~ ✅ hecho, ver #012.
 5. **Docs desactualizados.** `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
 6. **Capturas** del widget y del bot in-game → `docs/img/`, enlazadas desde el README (las toma Rogelio).
 7. **CV.** Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026. Bullets propuestos con los números finales:
@@ -294,7 +349,8 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
    > - Reduced the vector index from 113K to 8.4K chunks and indexing time from ~15 to ~3 minutes.
 
    En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente.
-8. **Opcional, después del CV:**
+8. **Cobertura (#011):** decidir si se agregan mobs, jefes, estructuras, dimensiones y biomas (~220 páginas), si el scraper debe recorrer subcategorías, y arreglar los redirects de las páginas prioritarias.
+9. **Opcional, después del CV:**
    - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
    - Docker de un comando (el compose está corregido pero sin probar).
    - pytest en GitHub Actions.
