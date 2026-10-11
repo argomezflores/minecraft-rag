@@ -430,13 +430,17 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 6. **Capturas** (las toma Rogelio). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
    - ✅ `docs/img/demo.gif` (4.9 MB, acelerado 1.5×): grabación del chat web respondiendo la poción de resistencia al fuego y el repeater. Ya está enlazado arriba en el README.
    - `docs/img/ingame-bot.png`: el chat de Minecraft con `!rag <pregunta>` y la respuesta de MineRag.
-7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión final (2026-10-11): 3 bullets de una línea cada uno, con el re-ranking resaltado:
+7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión final (2026-10-11), con un bullet grande en lenguaje simple:
    > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
    > - Built a RAG assistant from scratch over 1,200+ Minecraft Wiki articles (Claude, ChromaDB, cross-encoder re-ranking).
-   > - Eval harness exposed 5 root-cause bugs; re-ranking fix took top-1 accuracy 67% → 93% (100% on dev set, 5/6 unseen).
-   > - Served via FastAPI to a Minecraft-styled web chat and an in-game bot; cut the vector index 10× (113K → 11K chunks).
+   > - Built a 30+ question test set to measure answer quality; it exposed 5 hidden bugs, such as the index repeating the same text 19×, potion recipes lost during scraping, and a re-ranker that only understood English. Fixing them raised answers backed by the right article from 52% to 100% (5/6 on questions never used for tuning).
+   > - Served via FastAPI to a Minecraft-styled web chat and an in-game bot.
 
-   En entrevista, decir que el 100% es sobre el dev set y que en preguntas independientes fue 5/6.
+   Qué significa cada parte:
+   - El test set es el eval set.
+   - "repeating the same text 19×" es #001; "recipes lost" es #002; "re-ranker that only understood English" es #003.
+   - "52% → 100%" es la fuente top-1 sobre el dev set.
+   - "5/6 on questions never used for tuning" son las preguntas `unseen` de #011. Si preguntan por el 100%, esa es la respuesta honesta.
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
 9. **Calidad del corpus (decididos "después"):** #015 (topes de items/bloques + no re-descargar lo cacheado), #016 (plantillas JE/BE/xp → requiere re-scrape completo, hacerlo junto con #015) y #014 (preguntas por descripción: `RETRIEVAL_TOP_N` 20→40 o variante "adivina el nombre").
 10. **Opcional, después del CV:**
