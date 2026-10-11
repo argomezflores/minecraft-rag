@@ -376,6 +376,48 @@ En esta corrida "¿Cómo llego al End?" salió con fuente top-1 correcta (*The E
 
 ---
 
+## Prueba manual de Rogelio (2026-10-11): 9 preguntas desde el widget
+
+7 de 9 salieron muy bien:
+- El Wither, dos veces, incluso con el typo "whiter", porque Haiku lo corrige.
+- El Ender Dragon, incluidos los 12,000 XP.
+- La vida del Wither, distinguiendo Java y Bedrock.
+- El creeper.
+
+Las otras dos destaparon #014-#016.
+
+## 014 — Preguntas por descripción: el bi-encoder no encuentra la entidad
+
+**Evidencia.** "¿Qué mob es azul, vuela y recolecta items?" → "no encontré" (score top 0.068, bajo el floor). La respuesta es el Allay, y el artículo **sí está**. El cross-encoder calificaría su chunk con **0.729**, pero el bi-encoder lo deja en el **lugar #35** con la query en inglés, y solo pasan los primeros 20 por variante (`RETRIEVAL_TOP_N=20`). Nunca llegó al re-ranker.
+
+**Causa.** Los embeddings comparan significado general. Una descripción ("azul, vuela, recolecta") se parece poco al texto del artículo ("a small flying passive mob that follows the player who has an item"). No es que la pregunta sea ambigua, es un límite de recall.
+
+**Opciones.**
+- `RETRIEVAL_TOP_N` de 20 a 40: una env var, ~0.3-0.5 s más de latencia.
+- Una variante donde Haiku "adivina el nombre" solo para buscar. Relaja la regla de #005.
+
+**Decisión** (Rogelio): dejarlo como limitación por ahora.
+
+## 015 — Faltan ~500 páginas de items y bloques por los topes del scraper
+
+**Evidencia.** En la wiki, `Category:Items` tiene **489** páginas y `Category:Blocks` **767**. En el corpus hay 296 y 462, porque `CATEGORIES` tiene topes de 300 y 500. Por ejemplo, faltan *Ominous Bottle* y *Netherite Ingot*. "¿Qué es el frasco ominoso?" respondió razonablemente, pero desde el artículo del *Pillager*.
+
+**Nota de implementación** para cuando se haga: `fetch_category()` descarga el texto de cada página **antes** de que `_persist()` revise el cache, así que subir los topes volvería a pedir las ~1,250 páginas (~21 min). Conviene saltar las que ya están en cache antes de descargarlas (~9 min, solo lo nuevo).
+
+**Decisión** (Rogelio): dejarlo así por ahora.
+
+## 016 — Las plantillas pequeñas se borran: se pierden ediciones y números
+
+**Evidencia.** `Wither.txt` dice: *"In , it drops  XP only when killed by a player or tamed wolf. In , it always drops  XP"*. El original era `In {{JE}}, it drops {{xp|50}} XP… In {{BE}}…`. `strip_code()` borra `{{JE}}`/`{{BE}}`/`{{in|java}}` (de qué edición habla el dato) y `{{xp|N}}` (el número).
+
+**Impacto.** Hay riesgo de mezclar datos de Java y Bedrock y de perder cifras. El modelo no inventó nada: en "¿qué pasa si mato al Wither?" dijo que no tenía los drops en el contexto.
+
+**Fix propuesto.** Convertir esas plantillas a texto en `clean_wikitext()`, como las recetas. Requiere re-scrapear todo el corpus (~25 min), porque el cache guarda texto ya limpio. Conviene hacerlo en la misma pasada que #015.
+
+**Decisión** (Rogelio): después.
+
+---
+
 ## Pendientes (actualizado 2026-10-11)
 
 Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo lo de v6. Docs actualizados a v6: `README.md`, este log, `docs/pipeline.html` y `docs/timeline.html`.
@@ -394,7 +436,8 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 
    En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente. Dato extra después de #011: en 6 preguntas independientes (mobs, estructuras, dimensiones), 5/6 correctas tras ampliar el corpus (1/6 antes).
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
-9. **Opcional, después del CV:**
+9. **Calidad del corpus (decididos "después"):** #015 (topes de items/bloques + no re-descargar lo cacheado), #016 (plantillas JE/BE/xp → requiere re-scrape completo, hacerlo junto con #015) y #014 (preguntas por descripción: `RETRIEVAL_TOP_N` 20→40 o variante "adivina el nombre").
+10. **Opcional, después del CV:**
    - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
    - Docker de un comando (el compose está corregido pero sin probar).
    - pytest en GitHub Actions.
