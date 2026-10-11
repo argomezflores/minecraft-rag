@@ -4,6 +4,11 @@ Ask Minecraft questions in Spanish and get answers grounded in the official [Min
 
 It is built from scratch in Python, without LangChain. It has a wiki scraper that keeps crafting and brewing recipes, a custom chunker, local embeddings in ChromaDB, cross-encoder re-ranking, and Claude for query rewriting and answer generation. An evaluation harness drove every fix and records each one.
 
+<p align="center">
+  <img src="docs/img/demo.gif" alt="Asking the assistant in Spanish how to brew a Fire Resistance potion and what a redstone repeater does, with cited wiki sources" width="860">
+  <br><em>Real recording of the web chat, sped up 1.5×.</em>
+</p>
+
 ## Why I built this
 
 My brothers and I came back to Minecraft after years away. The game had changed a lot in the newer versions, and much of what we used to know was gone, even crafting recipes we once had memorized. We were relearning the game from scratch.

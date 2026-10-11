@@ -428,7 +428,7 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 4. ~~**Blocklist**~~ ✅ hecho, ver #012.
 5. **Docs desactualizados.** `pipeline.html` y `timeline.html` están en v6 pero no incluyen #011/#012 (ampliación de cobertura y blocklist). `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
 6. **Capturas** (las toma Rogelio). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
-   - `docs/img/widget-bad-omen.png`: el chat respondiendo "Tomé una poción de Bad Omen y no pasó nada, ¿qué hace?". Es un botón de ejemplo en la bienvenida.
+   - ✅ `docs/img/demo.gif` (4.9 MB, acelerado 1.5×): grabación del chat web respondiendo la poción de resistencia al fuego y el repeater. Ya está enlazado arriba en el README.
    - `docs/img/ingame-bot.png`: el chat de Minecraft con `!rag <pregunta>` y la respuesta de MineRag.
 7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión corta que cabe en el CV (2026-10-11):
    > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
