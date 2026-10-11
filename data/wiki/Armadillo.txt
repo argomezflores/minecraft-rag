@@ -1,0 +1,139 @@
+TITLE: Armadillo
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Armadillo
+---
+An armadillo is a passive mob found in badlands and savannas. It rolls up in response to being hurt or being near undead mobs or players that are sprinting or mounted. While in this state, it takes less damage. It also repels spiders and cave spiders. It is the only source of armadillo scutes, which the armadillo sheds over time, as well as when it is brushed.
+
+Spawning
+Armadillos spawn in groups of two to three or four in savannas, savanna plateaus, and windswept savannas and in groups of one to two in badlands, eroded badlands, and wooded badlands. They spawn at a light level of 9 or more  and a light level of 7 or more .
+
+, armadillos have a 5% chance to spawn as a baby.
+
+Drops
+Armadillos drop 1 armadillo scute every 5–10 minutes, similar to the rate at which chickens lay eggs.
+
+experience orbs upon successful breeding.
+
+On death
+experience orbs if killed by a player or tamed wolf.
+Killing a baby armadillo yields no items nor experience.
+
+Brushing
+If a player or dispenser  a brush on an armadillo, it drops:
+1
+Brushing an armadillo uses 16 durability points, meaning an unenchanted brush has enough durability to obtain 4 / 5 armadillo scutes.
+
+Behavior
+thumb|Two armadillos rolled up.
+
+Spiders and cave spiders flee from armadillos when within 6 blocks of them. This only takes effect when the armadillo is not rolled up in its shell.
+
+Rolling up
+An armadillo can hide in its shell when it is hurt, confronted by undead, or confronted by players who are sprinting or riding anything. When an armadillo is rolled up it does not walk, cannot eat, and is not tempted by food. While rolled up, it takes a reduced amount of damage given by (original damage-1)/2, damage belonging to the type self_destruct is not affected by this . The armadillo occasionally peeks out from its shell to see if a threat is still near. It unrolls if it detects no threats for 3 seconds (60 ticks). It also unrolls immediately if is attached to a lead, or if it comes into contact with water or fire, or if they take magma, freezing, or poison damage. An armadillo does not roll up while fleeing, in water, on fire (they still roll up on campfires), in the air, or being led.
+
+The distance an armadillo checks for threats is the size of its hitbox inflated by 7 blocks horizontally and 2 blocks vertically.
+
+Breeding
+
+Armadillos follow players holding spider eyes within 10 / 16 blocks. Additionally, baby armadillos follow adults.
+
+A player can breed armadillos by using spider eyes on two of them. After breeding, a baby armadillo spawns and 1–7 experience is generated. The parents cannot be bred again for 5 minutes.
+
+Baby armadillos take 24000 ticks (20 minutes) to grow up, but the growth time can be accelerated  spider eyes. Each use takes 10% off the remaining time to grow up.
+
+An armadillo loses its willingness to breed if it rolls up after it is fed, but before it reaches its mate. It must be fed another spider eye to become willing to breed again.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Armadillos have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: The number of ticks until the armadillo drops a scute. A scute is dropped at 0 and this timer gets reset to a new random value between 6000 and 12000.
+: The name for the armadillo's current posture. state:"idle" means the armadillo is standing normally and is not rolled up. state:"scared" means the armadillo has rolled up as it feels threatened by a nearby mob or player. state:"unrolling" means the armadillo is playing its unrolling animation, exiting its scared state. Any other string for state defaults to the same behavior as "idle".
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The first iteration of the armadillo had deliberately basic animations due to feedback that the sniffer's animations were a bit too advanced. However, the developers felt that quality expectations had been raised, so subsequent armadillo animations were made more expressive.
+When first added to the game, the armadillo had its eyes on the front of its face. According to Jasper Boerstra this is because he felt that it would be difficult for the player to form a personal connection with the armadillo if the eyes were on the side of the head, since they wouldn't be visible while facing the mob directly. This decision was reverted following feedback.
+The tag on the armadillo plush however uses this initial design, despite the plush itself using its final design.
+In earlier development versions, though not entirely realistic, the armadillo's head peeked out when balled up because it was deemed amusing.
+Despite its passive nature, the armadillo has been referred to as a neutral mob on the official minecraft.net website.
+The armadillo is the only mob voted in during a mob vote that was released in a minor update (officially the Armored Paws drop as  1.20.5 and  1.20.80), instead of the next major update.
+It is also the final mob to be added through a mob vote.
+The development time for the armadillo was the shortest for any mob vote winner, introduced in a snapshot just two months after winning the vote at Minecraft Live 2023.
+
+Gallery
+Renders
+
+Animations
+
+Development renders
+
+Development images
+
+Concept artwork
+
+Screenshots
+
+Textures
+
+In other media
+
+Mob vote artwork
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+
+de:Gürteltier
+es:Armadillo
+fr:Tatou
+he:ארמדיל
+it:Armadillo
+ja:アルマジロ
+ko:아르마딜로
+lzh:犰狳
+pl:Pancernik
+pt:Tatu
+ru:Броненосец
+uk:Броненосець
+zh:犰狳

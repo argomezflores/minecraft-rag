@@ -1,0 +1,167 @@
+TITLE: Nautilus
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Nautilus
+---
+A nautilus is a neutral mob that can be tamed, saddled, and ridden as an underwater mount that can dash and protects the rider from drowning. With no rider, it uses its dash to hunt pufferfish and to briefly retaliate if attacked. It can also be equipped with nautilus armor.
+
+Spawning
+Nautiluses spawn in all ocean biomes, in groups of 1-3. Nautiluses spawn between Y-levels 38 and 58.
+
+, nautiluses have a 10% chance to spawn as a baby.
+
+Nautiluses count toward the "water creature" mob cap and can despawn like other such mobs until the first time any player interacts with it, which at that point it becomes persistent and no longer counts toward any mob cap.
+
+Drops
+On death
+
+when killed by a player or tamed wolf.
+If equipped with a saddle and/or nautilus armor, they drop those items.
+
+Behavior
+Like its real-world namesake, a nautilus's mouth and tentacles face backward with respect to their movement direction. Being an aquatic mob, they are affected by the Impaling enchantment in .
+
+Nautiluses follow players holding any fish or bucket of fish within a 10-block radius.
+
+Nautiluses are immune to the Poison effect.
+
+Tamed nautiluses randomly swim around up to 32 blocks away, or 16 blocks if saddled.
+
+Attacking
+Adult nautiluses occasionally dash toward and attack nearby pufferfish. They also retaliate against players and mobs if provoked, using their dash attack. When dashing toward a target on land, nautiluses can launch themselves out of the water and accidentally become beached on land, where they are unable to move.
+
+They may also unintentionally attack a mob or player that stands between them and their target.
+
+When they are hostile, nautiluses cannot be leashed.
+
+Taming
+Nautiluses can be tamed by being  pufferfish or buckets of pufferfish. Each pufferfish or bucket of pufferfish has a  chance of taming the nautilus.
+
+Healing and breeding
+Adult nautiluses can be healed (or bred if at full health) by being  any fish or any bucket of fish.
+Food  Heals  Notes   Does not inflict Hunger, Poison, or Nausea.
+
+Baby nautiluses require  to grow up into adult nautiluses. This process can be sped up  any fish or any bucket of fish:
+, it takes 10 fish or bucket of fish for a baby nautilus to become an adult;
+, each fish or bucket of fish fed to a baby nautilus reduces its remaining growth time by 10%.
+
+Weaknesses
+Nautiluses take suffocation damage on land, like most other aquatic mobs. Similar to squid, a nautilus on land remains stationary rather than flopping around like a fish. They can be controlled and even dash when on land, moving much more slowly than in water.
+
+Usage
+thumb|right|upright|A nautilus being ridden by Steve
+
+Tamed and saddled nautiluses can be used as a means of underwater transportation. When ridden, the player is granted the Breath of the Nautilus effect, which pauses the oxygen bar while underwater, making it so resurfacing for air is no longer needed. The effect is ambient, meaning that the effect on the HUD has a blue outline, similar to effects from beacons.
+
+Equipment
+Tamed adult nautiluses have two equipment slots:
+Saddle slot: for equipping a saddle.
+Nautilus armor slot: for equipping nautilus armor.
+
+Baby nautiluses cannot be equipped, as they cannot be ridden.
+
+Equipment can be placed on a nautilus by holding it and then pressing the  control on the nautilus, or by accessing the nautilus's inventory. This can be done by pressing the  control on the nautilus while sneaking, or by mounting the nautilus and pressing the  control. A dispenser can also place a saddle or nautilus armor if it is facing a tamed nautilus.
+
+The equipment can be removed by two methods:
+Removing the equipment from their slots in the nautilus's inventory.
+shears on the nautilus. If both a saddle and nautilus armor are equipped, they are removed one at a time. The first use removes the nautilus armor, and a second use removes the saddle.
+
+Riding
+
+Once a nautilus is tamed and saddled, the player can control it with the standard directional controls; pressing  moves the nautilus in the direction the player is facing. The player dismounts using the  control. , it is impossible for a player to use a Nether portal or End portal while on a nautilus.
+
+A nautilus gradually gains speed while moving in a straight line, up to a swimming speed of 6.5 m/s. A nautilus can still move on land when controlled by a player, but is significantly slower, moving at a maximum of 0.88 m/s.
+
+Saddled nautiluses also have the ability to dash. When the player rides them, the experience bar on the HUD is replaced by a dash charging bar. Dashing is done using the  control: holding the control charges for a longer dash. When dashing, a nautilus launches up to about 12 blocks forward. A nautilus can dash every 2 seconds. Dashing while moving upward near the surface results in a quick breach, wherein the nautilus and its rider break the surface briefly.  This can effectively be a jump of about 6 blocks.
+
+Sounds
+Adult
+:
+
+:
+
+Baby
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Nautiluses have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+:
+
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+Prior to their addition to the game, in a 2023 Taking Inventory article on Minecraft.net, Duncan Geere stated that nautiluses may have once existed in the Minecraft world but possibly became extinct.
+While named after real-life es, the mob in the game is intended to be a "fantasy creature," with its design being inspired by  and the pre-existing nautilus shell item.
+The reasoning given for nautiluses pausing players' oxygen meters through the Breath of the Nautilus effect is that they eat pufferfish, which are used to brew potions of Water Breathing.
+'s Instagram account used a freeze frame of the second upload of Nautilus JE1 BE2.png in one of its posts.
+
+Gallery
+Renders
+
+Animations
+
+Nautilus with nautilus armor
+
+Development renders
+
+Mojang images
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Neutral mobs
+Category:Tameable mobs
+Category:Animal mobs
+Category:Aquatic mobs
+Category:Transport
+
+de:Nautilus
+es:Nautilo
+fr:Nautile
+ja:オウムガイ
+ko:앵무조개
+lzh:鸚鵡螺
+pl:Łodzik
+pt:Náutilo
+ru:Наутилус
+th:หอยงวงช้าง
+uk:Навтилус
+zh:鹦鹉螺

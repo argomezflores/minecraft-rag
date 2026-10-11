@@ -1,0 +1,124 @@
+TITLE: Bat
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Bat
+---
+A bat is a flying passive mob that spawns in dark areas. It is the only ambient mob in the game, intended to complement the game's atmospheric settings.
+
+Spawning
+thumb|A colony of bats
+Bats can spawn in groups of 8/2 in the Overworld at a light level of 3 or less  and a light level of 4 or less  at any Y-level, on blocks of stone, granite, diorite, andesite, tuff, or deepslate that are not directly exposed to the sky. They also need at least 1.5 air blocks (with for instance, a top trapdoor or top slab in the block above foot level). They can spawn in any Overworld biome except the deep dark.
+
+Bat entities do not count toward the passive mob cap, as they are considered ambient creatures in the entity inheritance, and therefore fall into the dedicated ambient category.
+
+Drops
+On death
+Bats do not drop any items or experience upon death.
+
+Behavior
+Bats often fly around aimlessly, squeaking randomly. Their flight pattern tends to favor the east, and sometimes they may fly into lava and catch on fire.
+
+Bats hang upside down on the underside of a solid block when idle, though they cannot hang on transparent or non-solid blocks. During this state, they squeak far less and occasionally turn to face different directions. They remain in this state until they are disturbed; if a player approaches a bat hanging upside down, even if the player is invisible, it flies away. This also happens if the player breaks the block the bat is hanging from.
+
+Bats despawn when over 32 blocks away from the player.
+
+Bats' collision boxes do not interact with the player or redstone components.
+
+Bats cannot be transported by conventional means. A lead cannot be attached to a bat, and it cannot be put in a minecart or boat.
+
+Bats can also get caught in and slowed by cobwebs.
+
+Bats cannot breed, and baby bats do not exist.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Bats have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (true/false) - true if the bat is hanging upside-down from a block, false if the bat is flying.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+Achievements that apply to all mobs:
+
+Advancements
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+
+According to Jens Bergensten, the bat is an example of an atmospheric/ambient mob, that is, a mob that constantly spawns, similar to the squid, but also constantly despawns because when a player is not around it does not serve any purpose.
+The updated texture of the bat was created in roughly 2 hours. However, the model and animations took longer.
+During Minecraft: The Island, there is a scene where Guy ends up wasting his final arrow when it accidentally hit a bat instead of a creeper during a pivotal moment. According to author Max Brooks, this was something that actually happened to him while playing.
+, bats are the only mob in the "Ambient" mob cap category.
+
+Gallery
+Renders
+
+Mojang screenshots
+
+Screenshots
+
+Textures
+
+Other
+
+In other media
+
+Notes
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Flying mobs
+Category:Animal mobs
+
+cs:Netopýr
+de:Fledermaus
+es:Murciélago
+fr:Chauve-souris
+he:עטלף
+it:Pipistrello
+ja:コウモリ
+ko:박쥐
+lzh:蟙䘃
+nl:Vleermuis
+pl:Nietoperz
+pt:Morcego
+ru:Летучая мышь
+th:ค้างคาว
+uk:Кажан
+zh:蝙蝠

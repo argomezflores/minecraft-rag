@@ -1,0 +1,99 @@
+TITLE: Badlands
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Badlands
+---
+The badlands or mesa are an arid-land mountainous biome, featuring red sand and mounds of terracotta bands, coming in various colors. Badlands generate in arid lands next to deserts and their eroded and wooded variants.
+
+Generation
+Badlands biomes generate at the highest temperature and lower erosion, meaning they border deserts near oceans with stony shores at lower altitudes. Badlands biomes often border their wooded and eroded variants. Near lower temperature zones, they border savannas, forests, and plains.
+
+Badlands generate from mid-altitude plateaus and valleys up to the highest mountain peaks where they can elevate up to Y=256 and border stony peaks. Rivers are often in deep fjords.
+
+Because badlands often generate in mountainous terrain, the deep dark is often found underground. Dripstone caves are also common inland.
+
+Description
+On the higher grounds, badlands biomes feature large mounds of terracotta bands, in layers of various colors; specifically, red, orange, yellow, white, light gray, brown, and regular terracotta may all naturally generate. The topmost layer of stained terracotta is often weathered into regular terracotta.
+
+At low altitudes, the terrain surface is weathered into one layer of red sand (rarely red sandstone if floating), with orange terracotta under it extending to Y=63. , the underwater surface is covered with a layer of orange terracotta, and in shallow water, sometimes interspersed with some white terracotta, while , it is composed entirely of stone. Deeper water bodies generate gravel like in any other biome.
+
+Cacti and dead bushes generate frequently across the landscape, similarly to deserts, but dead bushes are more common than in deserts, and cacti are rarer, as they may only generate on the red sand valleys. Sugar canes may generate along water. Cacti have a chance of generating a cactus flower on top.
+
+Mineshafts generate at much higher elevations in these biomes, often exposed to fresh air. Their supporting planks and fences are made of dark oak rather than oak. Additionally, extra gold ore generates up to elevation Y=255 (rather than the normal Y=32), and at much higher rates than the rest of the world. However, if an underground biome generates under badlands for example a Dripstone cave, then there wouldn't be extra gold ores in the area of the cave biome.
+
+As badlands are arid-land biomes, rainfall never occurs here, but dry thunderstorms still allow hostile mobs to spawn.
+
+Armadillos spawn in badlands, as well as warm animal variants, but the latter can only spawn on player-created grass blocks.
+
+With Vibrant Visuals, badlands have unique atmospherics, the sky is tinted turquoise-green at daytime and much brighter during the night, while the daytime horizon is tinted brown. Moonlight is more vibrant blue, and the warm color grading tints the environment more yellow, although color saturation is slightly lower.
+
+The colors of specific terracotta layers in these biomes are almost the same throughout all badlands biomes for any particular world. Each world seed generates 192 layers of terracotta for each Y-coordinate to pick fromlayers[(noiseValue + Y + 192) % 192]. At each horizontal coordinate, each layer may shift up and down by at most ±7 blocks based on noise.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the badlands:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Old generation
+thumb|View of an old badlands clearing in badlands plateaus
+Before Caves & Cliffs, the badlands biome generated only as an edge around all wooded badlands plateaus and badlands plateaus, or as small spots within those biomes. It had mostly flat terrain at the red sand levels, occasionally topped with terracotta layers, but when next to the plateau biomes, steep eroded cliffs formed. Beaches did not generate next to oceans, and the biome was separated from other land biomes by a thin desert border. It was often replaced by eroded badlands as a mutation.
+Issues
+
+Trivia
+Regular oak mineshafts do not generate in the badlands biomes, but they can generate into one if a neighboring biome generates the mineshaft.
+Although dark oak mineshafts generate in badlands, dark oaks do not grow in this biome.
+If a badlands biome generates above y level 256, it generates orange terracotta as the default rather than undyed terracotta. This cannot be seen through normal gameplay as the game cuts off any terrain above y level 256, however it can be seen on Java Edition using an amplified world.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Tafelberge
+es:Tierras baldías
+fr:Badlands
+it:Calanchi
+ja:荒野
+ko:악지
+lzh:墝埆
+pl:Badlandy
+pt:Terras áridas
+ru:Пустошь
+uk:Безплідні землі
+zh:恶地

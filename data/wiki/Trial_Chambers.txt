@@ -1,0 +1,1673 @@
+TITLE: Trial Chambers
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Trial_Chambers
+---
+Trial chambers are uncommon underground structures that serve as a mid-game combat challenge. They consist mostly of copper blocks and tuff bricks, and are the only place where trial spawners and vaults naturally generate. Trial chambers are also the only place where breezes spawn, whose breeze rods can be used to craft wind charges. Various materials such as heavy cores and certain armor trims are obtained exclusively by unlocking vaults in trial chambers. As it is the only source of breeze rods and heavy cores, the structure is also the only location where maces can be obtained.
+
+Trial chambers can also be used to obtain copper bulbs without entering the Nether, and large quantities of copper blocks and their derivatives.
+
+Most copper blocks found in trial chambers are waxed, preventing them from oxidizing. However, some unwaxed copper blocks can also generate due to a bug.
+
+Ominous trials can also take place here through the Bad Omen effect. Bad Omen converts to Trial Omen, which causes all trial spawners to become ominous, making them more difficult and providing greater rewards.
+
+Generation
+Trial chambers generate underground in the Overworld. The starting room generates at an altitude of between Y=-40 and -20, but the structure is not restricted to those Y levels; the majority of the structure's rooms tend to generate between Y=-20 and 0.
+
+The generation of trial chambers follows a grid of 34×34 chunk regions centered on the world origin (X=0, Z=0). There is always one trial chambers structure generated in each region at a random location, unless a deep dark biome cancels the generation of the trial chambers.
+
+While the origin point of the structure () cannot generate within a deep dark biome, other parts of it can intersect a deep dark biome.
+
+Trial chambers are one of the only structures that generate on the same locations on Java Edition and Bedrock Edition.
+
+Locating
+Trial chambers can be located using buried trial chambers maps, which can be obtained in two ways.
+Buried trial chambers maps are sold by journeyman-level cartographer villagers for 12 emeralds and a compass. The maps always point to the nearest trial chamber relative to the cartographer that does not already have a buried trial chambers map that points to it. All maps bought from the same cartographer always point to the same structure.
+Buried trial chambers maps can be found in loot of secret chests in abandoned camps. (see ).
+
+Trial chambers are buried underground, so exposed caves will usually have weird shapes that will determine the location of a trial chamber.
+
+, a given villager always trades the same map, which is determined upon the trade unlocking.
+
+Structure
+
+thumb|Overhead view of a typical trial chamber layout.
+The starting room of the structure is . This room connects to a chamber and a section of a corridor. At the end of the section of a corridor, an intersection links to another chamber and another section of a corridor is generated, but this time it ends on the atrium, which then leads to the entrance room.
+
+The structure then branches out from some  pieces.
+
+File structure
+All trial chambers structures found below are located in the folder client.jar/data/minecraft/structure/trial_chambers or data/behavior_packs/vanilla/structures/trial_chambers.
+
+List  trial_chambers
+chamber
+assembly.nbt
+chamber_1.nbt
+chamber_2.nbt
+chamber_4.nbt
+chamber_8.nbt
+entrance_cap.nbt
+eruption.nbt
+pedestal.nbt
+slanted.nbt
+addon
+c1_breeze.nbt
+full_corner_column.nbt
+full_stacked_walkway.nbt
+full_stacked_walkway_2.nbt
+grate_bridge.nbt
+hanging_platform.nbt
+lower_staircase_down.nbt
+short_grate_platform.nbt
+short_platform.nbt
+walkway_with_bridge_1.nbt
+assembly
+cover_1.nbt
+cover_2.nbt
+cover_3.nbt
+cover_4.nbt
+cover_5.nbt
+cover_6.nbt
+full_column.nbt
+hanging_1.nbt
+hanging_2.nbt
+hanging_3.nbt
+hanging_4.nbt
+hanging_5.nbt
+left_staircase_1.nbt
+left_staircase_2.nbt
+left_staircase_3.nbt
+platform_1.nbt
+right_staircase_1.nbt
+right_staircase_2.nbt
+right_staircase_3.nbt
+spawner_1.nbt
+eruption
+breeze_slice_1.nbt
+center_1.nbt
+quadrant_1.nbt
+quadrant_2.nbt
+quadrant_3.nbt
+quadrant_4.nbt
+quadrant_5.nbt
+slice_1.nbt
+slice_2.nbt
+slice_3.nbt
+pedestal
+center_1.nbt
+ominous_slice_1.nbt
+quadrant_1.nbt
+quadrant_2.nbt
+quadrant_3.nbt
+slice_1.nbt
+slice_2.nbt
+slice_3.nbt
+slice_4.nbt
+slice_5.nbt
+slanted
+center.nbt
+hallway_1.nbt
+hallway_2.nbt
+hallway_3.nbt
+ominous_upper_arm_1.nbt
+quadrant_1.nbt
+quadrant_2.nbt
+quadrant_3.nbt
+quadrant_4.nbt
+ramp_1.nbt
+ramp_2.nbt
+ramp_3.nbt
+ramp_4.nbt
+chests
+supply.nbt
+connectors
+supply.nbt
+corridor
+atrium_1.nbt
+end_1.nbt
+end_2.nbt
+entrance_1.nbt
+entrance_2.nbt
+entrance_3.nbt
+first_plate.nbt
+second_plate.nbt
+straight_1.nbt
+straight_2.nbt
+straight_3.nbt
+straight_4.nbt
+straight_5.nbt
+straight_6.nbt
+straight_7.nbt
+straight_8.nbt
+addon
+arrow_dispenser.nbt
+bridge_lower.nbt
+chandelier_upper.nbt
+decoration_upper.nbt
+display_1.nbt
+display_2.nbt
+display_3.nbt
+head_upper.nbt
+ladder_to_middle.nbt
+open_walkway.nbt
+open_walkway_upper.nbt
+reward_upper.nbt
+staircase.nbt
+wall.nbt
+walled_walkway.nbt
+atrium
+bogged_relief.nbt
+breeze_relief.nbt
+grand_staircase_1.nbt
+grand_staircase_2.nbt
+grand_staircase_3.nbt
+spider_relief.nbt
+spiral_relief.nbt
+decor
+barrel.nbt
+black_bed.nbt
+blue_bed.nbt
+brown_bed.nbt
+candle_1.nbt
+candle_2.nbt
+candle_3.nbt
+candle_4.nbt
+cyan_bed.nbt
+dead_bush_pot.nbt
+disposal.nbt
+empty_pot.nbt
+flow_pot.nbt
+gray_bed.nbt
+green_bed.nbt
+guster_pot.nbt
+light_blue_bed.nbt
+light_gray_bed.nbt
+lime_bed.nbt
+magenta_bed.nbt
+orange_bed.nbt
+pink_bed.nbt
+purple_bed.nbt
+red_bed.nbt
+scrape_pot.nbt
+undecorated_pot.nbt
+white_bed.nbt
+yellow_bed.nbt
+dispensers
+chamber.nbt
+floor_dispenser.nbt
+wall_dispenser.nbt
+hallway
+cache_1.nbt
+corner_staircase.nbt
+corner_staircase_down.nbt
+corridor_connector_1.nbt
+encounter_1.nbt
+encounter_2.nbt
+encounter_3.nbt
+encounter_4.nbt
+encounter_5.nbt
+left_corner.nbt
+long_straight_staircase.nbt
+long_straight_staircase_down.nbt
+lower_hallway_connector.nbt
+right_corner.nbt
+rubble.nbt
+rubble_chamber.nbt
+rubble_chamber_thin.nbt
+rubble_thin.nbt
+straight.nbt
+straight_staircase.nbt
+straight_staircase_down.nbt
+trapped_staircase.nbt
+upper_hallway_connector.nbt
+intersection
+intersection_1.nbt
+intersection_2.nbt
+intersection_3.nbt
+reward
+ominous_vault.nbt
+vault.nbt
+spawner
+breeze
+breeze.nbt
+connectors
+breeze.nbt
+melee.nbt
+ranged.nbt
+slow_ranged.nbt
+small_melee.nbt
+melee
+husk.nbt
+spider.nbt
+zombie.nbt
+ranged
+poison_skeleton.nbt
+skeleton.nbt
+stray.nbt
+slow_ranged
+poison_skeleton.nbt
+skeleton.nbt
+stray.nbt
+small_melee
+baby_zombie.nbt
+cave_spider.nbt
+silverfish.nbt
+slime.nbt
+
+Blocks
+This is a list of blocks that can generate in trial chambers. Blocks listed with a tag indicated that they are present in trial chambers only  are marked.
+
+Components
+Corridors
+thumb|A diagram depicting every piece that constitutes a corridor.
+
+Trial chambers are composed of two corridors:
+a corridor going from the entrance room to the intersection, passing through four slices and the atrium;
+a corridor going from the intersection to the end room, passing through four slices.
+
+The intersection connects both corridors, forming an L-shape. The intersection and the end room always lead to a chamber (see ), while slices have a probability to lead to a hallway (see ).
+
+Entrance
+thumb|The doorway found in all entrance rooms.
+
+The entrance generates at the end of one of the two corridors, passing through the atrium. Each entrance contains a "doorway" that consists of waxed oxidized copper blocks, including its cut copper and chiseled copper variants.
+
+entrance_1 and entrance_2 include a vault, two entrance chests, and a platform containing either an oak, a mangrove, or a cactus; additionally, entrance_1 has a secret room containing a bed and a chest.
+
+entrance_3 includes two vaults and three entrance chests.
+
+Name Description Blocks Image Weight trial_chambers/corridor/entrance_1 Entrance 1 is a two-story room.
+
+The first floor features a walkway, which contains a copper grate that leads to a hidden room containing a bed and a chest, as well as the connector to the atrium. A staircase leads to the second floor.
+
+The second floor contains a platform with a tree (either an oak, a mangrove or cactus), two chests and the doorway. Between the two chests, right next to the tree, is a trapdoor leading into a ventilation-shaft-like tunnel. This tunnel connects both floors. The second floor also features an upper ledge above the staircase containing a vault. 3619
+343
+279
+238
+197
+89
+31
+27
+15
+14
+3
+3
+1
+1
+1
+1 Oak=
+200px
+|-|
+Cactus=
+200px
+|-|
+Mangrove=
+200px
+|-|
+Secret=
+200px  (33.33%) trial_chambers/corridor/entrance_2 Entrance 2 is a two-story room.
+
+The first floor contains the doorway. A staircase leads to the second floor.
+
+The second floor contains a platform with a tree (either an oak, a mangrove or cactus) and two chests. It also features an upper ledge with a vault, above the chests and the staircase. The connector to the atrium is found at the second floor. 3599
+326
+313
+262
+231
+56
+32
+23
+2
+2
+1 Oak=
+200px
+|-|
+Cactus=
+200px
+|-|
+Mangrove=
+200px  (33.33%) trial_chambers/corridor/entrance_3 Entrance 3 is a five-story room with two large spiral staircases that intertwine with one another but never connect; each staircase leads to separate sections of each floor, preventing traversal between them even on the same level.
+
+A hallway links the connector of the atrium with two small rooms with one chest each, as well as the main room containing both spiral staircases.
+
+The first spiral staircase goes from the first floor to the last floor. The third floor contains a third chest, as well as the fifth floor with the doorway, while other sections of floors connected by the first spiral staircase are empty.
+
+The second spiral staircase goes from the second floor to the last floor. The fourth and fifth floor both contain a vault, while the rest are empty. 4363
+471
+413
+406
+98
+69
+44
+12
+4
+3
+3
+3
+1  200px  (33.33%) Addons trial_chambers/corridor/addon/display_1 The substructures are the trees that can generate in  and . 25
+24
+6
+4
+3
+1
+1  200px  (33.33%) trial_chambers/corridor/addon/display_2 24
+23
+19
+16
+8
+4
+3
+3
+2
+2
+1
+1
+1  200px  (33.33%) trial_chambers/corridor/addon/display_3 23
+12
+8
+4
+4
+2
+1  200px  (33.33%)
+
+Atrium
+thumb|An atrium viewed from the ground.
+
+The atrium generates between the entrance and one of the corridor's slices.
+
+Name Description Blocks Image Weight trial_chambers/corridor/atrium_1 Atrium 1 is a large room containing a grand bifurcated staircase connected to the entrance, a fountain, two murals, and ladders connecting the surface level to the lower, middle and upper level of the corridor. An ominous vault generates above the grand staircase. The grand staircase design and the murals are chosen randomly and are not part of the structure's pre-generation. 2667
+334
+236
+189
+129
+84
+78
+22
+19
+13
+12
+9 1=
+300px
+|-|
+2=
+300px
+|-|
+3=
+300px  (100%) Addons (grand staircase) trial_chambers/corridor/atrium/grand_staircase_1 The grand staircase designs.
+
+grand_staircase_3's copper blocks is unwaxed due to a bug. 330
+59
+42
+29
+27
+16
+3
+2  200px  (33.33%) trial_chambers/corridor/atrium/grand_staircase_2 110
+79
+24
+24
+15
+2  200px  (33.33%) trial_chambers/corridor/atrium/grand_staircase_3 150
+75
+28
+25
+20
+6
+1
+1  200px  (33.33%) Addons (mural) trial_chambers/corridor/atrium/bogged_relief The mural designs. They are respectively depicting a bogged, a breeze, a spider, and a spiral shape. 497
+38
+32
+27
+21
+21
+14
+10
+6
+4
+4
+3  200px  (25%) trial_chambers/corridor/atrium/breeze_relief 496
+38
+34
+32
+25
+21
+12
+8
+4
+4
+3  200px  (25%) trial_chambers/corridor/atrium/spider_relief 645
+38
+32
+29
+21
+21
+16
+6
+4
+4
+4
+4
+3  200px  (25%) trial_chambers/corridor/atrium/spiral_relief 512
+78
+32
+24
+21
+21
+6
+4
+4
+3  200px  (25%)
+
+Slices
+thumb|A door leading from a corridor to a hallway.
+thumb|A corridor viewed from the ground.
+
+Corridor slices, or straight pieces, are sub-structures that make up the corridors; they are generated on top of a tuff brick plate. Each of the two corridors has four slices, composed randomly.
+
+Except for straight_1 and straight_8, all slices have a copper door:
+straight_2 and straight_5 generate a copper door on the lower level;
+straight_3 and straight_6 generate a copper door on the middle level;
+straight_4 and straight_7 generate a copper door on the upper level.
+
+On average, each trial chamber has 6.29 () doors. These copper doors can either lead directly to a chamber, a hallway or nothing. Provided the latter case doesn't happen:
+lower level doors always lead to a descending spiral staircase ( chance between lower_hallway_connector or trapped_staircase);
+upper level doors always lead to an ascending spiral staircase (upper_hallway_connector);
+middle level doors and these spiral staircases have a 97.48% chance to directly lead to a chamber, 2.44% chance to lead to a hallway piece, and 0.08% chance to directly lead to a dead-end (see );
+any doors in any level, especially the spiral staircases leading to them in the case of upper and lower level doors, can also generate dead-end pieces as fallback pieces.
+
+Both straight_6 and straight_8 generate with a trial spawner that can either spawn a melee, small melee or ranged mob (see ), but always never breezes. straight_7 generates with a hidden vault.
+
+Slices can generate with various decorations such as flower pots, decorated pots, candles and corridor barrels (see ). Slices can have addons, some of them generate with a trial spawner (that can either spawn a melee, small melee or ranged mob, but never breezes), a dispenser trap or a vault. Some slices cannot contain specific types of or all corridor addons.
+
+Name Description Blocks Image Weight Slices trial_chambers/corridor/straight_1 straight_1 does not generate with a copper door. 667
+110
+69
+68
+66
+44
+26
+8
+8  200px  (7.14%) trial_chambers/corridor/straight_2 straight_2 generates with a copper door on the lower level. 629
+108
+95
+72
+61
+46
+26
+9
+6
+2
+2
+1  200px  (14.28%) trial_chambers/corridor/straight_3 straight_3 generates with a copper door on the middle level.
+
+Additionally, one of its upper level sides is blocked by a wall. 844
+93
+86
+85
+54
+41
+16
+7
+4
+2
+1  200px  (14.28%) trial_chambers/corridor/straight_4 straight_4 generates with a copper door on the upper level. 629
+107
+96
+69
+59
+48
+26
+9
+8
+2
+1  200px  (14.28%) trial_chambers/corridor/straight_5 straight_5 generates with a copper door on the lower level. 630
+107
+95
+69
+61
+47
+27
+9
+6
+2
+1  200px  (14.28%) trial_chambers/corridor/straight_6 straight_6 generates with a copper door on the middle level and a trial spawner on the lower level.
+
+Lower addons cannot generate in this slice. 595
+107
+90
+79
+62
+48
+14
+8
+6
+6
+2
+1  200px  (14.28%) trial_chambers/corridor/straight_7 straight_7 generates with a copper door on the upper level. Additionally, one of its upper level sides is blocked by a wall, containing a vault that is hidden inside of the wall.
+
+Middle upper addons cannot generate in this slice. 779
+102
+91
+78
+61
+44
+15
+12
+7
+2
+1  200px  (7.14%) trial_chambers/corridor/straight_8 straight_8 does not generate with a copper door but generates with a trial spawner on the middle level.
+
+All corridor addons cannot generate in this slice. 715
+117
+88
+70
+70
+36
+17
+10
+6  200px  (14.28%) trial_chambers/corridor/first_platetrial_chambers/corridor/second_plate This substructure is a technical piece. It serves as the foundation for the 4 slices of each corridor. 380  200px  (100%) Addons (lower) trial_chambers/corridor/addon/staircase This addon is a staircase connecting the surface level to the lower level. 3
+2
+1
+1
+1  200px  (7.14%) trial_chambers/corridor/addon/wall This addon is a wall blocking off the surface level. 220
+10  200px  (7.14%) trial_chambers/corridor/addon/ladder_to_middle This addon is a ladder linking the lower level to the middle level. 10
+7
+6
+6
+5
+4
+2
+2
+1  200px  (7.14%) trial_chambers/corridor/addon/arrow_dispenser This addon is a dispenser trap that can be triggered with tripwire hooks. 12
+10
+10
+10
+8
+4
+2
+1
+1  (4-8 ) 200px  (7.14%) trial_chambers/corridor/addon/bridge_lower This addon is a bridge linking the two sides of the slice on the lower level and linked to the surface level. 23
+17
+14
+12
+10
+8  200px  (9.09%) Addons (middle) trial_chambers/corridor/addon/open_walkway This addon is a copper grate walkway linking the two sides of the slice on the middle level. It generates with a trial spawner. 31
+21
+9
+9
+6  200px  (18.18%) trial_chambers/corridor/addon/walled_walkway This addon is a walkway linking the two sides of the slice on the middle level, with its sides blocked by walls. It generates with a trial spawner. 58
+30
+15
+10
+10
+5
+2  200px  (33.33%) Addons (middle upper) trial_chambers/corridor/addon/open_walkway_upper This addon is a copper grate walkway linking the two sides of the slice on the upper level. It generates with a trial spawner. 9
+6
+12  200px  (16.67%) trial_chambers/corridor/addon/chandelier_upper This addon is a decoration that may generate on the upper level. 3
+1  200px  (8.33%) trial_chambers/corridor/addon/decoration_upper This addon is a copper grate platform linking the two sides of the slice on the upper level. 8
+3
+1  200px  (8.33%) trial_chambers/corridor/addon/head_upper This addon is a decoration that may generate on the upper level. 4
+4
+2
+1  200px  (8.33%) trial_chambers/corridor/addon/reward_upper This addon is a copper grate platform linking the two sides of the slice on the upper level. It generates with a vault. 10
+5
+4  200px  (8.33%)
+
+End
+The end room generates at the end of one of the two corridors. It always leads to one of these chambers with equal probability:
+chamber_1
+eruption
+assembly
+slanted
+
+End rooms cannot lead to any other chamber, i.e. it excludes:
+chamber_2
+pedestal
+chamber_4
+chamber_8
+
+End rooms always include an ominous vault. In addition to its ominous vault, end_2 also features a regular vault and an chest with intersection loot.
+
+Name Description Blocks Image Weight trial_chambers/corridor/end_1 End 1 is a large room with two staircases leading up to the chamber. The two staircases are separated by a wall on which an ominous vault is placed. 3087
+265
+230
+185
+170
+111
+42
+23
+19
+7
+2
+1  200px  (50%) trial_chambers/corridor/end_2 End 2 is a large room with a staircase leading up to the chamber. The staircase goes through four pillars linked by a copper grate ring on which a vault is placed.
+
+A shallow water pool generates on the lower level. It contains a chest and an ominous vault in a room sealed by copper grates bellow the bridge leading up to the chamber. 2714
+337
+265
+237
+211
+83
+62
+60
+56  (23 waterlogged)
+17
+5
+1
+1  200px  (50%)
+
+Intersections
+thumb|A bedroom within an intersection.
+thumb|The secret room in intersection_2.
+
+The intersection is the room that connects both corridors. It always features a safer zone equipped with beds as well as an entrance to a chamber (rarely a hallway, see  for more information about the hallway generation rules.). In addition to that:
+intersection_1 and intersection_2 feature an ominous vault;
+intersection_2 and intersection_3 feature a barrel with loot;
+intersection_2 features a secret room with an additional bed and a decorated pot always containing 3 strings.
+
+Name Description Blocks Image Weight trial_chambers/intersection/intersection_1Intersection 1 connects the two corridors by their upper levels. The two corridors and the chamber intersection 1 links to are connected by bridges connected to a platform above a pool of deep water.
+
+The bedroom is located in the middle of the water pool, underneath the platform where the bridges are linked to. An ominous vault is sealed by a wall next to the bedroom (although glass can reveal the location of the ominous vault). 4117
+966
+429
+388
+311
+303
+111
+65
+53
+38
+33
+33
+27
+12
+9
+4
+2 Normal view=
+200px
+|-|
+Bedroom=
+200px  (33.33%) trial_chambers/intersection/intersection_2Intersection 2 connects the two corridors by their surface levels. The corridors are connected to hallways that lead into a small atrium that links both hallways and the chamber.
+
+The bedroom is located on a mezzanine and contains a barrel. An ominous vault is placed near the staircase leading to the bedroom.
+
+A secret chamber is hidden behind the wall at the back of the 2 beds on the left. The secret chamber contains a purple bed, a decorated pot containing 3 strings, a table, a crafting table, and a potted dead bush. 6553
+379
+358
+274
+260
+75
+51
+44
+29
+29
+24
+8
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1 Normal view=
+200px
+|-|
+Secret=
+200px  (33.33%) trial_chambers/intersection/intersection_3Intersection 3 is a tall vertical room. The top of the intersection connects through the second section of the corridor (i.e. the one leading to the entrance), while the bottom of it connects through the first section of the corridor (i.e. the one leading to the end room). The connectors to both corridors are by their surface levels. The chamber intersection 3 links to is found at the bottom, blocked by a copper grate wall.
+
+The center is filled up by a tall tower with three levels: the upper level connects to the second corridor, the middle level contains 3 beds and a barrel, and the lower level is a copper grate walkwayg.
+
+Unlike the other two intersections, this intersection doesn't contain an ominous vault.  7934
+552
+474
+462
+343
+218
+102
+49
+44
+36
+14
+6
+2
+1
+1  200px  (33.33%)
+
+Hallways
+
+thumb|A hallway viewed from the ground.
+
+Hallways are segments that connect corridors to chambers. When a copper door generates in a corridor, it (or, in the case of an upper or lower door, the spiral staircase that follows it; see ) may lead to one of the following pieces:
+a chamber (97.48%);
+a hallway segment (1.14%);
+an encounter (0.41%);
+a dead end (0.08%).
+
+If the selected piece cannot be generated, the game attempts to generate a different piece. After a certain number of failed attempts, it defaults to generating a dead end. If the dead end itself cannot be generated, no piece is generated.
+
+This process is then repeated at the end of each hallway segment or encounter. Furthermore, hallways never branch, meaning that every copper door found in corridors eventually leads to a single chamber, a dead end, or nothing.
+
+Name Description Blocks Image Weight Hallway segments trial_chambers/hallway/cache_1 These pieces constitute the various trial chamber hallways.
+
+cache_1 contains a chest. 344
+60
+51
+45
+40
+4
+4  200px  trial_chambers/hallway/corridor_connector_1 48
+9
+9
+6
+6  200px  trial_chambers/hallway/left_corner 78
+15
+15
+10
+10
+2  200px  trial_chambers/hallway/right_corner  trial_chambers/hallway/straight 78
+15
+15
+10
+10
+2  200px  trial_chambers/hallway/straight_staircase 111
+15
+14
+9
+9
+7
+2
+2
+2  200px  trial_chambers/hallway/straight_staircase_down  trial_chambers/hallway/long_straight_staircase 393
+36
+30
+24
+20
+8
+7
+3
+3
+2  200px  trial_chambers/hallway/long_straight_staircase_down  trial_chambers/hallway/corner_staircase 140
+31
+26
+17
+14
+5
+2  200px  trial_chambers/hallway/corner_staircase_down 138
+32
+27
+17
+14
+5
+2  200px  trial_chambers/hallway/upper_hallway_connector This piece is always connected to a corridor upper level door (see ). 400
+51
+44
+42
+39
+7
+4
+3  200px  trial_chambers/hallway/lower_hallway_connector This piece is always connected to a corridor lower level door (see ). 532
+52
+48
+44
+42
+10
+6
+3  200px  trial_chambers/hallway/trapped_staircase A variant of lower_hallway_connector. In addition to that, it has pointed dripstone and ladders at the bottom of the substructure. 632
+52
+48
+44
+42
+10
+9
+5
+3
+2  200px  Dead ends trial_chambers/hallway/rubble These pieces have a small chance of generating in hallways, stopping the hallway's expansion and acting as a dead end.
+
+They also generate as fallback pieces: during the generation, after the game failed to generate hallway pieces, it defaults to generating a dead end. In that case, the weight is  (25%) for all four pieces.
+
+and  contains a chest. 61
+12
+12
+12
+9
+9
+8
+2
+1  200px  trial_chambers/hallway/rubble_chamber 200px  trial_chambers/hallway/rubble_chamber_thin 16
+6
+5
+3
+3
+2  200px  trial_chambers/hallway/rubble_thin
+
+Encounters
+
+thumb|An encounter viewed from a corner.
+Encounters are hallway pieces that consist in "short challenges leading to a larger chamber". They contain a single trial spawner and a vault.
+
+Name Description Blocks Image Weight trial_chambers/hallway/encounter_1 Encounter 1 is a two-story room. The lower level generates the entrance and leads to a hallway with a staircase linking both floors. The upper level has a vault and a trial spawner, as well as the exit. The trial spawner can generate either melee, small melee or ranged mobs. 771
+188
+164
+145
+126
+37
+18
+15  200px  (0.08%) trial_chambers/hallway/encounter_2 Encounter 2 is a room which contains a vault and a breeze trial spawner. Dispensers may generate in the first floor walls. 981
+110
+108
+102
+79
+22
+14  200px  (0.08%) trial_chambers/hallway/encounter_3 Encounter 3 is a tall vertical room whose first floor has a vault and which contains a trial spawner near the top. The trial spawner can generate either melee, small melee or ranged mobs. 1061
+121
+83
+52
+27
+11
+10
+9  200px  (0.08%) trial_chambers/hallway/encounter_4 Encounter 4 is a tall vertical room whose first floor is filled with pointed dripstones and contains a vault. The top floor contains a trial spawner that generates slow ranged mobs and a dispenser trap. Players must cross the room by performing parkour on copper grates.  2872
+446
+378
+132
+100
+56
+36
+21
+7
+3
+2
+2
+1  200px  (0.08%) trial_chambers/hallway/encounter_5 Encounter 5 is a large room which contains two floors: a lower level floor (where the entrance generates at) and an upper ledge floor (where the exit generates at). The staircase links both floors. The upper ledge contains a vault and a breeze trial spawner. The room is filled with decor and can generate dispensers in the walls. 2543
+288
+210
+153
+138
+44
+16
+10  200px  (0.08%)
+
+Chambers
+
+Chambers are large combat rooms that contain multiple trial spawners and vaults, as well as one ominous vault. Chambers can be accessed in numerous ways:
+they have a chance to generate in corridor slices (chambers can generate straight from slices by middle level copper doors) and hallways, in this case, all chambers can generate;
+they can always generate in intersections, also in this case, all chambers can generate;
+additionally, , ,  and  can generate in the end of corridor ends.
+
+Each chamber design has several potential entrances, of which only one is connected to the rest of the structure. The remaining entrances are sealed with an entrance cap (see ). Each potential entrance, including the sealed ones, generates a disposal consisting of a hopper placed above a barrel (see ), allowing players to manage their inventory before entering a chamber.
+
+and
+thumb|Chamber_1 viewed from the middle level entrance.
+
+Name Description Blocks Image Weight trial_chambers/chamber/chamber_1 Chamber_1 is a large room which has a tall column () in its center. It has one potential entrance on each of its four faces; three on an upper level and one on a middle level.
+
+During pre-generation, the room is a large room with no features despite walls, entrances and jigsaw blocks that can make up the features in this room, as all other features are addons that are generated via jigsaws.
+
+It generates a breeze trial spawner as part of the column. Additionally, it can generate up to two ranged trial spawners as part of walkways.
+
+It tries to generate an ominous vault embedded in a wall near the bottom of the column, and can generate up to two regular vaults as part of walkways, provided that , the only current substructure of this chamber containing a vault generates in the room.
+
+Copper grate hanging platforms () may generate above the ceiling. Dispensers may generate embedded in the walls. 4252
+494
+492
+426
+367
+58
+35
+8  200px  trial_chambers/chamber/chamber_2 Chamber_2 is a large room which has a tall column in its center and a floor made of powder snow. It has one potential entrance on each of its four faces; three on an upper level and one on a middle level.
+
+It generates a ranged trial spawner as part of the column. Additionally, it and can generate up to two ranged trial spawners as part of walkways.
+
+It generates an ominous vault as part of the column, on its lower level, and can generate up to two regular vaults as part of walkways, provided that , the only current substructure of this chamber containing a vault generates in the room.
+
+Copper grate hanging platforms () may generate above the ceiling. Dispensers may generate embedded in the walls. 4868
+560
+508
+403
+395
+44
+36
+8
+4  200px  Column trial_chambers/chamber/addon/c1_breeze The column substructure is exclusive to chamber_1 as chamber_2's column is built-in.
+
+It generated in the middle of the chamber, always features a breeze trial chamber on its middle level. It generated with a staircase connecting the lower level of the room to the middle level of the column.
+
+On the upper level, the columns attempts to generate hanging platforms on all four sides. However, a hanging platform may fail to generate if the space is already occupied by an entrance piece. 96
+66
+41
+34
+7  100px  (100%) trial_chambers/chamber/addon/lower_staircase_down 3
+3
+2
+2
+1  100px  (100%) Entrances trial_chambers/chamber/addon/full_stacked_walkway This sub-structure can generate attached to any entrance, except the one to the left of the ominous vault.
+
+It acts as a walkway that features a ranged trial spawner. 359
+114
+86
+59
+38
+17
+11
+9
+1
+1  200px  (16.67%) trial_chambers/chamber/addon/full_stacked_walkway_2 This sub-structure can generate attached to any entrance, except the one to the left of the ominous vault.
+
+It acts as a walkway that features a ranged trial spawner and a vault. Up to two dispensers (dispensers/chamber) can generate in the walls. 326
+100
+62
+48
+25
+10
+9
+5
+2  200px  (16.67%) trial_chambers/chamber/addon/full_corner_column This sub-structure can generate attached to any entrance, except the one to the right of the ominous vault and the middle level one.
+
+It generates hanging platforms directly in front of the entrance and to the left when entering the chamber. 777
+68
+51
+25
+25
+5  200px  (16.67%) trial_chambers/chamber/addon/grate_bridge This sub-structure can generate attached to any upper level entrance. It connects the entrance to the column. 58
+20
+10  200px  (16.67%) trial_chambers/chamber/addon/short_platform This sub-structure can generate attached to any upper level entrance. It acts as a small overhang. 20
+3  200px  (16.67%) trial_chambers/chamber/addon/short_grate_platform This sub-structure acts similarly to short_platform, except it tries to generate hanging platforms on all three sides; a hanging platform may fail to generate if the space is already occupied by an entrance piece. 10
+3
+3  200px  (16.67%) Hanging platform trial_chambers/chamber/addon/hanging_platform This sub-structure is a hanging platform that tries to generate when called by the c1_breeze, full_corner_column or short_grate_platform sub-structures. 16
+8
+8
+5
+2  200px  (100%) Unused trial_chambers/chamber/addon/walkway_with_bridge_1 This pieces is an unused sub-structure. Despite existing within the template pool with a weight of  (10%), it cannot generate as it doesn't include any jigsaw block.
+
+It includes a structure block in save mode. 487
+169
+135
+78
+48
+9
+9
+1  200px —
+
+thumb|Pedestal viewed from the upper level entrance.
+
+Name Description Blocks Image Weight trial_chambers/chamber/pedestal Pedestal is a large room with a large pedestal () in its center. It has two potential entrances; one on its upper level and one on its lower level.
+
+It generates with 8 slices (7 random slices and 1   or 8 random slices .), and 4 quadrants in the corners. Pedestal has its own quadrant addons (see below), due to a bug, the Pedestal chamber can only generate with the Slanted chamber's quadrants (see ). 5906
+1124
+1067
+573
+368
+77
+45  200px  Center trial_chambers/chamber/pedestal/center_1 This center piece is a large pedestal with three trial spawners on top. One of these trial spawners is a breeze trial spawner, and the two other can generate either melee, small melee or ranged mobs.
+
+Other than the generation of trial spawners, center_1 tries to generate an ominous vault () near the breeze trial spawner, as well as random slices attached to the wall. 124
+97
+57
+40  200px  (100%) Slices trial_chambers/chamber/pedestal/ominous_slice_1 This slice always generates opposite the upper potential entrance. It contains an ominous vault on its upper floor.  36
+33
+30
+14
+9  200px  (100%) trial_chambers/chamber/pedestal/slice_1 The chamber's slices that generate when called by . They generate quadrants on the sides.
+
+All slices in  contain copper grate walls and vaults.
+
+Slices with an odd numbered filename contain vaults in the upper floor. Slices with an even numbered filename contain vaults in the lower floor. 60
+57
+9
+6
+6
+3  200px  (7.69%) trial_chambers/chamber/pedestal/slice_2 60
+42
+40
+39
+12
+3  200px  (23.08%) trial_chambers/chamber/pedestal/slice_3 63
+48
+45
+42
+24
+3  200px  (23.08%) trial_chambers/chamber/pedestal/slice_4 72
+54
+54
+51
+30
+3  200px  (23.08%) trial_chambers/chamber/pedestal/slice_5 54
+48
+42
+40
+12  200px  (23.08%) Quadrants trial_chambers/chamber/pedestal/quadrant_1 quadrant_1 contains a staircase connecting the two floors. 130
+105
+50
+23
+15
+6
+3  200px  (33.33%) trial_chambers/chamber/pedestal/quadrant_2 — 247
+90
+84
+6
+3
+2  200px  (33.33%) trial_chambers/chamber/pedestal/quadrant_3 quadrant_3 contains a spiral staircase. 120
+118
+114
+52
+5
+3
+1  200px  (33.33%)
+
+Name Description Blocks Image Weight trial_chambers/chamber/chamber_4 Chamber_4 is a small two-story room. It has three potential entrances; one on the lower level and two on the upper level.
+
+It generates two small melee trial spawners, both on the upper level, and a vault on each level. An ominous vault is located between the two upper level potential entrances. Chamber 4 also generates copper grate walls near the lower entrance, with a 1-block layer gap.
+
+Chamber 4 does not come with addons nor generate dispensers in the walls. However, it may generate decorated pots (, see ) at the walls. 3382
+546
+446
+308
+258
+60
+30
+30
+15
+13  200px
+
+thumb|Eruption viewed from a corner.
+
+Name Description Blocks Image Weight trial_chambers/chamber/eruption Eruption is a large room with a fountain-like structure () in its center surrounded by magma blocks. It has three potential entrances; one on its upper level and two on its lower level.
+
+It generates a breeze trial spawner and an ominous vault on the side where it does not have a potential entrance (breeze_slice_1). The three other sides are filled with random slices, and the corners are filled with random quadrants. 3518
+459
+290
+235
+190
+71
+32
+15
+4
+4
+2  200px  Center trial_chambers/chamber/eruption/center_1 Center 1 is a center pedestal which contains a fountain-like structure with a dispenser containing a water bucket. As well as that, it generates random slices (especially  in a specific location) and quadrants around its sides.
+
+It theoretically contains a hidden vault inside; however, due to limited space, the vault never generates. 44
+33
+20
+14
+13
+4
+4
+2
+1  (1 ) 200px  (100%) Slices trial_chambers/chamber/eruption/breeze_slice_1 Breeze slice 1 is the slice placed on the only side without any potential entrances.
+
+It contains a breeze trial spawner and an ominous vault. 91
+54
+48
+20
+11
+8
+5
+5
+2
+1
+1  200px  (100%) trial_chambers/chamber/eruption/slice_1 Slice 1 can be attached to any potential entrance.
+
+It contains a vault on its upper floor. 99
+92
+58
+55
+23
+17
+5
+1
+1  200px  (33.33%) trial_chambers/chamber/eruption/slice_2 Slice 2 can be attached to any potential entrance. 84
+53
+48
+44
+20
+10
+6
+5
+1  200px  (33.33%) trial_chambers/chamber/eruption/slice_3 Slice 3 can be attached to any potential entrance.
+
+It contains a melee trial spawner on its lower floor. 83
+72
+53
+46
+13
+10
+5
+1
+1  200px  (33.33%) Quadrants trial_chambers/chamber/eruption/quadrant_1 Quadrant 1 can generate in the corners of the chamber. 286
+81
+70
+53
+46
+20
+8
+7
+1
+1  200px  (20%) trial_chambers/chamber/eruption/quadrant_2 Quadrant 2 can generate in the corners of the chamber.
+
+It contains a vault on its upper floor. 288
+127
+92
+83
+43
+17
+8
+6
+1  200px  (20%) trial_chambers/chamber/eruption/quadrant_3 Quadrant 3 can generate in the corners of the chamber.
+
+It contains a vault on its upper floor. 331
+143
+99
+81
+46
+15
+8
+6
+5
+2
+1  200px  (20%) trial_chambers/chamber/eruption/quadrant_4 Quadrant 4 can generate in the corners of the chamber.
+
+It contains a ranged trial spawner on its upper floor. 296
+93
+86
+62
+54
+20
+8
+6
+4
+1
+1  200px  (20%) trial_chambers/chamber/eruption/quadrant_5 Quadrant 5 can generate in the corners of the chamber.
+
+It contains a ranged trial spawner on its upper floor. 287
+114
+80
+68
+48
+20
+8
+2
+1
+1  200px  (20%)
+
+thumb|Assembly viewed from the platform.
+
+Name Description Blocks Image Weight trial_chambers/chamber/assembly Assembly is a large room consisting of a main floor, a balcony and a platform. It has three potential entrances; one leading to the platform, one to the balcony, and one in a underground passageway.
+
+The main floor contains a vault, a breeze trial spawner, an ominous vault embedded in a wall, and may have dispensers embedded in the walls. The platform contains two vaults and a ranged trial spawner. The underground passageway, located below the main floor, contains a single vault. A staircase links the underground passageway to the main floor.
+
+On the main floor, 11 random upper addons, such as hanging platforms, generate attached to the ceiling, while 11 random lower addons, such as covers, generate attached to the floor. In addition to these addons, dispensers may generate embedded in the walls.
+
+The two staircases leading to the balcony are randomly selected. 10579
+755
+598
+545
+344
+81
+51
+27
+22
+13
+5  200px  Addons (lower) trial_chambers/chamber/assembly/cover_1 These addons consist in walls of copper grates around staircases embedded into the floor and sealed by trapdoors. 61
+21
+12
+8
+7
+3
+2
+1  200px  (9.09%) trial_chambers/chamber/assembly/cover_2 57
+21
+12
+10
+7
+4
+2
+1  200px  (9.09%) trial_chambers/chamber/assembly/cover_3 65
+18
+10
+9
+6
+2
+2
+1  200px  (9.09%) trial_chambers/chamber/assembly/cover_4 61
+13
+12
+8
+7
+3
+2
+1  200px  (9.09%) trial_chambers/chamber/assembly/cover_5 Similar to the previous four covers, but with dispensers (floor_dispenser) embedded into the ground. 57
+12
+10
+10
+7
+4
+2
+1  200px  (9.09%) trial_chambers/chamber/assembly/cover_6 65
+11
+10
+9
+6
+2
+2
+1  200px  (9.09%) trial_chambers/chamber/assembly/cover_7 A staircase embedded into the floor. 65
+23
+6
+2
+2
+1  200px  (22.73%) trial_chambers/chamber/assembly/full_column This addon consists in a large pillar attached to the ceiling.
+
+It prevents upper addons from generating. 29
+16
+10
+9
+8  200px  (9.09%) trial_chambers/chamber/assembly/platform_1 This addon is a small platform. 12
+8
+8
+2  200px  (9.09%) trial_chambers/chamber/assembly/spawner_1 This addon is a taller platform outlined with staircases leading to a lower part. Despite its name, it does not generate with a trial spawner. 30
+18
+10
+6
+2  200px  (4.55%) Addons (upper) trial_chambers/chamber/assembly/hanging_1 These hanging platforms may generate attached to the ceiling, provided a full_column lower addon prevent the generation by taking the room. 12
+11
+9
+6
+4  200px  (18.18%) trial_chambers/chamber/assembly/hanging_2 21
+21
+20
+4
+4  200px  (9.09%) trial_chambers/chamber/assembly/hanging_3 8
+7
+3
+2
+2  200px  (18.18%) trial_chambers/chamber/assembly/hanging_4 13
+8
+3
+2
+2  200px  (18.18%) trial_chambers/chamber/assembly/hanging_5 This sub-structure doesn't contain a hanging platform and instead is empty. 9  200px  (36.36%) Staircases trial_chambers/chamber/assembly/right_staircase_1 One of the three staircase designs leading to the balcony. The right and left sides are independent. It contains a ladder. 239
+51
+40
+27
+22
+12
+12
+9
+7
+1  200px  (33.33%) trial_chambers/chamber/assembly/left_staircase_1 172
+51
+49
+40
+27
+9
+9
+8
+1  200px trial_chambers/chamber/assembly/right_staircase_2 One of the three staircases designs leading to the balcony. The right and left sides are independent.  254
+57
+56
+54
+33
+9
+8
+4
+2  200px  (33.33%) trial_chambers/chamber/assembly/left_staircase_2 254
+57
+56
+54
+33
+9
+8
+4
+2  200px trial_chambers/chamber/assembly/right_staircase_3 One of the three staircases designs leading to the balcony. The right and left sides are independent.
+
+It contains a trial spawner that can generate either melee, small melee or ranged mobs on the upper floor. 172
+51
+49
+40
+27
+9
+9
+8
+1  200px  (33.33%) trial_chambers/chamber/assembly/left_staircase_3 245
+51
+40
+27
+22
+12
+9
+7
+6
+1  200px
+
+Name Description Blocks Image Weight trial_chambers/chamber/chamber_8 Chamber_8 is a tall four-story room. It has two potential entrances; one on the lower level and one on the third level.
+
+The first floor contains two vaults. The second and third floors both contain a slow ranged trial spawner. The fourth floor contains two slow ranged trial spawners, a vault, and an ominous vault.
+
+Dispensers can generate in the walls. It does not generate with addons. 2736
+528
+321
+172
+170
+124
+40
+31
+23
+17
+9  200px
+
+thumb|Slanted viewed from the upper level entrance.
+
+Name Description Blocks Image Weight trial_chambers/chamber/slanted Slanted is a large two-story room. It has two potential entrances; one on the lower level and one on the upper level.
+
+It has a breeze trial spawner in its center around which are 4 slices, including an ominous one, and 4 quadrants. Unlike other chambers that generate with full slices, Slanted's slice are split into two parts: hallways (on the lower level) and ramps (on the upper level). 4798
+505
+406
+204
+38
+12  200px  Center trial_chambers/chamber/slanted/center This pieces generates in the center. It contains a breeze trial spawner on the upper floor. 42
+39
+11
+3
+2
+1
+1  200px  (100%) Slices (hallways) trial_chambers/chamber/slanted/hallway_1 These pieces consist of the lower part of Slanted's slices.
+
+hallway_2 contains a vault. 42
+40  200px  (33.33%) trial_chambers/chamber/slanted/hallway_2 36
+34
+11
+9
+9
+1  200px  (33.33%) trial_chambers/chamber/slanted/hallway_3 42
+34
+18
+9  200px  (33.33%) Slices (ramps) trial_chambers/chamber/slanted/ominous_upper_arm_1 This piece consist of an upper part of Slanted's slices. It generates attached to a single side of the center piece and contains an ominous vault. This piece is the only slice to always generate inside the Slanted chamber, taking up one slice although this addon generates throughout different slices per generation of Slanted, leaving three ramps to be filled with other types of ramps. 42
+40
+22
+15
+8
+8
+2  200px  (100%) trial_chambers/chamber/slanted/ramp_1 These pieces consist of the lower part of Slanted's slices.
+
+ramp_1 and ramp_2 contain a melee trial spawner.
+
+ramp_3 contains a ranged trial spawner. 42
+41
+40
+8
+7  200px  (25%) trial_chambers/chamber/slanted/ramp_2 73
+42
+32
+8
+7  200px  (25%) trial_chambers/chamber/slanted/ramp_3 52
+42
+18
+10
+9
+7
+3  200px  (25%) trial_chambers/chamber/slanted/ramp_4 43
+42
+6  200px  (25%) Quadrants trial_chambers/chamber/slanted/quadrant_1 This quadrant consists of a staircase connecting the two floors. It contains a vault under the staircase and a melee trial spawner on the upper level. 138
+130
+49
+23
+15
+5
+5  200px  (25%) trial_chambers/chamber/slanted/quadrant_2 These quadrants consist in two unconnected floors, each containing a vault. 135
+121
+104
+49
+6
+3
+3  200px  (25%) trial_chambers/chamber/slanted/quadrant_3 137
+120
+99
+35
+7
+6  200px  (25%) trial_chambers/chamber/slanted/quadrant_4 This quadrants consists of parkour platforms connecting the two floors. It contains dispensers embedded in its walls. 108
+96
+80
+27
+14
+6
+1  200px  (25%)
+
+Decor
+thumb|Various decor features in a trial chamber.
+These are decor that can generate in the corridors, especially in .  can also generate in .
+Name Description Blocks Image Weight trial_chambers/decor/barrel — 1
+1  100px  (4.44%) trial_chambers/decor/flow_pot Contains a decorated pot with a flow pottery sherd.
+
+A decorated pot with a flow pottery sherd also generates in the secret room in , however this one is not part of the decor pool. Also, the decorated pot in  doesn't generate regular pot loot, but instead it generates three string. 1  (Flow)
+1  100px  (2.22%) trial_chambers/decor/guster_pot Contains a decorated pot with a guster pottery sherd. 1  (Guster)
+1  100px  (2.22%) trial_chambers/decor/scrape_pot Contains a decorated pot with a scrape pottery sherd. 1  (Scrape)
+1  100px  (2.22%) trial_chambers/decor/undecorated_pot Contains a decorated pot which doesn't contain pottery sherds. 1
+1  100px  (22.22%) trial_chambers/decor/candle_1 —
+1  (unlit)
+1  100px  (2.22%) trial_chambers/decor/candle_2 — 2  (unlit)
+1  100px  (2.22%) trial_chambers/decor/candle_3 — 3  (unlit)
+1  100px  (2.22%) trial_chambers/decor/candle_4 — 4  (unli6)
+1  100px  (2.22%) trial_chambers/decor/dead_bush_pot — 1
+1  100px  (4.44%) trial_chambers/decor/empty_pot — 1
+1  100px  (4.44%)
+
+Dispenser
+Dispensers in this category are controlled by loot table dispensers/trial_chambers/chamber. (See  for loot table.)
+Name Description Blocks Image Weight trial_chambers/dispensers/chamber Generates in .
+2
+2
+1  150px  (25%) trial_chambers/dispensers/floor_dispenser Generates in  and . 1
+1  100px  (25%) trial_chambers/dispensers/wall_dispenser Generates in all chamber rooms except for  (despite it containing a dispenser) and .
+
+It contains a dispenser setup. When the oak button is pressed, it simultaneously ejects the items out from the dispenser and changes the state of the copper bulb near it. 1
+1
+1
+1  100px  (25%)
+
+Loot containers
+Other loot containers that belong to categories trial_chambers/chests and trial_chambers/reward.
+Name Description Blocks Image Chests trial_chambers/chests/connectors/supply This substructure is a technical connector. It is always replaced by air during the structure generation. 2  trial_chambers/chests/supply Only appears in cache_1. 1
+5
+4  200px Vaults trial_chambers/reward/vault — 1
+5
+3
+6  200px trial_chambers/reward/ominous_vault — 7
+2
+5
+2
+2
+1
+7  (left 4, right 3)
+1
+6  200px
+
+Trial spawners
+
+Name Description Blocks Image Technical trial_chambers/spawner/connectors/breezetrial_chambers/spawner/connectors/meleetrial_chambers/spawner/connectors/rangedtrial_chambers/spawner/connectors/slow_rangedtrial_chambers/spawner/connectors/small_melee These substructures are technical connectors with jigsaw blocks. They are replaced by air during the structure generation. 2  Trial spawners trial_chambers/spawner/breeze/breeze Spawns breezes. 1
+4
+1
+4  200px trial_chambers/spawner/melee/husk Spawns husks. 1
+4
+1
+4  200px trial_chambers/spawner/melee/spider Spawns spiders. 1
+4
+1
+4
+5  200px trial_chambers/spawner/melee/zombie Spawns zombies. 1
+4
+1
+4  200px trial_chambers/spawner/ranged/poison_skeleton Spawns bogged. 1
+4
+1
+2
+2
+2  200px trial_chambers/spawner/slow_ranged/poison_skeleton Spawns bogged.
+
+Unlike the regular spawner: 4 mobs are allowed to exist simultaneously instead of 3, an additional player adds 2 mobs instead of 0.5, and the spawner waits  ticks between spawn attempts instead of . trial_chambers/spawner/ranged/skeleton Spawns skeletons. 1
+4
+1
+4  200px trial_chambers/spawner/slow_ranged/skeleton Spawns skeletons.
+
+Unlike the regular spawner: 4 mobs are allowed to exist simultaneously instead of 3, an additional player adds 2 mobs instead of 0.5, and the spawner waits  ticks between spawn attempts instead of . trial_chambers/spawner/ranged/stray Spawns strays. 1
+4
+1
+4  200px trial_chambers/spawner/slow_ranged/stray Spawns strays.
+
+Unlike the regular spawner: 4 mobs are allowed to exist simultaneously instead of 3, an additional player adds 2 mobs instead of 0.5, and the spawner waits  ticks between spawn attempts instead of . trial_chambers/spawner/small_melee/baby_zombie Spawns baby zombies. 1
+4
+1
+2
+2  200px trial_chambers/spawner/small_melee/cave_spider Spawns cave spiders. 1
+4
+1
+2
+2
+2
+3  200px trial_chambers/spawner/small_melee/silverfish Spawns silverfishes. 1
+4
+1
+4  200px trial_chambers/spawner/small_melee/slime Spawns slimes. 1
+4
+1
+4  200px
+Miscellaneous
+thumb|A disposal near a chamber entrance.
+Name Description Blocks Image Weight Chamberstrial_chambers/chamber/entrance_cap A substructure used to block all other potential entrances of a chamber after one entrance has been chosen to connect to another substructure. (See  for a list of substructures where the chamber entrance connects to.) 15
+5
+5  100px (100%) trial_chambers/decor/disposal Disposals consist of a hopper placed above an empty barrel. They generate in chamber entrances. Their purpose is to help players manage their inventory before entering a chamber. 3
+1
+1
+1
+1
+1  100px  (100%) Beds trial_chambers/decor/white_bed Generates in intersection bedrooms in groups of 3-4. Their colors are randomized and dependent on their own substructures with their own bed color.
+
+Out of the 16 beds, the pink bed is the rarest bed to pull out from the pool, having a 2.17% () chance to generate, while the other beds have a 6.52% () chance to generate.
+
+The bed in the secret room of both  and  are not generated through this substructure and are always purple.
+
+Beds have randomized colors  only. , beds in trial chambers, especially ones that are randomized , are pre-generated in their respective substructures.
+
+White, red, green, blue and purple beds can also generate . 1  100px (6.52%) trial_chambers/decor/light_gray_bed 1  100px (6.52%) trial_chambers/decor/gray_bed 1  100px (6.52%) trial_chambers/decor/black_bed 1  100px (6.52%) trial_chambers/decor/brown_bed 1  100px (6.52%) trial_chambers/decor/red_bed 1  100px (6.52%) trial_chambers/decor/orange_bed 1  100px (6.52%) trial_chambers/decor/yellow_bed 1  100px (6.52%) trial_chambers/decor/lime_bed 1  100px (6.52%) trial_chambers/decor/cyan_bed 1  100px (6.52%) trial_chambers/decor/light_blue_bed 1  100px (6.52%) trial_chambers/decor/blue_bed 1  100px (6.52%) trial_chambers/decor/purple_bed 1  100px (6.52%) trial_chambers/decor/magenta_bed 1  100px (6.52%) trial_chambers/decor/pink_bed 1  100px (2.17%)
+
+Mobs
+
+Natural mob spawning do not occur within the trial chambers. Instead, mobs can spawn in the trial chambers through trial spawners or unnatural mob spawning sources.
+Mobs from trial spawners
+
+link=Breeze link=Bogged link=Cave Spider link=Husk link=Silverfish link=Skeleton link=Slime link=Spider link=Stray link=Zombie Breeze Bogged Cave Spider Husk Silverfish Skeleton Slime Spider Stray Zombie and baby zombie
+These mobs above spawn from the trial spawners. The number of mobs spawned scales with the number of players in range of each spawner, and breezes are spawned less per spawner and per player than other mobs.
+
+When a trial chamber generates, one mob from each of the following categories is randomly selected for the trial spawners in that trial chamber. Every mob within the same category has an equal chance to be selected. There are four (or five if the slow ranged category is counted) categories for trial chamber mob spawning.
+Breeze (always spawn a breeze)
+Melee ( chance to spawn either a husk, a spider or a zombie)
+Ranged and slow ranged ( chance to spawn either a bogged, a skeleton or a stray)
+Small melee ( chance to spawn either a baby zombie, a cave spider, a silverfish or a slime)
+Not all trial chambers will spawn with all four categories. However, the breeze category is guaranteed to spawn in all trial chambers.
+Additional mobs
+link=Chicken Chicken
+Chickens can also spawn in trial chambers through two methods:
+In , baby zombies and baby husks have a 5% chance to spawn a chicken jockey, which contains a chicken.
+Dispensers can also contain eggs, which has a chance to spawn chickens.
+
+Loot
+
+Loot is available from vaults, chests, barrels, dispensers, and decorated pots from within the chambers. Players who defeat a trial spawner each receive rewards; this loot scales depending on the number of players who defeat the trial spawner.
+
+Vaults and reward chests
+thumb|A vault inside the trial chambers.
+
+Vaults and chests (known as reward chests in game) in entrance_1's secret room and the hallway dead end rubble share the same loot table.
+
+Ominous vaults
+thumb|An ominous vault inside the trial chambers.
+
+Chests
+Entrances
+
+Intersections
+The room where the loot is stored is actually inside in the room end_2, not an intersection.
+
+Supply
+Supply loot only occurs in chests within cache_1.
+
+Barrels
+Intersection barrels
+
+Corridor barrels
+Corridor barrels are named as "corridor chests" in the game files, but the loot is stored inside barrels.
+
+Decorated pots
+295px|thumb|A decorated pot inside trial chambers
+In addition to the below, decorated pots may have flow, guster, or scrape designs, which yield their respective pottery sherds when broken, along with bricks for any blank sides. There is a  chance that the pot is composed entirely out of bricks, and  chance for each of the variants with a single sherd.
+
+Dispensers
+thumb|Dispensers inside various chambers
+Chamber dispenser
+See  for substructures with loot table.
+
+Corridor dispenser
+
+Water dispenser
+
+Trial spawners
+When all mobs have been killed, the trial spawner has a 50% chance of picking the trial key, in which case it drops for all players. The other 50% of the time it drops one of the other items for each player.
+
+Ominous trial spawners
+When all mobs have been killed, the ominous trial spawner has a 30% chance of picking the ominous trial key, in which case it drops for all players. The other 70% of the time it drops one of the other items for each player.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement and teaser
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The idea of trial chambers evolved from CornerHard pitching in a meeting to revisit the monster room.
+The design of trial chambers was inspired by the architecture of n civilizations, whose geometric designs fit well into Minecraft. The design combines the aesthetic of ancient civilizations with a futuristic feel.
+A scrapped chamber design appears in two YouTube videos showcasing the trial chambers and the trial spawners. It includes a trial spawner, two chests, and two redstone lamps with levers on top.
+Brandon Pearce thinks that whoever created trial chambers in-universe seem to be "pretty tinkery".
+There are around 4,500 copper blocks in an average trial chamber. If these were all mined and converted to copper ingots, this would be approximately 40,000 copper ingots.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+Concept artwork
+
+Notes
+
+References
+
+External links
+Building Blocks: Trial Chamber – Minecraft.net on September 19, 2024
+
+Navigation
+
+de:Prüfungskammern
+es:Cámaras de desafío
+fr:Chambres des épreuves
+ja:試練の間
+ko:시련의 회당
+pl:Komnaty próby
+pt:Câmaras do Desafio
+ru:Камеры испытаний
+uk:Палац випробувань
+zh:试炼密室

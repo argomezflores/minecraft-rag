@@ -1,0 +1,62 @@
+TITLE: Nether Fossil
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Nether_Fossil
+---
+Nether fossils are fossils that generate in soul sand valleys that can sometimes contain dried ghasts.
+
+Generation
+Nether fossils generate randomly throughout the Nether in soul sand valleys.
+
+Structure
+
+Nether fossils are composed of 5 to 27 bone blocks. Unlike regular fossils, they do not have a lowered structure integrity and no blocks are replaced with coal or diamond ore. They are made with the NBT structure block format and the NBT files for each fossil are stored in the folder .
+
+Nether fossils have a 1⁄3 (~33.3%) chance of generating a dried ghast adjacent to them.
+
+There are 14 different variants of Nether fossils:
+
+Structure name Description Consists of Imagesnether_fossils/fossil_1Small ribs.10 center|220pxnether_fossils/fossil_2A horizontal sternum.10 center|200pxnether_fossils/fossil_3Small partial ribcage.6 center|120pxnether_fossils/fossil_4Small ribcage structure.6 center|100pxnether_fossils/fossil_5One medium rib.5 center|80pxnether_fossils/fossil_6Large ribcage structure.21 center|220pxnether_fossils/fossil_7Three sets of large ribs.18 center|200pxnether_fossils/fossil_8One large rib.6 center|100pxnether_fossils/fossil_9Three ascending sets of medium ribs.15 center|200pxnether_fossils/fossil_10One large rib.8 center|100pxnether_fossils/fossil_11 Medium ribcage structure.24 center|220pxnether_fossils/fossil_12Medium ribcage structure.11 center|180pxnether_fossils/fossil_13Three large ribs.17 center|180pxnether_fossils/fossil_14Large ribcage structure.26 center|220px
+
+Data values
+ID
+:
+
+, Nether fossils are not a structure.
+
+Config
+:
+Structure configuration
+:
+
+: The y-value where the structure starts.
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Screenshots
+
+See also
+
+Navigation
+
+F
+
+de:Netherfossil
+es:Fósil del Nether
+fr:Fossile du Nether
+ja:ネザーの化石
+ko:네더 화석
+lzh:焱界龍骨
+pl:Netherowa skamielina
+pt:Fóssil do Nether
+ru:Ископаемые останки Нижнего мира
+uk:Незерські скам'янілості
+zh:下界化石

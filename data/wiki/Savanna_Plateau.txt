@@ -1,0 +1,81 @@
+TITLE: Savanna Plateau
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Savanna_Plateau
+---
+A savanna plateau is a variant of the savanna biome that replaces it at higher elevations and near mountains. Unlike regular savannas, the biome features spotted wolves while lacking villages and pillager outposts.
+
+Generation
+Savanna plateaus most often form when a savanna generates on top of a plateau or beneath stony peaks. Like regular savannas, they generate where temperature is moderately high and humidity is low, but they are almost always elevated relative to any surrounding regular savanna terrain.
+
+Besides savannas and stony peaks, forests are common borders, while cherry groves, meadows, snowy slopes, and badlands are less common.
+
+Savanna plateaus will never generate near windswept savannas or mangrove swamps.
+
+Because of the biome's low to moderate erosion values, the deep dark is common deep beneath savanna plateaus, while dripstone caves are common higher up.
+
+Description
+Terrain in the savanna plateau appears identical to the regular savanna, sharing its grassy landscape covered with acacia trees, small oak trees, and more tall grass, as well as its arid climate, which prevents proper rainfall from happening within the biome, and tints grass and leaves brown. A distinguishing feature of this biome compared to regular savannas is the absence of villages, pillager outposts and abandoned camps.
+
+The same warm mobs spawn in savanna plateaus, plus the unique spotted wolves. Llamas also spawn here, where they do not spawn in regular savannas .
+
+With Vibrant Visuals, savanna plateaus use warmish color grading that tints the environment more orange/yellow. The night sky is slightly brighter and moonlight appears more vibrant blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a savanna plateau:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development screenshots
+
+See also
+
+Dry Savanna
+
+Notes
+
+References
+
+Navigation
+
+de:Savannenhochebene
+es:Sabana#Meseta_de_sabana
+fr:Plateau de savane
+ja:サバンナ#サバンナの高原
+ko:사바나#사바나_고원
+lzh:莽原#莽塬
+pt:Planalto_de_savana
+ru:Саванна#Плато_саванны
+uk:Саванне плато
+zh:热带高原

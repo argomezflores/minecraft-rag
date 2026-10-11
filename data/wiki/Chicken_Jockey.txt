@@ -1,0 +1,127 @@
+TITLE: Chicken Jockey
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Chicken_Jockey
+---
+A chicken jockey is the rare appearance of a baby zombie, baby husk, or a gurgle (or baby zombie villager, or baby zombified piglin Not  due to  and .) riding a chicken. , baby zombies and variants can also mount other common mobs.
+
+Spawning
+, chicken jockeys spawn directly in the world, like all other jockeys. , baby zombies and certain variants do not spawn directly but instead mount other nearby mobs.
+
+Direct spawning
+
+Each baby zombie, baby zombie villager, baby husk, gurgle, or baby zombified piglin that spawns naturally has a 5% chance to check for an existing chicken within an approximately 10×6×10 (L*H*W) box centered on the baby's spawn location and spawn riding one of those chickens if there are any. If it fails that 5% chance, there is an additional 5% chance of the baby spawning mounted on a new adult chicken.
+
+Therefore, in a chicken-free environment, each baby zombie has a 4.75% chance of spawning directly as a chicken jockey. If chickens are present, this chance increases to 9.75%.
+
+Taking into consideration the fact that each type of zombie has a 5% chance of spawning as a baby, each spawned zombie has a 0.2375% chance of directly spawning as a chicken jockey in a chicken-free environment. If chickens are present, the chance increases to 0.4875%.
+
+Chickens that are mounted by zombies despawn naturally, cannot lay eggs, and drop  experience instead of the usual . If a jockey spawns riding a new chicken, the variant of the chicken depends on the biome it spawns in. If a jockey spawns riding an existing chicken, the chicken keeps its NBT data (variant, health, custom name, age, etc), but its IsChickenJockey tag is set to 1.
+
+Chicken jockeys can sometimes spawn with equipment. Zombie, zombie villager and husk chicken jockeys may spawn holding an iron sword, iron spear, or iron shovel, and wearing armor. Drowned chicken jockeys may spawn holding a trident, fishing rod, or nautilus shell. Zombified piglin chicken jockeys always spawn holding a golden sword or golden spear.
+
+Although chickens take damage from standing on magma blocks, zombified piglin chicken jockeys still spawn on them, killing the chicken and leaving just the baby zombified piglin.
+
+Zombified piglin chicken jockeys do not become hostile if the chicken is attacked or killed.
+
+Due to the biomes the riders spawn in, husk and zombified piglin chicken jockeys can only spawn with a warm chicken, unless they spawn riding an existing chicken. If a zombified piglin chicken jockey spawns from a Nether portal block, the variant of the chicken depends on the biome the portal block is located in.
+
+Mounting
+
+, 15% of naturally spawned baby zombies, baby husks and gurgles can mount other mobs when spawned. This includes baby zombies summoned by monster spawners and spawn eggs.
+
+The following mobs can be mounted:
+
+Due to a bug, baby zombified piglins jockeys don't spawn properly. - This is because of a spawn event not existing in the  field in the zombified piglin's  JSON file.
+
+Due to another bug, baby zombie villagers can no longer mount mobs as jockeys.
+
+Summoning
+Spawn eggs cannot spawn a chicken jockey or baby zombie rider, but monster spawners and trial spawners can.
+
+, chicken jockeys can be summoned directly with  by setting the IsChickenJockey boolean flag to 1 (true):
+
+, summoning a baby zombie rider requires the following command:
+
+It can then be forced to form a jockey with the following command:
+
+(or any mountable mob)
+
+In both editions, zombie can be replaced by any zombie variant.
+
+Drops
+The baby zombie (or variant) and the ridden mob each drop the same items they normally would. If the baby zombie or baby husk is killed by a player or tamed wolf while riding a chicken, it also drops the Lava Chicken music disc. Note that the jockey must be a zombie, not a gurgle or a baby zombie villager, husk,, or zombified piglin, and it must be riding a chicken.
+
+Behavior
+
+The jockey’s behavior is controlled by the rider.
+
+Chicken jockeys fall slowly and do not take fall damage, like normal chickens.
+The ridden mob can run through 1 block high gaps if its hitbox allows it. The rider suffocates unless the above block is transparent.
+The rider can pick up/equip items if capable.
+Chickens (unless spawned with commands without the  tag) do not lay eggs. However, they can still breed with other chickens, and the offspring do lay eggs. , if a baby zombie or a variant mounts a normal chicken, the chicken stops laying eggs. If the rider is killed, the chicken starts laying eggs again.
+Zombie riders (both the riders and ridden mobs) despawn like regular hostile mobs.
+, the chicken acts like a regular passive mob again if the rider is killed, but still does not lay eggs and may despawn.
+Only the ridden mob needs a name tag to prevent both the ridden mob and rider from despawning.
+Curing a zombie villager jockey:
+: turns it into a villager chicken jockey. The baby villager continues to ride the chicken if it grows up or turns into a witch.
+: dismounts the villager riding the jockey after it has been cured.
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+, the chance for a baby zombie villager to spawn wearing full enchanted diamond armor holding an enchanted iron sword in its left hand while riding a chicken is about 1 in 2.91082×1022, however it is still not the rarest jockey.
+, the rarest mob is the zombie villager chicken jockey from abandoned jungle village with fully enchanted diamond armor, jack o'lantern, leader attributes, and an enchanted iron sword in its left hand.
+, the rarest jockey is a baby zombie with full enchanted diamond armor with an enchanted iron spear riding a baby brown panda.
+as of 26.0, if there were no bugs, there are 3074 possible zombie (variant) riders, when including all mob variants. This does not include different armor configurations for zombies, husks, and zombified piglins, cat, chicken, cow, pig, and wolf sound variants, and statistics.
+Zombified piglin chicken jockeys can spawn from portals in the Overworld.
+A chicken jockey is the main protagonist of the openings for MINECON Live 2019 and Minecraft Live 2020.
+
+Gallery
+Renders
+Chicken jockey
+Jockey Chicken variant Temperate Warm Cold Zombie 100px 100px 100px Husk 100px 100px 100px Gurgle 100px 100px 100px Zombified piglin 100px 100px 100px Frostbite 100px 100px 100px Zombie villager jockey renders Zombie villager Plains 100px 100px 100px Desert 100px 100px 100px Savanna 100px 100px 100px Taiga 100px 100px 100px Snowy 100px 100px 100px Jungle 100px 100px 100px Swamp 100px 100px 100px
+
+Mounts
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Jockeys
+
+Category:Hostile mobs
+Category:Animal mobs
+Category:Monster mobs
+
+cs:Slepice žokej
+de:Hühnerreiter
+es:Jinete avícola
+it:Cavalcatore di gallina
+ja:チキンジョッキー
+ko:치킨 조키
+nl:Kipberijder
+pl:Kurzy jeździec
+pt:Jóquei de Galinha
+ru:Зомби-наездник
+uk:Жокей на курці
+zh:鸡骑士

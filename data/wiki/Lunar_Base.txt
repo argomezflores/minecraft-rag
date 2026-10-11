@@ -1,0 +1,56 @@
+TITLE: Lunar Base
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Lunar_Base
+---
+ACME Self-Building Lunar Bases were joke features that could be found on the Moon in the April Fools' snapshot 23w13a_or_b.
+
+Generation
+Lunar bases generate in the moon biome with a  chance to generate in a given chunk.
+
+Structure
+
+Lunar bases look similar to moon rovers at first, with a dropper renamed to "ACME Self-Building Lunar Base" at the center. Pressing the golden pressure plate located on the rover starts the construction of an enormous lunar base. Adding objects to the dropper does not seem to change construction, although having blocks above it prevents it from starting to expand.
+
+Loot
+Loot in the lunar base is located in two types of containers: chests, named "Moon Mission Resupply Crate", and green shulker boxes, named "Lunar Laboratory Equipment". The former generates basic resources to survive on the Moon, like dirt, saplings and vegetables to farm, while the latter can generate items unobtainable in normal Survival gameplay, such as spawn eggs and budding amethyst, as well as a large variety of other items.
+
+Moon Mission Resupply Crate
+
+Lunar Laboratory Equipment
+
+Blocks
+The structure contains the following blocks:
+
+thumb|210x210px|The barriers in the lunar base.
+
+The dropper that activates the structure building has a special tag 'Lunar', and can be obtained through the command , and can be activated by a light weighted pressure plate or heavy weighted pressure plate placed above it.
+
+Sounds
+
+Data values
+ID
+:
+
+Issues
+
+Trivia
+The "ACME" at the beginning of the lunar base's full name is likely a reference to the "Acme" threading put at the beginning of various companies' names in the late 19th and early 20th centuries as a way of having said companies' names appear near the top of alphabetical lists, popularized as a generic company name by the fictional  of the  cartoons.
+While stylized as an acronym in-game, the term "acme" comes from the Greek ἀκμή (acmḗ), meaning "peak", "zenith" or "prime", though backronyms such as "A Company Making Everything" and "An American Company that Manufactures Everything" are popular folk etymologies.
+At the time of releasing the snapshot, the Lunar Laboratory Equipment loot table was the largest among all loot tables in the game.
+
+Gallery
+
+See also
+Feature
+
+Notes
+
+Navigation
+
+Category:Joke features
+Category:The Moon (joke dimension)
+
+fr:Base lunaire
+ja:Lunar Base
+pt:Edição Java 23w13a or b/Lunar Base
+zh:月球基地

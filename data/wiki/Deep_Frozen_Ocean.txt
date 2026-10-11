@@ -1,0 +1,68 @@
+TITLE: Deep Frozen Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Deep_Frozen_Ocean
+---
+The deep frozen ocean is a deep variant of the frozen ocean. Unlike the regular frozen ocean, the water surface is not covered with ice, though icebergs still generate in the water.
+
+Generation
+Deep frozen oceans replace deep oceans at the coldest temperature zones, bordering frozen oceans or mushroom fields, but no other land biomes. They are twice as deep as regular frozen oceans, and may border deep cold oceans near higher temperatures.
+
+Description
+Like any other deep ocean, ocean monuments generate here. Icebergs generate like in normal frozen oceans, but unlike the normal frozen ocean, the water's surface is not frozen. The ocean floor consists of one layer of gravel, followed by stone and variants without any vegetation, and few aquatic mobs spawn. Rare islands are also stony but may have some grass blocks with vegetation.
+
+Similar to frozen oceans, deep frozen oceans have a temperature gradient. However, this is much warmer; at the cold areas it allows snowfall above Y=120±8, while at warm areas it rains everywhere. Due to the unfrozen water, polar bears, strays, frostbites, and rabbits are much rarer, but may still spawn.
+
+With Vibrant Visuals, deep frozen oceans use default environmental settings with a strong cold color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+, these music tracks when the player is underwater in a deep frozen ocean:
+
+These music tracks play while the player is not underwater in a deep frozen ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+Navigation
+
+fr:Océan gelé profond
+pt:Oceano congelado profundo
+uk:Глибокий замерзлий океан
+zh:冰冻深海

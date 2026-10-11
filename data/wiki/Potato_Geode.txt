@@ -1,0 +1,29 @@
+TITLE: Potato Geode
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Potato_Geode
+---
+A potato geode is a potato variant of an amethyst geode, exclusive to 24w14potato.
+
+Generation
+Potato geodes generate frequently underground both in the Overworld and in the Potato dimension. Occasionally, in the potato dimension, a potato geode may generate in the open air.
+
+Structure
+Comparing to amethyst geodes:
+
+The outer layer of smooth basalt is replaced with cobblestone.
+The middle layer of calcite is replaced with granite. Granite might be replaced with the ores such as iron ore of the overworld, even if the potato geode is generated in potato.
+
+The inner layer of blocks of amethyst is replaced with terre de pomme.
+The budding amethyst blocks are replaced with poisonous potato blocks.
+
+Data values
+ID
+
+Issues
+
+Gallery
+
+Navigation
+
+ja:Potato Geode
+zh:马铃薯晶洞

@@ -1,0 +1,67 @@
+TITLE: Snowy Beach
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Snowy_Beach
+---
+A snowy beach or cold beach is a snowy variant of the beach biome that replaces it in frozen regions.
+
+Generation
+Snowy beaches replace beaches in the coldest temperature zones, where they frequently border snowy plains, snowy taigas, ice spikes, and regular taigas. Snowy beaches usually separate land from the frozen ocean biome, though they can occasionally generate completely landlocked. Terrain is generally flat and smooth, but can generate as wide, rugged, or even mountainous depending on the surrounding terrain.
+
+In areas of low erosion, snowy beaches are replaced by stony shores. Warmer regions generate as regular beaches instead. Sometimes, land biomes can directly border frozen oceans without any snowy beach, occasionally featuring tall cliffs.
+
+Ice caves are common below snowy beaches.
+
+Description
+Snowy beaches are the same as regular beaches terrain-wise, being made mostly of sand with sandstone underneath. The temperature in snowy beaches is low enough to allow snowfall, covering the sand in snow and freezing the water around.
+
+Turtles cannot spawn here, but rabbits can . Shipwrecks and buried treasure may still generate in this beach variant.
+
+With Vibrant Visuals, snowy beaches use default atmospherics with a strong cold color grading, making the biome appear icy blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is on a snowy beach:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+
+External links
+
+Navigation
+
+de:Verschneiter Strand
+fr:Plage enneigée
+it:Spiaggia innevata
+pt:Praia nevada
+uk:Засніжений пляж
+zh:积雪沙滩

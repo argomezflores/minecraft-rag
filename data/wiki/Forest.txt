@@ -1,0 +1,80 @@
+TITLE: Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Forest
+---
+The forest is a lush biome densely covered with oak and birch trees. Woods wolves spawn here. The forest is the most common Overworld surface biome in Minecraft, making up about 12% of its area.
+
+Generation
+Forests generate in a broad range of moderate temperatures, with a somewhat more restrictive medium humidity requirement.
+
+They frequently border plains, taigas, birch forests, and jungles, though forests may border a much larger variety of biomes. Forests can generate in various terrains, including flatlands and plateaus.
+
+Forests sometimes generate as slopes, where they can border mountain biomes like groves or stony peaks.
+
+Description
+Forests feature dense trees compared to other biomes. Lilies of the valley, rose bushes, peonies, and lilacs generate in this biome. Bushes generate here in small patches, and leaf litter is scattered on the ground underneath trees.
+
+Wolves spawn commonly in forest and use their woods variant. Bees from bee nests on trees are found as well.
+
+Abandoned camps sometimes generate in forests.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the forest:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Wald
+es:Bosque
+fr:Forêt
+it:Foresta
+ja:森林
+ko:숲
+lzh:林
+pl:Las
+pt:Floresta
+ru:Лес
+uk:Ліс
+zh:森林

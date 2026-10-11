@@ -1,0 +1,213 @@
+TITLE: Zombie Horse
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Zombie_Horse
+---
+A zombie horse is an undead variant of the horse. It rarely spawns in dark areas as a hostile mob being ridden and controlled by a zombie horseman wielding an iron spear. It becomes passive once separated from the zombie rider, allowing it to be tamed and ridden.
+
+Spawning
+Zombie horsemen
+Zombie horses can naturally spawn on grass blocks in savanna, savanna plateau, windswept savanna, plains, sunflower plains, and snowy plains biomes as zombie horsemen: a zombie wielding an iron spear riding a zombie horse. Like zombies themselves, zombie horsemen can only spawn at a light level of 0, or light levels below 7, both above ground and underground. They will also burn in daylight. However, due to the lack of grass blocks underground in the Overworld, they are mostly found on the surface. The zombie horse never spawns as a baby. Other zombie variants such as husks and zombie villagers cannot spawn as horsemen. , zombie horses are programmed to spawn in ice spikes biomes, but they fail to do so naturally, as the biome's surface is made of snow blocks instead of grass blocks, meaning they also cannot spawn underground in that biome.
+
+Zombie horses count toward the "monster" mob cap and can despawn like most hostile mobs until the first time any player interacts with it. At that point it becomes persistent and no longer counts toward any mob cap either.
+
+When using the zombie horse's spawn egg, 20% of spawned zombie horses will be the otherwise unused baby variant.
+
+, zombie horses spawn in Peaceful difficulty, unlike other monsters.
+
+Drops
+On death
+
+when killed by a player or tamed wolf.
+If equipped with a saddle or horse armor, the saddle and/or horse armor will be dropped upon death.
+
+Baby zombie horses yield neither items nor experience.
+
+Behavior
+
+The zombie horse is an undead mob that spawns as a hostile mob with a zombie controlling it, as the rider controls its pathfinding, making the zombie horse target the player. On their own, zombie horses behave like normal horses, roaming idly and occasionally stopping to rear, swish their tails, or lower their heads as though eating the grass. Unlike sheep and like other horses, the eating animation does not cause any grass to be consumed.
+
+Like other undead mobs, zombie horses can breathe in water.  Unlike skeleton horses and other undead, they do not sink - they float - in or on water.
+
+Zombie horses have a  chance to regenerate  health point each game tick.
+
+Zombie horses can safely fall 6 blocks before they begin to accumulate fall damage, unlike most mobs, which can only safely fall 3 blocks. Zombie horses also take half of the normal fall damage (rounded up) that most other mobs take ( damage per block over the safe distance instead of ). If an entity is riding a zombie horse, they receive the same fall damage as the zombie horse.
+
+Zombie horses cannot be bred.
+
+Unlike most passive mobs, zombie horses don't panic when damaged.
+
+If a player pulling a zombie horse with a lead enters a boat, the zombie horse follows by swimming the same speed as the boat. A player riding a zombie horse is dragged along if the zombie horse is being pulled by a lead, and can even be lifted up in the air in the same way.
+
+, zombie horses are never spawned as part of a zombie siege, but if a zombie horseman naturally spawns nearby, it will join the siege and behave like all other zombies.
+
+Mob type
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+A threat to armadillos, causing them to hide in their shell.
+
+Like most other undead mobs, zombie horses burn in direct sunlight. They are protected from burning when wearing horse armor, similar to other undead mobs wearing helmets. As horse armor has no durability, it does not break from absorbing the damage like helmets do.
+
+As they are monsters, zombie horses count toward the hostile mob cap.
+
+Parrots can also imitate them like other hostile mobs.
+
+As they are undead mobs, golden dandelions do not work on baby zombie horses.
+
+Taming
+
+As with regular horses, zombie horses can be tamed by riding them until they stop bucking the player off.
+
+Jockey
+15% of nearby baby zombies, husks, or drowned may ride an adult untamed zombie horse to form a jockey.
+
+Statistics
+All zombie horses have three "equine stats": health, (maximum) movement speed, and jump height. While health is the same for all zombie horses, movement speed and jump height vary from horse to horse.
+
+Health
+Zombie horses are spawned with a constant health of . The last half-heart is not shown in a zombie horse's health bar, which only displays .
+
+Movement speed
+A zombie horse's movement speed is randomly assigned within certain ranges which vary between  and . In Java Edition, it ranges between ~0.21347 and ~0.28463 in internal units, with an average of ~0.24905. In Bedrock Edition, it ranges between 0.205 and 0.275, with an average of 0.24. The conversion factor between internal units and blocks/sec is roughly 43.17.
+
+Java Edition:
+Minimum: 9.216 blocks/s
+Average: 10.752 blocks/s
+Maximum: 12.288 blocks/s
+
+Bedrock Edition:
+Minimum: 8.85 blocks/s
+Average: 10.361 blocks/s
+Maximum: 11.872 blocks/s
+
+Jump strength
+Zombie horses' jump strength ranges from 0.5 to 0.7, with an average of 0.6 in internal units.
+
+The minimum jump strength of 0.5 is enough to clear 1.7088 blocks, while the maximum of 0.7 is enough to clear 3.124 blocks. The average jump strength of 0.6 is enough to clear 2.3675 blocks.
+
+Usage
+
+Tamed and saddled zombie horses can be used as a means of transportation. They can also be used to climb hills and jump fences.
+
+Healing
+Red mushrooms can be  to a zombie horse to heal it by . The zombie horse can also be tempted (or "led") with a red mushroom.
+
+Equipment
+thumb|right|GUI of a zombie horse.
+
+Tamed zombie horses have two equipment slots:
+Saddle slot: For equipping a saddle.
+Armor slot: For equipping horse armor.
+
+Baby zombie horses cannot be equipped, as they cannot be ridden.
+
+Equipment can be placed on a zombie horse by holding it and then  on the zombie horse, or by accessing its inventory. A zombie horse’s inventory can be accessed by mounting the horse and using  control, or by  and then  or pressing the "open inventory" button on the zombie horse. The player cannot open the inventory on an untamed zombie horse, though they can open containers.
+
+The equipment can be removed by two methods:
+Removing the equipment from their slots in the zombie horse's inventory.
+shears on the zombie horse. If both a saddle and horse armor are equipped, they are removed one at a time. The first use removes the horse armor, and a second use removes the saddle.
+
+Riding
+
+Once a zombie horse is tamed and saddled, the player can control it with directional controls, , and the mouse. The player dismounts using the  control. Like when riding other entities, it is possible for a player to use a Nether portal or End portal while on a zombie horse.
+
+A ridden zombie horse automatically runs up any one-block-high slope. The horse and rider can safely fit through a space as low as 2.75 blocks high. Lower clearance risks suffocating the rider if the rider's head enters a non-transparent block. The zombie horse itself can enter gaps as low as 1.625 blocks high, but may itself take suffocation damage when clearance is less than 1.75 blocks. Like other horses, zombie horses cannot fit through a 1-block-wide gap.
+
+Ridden zombie horses have the ability of "jump charging". When the player rides them, the experience bar on the HUD is replaced by a jump charging bar. The zombie horse is then able to , and holding the control charges for a higher leap. Zombie horses are not affected by the Jump Boost effect.
+
+Sounds
+Despite being monsters, zombie horses use the "Friendly Mobs" sound category.
+
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Zombie horses have entity data associated with them that contain various properties.
+
+Entity data
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+DrZhark appears in the credits after the End Poem as the creator of horses, including zombie horses.
+In the Minecraft.net, zombie horses were referred to as neutral mobs, due to their behavior as a hostile mob when ridden by zombies.Minecraft 1.21.130 Changelog – Minecraft official website, December 7, 2025
+Before Mounts of Mayhem, zombie horses were unused in Survival, despite being featured in a Minecraft video showcasing every mob in the game at that time.
+A zombie horse was also hinted 2 months before their official announcement, in the 1.21.8 article's photo.Minecraft 1.21.8 Changelog – Minecraft official website, July 17, 2025
+
+Gallery
+Renders
+
+Screenshots
+
+Textures
+
+Mojang images
+
+In other media
+
+See also
+
+Notes
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Hostile mobs
+Category:Tameable mobs
+Category:Undead mobs
+Category:Animal mobs
+Category:Monster mobs
+Category:Transport
+
+de:Zombiepferd
+es:Caballo zombi
+fr:Cheval-zombie
+it:Cavallo#Zombi
+ja:ゾンビホース
+ko:좀비 말
+lzh:屍馬
+pl:Koń-zombie
+pt:Cavalo-Zumbi
+ru:Лошадь-зомби
+uk:Зомбокінь
+zh:僵尸马

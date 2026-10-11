@@ -1,0 +1,51 @@
+TITLE: Hoglin Jockey
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Hoglin_Jockey
+---
+Hoglin jockeys are the rare appearance of a baby piglin riding a baby hoglin.
+
+Spawning
+Post-generation
+Baby piglins run near and ride baby hoglins. If there are more baby piglins than baby hoglins, the baby piglins occasionally jump on other baby piglins already riding a baby hoglin, with a maximum of 3 stacked on a single baby hoglin.
+
+Dismounting
+The baby piglins can dismount the hoglin after getting on it, making hoglin jockeys a temporary occurrence.
+
+If the baby hoglin grows up, the baby piglins will dismount it.
+
+Drops
+When killed by a player or tamed wolf, hoglins (including babies) drop , and baby piglins drop .
+
+Baby piglins will not drop any items they have picked up, regardless of jockey status.
+
+Behavior
+Baby piglins
+
+Baby piglins are passive and play with baby hoglins, running around and riding upon them. Up to 3 baby piglins may stack on top of each other while riding a baby hoglin.
+
+Baby piglins never grow up.
+
+Baby hoglins
+
+Zoglin jockey
+
+In , if a hoglin jockey is brought to the Overworld or The End, the baby hoglin converts to a baby zoglin, and the baby piglin riders convert into baby zombified piglins. The newly created baby zombified piglins continue to ride the newly created baby zoglin.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Gallery
+
+In other media
+
+Navigation
+
+Category:Jockeys
+Category:Hostile mobs
+Category:Monster mobs
+Category:Nether mobs
+
+ja:ホグリンジョッキー
+pt:Jóquei de Hoglin

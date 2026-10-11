@@ -1,0 +1,72 @@
+TITLE: Snowy Slopes
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Snowy_Slopes
+---
+Snowy slopes are snowy biomes that often generate on the sides of mountains. Unlike the snowy plains, this biome is made out of stone covered with one or more layers of snow blocks and occasional powder snow patches.
+
+Generation
+Snowy slopes usually generate as mountain slopes in cold to temperate climates where humidity is low. As terrain rises further, they often give way to jagged peaks and frozen peaks.
+
+On high slopes, they often border groves if humidity rises, and cherry groves or meadows where terrain plateaus. Falling terrain tends to produce biomes such as plains and snowy plains. Rare biomes like ice spikes, sunflower plains, flower forests, and dappled forests sometimes generate nearby.
+
+In very low temperatures, snowy slopes can stretch into lower terrain and valleys, possibly covering thousands of blocks. In these areas, thin frozen rivers, ice spikes, or snowy plains may cut through the valleys.
+
+As with other mountain biomes, the deep dark is very common deep underground. Higher up, dripstone caves are common, especially far inland.
+
+Description
+Snowy slopes are similar to groves except that no trees generate. It is a mostly barren biome covered in snow, multiple layers of snow blocks and strips of powder snow, with steep sides to the north or east also having stone cliffs covered with snow layers.
+
+Infested stone generates underground as well as emerald ore.
+
+Goats spawn in this biome alongside snowy rabbits and polar bears. At nighttime, strays and frostbites may also spawn alongside common hostile mobs.
+
+This is the only mountain biome where igloos can generate. Pillager outposts also generate here.
+
+With Vibrant Visuals, snowy slopes use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in snowy slopes:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Verschneite Hänge
+fr:Pentes enneigées
+pt:Encostas nevadas
+uk:Засніжені схили
+zh:积雪山坡

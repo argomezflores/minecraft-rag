@@ -1,0 +1,136 @@
+TITLE: Dolphin
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Dolphin
+---
+Dolphins are aquatic neutral mobs that live in non-frozen oceans. They grant a speed boost to players that swim near them and follow the player while swimming.
+
+Spawning
+Dolphins are found in groups (pods) of 1-2 or 3-5 in all ocean biomes, excluding frozen oceans and cold oceans. They spawn exclusively between levels 50 and 64.
+Dolphins continuously spawn as long as their spawn requirements are met, and naturally despawn if no players are nearby, similar to squid and nautiluses.
+
+, dolphins, squids, and nautiluses together make up the water creatures mob cap.
+
+Dolphins have a 10% chance to spawn as a baby.
+
+Drops
+On death
+
+, if kill credit is given to the player.
+
+Killing a baby dolphin yields neither items nor experience.
+
+Behavior
+thumb|Dolphins jumping in water.
+Dolphins normally swim in pods, occasionally leaping out of the water to get air. They are also able to jump from one body of water to another. Additionally, they chase after players in boats but do not give the speed boost effect.
+
+Players who sprint-swim within a 9 block spherical radius of a dolphin receive a swimming speed boost for 5 seconds, replenished as long as the player continues to sprint-swim within a 15 block spherical radius of a dolphin. Invisibility reduces both of these ranges like normal, based on the amount of armor the player is wearing. , the speed boost is granted by the Dolphin's Grace effect, while  the player simply gets the speed boost without a status effect. The dolphin keeps following the player as long as they are sprint-swimming, allowing the player to swim under the speed boost for long distances.
+
+, dolphins are lured by dropped items that are inside nearby water blocks, picking them up, throwing around and chasing after them. If the dolphin is in, or on, a waterlogged bottom slab or chest with an air block above, or a bubble column, the dolphin is prevented from drowning.
+
+When a player or another mob hits a dolphin (unless the dolphin is killed in one hit ), the whole pod retaliates, attacking all at once, similar to wolves and zombified piglins. Hostile dolphins remain hostile even if they are fed fish. Hostile dolphins are far more dangerous .
+
+When dolphins are fed raw fish, they swim to the nearest shipwreck or ocean ruins; , the structures a dolphin can locate are defined in the dolphin_located tag. Dolphins also avoid guardians and elder guardians.
+
+Unlike most “animal” mobs, dolphins cannot breed. Baby dolphins can only be found when they naturally spawn. A baby dolphin eventually turns into an adult after 24000 ticks (20 minutes), and its growth time can be accelerated by 10% each time it is fed fish. A baby dolphin fed a fish once per second grows up in approximately 48 seconds using 47 fish.
+
+Like many other baby mobs, a golden dandelion can be used on a baby dolphin to prevent it from growing up, or used a second time to resume its aging.
+
+Dolphins do not deal any damage in Peaceful difficulty and are completely passive.
+
+Unlike other neutral mobs, dolphins do not count toward the  tag.
+
+Weaknesses
+If a dolphin leaves the water in dry weather, it starts taking suffocation damage after two minutes, and eventually dies. It takes no damage out of water during rain. Regardless of weather, a dolphin on land actively seeks out a body of water, or seeks its target if in a hostile state.
+
+They cannot survive without air. If they stay submerged for about four minutes, they begin drowning. The Water Breathing effect prevents them from drowning.
+
+Like most other aquatic mobs, dolphins cannot ride boats. However, they can be towed by a lead.
+
+, the dolphin is an aquatic mob and is thus affected by the Impaling enchantment. , it is only affected when in the water, as all mobs are.
+
+Breeding
+Dolphins cannot be bred by the player. Baby dolphins only occur through natural spawning in the wild.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Dolphins have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: How moist this dolphin is. Set to 2400 when in water or rain. Decreases by 1 every tick otherwise. The dolphin takes damage when 0 or below.
+: 1 or 0 (true/false) - if true, this dolphin got fish from a player.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+To create the sounds that the dolphins make in the game, Mojang Studios' lead sound designer, Samuel Åberg, went to Kolmården Wildlife Park to record real dolphins.
+Dolphins originally had a separate head and body when shown in a clip at MINECON 2017. It is also shown in artwork for Java Edition 1.13, the Bundles of Bravery trailer, an episode of the AI Adventurers series, Minecraft: Volume 2, and Minecraft Annual 2025.
+Real-life dolphins don't suffocate outside of water; they breathe air like all mammals, although they can die of dehydration out of water.
+In 2018, a prediction poll was held in which Chinese users could vote on which Chinese animal they expected to see in Minecraft, to promote the release of Minecraft China. One of the options for voting was the possibly extinct baiji dolphin. The panda won the poll and was announced days later at MINECON Earth 2018.https://mc.163.com/pe/client/activity/voteforanimalpc/
+Mojang has considered and rejected the suggestion to allow dolphins to be tamed or ridden. They also decided against adding behaviors that deviate significantly from real-life dolphins, such as fleeing from drowned.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Neutral mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+de:Delfin
+es:Delfín
+fr:Dauphin
+hu:Delfin
+it:Delfino
+ja:イルカ
+ko:돌고래
+nl:Dolfijn
+pl:Delfin
+pt:Golfinho
+ru:Дельфин
+th:โลมา
+uk:Дельфін
+zh:海豚

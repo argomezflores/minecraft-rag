@@ -1,0 +1,80 @@
+TITLE: Eroded Badlands
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Eroded_Badlands
+---
+The eroded badlands or mesa bryce biome is a variant of the badlands notable for its hoodoos.
+
+Generation
+Eroded badlands generate at very high temperatures and low humidities, typically when weirdness is positive. They are often separated from regular badlands by rivers though they may also border them directly.
+
+Eroded badlands frequently border deserts, as well as savannas or savanna plateaus as temperatures lower. Eroded badlands can sometimes generate in mountainous terrain, rarely peaking as high as Y=256, where they may border stony peaks.
+
+The deep dark and dripstone caves might generate beneath eroded badlands.
+
+Description
+The biome generates similar to regular badlands, with red, orange, yellow, white, light gray, brown, and regular terracotta forming the landscape. Lower grounds are mostly made of red sand and red sandstone, with brown terracotta underneath. Dead bushes grow on terracotta and red sand, while cacti along with occasional cactus flowers only appear on red sand. Like all badlands biomes, gold ore generates more frequently and closer to the surface, and mineshafts made out of dark oak can also be found, often exposed to air.
+
+Rainfall never occurs in eroded badlands, as the biome is arid, and lightning never strikes here.
+
+Eroded badlands feature unique formations of terracotta hoodoos, narrow spires that rise up from the red sand floor of the biome's drainage basins. The hoodoos only generate at lower elevations. At higher elevations, the biome is indistinct from the regular badlands. The biome is intended to resemble the famous Bryce Canyon in Utah, USA, which features hoodoos across its landscape.
+
+Mobs found within eroded badlands are the same as regular badlands: Farm animals can only spawn on player-created grass blocks in this biome, and generate their warm variants. Armadillos also inhabit eroded badlands.
+
+With Vibrant Visuals, eroded badlands have unique atmospherics, the sky is tinted turquoise-green at daytime and much brighter during the night, while the daytime horizon is tinted brown. Moonlight is more vibrant blue, and the warm color grading tints the environment more yellow, although color saturation is slightly lower.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the eroded badlands:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Old generation
+thumb|Eroded badlands before Caves & Cliffs
+Before Caves & Cliffs, eroded badlands were a mutation of the badlands biome, both having flat terrain and no plateaus. It generated similarly to badlands as an edge around rare dry temperature zone or as small spots within badlands plateaus, but surrounding biomes were often mutated as well into modified badlands plateaus and modified wooded badlands plateaus. Unlike regular badlands, no desert border generated next to temperate biomes, and beaches did generate next to oceans.
+
+The hoodoos in eroded badlands often lined up with the larger badlands plateaus, although they could extend much higher.
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+See also
+
+External links
+
+Navigation
+
+de:Abgetragene Tafelberge
+fr:Badlands érodées
+pt:Terras áridas erodidas
+uk:Вивітрені безплідні землі
+zh:风蚀恶地

@@ -1,0 +1,138 @@
+TITLE: Piglin Brute
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Piglin_Brute
+---
+A piglin brute is a hostile and stronger variant of the piglin. It wields a golden axe and appears in all types of bastion remnants. Unlike piglins, piglin brutes do not barter, retreat, or get distracted by gold.
+
+Spawning
+Piglin brutes spawn in some rooms of bastion remnants only upon generation, so they are not renewable. They do not have a baby variant.
+
+Piglin brutes spawn with a golden axe, occasionally with enchantments. They never spawn with armor and do not equip armor from the ground, although they can still be equipped with armor via dispensers or commands.
+
+Drops
+A piglin brute has 8.5%/25% chance of dropping a  with a random durability if killed by a player or a tamed wolf, increased by 1% with each level of Looting, with a total 11.5%/28% chance with Looting III.
+
+A piglin brute drops  experience points when killed by a player or a tamed wolf.
+
+Behavior
+Piglin brutes attack players, wither skeletons, and withers within 16 blocks and are not distracted by golden items or blocks. However, they prefer to attack players over wither skeletons and withers. They also attack any mob, including goats, that attacks any piglin or piglin brute, either by accident or purposefully. Examples include retaliation for attacks by snow golems and iron golems.
+
+Piglin brutes, much like vindicators, deal a high amount of raw melee damage, inflicting  points of damage on Normal difficulty. The only stronger mobs are the wither, which deals up to  melee damage , the iron golem, which deals up to  melee damage, the warden, which deals up to  melee damage and the unused giant, which deals up to  melee damage.
+
+Piglin brutes spawn in all difficulty settings. In Peaceful difficulty, piglin brutes despawn.
+
+, the detection range of piglin brutes is reduced to half of their normal range (8 blocks) when the player is wearing a piglin head.
+
+Behaviors shared by both piglins and piglin brutes:
+
+Can open wooden and copper doors.
+Call nearby piglins and other piglin brutes once attacked by a mob or a player, no matter whether the player wears golden armor or not.
+Are not naturally immune to fire or lava.
+Join in hunts.
+Turns into a zombified piglin when in the Overworld or the End for more than 15 seconds.
+Attack nearby withers and wither skeletons.
+They cannot swim, sink in water and eventually drown.
+
+Behaviors specific to piglin brutes:
+
+Piglin brutes attack players on sight, no matter whether the player wears golden armor or not.
+Piglin brutes do not retreat from soul fire items, zoglins, or zombified piglins.
+Piglin brutes do not perform a "victory dance".
+Piglin brutes do not barter, as the player cannot use a gold ingot on them.
+Piglin brutes pick up regular or enchanted golden axes only if walking over them. Unlike piglins, piglin brutes ignore all other golden items or gold ingots, meaning they cannot equip armor. However, they can still be equipped via dispensers or commands.
+They do not have a baby variant.
+They cannot use crossbows.
+They attempt to return to their spawn point (regardless of how they were spawned) when not engaged in combat.
+They do not join hunts and do not attack hoglins.
+They do not drop piglin heads when killed by a charged creeper's explosion.
+
+Zombification
+thumb|right|upright|A piglin brute turning into a zombified piglin.
+When in the Overworld or the End, piglin brutes transform into zombified piglins after 15 seconds. Upon transformation, the spawned zombified piglin has the Nausea effect for 10 seconds.This does not happen in Bedrock Edition due to . This Nausea effect is purely cosmetic. When turned into a zombified piglin, a piglin brute keeps its axe.
+
+Piglin brutes summoned in the Overworld with no AI do not zombify and do not pick up items.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Piglin brutes have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (true/false) – if true, the piglin brute does not transform to a zombified piglin when in the Overworld.
+: The number of ticks that the piglin brute has existed in the Overworld; the piglin brute converts to a zombified piglin when this is greater than 300.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Mention
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Piglin brutes were hinted to not have good eyesight.
+Piglin brutes were created late in 1.16's development, so they were pushed to a minor release as the developers did not want to add a new feature so close to release.
+The golden arm guard is meant to work as a "protection" and is the reason behind their high health.
+Sounds that are used by the piglins are lower-pitched when used by the piglin brute (like the converted_to_zombified sound).
+In , in the , file, there is a  component, which follows the same despawning rules as zoglins. However, since piglin brutes are spawned by world generation, this component never functions, and therefore, unused. If behavior packs were made to make piglin brutes spawn naturally without travelling to bastions, the component would function properly.
+Piglin brutes were made to trigger normal piglins when attacked, as to encourage players to avoid or be careful around them.
+In , Piglin Brutes attacks players who aggravate nearby Piglins in any way, not just by attacking them.
+
+Gallery
+Renders
+
+Screenshots
+
+Textures
+
+In other media
+
+See also
+
+Notes
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Nether mobs
+Category:Monster mobs
+Category:Piglins
+
+de:Piglin-Barbar
+es:Piglin bruto
+fr:Piglin barbare
+it:Piglin bruto
+ja:ピグリンブルート
+ko:난폭한 피글린
+pl:Piglin okrutnik
+pt:Piglin Bárbaro
+ru:Брутальный пиглин
+uk:Брутальний піґлін
+zh:猪灵蛮兵

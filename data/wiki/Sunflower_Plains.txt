@@ -1,0 +1,68 @@
+TITLE: Sunflower Plains
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Sunflower_Plains
+---
+The sunflower plains biome is a variant of the plains that generate with sunflowers. It is the only biome where sunflowers naturally generate.
+
+Generation
+Sunflower plains replace plains at very low humidity in medium temperatures. They generate in high weirdness, often separated from flower forests by rivers or mountain valleys. They border most biomes that plains can border, including cherry groves but never forests or other woodland biomes.
+
+Description
+Like the plains, sunflower plains feature a wide, open view with few oak trees that sometimes come with bee nests. Large quantities of sunflowers generate across their landscape, and it is the only biome where sunflowers generate.
+
+Other flowers such as azure bluet, oxeye daisy, and cornflower, and short grass, tall grass, and bushes also grow among the sunflowers. , villages and outposts still generate here, but , they do not.
+
+Sunflower plains are populated by the same mobs as plains, including temperate animals with horses, donkeys, and zombie horsemen at night.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in sunflower plains:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Sonnenblumenebene
+fr:Plaines de tournesols
+pt:Planície de girassóis
+uk:Соняшникові рівнини
+zh:向日葵平原

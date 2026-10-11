@@ -1,0 +1,78 @@
+TITLE: The End (biome)
+CATEGORY: End biomes
+URL: https://minecraft.wiki/w/The_End_(biome)
+---
+The End is a biome used to generate the End dimension. There are five biomes in the End, but they are considered separate biomes only , while generating the same terrain as .
+
+Description
+This biome is exclusive to the End dimension. Islands of End stone generate dispersed in the void, with the surface almost completely flat. One island, where the player spawns upon entering and End portal, generates in the center far from all others.
+
+Endermen frequently spawn all around the biome. , water placed in the End takes on a unique purple color and underwater fog is much denser.
+
+With Vibrant Visuals, the sky is slightly tinted dark purple, more visible near the zenith. During an End flash, a strong purple volumetric fog effect is visible, while it illuminates the environment with a purple tint. Water is also colored purple, and the water fog much denser than in the Overworld.
+
+Main island
+The End central island is generated around coordinates 0, surrounded by emptiness all the way to one thousand blocks in every direction. Most of the End features are exclusive to here, including the ender dragon, the End spikes, the End crystals, the 5×5 spawn platform, the exit portal, and the 20 central End gateways, which generate after the ender dragon has been defeated.
+
+, this biome is only used in a circle of radius 1024 centered at the 0,0 coordinates in the End, containing this main island. This makes it the biome that occupies the smallest portion of the map: a circular radius of 1000 blocks, covering 3.5 billionths of the entire dimension.
+
+, this biome is instead the biggest, as it is used to generate the whole dimension.
+
+Outer islands
+
+In addition to the features from the main End island, the rest of the features in the End are also part of this biome , including outer End islands, rogue End gateways, End cities, and chorus plants. Shulkers can be found in End cities as well as the elytra. End cities and chorus plants only generate on the larger islands; small square islands are dispersed in the void surrounding them.
+
+Mobs
+The following mobs naturally spawn here:
+
+Music
+These music tracks play while the player is in the End:
+
+Additionally, "Boss" plays continuously when the player is within a Euclidean distance of 192 blocks of the island's center point while the ender dragon is alive.
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+History
+
+Java Edition
+
+Data history
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+Development images
+
+Navigation
+
+Category:End biomes
+
+de:Biom/Endbiome
+es:El End (bioma)
+fr:L'End (biome)
+ja:ジ・エンド (バイオーム)
+ko:엔드 (생물 군계)
+lzh:終界（生態域）
+pt:O End (bioma)
+ru:Край (биом)
+uk:Енд (біом)
+zh:末地（生物群系）

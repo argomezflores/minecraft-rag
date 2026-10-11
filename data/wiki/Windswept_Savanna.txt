@@ -1,0 +1,79 @@
+TITLE: Windswept Savanna
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Windswept_Savanna
+---
+The windswept savanna or savanna mutated is a shattered and mountainous variant of the savanna that generates in areas with high erosion close to swamps and other windswept biomes. The terrain consists of huge cliffs and floating islands covered with coarse dirt, stone, and savanna vegetation.
+
+Generation
+Windswept savannas are the rarest savanna variant and usually span only a small area. They generate where erosion is moderately high and weirdness is positive, often at or near the coast, in temperatures from temperate to hot and in any humidity except very high. Windswept savannas do not necessarily generate alongside other savanna variants and may appear in isolation, even as islands.
+
+Relatively rare biomes such as windswept hills, windswept forests, swamps, mangrove swamps, and sunflower plains can border windswept savannas. Old growth birch forests and sparse jungles are frequent borders, while common biomes like plains, forests, savannas, and deserts also often generate nearby.
+
+The terrain can include extremely steep mountains, enormous overhangs, floating islands, tall waterfalls and lavafalls, and peaks that reach the generation height limit of Y=256. Deep, large lakes may form at the bases of the mountains.
+
+Cave biomes are rarer beneath windswept savannas compared to most biomes, though lush caves occasionally generate underground where humidity is somewhat high.
+
+Description
+The terrain is covered with a mixture of grass block patches and coarse dirt patches, with a large amount of exposed stones. Unlike regular savannas, tall grass, villages, and pillager outposts cannot generate in this biome.
+
+Farm animals spawn as warm variants in this biome. Armadillos, horses, and donkeys still appear like in regular savannas, as do hostile zombie horsemen during the nighttime. In Bedrock Edition, llamas also live here.
+
+The giant overhangs often reduce skylight on the terrain similar to caves, allowing hostile mobs to spawn at day.
+
+With Vibrant Visuals, windswept savannas use warmish color grading that tints the environment more orange/yellow. The night sky is slightly brighter and moonlight appears more vibrant blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a windswept savanna:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Zerzauste Savanne
+es:Sabana#Sabana_ventiscosa
+fr:Savane venteuse
+ja:サバンナ#吹きさらしのサバンナ
+ko:사바나#바람이_세찬_사바나
+lzh:莽原#當風莽原
+pt:Savana das ventanias
+ru:Саванна#Выветренная_саванна
+uk:Вітряна савана
+zh:风袭热带草原

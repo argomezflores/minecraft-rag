@@ -1,0 +1,81 @@
+TITLE: Taiga
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Taiga
+---
+The taiga is a humid and cold biome comprising a grassland forested with small and large ferns, pale aquamarine-green grass, spruce and pine trees. Foxes and wolves commonly spawn here.
+
+Generation
+Taigas generate in the moderately high humidity zones of cold temperature areas, as well as the highest humidity zones of frozen areas. They commonly border old growth taigas, forests, and snowy taigas, and less frequently birch forests. In cold temperature areas, they can generate in any type of terrain; flatlands near shattered windswept forests and swamps, rolling slopes and plateaus, or mountains with groves on the slopes.
+
+In the frozen temperature areas, however, they only generate in medium to high erosion as vast groves replace them in mountainous terrain. They can sometimes still generate replacing rivers in the highest mountain peaks. When generated in frozen temperature areas, they create a large contrast with the snowy environment, most notably frozen rivers and snowy beaches.
+
+Because these generate in the highest humidity, they are almost guaranteed to have lush caves underground. Cold temperature zone taigas have a slightly lower chance of bordering lush caves.
+
+Description
+The taiga's surface is a grassland with a large number of ferns and large ferns, and is forested with pine and spruce trees, which are the only trees that can generate in this biome. The vegetation also includes sweet berry bushes, and takes an aquamarine color tone. The water coloration has a unique dark turquoise tone .
+
+Cold animal variants spawn in the taiga, as well as foxes and pale wolves. Rainfall is common and changes to snowfall above the layer Y=160±8 within taigas due to the humid and cold climate.
+
+Pillager outposts, villages, and trail ruins generate in taigas occasionally. These villages are made of spruce wood materials and often contain gardens with poppy and pumpkin farms. Abandoned camps sometimes generate in taigas.
+
+With Vibrant Visuals, taigas use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint. Taigas have coolish color grading tints the environment with a colder blue color, and cold sunlight which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a taiga:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+In other media
+
+See also
+
+References
+
+Navigation
+
+de:Taiga
+es:Taiga
+fr:Taïga
+it:Taiga
+ja:タイガ
+ko:타이가
+lzh:棘林
+pl:Tajga
+pt:Taiga
+ru:Тайга
+uk:Тайга
+zh:针叶林

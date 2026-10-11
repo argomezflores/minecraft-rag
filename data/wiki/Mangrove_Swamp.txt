@@ -1,0 +1,80 @@
+TITLE: Mangrove Swamp
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Mangrove_Swamp
+---
+The mangrove swamp is a wetland biome populated with mud and mangroves where slimes, frogs, and bogged can spawn.
+
+Generation
+Mangrove swamps generate in warm regions where erosion is very high. Typically flat, they frequently border deserts, savannas, jungles, forests, and plains. These biomes are sometimes entirely surrounded by the mangrove swamp. Rivers cannot flow through mangrove swamps but often run along small sections of the biome's perimeter.
+
+Mangrove swamps never border the ocean directly, though the bodies of water may merge when a river or submerged beach biome forms the boundary. In cooler areas, mangrove swamps transition into regular swamps. Mangrove swamps are often near windswept savanna biomes.
+
+Where weirdness is low, sulfur caves can often generate underground.
+
+Description
+Mangrove swamp biomes are a variant of the swamp biome featuring dense mangrove trees which vary in height and sometimes contain a bee nest with bees. The floor is mainly composed of mud blocks with occasional grass block or dirt disks. Seagrass litters the bottom of flooded areas, and lily pads dot the water's surface.
+
+, unlike most Overworld biomes, mushrooms do not generate here. The grass has the same color as the normal swamp, determined by a temperature gradient, but leaves and vines have a unique light green tint, and the water is teal rather than gray. Warm frogs and tropical fish are the only passive mobs that spawn in this biome.
+
+Additional slimes may spawn in mangrove swamps during the night, exclusively between Y=50 and Y=70. Their spawn rate is affected by the moon phase, spawning most often during full moon and not spawning at all during new moon. Bogged add an additional threat to the night, thunderstorms, or caves.
+
+Mangrove swamp biomes, alongside deserts and regular swamps, can generate fossils underground. However, swamp huts do not generate here.
+
+Villagers that spawn in mangrove swamps get a unique swamp-themed look. While villages don't generate in swamps, they are commonly found bordering one with some houses in the biome. Otherwise, swamp villagers can only spawn by curing zombie villagers in this biome or breeding villagers here.
+
+Underwater fog is thick here, making visibility lower underwater. With Vibrant Visuals, mangrove swamps use a strong humid volumetric fog setting similar to jungles, which fades the distance in an orange tint, and moonlight is colored more vibrant blue. Mangrove swamps have brighter blue daytime sky colors, and a slightly warmer color grading, but not as much as jungles.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the mangrove swamp:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Mangrovensumpf
+es:Pantano
+fr:Marais à mangroves
+it:Palude
+ja:沼地
+ko:늪
+pl:Bagno
+pt:Manguezal
+ru:Болото
+uk:Мангрове болото
+zh:红树林沼泽

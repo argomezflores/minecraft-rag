@@ -1,0 +1,122 @@
+TITLE: Salmon
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Salmon
+---
+Salmon are common bucketable aquatic passive mobs found in oceans and rivers that are a source of raw salmon and, occasionally, bones or bone meal.
+
+Spawning
+thumb|Salmon sizes, from left to right: small, normal and large
+Salmon spawn in small, normal, and large sizes. 31.6% spawn as small, 52.6% spawn as normal, and 15.8% spawn as large.
+
+Java Edition
+Salmon spawn in groups of 1–5 in cold or frozen oceans, as well as their deep variants, subject to fish spawning requirements. They also spawn in rivers and frozen rivers.
+
+Bedrock Edition
+Salmon spawn underwater at 12–32 blocks away from the player. They spawn in groups of 3–5 in lukewarm, cold, normal, frozen oceans, their deep variants, and rivers (including frozen rivers). In addition, salmon spawn on the surface (that is, there must not be a spawnable block above the spawn location with a non-solid block on top).
+
+Drops
+
+when killed by a player or tamed wolf.
+
+Behavior
+Salmon tend to swim in schools with a maximum of 7 salmon per school.
+
+They can swim up approximately 4–5 blocks in waterfalls, emulating the behavior of real-world salmon that leap into and over small waterfalls to reach their spawning ground.
+
+The player may collect salmon by  a water bucket on it, which gives the player a bucket of salmon. Salmon placed with buckets do not despawn naturally. When the bucket of salmon is  against a block, it empties the bucket, placing water with the salmon swimming in it.
+
+Salmon cannot be bred; they spawn naturally.
+
+Some salmon may randomly leave their school swimming away and they may despawn.
+
+Weaknesses
+Salmon cannot survive out of water. Outside of water, they flop around for a while until they die from suffocation. Salmon flip around on their sides. , they rotate when flipping. Salmon also cannot swim or breathe in cauldron water.
+
+, salmon have a weakness to weapons that have the Impaling enchantment, which also affects other fish and water mobs except drowned.
+
+Axolotls always attack salmon on sight but they will not attack another salmon for a few times after that.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Salmon have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (/) - Whether the fish had ever been released from a bucket.
+: Can be , , or . The size of the salmon. Represents the  component.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The elongated green head and red body of salmon resemble that of Pacific migratory salmon (Oncorhynchus sp.), specifically sockeye salmon (O. nerka), king/chinook salmon (O. tshawytscha) or coho salmon (O. kisutch), in their spawning phase. However, they are not typically eaten in this state due to severely depleted energy reserves; most consumed salmon comes from the ocean, where they retain their more silvery appearance (akin to cod).
+
+Gallery
+Screenshots
+
+Other
+
+Textures
+
+Mojang images
+
+In other media
+
+See also
+
+References
+
+External links
+Salmonidae article on Wikipedia
+Mob Menagerie: Salmon — Minecraft.net on April 22, 2024
+
+Navigation
+
+Category:Passive mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+cs:Losos
+de:Lachs
+es:Salmón
+fr:Saumon
+hu:Hal
+ja:サケ
+ko:연어
+nl:Vis (wezen)
+pl:Ryba (mob)
+pt:Salmão
+ru:Лосось
+th:Fish (mob)
+uk:Лосось
+zh:鲑鱼

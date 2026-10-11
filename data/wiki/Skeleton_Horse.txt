@@ -1,0 +1,247 @@
+TITLE: Skeleton Horse
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Skeleton_Horse
+---
+A skeleton horse is an undead skeletal horse that sometimes spawns from lightning strikes during thunderstorms, as a skeleton trap. When this trap is approached, it transforms into four skeleton horsemen. A skeleton horse becomes passive once separated from its skeleton rider, and can then be ridden. Unlike most undead mobs, skeleton horses do not burn under direct sunlight.
+
+A skeleton horseman is a skeleton with an enchanted bow and enchanted iron helmet riding and controlling a skeleton horse.
+
+Spawning
+
+A "skeleton trap" horse is a skeleton horse spawned from a fraction of lightning generated naturally by a thunderstorm (0.75–1.5% chance on Easy, 1.5–4% on Normal, and 2.25–6.75% on Hard difficulty, depending on regional difficulty). , the lightning that spawns a trap horse doesn't strike nearby entities or spawn fires. Lightning strikes created from a Channeling-enchanted trident and lightning strikes directed to a lightning rod never spawn a skeleton trap horse. The trap horse despawns after 15 minutes if not triggered (even if it is named). Trap horses will spawn in any biome where it can rain, even in mushroom fields and deep dark.
+
+, skeleton horses do not spawn in Peaceful difficulty, like hostile mobs. Note that skeleton traps do not follow other mob spawning rules and can spawn on basically any block. They can even spawn when the game rule spawn_monsters is false.
+
+Baby skeleton horses cannot spawn naturally.
+
+Skeleton horsemen
+
+The skeleton trap horse is triggered when a player approaches within 10 blocks of it, resulting in a lightning strike that does not start fires or damage nearby entities. When struck, the skeleton trap horse transforms into a skeleton horseman: a skeleton riding a skeleton horse. It also spawns three additional skeleton horsemen in the vicinity.
+
+The skeleton rider is equipped with an enchanted iron helmet along with an enchanted bow. Like regular skeletons, they also have a chance to spawn with various pieces of armor or with the ability to pick up equipment on the ground. The skeleton riders are always regular skeletons, and never spawn as strays, bogged, parched, or wither skeletons. Like the horses themselves, the skeleton riders are persistent, meaning they do not despawn unless the difficulty is set to Peaceful.
+
+, both the horse and rider have damage immunity for 3 seconds after spawning. , both the horse and rider are always immune to lightning. Once its skeleton rider is killed, the skeleton horse becomes completely passive, allowing for it to be ridden.
+
+A skeleton trap horse, and therefore skeleton horsemen, can also be manually spawned using commands:
+
+Java Edition
+
+Bedrock Edition
+.
+
+Drops
+On death
+
+when killed by a player or tamed wolf.
+If saddled, it drops a saddle.
+
+Killing a baby skeleton horse yields no items or experience. , killing a trap skeleton horse also yields no items or experience.
+
+Behavior
+
+The skeleton horse is an undead mob that spawns and triggers a "skeleton trap" if the player gets too close. Once the skeleton rider is defeated, the skeleton horse becomes completely passive. Skeleton horses behave like normal horses, roaming idly and occasionally stopping to rear, or lower their heads as though eating the grass. Unlike sheep, the eating animation does not actually cause any grass to be consumed. Skeleton horses can breathe in water.
+
+Skeleton horses can safely fall 6 blocks before they begin to accumulate fall damage, unlike most mobs, which can only safely fall 3 blocks. Skeleton horses also take half of the normal fall damage (rounded up) that most other mobs take ( damage per block over the safe distance instead of ). If an entity is riding a skeleton horse, they receive the same fall damage as the skeleton horse.
+
+Skeleton horses have a  chance to regenerate  health point each game tick.
+
+Unlike most passive mobs, skeleton horses don't panic when damaged.
+
+Skeleton horses cannot be bred.
+
+Other notes:
+The skeleton wears an iron helmet, unless it randomly spawned with some other headgear.
+The skeleton's bow and helmet are enchanted as if on an enchanting table at level 5–22. The exact level depends on regional difficulty; on Easy it is always a level-5 enchantment.
+The skeleton trap horse and the skeleton horse in a jockey are always adults.
+The skeleton in a naturally spawned skeleton horseman jockey does not despawn.
+A trap horse may spawn in areas that a regular horse may not, such as the middle of an ocean.
+A trap horse can trigger normally in clear weather (and often a player encounters a trap horse after the thunderstorm has cleared).
+The skeleton drops more experience orbs.
+The skeleton does not attack any mob that attacks the skeleton horse.
+
+Differences/inconsistencies of skeleton horses with other undead mounts, such as zombie horses, camel husks, and zombie nautiluses:
+It counts for the passive mob cap instead of the hostile mob cap.
+It is not valid for advancements.
+It can still be leashed and fed with horse food items when ridden by hostile mobs.
+It cannot be tamed normally, as it is tamed by default when the trap triggers.
+A skeleton horse spawned via a spawn egg cannot be tamed or ridden.
+Its movement speed is not variable, unlike that of zombie horses.
+It cannot wear horse armor.
+Parrots can't imitate them.
+It does not burn in sunlight, unlike zombie horses and zombie nautiluses.
+
+Mob type
+Being an undead mob, they are:
+damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+unaffected by the status effects Regeneration and Poison.
+ignored by the wither.
+affected by the Smite enchantment.
+a threat to armadillos, causing them to hide in their shell.
+
+As with other undead mobs, golden dandelions do not work on baby skeleton horses.
+
+As they are under the  entity type tag, creepers drop a music disc when killed by a skeleton horse.
+
+Taming
+, a skeleton horse is always tamed. , a skeleton trap horse becomes tamed when the trap activates (unrelated to the fake lightning strike that the trap also creates). The other three skeleton horses are tamed when they are spawned.
+
+, with the use of commands, a skeleton horse can be tamed in the same way as a regular horse, granting the Best Friends Forever advancement.
+
+Jockey
+
+15% of nearby baby zombies, husks, zombie villagers, or drowned may ride an adult skeleton horse to form a jockey, if the skeleton horse has no riders.
+
+Statistics
+
+Horses have three "equine stats" that vary from horse to horse: health, maximum movement speed, and jump strength. However, only jump strength will vary between skeleton horses. Jump strength is decided once the horse is spawned, and is not affected by food.
+
+Spawned values
+When spawned in any way except breeding – for instance, using commands, spawning naturally, spawning as part of a skeleton trap, or using spawn eggs – horses are assigned their stats within certain ranges, specific according to their horse type.
+
+Health
+A skeleton horse's health is always 15. Displayed hearts are health, divided by two, rounded down. A horse with an odd number of health points (15, 17, 19, etc.) does not show the last half-heart. If the horse has lost one health point lower than the inflicted damage and did not regenerate, it has an odd number of health points, otherwise, it has an even number of health points.
+
+Movement speed
+A skeleton horse's speed is always 0.2; the player's normal walking speed is 0.1. The speed listed does not include any status effect that affects the speed of a horse or a player.
+
+See  to compare the speeds of various transportation methods.
+
+Jump strength
+Jump strength ranges from 0.4–1.0, averaging 0.7.
+
+A jump strength of 0.5 is enough to clear  blocks, while 1.0 is enough to clear  blocks.
+
+The jump strengths required to clear several block heights are:
+Jump Strength Blocks 0.9675.00 0.8484.00 0.7163.00 0.5652.00 0.4311.25 (player's jump height)
+
+Usage
+
+As with normal horses, skeleton horses can be ridden by a player. When ridden, they can be used to climb hills and jump fences because the skeleton horses can jump up to five block heights, versus the player's maximum of one (without jump boost).
+
+Skeleton horses can be ridden in water at any depth without forcing the player to dismount. They sink to the bottom and can be ridden along the ocean or river floor.
+
+Skeleton horses can be pulled or tethered with a lead.
+
+Equipment
+thumb|right|GUI of a skeleton horse.
+
+Skeleton horses have the following slot available:
+Saddle Slot: For equipping a saddle.
+
+Saddles can be placed on a tamed skeleton horse by holding it and then  on the skeleton horse, or by accessing its inventory. A skeleton horse’s inventory can be accessed by mounting the skeleton horse and using  control, or by  and then  on the skeleton horse.
+
+The saddle can be removed by two methods:
+Removing the saddle from its slot in the skeleton horse's inventory.
+shears on the skeleton horse.
+
+Baby skeleton horses cannot be equipped, as they cannot be ridden.
+
+A skeleton horse does not have an inventory and cannot be equipped with a saddle or horse armor. Despite this, the default texture file, like those of normal horses, donkeys and mules, includes a chest.
+
+Riding
+
+, skeleton horses can be controlled by the player without a saddle. , skeleton horses must be equipped with a saddle to be controlled. Like riding other entities, a player can travel into a nether portal or end portal while on a skeleton horse.
+
+The player can control a tamed (and saddled ) skeleton horse with standard directional controls, , and the mouse. The player dismounts using the  control.
+
+A player controlled skeleton horse automatically runs up any one block high slope. The skeleton horse and rider can safely fit through a space as low as 2.75 blocks high. Lower clearance risks suffocating the rider if the rider's head enters a non-transparent block. The horse itself can enter gaps as low as 1.625 blocks high, but may itself take suffocation damage when clearance is less than 1.75 blocks. Skeleton horses cannot fit through a 1-block-wide gap.
+
+Player controlled skeleton horses have the ability of "jumping charging". When the player rides them, the experience bar on HUD is replaced by jumping charging bar. A controlled skeleton horse can be made to  and holding the control charges for a higher leap. Skeleton horses are not affected by jump boost beacons or potions.
+
+Unlike normal horses, a skeleton horse does not force the player to dismount when it is under water; rather, it can be ridden underwater without drowning. The player can still drown underwater without the proper potions or enchantments, even when mounted on the skeleton horse. When underwater, its running speed and jump remain the same although it has a slower rate of descent.
+
+Sounds
+Skeleton horse sounds are the sounds of the regular horse but lower pitched and slowed with reverb. Despite being monsters, skeleton horses use the "Friendly Mobs" sound category.
+
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Skeleton horses have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (true/false) - true if the horse is a trapped skeleton horse. Does not affect horse type.
+: Incremented each tick when SkeletonTrap is set to 1. The horse automatically despawns when it reaches 18000 (15 minutes).
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Unlike all other undead mounts, killing a skeleton horse does not grant the Monster Hunter advancement and is not required in order to complete the Monsters Hunted advancement.
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In the Mobspotter's Encyclopedia, skeleton horses were referred to as neutral mobs, due to their behavior as a hostile mob when ridden by skeletons.
+
+Gallery
+Renders
+
+Screenshots
+
+Textures
+
+In other media
+
+See also
+
+Notes
+
+References
+
+Navigation
+
+Category:Passive mobs
+Category:Hostile mobs
+Category:Tameable mobs
+Category:Undead mobs
+Category:Animal mobs
+Category:Monster mobs
+Category:Transport
+
+de:Skelettpferd
+es:Caballo esqueleto
+fr:Cheval-squelette
+it:Cavallo scheletro
+ja:スケルトンホース
+ko:스켈레톤 말
+pl:Koń-szkielet
+pt:Cavalo-Esqueleto
+ru:Лошадь#Лошадь-нежить
+uk:Кінь-скелет
+zh:骷髅马

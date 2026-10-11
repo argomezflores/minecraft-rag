@@ -1,0 +1,1151 @@
+TITLE: Bastion Remnant
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Bastion_Remnant
+---
+Bastion remnants, also simply referred to as bastions, are large, castle-like generated structures found in the Nether in all of the biomes except basalt deltas. They generate in four distinct variants, each with a unique structure and set of loot. Piglins and piglin brutes spawn in these structures on generation, and hoglins may also spawn on generation in the bridge and hoglin stables variants. Bastion remnants are the only place to find gilded blackstone, the Pigstep music disc, the snout banner pattern and armor trim, monster spawners which spawn magma cubes, and the netherite upgrade smithing template.
+
+Generation
+thumb|Nether structure generation . The black lines represent each region and the dots represent coordinates. Green is where they can generate and red is where they cannot.
+thumb|Nether structure generation . The black lines represent each region and the dots represent coordinates. Green is where they can generate and red is where they cannot.
+
+Bastion remnants generate in all Nether biomes except basalt deltas, although a bastion may extend into one. If a bastion tries to generate in a basalt delta, the bastion does not generate and a Nether fortress generates instead. To generate the structure, the game splits the Nether into regions, in which either a Nether fortress or a bastion remnant can generate. The regions are 432×432 blocks  and 480×480 blocks . Each region has a 4-chunk separation located on the south and east borders of the region in which neither a fortress nor a bastion can generate. This leaves only a 368×368 block section  or 416×416 block section  where a structure can generate. Two structures never generate in the same region, although they might overlap if they generate close to the separation border. , the chance of a bastion generating instead of a fortress is  (60%), while  the chance of a bastion generating instead of a fortress is  (66.6%). Each of the four variants of bastion remnants has an equal chance of generating.
+
+Piglins, piglin brutes, and hoglins that spawn upon generation in bastion remnants neither despawn naturally nor do they hunt each other. Piglin brutes also spawn exclusively here upon structure generation, and do not despawn unless killed, or if difficulty is set to Peaceful. Like shulkers in end cities, once these mobs are killed, they do not respawn, though the bastion remnant continues to spawn normal mobs depending on the biome it is located in.
+
+Structure
+
+Bastion remnants generate as 4 types of structures: bridges, hoglin stables, housing units, and treasure rooms. Each type has its own set of structures that compose it. These structures may be supported by ramparts that contain cave-like paths. Piglins, piglin brutes, and hoglins spawn frequently throughout. Unlike Nether fortresses, when over the lava sea, they do not generate pillars of solid blocks down to the solid terrain beneath, but float above, entirely even.
+
+All bastion remnant structures found below are located in the folder client.jar/data/minecraft/structures/bastion.
+
+File structure
+Listbastion
+blocks
+air.nbt
+gold.nbt
+bridge
+bridge_pieces
+bridge.nbt
+connectors
+back_bridge_bottom.nbt
+back_bridge_top.nbt
+legs
+leg_0.nbt
+leg_1.nbt
+ramparts
+rampart_0.nbt
+rampart_1.nbt
+rampart_plates
+plate_0.nbt
+starting_pieces
+entrance.nbt
+entrance_base.nbt
+entrance_face.nbt
+walls
+wall_base_0.nbt
+wall_base_1.nbt
+hoglin_stable
+air_base.nbt
+connectors
+end_post_connector.nbt
+large_stables
+inner_0.nbt
+inner_1.nbt
+inner_2.nbt
+inner_3.nbt
+inner_4.nbt
+outer_0.nbt
+outer_1.nbt
+outer_2.nbt
+outer_3.nbt
+outer_4.nbt
+posts
+end_post.nbt
+stair_post.nbt
+ramparts
+ramparts_1.nbt
+ramparts_2.nbt
+ramparts_3.nbt
+rampart_plates
+rampart_plate_1.nbt
+small_stables
+inner_0.nbt
+inner_1.nbt
+inner_2.nbt
+inner_3.nbt
+outer_0.nbt
+outer_1.nbt
+outer_2.nbt
+outer_3.nbt
+stairs
+stairs_0_mirrored.nbt
+stairs_1_0.nbt
+stairs_1_1.nbt
+stairs_1_2.nbt
+stairs_1_3.nbt
+stairs_1_4.nbt
+stairs_2.nbt
+stairs_2_0.nbt
+stairs_2_1.nbt
+stairs_2_2.nbt
+stairs_2_3.nbt
+stairs_2_4.nbt
+stairs_3.nbt
+stairs_3_0.nbt
+stairs_3_1.nbt
+stairs_3_2.nbt
+stairs_3_3.nbt
+stairs_3_4.nbt
+starting_pieces
+stairs_0_mirrored.nbt
+stairs_1_mirrored.nbt
+stairs_2_mirrored.nbt
+stairs_3_mirrored.nbt
+stairs_4_mirrored.nbt
+starting_stairs_0.nbt
+starting_stairs_1.nbt
+starting_stairs_2.nbt
+starting_stairs_3.nbt
+starting_stairs_4.nbt
+walls
+side_wall_0.nbt
+side_wall_1.nbt
+wall_base.nbt
+mobs
+empty.nbt
+crossbow_piglin.nbt
+hoglin.nbt
+melee_piglin.nbt
+melee_piglin_always.nbt
+sword_piglin.nbt
+melee_piglin.mcstructure
+melee_piglin_always.mcstructure
+crossbow_piglin.mcstructure
+hoglin.mcstructure
+sword_piglin.mcstructure
+treasure
+big_air_full.nbt
+bases
+lava_basin.nbt
+centers
+center_0.nbt
+center_1.nbt
+center_2.nbt
+center_3.nbt
+brains
+center_brain.nbt
+connectors
+center_to_wall_middle.nbt
+center_to_wall_top.nbt
+center_to_wall_top_entrance.nbt
+corners
+bottom
+corner_0.nbt
+corner_1.nbt
+edges
+bottom.nbt
+middle.nbt
+top.nbt
+middle
+corner_0.nbt
+corner_1.nbt
+top
+corner_0.nbt
+corner_1.nbt
+entrances
+entrance_0.nbt
+extensions
+empty.nbt
+fire_room.nbt
+house_0.nbt
+house_1.nbt
+large_bridge_0.nbt
+large_bridge_1.nbt
+large_bridge_2.nbt
+large_bridge_3.nbt
+roofed_bridge.nbt
+small_bridge_0.nbt
+small_bridge_1.nbt
+small_bridge_2.nbt
+small_bridge_3.nbt
+ramparts
+bottom_wall_0.nbt
+lava_basin.nbt
+lava_basin_main.nbt
+lava_basin_side.nbt
+mid_wall_main.nbt
+mid_wall_side.nbt
+top_wall.nbt
+roofs
+center_roof.nbt
+corner_roof.nbt
+wall_roof.nbt
+stairs
+lower_stairs.nbt
+walls
+entrance_wall.nbt
+lava_wall.nbt
+bottom
+wall_0.nbt
+wall_1.nbt
+wall_2.nbt
+wall_3.nbt
+mid
+wall_0.nbt
+wall_1.nbt
+wall_2.nbt
+outer
+bottom_corner.nbt
+medium_outer_wall.nbt
+mid_corner.nbt
+outer_wall.nbt
+tall_outer_wall.nbt
+top_corner.nbt
+top
+main_entrance.nbt
+wall_0.nbt
+wall_1.nbt
+units
+air_base.nbt
+center_pieces
+center_0.nbt
+center_1.nbt
+center_2.nbt
+edges
+edge_0.nbt
+fillers
+stage_0.nbt
+pathways
+pathway_0.nbt
+pathway_wall_0.nbt
+ramparts
+ramparts_0.nbt
+ramparts_1.nbt
+ramparts_2.nbt
+rampart_plates
+plate_0.nbt
+stages
+stage_0_0.nbt
+stage_0_1.nbt
+stage_0_2.nbt
+stage_0_3.nbt
+stage_1_0.nbt
+stage_1_1.nbt
+stage_1_2.nbt
+stage_1_3.nbt
+stage_2_0.nbt
+stage_2_1.nbt
+stage_3_0.nbt
+stage_3_1.nbt
+stage_3_2.nbt
+stage_3_3.nbt
+rot
+stage_1_0.nbt
+walls
+connected_wall.nbt
+wall_base.nbt
+wall_units
+edge_0.nbt
+edge_0_large.nbt
+unit_0.nbt
+
+Bridge
+The bridge consists of a large ruined rampart structure with a piglin face carved into it. The inside of the "mouth" consists of multiple levels of walkways surrounded by lava. A damaged bridge goes out from the mouth, with a support pillar on the far side.
+
+Structure name  Description  Consists of  Image bastion/bridge/bridge_pieces/bridge The double deck bridge. Only 1 generates per bastion.1371
+316
+155
+45
+16
+8
+5
+5
+4
+4
+2
+2
+1  or There is a 10% chance of spawning a piglin brute, a 40% chance of spawning a piglin with a golden sword, a 40% of spawning a piglin with a crossbow, and a 10% chance of not spawning at all. 250px bastion/bridge/connectors/back_bridge_bottom First floor of the double deck bridge behind the rampart.75
+16  250px bastion/bridge/connectors/back_bridge_top Second floor of the double deck bridge behind the rampart.48
+40  250px bastion/bridge/legs/leg_0 A pillar under the bridge.115
+40  75px bastion/bridge/legs/leg_1 A pillar under the bridge.120
+38  75px bastion/bridge/rampart_plates/plate_0 A wall on bastion/bridge/ramparts/rampart_1.260
+82
+38
+26  200px bastion/bridge/ramparts/rampart_0The upper half of one side of the rampart. 2 of these generate per bastion.2954
+491
+235
+89
+15
+1
+1 Loot  (Generic)
+1
+2  or  250px bastion/bridge/ramparts/rampart_14361
+496
+346
+146
+40
+11
+3 Loot  (Generic)
+1
+3  or
+3  or There is a  chance of spawning a piglin brute and a  chance of spawning a piglin with a golden sword. 200px bastion/bridge/starting_pieces/entrance The upper half of the rampart. Only 1 generates per bastion.6548
+849
+328
+47
+38
+30  (source blocks)
+11
+11
+9
+7
+5
+3
+2
+1 Loot  (Bridge)
+14  or
+2 This hoglin has a  chance of not spawning.
+1  or  250px bastion/bridge/starting_pieces/entrance_base The lower half of the rampart. Only 1 generates per bastion.10685
+2953
+396
+52  (source blocks)
+10
+7
+2
+2
+1
+1
+7  or  200px bastion/bridge/starting_pieces/entrance_face Structure in front of the rampart resembling a face.517
+136
+49
+13
+12  250px bastion/bridge/walls/wall_base_0 The lower half of one side of the rampart.4854
+228
+3
+2
+2
+2  or  250px bastion/bridge/walls/wall_base_1 The lower half of one side of the rampart.5034
+213
+2
+2
+1  250px
+
+Hoglin stables
+The hoglin stables consist of a three-part rampart with damaged hoglin stables on either side. Hoglin stables' pieces are contained in the subfolder hoglin_stable. They contain the hoglin stable chests.
+
+Structure name  Description  Consists of  Image  A technical connecting part. None N/A  A technical connecting part between posts. None N/A Large stables for hoglins.168
+74
+7
+5
+5
+1  250px 146
+61
+19
+16
+11
+7
+2
+2
+2
+1  250px 225
+39
+29
+7
+5
+3
+2
+2
+1  250px 246
+33
+32
+7
+3
+2
+2
+1
+1 Loot  (Hoglin Stable)
+2  or  250px 235
+47
+47
+3
+1
+1  250px 166
+76
+7
+5
+3
+3
+1
+2  or  250px 145
+62
+19
+15
+12
+7
+2
+2
+1
+1 This gold block has only a 25% chance of appearing. Otherwise, air is generated in its place.
+1  250px 225
+38
+30
+7
+5
+3
+2
+2
+2  or  250px 252
+33
+32
+5
+4
+1
+1  (source block) 250px 235
+48
+46
+4
+1  250px  A post between stables.96  35px|center  Two posts between stables.192  100px|center  A wall on bastion/hoglin_stable/ramparts/ramparts_1.260
+81
+38
+26  250px  The upper half of a part of the rampart. 3 of these generate per bastion.4055
+459
+346
+130
+40
+9
+4
+4
+3 Loot  (Generic)
+3
+6  or
+2  or  250px 2885
+440
+236
+77
+15
+7
+2 Loot  (Generic)
+2
+1
+2  or
+1  or  250px 1281
+467
+74
+10
+4
+1 Loot  (Generic)
+1  or
+1  or  250px Small stables for hoglin.69
+53
+35
+29
+9
+4
+2
+1
+1  250px 91
+43
+17
+14
+9
+3
+2
+1
+1
+1  250px 127
+59
+21
+21
+12
+7
+3
+2
+2
+1 Loot  (Hoglin Stable)
+1
+1
+1  or
+1  or  250px 84
+31
+25
+14
+6
+3
+2
+1
+1  or  250px 69
+53
+35
+28
+9
+4
+4
+2
+2  or  250px 90
+43
+17
+14
+10
+4
+3
+1
+1
+1  250px 126
+59
+22
+21
+12
+7
+2
+2
+1
+1
+1  250px 86
+32
+25
+14
+6
+4
+3
+1
+1  250px  Stairs connecting floors of stables.180
+57
+31
+18
+6
+4
+3
+3
+1  250px 225
+49
+27
+24
+12
+4
+3
+2
+1
+1  250px 184
+49
+25
+14
+10
+3
+1
+1
+1  250px 167
+65
+39
+30
+11
+2
+2
+1
+1  250px 129
+51
+32
+14
+6
+3
+1
+1  250px 185
+57
+28
+21
+4
+3
+3
+1  250px 227
+49
+28
+25
+12
+3
+2
+1  250px 184
+49
+25
+14
+10
+3
+2
+1  250px 170
+64
+44
+26
+11
+2
+2
+1  250px 130
+53
+32
+14
+3
+2
+1
+1  250px 182
+57
+27
+19
+9
+4
+3
+1
+1  250px 217
+49
+28
+26
+12
+9
+3
+2
+1  250px 184
+49
+25
+14
+10
+3
+2
+2
+1  250px 170
+63
+44
+26
+11
+3
+2
+1
+1  250px 127
+53
+32
+14
+4
+3
+2
+1
+1  250px 185
+58
+28
+21
+4
+4
+3
+1  250px 227
+50
+28
+25
+12
+3
+1  250px 184
+50
+25
+14
+10
+3
+1  250px 170
+63
+45
+26
+11
+2
+1  250px 131
+53
+33
+14
+3
+1  250px 184
+57
+27
+21
+8
+4
+3
+1
+1  250px 227
+47
+28
+25
+12
+3
+2
+2
+1  250px 184
+49
+25
+12
+10
+3
+2
+1
+1  250px 167
+55
+44
+23
+14
+11
+2
+2
+1  250px 129
+51
+32
+14
+4
+3
+2
+1  250px  The lower half of a part of the rampart. 3 of these generate per bastion. There is always 1 wall base in the middle, and the outer two walls are randomly chosen to be either side wall 0 or side wall 1.4680
+220
+12
+6
+3
+2
+1
+1 Loot  (Generic)
+3  or  250px 4924
+173
+26
+12
+7
+2
+1
+5  or  250px 5286
+66
+27
+4
+3
+1 Loot  (Generic)
+1  or  250px
+
+Housing units
+The housing unit consists of multiple ruined two-part ramparts arranged around a central courtyard with nether wart growing in the middle. Housing unit pieces are contained in the subfolder units.
+
+Structure name  Description  Consists of  Image  Central courtyards with Nether wart growing in the middle. Only 1 generates per bastion.72
+21
+15
+15
+9
+7
+6
+2
+1 Loot  (Generic) 250px 32
+23
+11
+7
+7
+4
+1 Loot  (Generic)
+1 250px 71
+26
+22
+8
+5
+5
+5
+1
+1 Loot  (Generic)250px  Pathways connecting the center and the house units.6  250px 6  250px  A wall on bastion/units/ramparts/ramparts_0.260
+81
+38
+26 250px  The upper half of one side of the rampart. 2 of these generate per bastion.4441
+494
+342
+114
+40
+3 Loot  (Generic)
+2  or
+2  or 250px 3022
+482
+236
+79
+15
+6
+1 Loot  (Generic)
+1  or 250px 1417
+531
+74
+13 250px  House units and some roofs. They generate a stage_0, then a stage_1, a stage_2, and finally a stage_3 on top.240
+31
+6
+3 250px 241
+30
+6
+2 250px 177
+29
+24
+13 250px 239
+31
+6
+4
+1
+1  or 250px 268
+34
+9
+6
+4
+1
+1
+1  or 250px 279
+27
+7
+6
+1
+1
+1 Loot  (Generic)
+1
+1  or
+1  or 250px 231
+31
+13
+10
+1
+1  or 250px 178
+29
+24
+13
+2
+1
+1  or 250px 281
+8
+3
+1
+1 250px 244
+18
+4
+1 Loot  (Generic)
+1
+1  or 250px 279
+9
+5
+1
+1
+2  or 250px 176
+29
+23
+13
+1  or 250px 170
+29
+23
+13
+1  or 250px 79
+6
+2 250px 69
+8
+2 250px 69
+20
+2
+1 250px 60
+15
+2
+1
+1 250px 290
+31
+12
+3
+1 250px 241
+31
+6
+3
+1 250px  The lower half of the rampart on the side. Only 1 generates per bastion.4806
+158
+12
+5
+1
+2  or
+1  or 250px  The lower half of one side of the rampart connects with house units. Only 1 generates per bastion.4654
+191
+16
+12
+11
+8
+2 Loot  (Generic)
+7  or 250px A technical connection part.1 200px
+
+Treasure room
+The treasure room structure consists of a large rampart supported by buttresses, with a bridge going between it and the treasure room itself. The rampart contains several treasure chests and a handful of blocks of gold.
+
+The treasure room consists of many bridges suspended above a lava floor. At the bottom of a treasure room, there is a magma cube monster spawner, and a center loot area consisting of blocks of gold, as well as 1 or 2 treasure chests. Additional chests generate in the bastion remnant, but they use the "generic" loot table instead of the "treasure" loot table. Treasure room pieces are contained in the subfolder treasure.
+
+Ghasts may spawn in the treasure room if the room is in the correct biome, which can create a difficult experience for the player. Their group size depends on the biome and edition.
+
+Structure name  Description  Consists of  Image Center loot areas on the lava basin in the treasure room. Only 1 generates per bastion.121
+19
+14
+4
+1 Loot  (Treasure)
+1 250px 118
+17
+12
+2 Loot  (Treasure)
+2 250px 134
+16
+11
+6
+1
+1  or
+1 250px 75
+13
+5
+1 Loot  (Treasure)
+1 250px  The lava basin at the bottom of the treasure room and a bridge on it. Only 1 generates per bastion.956
+802
+129
+3
+1
+1 Magma Cube
+1  or
+1 250px Technical connection parts. N/A N/A  N/A N/A  N/A N/A  N/A N/A The corners of the corridors of the first, second, and third floors are shown in the treasure room.191
+20
+19
+7
+7 125px 89
+60
+43
+1
+1
+1 125px The corners of walls.64 50px 60 50px 68 50px The corners of the corridors of the fourth, fifth, and sixth floors of the treasure room.86
+25
+21
+2
+2
+1 125px 74
+29
+27
+5
+2
+1 125px The corners of the corridors of the seventh and eighth floors of the treasure room.67
+40
+25
+19 125px 74
+39
+14
+11
+1 125px  The bridge going between the entrance and the treasure room.292
+13
+2
+1  or 250px  Structures extending from the corridors.1 200px 355
+66
+18
+13
+4
+4
+1 250px 124
+47
+7
+1 250px 151
+42
+11
+2
+1 250px  Large bridges extending from the corridors.20
+18
+9 250px 20
+8
+7 250px 37
+31
+1 250px 46
+42
+3 250px  A bridge with a roof extending from the corridors.92
+27 250px  Small bridges extending from the corridors.7
+6 250px 19
+12 250px 11
+10 250px 34
+23 250px  One side of the lower half of the rampart.2571
+109
+16
+12
+24  Source
+2
+1 250px  Lava basin under the bridge between the rampart and the treasure room. Only 1 generates per bastion.7250
+357  (Source)
+55
+13 250px  Lava basin on the left between the rampart and the treasure room. Only 1 generates per bastion.7250
+357  (Source)
+55
+13 250px The middle right part of the rampart that connects to the bridge. Only 1 generates per bastion.3088
+86
+42
+41
+29
+6
+2 Loot  (Generic)
+1
+2  or
+1  or
+1 250px  The middle left part of the rampart. Only 1 generates per bastion.2941
+103
+47
+26
+15
+5
+2 Loot  (Generic)
+1
+3  or
+2  or 250px  The upper half of one side of the rampart.1187
+39
+38
+25
+6 Each gold block has a 70% chance of appearing. Otherwise, air, polished blackstone, or cracked polished blackstone is generated instead.
+2 250pxThe roof of the treasure room.1152 250px50 250px240 250px Stairs on the bridge of bastion/treasure/bases/lava_basin.13
+10
+7 250pxThe corridors of the first, second, and third floors of the treasure room. 4 generate per bastion, 1 on each side.1043
+83
+45
+37
+15
+6
+4
+1  (Generic)
+1
+1  or
+1 250px983
+108
+40
+30
+21
+3
+2  or 250px1075
+111
+54
+12
+10
+4
+3  or 250px952
+130
+51
+26
+9
+3
+1
+2  or 250px The corridors of the fourth, fifth, and sixth floors of the treasure room. 4 generate per bastion, 1 on each side.434
+123
+27
+25
+20
+13
+3
+1
+1 Loot  (Generic)
+1
+2  or
+1 250px 412
+198
+77
+40
+2
+2
+2
+2
+1
+3  or 250px 575
+130
+33
+21
+3
+3  (Source)
+2
+2
+1
+2  or 250px The walls of the treasure room.160 100px 768 250px 150 100px 720 250px 816 250px 170 100px The corridors of the seventh and eighth floors of the treasure room connect to the bridge outside.593
+105
+79
+72
+11
+8
+6
+2  or
+1 250px The corridors of the seventh and eighth floors of the treasure room.502
+102
+55
+53
+10
+7
+6
+2
+2
+2
+2 250px 602
+134
+116
+52
+8
+5
+3
+3
+1  (Source)
+2  or 250px The wall of the treasure room connects with the bridge outside.763
+12 250px  The wall between the treasure room and the lava basin on the left.840 100px  A technical connection part. None N/A
+
+Blocks
+
+Loot
+
+Bridge
+This loot appears in some structures in bridge bastion remnants.
+
+Generic
+This loot appears in chests throughout all types of bastion remnants.
+
+Hoglin Stable
+This loot appears in some structures in hoglin stable bastion remnants.
+
+Treasure
+This loot appears in the chests generated within the treasure stash at the very bottom of Treasure bastion remnants.
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+thumb| in Bedrock Edition. The structure has been modified to replace the invalid  states with .thumb|Signs in .
+The structure , despite containing the word "mirrored", it is not stored as mirrored like the other mirrored stairs. This has no effect on generation due to the placement of jigsaw blocks in the structure.
+, there are multiple unused structure files. Unlike the unused structures , these structures are more technical.
+Two files named  contain blocks that have not been added to the game, including .
+A test structure file, , contains two oak signs, some jigsaw blocks, stained glass, and stone.
+All of the jigsaw blocks in this structure use invalid  states: , , , , , , , , , , ,
+Buried sections can exist within the bastion and alongside it. Ore may generate alongside or within netherrack, but glowstone blobs can do so within its air.
+
+Gallery
+Screenshots
+
+Bridge
+
+Hoglin stables
+
+Housing units
+
+Treasure room
+
+Promotional images
+
+In other media
+
+Notes
+
+External links
+
+References
+
+Navigation
+
+Category:The Nether
+
+de:Bastionsruine
+es:Bastión en ruinas
+fr:Vestiges de bastion
+it:Resti di bastione
+ja:砦の遺跡
+ko:보루 잔해
+lzh:砦堡古跡
+pl:Ruiny bastionu
+pt:Bastião em Ruínas
+ru:Развалины бастиона
+uk:Залишки бастіону
+zh:堡垒遗迹

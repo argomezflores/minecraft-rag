@@ -1,0 +1,155 @@
+TITLE: Spider
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Spider
+---
+A spider is a neutral wall-climbing arthropod (arachnid) that attacks players on sight in dark areas by jumping and biting them. Spiders drop string and spider eyes upon death.
+
+Spawning
+Spiders can spawn in the Overworld at a light level of 0 within a 3×1×3 space centered on an opaque block. , the block above the spawning space cannot be a full solid block, including transparent ones such as leaves or glass, but non-full blocks, such as soul sand or slabs, are allowed. Spiders do not spawn in mushroom fields and deep dark biomes, and they are replaced by cave spiders in sulfur caves. , spiders also do not spawn in rivers, frozen rivers, and snowy plains and do not spawn in groups.
+
+Monster spawners
+Spiders spawn from monster spawners found in monster rooms (25% chance) as well as in secret rooms surrounded by cobwebs in woodland mansions.
+
+Trial spawners
+Spiders have a  chance to be selected as the "melee" mob for trial spawners in trial chambers.
+
+Status effects
+
+Spiders occasionally spawn with status effects in Hard difficulty. For each pack spawn, there is a (10×clamped regional difficulty)% chance of the game applying a status effect. This does not apply to cave spiders. These spiders can spawn with one of the following effects:
+(40% chance)
+(20% chance)
+(20% chance)
+(20% chance)
+
+The effect is then applied to all entities within the pack, lasting forever. If the Invisibility status effect is applied to a spider, its eyes remain visible.
+
+Spider jockeys
+
+There is a 1% chance for a spider to spawn with a skeleton riding it, forming a spider jockey. , the skeleton has an 80% chance to be replaced by a stray, bogged, parched, or wither skeleton when in the biomes where they spawn. A spider jockey can also be spawned by the following commands:
+: .
+: . This command only works if it's nighttime, or if the executer is underground.
+
+The skeleton controls how both mobs move. The spider can still climb walls, but the skeleton suffocates if the spider runs into a ceiling. The skeleton and the spider cannot damage each other. If they come into contact with water, they are separated.
+
+Drops
+On death
+
+experience orbs are dropped by a spider when it is killed by a player or tamed wolf.
+
+Behavior
+A spider stays hostile toward the player or an iron golem as long as the light level immediately around the spider is 11 or less; otherwise, it does not attack unless attacked first. If a spider chases its target into an area where the light level immediately around the spider is above 11, it returns to a neutral state. However, spiders pursue targets regardless of the light level in retaliation to an attack. , spiders become hostile to the player after a short while after noticing them, whereas  they become hostile instantly.
+
+Despite being hostile to iron golems in light below 12, villagers and wandering traders are ignored by spiders, regardless of light level. However, a spider can retaliate if a firework rocket set by a villager hits it.
+
+Hostile spiders see up to 16 blocks, and pounce at close range.
+
+Spiders can climb up over solid blocks that are not magma blocks, but do not climb on underside surfaces. A spider pursuing a player can detect a player through blocks. If a spider cannot find an ideal path to the player due to a wall barring the way, it approaches as close as possible to the player's position and proceeds to climb the wall vertically until it gets to the top, even if it loses its aggression toward the player. When a spider loses its aggression, it continues moving forward blindly for 2 seconds; this behavior causes the spider to climb up any walls in its path.
+
+Spiders flee from armadillos that are not in a rolled-up state.
+
+, if a spider tries to go through the world border, it starts climbing the world border instead.
+
+Spider can also climb on full boats, full boats with chests and shulkers.
+
+Even though normal spiders do not inflict the Poison status effect, they are immune to it. They are also immune to the slowing applied to most mobs when walking through cobwebs.
+
+Spiders flip onto their backs when they die, unlike most other mobs, which fall to one side.
+
+The Bane of Arthropods enchantment inflicts Slowness IV and deals more damage to spiders.
+
+When pathfinding, spiders often get stuck in corners and cannot be provoked.
+
+Unlike other neutral mobs, spiders don't count toward the  tag.
+
+The regular texture of spiders makes the red eyes appear bright in contrast to the dark body, but with Vibrant Visuals, the eyes are actually emissive, making them easily distinguishable in dark areas where they spawn.
+
+Jockey
+
+thumb|width=165x165|A spider ridden by a baby zombie
+15% of nearby baby zombies, husks, or drowned may ride a spider that was not spawned as a spider jockey, to form a jockey.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Spiders have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Spiders are able to climb walls because they were programmed by Jens Bergensten to treat the sides of blocks as ladders.
+In normal conditions, spiders actually float above the ground, but this is often not noticeable due to the difference between the player's height and a spider's height.
+When a spider wanders inside an enclosed space, it often climbs up a wall until reaching the ceiling, after which it becomes stuck, unable to exit the climbing state even if it is attacked or becomes hostile to the player.
+Daniel Rosenfeld revealed that the spider sounds were created by distorting garden hose sounds.[sfx: Minecraft spider] Daniel: That’s a water hose. I took a water hose, and I just put it in a synthesizer and pitched it around. [sfx: Minecraft spider] Similarly, Daniel's downloads from Freesound reveal a leaking hydrant sound file, which matches the spider sounds, undistorted.https://freesound.org/people/nicStage/sounds/2155/https://freesound.org/people/C418/downloaded_sounds/
+
+Gallery
+Renders
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Neutral mobs
+Category:Monster mobs
+Category:Arthropod mobs
+
+cs:Pavouk
+de:Spinne
+es:Araña
+fr:Araignée
+hu:Pók
+it:Ragno
+ja:クモ
+ko:거미
+lzh:蛛
+nl:Spin
+pl:Pająk
+pt:Aranha
+ru:Паук
+th:แมงมุม
+tr:Örümcek
+uk:Павук
+zh:蜘蛛

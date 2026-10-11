@@ -1,0 +1,39 @@
+TITLE: End Barrens
+CATEGORY: End biomes
+URL: https://minecraft.wiki/w/End_Barrens
+---
+The End barrens is a biome used to generate the outer End islands.
+
+Description
+This biome generates as part of the outer islands of the End, forming the outer edges of End midlands and highlands, with steep cliffs below the edge. Neither End cities nor chorus trees can generate in this biome.
+
+Mobs
+The following mobs naturally spawn here:
+
+Music
+These music tracks play while the player is in the end barrens:
+
+Data values
+ID
+
+Biome definition
+
+History
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Navigation
+
+Category:End biomes
+
+fr:Terres stériles de l'End
+pt:Zona estéril do End
+ru:Окраины Края
+uk:Околиця Енду
+zh:末地荒地

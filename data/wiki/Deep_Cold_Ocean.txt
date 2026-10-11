@@ -1,0 +1,68 @@
+TITLE: Deep Cold Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Deep_Cold_Ocean
+---
+The deep cold ocean is a deep variant of the cold ocean.
+
+Generation
+Deep cold oceans replace deep oceans at moderately cold temperatures. They can border cold oceans and mushroom fields, but no other land biomes. Deep cold oceans are twice as deep as regular cold oceans, and border regular deep oceans near higher temperatures, or deep frozen oceans near lower temperatures.
+
+Description
+Like any other deep ocean, ocean monuments can generate, and there are higher amounts of tall seagrass. In any other aspect, it is the same as the regular cold ocean, with a gravel seabed, slightly less vegetation, and common fish.
+
+With Vibrant Visuals, deep cold oceans use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a deep cold ocean:
+
+These music tracks play while the player is not underwater in a deep cold ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+External links
+
+Navigation
+
+fr:Océan froid profond
+pt:Oceano frio profundo
+uk:Глибокий холодний океан
+zh:冷水深海

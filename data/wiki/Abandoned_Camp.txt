@@ -1,0 +1,2921 @@
+TITLE: Abandoned Camp
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Abandoned_Camp
+---
+An abandoned camp is a small structure consisting of a campsite and wool tent with chests, barrels, and copper chests that generates in various Overworld surface biomes. Its appearance can be varied, such as being covered in leaves or featuring a crop farm nearby. The loot inside the chests can have explorer maps for various structures, such as other abandoned camps, trial chambers, and ancient cities.
+
+Description
+thumb|The locations of copper chests not visible from the surface
+Abandoned camps can generate in eighteen surface biomes in the Overworld, featuring tents made of white wool stairs with an array of chests, barrels, straw beds, cushions, and other utility blocks inside. Rarely, an oxidized copper chest can be found with more valuable loot than the standard containers, often being hidden under other blocks.
+
+The floor of the tent and surrounding ground are composed of dirt, gravel, and path blocks, and nearby the tent is an unlit campfire along with a chest or a barrel. Cobwebs and leaves sometimes replace the wool stairs that make up the tent, giving it an abandoned appearance. Other features can sometimes generate around the tent, such as a tree or small crop farm. The fences supporting the tent differ depending on the biome. For example, a tent that generates in a pale garden uses pale oak fences.
+
+Generation
+Abandoned camps generate in the following biomes:
+
+The generation of abandoned camps follows a grid of 37×37 chunk regions centered on the world origin. Each region contains a single generation attempt at a random location within the region; if the selected location is not within a valid biome, the camp does not generate.
+
+Assuming invalid biomes do not cancel generation, abandoned camps are spaced a minimum of 8 chunks and a maximum of 60 chunks apart. The average distance between two neighboring camps is therefore 34 chunks.
+
+Abandoned camps are one of the only structures that generate on the same locations in  and .
+
+Structure
+An abandoned camp consists of a tent and a campsite generated in front of it. The tent variant is determined by the biome in which the camp generates. There are ten variants of the tent per biome, making each tent variation have a weight of  (10%). The campsite variant is selected from a pool of 45 default variants and 4 additional biome-specific variants corresponding to the biome in which the camp generates, with each variant having an equal probability of being chosen. The chance for one to be selected is  (2.04%) for each variant.
+
+As a result, a total of 8,820 unique abandoned camp configurations are possible.
+
+File structure
+All abandoned camps structures found below are located in the folder client.jar/data/minecraft/structure/abandoned_camp  and data/behavior_packs/vanilla_1.26.50/structures/abandoned_camp .
+
+List  abandoned_camp
+camp
+bamboo_jungle
+campsite_bamboo_jungle_1.nbt
+campsite_bamboo_jungle_2.nbt
+campsite_bamboo_jungle_3.nbt
+campsite_bamboo_jungle_4.nbt
+birch_forest
+campsite_birch_forest_1.nbt
+campsite_birch_forest_2.nbt
+campsite_birch_forest_3.nbt
+campsite_birch_forest_4.nbt
+cherry_grove
+campsite_cherry_grove_1.nbt
+campsite_cherry_grove_2.nbt
+campsite_cherry_grove_3.nbt
+campsite_cherry_grove_4.nbt
+dappled_forest
+campsite_dappled_forest_1.nbt
+campsite_dappled_forest_2.nbt
+campsite_dappled_forest_3.nbt
+campsite_dappled_forest_4.nbt
+default
+campsite_default_barrel_1.nbt
+campsite_default_barrel_2.nbt
+campsite_default_barrel_3.nbt
+campsite_default_barrel_4.nbt
+campsite_default_barrel_5.nbt
+campsite_default_barrel_6.nbt
+campsite_default_barrel_7.nbt
+campsite_default_barrel_8.nbt
+campsite_default_barrel_9.nbt
+campsite_default_barrel_10.nbt
+campsite_default_barrel_11.nbt
+campsite_default_barrel_12.nbt
+campsite_default_barrel_13.nbt
+campsite_default_barrel_14.nbt
+campsite_default_barrel_15.nbt
+campsite_default_chest_1.nbt
+campsite_default_chest_2.nbt
+campsite_default_chest_3.nbt
+campsite_default_chest_4.nbt
+campsite_default_chest_5.nbt
+campsite_default_chest_6.nbt
+campsite_default_chest_7.nbt
+campsite_default_chest_8.nbt
+campsite_default_chest_9.nbt
+campsite_default_chest_10.nbt
+campsite_default_chest_11.nbt
+campsite_default_chest_12.nbt
+campsite_default_chest_13.nbt
+campsite_default_chest_14.nbt
+campsite_default_chest_15.nbt
+campsite_default_special_1.nbt
+campsite_default_special_2.nbt
+campsite_default_special_3.nbt
+campsite_default_special_4.nbt
+campsite_default_special_5.nbt
+campsite_default_special_6.nbt
+campsite_default_special_7.nbt
+campsite_default_special_8.nbt
+campsite_default_special_9.nbt
+campsite_default_special_10.nbt
+campsite_default_special_11.nbt
+campsite_default_special_12.nbt
+campsite_default_special_13.nbt
+campsite_default_special_14.nbt
+campsite_default_special_15.nbt
+flower_forest
+campsite_flower_forest_1.nbt
+campsite_flower_forest_2.nbt
+campsite_flower_forest_3.nbt
+campsite_flower_forest_4.nbt
+forest
+campsite_forest_1.nbt
+campsite_forest_2.nbt
+campsite_forest_3.nbt
+campsite_forest_4.nbt
+meadow
+campsite_meadow_1.nbt
+campsite_meadow_2.nbt
+campsite_meadow_3.nbt
+campsite_meadow_4.nbt
+old_growth_birch_forest
+campsite_old_growth_birch_forest_1.nbt
+campsite_old_growth_birch_forest_2.nbt
+campsite_old_growth_birch_forest_3.nbt
+campsite_old_growth_birch_forest_4.nbt
+old_growth_pine_taiga
+campsite_old_growth_pine_taiga_1.nbt
+campsite_old_growth_pine_taiga_2.nbt
+campsite_old_growth_pine_taiga_3.nbt
+campsite_old_growth_pine_taiga_4.nbt
+old_growth_spruce_taiga
+campsite_old_growth_spruce_taiga_1.nbt
+campsite_old_growth_spruce_taiga_2.nbt
+campsite_old_growth_spruce_taiga_3.nbt
+campsite_old_growth_spruce_taiga_4.nbt
+pale_garden
+campsite_pale_garden_1.nbt
+campsite_pale_garden_2.nbt
+campsite_pale_garden_3.nbt
+campsite_pale_garden_4.nbt
+savanna
+campsite_savanna_1.nbt
+campsite_savanna_2.nbt
+campsite_savanna_3.nbt
+campsite_savanna_4.nbt
+snowy_taiga
+campsite_snowy_taiga_1.nbt
+campsite_snowy_taiga_2.nbt
+campsite_snowy_taiga_3.nbt
+campsite_snowy_taiga_4.nbt
+sparse_jungle
+campsite_sparse_jungle_1.nbt
+campsite_sparse_jungle_2.nbt
+campsite_sparse_jungle_3.nbt
+campsite_sparse_jungle_4.nbt
+swamp
+campsite_swamp_1.nbt
+campsite_swamp_2.nbt
+campsite_swamp_3.nbt
+campsite_swamp_4.nbt
+taiga
+campsite_taiga_1.nbt
+campsite_taiga_2.nbt
+campsite_taiga_3.nbt
+campsite_taiga_4.nbt
+windswept_forest
+campsite_windswept_forest_1.nbt
+campsite_windswept_forest_2.nbt
+campsite_windswept_forest_3.nbt
+campsite_windswept_forest_4.nbt
+wooded_badlands
+campsite_wooded_badlands_1.nbt
+campsite_wooded_badlands_2.nbt
+campsite_wooded_badlands_3.nbt
+campsite_wooded_badlands_4.nbt
+tent
+bamboo_jungle
+tent_bamboo_jungle_1
+tent_bamboo_jungle_2
+tent_bamboo_jungle_3
+tent_bamboo_jungle_4
+tent_bamboo_jungle_5
+tent_bamboo_jungle_6
+tent_bamboo_jungle_7
+tent_bamboo_jungle_8
+tent_bamboo_jungle_9
+tent_bamboo_jungle_10
+birch_forest
+tent_birch_forest_1
+tent_birch_forest_2
+tent_birch_forest_3
+tent_birch_forest_4
+tent_birch_forest_5
+tent_birch_forest_6
+tent_birch_forest_7
+tent_birch_forest_8
+tent_birch_forest_9
+tent_birch_forest_10
+cherry_grove
+tent_cherry_grove_1
+tent_cherry_grove_2
+tent_cherry_grove_3
+tent_cherry_grove_4
+tent_cherry_grove_5
+tent_cherry_grove_6
+tent_cherry_grove_7
+tent_cherry_grove_8
+tent_cherry_grove_9
+tent_cherry_grove_10
+dappled_forest
+tent_dappled_forest_1
+tent_dappled_forest_2
+tent_dappled_forest_3
+tent_dappled_forest_4
+tent_dappled_forest_5
+tent_dappled_forest_6
+tent_dappled_forest_7
+tent_dappled_forest_8
+tent_dappled_forest_9
+tent_dappled_forest_10
+flower_forest
+tent_flower_forest_1
+tent_flower_forest_2
+tent_flower_forest_3
+tent_flower_forest_4
+tent_flower_forest_5
+tent_flower_forest_6
+tent_flower_forest_7
+tent_flower_forest_8
+tent_flower_forest_9
+tent_flower_forest_10
+forest
+tent_forest_1
+tent_forest_2
+tent_forest_3
+tent_forest_4
+tent_forest_5
+tent_forest_6
+tent_forest_7
+tent_forest_8
+tent_forest_9
+tent_forest_10
+meadow
+tent_meadow_1
+tent_meadow_2
+tent_meadow_3
+tent_meadow_4
+tent_meadow_5
+tent_meadow_6
+tent_meadow_7
+tent_meadow_8
+tent_meadow_9
+tent_meadow_10
+old_growth_birch_forest
+tent_old_growth_birch_forest_1
+tent_old_growth_birch_forest_2
+tent_old_growth_birch_forest_3
+tent_old_growth_birch_forest_4
+tent_old_growth_birch_forest_5
+tent_old_growth_birch_forest_6
+tent_old_growth_birch_forest_7
+tent_old_growth_birch_forest_8
+tent_old_growth_birch_forest_9
+tent_old_growth_birch_forest_10
+old_growth_pine_taiga
+tent_old_growth_pine_taiga_1
+tent_old_growth_pine_taiga_2
+tent_old_growth_pine_taiga_3
+tent_old_growth_pine_taiga_4
+tent_old_growth_pine_taiga_5
+tent_old_growth_pine_taiga_6
+tent_old_growth_pine_taiga_7
+tent_old_growth_pine_taiga_8
+tent_old_growth_pine_taiga_9
+tent_old_growth_pine_taiga_10
+old_growth_spruce_taiga
+tent_old_growth_spruce_taiga_1
+tent_old_growth_spruce_taiga_2
+tent_old_growth_spruce_taiga_3
+tent_old_growth_spruce_taiga_4
+tent_old_growth_spruce_taiga_5
+tent_old_growth_spruce_taiga_6
+tent_old_growth_spruce_taiga_7
+tent_old_growth_spruce_taiga_8
+tent_old_growth_spruce_taiga_9
+tent_old_growth_spruce_taiga_10
+pale_garden
+tent_pale_garden_1
+tent_pale_garden_2
+tent_pale_garden_3
+tent_pale_garden_4
+tent_pale_garden_5
+tent_pale_garden_6
+tent_pale_garden_7
+tent_pale_garden_8
+tent_pale_garden_9
+tent_pale_garden_10
+savanna
+tent_savanna_1
+tent_savanna_2
+tent_savanna_3
+tent_savanna_4
+tent_savanna_5
+tent_savanna_6
+tent_savanna_7
+tent_savanna_8
+tent_savanna_9
+tent_savanna_10
+snowy_taiga
+tent_snowy_taiga_1
+tent_snowy_taiga_2
+tent_snowy_taiga_3
+tent_snowy_taiga_4
+tent_snowy_taiga_5
+tent_snowy_taiga_6
+tent_snowy_taiga_7
+tent_snowy_taiga_8
+tent_snowy_taiga_9
+tent_snowy_taiga_10
+sparse_jungle
+tent_sparse_jungle_1
+tent_sparse_jungle_2
+tent_sparse_jungle_3
+tent_sparse_jungle_4
+tent_sparse_jungle_5
+tent_sparse_jungle_6
+tent_sparse_jungle_7
+tent_sparse_jungle_8
+tent_sparse_jungle_9
+tent_sparse_jungle_10
+swamp
+tent_swamp_1
+tent_swamp_2
+tent_swamp_3
+tent_swamp_4
+tent_swamp_5
+tent_swamp_6
+tent_swamp_7
+tent_swamp_8
+tent_swamp_9
+tent_swamp_10
+taiga
+tent_taiga_1
+tent_taiga_2
+tent_taiga_3
+tent_taiga_4
+tent_taiga_5
+tent_taiga_6
+tent_taiga_7
+tent_taiga_8
+tent_taiga_9
+tent_taiga_10
+windswept_forest
+tent_windswept_forest_1
+tent_windswept_forest_2
+tent_windswept_forest_3
+tent_windswept_forest_4
+tent_windswept_forest_5
+tent_windswept_forest_6
+tent_windswept_forest_7
+tent_windswept_forest_8
+tent_windswept_forest_9
+tent_windswept_forest_10
+wooded_badlands
+tent_wooded_badlands_1
+tent_wooded_badlands_2
+tent_wooded_badlands_3
+tent_wooded_badlands_4
+tent_wooded_badlands_5
+tent_wooded_badlands_6
+tent_wooded_badlands_7
+tent_wooded_badlands_8
+tent_wooded_badlands_9
+tent_wooded_badlands_10
+
+Blocks
+This is a list of blocks and cushions that can generate as a part of an abandoned camp:
+
+Components
+
+Tent
+Name Blocks Image Bamboo Jungle tent_bamboo_jungle_1 8
+1
+1
+33
+28
+1
+3
+10
+1
+59  200px  tent_bamboo_jungle_2 3
+8
+1
+33
+19
+12
+6
+2
+45  200px  tent_bamboo_jungle_3 8
+1
+35
+13
+1
+3
+10
+3
+1
+41  200px tent_bamboo_jungle_4 7
+2
+21
+34
+30
+1
+3
+57  200px tent_bamboo_jungle_5 8
+1
+1
+30
+34
+2
+60  200px  tent_bamboo_jungle_6 8
+2
+1
+35
+29
+1
+6
+2
+57  200px tent_bamboo_jungle_7 8
+1
+1
+18
+12
+27
+7
+1
+2
+20
+7
+1
+42  200px tent_bamboo_jungle_8 8
+1
+1
+24
+24
+1
+1
+43  200px  tent_bamboo_jungle_9 8
+1
+1
+10
+41
+23
+3
+1
+60  200px tent_bamboo_jungle_10 8
+2
+17
+1
+33
+31
+6
+1
+4
+58  200px Birch Forest tent_birch_forest_1 8
+1
+29
+35
+3
+38  200px  tent_birch_forest_2 7
+21
+5
+1
+16
+12
+27
+9
+1
+20  200px tent_birch_forest_3 1
+8
+3
+13
+25
+23
+2
+41  200px tent_birch_forest_4 8
+1
+18
+34
+30
+3
+59  200px tent_birch_forest_5 8
+1
+1
+38
+26
+2
+56
+27  200px tent_birch_forest_6 1
+7
+4
+32
+32
+3
+2
+1
+53  200px tent_birch_forest_7 1
+7
+3
+4
+13
+15
+36
+2
+1
+32  200px tent_birch_forest_8 1
+7
+3
+14
+15
+19
+4
+2
+34  200px tent_birch_forest_9 8
+4
+1
+17
+36
+28
+1
+55  200px tent_birch_forest_10 2
+8
+4
+1
+32
+32
+3
+2
+58  200px Cherry Grove tent_cherry_grove_1 8
+1
+1
+32
+32
+7
+3
+2
+1
+44  200px  tent_cherry_grove_2 7
+13
+11
+1
+1
+40
+9
+8
+7
+11
+2
+1
+2
+26  200px tent_cherry_grove_3 1
+6
+33
+15
+12
+3
+2
+3
+33  200px tent_cherry_grove_4 8
+1
+41
+23
+1
+20
+5
+3
+1
+52  200px tent_cherry_grove_5 8
+1
+1
+34
+30
+6
+1
+3
+57  200px tent_cherry_grove_6 8
+3
+38
+26
+20
+4
+2
+3
+46  200px tent_cherry_grove_7 8
+1
+15
+20
+22
+7
+1
+14
+1
+5
+44  200px tent_cherry_grove_8 8
+1
+1
+30
+18
+9
+2
+2
+36  200px tent_cherry_grove_9 1
+6
+2
+1
+39
+25
+10
+2
+4
+45  200px tent_cherry_grove_10 2
+7
+1
+1
+32
+32
+5
+1
+2
+53  200px Dappled Forest tent_dappled_forest_1 1
+1
+23
+34
+7
+8
+2
+35  200px  tent_dappled_forest_2 3
+1
+18
+22
+24
+7
+2
+32  200px  tent_dappled_forest_3 1
+15
+19
+14
+8
+1
+40  200px tent_dappled_forest_4 2
+26
+38
+1
+8
+2
+46  200px  tent_dappled_forest_5 1
+39
+25
+8
+5
+21
+1
+29  200px tent_dappled_forest_6 1
+1
+1
+37
+27
+8
+3
+52  200px  tent_dappled_forest_7 1
+37
+27
+7
+1
+36  200px  tent_dappled_forest_8 1
+19
+21
+27
+1
+8
+1
+41  200px tent_dappled_forest_9 1
+18
+28
+36
+8
+1
+56  200px tent_dappled_forest_10 2
+16
+27
+37
+8
+3
+57  200px Flower Forest tent_flower_forest_1 1
+31
+33
+8
+1
+22  200px  tent_flower_forest_2 5
+1
+16
+23
+25
+8
+4
+1
+40  200px tent_flower_forest_3 2
+1
+26
+22
+3
+8
+2
+20  200px tent_flower_forest_4 1
+39
+25
+8
+5
+14
+1
+1
+37  200px tent_flower_forest_5 1
+1
+32
+32
+6
+2
+2
+2
+1
+48  200px tent_flower_forest_6 8
+1
+31
+33
+2
+42  200px  tent_flower_forest_7 2
+8
+30
+6
+1
+6
+45
+12
+1
+26  200px tent_flower_forest_8 8
+1
+31
+17
+2
+36  200px tent_flower_forest_9 8
+1
+1
+33
+31
+3
+3
+1
+52  200px tent_flower_forest_10 2
+6
+1
+34
+30
+2
+1
+1
+2
+2
+51  200px Forest tent_forest_1 1
+33
+31
+8
+2
+21  200px  tent_forest_2 5
+1
+17
+22
+25
+8
+4
+1
+40  200px tent_forest_3 2
+1
+25
+23
+3
+8
+1
+20  200px tent_forest_4 3
+3
+36
+28
+8
+1
+3
+2
+55  200px tent_forest_5 1
+35
+29
+8
+9
+5
+1
+44  200px tent_forest_6 8
+1
+32
+32
+3
+42  200px  tent_forest_7 2
+8
+28
+6
+20
+12
+26
+6
+2
+1
+26  200px tent_forest_8 8
+1
+13
+17
+18
+2
+36  200px tent_forest_9 8
+5
+1
+36
+28
+2
+51  200px tent_forest_10 1
+7
+15
+33
+16
+3
+1
+47  200px Meadow tent_meadow_1 1
+36
+28
+8
+1
+1
+2
+47
+24  200px tent_meadow_2 4
+6
+19
+19
+24
+2
+6
+2
+7
+38  200px tent_meadow_3 1
+4
+27
+21
+8
+1
+4
+38  200px tent_meadow_4 5
+2
+33
+31
+6
+1
+3
+3
+49  200px tent_meadow_5 1
+32
+32
+8
+1
+2
+42  200px  tent_meadow_6 1
+8
+19
+26
+19
+1
+2
+41  200px  tent_meadow_7 5
+1
+12
+20
+30
+2
+5
+2
+4
+31  200px tent_meadow_8 1
+6
+29
+19
+5
+1
+4
+41  200px tent_meadow_9 5
+1
+8
+33
+31
+2
+5
+49  200px tent_meadow_10 8
+1
+36
+28
+1
+5
+25  200px Old Growth Birch Forest tent_old_growth_birch_forest_1 8
+4
+1
+25
+27
+12
+3
+3
+54  200px tent_old_growth_birch_forest_2 7
+1
+17
+17
+28
+2
+2
+36
+17  200px tent_old_growth_birch_forest_3 7
+3
+1
+9
+13
+26
+2
+1
+34  200px tent_old_growth_birch_forest_4 6
+4
+1
+38
+26
+2
+26  200px  tent_old_growth_birch_forest_5 7
+3
+1
+1
+14
+34
+30
+2
+1
+52  200px tent_old_growth_birch_forest_6 1
+7
+4
+15
+25
+24
+2
+3
+1
+44  200px tent_old_growth_birch_forest_7 1
+6
+7
+3
+30
+16
+14
+4
+2
+1
+2
+24
+11  200px tent_old_growth_birch_forest_8 1
+7
+4
+13
+19
+16
+1
+4
+2
+33  200px tent_old_growth_birch_forest_9 1
+7
+5
+27
+24
+13
+5
+4
+52  200px tent_old_growth_birch_forest_10 1
+8
+3
+37
+27
+3
+1
+36  200px  Old Growth Pine Taiga tent_old_growth_pine_taiga_1 1
+28
+36
+8
+1
+31  200px  tent_old_growth_pine_taiga_2 2
+23
+22
+15
+4
+19
+6
+2
+39  200px tent_old_growth_pine_taiga_3 1
+30
+18
+4
+2
+7
+1
+3
+38  200px tent_old_growth_pine_taiga_4 2
+1
+15
+32
+32
+1
+6
+4
+2
+45  200px tent_old_growth_pine_taiga_5 1
+1
+32
+23
+3
+3
+9
+7
+1
+41  200px tent_old_growth_pine_taiga_6 5
+1
+11
+29
+23
+1
+1
+6
+6
+5
+8
+2
+55  200px tent_old_growth_pine_taiga_7 1
+1
+11
+31
+19
+2
+6
+1
+8
+8
+1
+1
+42  200px tent_old_growth_pine_taiga_8 1
+9
+24
+17
+2
+1
+7
+8
+2
+5
+42  200px tent_old_growth_pine_taiga_9 1
+1
+8
+41
+23
+2
+2
+8
+4
+57  200px tent_old_growth_pine_taiga_10 1
+35
+29
+1
+8
+1
+11
+53  200px Old Growth Spruce Taiga tent_old_growth_spruce_taiga_1 1
+31
+33
+3
+4
+20  200px  tent_old_growth_spruce_taiga_2 1
+3
+21
+22
+14
+7
+2
+19
+6
+1
+39  200px tent_old_growth_spruce_taiga_3 1
+4
+13
+18
+16
+6
+8
+4
+8
+1
+42  200px tent_old_growth_spruce_taiga_4 2
+40
+24
+1
+6
+14
+6
+35  200px tent_old_growth_spruce_taiga_5 1
+8
+1
+4
+18
+31
+11
+4
+6
+2
+50  200px tent_old_growth_spruce_taiga_6 1
+31
+28
+2
+3
+5
+6
+2
+46  200px tent_old_growth_spruce_taiga_7 1
+1
+1
+13
+17
+17
+4
+23
+7
+3
+2
+8
+1
+42  200px tent_old_growth_spruce_taiga_8 1
+14
+26
+22
+2
+8
+2
+38  200px tent_old_growth_spruce_taiga_9 1
+1
+32
+19
+2
+2
+5
+8
+7
+2
+4
+49  200px tent_old_growth_spruce_taiga_10 2
+12
+1
+4
+32
+29
+3
+6
+1
+51  200px Pale Garden tent_pale_garden_1 1
+23
+30
+11
+8
+3
+28  200px  tent_pale_garden_2 1
+16
+18
+17
+10
+13
+10
+8
+2
+3
+43  200px tent_pale_garden_3 1
+14
+26
+2
+3
+6
+5
+7
+1
+2
+38  200px tent_pale_garden_4 2
+24
+21
+19
+1
+2
+6
+8
+20
+5
+31  200px tent_pale_garden_5 1
+2
+19
+32
+4
+9
+5
+7
+3
+4
+48  200px tent_pale_garden_6 1
+3
+20
+25
+12
+11
+7
+4
+8
+2
+3
+48  200px tent_pale_garden_7 1
+11
+16
+20
+20
+8
+8
+7
+2
+3
+41  200px tent_pale_garden_8 1
+4
+13
+20
+7
+7
+8
+8
+2
+3
+43  200px tent_pale_garden_9 1
+8
+1
+19
+27
+5
+8
+13
+8
+1
+56  200px tent_pale_garden_10 2
+22
+1
+25
+38
+1
+13
+14
+8
+2
+55  200px Savanna tent_savanna_1 8
+1
+35
+29
+1
+3
+3
+2
+40  200px  tent_savanna_2 7
+1
+1
+3
+16
+21
+27
+7
+2
+3
+35  200px tent_savanna_3 8
+1
+1
+26
+22
+3
+2
+2
+38  200px tent_savanna_4 8
+1
+39
+25
+5
+3
+3
+54  200px tent_savanna_5 7
+1
+21
+28
+15
+2
+3
+3
+3
+45  200px  tent_savanna_6 8
+1
+32
+32
+3
+1
+2
+49  200px tent_savanna_7 6
+21
+5
+1
+18
+7
+39
+21  200px tent_savanna_8 8
+1
+34
+14
+1
+4
+2
+4
+43  200px tent_savanna_9 8
+1
+44
+20
+8
+1
+5
+51  200px tent_savanna_10 8
+1
+31
+33
+2
+4
+1
+34  200px  Snowy Taiga tent_snowy_taiga_1 1
+1
+47
+17
+1
+88
+3
+8
+1
+41  200px tent_snowy_taiga_2 3
+26
+17
+11
+10
+41
+2
+8
+2
+41  200px tent_snowy_taiga_3 1
+27
+21
+18
+1
+8
+2
+39  200px tent_snowy_taiga_4 1
+41
+23
+2
+1
+1
+1
+2
+8
+2
+51  200px tent_snowy_taiga_5 1
+48
+16
+66
+12
+8
+1
+46  200px tent_snowy_taiga_6 1
+51
+13
+63
+2
+4
+22
+7
+1
+33  200px tent_snowy_taiga_7 1
+31
+9
+17
+7
+68
+6
+10
+7
+1
+28  200px tent_snowy_taiga_8 1
+38
+10
+1
+48
+1
+8
+2
+40  200px tent_snowy_taiga_9 1
+1
+40
+24
+23
+2
+8
+54
+6
+3
+34  200px  tent_snowy_taiga_10 1
+43
+21
+50
+1
+8
+13
+8
+2
+40  200px  Sparse Jungle tent_sparse_jungle_1 1
+7
+41
+22
+8
+1
+17
+1
+4
+1
+57  200px tent_sparse_jungle_2 2
+1
+47
+17
+8
+13
+2
+5
+30  200px  tent_sparse_jungle_3 1
+28
+20
+8
+6
+2
+4
+42  200px tent_sparse_jungle_4 2
+37
+27
+8
+11
+5
+1
+3
+6
+49  200px tent_sparse_jungle_5 1
+3
+1
+32
+32
+8
+56
+11
+7
+1
+28
+47  200px  tent_sparse_jungle_6 3
+1
+13
+30
+34
+8
+2
+12
+51  200px tent_sparse_jungle_7 1
+1
+18
+15
+24
+7
+8
+1
+8
+1
+4
+44  200px tent_sparse_jungle_8 1
+26
+22
+8
+1
+1
+10
+41  200px tent_sparse_jungle_9 1
+2
+1
+33
+31
+8
+6
+2
+19
+54  200px tent_sparse_jungle_10 2
+8
+1
+36
+28
+8
+1
+21
+52  200px Swamp tent_swamp_1 1
+1
+27
+25
+1
+8
+1
+12
+51  200px tent_swamp_2 1
+17
+14
+18
+1
+8
+1
+6
+15
+40  200px tent_swamp_3 1
+3
+33
+15
+8
+2
+8
+42  200px tent_swamp_4 1
+4
+32
+32
+8
+92
+7
+2
+46
+39  200px  tent_swamp_5 1
+31
+27
+2
+6
+5
+1
+14
+6
+49  200px tent_swamp_6 1
+34
+30
+6
+8
+45
+3
+43  200px tent_swamp_7 1
+1
+8
+21
+26
+10
+7
+8
+1
+9
+44  200px tent_swamp_8 1
+27
+33
+10
+8
+1
+1
+5
+40  200px tent_swamp_9 5
+1
+14
+40
+24
+8
+4
+5
+2
+56  200px tent_swamp_10 2
+1
+26
+25
+2
+8
+1
+12
+13
+45  200px Taiga tent_taiga_1 1
+36
+28
+6
+7
+7
+2
+37  200px tent_taiga_2 1
+20
+24
+10
+10
+8
+2
+33  200px  tent_taiga_3 1
+18
+19
+2
+11
+1
+7
+1
+4
+37  200px tent_taiga_4 1
+33
+31
+2
+2
+7
+1
+3
+50  200px tent_taiga_5 1
+34
+30
+3
+1
+8
+3
+4
+48  200px tent_taiga_6 1
+35
+29
+3
+4
+8
+1
+3
+32  200px tent_taiga_7 1
+22
+25
+10
+7
+6
+2
+3
+36  200px  tent_taiga_8 1
+22
+26
+5
+1
+20  200px  tent_taiga_9 1
+33
+31
+6
+3
+8
+2
+2
+52  200px tent_taiga_10 2
+32
+32
+4
+2
+8
+1
+5
+52  200px Windswept Forest tent_windswept_forest_1 1
+27
+37
+8
+1
+43  200px  tent_windswept_forest_2 2
+2
+12
+19
+33
+8
+1
+33  200px tent_windswept_forest_3 2
+1
+26
+22
+8
+2
+38  200px tent_windswept_forest_4 1
+2
+36
+28
+8
+6
+4
+2
+52  200px tent_windswept_forest_5 1
+1
+29
+35
+8
+1
+2
+45  200px  tent_windswept_forest_6 1
+35
+29
+8
+2
+37  200px  tent_windswept_forest_7 1
+5
+15
+21
+26
+2
+8
+1
+41  200px tent_windswept_forest_8 3
+1
+26
+22
+1
+8
+1
+30  200px tent_windswept_forest_9 1
+48
+16
+6
+23
+5
+2
+32  200px tent_windswept_forest_10 2
+3
+1
+34
+30
+8
+3
+51  200px  Wooded Badlands tent_wooded_badlands_1 4
+32
+32
+6
+4
+35  200px  tent_wooded_badlands_2 1
+31
+15
+8
+18
+3
+1
+4
+48  200px tent_wooded_badlands_3 1
+12
+27
+21
+8
+3
+2
+1
+40  200px tent_wooded_badlands_4 2
+21
+34
+30
+8
+1
+2
+2
+3
+51  200px tent_wooded_badlands_5 1
+24
+25
+8
+25
+1
+4
+53  200px tent_wooded_badlands_6 5
+2
+1
+10
+41
+20
+8
+3
+1
+48  200px tent_wooded_badlands_7 1
+2
+35
+19
+8
+31
+1
+36  200px tent_wooded_badlands_8 1
+17
+1
+1
+32
+16
+8
+2
+2
+42  200px tent_wooded_badlands_9 1
+2
+3
+1
+29
+30
+8
+15
+2
+3
+58  200px tent_wooded_badlands_10 2
+8
+1
+2
+35
+29
+8
+1
+3
+58  200px
+
+Campsite
+Default
+
+Name Blocks Image Chest campsite_default_chest_1 1
+1
+21
+2
+1  200px campsite_default_chest_2 1
+1
+1
+1
+21
+1  200px campsite_default_chest_3 1
+1
+1
+21
+2
+3
+1  200px campsite_default_chest_4 1
+1
+13
+2
+1  200px campsite_default_chest_5 1
+1
+10
+2
+1  200px campsite_default_chest_6 1
+1
+2
+27
+24
+1
+1  200px campsite_default_chest_7 1
+1
+1
+21
+2
+1  200px campsite_default_chest_8 1
+1
+24
+2
+1  200px campsite_default_chest_9 1
+1
+22
+5
+1
+2  200px campsite_default_chest_10 1
+1
+1
+14
+2
+1  200px campsite_default_chest_11 1
+1
+2
+13
+3  200px campsite_default_chest_12 1
+1
+28
+2
+3  200px campsite_default_chest_13 1
+1
+1
+18
+3  200px campsite_default_chest_14 3
+1
+1
+2
+21  200px campsite_default_chest_15 1
+1
+1
+11
+3  200px Barrel campsite_default_barrel_1 1
+1
+2
+15
+5
+1  200px campsite_default_barrel_2 1
+1
+1
+2
+17
+4  200px campsite_default_barrel_3 1
+1
+3
+18
+1  200px campsite_default_barrel_4 1
+1
+2
+19
+8
+1  200px campsite_default_barrel_5 1
+1
+3
+18
+1  200px campsite_default_barrel_6 1
+1
+2
+17
+2  200px campsite_default_barrel_7 1
+1
+1
+10
+12
+2  200px campsite_default_barrel_8 1
+1
+2
+25
+2  200px campsite_default_barrel_9 1
+1
+2
+15
+3
+2  200px campsite_default_barrel_10 1
+1
+2
+2
+20  200px campsite_default_barrel_11 1
+1
+22
+1
+1
+1
+3  200px campsite_default_barrel_12 1
+1
+26
+20
+3
+3
+1  200px campsite_default_barrel_13 1
+1
+1
+14
+1
+3  200px campsite_default_barrel_14 1
+3
+1
+26
+22
+2
+4
+1  200px campsite_default_barrel_15 1
+1
+25
+18
+3
+3
+1  200px Special campsite_default_special_1 1
+1
+11
+1
+1
+1
+1
+15  200px campsite_default_special_2 1
+1
+1
+12
+45
+14
+3
+18
+1
+38  200px campsite_default_special_3 1
+1
+1
+8
+6
+9
+2
+6  200px campsite_default_special_4 1
+1
+4
+15
+4
+1
+1
+1  200px campsite_default_special_5 1
+1
+19
+25
+9
+9
+1
+1
+3
+15  200px campsite_default_special_6 1
+1
+13
+34
+11
+5
+2
+17
+1
+3
+17  200px campsite_default_special_7 1
+1
+12
+35
+7
+2
+14
+1
+16
+2  200px campsite_default_special_8 1
+2
+1
+19
+1
+1  200px campsite_default_special_9 1
+1
+11
+39
+8
+16
+2
+6
+3
+1
+42  200px campsite_default_special_10 1
+2
+12
+66
+8
+19
+6
+3
+1
+29
+2  200px campsite_default_special_11 1
+1
+5
+10
+8
+7
+21
+3
+9
+7  200px campsite_default_special_12 1
+1
+7
+5
+1
+15
+7
+2
+3  200px campsite_default_special_13 1
+1
+6
+2
+3
+14
+14
+1
+3
+7
+1
+3  200px campsite_default_special_14 1
+1
+4
+6
+1
+11
+5
+21
+1
+9
+3
+5  200px campsite_default_special_15 1
+1
+14
+67
+8
+17
+5
+3
+1
+3
+20  200px
+
+Biome-specific
+Name Blocks Image Bamboo Jungle campsite_bamboo_jungle_1 1
+1
+1
+4
+3
+1
+24
+36
+1
+1
+25
+17
+7
+1  200px  campsite_bamboo_jungle_2 1
+1
+2
+1
+5
+1
+19
+33
+23
+1
+19
+6  200px  campsite_bamboo_jungle_3 1
+1
+1
+1
+24
+19
+23
+2
+5
+1
+5
+12
+22
+7
+4  200px  campsite_bamboo_jungle_4 1
+1
+1
+27
+29
+16
+1
+1  200px  Birch Forest campsite_birch_forest_1 1
+10
+1
+1
+3
+14
+22
+39
+1
+1
+4
+12
+3  200px  campsite_birch_forest_2 2
+1
+1
+7
+3
+1
+14
+27
+5
+16
+3
+9
+2  200px  campsite_birch_forest_3 2
+1
+1
+1
+11
+15
+8
+49
+6
+13
+5
+1  200px  campsite_birch_forest_4 1
+1
+1
+50
+21
+14
+1
+2
+5
+20
+7  200px  Cherry Grove campsite_cherry_grove_1 1
+1
+1
+6
+37
+28
+2
+41  200px  campsite_cherry_grove_2 1
+1
+1
+10
+5
+9
+16
+22
+1
+16  200px  campsite_cherry_grove_3 1
+3
+1
+4
+6
+20
+40
+1
+1
+1
+25
+6
+1  200px  campsite_cherry_grove_4 3
+1
+7
+59
+21
+67
+9
+1
+14
+1
+1
+5
+16  200px  Dappled Forest campsite_dappled_forest_1 1
+1
+22
+17
+13
+3
+1
+4
+7
+1  200px  campsite_dappled_forest_2 1
+1
+19
+20
+12
+21
+4
+1
+1  200px  campsite_dappled_forest_3 1
+1
+16
+15
+8
+1
+1
+1
+7
+1  200px  campsite_dappled_forest_4 1
+1
+53
+22
+48
+1
+1
+1
+1  200px  Flower Forest campsite_flower_forest_1 1
+1
+2
+3
+30
+26
+5
+2
+1
+2
+2
+3
+7  200px  campsite_flower_forest_2 6
+7
+1
+1
+1
+6
+4
+44
+14
+25
+1
+1
+1  200px  campsite_flower_forest_3 1
+1
+1
+10
+14
+22
+1
+4
+5
+5
+1
+3  200px  campsite_flower_forest_4 1
+1
+57
+10
+37
+1
+1
+3
+16  200px Forest campsite_forest_1 1
+3
+1
+3
+1
+44
+16
+2
+53
+13
+13
+2
+11  200px  campsite_forest_2 5
+1
+5
+1
+1
+12
+21
+10
+1
+4
+4  200px  campsite_forest_3 1
+1
+1
+4
+14
+25
+9
+1
+5
+1
+1  200px  campsite_forest_4 4
+1
+2
+1
+1
+1
+4
+7
+18
+15
+19
+10
+2
+8
+6
+1
+171  200px  Meadow campsite_meadow_1 1
+1
+1
+1
+2
+5
+28
+38
+1
+1
+15
+14  200px  campsite_meadow_2 4
+1
+1
+1
+8
+15
+17
+32
+2
+3
+4
+31
+1  200px  campsite_meadow_3 1
+1
+1
+24
+21
+41
+13
+1
+1
+34  200px campsite_meadow_4 1
+1
+2
+46
+15
+22
+2
+1
+2
+2
+27
+32  200px  Old Growth Birch Forest campsite_old_growth_birch_forest_1 6
+1
+1
+16
+21
+30
+5
+2
+32
+1  200px  campsite_old_growth_birch_forest_2 2
+5
+1
+10
+2
+33
+19
+47
+1
+1
+21
+6
+2  200px  campsite_old_growth_birch_forest_3 1
+1
+8
+2
+58
+17
+2
+52
+1
+5
+18
+12
+7
+14
+1  200px campsite_old_growth_birch_forest_4 2
+1
+1
+11
+31
+30
+1
+44
+3
+59
+3  200px  Old Growth Pine Taiga campsite_old_growth_pine_taiga_1 1
+1
+1
+9
+19
+25
+1
+10
+1
+15
+3
+1
+14  200px campsite_old_growth_pine_taiga_2 1
+1
+9
+61
+25
+57
+1
+1
+14
+1
+1  200px campsite_old_growth_pine_taiga_3 1
+1
+1
+5
+24
+15
+6
+14
+17
+1
+40  200px campsite_old_growth_pine_taiga_4 1
+1
+1
+16
+2
+2
+52
+1
+3  200px  Old Growth Spruce Taiga campsite_old_growth_spruce_taiga_1 1
+2
+1
+5
+8
+36
+3
+7
+2
+6
+27
+5  200px  campsite_old_growth_spruce_taiga_2 1
+1
+1
+1
+7
+18
+4
+34
+8
+41  200px  campsite_old_growth_spruce_taiga_3 1
+1
+5
+11
+13
+7
+1
+8
+5  200px  campsite_old_growth_spruce_taiga_4 1
+2
+1
+3
+13
+52
+1
+3  200px  Pale Garden campsite_pale_garden_1 1
+1
+65
+14
+39
+4
+22
+10
+6
+1  200px  campsite_pale_garden_2 1
+1
+7
+60
+20
+33
+
+1
+29
+11  200px  campsite_pale_garden_3 3
+3
+1
+1
+1
+27
+12
+16
+1
+37
+13
+15
+109
+31
+3  200px  campsite_pale_garden_4 1
+1
+1
+97
+8
+36
+1
+4
+32
+15
+9
+1  200px  Savanna campsite_savanna_1 1
+4
+1
+1
+1
+17
+16
+12
+1
+3  200px  campsite_savanna_2 1
+9
+1
+1
+1
+1
+26
+13
+16
+1
+1
+15
+1  200px  campsite_savanna_3 1
+1
+10
+2
+15
+10
+2
+1  200px  campsite_savanna_4 1
+1
+1
+38
+21
+47
+1
+1
+68  200px  Snowy Taiga campsite_snowy_taiga_1 1
+1
+15
+22
+2
+25
+1
+2
+1
+1
+54
+1  200px  campsite_snowy_taiga_2 1
+1
+12
+14
+8
+7
+1
+2
+1
+32
+5
+4  200px  campsite_snowy_taiga_3 1
+1
+1
+12
+13
+39
+47
+11  200px  campsite_snowy_taiga_4 1
+1
+25
+6
+15
+1
+3
+3
+50
+46  200px Sparse Jungle campsite_sparse_jungle_1 1
+1
+3
+20
+1
+1
+1
+168
+33
+1
+36  200px  campsite_sparse_jungle_2 2
+1
+2
+2
+9
+13
+23
+1
+108
+21
+1
+1
+1
+35  200px  campsite_sparse_jungle_3 1
+1
+1
+1
+10
+5
+9
+23
+3
+1
+115
+18
+1
+11  200px  campsite_sparse_jungle_4 3
+1
+26
+19
+19
+6
+1
+1
+18
+23  200px  Swamp campsite_swamp_1 1
+1
+23
+5
+61
+18
+3
+80
+1
+1
+3
+93
+5
+5
+9
+35
+10  200px  campsite_swamp_2 1
+21
+1
+20
+10
+58
+16
+60
+1
+4
+10
+1
+1
+45
+7
+5
+14  200px campsite_swamp_3 1
+2
+6
+1
+1
+27
+64
+12
+72
+4
+93
+5
+9
+4
+39
+15  200px  campsite_swamp_4 1
+1
+51
+24
+12
+3
+78
+1
+1
+2
+1
+10
+1
+4
+15
+18  200px Taiga campsite_taiga_1 1
+1
+13
+15
+3
+17
+1
+1
+5  200px  campsite_taiga_2 1
+1
+1
+10
+14
+11
+1
+5
+9  200px  campsite_taiga_3 1
+1
+6
+7
+16
+12
+13
+1
+3
+2
+10  200px  campsite_taiga_4 1
+1
+1
+2
+16
+9
+1
+1
+9
+1
+39
+13  200px  Windswept Forest campsite_windswept_forest_1 1
+8
+1
+1
+19
+19
+9
+7
+2
+29  200px campsite_windswept_forest_2 1
+4
+1
+1
+8
+1
+7
+15
+6
+5
+3  200px  campsite_windswept_forest_3 1
+6
+1
+16
+28
+7
+10
+1
+4
+1
+1
+23  200px  campsite_windswept_forest_4 1
+1
+6
+1
+18
+19
+9
+1
+1
+32  200px Wooded Badlands campsite_wooded_badlands_1 2
+5
+2
+1
+9
+15
+3
+21
+24
+2
+1
+44
+11  200px campsite_wooded_badlands_2 1
+8
+3
+1
+1
+2
+15
+4
+42
+59
+3
+3  200px campsite_wooded_badlands_3 1
+2
+2
+1
+1
+2
+3
+37
+11
+2
+2
+1
+28
+44
+4
+1
+7  200px campsite_wooded_badlands_4 1
+1
+8
+8
+1
+1
+65
+40
+11  200px
+
+Loot
+Barrels
+
+Common chests
+
+Secret chests
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Development screenshots
+
+Notes
+
+References
+
+Navigation
+
+de:Verlassenes Lager
+es:Campamento abandonado
+fr:Camp abandonné
+it:Accampamento
+ja:放棄されたキャンプ
+ko:버려진 야영지
+lzh:棄營
+pt:Acampamento Abandonado
+ru:Заброшенный лагерь
+uk:Покинутий табір
+zh:废弃营地

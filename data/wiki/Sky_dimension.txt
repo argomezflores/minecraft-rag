@@ -1,0 +1,80 @@
+TITLE: Sky dimension
+CATEGORY: Dimensions
+URL: https://minecraft.wiki/w/Sky_dimension
+---
+thumb|300px|An early screenshot of the Sky Dimension
+
+The Sky Dimension, or simply the "Sky", was a planned dimension in Minecraft, intended to be the opposite of the Nether. Using data packs, a player can generate a partial recreation of the original concept.
+
+History
+In Indev, there was a map type called "Floating". It generated floating islands full of terrain based on the World Theme.
+
+The Sky Dimension was first announced when Notch tweeted a picture of the dimension. It was probably made to be like a "heaven", because the Nether was considered to be like a hell. The Sky Dimension was not completely confirmed until Notch released an update via Twitter stating: "And because PC Gamer made such a big deal of the Sky Dimension, I guess I'll have to finish it. Consider it confirmed."
+
+In a live webcast on the Swedish gaming site feber.se Notch revealed that the Sky Dimension would "probably be a dream world" and that when "you go to bed there is a certain chance that you get dragged into the dream world instead. Then you will be able to do it on purpose later on."
+
+The Sky Dimension was originally planned for the Adventure Update, but Notch put it on hold until the Nether was more fun.
+
+"It didn't work so well because of how light is calculated," Jeb explained. "The Sky Dimension originally had this top down light that the Overworld has, so you get like shadows in caves and such. But performance wise, it didn't work - it was extremely slow. So we removed the sun – now everything is evenly lit unless you've got a torch."
+
+And so the original concept of the Sky Dimension was later rebranded as "The End", a dark place fittingly referred to as the "end of the game", home to the endermen and the ender dragon, and a total conversion of the original idea.
+
+Notch tweeted much later that a different "Skylands" dimension probably was still in the making. This version, completely separate from the End, was set to replace the original idea. However, Jeb later stated that returning the Sky Dimension was not planned and therefore is unlikely to be done.
+
+For almost seven years until the release of Java Edition 1.13, the End's biome nomenclature remained as the last vestige of the scrapped Sky Dimension idea. Until 1.8, the only biome present in the End at the time was called "Sky"; the resource location for the biome remained minecraft:sky until 1.13-pre5. Even the new biomes added for the End in 18w06a initially used minecraft:sky_islands_* resource locations during development, before being changed to refer to the End instead.
+
+thumb|300px|A custom Overworld-like dimension with the minecraft:floating_islands noise settings and the End's height parameters, superficially similar to the original Sky Dimension.
+From Java Edition 1.13 to 1.17.1, it was possible to partially recreate the Sky Dimension through the Buffet world type. This was done by choosing the "Floating Islands" world generation option (world type after 1.16) and picking any Overworld biome (any type of Forest, Plains, Swamp, or Jungle) as the World Terrain option. This created a partial recreation of what the Sky dimension might have looked like. However, the “Floating Islands” world type was removed in 1.18.
+
+Since Java Edition 1.16.2, after the Nether Update, it is possible to create a data pack that adds a custom dimension set to use the minecraft:floating_islands noise settings or a custom set of noise settings that generates floating terrain. Since clouds are hard-coded to a specific range of altitudes (between 192 and 196 as of present day), custom noise and dimension settings can be set to generate terrain above them (minecraft:floating_islands uses the same altitude settings as the End). This is the current and only in-game way to recreate what the Sky Dimension could have looked like, even more so after the removal of the "Floating Islands" world type in 1.18.
+
+Mod-enabled version
+thumb|300px|Unmodified clients do not contain a way to access the Sky Dimension, but show its dimension effect when loading terrain with a dimension of "1" when connected to a modified server
+Code for a prototype of the Sky Dimension exists in versions from Beta 1.6 to Beta 1.9 Prerelease 3. Essentially, the only thing preventing it from being fully functional is the absence of a means of generating it and getting there. By modifying the game, it is possible to access this unfinished version of the Sky Dimension.
+
+The Sky Dimension can be accessed by modifying the following compiled Java class files in minecraft.jar:  in Beta 1.6.6,  in Beta 1.7.3, and  in Beta 1.8.1.
+
+In this version of the Sky Dimension, the buildup of the world blocks-wise is very much like the Overworld, but it is always midday and it does not rain or snow (though cloud cover does appear as if it were raining). Like in the Overworld, there are oak trees, flowers, springs, lakes, and caves, and one can also find pumpkins, mushrooms, dungeons, iron, coal, and gold. Although uncommon, it is also possible to find sugar cane, redstone, lapis lazuli, and more rarely diamond. The only mobs that spawn in the Sky Dimension are chickens; no other mobs (including hostile ones and squid) spawn, except for monsters spawned by monster spawners in monster rooms. Snow generates on surfaces above a certain altitude, similarly to mountain biomes; however, there is no weather in the Sky Dimension, so snow is not renewable. Below the islands of the Sky Dimension is nothing but the Void and a layer of clouds.
+
+Bugs
+thumb|World corruption on singleplayer.
+Originally, the Sky Dimension was hidden within the region 0 (Overworld) code. However, starting in Beta 1.9 Prerelease 3, it was given its own region: Region 2, with Region 1 being the Nether. However, Sky Dimension chunks stopped spawning within its region, they would generate in the Overworld on Multiplayer servers. If a world with Sky Dimension chunks is brought from multiplayer to singleplayer, the area of the chunks are always Plains biome, even if snow generated naturally on the ground.
+
+Trivia
+The Sky Dimension is an inversion of The Nether, where as the latter is basically a large cave with monsters and a massive open space within, the former are peaceful floating islands spawn surrounded by open space. The Nether may also be thought of as being a hell with The Sky Dimension being a heaven; although the hazards present in each dimension are similar, falling from the sky dimension is just as lethal as falling from a cliff into the lava ocean in the Nether.
+Far Lands do generate in the Sky Dimension, but the way they generate looks completely different to the Overworld Far Lands.https://web.archive.org/web/20150921203954/http://imgur.com//iaTfXQ5https://web.archive.org/web/20230508014949/https://imgur.com/t4s25qE
+A sky dimension is also present in Minicraft, a 2D Minecraft-inspired game also created by Notch.
+The "Floating Islands" mine ingredient in 25w14craftmine generates terrain similar to this.
+
+Gallery
+The first released screenshots of the Sky Dimension:Gallery on imgur
+
+The Sky Dimension Far Lands:
+
+See also
+
+Biomes
+
+Amplified
+Custom
+
+References
+
+External links
+Notch's Sky Dimension in Beta 1.6.4
+
+Navigation
+
+S
+
+de:Himmelsdimension
+es:Dimensión del cielo
+fr:Dimension céleste
+hu:Java Edition megemlített tartalmak/Égi dimenzió
+ja:スカイディメンション
+nl:Javaeditie genoemde functies/Luchtdimensie
+pl:Podniebny wymiar
+pt:Dimensão do céu
+ru:Небесный мир
+uk:Небесний світ
+zh:天域

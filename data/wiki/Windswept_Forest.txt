@@ -1,0 +1,71 @@
+TITLE: Windswept Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Windswept_Forest
+---
+The windswept forest or extreme hills plus trees biome is a more humid variant of the windswept hills filled with spruce and oak trees.
+
+Generation
+Windswept forests generate instead of windswept hills in areas with high humidity. They generate at medium to the coldest temperature ranges, bordering all types of forests and taigas. Commonly, they surround swamp biomes, and near higher temperatures they border windswept savannas. Windswept forests can generate close to, but never border windswept gravelly hills.
+
+A lush cave may also generate under windswept forests due to its high humidity, but when the biome generates far inland, dripstone caves may generate beneath it instead.
+
+Description
+Windswept forests lack a stony terrain surface, but generate hilly and rugged terrain just like regular windswept hills.
+
+Spruce and oak trees generate quite often, forming a sparse forest, and bushes occasionally spawn in patches around the biome. This is unlike the other windswept hills biomes, where no/almost no trees generate.
+
+This biome is one of the few to contain emerald ore, and more coal ore along with iron ore generates at higher altitudes. Infested stone with silverfish may also be found here underground.
+
+Abandoned camps sometimes generate in windswept forests.
+
+Llamas inhabit windswept forests, along with the usual farm animals and hostile mobs. Pigs, cows and chickens appear as cold variants here.
+
+With Vibrant Visuals, windswept forests use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint. Windswept forests have default coolish color grading tints the environment with a colder blue color, and cold sunlight which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs, excluding silverfish that spawn from infested blocks, naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in windswept forests:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+
+External links
+
+Navigation
+
+de:Zerzauster Wald
+fr:Forêt venteuse
+pt:Floresta das ventanias
+uk:Вітряний ліс
+zh:风袭森林

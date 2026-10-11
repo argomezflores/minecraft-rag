@@ -315,7 +315,25 @@ Los 12 "mobs" son páginas generales (*Mob*, *Boss*, *Undead*…). En la wiki, `
 
 En total son **~220 páginas**: ~4-5 min de scrape a 1 req/s y ~4 min de re-ingest.
 
-**Decisión.** _(pendiente — Rogelio)_
+**Decisión** (Rogelio): agregar todo. Lo que se cambió:
+- Las 9 subcategorías se listan explícitas en `CATEGORIES`. No se recorren todas las subcategorías, para no traer *Joke mobs*, mobs de la película ni biomas de Dungeons.
+- Se quitaron las 4 categorías inexistentes.
+- `fetch_category()` ahora avisa cuando una categoría no tiene páginas directas.
+- `fetch_pages_by_title()` sigue los redirects.
+- `scrape_wiki.py --only "<cats>"` permite bajar solo categorías nuevas sin volver a pedir las ~1,000 cacheadas.
+
+**Resultado:**
+- Se agregaron 213 artículos: 46 hostiles, 41 pasivos, 20 neutrales, 2 jefes, 36 estructuras, 7 de dimensiones y 69 biomas. También se resolvieron los 5 redirects. El corpus queda en 1,260 artículos y **11,076 chunks** (ingest de 3m41s).
+- Se agregaron 6 preguntas **independientes** (tag `unseen`), escritas antes de ver resultados y que no se usan para tunear:
+
+| | Antes (`coverage-before`) | Después (`coverage-after`) |
+|---|---|---|
+| Fuente top-1 (6 nuevas) | 1/6 (y ese 1 era *Creeper Head*, un falso positivo de la etiqueta) | **5/6** |
+| Fuente en top-5 (6 nuevas) | 2/6 | **6/6** |
+
+- Eval completo de 38 preguntas: top-1 34/35, top-5 100%, términos 0.91, 0 falsas abstenciones, negativas 3/3, p50 6.6 s. **Sin regresiones** en las 29 anteriores.
+- Respuestas: el Ender Dragon (destruir los End Crystals), el creeper (explota a 1.5 s), el Wither (T de soul sand + 3 cráneos), la Nether Fortress (blazes, nether wart) y el Warden en el Deep Dark salen bien.
+- **Límite que queda:** "¿Cómo llego al End?" explica el portal, pero no que primero hay que encontrar un Stronghold con Eyes of Ender. Es una pregunta de varios pasos, con la información en 3 artículos distintos. No se tuneó porque es una pregunta independiente; queda como limitación.
 
 ---
 
@@ -340,7 +358,7 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 2. **`ipykernel` fuera de `requirements.txt`.** La app no lo usa (solo el notebook), y su dependencia `debugpy` tiene rutas tan largas que `pip install` falló en Windows al clonar en una carpeta anidada. Moverlo a `requirements-notebook.txt`.
 3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
 4. ~~**Blocklist**~~ ✅ hecho, ver #012.
-5. **Docs desactualizados.** `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
+5. **Docs desactualizados.** `pipeline.html` y `timeline.html` están en v6 pero no incluyen #011/#012 (ampliación de cobertura y blocklist). `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
 6. **Capturas** del widget y del bot in-game → `docs/img/`, enlazadas desde el README (las toma Rogelio).
 7. **CV.** Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026. Bullets propuestos con los números finales:
    > **Minecraft Knowledge Assistant (RAG)** · Python, FastAPI, ChromaDB, Claude API · github.com/argomezflores/minecraft-rag
@@ -348,8 +366,8 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
    > - Designed an evaluation harness that exposed five root-cause bugs, among them a chunker that duplicated text 19× and an English-only re-ranker that was blind to Spanish queries. Fixing them raised top-1 retrieval accuracy from 52% to 100% on a 27-question dev set and cut false "not found" answers from 7 to 0.
    > - Reduced the vector index from 113K to 8.4K chunks and indexing time from ~15 to ~3 minutes.
 
-   En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente.
-8. **Cobertura (#011):** decidir si se agregan mobs, jefes, estructuras, dimensiones y biomas (~220 páginas), si el scraper debe recorrer subcategorías, y arreglar los redirects de las páginas prioritarias.
+   En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente. Dato extra después de #011: en 6 preguntas independientes (mobs, estructuras, dimensiones), 5/6 correctas tras ampliar el corpus (1/6 antes).
+8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,260 artículos, ver #011.
 9. **Opcional, después del CV:**
    - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
    - Docker de un comando (el compose está corregido pero sin probar).

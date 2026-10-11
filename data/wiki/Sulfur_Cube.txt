@@ -1,0 +1,214 @@
+TITLE: Sulfur Cube
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Sulfur_Cube
+---
+A sulfur cube is a bucketable jumping passive mob that is found only in sulfur caves. It can absorb a full-sized block into itself, which immobilizes it and makes it receive higher knockback from most attacks instead of damage. The block type a sulfur cube absorbs affects its bounciness and behavior, and some blocks cannot be absorbed, such as slabs and stairs. Blocks can be extracted using shears, by replacing the block with a different one, or by killing the sulfur cube.
+
+Small sulfur cubes spawn in groups of two when a large sulfur cube dies. They grow up over time similarly to babies, cannot absorb blocks and cannot be picked up by buckets.
+
+Spawning
+Large sulfur cubes spawn naturally in sulfur caves at any light level.
+
+Two small sulfur cubes spawn when a large sulfur cube dies, which can then grow up into large sulfur cubes; see  below.
+
+Drops
+Upon death, large sulfur cubes drop the block they absorbed and 1-2 experience, while small sulfur cubes drop no experience.
+
+Behavior
+Sulfur cubes are passive mobs that, by default, jump around aimlessly. In this state, they are susceptible to all sources of damage.
+
+If a sulfur cube pathfinds into a block that can be climbed, such as ladders or vines, the sulfur cube climbs the block. Sulfur cubes with absorbed blocks that are launched are also capable of climbing.
+
+Splitting
+Sulfur cubes come in two sizes: small and large. When a large sulfur cube dies, it splits into two small cubes, unless the death was caused by its own explosion. If a small sulfur cube dies, it does not split and drops nothing. When a named large sulfur cube is killed and splits, both small cubes retain the name as with other cube mobs.
+
+Small sulfur cubes grow into large ones after 20 minutes, similarly to baby mobs. Slimeballs can be used to tempt and feed small sulfur cubes, which decreases their remaining growth time. They can also be fed a golden dandelion to prevent them from growing.
+
+Bucketing
+A large sulfur cube can be picked up by using an empty bucket on it to create a bucket of sulfur cube. If a named sulfur cube is bucketed, the name of the item becomes "Bucket of <name>" (the sulfur cube's name) or only the cube's name.
+
+If the bucketed sulfur cube has an absorbed block, the bucket of sulfur cube item tooltip displays the name of the absorbed block.
+
+A bucketed sulfur cube no longer counts toward the mob cap and does not despawn. However, if the bucketed sulfur cube is split into two small cubes, the small cubes can despawn.
+
+Absorbing blocks
+
+Large sulfur cubes have the ability to absorb some blocks, mostly full-sized ones. It can absorb a block dropped on the ground (unless  is set to false), and also can be fed a block by  with it. Sulfur cubes move toward absorbable blocks dropped on the ground, and they also follow players holding an applicable block in their hand. Small sulfur cubes cannot absorb blocks. A dispenser can also be used to feed a block to a sulfur cube if the cube's hitbox intersects the block space directly in front of the dispenser.
+
+They can also absorb any block using commands.
+
+Any method of feeding a block to a sulfur cube can also be done on a sulfur cube that has already absorbed a block, which changes the block inside it and drops its previously-absorbed block as an item.
+
+When a sulfur cube has absorbed a block, it stops moving and its absorbed block is visible inside of it. The absorbed block can be removed from a sulfur cube by using shears on it, which drops the block as an item. Dispensers with shears can also be used to remove the block.
+
+Absorbed blocks in sulfur cubes have the same visual properties as when placed down, including MERS textures with Vibrant Visuals. Froglights, for example, glow inside the sulfur cube, but they do not actually light the environment gameplay-wise. Throwing a splash potion of Invisibility on a sulfur cube causes it to show only the absorbed block.
+
+Sulfur cubes can absorb named blocks; the block remains named if removed, but the name of the block is not displayed above the sulfur cube.
+
+Sulfur cubes can absorb only the specific blocks listed below:
+
+ArchetypeBlockDescriptionAttribute valuesKnockback modifiersFloatsin waterKnockbackresistanceBouncinessFrictionmodifierAir dragmodifierHorizontalVerticalBouncy(Rubber Ball)Fast speed, high bounciness, medium ground friction and low air drag. -2.00.90.30.010.41250.105ExplosiveMedium speed, medium bounciness, and medium ground friction like regular, but with high air drag. Allows to be ignited and explode. See  below. -1.00.50.30.30.41250.09Fast Flat(Golf Ball)Fast speed, low bounciness, medium ground friction and low air drag. -1.00.50.20.010.91250.09Fast Sliding(Hockey Puck)Fast speed, no bounciness, low ground friction and low air drag.0.50.10.050.010.66250.09High ResistanceVery slow, low drag with low bounce with high friction.0.70.210.010.41250.09HotSame properties as football, but damages entities on contact. See  below. -1.00.50.30.10.41250.09Light(Beach Ball)Slow speed, high bounciness, medium ground friction and high air drag. -1.01.00.31.80.41250.18Regular(Football/Soccer Ball)Medium speed, medium bounciness, medium ground friction and low air drag. -1.00.50.30.10.41250.09Slow BouncySlow speed, high bounciness, medium friction and medium air drag.0.40.60.30.050.41250.24Slow Flat(Medicine Ball)Slow speed, low bounciness, medium ground friction and medium air drag.0.50.40.40.10.41250.105Slow Sliding(Curling Stone)Slow speed, no bounciness, low ground friction and low air drag.0.80.10.050.010.41250.09StickyFast speed and low air drag like fast flat, but sticks with extremely high ground friction and no bounce to simulate stickiness. -2.00.02.00.010.41250.09
+
+If a sulfur cube with a block dies, it drops the block as an item in addition to splitting.
+
+, the items that can be absorbed by the sulfur cube are determined by the tag , with the archetypes of the items determined by the tags:
+
+, the items that can be absorbed by the sulfur cube as well as the archetypes they give the sulfur cube are determined by the  item tags.
+
+Special archetypes
+Sulfur cubes that have absorbed specific functional blocks can have those functions applied to them.
+TNT has the explosive archetype. When a sulfur cube with the explosive archetype is ignited manually, its fuse time is set to . When ignited by another explosion, it is set to be a random number between  and , inclusive.
+Sulfur cubes with ignited TNT cannot be damaged, be captured in a bucket, or have their absorbed block sheared. When the sulfur cube explodes, no small sulfur cubes are spawned.
+Sulfur cubes with the explosive archetype can be ignited in the same ways that TNT can be activated and more, including:
+direct usage of flint and steel by a player or dispenser, or usage of a fire charge by a player;
+causing any fire damage to the sulfur cube (fire, lava, flaming projectile, campfire or magma block);
+this works even if the mob has Fire Resistance on it;
+being hit by a weapon with Fire Aspect;
+any other explosion nearby, including explosions from other sulfur cubes;
+a redstone signal. TNT activates if the center of sulfur cube's hitbox is in such a block that a TNT would be activated if it was a placed block instead.
+TNT sulfur cubes are also primed if they occupy the same position as a redstone component that's currently emitting a signal (a comparator, for example), even though that position might not be necessarily powered.
+Magma blocks have the hot archetype. Sulfur cubes with the hot archetype damage nearby mobs, acting as if they touched magma.
+
+Damage resistance
+A sulfur cube that has absorbed a block is resistant to the following forms of damage:
+Melee attacks
+Projectiles
+Falling blocks, including anvils and stalactites
+Explosions, except their own
+Fall damage, including onto stalagmites
+Freezing
+Contact with cactus or sweet berry bushes
+Magma blocks and sulfur cubes with the hot archetype
+Other sources of damage, such as fire, suffocation, cramming, or the damage effects, can damage or kill the sulfur cube as normal.
+
+Some hostile mobs attack the sulfur cube even while it has absorbed a block, such as zoglins, the wither and wardens. Although the sulfur cube is immune to the warden's melee damage, they can be killed by its sonic boom. Additionally, tamed wolves attack a sulfur cube that their owner attacks.
+thumb|A zoglin attacking a sulfur cube.
+
+Launching
+When affected by knockback, the sulfur cube is launched and is affected by gravity and physics. This causes it to behave and bounce like a ball.
+
+The direction and trajectory in which a sulfur cube is launched is the opposite of where on its body it is hit.
+
+This diagram describes how hitting a sulfur cube on different portions of its body launches it.
+Sulfur Cube Launching Portions500px
+
+The force at which a sulfur cube is launched is based on the amount of damage the attack does. For example, hitting it with a diamond sword launches it farther than punching it without an item. The Knockback and Punch enchantments also apply additional power to the launch.
+
+Sulfur cubes that are in the air can be knocked farther upward when launched. This is particularly notable , where this behavior differs from the usual airborne knockback mechanics.
+
+Depending on the absorbed block, sulfur cubes exhibit different properties when hit.
+
+Sounds
+
+Mob
+Large
+:
+
+:
+
+Small
+:
+
+:
+
+Ball
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+:
+
+Entity data
+
+Only on sulfur cubes, the  tag represents the  component in predicates and loot functions.
+
+: The ticks left before the sulfur cube picks up items from the ground. Is set to 100 when the item is removed using shears, then ticks down until it reaches 0.
+: 1 or 0 (true/false) - 1 if the sulfur cube was spawned by using a Bucket of Sulfur Cube, 0 if not.
+: The number of ticks before the sulfur cube explodes. For sulfur cubes that are not ignited, this value is -1.
+The absorbed block (if any) is stored in equipment.body.
+
+:
+
+: The entity's root tag.
+
+: The size of the sulfur cube. 1 is the smallest slime, 2 is the next larger.
+: List of equipment slots and the chance that the item in that slot drops when the sulfur cube dies.
+: A slot entry.
+: The probability that the item in this slot can drop (0.0 to 1.0).
+: The name of the equipment slot. Can be  in sulfur cube.
+: The sulfur cube properties.
+: If the sulfur cube has a block and behavior can be .
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Announcements
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Prior to sulfur cubes, the idea of slimes being used as a ball appeared as a brief visual gag in Village & Pillage: Official Trailer.
+During Minecraft Live – March 2026, it was stated by Agnes Larsson that the face of the cube is meant to have an ambiguous expression.
+During the development of sulfur cubes, copper golems were used as placeholders.
+Sulfur cubes with custom sizes split into smaller sulfur cubes until they get to normal size.
+Sulfur cubes were "very inspired" by players using curled armadillos as a ball.
+
+Gallery
+Renders
+
+Development renders in Java Edition
+
+Development renders in Bedrock Edition
+
+Textures
+
+Screenshots
+
+Mojang images
+
+Minecraft Live screenshots
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Passive mobs
+Category:Monster mobs
+Category:Animal mobs
+
+de:Schwefelwürfel
+es:Cubo de azufre
+fr:Cube de soufre
+it:Cubo di zolfo
+ja:サルファーキューブ
+ko:유황 큐브
+lzh:硫方靈
+pt:Cubo de Enxofre
+ru:Серный куб
+th:สไลม์กำมะถัน
+uk:Сіркокуб
+zh:硫磺史萊姆

@@ -1,0 +1,83 @@
+TITLE: Swamp
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Swamp
+---
+The swamp or swampland is a wetland biome where slimes, frogs, and bogged can spawn, and it is the only biome where swamp huts can generate. It is vegetated by unique swamp oaks covered in vines, firefly bushes, lily pads, and more.
+
+Generation
+Swamp biomes are usually found in flat terrain near sea level in regions with very high erosion values, and they also replace rivers in these areas. Swamps never directly border the ocean, however, their water bodies are often connected to one.
+
+The swamp biome generates at temperatures of -0.45 to 0.2, meaning it generates at the temperate and cold biome temperature noise values. Surrounding terrain is usually flat with biomes like plains, sunflower plains, most forests, and most taigas. Often, swamps are surrounded by ranges of windswept hills or windswept savannas, some islands of temperate biomes can generate within the swamp. At higher temperatures, swamps border mangrove swamps, while they end abruptly in frozen rivers at cold temperatures.
+
+Description
+Swamps have sparse oak trees which can grow on land or in shallow water and generate with vines growing on them. Mushrooms are more common here than in most Overworld biomes, mostly generating in dark areas or under trees. , huge mushrooms can generate as well. Sugar cane is found more commonly growing on shores, and seagrass litters the bottom of flooded areas. Firefly bushes and blue orchids grow among the grass, the latter of which are found exclusively in swamps. Lily pads are scattered across the surface of the water and dead bushes dot the surface of the land.
+
+Swamp biomes, alongside mangrove swamps and deserts, can generate underground fossils. A swamp rarely generates swamp huts, housing a witch and a black cat. Only witches can spawn in and around the hut. Villages sometimes generate next to a swamp, where they spawn unique swamp villagers.  Otherwise, the only way for these villagers to spawn is either by being bred in a swamp, or curing a zombie villager that spawned in a swamp.
+
+Abandoned camps sometimes generate in swamps.
+
+Swamps have elevations low enough to go below sea level throughout much of the area. A large portion of swamps is flooded, where patches of clay are found on the lakebed, although deeper water only has a gravel floor. The shores of swamps may have marsh-like terrain, where the shores are very irregular, often without smooth transition, and with some small puddles generated. Sand or gravel disks do not generate.
+thumb|The variation of grass colors in a swamp
+Water in swamps takes on a gray-green color. Underwater fog is thick here so that visibility is lower than in other biomes underwater. Additionally, unlike other Overworld biomes, swamps have varying tints for grass blocks, short grass, leaves, and other plants, following a noise algorithm.
+
+With Vibrant Visuals, swamps have a unique brown-green sky color, and stronger volumetric fog effects, fading the sun and sunlight.
+
+Mobs
+Slimes may spawn in swamps during the night, exclusively between Y=50 and Y=70, making swamps and mangrove swamps the only places where slimes can be found above ground. Their spawn rate is affected by the moon phase, spawning most often during full moon and not spawning at all during new moon. Bogged add an additional threat to the night, thunderstorms, or caves, as their poison arrows can increase the danger of hostile mobs.
+
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the swamp:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Sumpf
+es:Pantano
+fr:Marais
+it:Palude
+ja:沼地
+ko:늪
+lzh:濘澤
+pl:Bagno
+pt:Pântano
+ru:Болото
+uk:Болото
+zh:沼泽

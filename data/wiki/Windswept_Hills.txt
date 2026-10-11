@@ -1,0 +1,76 @@
+TITLE: Windswept Hills
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Windswept_Hills
+---
+Windswept hills or extreme hills are cold mountainous biomes with shattered terrain covered by grass blocks and stone. Windswept hills generate in areas with high erosion close to swamps, often bordering their wooded and gravelly variants.
+
+Generation
+Windswept hills generate as mountains in high PV and continentalness, but at far higher erosion. Because of this, the terrain is usually elevated but flat, sometimes hilly and shattered. They generally peak at Y-level 140. Despite windswept hill biomes being highland biomes, deep dark doesn't generate under windswept hills biomes.
+
+Windswept hills generate at medium to the lowest temperature zones at medium humidity. They commonly border windswept forests and windswept gravelly hills as well as windswept savannas at higher temperatures. Large ranges of windswept hills often surround swamps with flatland biomes on the other side, including plains, most forests, taigas, and snowy plains.
+
+Description
+In windswept hills, the grass and leaves are an aqua color. These are the only biomes, besides mountain biomes, where emerald ore is found. Like mountains, infested blocks with silverfish can be generated underground below the sea level.
+
+The ground consists of many exposed stone blocks and ores, with some patches of grass blocks in between. Above Y=120±8, rainfall changes to snowfall, and the hills becomes snow-capped, along with water freezing into ice.
+
+, oak and spruce trees generate occasionally, while these are exclusive to the windswept forest . Bushes generate on the sparse grasslands, and llamas can spawn here together with cold animal variants.
+
+With Vibrant Visuals, windswept hills use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in windswept hills:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+See also
+
+External links
+
+Navigation
+
+de:Zerzauste Hügel
+es:Colinas ventiscosas
+fr:Collines venteuses
+ja:吹きさらしの丘
+ko:바람이 세찬 언덕
+lzh:當風丘
+pl:Góry
+pt:Colinas das ventanias
+ru:Выветренные холмы
+uk:Вітряні пагорби
+zh:风袭丘陵

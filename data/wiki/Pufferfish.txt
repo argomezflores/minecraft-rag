@@ -1,0 +1,132 @@
+TITLE: Pufferfish
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Pufferfish
+---
+Pufferfish are bucketable aquatic neutral mobs found in oceans. Although they never seek out mobs to attack, they defensively inflate themselves when approached too closely by players, axolotls, or non-aquatic mobs, dealing damage and inflicting Poison on them.
+
+Spawning
+, pufferfish spawn in groups of 1-3 in warm, lukewarm, and deep lukewarm ocean biomes, subject to fish spawning requirements. If trying to spawn inside a waterlogged solid block, the pufferfish uses the bigger "puffed" size to determine if it collides with anything solid.
+
+, pufferfish spawn underwater at around 12–32 blocks away from the player in groups of 3–5 in warm ocean biomes, and only on the surface; that is, there must not be a spawnable block above the spawn location with a non-solid block on top. They are considerably rarer than tropical fish, with only  of fish groups or  individual fish (within the warm ocean biome) spawning as pufferfish.
+
+Drops
+On death
+
+when killed by a player or a tamed wolf.
+
+Behavior
+Unlike other fish, pufferfish don't swim in schools.
+
+Pufferfish inflate themselves when approached by the player and most mobs, including tripod cameras and armor stands.
+
+The player may collect a fish by  a water bucket on it, giving the player a bucket of pufferfish. Fish placed with buckets do not despawn naturally.  the bucket against a block empties the bucket, placing water with that fish swimming in it.
+
+Pufferfish can not be bred and only spawn in designated biomes.
+
+Weaknesses
+Like other fish, pufferfish cannot survive out of water. Outside of water, they flop around like guardians for a while until they start suffocating and then die like squid. , they rotate when flopping. Fish cannot swim or breathe in cauldron water.
+
+The Impaling enchantment affects pufferfish due to being aquatic or simply being in water.
+
+Pufferfish are actively targeted by axolotls, nautiluses and zombie nautiluses.
+
+Defenses
+A pufferfish inflates when approached by a player in Survival or Adventure mode, a drowned, an axolotl, or any non-water mob within 2 blocks of its hitbox, going from unpuffed, then semi-puffed, to fully puffed. Going near a semi-puffed or fully puffed pufferfish inflicts the player/mob with three or six seconds of  based on the inflation level, and touching one in its puffed or semi-puffed form deals damage separate from the Poison.
+
+Pufferfish also instantly inflate to their fullest form after taking any kind of damage. After inflating, they slowly deflate to their normal shape as long as a threat is out of range. If the player/mob leaves the radius while the pufferfish is in its semi-puffed stage, it deflates back to normal.
+
+Undead mobs, spiders and cave spiders are unaffected by the Poison effect, but they still take damage when they come into contact with pufferfish.
+
+A pufferfish that inflicts damage on a mob other than a creeper or a ghast by touching it provokes that mob to retaliate.
+
+In Peaceful difficulty, pufferfish do not inflict damage or Poison to player.
+
+Pufferfish can deal damage to players at a longer distance compared to mobs.
+
+If a pufferfish dies while in its semi-puffed or fully puffed form, it will still inflict damage and Poison to players, but not other entities.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Pufferfish have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (/) - if , the fish has been released from a bucket.
+: A value from 0–2.
+means the fish is deflated
+means it is halfway puffed-up
+means it is fully puffed-up
+A pufferfish's damage and Poison time are directly related to its current  data value, which can be changed using the  command.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+In real life, pufferfish use their spikes for intimidation purposes and do not inject venom. Some of their organs and skin is toxic, which is reflected accurately in-game.
+There are three textures for the three different  data values in Minecraft. A  value greater than 2 does not visually increase the pufferfish size, but does create a bigger shadow on the ground. All sizes of pufferfish textures are contained in the same texture file.
+
+Gallery
+Screenshots
+
+Textures
+
+Other
+
+In other media
+
+See also
+
+References
+
+Navigation
+
+Category:Neutral mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+de:Kugelfisch
+es:Pez globo
+fr:Poisson-globe
+hu:Hal
+ja:フグ
+ko:복어
+nl:Vis (wezen)
+pl:Ryba (mob)
+pt:Baiacu
+ru:Иглобрюх
+th:Fish (mob)
+uk:Скелезуб
+zh:河豚

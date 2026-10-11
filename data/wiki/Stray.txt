@@ -1,0 +1,147 @@
+TITLE: Stray
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Stray
+---
+A stray is a skeleton variant that spawns in various snow-covered biomes. They behave very similarly to skeletons, except they fire tipped arrows of Slowness from their bows and do not freeze in powder snow.
+
+Spawning
+A stray may spawn directly under the sky in snowy plains, or ice spikes, replacing 80% of skeletons. They can also spawn underground in Ice Caves. Additionally, a stray may spawn in frozen rivers, frozen oceans, deep frozen oceans, legacy frozen oceans, snowy slopes, jagged peaks, and frozen peaks in Bedrock Edition. Strays do not spawn naturally from monster spawners .
+
+Converting
+When a skeleton is kept inside powder snow for , it begins shaking. After another , it becomes a stray. A converted stray appears with full health even if the original skeleton did not have full health. Items being held or worn by a skeleton when it becomes a stray remain unchanged. Unlike regular skeletons, bogged and parched do not turn into strays, but take freezing damage instead.
+
+Trial spawners
+Strays have a  chance to be selected as the "ranged" mob for trial spawners in trial chambers.
+
+Spider jockeys
+, spiders and cave spiders spawned in biomes where strays can spawn (spiders cannot naturally spawn in snowy plains) have a 1% chance to spawn as a spider jockey, with an 80% chance of the rider being a stray. , stray spider jockeys cannot spawn naturally, but the skeleton rider can convert into a stray and continue as a stray spider jockey.
+
+Drops
+On death
+
+Any picked-up equipment has a 100% chance of dropping and drops with the same damage level it had when picked up.
+Any naturally spawned equipment, including the bow, has an 8.5% chance of dropping (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It is damaged and may be enchanted.
+experience orbs when killed by a player or tamed wolf and an extra  if the stray has armor.
+
+Behavior
+Strays behave the same as normal skeletons but make noises with an echoing effect and shoot tipped arrows that inflict Slowness for 30 seconds on any target that they hit. , strays that are underwater use a melee attack that inflicts Slowness. Strays do not take damage from freezing in powder snow, but they are not immune to Slowness. A stray holding a tipped arrow or spectral arrow in its off-hand always shoots that type of arrow instead, and the arrow held is not consumed.
+
+Unlike frostbites, strays do not naturally have the ability to walk on powder snow, and must wear leather boots to do so.
+
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+Unable to swim in water, but do not drown.
+A threat to armadillos, causing them to hide in their shell.
+
+As they are also under the "skeletons" entity type tag, if a stray kills a creeper, the creeper drops a music disc, randomly selected from 13, cat, blocks, chirp, far, mall, mellohi, stal, strad, ward, 11, and wait.
+
+Like bogged and parched, the eyes of strays are emissive with Vibrant Visuals.
+
+Picking up items
+
+Some strays spawn with the ability to pick up dropped items from the ground. Unlike zombies, however, they pick up only weapons, shields, and armor. , strays pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+If the picked up item is a weapon (other than a bow), the stray uses the item as a melee weapon. Strays do not pick up spears under any circumstances. , strays prefer bows over other weapons, and do not pick up other weapons while wielding a bow. , the only weapon a stray will swap its held bow for is a sword. When picking up weapons, strays prefer ones that deal more damage without considering enchantments. They also prefer weapons with NBT data over those without, and weapons that are less damaged.
+
+If the picked up item is a shield, the stray equips the shield into their offhand. It cannot use the shield to block incoming attacks, however.
+
+If the picked up item is armor, a carved pumpkin or a head, the stray equips itself with the item. Strays prefer armor that give more armor points, and will replace their current armor with it. Strays pick up cosmetic wearables (heads and carved pumpkins) as long as they aren't wearing a helmet, and will replace the cosmetic wearable if they find a helmet.
+
+If a stray has equipment and picks up something they prefer more, the stray drops the old equipment, with the same chance as if killed with Looting I, in favor of the new one.
+
+A stray equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Strays have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Strays and other skeleton variants do not know how to use a crossbow, despite the same using method as a bow.
+According to the Minecraft website, the slowness arrows represent frozen arrows that freeze on impact.
+The stray's fourth ambient sound is the skeleton's second ambient sound but partly edited.
+
+Gallery
+Renders
+
+Screenshots
+
+Mojang images
+
+Developer images
+
+Textures
+
+In other media
+
+See also
+Skeleton
+Husk
+Bogged
+Parched
+
+References
+
+External links
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+
+de:Eiswanderer
+es:Errante
+fr:Vagabond
+it:Errante
+ja:ストレイ
+ko:스트레이
+lzh:流髑
+nl:Verdwaalde
+pl:Tułacz
+pt:Errante
+ru:Зимогор
+th:โครงกระดูกน้ำแข็ง
+uk:Примара
+zh:流浪者

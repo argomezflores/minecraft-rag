@@ -1,0 +1,138 @@
+TITLE: Bogged
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Bogged
+---
+A bogged is a mushroom-covered skeleton variant that spawns in swamps and mangrove swamps. Bogged behave similarly to skeletons, but have less health, fire their bows more slowly, take damage from powder snow, cannot convert to strays, and shoot tipped arrows of Poison.
+
+Spawning
+Bogged can spawn in swamps and mangrove swamps, replacing about 30% of skeletons, as well as in trial chambers via trial spawners.
+
+Natural spawning
+, they spawn in groups of four at a light level of 0 and can spawn both underground and above ground.
+
+, they spawn in groups of 1--2 at light levels 0 through 7, meaning they can spawn during the day in mangrove swamps where the overhead canopy is dense enough, but they cannot spawn underground.
+
+Trial spawners
+Bogged have a  chance to be selected as the "ranged" mob for trial spawners in trial chambers.
+
+Spider jockeys
+Spiders and cave spiders spawned in swamps and mangrove swamps have a 1% chance to spawn as a spider jockey, with an 80% chance of the rider being a bogged.
+
+Drops
+On death
+
+Naturally spawned equipment is damaged when dropped. An enchanted bow has an 8.5% chance of dropping if killed by the player or a tamed wolf (9.5% with Looting I, 10.5% with Looting II, and 11.5% with Looting III). The equipment list is identical to that of the base Skeleton.
+Bogged spawned from ominous trial spawners do not drop their armor on death.
+Picked-up items always drop and drop with the same damage level it had when picked up.
+experience orbs when killed by a player or a tamed wolf, and an extra  orbs for each piece of natural equipment that does not drop upon death.
+Because all bogged spawn with at least a bow, this means that an unarmored bogged drops  if it does not drop its bow upon death.
+
+Shearing
+A bogged drops 2 mushrooms when sheared. Each individual mushroom has an equal chance of dropping as either a brown or red mushroom. Afterward, it cannot be sheared again, and the mushrooms growing from its head are permanently removed from the bogged.
+
+Behavior
+thumb|A bogged aiming at a player.
+Bogged behave the same as normal skeletons and shoot tipped arrows that inflict Poison for 4 seconds (dealing  damage) on any target that they hit. When shooting their bow, bogged are just as fast as skeletons or strays, but bogged have a longer cooldown between attacks. The cooldown is 4.5/3.5 seconds on Easy and Normal difficulties, or 3.5/2.5 seconds on Hard. This is 1.5/0.5 seconds slower than the skeleton's attack cooldown. A bogged holding a tipped arrow or spectral arrow in its off-hand always shoots that type of arrow instead, and the arrow held is not consumed.
+
+Unlike regular skeletons, bogged in powder snow take freezing damage and do not convert into strays.
+
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+Unable to swim in water, but do not drown.
+A threat to armadillos, causing them to hide in their shell.
+
+As they are also under the "skeletons" entity type tag, if a bogged kills a creeper, the creeper drops a music disc, randomly selected from 13, cat, blocks, chirp, far, mall, mellohi, stal, strad, ward, 11, and wait.
+
+The eyes of bogged are emissive with Vibrant Visuals, similar to strays and parched.
+
+Picking up items
+
+Some bogged spawn with the ability to pick up dropped items from the ground. Unlike zombies, however, they pick up only weapons, shields, and armor. , bogged pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+If the picked up item is a weapon (other than a bow), the bogged uses the item as a melee weapon. Bogged do not pick up spears under any circumstances. , bogged prefer bows over other weapons, and do not pick up other weapons while wielding a bow. , the only weapon a bogged will swap its held bow for is a sword. When picking up weapons, bogged prefer ones that deal more damage without considering enchantments. They also prefer weapons with NBT data over those without, and weapons that are less damaged.
+
+If the picked up item is a shield, the bogged equips the shield into their offhand. It cannot use the shield to block incoming attacks, however.
+
+If the picked up item is armor, a carved pumpkin or a head, the bogged equips itself with the item. Bogged prefer armor that give more armor points, and will replace their current armor with it. Bogged pick up cosmetic wearables (heads and carved pumpkins) as long as they aren't wearing a helmet, and will replace the cosmetic wearable if they find a helmet.
+
+If a bogged has equipment and picks up something they prefer more, the bogged drops the old equipment, with the same chance as if killed with Looting I, in favor of the new one.
+
+A bogged equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Bogged have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, human corpses can become mummified within peat bogs, with levels of preservation varying from perfect to just the skeletons. These are referred to as .
+
+Gallery
+Renders
+
+Screenshots
+
+Before 24w09a
+
+Mojang screenshots
+
+Development renders
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+
+de:Sumpfskelett
+es:Ciénago
+fr:Embourbé
+it:Paludoso
+ja:ボグド
+ko:보그드
+lzh:濘髑
+pl:Bagniak
+pt:Pantanoso
+ru:Болотник
+uk:Болотяник
+zh:沼骸

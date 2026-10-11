@@ -1,0 +1,83 @@
+TITLE: Savanna
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Savanna
+---
+The savanna is an arid grassland biome, featuring scattered acacia and oak trees. It is populated by warm animal variants, llamas, and armadillos. Villages made of acacia wood are common.
+
+Generation
+Savannas generate at moderately high temperatures and low humidity. They commonly border plains, forests, deserts, badlands, and mangrove swamps. They can generate close to jungles but never border them directly. When the temperature moderates, the landscape can transition into sunflower plains and flower forests.
+
+Savannas can generate across many types of terrain, but on steep or elevated ground, such as plateaus and mountain slopes, they are usually replaced by savanna plateaus, which may rise further into stony peaks. However, savannas sometimes border stony peaks directly. Near areas of high erosion or swampland, windswept savannas may generate instead.
+
+Description
+Acacias and small oaks are the two types of trees that grow here. As the savannas have arid climates, it never rains here and thus lightning can never naturally strike; however, mobs can still spawn during dry thunderstorms. Grass and leaves in the savanna take on an olive-green color, giving an impression of dryness.
+
+The savanna is mostly flat with vast amounts of tall grass covering the surface. Dandelions and poppies are twice as common as in most other biomes. Villages generates in savannas, consisting mainly of terracotta, acacia logs, and planks. Pillager outposts may generate as well. Abandoned camps sometimes generate in savannas.
+
+Farm animals spawn with their warm variants in savannas. Armadillos, donkeys, and horses can also spawn, as well as zombie horsemen during nighttime. Savannas are one of the few biomes where llamas can spawn.
+
+With Vibrant Visuals, savannas use warmish color grading that tints the environment more orange/yellow. The night sky is slightly brighter and moonlight appears more vibrant blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a savanna:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+Notes
+
+External links
+
+Navigation
+
+de:Savanne
+es:Sabana
+fr:Savane
+it:Savana
+ja:サバンナ
+ko:사바나
+lzh:莽原
+pl:Sawanna
+pt:Savana
+ru:Саванна
+uk:Савана
+zh:热带草原

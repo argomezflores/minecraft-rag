@@ -1,0 +1,82 @@
+TITLE: Dark Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Dark_Forest
+---
+A dark forest or roofed forest is a forested biome with dense leaf canopies that block sunlight, allowing hostile mobs to spawn and hide from the sun during daytime. Dark forests are one of the two biomes that woodland mansions can generate in.
+
+Generation
+Dark forests generate at moderate temperatures with very high humidity and are usually bordered by birch forests, but they can also border jungles, bamboo jungles, windswept forests, and old growth taigas.
+
+Less commonly, they border swamps or groves. Dark forests can generate in a wide variety of terrains, including flatlands, plateaus, coasts, cliffs, or mountain valleys. Plateaus and mountain slopes in dark forests are often replaced by the pale garden variant.
+
+Dark forests are one of the only biomes that can never border biomes with villages, though taigas or meadows may generate close.
+
+Because of their high humidities, lush caves frequently generate beneath dark forests.
+
+Description
+Dark forests feature a much higher density of trees compared to other forest biomes, which oftentimes blocks direct view of the sky entirely. Oak, dark oak, and sometimes birch trees generate in these biomes, with leaf litter covering the ground. Bee nests are not generated with trees. Additionally, both types of huge mushrooms generate among the trees, though the red variants are more common. Unlike regular forests, wolves do not spawn in dark forests.
+
+Unique to dark forests are woodland mansions, enormous dungeon-like structures that rarely generate within the trees. Woodland mansions are home to the dangerous evoker and vindicator mobs and are one of the only places where said mobs spawn. Mansions contain many rooms and valuable loot.
+
+The dark forest has a unique darker sky color and atmospheric effects with Vibrant Visuals. Sunlight is also less bright, and volumetric fog is slightly denser with stronger light shafts.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the dark forest:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Dunkler Wald
+es:Bosque oscuro
+fr:Forêt sombre
+it:Selva oscura
+ja:暗い森
+ko:어두운 숲
+lzh:黯林
+pt:Floresta escura
+ru:Тёмный лес
+uk:Темний ліс
+zh:黑森林

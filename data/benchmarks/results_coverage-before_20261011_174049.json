@@ -1,0 +1,248 @@
+{
+  "version": "coverage-before",
+  "timestamp": "20261011_174049",
+  "format": "full",
+  "eval_set": "C:\\Users\\Rogelio\\AppData\\Local\\Temp/claude/c--Users-Rogelio-Desktop-Claude-Personal/cd04129f-8617-4a69-a598-a1ffd484a6ec/scratchpad/unseen.json",
+  "summary": {
+    "total_queries": 6,
+    "source_hit_rate": 0.167,
+    "source_hits": 1,
+    "source_hit_rate_top5": 0.333,
+    "answer_hit_avg": 0.75,
+    "false_abstentions": 1,
+    "latency_p50_ms": 6560,
+    "latency_p95_ms": 8194,
+    "errors": 0
+  },
+  "total_queries_in_log": 35,
+  "backfill_count": 10,
+  "log_added_count": 0,
+  "results": [
+    {
+      "question": "¿Cómo derroto al Ender Dragon?",
+      "format": "full",
+      "tags": [
+        "mobs",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": true,
+      "expected_source": "Ender Dragon",
+      "top_source": "Boss",
+      "top_score": 0.998,
+      "source_hit": false,
+      "expected_answer_contains": [
+        "End Crystal"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Según la wiki, el Ender Dragon tiene cuatro métodos de ataque que debes evitar:\n\n1. **Melee/Carga**: Ataca si estás cerca de su cabeza o cargando contra ti (daño varía según dificultad)\n2. **Alas**: Causan daño y knockback masivo si chocas con ellas, especialmente cuando está posado\n3. **Dragon's Breath**: Lanza nubes persistentes que dañan cada segundo si estás dentro\n\n**Dato clave**: El Ender Dragon es **inmune a critical hits y a todos los efectos de estado**. No tiene reducción de daño especial en la cabeza, así que atacar ahí no da ventaja extra. [1][4]\n\nLa wiki menciona que ataca menos si lo golpeas suficiente mientras está posado, interrumpiendo su ciclo. [1]\n\n**Nota**: El contexto no incluye estrategias completas de combate, equipamiento recomendado ni mecánicas de los End Crystals durante la pelea.",
+      "rewrites": [
+        "¿Cómo derroto al Ender Dragon?",
+        "How do I defeat the Ender Dragon?",
+        "Ender Dragon boss fight strategy",
+        "How to kill the Ender Dragon combat guide"
+      ],
+      "latency_ms": 13222,
+      "n_candidates": 34,
+      "sources_titles": [
+        "Boss",
+        "Transportation",
+        "Boss",
+        "Boss",
+        "Heads-up display"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué hace un creeper?",
+      "format": "full",
+      "tags": [
+        "mobs",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": true,
+      "expected_source": "Creeper",
+      "top_source": "Creeper Head",
+      "top_score": 0.992,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "explo"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Según el contexto proporcionado de la wiki, **no tengo información sobre qué hace un Creeper** (sus comportamientos, ataques, explosiones, etc.). \n\nLos fragmentos solo describen el **Creeper Head** (cabeza decorativa) y el **Creeper Charge Banner Pattern** (patrón para estandartes), pero no explican las acciones o mecánicas del mob en sí.\n\nPara esa información, necesitarías consultar el artículo principal del Creeper en la wiki.",
+      "rewrites": [
+        "¿Qué hace un creeper?",
+        "What does a Creeper do?",
+        "Creeper behavior mechanics",
+        "How does a Creeper explode and damage blocks?"
+      ],
+      "latency_ms": 5913,
+      "n_candidates": 55,
+      "sources_titles": [
+        "Creeper Head",
+        "Creeper Head",
+        "Creeper Head",
+        "Creeper Charge Banner Pattern",
+        "Creeper Head"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo invoco al Wither?",
+      "format": "full",
+      "tags": [
+        "mobs",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Wither",
+      "top_source": "Dispenser",
+      "top_score": 0.996,
+      "source_hit": false,
+      "expected_answer_contains": [
+        "Wither Skeleton Skull",
+        "Soul Sand"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 0.5,
+      "answer": "Según el contexto de la wiki, no hay información específica sobre cómo invocar al Wither. Solo se menciona que:\n\n- Los Dispensers pueden colocar Wither Skeleton Skulls si hay bloques requeridos disponibles [1]\n- En dificultad Peaceful, los Dispensers NO pueden colocar Wither Skeleton Skulls aunque los bloques estén listos [3]\n- La colocación de Wither Skulls falla bajo el agua [1]\n\nLa wiki no proporciona la estructura exacta ni materiales necesarios para invocarlo. Revisa el link de la fuente original para más detalles.",
+      "rewrites": [
+        "¿Cómo invoco al Wither?",
+        "How do I summon the Wither?",
+        "Wither summoning spawn requirements",
+        "Wither boss spawn mechanics and ritual"
+      ],
+      "latency_ms": 6495,
+      "n_candidates": 58,
+      "sources_titles": [
+        "Dispenser",
+        "Boss",
+        "Difficulty",
+        "Boss",
+        "Boss"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué encuentro en una fortaleza del Nether?",
+      "format": "full",
+      "tags": [
+        "structures",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Nether Fortress",
+      "top_source": "Non-renewable resource",
+      "top_score": 0.991,
+      "source_hit": false,
+      "expected_answer_contains": [
+        "Blaze",
+        "Nether Wart"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "En una **Nether fortress** (fortaleza del Nether) encuentras:\n\n**Bloques/Estructuras:**\n- **Nether Bricks** (ladrillos del Nether) formando paredes y pilares [2]\n- **Nether Brick Fence** (vallas) en ventanas, balcones y rastrillos [3]\n- **Nether Wart** (verrugas del Nether) creciendo en jardines de Soul Sand alrededor de escaleras [5]\n\n**Mobs que spawnean:**\n- Skeletons, Wither Skeletons, Magma Cubes, Zombified Piglins y Blazes [4]\n\n**Cofres con:**\n- Rib armor trim smithing template [1]\n\n[1][2][3][4][5]",
+      "rewrites": [
+        "¿Qué encuentro en una fortaleza del Nether?",
+        "What can I find in a Nether Fortress?",
+        "Nether Fortress contents loot structures",
+        "What mobs and items spawn in Nether Fortresses"
+      ],
+      "latency_ms": 6613,
+      "n_candidates": 53,
+      "sources_titles": [
+        "Non-renewable resource",
+        "Nether Bricks",
+        "Nether Brick Fence",
+        "Mob spawning",
+        "Nether Wart"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo llego al End?",
+      "format": "full",
+      "tags": [
+        "dimensions",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": true,
+      "expected_source": [
+        "The End",
+        "End Portal",
+        "Stronghold",
+        "Eye of Ender"
+      ],
+      "top_source": "End Gateway (block)",
+      "top_score": 0.876,
+      "source_hit": false,
+      "expected_answer_contains": [
+        "Eye of Ender"
+      ],
+      "answer_hits": 0,
+      "answer_hit_ratio": 0.0,
+      "answer": "Según la wiki, los bloques de \"End portal\" te teletransportan entre el Overworld y el End cuando los tocas [3][5]. Sin embargo, **la wiki no explica cómo construir o activar un End portal en modo Survival normal**.\n\nSolo menciona que se pueden colocar con comandos como `/setblock` o `/fill`, o construyéndolos con cheats/Creative activado [2][4][5]. \n\n**Para el proceso completo en Survival (buscar la fortaleza, usar Eyes of Ender, etc.), esa información no está en estos fragmentos de la wiki.** Revisa la página completa del \"End portal\" en la Minecraft Wiki oficial.",
+      "rewrites": [
+        "¿Cómo llego al End?",
+        "How do I get to the End?",
+        "End dimension access travel",
+        "How to reach the End dimension and find a Stronghold"
+      ],
+      "latency_ms": 8194,
+      "n_candidates": 55,
+      "sources_titles": [
+        "End Gateway (block)",
+        "End portal",
+        "End portal",
+        "End Portal (block)",
+        "End Portal (block)"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué mob peligroso vive en el Deep Dark?",
+      "format": "full",
+      "tags": [
+        "biomes",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": [
+        "Deep Dark",
+        "Warden"
+      ],
+      "top_source": "Mob",
+      "top_score": 0.327,
+      "source_hit": false,
+      "expected_answer_contains": [
+        "Warden"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Según la wiki, en el bioma Deep Dark se menciona que hay **sculk shriekers** que pueden invocar directamente a un **warden**. Sin embargo, el contexto también aclara que \"no mobs spawn here from the natural spawn cycle\" (ningún mob aparece naturalmente del ciclo de spawn normal en este bioma).\n\nPor lo tanto, el mob peligroso asociado al Deep Dark es el **Warden**, pero solo aparece cuando es invocado por un sculk shrieker, no de forma natural. [3]",
+      "rewrites": [
+        "¿Qué mob peligroso vive en el Deep Dark?",
+        "What dangerous mob lives in the Deep Dark?",
+        "Deep Dark dangerous mob",
+        "What hostile mob spawns in Deep Dark biome"
+      ],
+      "latency_ms": 6507,
+      "n_candidates": 55,
+      "sources_titles": [
+        "Mob",
+        "Mob",
+        "Biome",
+        "Biome",
+        "Biome"
+      ],
+      "error": null
+    }
+  ]
+}

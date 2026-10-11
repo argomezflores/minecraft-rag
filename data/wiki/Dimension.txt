@@ -1,0 +1,115 @@
+TITLE: Dimension
+CATEGORY: Dimensions
+URL: https://minecraft.wiki/w/Dimension
+---
+thumb|width=360x360|A showcase of the four dimensions, including the upcoming Sift
+Dimensions are parallel worlds within a Minecraft world characterized by a way of generation, biomes and structures, and other things unique to one dimension. Each dimension is its own separate 3D space, not affecting other dimensions. Players can explore and discover various dimensions in Minecraft, typically through the use of portals. Content creators can also make custom dimensions to explore in Minecraft.
+
+The daylight cycle and weather may work differently or not exist in different dimensions, as well as respawn points (such as beds and respawn anchors).
+
+There are currently three dimensions in the game: the Overworld, the Nether, and the End. A fourth dimension, the Sift, is planned to be added in 2027.
+
+Overworld
+
+thumb|Different grassland biomes and water bodies in the Overworld
+The Overworld is the primary dimension in Minecraft. It has a wide variety of unique biomes to explore, and is easily the most diverse of the dimensions. Players typically spend most of their time in this dimension.
+
+Unique features of the Overworld include:
+
+Surface and underground biomes
+Oceans containing water
+The most amount of ores
+Many naturally generated structures
+The most types of mobs
+A daylight cycle
+Weather
+Sleeping in a bed skips the night and sets spawn point (explodes when used in other dimensions)
+Sky features and atmospherics
+A larger vertical height of 384 blocks
+
+The Nether
+
+thumb|A crimson forest and warped forest seperated by the lava sea in the Nether
+The Nether is a hot dimension where lava flows equivalent to water's flow characteristics. It is so hot that water evaporates and wet sponges dry out the instant they are . The ground mainly consists of netherrack, but soul sand covers the surface of soul sand valleys, and the basalt deltas consist of basalt and blackstone. A player can go to the Nether by entering a Nether portal in the Overworld. In most biomes, hostile mobs spawn and attack players, although in the warped forest only endermen spawn who don't attack players unless provoked.
+
+Unique features of the Nether include:
+
+Using a respawn anchor sets spawn point and consumes a charge should death occur (explodes when used in other dimensions).
+Oceans containing lava
+1 block pockets of lava
+Cave-like terrain
+Nether quartz ore, Nether gold ore, and ancient debris
+A ceiling and floor of bedrock
+Huge fungi in the crimson forests and warped forests
+Fog color shifts for certain biomes
+Piglins to barter with
+Bastion remnants guarded by piglin brutes
+Nether fortresses guarded by wither skeletons and blazes
+One block travel in the Nether is 8 blocks in the Overworld
+
+The End
+
+thumb|The central island in the End
+The End is a space-like dimension with floating End stone islands, accessible with an End portal in a stronghold. In its center, there is a large lone island on which the ender dragon fight takes place; the outer islands are about a thousand blocks of void away from it. The End is a barren environment, but it is the place where some of the most unique and useful items in the game can be obtained, such as the elytra or shulker boxes.
+
+Unique features of the End include:
+
+Floating islands with access to the void
+End crystals igniting the block upon which they're placed on fire
+End flashes and a black pixel sky
+End cities guarded by shulkers
+End gateways to access the outer islands
+One of the main bosses in the game, the ender dragon
+
+The Sift
+
+thumb|The Sift as shown in Minecraft LIVE – September 2026
+The Sift is an upcoming dimension featuring the blub mob. It was originally added to Minecraft Dungeons II and will be added to Minecraft in 2027.
+
+Custom dimensions
+thumb|An example of a custom dimension with modified colors and calcite instead of stone
+
+Using data packs, it is possible to create custom dimensions and dimension types that have different biomes, world generation and properties from the regular dimensions.
+
+Using add-ons, it is possible to create custom dimensions however, there is no world generation other than scripting. Each custom dimension is similar to an Overworld void world generation, with same height limit.
+
+Unimplemented dimensions
+thumb|A view of the unimplemented Sky Dimension
+Sky Dimension
+
+The sky dimension was a scrapped dimension that would have contained floating land masses and was planned to be added in the Adventure Update. Eventually, the code for the sky dimension was repurposed for The End instead.
+
+Dream Dimension
+
+In a Twitch livestream, the developers briefly mentioned the idea of a "dream dimension" that would be exclusive to Pocket Edition.
+
+History
+
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Mojang images
+
+References
+
+Navigation
+
+cs:Dimenze
+de:Dimension
+es:Dimensión
+fr:Dimension
+it:Dimensione
+ja:ディメンション
+pt:Dimensão
+uk:Вимір
+zh:维度

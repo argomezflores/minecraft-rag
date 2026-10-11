@@ -1,0 +1,133 @@
+TITLE: Dimension definition
+CATEGORY: Dimensions
+URL: https://minecraft.wiki/w/Dimension_definition
+---
+thumb|300px|A custom dimension using a custom type, a fixed plains biome, and the minecraft:floating_islands noise settings
+
+Dimensions are JSON files located in data packs  and in behavior packs . They define new dimensions for the game. New dimensions added can be accessed by using commands, like .
+
+Usage
+
+Java Edition
+
+Dimensions are stored as JSON files within a data pack, at the path data/<namespace>/dimension/<name>.json. Alternatively, a world preset can be used to define all dimensions in a world. Dimensions stored separately override the dimension set in the selected world preset. This allows datapacks to only override a single dimension while keeping the other dimensions untouched. However, the user-selected world preset then doesn't have an impact on the given dimension.
+
+The dimension definitions for the three default dimensions are not present in the dimensions file in vanilla data pack, they are present in the world preset.
+
+Bedrock Edition
+
+Dimensions are stored as JSON files within a behavior pack, at the path <root BP>/dimension/<name>.json.
+
+Dimensions can also be created by scripts using the  method, although this is not required. If the same dimension is created using both methods, it will be overridden by the behavior pack JSON definition, and a content warning will be logged.
+
+JSON format
+
+Java Edition
+
+When stored as separate dimensions, they follow the following syntax:
+The root tag.
+: . Can be preset overworld, the_nether, the_end, overworld_caves, or a custom dimension type
+: Generation settings used for that dimension.
+: The generator type as resource location. One of noise, flat, or debug.
+Additional fields of the generator, described below.
+
+Bedrock Edition
+
+: The root object.
+
+: A dimension definition.
+
+: A namespaced identifier for the dimension. If this matches the identifier of a dimension registered by script, this definition will take priority.
+: Components that define the properties of the dimension.
+: Defines if and where clouds will be in the dimension. Omitting this component will result in the dimension not having clouds.
+: Determines the height at which clouds will appear in the dimension. Must be a number between -512 and 512.
+: Defines the default biome used in the dimension.
+: The identifier of the biome to make default.
+: Defines the height range of the dimension.
+: The bottom y-value of the dimension. Must be a number between -512 and 512.
+: The height range (distance between the bottom and top of the dimension). Must be a number between 16 and 1024. Must be a multiple of 16. The sum of  and this value must not be greater than 512.
+: Required. Defines how the dimension generates.
+: The generator type to use for this dimension. Currently only  is supported.
+
+Generator types
+
+void
+
+Has no terrain generation. This generator has no additional fields.
+
+debug
+
+The generator type used when selecting debug mode in the world creation menu. This generator has no additional fields.
+
+flat
+
+The generator type used for superflat worlds.
+Additional fields:
+: Superflat settings.
+
+noise
+
+The generator used in all the default dimensions.
+Additional fields:
+:  — Settings for the noise generator.
+: Settings determining the biome layout.
+: The biome source type as a resource location.
+Additional fields of the biome source, described below.
+
+Biome sources
+
+checkerboard
+The checkerboard biome source places biomes in a checkerboard pattern.
+Additional fields:
+: . The biomes to be selected. The n-th biome in the list is used for all cells where , where  is the list size and  and  are the cell coordinates (chunk pos × 2^).
+: Optional. Value between 0 and 62 that defaults to 2. Determines the size of the checkerboard grid. A scale of 0 means each cell of the grid is one chunk wide. Doubles each time the scale increases.
+
+fixed
+The fixed biome source, also called single biome, uses one specified biome everywhere.
+Additional fields:
+:  — The single biome to use.
+
+multi_noise
+
+A biome source that depends on multiple parameters defined in the noise router. Each biome is defined within a 4×4×4 cube based on the noise values at its edges.
+
+Additional fields:
+: A reference to a parameter list. The default parameter lists are overworld and nether.
+Or:
+: List of biome parameters points. Needs at least one entry. Biomes can appear in more than one parameter point.
+: A parameter point.
+:  — The biome used at this parameter point.
+: The parameters of this entry
+
+the_end
+The biome source used for the End dimension. This biome source has no additional fields.
+
+Biomes are calculated based on each chunk for the x and z axes, and every 4 blocks for the y-axis.
+If the distance from the chunk edges to the origin is 1024 or less, the end biome is assigned.
+Otherwise, the biome is determined based on the erosion value (defined in noise router) calculated at the center of the chunk and the y-coordinate.
+Erosion (e) Biome N/A  e >    ≥ e ≥ −   − > e ≥ −  e < −
+
+Multi noise parameter list
+
+A multi-noise biome source parameter list is stored as JSON files within a data pack, at the path data/<namespace>/worldgen/multi_noise_biome_source_parameter_list/<name>.json. It is used to avoid changing world preset files when adding new biomes to experimental data packs.
+
+The syntax is as follows:
+: A reference to a hardcoded parameter list preset. The available presets are overworld and nether.
+
+History
+Java Edition
+
+Bedrock Edition
+
+External links
+Dimension Generator on misode.github.io
+
+Navigation
+
+Category:Dimensions
+
+de:Dimensionsdefinition
+fr:Définition de dimension
+ja:カスタムディメンション
+pt:Definição de dimensão
+zh:维度定义格式

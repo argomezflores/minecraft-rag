@@ -1,0 +1,119 @@
+TITLE: Mountains
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Mountains
+---
+thumb|Various mountain biomes as seen from a jungle.
+Mountains are terrain forms with elevated and jagged terrain, containing unique biomes and terrain characteristics.
+
+Description
+Typical mountain terrain generates before biome placement in the world generation. The highest peaks, usually passing the cloud height, are generated in areas with very low erosion values, and mountains can cover larger areas further inland. Smoother mountain peaks can generate at slightly higher erosion values, and at medium erosion values they are replaced with flat, elevated plateaus. When mountainous areas border oceans, the surrounding land is cut off by large stone cliffs, exposing many caves inside. Mountainous terrain at high continentalness replaces rivers with middle biomes, often in deep valleys surrounded by tall peaks. Rivers that do generate close to mountains are much deeper and the surrounding terrain is very steep, resembling fjords.
+
+Mountain peaks, but also plateaus, often generate in circles of a single peak range, with enclosed valleys with medium biomes inside. When peaks generate without circles at lower erosion values, they cover an area large enough to reach the maximum generation of Y=256, where they are cut off and form plateaus. At higher erosion, they usually form single peaks or longer ranges surrounded by various valleys. All mountain peaks have very steep and jagged terrain, exposing stone, caves, and various ores, but they rarely generate floating islands.
+
+There are six biomes that can generate on the tallest mountain peaks, and there are other biomes that typically generate on the slopes or plateaus near mountains. All peaks can generate pillager outposts and some of these biomes are the only places where goats can spawn in the game. Just like the windswept hills, windswept gravelly hills, and windswept forest, emerald ores can be found in mountain biomes, especially at higher altitudes, and both coal and iron ores are commonly found in the mountains. Underground, below the sea level, infested block blobs naturally generate in mountain biomes. The only surface features in mountain peaks are calcite strips in stony peaks and oak trees in wooded badlands, but other structures and features are commonly found in neighboring slopes and plateaus.
+
+Cave biome generation is also affected by mountain generation, with deep dark generating deep below the biggest mountain terrain at low erosion, and dripstone caves above the deep dark, or surrounding the mountainous terrain at higher continentalness values. Lush caves can sometimes also generate below mountains where other cave biomes do not generate.
+
+Most temperate and cold peak biomes and slopes have lower temperatures to allow snowfall at any height. Other cold but rainy biomes such as old growth taigas and meadows, however, may reach high enough elevations close to mountains to allow snowfall on the surface as well. The warmer stony peaks only have rainfall and badlands do not have precipitation at all. Exposed dripstone caves in elevated mountain terrain are also covered with snow in Bedrock Edition, even in warm or dry biomes, or on grassy slopes.
+
+Biomes
+There are seven biomes unique to mountains.
+
+Slopes
+These are the biomes that only generate on the slopes of mountains or standalone as plateaus. They usually generate in high altitudes beneath the peaks and hilltops, with groves and snowy slopes generating above meadows and cherry groves. These biomes only generate in snowy, cold, or medium temperature zones.
+
+Some of these biomes can be replaced by other biomes in specific conditions:
+In cold areas and medium areas with high humidity, forested biomes such as forests, taigas, old growth taigas, and birch forests can generate on the slopes and plateaus, replacing meadows and cherry groves.
+In warm temperature zones, forests, jungles, and savanna plateaus replace them as well as groves and snowy slopes.
+All biomes are replaced by badlands in dry temperature zones.
+Savanna plateaus and pale gardens are exclusive to plateaus and slopes.
+thumb|Meadow
+
+Meadow
+
+The meadow is a grassy biome filled with a specific type of flowers defined by the flower gradient, along with wildflowers and turquoise-green grass and tall grass, where sheep, donkeys and rabbits spawn. All small flowers generate except blue orchids, tulips, lilies of the valley, eyeblossoms, or wither roses. Rarely, a lone oak or birch tree of any size can generate and always has a bee nest. Both pillager outposts and plains villages can generate in this biome, making this the only mountain biome where villages can generate. , unlike most overworld biomes, sugar canes and pumpkin patches cannot generate here. This biome can generate on both mountain slopes and plateaus, mainly next to plains, but also various forested biomes. It is separated from cherry groves by rivers.
+thumb|Cherry grove
+
+Cherry grove
+
+Cherry groves are similar to meadows, but featuring pink petals and cherry trees identified by their striking pink leaves that drop petal particles. The cherry trees can generate densely enough create a cover of leaves. Bee nests with bees generate somewhat commonly on the side of the cherry trees. Cherry groves are mainly next to plains and separated from meadows by rivers.
+thumb|Grove
+
+Grove
+
+The grove creates a forest of spruce trees on the sides of a mountain, reminiscent of a snowy taiga but the surface is covered with snow layers, snow blocks, dirt and strips of powder snow instead of grass blocks. Rabbits, snowy wolves and snow foxes can spawn in this biome. This biome generates next to all other slope biomes, and temperate, cold, and snowy forested biomes as well as snowy slopes. In snowy areas with low erosion, groves typically cover entire climate zones stretching over thousands of blocks, whereas they are very small in other temperature zones.
+thumb|Snowy slopes
+
+Snowy slopes
+
+The snowy slopes is almost the same as grove except that no trees generate, making it similar to snowy plains. It is a mostly barren biome covered in snow, multiple layers of snow blocks and strips of powder snow, with steep sides to the north or east also having stone cliffs covered with snow layers. Goats spawn in this biome alongside rabbits and polar bears. This is the only mountain biome where igloos can generate. This biome generates similarly to groves but in lower humidity areas next to snowy plains, ice spikes, plains, sunflower plains, and flower forests. Like groves, they can cover thousands of blocks in snowy climate zones with low erosion.
+
+Peaks
+There are six peak biomes that generate in areas with low erosion, high PV value, and high continentalness value, which means they generate only at the tops of the mountains that are tall enough to generate them. Biomes generated on peaks cannot border any other biomes than the slopes listed above. Jagged peaks and frozen peaks often generate on the peaks on different sides of large valleys.
+thumb|Jagged peaks
+
+Jagged peaks
+
+The jagged peaks biome is more likely to generate in taller and more jagged and pointy peaks that often pass the clouds and can peak at Y=256. Goats spawn in this biome, and , rabbits and polar bears also spawn here. Jagged peaks generate in temperate, cold, and snowy biome temperature ranges.
+thumb|Frozen peaks
+
+Frozen peaks
+
+The frozen peaks are covered by snow, snow blocks, with glaciers of packed ice and occasional small blobs of ice. Packed ice cliffs can generate in steep sides to the east or north with only a layer of snow covering them. Because this biome generates in positive weirdness, this biome usually generates in smaller and smoother hills, but it can also generate on taller and more jagged and pointy peaks but less compared to the jagged peaks biome. Frozen peaks generate in temperate, cold, and snowy biome temperature ranges.
+thumb|Stony peaks
+
+Stony peaks
+
+The stony peaks are a warmer variation of both the jagged peaks and the frozen peaks biomes that generates when a mountain peak is in the lukewarm biome temperature range. It generates in savannas, some forests, some plains, and jungles, and it doesn't generate snowy slopes, groves, meadows or cherry groves in the slopes of the mountain, instead, savanna plateaus, forests, and jungles often generate around it. It is mainly covered by stone with large strips of calcite and exposed ores. Stony peaks are the second rarest Overworld biome, making up around 0.1% of the Overworld by area.
+thumb|Wooded badlands in mountain peaks
+
+Badlands
+All types of badlands replace other peak biomes in warm temperature zones. This occurs when badlands and all variants generate on very low erosion. Like other peak biomes, they can generate up to Y=256.
+
+Unlike true mountain biomes, emerald ore does not generate here.
+
+At higher elevations, the stained terracotta layers generate as usual and more different colors are visible because of the steep cliffs. Eroded badlands don't generate their hoodoos at the mountain peaks, making them indistinctable from regular badlands. Wooded badlands generate with coarse dirt, leaf litter and oak trees, making this the highest biome with trees, which may peak up to Y=263. Because badlands also generate as slope and plateau biomes, the highest mountain peaks are often isolated from other biomes. They can sometimes border stony peaks, and the lower parts can also border rivers, deserts, and lukewarm biomes.
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Berge
+es:Montañas
+fr:Montagnes
+ja:山岳
+ko:산
+lzh:山
+pl:Góry
+pt:Montanhas
+ru:Горы
+uk:Гори
+zh:山地

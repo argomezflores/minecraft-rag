@@ -1,0 +1,92 @@
+TITLE: Lush Caves
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Lush_Caves
+---
+Lush caves are vibrant cave biomes with unique vegetation, indicated above ground by azalea trees. Aquatic mobs such as glow squid and tropical fish spawn here. It is also the only biome where axolotls spawn.
+
+Generation
+Lush caves generate underground, typically in areas with high humidity values. This makes lush cave generation very common beneath humid biomes including dark forests, bamboo jungles, and old growth taigas, and to a lesser extent taigas, jungles, and wooded badlands.
+
+Regions far inland generate lush caves less frequently due to the increased likelihood of dripstone caves generating instead. It is rare for lush caves to generate beneath forests and plains due to their lower humidity values.
+
+Lush caves sometimes generate beneath oceans and deserts, whose generation is independent of humidity values.
+
+Description
+Azalea trees generate on any empty space above a lush cave, with roots consisting of rooted dirt and hanging roots that generate down until reaching the lush cave. This is most common at the surface, but they can sometimes generate inside caves if there is enough room.
+
+Underground, moss covers the floors and ceilings, along with moss carpets, short grass, tall grass, and azalea bushes on the ground. On the ceiling, vines and cave vines with glow berries grow down and light up the caves, and spore blossoms grow from the ceiling and fill the caves with particles.
+
+Shallow lakes lined with clay generate between the moss on the ground, filled with dripleaf plants. Tropical fish and axolotls are unique to these pools, whereas common cave mobs like bats and glow squid can also spawn. While hostile mobs can spawn throughout the biome, many areas have a light level greater than 0 due to the pervasive glow berries.
+
+Stone and variants containing ores are sparsely exposed between the vegetation.
+
+Asides from the regular underground structures that can generate in all biomes, woodland mansions rarely generate on the surface above lush caves .
+
+In Bedrock Edition, lush caves are arid biomes with no rain and dry grass colors, although this is barely noticable underground.
+
+With Vibrant Visuals, lush caves biomes use a strong humid volumetric fog setting similar to jungles, which fades the distance in an orange tint. Lush caves have default atmospherics and lighting, and warmish color grading, which makes the biome look more humid and warm, while also notably increasing the color contrast.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in lush caves.
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+The Swedish painter  was one of the main inspirations behind the design and idea of the lush caves biome, specifically Bauer's 'Oskuldens Vandring' (Innocent's Journey) painting.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Minecraft: The Great Wild | Lush Caves — Minecraft on YouTube July 14, 2023
+
+Navigation
+
+de:Üppige Höhlen
+es:Cuevas frondosas
+fr:Cavernes luxuriantes
+it:Caverne rigogliose
+ja:繁茂した洞窟
+ko:무성한 동굴
+lzh:葳蕤窟
+pl:Bujne jaskinie
+pt:Cavernas verdejantes
+ru:Пышные пещеры
+uk:Зарослі печери
+zh:繁茂洞穴

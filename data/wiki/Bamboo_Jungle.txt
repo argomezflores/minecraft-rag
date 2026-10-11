@@ -1,0 +1,81 @@
+TITLE: Bamboo Jungle
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Bamboo_Jungle
+---
+A bamboo jungle is a variant of the jungle with dense bamboo growth and large jungle trees. Pandas are abundant in this biome.
+
+Generation
+The bamboo jungle generates in areas with moderately high temperatures and very high humidity. They usually generate when weirdness is positive.
+
+They typically border sparse jungles, dark forests, deserts, wooded badlands, and mangrove swamps. Rivers frequently separate jungles from bamboo jungles. At higher elevations they transition to regular jungles and stony peaks. In coastal areas, they generate near lukewarm oceans.
+
+Lush caves are very common below bamboo jungles due to their high humidities.
+
+Description
+Oaks, jungle trees, and jungle bushes are much sparser in this variant than in the regular jungle, but denser than in the sparse jungle. Jungle trees are always large 2×2 variants; thus cocoa beans from small jungle trees cannot be found here.
+
+Melon patches are as common as in regular variants. Some swaths of grass blocks are replaced with podzol with dense forests of bamboo generating on top. All jungle-exclusive mobs spawn here, and pandas have a higher spawn rate. Jungle pyramids may generate here .
+
+Abandoned camps sometimes generate in bamboo jungles.
+
+With Vibrant Visuals, bamboo jungles use a strong humid volumetric fog setting similar to jungles, which fades the distance in an orange tint. Bamboo jungles have warmish color grading, which makes the biome look more humid and warm. The night sky appears slightly brighter, and moonlight is colored more vibrant blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the bamboo jungle:
+
+Data values
+
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Bambusdschungel
+es:Jungla#Jungla_de_bambú
+fr:Jungle_de_bambous
+ja:ジャングル#竹林
+ko:정글#대나무_정글
+lzh:叢莽#竹林
+pt:Selva de bambu
+ru:Джунгли#Бамбуковые_джунгли
+uk:Бамбукові джунглі
+zh:竹林

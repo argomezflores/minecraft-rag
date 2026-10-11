@@ -1,0 +1,209 @@
+TITLE: Stronghold
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Stronghold
+---
+A stronghold is an underground structure in the Overworld, and is the only place where an End portal can be found. Strongholds can be located by using an eye of ender.
+
+Generation
+
+thumb|right|The End portal room
+
+Strongholds generate at any Y-level, mostly underground, but generate underwater if necessary. Strongholds may generate at bedrock level, cutting the bedrock.
+
+Most parts of the stronghold can be overwritten by caves, ocean monuments, ancient cities, mineshafts, fossils, amethyst geodes, trial chambers, and monster rooms; but it is rare for the End portal to be replaced, which would force a player to find one of the other strongholds, as a portal can be activated only with all 12 End portal frames present. Canyons do not overwrite strongholds; rather, a stronghold can occasionally be found exposed by a canyon.
+
+Bedrock Edition
+, strongholds generate randomly throughout the world and they are at least 160 blocks away from the world origin. There is no limit to the number of strongholds that can generate, unlike in Java Edition. There are 3 extra strongholds at least 453 blocks away from the world origin, which tend to be close to the 453-block boundary, and are guaranteed to generate below meeting points of a village. In rare cases, these 3 extra strongholds can be very far from the world origin, sometimes over 10,000 blocks away.
+
+Java Edition
+class=skin-invert-image|thumb|right|400px|Stronghold layout through the world
+, all strongholds are located at random coordinates within rings in all biomes, where each ring is a certain radius from the center of the world (X=0, Z=0). For a given ring, the strongholds are generated at roughly equal angles from the center point of the world (for instance, each stronghold in a ring of 3 is in the region of 120 degrees from the others, measured from the origin). The game does not generate a stronghold partially above ground; any portion above the sea level is replaced with air, leaving a cutaway. If a stronghold generates in an ocean, which occurs rarely, it typically generates with terrain covered above it. Strongholds are biased toward biomes in the  biome tag by searching horizontally for biomes in that tag (similar to the  command, except that also searches up and down) and moving the start of the stronghold to the location found this way.
+
+There are eight rings, containing 128 strongholds in total:
+The first ring has 3 strongholds within 1,280–2,816 blocks of the origin.
+The second ring has 6 strongholds within 4,352–5,888 blocks of the origin.
+The third ring has 10 strongholds within 7,424–8,960 blocks of the origin.
+The fourth ring has 15 strongholds within 10,496–12,032 blocks of the origin.
+The fifth ring has 21 strongholds within 13,568–15,104 blocks of the origin.
+The sixth ring has 28 strongholds within 16,640–18,176 blocks of the origin.
+The seventh ring has 36 strongholds within 19,712–21,248 blocks of the origin.
+The eighth and outermost ring has 9 strongholds within 22,784–24,320 blocks of the origin.
+The number of strongholds in each ring is the triangular number of the number one more than the ring number, except for the outermost ring, where 45 would be expected.
+
+The outermost ring has the further unusual property of putting the strongholds at angles of roughly 36° (not the expected 40°) as if there were to be ten equally spaced strongholds, like in the third ring. One of these ten does not generate, however, keeping the number at nine.
+
+Structure
+
+thumb|An isometric view of a stronghold in a superflat world.In superflat worlds, strongholds generate with the maximum number of rooms possible.
+
+Stronghold generation starts with a spiral staircase room that leads down to a five-way intersection. From there, additional rooms are randomly generated. The layout can extend up to 50 rooms away from the original room and within a horizontal radius of 112 blocks. If no portal room is generated during this process, the stronghold generation restarts.
+
+Blocks
+
+The distribution of stone brick variants is roughly as follows:
+: 45%
+: 30%
+: 20%
+: 5%
+Infested cracked stone bricks and infested mossy stone bricks do not naturally generate; they only appear when silverfish infest these blocks.
+
+Components
++ Pieces Name Description Blocks Image Straight This sub-structure consists of a corridor; it generates with an entrance and an exit on opposite sides, making it a 5 block long corridor. On each side, a side exit has a 50% chance to generate; if it does not, the corresponding side is sealed with a stone bricks wall.
+
+This sub-structure can also include up to 4 torches, each with a 10% chance to generate. They are placed hanging on the walls beside the potential side exits, regardless of whether the exits generate.
+
+The render on the side depicts the sub-structure with all the features generated. 94-112 For simplicity, this number assumes the rooms are composed solely of stone bricks. However, the actual composition is as follows:
+45%
+30%
+20%
+5% 0-4  200px Right turn These sub-structures are corridors with 90° turns. Both types have an equal chance of appearing. 80  200px Left turn Spiral staircase This sub-structure consists of a staircase, with its entrance at the top and its exit at the bottom.
+
+Between 0 and 5 spiral staircases can generate per stronghold, plus a starter staircase.
+
+When an eye of ender is thrown, it will fly toward chunk coordinates 0, ~, 0 of the chunk the start piece is in. The center of the starter staircase will always generate at chunk coordinates 4, ~, 4. The starter staircase will always generate with an opening as its entrance. 187 6  200px Start piece Straight staircase This sub-structure consists of a staircase, with its entrance at the top and its exit at the bottom.
+
+There is also an empty alcove under the stairs.
+
+Between 0 and 5 straight staircases can generate per stronghold. 275 18  200px Five-way crossing This room consists of a small atrium from which 2 to 6 paths can branch out:
+The first exit (1), located in front of the stairway, always generates, as it acts as the entrance to the room.
+The second exit (2), located down the stairway, always generates.
+The upper exit facing east or south (+x or +z) (4 or 5) has a  chance to generate.
+The remaining three exits each have an independent  chance to generate.
+
+This room can branch out to hidden rooms. If the room is rotated such that the player faces west or north (-x or -z) when entering it, a hidden room may try to generate. Hidden rooms always attempt to generate directly adjacent to indentations on the same wall; the attempt can sometimes fail meaning no hidden room generates.
+
+Between 0 and 4 five-way crossings can generate per stronghold. In addition to these, an extra five-way crossing always generates as part of the starting point of the structure. 536-572 36 1  200px Prison hall This room consists of a corridor with two cells located on one of its sides. , jail cells generate without iron doors.
+
+Between 0 and 5 prison halls can generate per stronghold. 300 20 2  200px Chest corridor This sub-structure consists in a chest on an altar in a corridor.
+
+Between 0 and 4 chest corridors can generate per stronghold. 115 7 1 This chest uses the altar chest loot. This loot is found in loot_tables/chests/stronghold_corridor. 200px Room crossing This large room consists of a cross junction; four exits (including the entrance) always generate.
+
+Large rooms come in 4 variants:
+Empty: has no decoration.
+Fountain: has a fountain.
+Pillar: has a stone brick pillar with torches.
+Store: has 2 floors, each 2 blocks high, with a cobblestone center structure joining the two and a torch housed within the structure; a ladder runs up the side wall, providing access to the second floor, which is a chamber made of oak planks and that contains a loot chest.
+
+Between 0 and 6 large rooms, regardless of variants, can generate per stronghold. 406  (all)Fountain:19 1 Pillar:3 8 4 Store:51 40 3 1 This chest uses the storeroom chest loot. This loot is found in loot_tables/chests/stronghold_crossing.1 Empty=
+200px
+|-|
+Fountain=
+200px
+|-|
+Pillar=
+200px
+|-|
+Store=
+200px Library
+
+Libraries come in 2 variants:
+Large: a duplex library containing 2 chests.
+Small: a single-level library containing 1 chest.
+
+Libraries generate in their small variant only when there isn't enough space for the large variant; otherwise, they always generate in their large variant.
+
+Each air block within 4 blocks above the ground (inclusive) has a 7% chance of being replaced by a cobweb upon generation.
+
+Between 0 and 2 libraries can generate per stronghold. Additionally, libraries can never generate within four rooms of the starting staircase. Large:895 233 166 46 14 7 2 This chest uses the library chest loot. This loot is found in loot_tables/chests/stronghold_library.0-417  (: 29)Small:627 161 32 8 1 0-422  (: 29)Large=
+200px
+|-|
+Small=
+200px Portal room The End portal room is the only room guaranteed to generate in a stronghold. It never generates within five rooms of the starting staircase, although it is less likely to generate farther away.
+
+Unlike all other rooms in the stronghold, it always generates with a complete outer wall, making it the only room that is consistently fully formed after generation.
+
+Each portal frame has a 10% chance to generate containing an eye of ender; the average number of portal frames found prefilled is 1.2. The chance of the portal being completely pre-filled is one in a trillion (1:1,000,000,000,000 or 10-12).
+
+Its entry door is always grates. 704 39 15 8 12 1  200px
+
++ Small doors Name Description Blocks Image OpeningSmall doors are the separating sub-structures that generate at the entrance of various rooms of strongholds. There are 4 types of door: the empty opening, the grates of iron bars, the wood door and the iron door.
+
+They are generated randomly, with each having an equal chance of appearing, except for the empty opening which is twice as likely to occur. The start piece will always generate an opening, and the portal room will always generate grates.
+
+In order to prevent two doors from generating directly adjacent to each other, they are generated only as room entrances.
+
+Wood and iron doors always face the direction in which the stronghold generates: a door that is flush with the wall always leads away from the starting staircase, while a door that is indented into the wall leads toward it. 9  100px Grates 7  100px Wood door 7 Unlike other rooms, this structure only generates with stone bricks. It does not include mossy stone bricks, cracked stone bricks, and infested stone bricks.1  100px Iron door 7 1 1  100px
+
++ Other Name Description Blocks Image Filler corridor Filler corridors, also known as dead-end corridors, are a special kind of sub-structure that generates when a normal stronghold room fails to generate, but the exit from where came the generation attempt is close enough to other parts of the stronghold. You can distinguish these from normal corridors by two details:
+they are composed of only normal stone bricks: no mossy, nor cracked, nor infested.
+their generation is always complete and cannot be overwritten by caves (like the portal room). This can result in them appearing like they are totally disconnected from the rest of the stronghold, if they are generated in caves.
+
+They consist of a vertical one-block wide ring of stone bricks, the same size as a normal corridor. For them to generate, the game checks for, in order:
+failed generation of rooms from exits;
+other parts of the stronghold that are 4 blocks or less away horizontally from the selected exit, and at the same y-level of the exit.
+When these criteria are met, it generates up to 3 filler corridors sub-structures, stacked horizontally on the same y-level, starting from the selected exit until it hits the other room's outer wall, in which in most cases makes a dent or an opening. In this way, the filler corridor is usually able to connects up near parts of the strongholds in order to form a denser network of passages.
+
+Unlike every other stronghold room, these pieces do not generate doors. 16-48
+
+Loot
+
+Altars
+
+Storerooms
+Storeroom chests are found in the "store" room variant of large rooms.
+
+Libraries
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+There are exactly 233 bookshelves in a large library, yielding 699 books if mined without Silk Touch, which is 10 stacks plus 59 left over.
+Along with some other older structures, strongholds do not generate with air inside them.
+As of Java Edition 1.16, all world seeds that have a pre-activated End portal in the first ring have been found.
+
+Gallery
+Screenshots
+
+Unique generation
+
+In other media
+
+Official artwork
+
+External links
+Building Blocks: Stronghold – Minecraft.net on July 4, 2024
+
+Notes
+
+References
+
+Navigation
+
+cs:Pevnost
+de:Festung
+es:Fortaleza
+fr:Fort
+hu:Erődítmény
+it:Roccaforte
+ja:要塞
+ko:근거지
+lzh:要塞
+nl:Burcht
+pl:Twierdza
+pt:Fortaleza
+ru:Крепость
+th:สตรองโฮลด์
+uk:Цитадель
+zh:要塞

@@ -1,0 +1,174 @@
+TITLE: Pig
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Pig
+---
+A pig is a passive mob found commonly in most grassy biomes. Adult pigs are a source of porkchops and can be ridden using a saddle and a carrot on a stick. They have three variants based on the temperature of the biome they spawn in.
+
+Spawning
+Pigs spawn in the Overworld in most grassy biomes except for snowy plains, meadows, mangrove swamps, and pale gardens.
+
+, pigs spawn in groups of 4 on grass blocks. Individual pigs rarely may spawn on grass after world generation.
+
+, pigs spawn in groups of 1 to 3 on grass blocks.
+Individuals regularly spawn on grass after world generation.
+
+Each pig has a 5% chance of spawning as a baby.
+
+Pigs sometimes also spawn in animal pens, stables, and butcher house backyards in villages upon world generation.
+
+Pigs cannot spawn naturally with a saddle.
+
+Variants
+
+Pigs have 3 variants: temperate, cold, and warm. This variant is determined by the biome the pig spawns in and does not impact their behavior.
+
+If a pig spawn egg is used in any biome not listed, a temperate pig is spawned.
+
+Sound variants
+
+Pigs have 3 sound variants: Big, Classic, and Mini.
+
+A sound variant is chosen randomly upon the mob spawning, and is not related to the mob's temperature variant. These sound variants have no effect on the mob's behavior.
+
+For the sounds of each sound variant, see .
+
+Drops
+
+On death
+An adult pig drops:
+
+A  if saddled.
+experience orbs if killed by a player or tamed wolf.
+
+Killing a baby pig yields neither items nor experience.
+
+Behavior
+Pigs roam the Overworld avoiding hazards and harmful falls. A pig flees for a short time when harmed.
+
+Pigs follow players holding carrots, potatoes, beetroots or a carrot on a stick within a radius of six blocks.
+
+Breeding
+
+Pigs can be bred using carrots, potatoes, or beetroots. After breeding, the parents have a cooldown of 5 minutes before they can breed again. Baby pigs mature in 20 minutes and stay near their parents. Feeding them reduces the remaining time to maturity by 10%. Feeding baby pigs a golden dandelion will freeze their growth. If they are fed again it will take them 24000 ticks (20 minutes) to grow up.
+
+When two different variants of pigs are bred together, the variant of the baby is randomly selected from one of the parents' variants.
+
+Riding
+
+thumb|Sunny riding a pig with a carrot on a stick and a saddle.
+It is possible to ride an adult pig by  a saddle on it. Shears can be used on a saddled pig to retrieve the saddle. Baby pigs cannot be saddled nor ridden.
+
+Saddled pigs are controllable with a carrot on a stick. They travel at a default speed of 2.42 blocks/s.
+
+the carrot on a stick causes the pig to enter a boost, at the cost of 7 durability. While boosted, the pig gradually accelerates to its peak speed of 5.2 blocks/s (6.24 blocks/s with Speed I and 7.28 blocks/s with Speed II) until halfway through the boost, and then decelerates to its default speed by the end of the boost. Specifically, the speed of the pig increases by  times the original speed, where  is the time already passed since the start of the boost, and  is the total duration of the boost. No matter how many ticks the boost lasts, the average speed of pig during a full boost cycle is roughly 4.19 m/s.
+
+Unlike other Overworld mounts, pigs cannot float on water or lava (even if they have Fire Resistance) when being controlled. Pigs can be controlled through 1-block-high bodies of water with a carrot and stick, but deeper water causes the player to dismount. If the pig and rider fall, then fall damage doesn't cause any knockback or slower movement speed.
+
+A player can travel through a space 1 block high by riding a pig.
+
+Lightning
+When a pig or baby pig is struck by lightning, it transforms into a zombified piglin or baby zombified piglin, respectively. If lightning strikes a pig in Peaceful difficulty, the pig does not transform but takes normal damage from the strike. If the pig was equipped with a saddle, the saddle is lost. If a player was riding the pig, they are kept mounted on the zombified piglin , while  they are dismounted.
+
+Jockey
+
+thumb|width=165x165|A temperate pig ridden by a baby zombie
+15% of nearby baby zombies, husks, or drowned may ride an adult unsaddled pig to form a jockey.
+
+Sounds
+Generic
+:
+
+:
+
+Classic
+:
+
+:
+
+Big
+:
+
+:
+
+Mini
+:
+
+Baby
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Pigs have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: the variant of the pig. Represents the  component.
+
+:
+
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+A pig appears as a DLC costume for the Mii Brawler in the crossover fighting game Super Smash Bros. Ultimate.
+The third hurt sound for the baby pig was reused from the Piggy Bank from Dungeons.
+
+Gallery
+
+References
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+Category:Transport
+
+cs:Prase
+de:Schwein
+es:Cerdo
+fr:Cochon
+he:חזיר
+hu:Malac
+it:Maiale
+ja:ブタ
+ko:돼지
+lzh:豕
+nl:Varken
+pl:Świnia
+pt:Porco
+ru:Свинья
+th:หมู
+uk:Свиня
+zh:猪

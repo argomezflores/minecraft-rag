@@ -1,0 +1,84 @@
+TITLE: Jungle Pyramid
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Jungle_Pyramid
+---
+A jungle pyramid, also known as a jungle temple, is an above ground structure found in jungle biomes built mostly of cobblestone and mossy cobblestone. The jungle pyramid contains two loot chests, one at the end of a hallway of arrow booby traps, and one hidden behind a lever puzzle.
+
+Generation
+Jungle pyramids can generate in jungles, but not sparse jungles. , they can also generate in bamboo jungles.
+
+Jungle pyramids can be located with jungle explorer maps, which are sold by desert, savanna and swamp cartographers.
+
+Structure
+
+Jungle pyramids consist of cobblestone, mossy cobblestone, and vines. There are 3 floors.
+
+It is possible to find blocks that normally generate outside the pyramid (like leaves) appearing inside, possibly blocking the chests or dispensers, or interrupting the redstone.
+
+Puzzle
+On the bottom floor, there is a puzzle consisting of 3 levers on 3 chiseled stone bricks connected to a hidden piston mechanism. If the combination is entered correctly, a block on the main floor is pulled away, revealing a chest. The correct combination is as follows:
+
+Flick the lever furthest away from the staircase.
+Flick the lever closest to the staircase.
+Return the lever closest to the staircase.
+Return the lever furthest away from the staircase.
+
+Trap
+Down the hall from the puzzle, there is another chest. There are two tripwire lines connected to dispensers with 2–14 arrows, hidden behind vines. The first tripwire is in the middle of the hallway and the second tripwire is around the corner in front of the chest. Walking over the tripwire triggers the dispenser attached to it. Breaking the tripwire with anything other than shears also triggers it.
+
+Loot
+
+Chests
+
+Dispensers
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+New Nintendo 3DS Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Temples
+
+cs:Chrám v džungli
+de:Dschungeltempel
+es:Templo de jungla
+fr:Pyramide de la jungle
+it:Piramide della giungla
+ja:ジャングルの寺院
+ko:정글 피라미드
+nl:Oerwoudtempel
+pl:Dżunglowa świątynia
+pt:Templo da Selva
+ru:Храм в джунглях
+uk:Джунглева піраміда
+zh:丛林神庙

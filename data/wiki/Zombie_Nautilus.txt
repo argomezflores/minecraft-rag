@@ -1,0 +1,198 @@
+TITLE: Zombie Nautilus
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Zombie_Nautilus
+---
+A zombie nautilus is an undead variant of the nautilus that spawns being ridden and controlled by a trident-wielding drowned, forming a zombie nautilus jockey. Once separated from the jockey, it behaves like a regular nautilus, but burns in sunlight instead of suffocating while not in water.
+
+Spawning
+
+When an adult drowned spawns outside of river or frozen river biomes, (excluding drowned reinforcements) either naturally or as part of a structure (i.e. an ocean ruin), and is wielding a trident in its main hand, it has a 50% chance to spawn as a zombie nautilus jockey, riding a zombie nautilus. Zombie nautilus jockeys thus spawn in dripstone caves and various ocean biomes; those that spawn in warm oceans become the coral zombie nautilus variant, which differs only in appearance.
+
+In this state, the zombie nautilus's movement is controlled by the jockey. When the drowned rider is dismounted or killed, the zombie nautilus becomes neutral. It can then subsequently be tamed and ridden by the player.
+
+Zombie nautiluses count toward the "monster" mob cap and can despawn like most hostile mobs (unless they spawned as part of a structure) until the first time any player interacts with it. At that point it becomes persistent and no longer counts toward any mob cap either.
+
+Zombie nautiluses do not naturally spawn in the Peaceful difficulty except during world generation as part of ocean ruins.
+
+Drops
+On death
+
+when killed by a player or tamed wolf.
+If equipped with a saddle or nautilus armor, they drop those items.
+
+Behavior
+
+Zombie nautiluses behave like regular nautiluses, drifting through water. They move backward, propelling themselves and leaving bubble particles behind.
+
+Zombie nautiluses follow players holding any fish or bucket of fish within a 10-block radius.
+
+Unlike the nautilus, zombie nautiluses cannot be bred.
+
+When ridden by a hostile mob, as in the case of a zombie nautilus jockey, the hostile mob controls the movement of the zombie nautilus.
+
+When Vibrant Visuals are enabled, their eyes emit a surrounding glow that does not illuminate objects, just like the glowing eyes of other mobs such as endermen and drowned.
+
+As they are monsters, zombie nautiluses count toward the hostile mob cap.
+
+, adult and baby drowned can mount and ride any untamed zombie nautilus that they collide with.
+
+Attacking
+Zombie nautiluses are neutral, attacking only when provoked. Like regular nautiluses, they attack by dashing into their target. Zombie nautiluses occasionally dash toward and attack nearby pufferfish.
+
+When dashing toward a target on land, zombie nautiluses can launch themselves out of the water and accidentally become beached on land, where they are unable to move.
+
+They may also unintentionally attack a mob or player that stands between them and their target.
+
+A zombie nautilus can also perform dash attacks when being ridden by a mob, such as when part of a zombie nautilus jockey. It performs dash attacks on its own accord, temporarily taking control of the jockey's movement.
+
+Unlike drowned, zombie nautiluses are ignored by axolotls.
+
+When they are hostile or mounted by a drowned, zombie nautiluses cannot be leashed.
+
+Taming
+Zombie nautiluses can be tamed by being  pufferfish or buckets of pufferfish. Each pufferfish or bucket of pufferfish has a  chance of taming the zombie nautilus.
+
+These items can also be used to tempt them.
+
+Healing
+Zombie nautiluses can be healed by being  any fish or any bucket of fish.
+Food  Heals  Notes   Does not inflict Hunger, Poison, or Nausea.
+
+Mob type
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+A threat to armadillos, causing them to hide in their shell.
+
+Like most other undead mobs, zombie nautiluses also burn in direct sunlight. They are protected from burning when wearing nautilus armor, similar to other undead mobs wearing helmets. As nautilus armor has no durability, it does not break from absorbing the damage like helmets do.
+
+Being an aquatic mob, they are affected by the Impaling enchantment in . Unlike the normal nautilus, zombie nautiluses don't suffocate outside of the water, as they are undead monsters.
+
+Parrots can also imitate them, as they can with hostile mobs.
+
+, zombie nautiluses are targeted by iron golems and snow golems, despite not being hostile. This is due to the fact that zombie nautiluses are listed in the  family, and mobs in the  family are attacked by iron golems and snow golems.
+
+Weaknesses
+Like regular nautiluses, they can be controlled and even dash on land, but their movement is much slower than in water.
+
+Jockey
+
+thumb|width=165x165|A zombie nautilus ridden by a gurgle.
+15% of nearby gurgles may ride an untamed zombie nautilus to form a jockey.
+
+Usage
+Tamed and saddled zombie nautiluses can be used as a means of underwater transportation. When ridden, the player is granted the Breath of the Nautilus status effect, which pauses the oxygen bar while the player rides the zombie nautilus. As with other zombies, they can be killed to obtain rotten flesh.
+
+Equipment
+Tamed zombie nautiluses have two equipment slots:
+Saddle slot: for equipping a saddle.
+Nautilus armor slot: for equipping nautilus armor.
+
+Equipment can be placed on a zombie nautilus by holding it and then pressing the  control on the zombie nautilus, or by accessing the zombie nautilus's inventory. This can be done by pressing the  control on the zombie nautilus while sneaking, or by mounting the zombie nautilus and pressing the  control. A dispenser can also place a saddle or nautilus armor if it is facing a tamed zombie nautilus.
+
+The equipment can be removed by two methods:
+Removing the equipment from their slots in the zombie nautilus's inventory.
+shears on the zombie nautilus. If both a saddle and nautilus armor are equipped, they are removed one at a time. The first use removes the nautilus armor, and a second use removes the saddle.
+
+Riding
+
+Once a zombie nautilus is tamed and saddled, the player can control it with the standard directional controls; pressing  moves the zombie nautilus in the direction the player is facing. The player dismounts using the  control. , it is impossible for a player to use a Nether portal or End portal while on a zombie nautilus.
+
+Zombie nautiluses are 10% faster than nautiluses when swimming. A zombie nautilus gradually gains speed while moving in a straight line, up to a swimming speed of 7.15 m/s. A zombie nautilus can still move on land when controlled by a player, but is significantly slower, moving at a maximum of 0.97 m/s.
+
+Saddled zombie nautiluses also have the ability to dash. When the player rides them, the experience bar on the HUD is replaced by a dash charging bar. Dashing is done using the  control: holding the control charges for a longer dash. When dashing, a zombie nautilus launches up to about 13 blocks forward. A zombie nautilus can dash every 2 seconds. Dashing while moving upward near the surface results in a quick breach, wherein the zombie nautilus and its rider break the surface briefly.
+
+Sounds
+Despite being monsters, zombie nautiluses use the "Friendly Mobs" sound category.
+
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Zombie nautiluses have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: the variant of the nautilus. Represents the minecraft:zombie_nautilus/variant component.
+
+:
+
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The design of the zombie nautilus is inspired by , a dish composed of cooked land snails with few herbs and greens on the inside.
+
+Gallery
+
+Renders
+
+Zombie nautilus with nautilus armor
+
+Animations
+
+Development renders
+
+Screenshots
+
+Mojang images
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Neutral mobs
+Category:Tameable mobs
+Category:Undead mobs
+Category:Aquatic mobs
+Category:Animal mobs
+Category:Monster mobs
+Category:Transport
+
+de:Zombienautilus
+es:Nautilo zombi
+fr:Nautile-zombie
+it:Nautilo zombi
+ja:ゾンビオウムガイ
+ko:좀비 앵무조개
+lzh:屍化鸚鵡螺
+pl:Łodzik-zombie
+pt:Náutilo-Zumbi
+ru:Наутилус-зомби
+uk:Зомбонавтилус
+zh:僵尸鹦鹉螺

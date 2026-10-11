@@ -1,0 +1,86 @@
+TITLE: Mushroom Fields
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Mushroom_Fields
+---
+Mushroom fields or mushroom islands are rare biomes that always generate as islands surrounded by deep oceans. They are the only place in the game where mycelium and mooshrooms are found, and have the special property that no hostile mobs normally spawn in them. Players cannot spawn in mushroom fields.
+
+Generation
+Mushroom fields make up about 0.14% of the Overworld's area, making them the third rarest surface biome.
+
+They generate only where continentalness is at its lowest, so they always form as islands surrounded by deep oceans of any temperature, far from the mainland. The closer a deep ocean coordinate is to an existing mushroom field, the more likely it is to generate another, so these islands sometimes form in groups.
+
+Mushroom fields tend to be relatively flat, sometimes featuring small hills. Their sizes can range from just a few blocks to thousands of blocks long.
+
+Beneath them, lush caves are the only cave biome that can generate, doing so when humidity is relatively high. Ice caves may also generate when the temperature is very low, very rarely even on the surface.
+
+Description
+thumb|Mooshrooms on a cliff
+The mushroom fields generate in usually flat islands and have mycelium instead of grass blocks on the surface. Grass blocks that are placed by the player in this biome take on a bright green color, similar to the grass found in jungles. A large amount of brown and red mushrooms cover the land. It is one of the only biomes, along with swamps and dark forests, where huge mushrooms generate naturally. Sugar cane, short grass, and firefly bushes sometimes generate by the ocean.
+
+The huge mushrooms generate with a density high enough to be a reliable source of mushroom blocks, but low enough not to significantly obstruct vision. Here, mushrooms can grow in full sunlight. Water is a light gray color .
+
+Mushroom fields are the only biome where mooshrooms naturally spawn. Red mooshrooms, bats, and glow squids are the only mobs that spawn naturally in this biome; this also applies in caves, mineshafts, and other underground structures, meaning the biome is mostly safe both above and below ground.
+
+However, monsters spawned from other sources than the natural spawn cycle continue to spawn, such as monster spawners, raids, phantoms and skeleton horse traps. Lush caves can sometimes generate underground, allowing for monsters to spawn naturally. Wandering traders also spawn normally.
+
+Mushroom fields have a unique sky color with Vibrant Visuals, which is yellow at the horizon and gray at zenith. At sunset, the horizon turns bright red, while at sunrise it is more purple/pink. At night, there is a dim purple light at the horizon. Mushroom fields also have slightly stronger volumetric fog, tinted by a unique purple sunlight.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in mushroom fields:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Mention
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Pilzland
+es:Campo de champiñones
+fr:Champs de champignons
+it:Campi fungosi
+ja:キノコ島
+ko:버섯 들판
+lzh:蕈野
+pt:Campo de cogumelos
+ru:Грибные поля
+th:ทุ่งเห็ด
+uk:Грибні поля
+zh:蘑菇岛

@@ -1,0 +1,143 @@
+TITLE: Camel Husk
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Camel_Husk
+---
+A camel husk is an undead variant of the camel that rarely spawns at night or during thunderstorms in deserts as a hostile mob, being ridden and controlled by an iron spear-wielding husk with a parched passenger, known as a camel husk jockey. It does not burn in sunlight, and is passive once separated from its riders.
+
+Spawning
+
+In , when a husk spawns naturally and spawns in a space that does not block the collision box required for a camel husk, it has a 10% chance to spawn as a camel husk jockey, i.e. riding a camel husk, and spawning a parched as the second passenger. Within a spawning pack of husks, only one of them can spawn as a camel husk jockey. If the husk is a baby husk and was supposed to spawn as chicken jockey, the chicken spawns (and can despawn), but the baby husk rides the camel husk.
+
+Camel husks count toward the "monster" mob cap and can despawn like most hostile mobs until the first time any player interacts with it. At that point it becomes persistent and no longer counts toward any mob cap either.
+
+Camel husks do not spawn in Peaceful difficulty, like other monsters.
+
+In , camel husks spawn by weight on their own, and like , never by itself:
+Category: Monster  Spawn area    25 1
+
+Drops
+
+On death
+
+when killed by a player or tamed wolf.
+These are the drops for the camel husk. Any passengers need to die separately, and drop items separately, like other jockeys.
+
+Behavior
+
+Camel husks are passive, but behave as hostile mobs after spawning due to being controlled by hostile riders pathfinding toward the player. In this state, the camel husk's movement is controlled by the front passenger, initially the husk. If the husk dismounts or is killed, the parched then takes control. When both passengers are killed or dismount the camel husk, it becomes passive. It can then subsequently be ridden by players like a regular camel.
+
+In addition to being an animal like regular camels, camel husks are part of two additional mob categories, monster and undead. Because they are undead, camel husks cannot breed.
+
+Camel husks can safely fall 6 blocks before they begin to accumulate fall damage, unlike most mobs, which can safely fall 3 blocks. Camel husks also take half of the normal fall damage (rounded up) that most other mobs take ( damage per block over the safe distance instead of ). If an entity is riding a camel husk, they receive the same fall damage as the camel husk.
+
+Camel husks have a  chance to regenerate  health point each game tick.
+
+A rabbit's foot can be used to tempt and heal camel husks.
+
+, camel husks don't panic when damaged.
+
+, camel husks are never spawned as part of a zombie siege, but if a camel husk jockey naturally spawns nearby, it joins the siege and behaves like all other zombies.
+
+Mob type
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+A threat to armadillos, causing them to hide in their shell.
+
+Unlike most undead mobs, camel husks do not burn in sunlight.
+
+As they are also monsters, camel husks count toward the hostile mob cap. However, once a player gets onto a camel husk for the first time, it stops counting toward any mob cap and no longer despawns, similar to having a name tag applied.
+
+As they are considered monsters, parrots can imitate them.
+
+Riding
+
+Camel husks can be ridden as long as there are not already two riders. The riding behavior of camel husks is identical to regular camels.
+
+Camel husks have one slot in their inventory for equipping a saddle. A saddle can be placed on a camel husk by holding it and then  it on the camel, or by accessing its inventory. A camel husk's inventory can be accessed by mounting the camel husk and using  control, or by  and then  or pressing the "open inventory" button on the camel husk.
+
+Once a camel husk is saddled, the player can control it with standard directional controls, , and the mouse. The player dismounts using the  control. A second player can then ride as a passenger. If the controlling passenger disembarks, then the second passenger takes control of the camel husk. , camel husks get up immediately once the player rides them with a saddle while sitting; , they get up once the player moves .
+
+Camel husks move at the same speed as regular camels. They gradually gain speed while moving in a straight line, up to a walking speed of 3.885 blocks/s, and can also manually sprint at a speed of 8.203 blocks/s by double tapping  or by holding the  control while moving forward.
+
+Saddled camel husks also have the ability of "dashing". When the player rides them, the experience bar on the HUD is replaced by a dash charging bar, similar to the jump charging bar for horses. Dashing is done using the jump control, and holding the control charges for a longer dashing. Camel husks can dash every 2.75 seconds. When dashing, the camel husk launches up to 12 blocks forward and one block upward. For a short time after dashing, the camel husk cannot sprint.
+
+Sounds
+Despite being monsters, camel husks use the "Friendly Mobs" sound category.
+
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Camel husks have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: The tick when the camel husk started changing its pose.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Animations
+
+Mojang images
+
+Screenshots
+
+Textures
+
+In other media
+
+See also
+
+References
+
+Notes
+
+Navigation
+
+Category:Passive mobs
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+Category:Animal mobs
+Category:Transport
+
+de:Zombiedromedar
+es:Camello disecado
+fr:Dromadaire momifié
+ja:ラクダハスク
+ko:낙타 허스크
+lzh:枯橐駝
+pt:Camelo-Cascoso
+ru:Верблюд-кадавр
+uk:Верблюд-висушень
+zh:骆驼尸壳

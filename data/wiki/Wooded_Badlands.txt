@@ -1,0 +1,86 @@
+TITLE: Wooded Badlands
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Wooded_Badlands
+---
+The wooded badlands or mesa plateau stone biome is a more humid variant of the badlands covered by grass blocks and coarse dirt on their plateaus, vegetated by small oak trees.
+
+Generation
+Wooded badlands generate at higher humidity values compared to the default badlands, which means that they can often be found bordering jungles and bamboo jungles. Near lower altitudes or oceans with stony shores, wooded badlands change to deserts.
+
+They can also generate in mountain peaks, where they can elevate up to Y=256 and rarely border stony peaks.
+
+Due to their high humidity values, wooded badlands almost always have lush caves beneath them, although dripstone caves may generate instead when they are far inland. Due to their low erosion value, wooded badlands have a high chance to generate the deep dark beneath them.
+
+Description
+Wooded badlands generate groves of trees at their plateaus, and therefore are the forest variant of the badlands. The uppermost layers of terrain consist of both grass blocks and coarse dirt, with oak trees and short grass growing on them, the former always appearing as small variants. Leaf litter and dead bushes commonly cover the ground under the trees. In wooded badlands, the grass and oak leaves take on a dull greenish-brown color darker than that of the savanna biome, giving it a droughted and weathered appearance.
+
+The coarse dirt and grass layer on top begins generating above Y=97. Beneath, wooded badlands generate similar to regular badlands, with red sand, stained terracotta, dead bushes, and cacti making up the landscape. Additionally, gold ore has a higher chance of generating, like in other badlands biomes, and mineshafts made of dark oak planks generate much more elevated and exposed than regular mineshafts.
+
+Abandoned camps sometimes generate in wooded badlands.
+
+Despite being more lush, wooded badlands still count as arid biomes and never experience rainfall.
+
+Armadillos live in wooded badlands, and the warm variants of farm animals can spawn on top of the wooded plateaus. Striped wolves exclusively spawn in here.
+
+When a river cuts through wooded badlands and generates dry terrain with grass blocks, the wooded badlands biome will spawn oak trees in this river biome, even though it is not on a plateau and surrounded by red sand.
+
+With Vibrant Visuals, wooded badlands have unique atmospherics, the sky is tinted turquoise-green at daytime and much brighter during the night, while the daytime horizon is tinted brown. Moonlight is more vibrant blue, and the warm color grading tints the environment more yellow, although color saturation is slightly lower.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the wooded badlands:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Old generation
+thumb|Old wooded badlands plateaus along with many other badlands biomes in the rare dry climate zone
+Before Caves & Cliffs, the wooded badlands plateau took up 2/3 of the rare dry temperature zones, alongside badlands plateaus which had no forest. Wooded badlands plateaus formed almost perfectly flat plateaus about 30 blocks above sea level, exposing different stained terracotta layers altered by its forest vegetation. When rivers cut through wooded badlands plateaus, they formed steep and narrow canyons exposing all terracotta layers.
+
+The rare dry climate zone was surrounded by a regular badlands biome at lower altitudes, mostly covered by red sand, which had a thin desert border. Regular badlands or eroded badlands also generated as small spots inside wooded badlands plateaus, creating curved cliffs and much variation. No beaches generated next to oceans. Their mutation was the modified wooded badlands plateau.
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+See also
+
+External links
+
+Navigation
+
+de:Bewaldete Tafelberge
+fr:Badlands boisées
+pt:Terras áridas florestadas
+uk:Лісисті безплідні землі
+zh:疏林恶地

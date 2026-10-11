@@ -1,0 +1,198 @@
+TITLE: Rabbit
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Rabbit
+---
+A rabbit is a passive mob found in many snowy and forested biomes, as well as deserts. It runs away from players that are not holding its food, and is able to jump over fences. Rabbits are a source of raw rabbit, rabbit hide, and rabbit's feet.
+
+The Killer Bunny is a hostile rabbit variant exclusive to Java Edition that can only be spawned using commands.
+
+Spawning
+Rabbits spawn above grass, snow blocks or sand in specific biomes. They spawn in small groups
+of 1 adult and 1–2 babies.
+
+They can generate individually after the generation of the world.
+
+Variants
+Rabbits can naturally spawn as one of 6 variants: brown, white, black, white splotched, gold, and salt.
+
+Rabbits of the following colors spawn in the following biomes:
+Gold:
+
+White,  White Splotched:
+
+Black,  Brown,  Salt:
+
+Gold rabbits are the most common rabbit color and are found only in deserts. White and white splotched rabbits are also quite common and spawn in some snowy biomes. Default rabbit colors such as black, brown and salt can also spawn in any other non-snowy biome via spawn eggs, commands, monster spawners or breeding.
+
+, rabbits can also be found in old growth taigas.
+
+, up to three baby rabbits spawn in flower forests and rabbits can also spawn in frozen aquatic biomes: snowy beaches, frozen oceans, and frozen rivers.
+
+The wolves and foxes found in taigas and mountainous biomes may kill rabbits, so rabbits are generally more plentiful in the desert, flowery, or icy biomes.
+
+The killer bunny does not spawn naturally and must instead be spawned using the command .
+
+Category:Java Edition specific information
+
+Desert Forest Taiga Frozen Snowy plains Mountain Biome     All  variants
+
+Drops
+Breeding
+Upon successful breeding,  is dropped.
+
+On death
+
+upon player kills.
+
+Killing a baby rabbit yields no items or experience.
+
+Behavior
+Rabbits hop around aimlessly instead of walking. They can jump up to 2 blocks in height. They slowly approach players holding carrots, golden carrots or dandelions within 8 blocks. They do not follow players holding a carrot on a stick. They randomly flee around if attacked.
+
+Rabbits can survive up to 4.5 blocks of fall damage and will not jump more than they can survive for food.
+
+All non-hostile rabbits avoid players within 8 blocks and wolves within 10 blocks. They also avoid most monsters within 4 blocks except ghasts, hoglins, magma cubes, phantoms, shulkers, slimes, undead mounts (camel husks, skeleton horses, zombie horses and zombie nautiluses), and the ender dragon. Notably, rabbits do not try to avoid foxes and cats, and only run from them when attacked.
+
+If  is true and  is less than or equal to 0, rabbits have a chance to find and eat mature carrot crops / carrot crops with growth stage greater than 1. This reduces the growth stage by one, removing the crop completely when the growth stage reaches 0.
+
+Wild wolves, foxes, and stray cats are hostile to rabbits.
+
+Breeding
+Rabbits can be bred using carrots, golden carrots or dandelions.
+
+Baby rabbits usually inherit the same type of fur as one of the parents (47.5% chance of each), but there is a 5% chance for the baby to have the fur type matching the current biome. Baby rabbits grow to adulthood after 20 minutes, although their growth can be slowly accelerated using carrots, golden carrots or dandelions; each use reduces 10% of the remaining time to grow up.
+
+Despite their hostile nature, killer bunnies can breed with other rabbits and with each other, having the unusual chance of creating a baby killer bunny.
+
+A  rabbit does not produce a Toast rabbit baby, however.
+
+and , baby rabbits follow their parents.This behavior is absent  due to
+
+Variations
+thumb|left|The six natural types of rabbits.
+
+Rabbits typically spawn using one of six different skins. Skins include regular brown fur, white fur with red eyes (white), black mottled fur, black and white spotted fur, gold fur, and salt and pepper fur. The biome determines the skin used:
+
+Rabbits in snowy biomes have 80% white fur and 20% black and white fur.
+Rabbits in deserts have 100% gold fur.
+Rabbits in other biomes have 50% brown fur, 40% salt fur, and 10% black fur.
+Rabbits with specific skins can be spawned using  or .
+While it is possible to go above 5, this results in rabbits with skins identical to RabbitType: 0, except for RabbitType: 99, the Killer Bunny.
+
+There are two special variants of rabbits:
+
+The Killer Bunny
+
+thumb|right|upright|The current killer bunny texture
+The killer bunny is an unused hostile variant of the rabbit exclusive to  that is hostile toward players and wolves. It is a reference to the  from the British comedy film . It has pale pinkish white fur, reddish pink ears and horizontal red eyes, compared to a normal rabbit's vertical eyes. It can only be spawned by the  command. It appears with a nameplate over its head reading "The Killer Bunny".
+
+If the killer bunny finds any player within a 16-block radius, it hops toward the player much faster than a normal rabbit. It moves in a style similar to that of a spider. Once it closes in, it jumps at the player, dealing  damage on Normal difficulty. If the player strikes at the killer bunny, it runs away for a brief moment, then returns to lunging at the player.
+
+If it cannot find a player, the killer bunny actively seeks out and attacks any wolves, including tamed ones.
+
+On Peaceful difficulty, the killer bunny does not despawn, despite its hostile nature. It still attacks wolves, but not the player.
+
+Like hoglins, the killer bunny can be bred and leashed and follows players holding carrots, despite its hostile nature.
+
+Toast
+thumb|left|upright|The rabbit named "Toast" using a name tag
+
+Naming a rabbit Toast (using either a name tag or a renamed spawn egg) re-textures it to have the appearance of a black dutch, with a large black and white patch and more black fur around the face and bluish eyes. Other than its name and skin, Toast behaves exactly like a normal rabbit. When Toast rabbits are bred, whether with each other or with regular rabbits, their offspring do not have the Toast pattern; they have a pattern consistent with the parents' original coloring prior to renaming. If the player renames a killer bunny to Toast, it still attacks players and wolves. Like the killer bunny, Toast does not spawn naturally.
+
+This rabbit is based on user xyzen420's girlfriend's missing rabbit, which Ryan Holtz (TheMogMiner) implemented as a memorial.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Rabbits have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: Set to 40 when a carrot crop is eaten, decreases by 0–2 every tick until it reaches 0. Rabbit can eat another crop only when it reaches 0.
+: Determines the skin of the rabbit. Also determines if rabbit should be hostile. Represents the  component.
+Variant Numerical ID Identifier 25px Brown   25px White   25px Black   25px White Splotched   25px Gold   25px Salt   25px The Killer Bunny   25px Toast none none
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+thumb|The warden concept art mentioning the idea of a friendly relationship between wardens and rabbits.
+Internally, the texture file for the Killer Bunny is called .
+The feature was suggested by Twitter user @88bully.
+The death sound for the rabbit is called .
+A concept art suggests that a friendly relationship between wardens and rabbits was considered during the warden's development.
+
+Gallery
+Animations
+Adult
+
+Baby
+
+Mojang screenshots
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+
+cs:Králík
+de:Kaninchen
+es:Conejo
+fr:Lapin
+hu:Nyúl
+it:Coniglio
+ja:ウサギ
+ko:토끼
+lzh:兔
+nl:Konijn
+pl:Królik
+pt:Coelho
+ru:Кролик
+th:กระต่าย
+uk:Кролик
+zh:兔子

@@ -1,0 +1,68 @@
+TITLE: Old Growth Birch Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Old_Growth_Birch_Forest
+---
+An old growth birch forest or birch forest mutated is a variant of the birch forest, notable for its trees, which are taller than those found in the normal birch forest.
+
+Generation
+Like regular birch forests, old growth birch forests generate in temperate regions with moderately high humidities. However, old growth birch forests usually generate where weirdness is positive, so a river will often separate it from a regular birch forest, though they may also share a border directly. Old growth birch forests frequently border forests, dark forests, taigas, and sparse jungles.
+
+Lush caves may generate beneath old growth birch forests due to their relatively high humidity.
+
+Description
+The old growth birch forest features birch trees, half of which are significantly taller than normal with trunks up to 14 blocks tall. These tall birch trees are exclusive to the old growth birch forest and cannot be grown with a normal birch sapling. Bee nests can be found on 0.2% or 0.035% of the trees. Fallen trees can also be up to 14 blocks long.
+
+Flower patches that naturally generate in the biome include rose bushes, lilacs, peonies, and lilies of the valley, as well as wildflowers covering the ground. Small patches of up to five bushes are also present.
+
+Additionally, trail ruins may generate here as opposed to regular birch forests. Abandoned camps sometimes generate in old growth birch forests.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the old growth birch forest.
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+Concept artwork
+
+See also
+
+References
+
+Navigation
+
+de:Birken-Urwald
+es:Abedular ancestral
+fr:Forêt ancienne de bouleaux
+pt:Floresta de bétulas antigas
+uk:Одвічний березовий ліс
+zh:原始桦木森林

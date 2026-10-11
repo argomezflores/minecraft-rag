@@ -1,0 +1,67 @@
+TITLE: Stony Shore
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Stony_Shore
+---
+A stony shore or stone beach is a coastal biome that is almost entirely made of stone and gravel. Stony shores replace beach biomes in some mountainous areas.
+
+Generation
+A stony shore replaces normal beaches in areas with mountainous terrain at low erosion values. This often (but not necessarily) occurs near mountains or plateau biomes. Stony shores can generate in any temperature zone, meaning that they create a high contrast with snowy or dry biomes.
+
+Because of their low erosion values, stony shores generate close to deep dark. Stony shores are not to be confused with the oceanic cliffs that generate at higher continentalness and weirdness.
+
+Description
+Stony shores are made entirely of stone and variants, with long strips of gravel. They are usually a steep drop into the water they border. Stony shores may generate at high enough elevations to have snow on their peaks (above Y=120±8), even when bordering warm biomes. However, most of the surface is too warm for snowfall and ice, resulting in a large contrast with snowy biomes.
+
+, buried treasure can sometimes generate at high altitudes; , it doesn't generate here. Ores are often exposed in stony shores.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is on a stony shore:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Steinige Küste
+fr:Côte rocheuse
+it:Costa rocciosa
+pt:Costa rochosa
+uk:Скелястий берег
+zh:石岸

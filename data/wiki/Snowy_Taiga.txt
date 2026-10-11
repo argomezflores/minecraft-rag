@@ -1,0 +1,79 @@
+TITLE: Snowy Taiga
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Snowy_Taiga
+---
+A snowy taiga or cold taiga is an icy biome that comprises a snow-covered forest of pine and spruce trees, ferns and large ferns, and sweet berry bushes, usually generating adjacent to or within snowy plains.
+
+Generation
+Snowy taigas generate at very low temperatures where humidity is moderate to high. Snowy plains commonly border them, especially where humidity decreases, and the two are often separated by a frozen river. Higher temperatures or humidity may cause regular taigas to generate instead. Forests, windswept forests, and windswept hills may border snowy taigas.
+
+As erosion lowers near mountainous areas, snowy taigas can transition into large areas of groves, where a snowy taiga sometimes generates as thin biome in the valleys. Near the coast, snowy taigas border frozen oceans either directly or separated by a snowy beach or stony shore.
+
+Lush caves and ice caves are somewhat common under snowy taigas, though all cave biomes may generate.
+
+Description
+Snowy taigas are similar to regular taigas, featuring large numbers of spruce trees, ferns, and rabbits. Animals in this biome spawn with their cold variants, foxes spawn as snow foxes, and wolves use a unique ashen variant.
+
+Sweet berry bushes generate, but are less common compared to regular taiga. The main distinction are the snow layers that cover almost the entire landscape, save for the ground protected by the leaves of spruce trees. The gelid temperature of the snowy taiga means that any exposed water freezes into ice, though lakes that generate within the taiga are often partially protected by the leaves of the trees, meaning lakes aren't usually completely frozen.
+
+Igloos and trail ruins may generate here, as well as villages and pillager outposts  only. Villages generated here use the same architecture as normal taiga villages, but all of the roofs are covered by stacked snow. The water in village farms is frozen, leading to the crops uprooting. Villagers wear the snowy plains outfit. Abandoned camps sometimes generate in snowy taigas.
+
+In Bedrock Edition the water has a unique tone, and during snowfall snow layers build up and the leaves of the trees become white.
+
+With Vibrant Visuals, snowy taigas use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint. Snowy taigas have strong cold color grading which tints the environment with an icy blue color, and cold sunlight which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a snowy taiga:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Verschneite Taiga
+es:Taiga nevada
+fr:Taïga enneigée
+ja:雪のタイガ
+ko:눈 덮인 타이가
+lzh:雪棘林
+pt:Taiga nevada
+ru:Заснеженная тайга
+uk:Засніжена тайга
+zh:积雪针叶林

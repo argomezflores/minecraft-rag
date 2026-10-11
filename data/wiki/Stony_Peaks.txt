@@ -1,0 +1,71 @@
+TITLE: Stony Peaks
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Stony_Peaks
+---
+Stony peaks are warmer mountain peak biomes completely made out of stone and calcite strips. It is the second rarest Overworld surface biome, after the windswept gravelly hills.
+
+Generation
+Stony peaks only generate on high mountain peaks in the moderately high temperature range, making them quite rare. Depending on the continentalness, erosion, and weirdness, stony peaks can take on many different shapes; small hilltops not much higher than Y=160, large singular mountain peaks, rings of peaks surrounding a valley, or extreme mountainous terrain with rugged terrain up to the generation limit of Y=256.
+
+Stony peaks are often surrounded by forests and savanna plateaus before the valley biomes like savannas and jungles, although they may border jungles directly.
+
+They never generate close to mangrove swamps or windswept savannas. When near an ocean, the surrounding terrain gets cut off into massive cliffs. River valleys are either deep fjords, or have no river biome and consist of elevated land biomes.
+
+Deep dark is guaranteed below stony peaks, generating up to higher altitudes. Above this, dripstone caves are common, although lush caves may also generate.
+
+Description
+This biome does not have any terrain layer blocks and directly exposes stone along with many ores. Strips of calcite are unique to this biome, and gravel replaces some stone. , granite and andesite can continue generating here at much higher altitudes.
+
+Like other mountain peak biomes, emerald ore and infested stone can generate here as well as more iron ore and coal ore, more often exposed to the surface than anywhere else. Pillager outposts generate here, while no passive mobs can spawn.
+
+With Vibrant Visuals, stony peaks use warmish atmospherics, lighting, and color grading similar to jungles, although they use default volumetric fog. This makes the night sky appear slightly less dark, and moonlight is much brighter blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in stony peaks:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+See also
+Mountains
+
+References
+
+Navigation
+
+de:Steinige Gipfel
+fr:Pics rocheux
+pt:Picos rochosos
+uk:Кам'яні вершини
+zh:裸岩山峰

@@ -1,0 +1,225 @@
+TITLE: Chicken
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Chicken
+---
+A chicken is a passive mob found in most grassy biomes, and the main source of raw chicken, feathers, and eggs. They have three variants based on the temperature of the biome they spawn in.
+
+Spawning
+Chickens spawn naturally in the Overworld in most grassy biomes except snowy plains, meadows, cherry groves, mangrove swamps, and pale gardens.
+
+Each chicken has a 5% chance of spawning as a baby.
+
+, chickens spawn in groups of 4 on grass blocks in any light level.
+Individual chickens rarely may spawn after world generation.
+
+, chickens spawn in groups of 2-4 on grass blocks in a light level of 7 and more.
+Individuals regularly spawn after world generation.
+
+, chickens are more common in sparse jungles.
+
+, chickens may be found in the Nether when a baby zombified piglin spawns as a chicken jockey. This can also happen with every other baby variant of the zombie. Leader zombies and reinforcements can cause a chicken jockey to spawn in the End.
+
+Variants
+
+Chickens have 3 variants: temperate, cold, and warm. The variant is determined by the biome the chicken spawns in.
+
+Sound variants
+
+Chickens have 2 sound variants: Classic and Picky.
+
+A sound variant is chosen randomly upon the mob spawning, and is not related to the mob's temperature variant. These sound variants have no effect on the mob's behavior.
+
+For the sounds of each sound variant, see .
+
+Chicken jockey
+thumb|150px|A chicken jockey.
+Java Edition
+
+All baby zombie variants and baby zombified piglins have a 5% chance to check for an existing chicken within a 10×6×10 box centered on the baby's spawn location and spawn riding one of those chickens if there are any. If it fails that 5% chance, there is an additional 5% chance of the baby zombie spawning mounted on a new adult chicken. If a jockey spawns riding a new chicken, the variant of the chicken depends on the biome it spawns in.
+
+Because a baby zombie occurs from 5% of zombie spawns, the chicken jockey spawns consist of 0.2375% of all zombie spawns in a chicken-free environment; if chickens are present, the chance increases to 0.4875%. A chicken jockey can also be spawned by using the following command:
+
+Chicken jockeys may spawn with items equipped. Baby zombified piglin versions of the chicken jockey wield a golden sword or golden spear. Harming or killing the chicken does not cause the zombified piglin to attack.
+
+Bedrock Edition
+Baby zombie jockeys do not spawn riding chickens, but check for nearby adult chickens to mount prior to attacking a player, wandering trader, adult villager, snow golem, or iron golem.
+
+Drops
+
+Adult chickens that were not part of chicken jockeys lay an egg every five to ten minutes.
+
+Breeding
+experience orbs upon a successful breeding.
+
+On death
+
+experience orbs are dropped when a chicken is killed by a player or tamed wolf or  if it was part of a chicken jockey.
+
+Killing a chick yields no items or experience.
+
+Killing a zombie riding a chicken will result in the music disc "Lava Chicken" dropping.
+
+Behavior
+A chicken normally wanders aimlessly when idle. Sometimes they remain in a small area, even if it's just a 1 block space. They follow players holding various seeds within a 6×4×6 cubic area. Chicks follow adult chickens.
+thumb|Chickens following a player holding wheat seeds.
+Chickens avoid falling off cliffs (>3.5 blocks). They flap their wings when they are in midair and fall slowly, thus chickens are immune to fall damage.
+
+Chickens can be attached to leads.
+
+When harmed, chickens flee around for a few seconds.
+
+Unlike other mobs, chickens attempt to jump up to climb stairs instead of climbing them normally.
+
+Ocelots and foxes pursue and attack chickens. While chickens do flee when attacked, they otherwise make no attempt to avoid foxes.
+
+While in a loaded chunk, an adult chicken lays an egg every five to ten minutes (6000–12000 ticks), unless it is, or was, a part of a chicken jockey. If the player is close enough to a chicken when it lays an egg, a pop sound is heard.
+
+Chickens can stay underwater for 15 seconds or can swim, visibly flapping their wings and staying on the water surface. While swimming, a chicken needs only one block of air above its head.
+
+Breeding
+
+Chickens follow players holding wheat seeds, beetroot seeds, melon seeds, pumpkin seeds, torchflower seeds, or pitcher pods but stop following when separated from the player by at least 10 blocks / 16 blocks. Additionally, chicks follow adults.
+
+A player can breed chickens by using seeds. After breeding, a chick spawns and 1–7 experience is generated. The parents cannot be bred again for 5 minutes. The variant of the offspring is inherited from one of the parents and does not depend on the biome they are bred in.
+
+thumb|left|A chick with its parents.
+
+Chicks take 24000 ticks (20 minutes) to grow up, but the growth time can be accelerated  seeds. Each use takes 10% off the remaining time to grow up. A chick fed a seed once per second grows up in approximately 48 seconds using 47 seeds.
+
+Chicks are smaller than a half-block and can unwillingly pass through openings smaller than a full block, but do not walk through half-block-tall spaces. A chick riding a minecart cannot be hit because it is completely inside the minecart's hitbox.
+
+Eggs
+
+Chickens are the only Overworld mob that can repopulate without breeding. Adult chickens lay eggs every 5-10 minutes and an egg thrown at the ground by a player or a dispenser has a  chance of spawning a chick. If a chick spawns from a thrown egg, there is a further  chance to spawn three extra chicks, or  overall. It is theoretically possible for a stack of 16 eggs to yield 64 chickens if all spawn chances succeed for all eggs.
+
+Different variants of chickens lay different types of eggs:
+Temperate chickens lay regular eggs
+Warm chickens lay brown eggs
+Cold chickens lay blue eggs
+
+If the player throws an egg at a glass pane, the chick can spawn on the far side of the pane.
+
+Sounds
+
+Adult
+Generic
+:
+
+:
+
+Classic
+:
+
+:
+
+Picky
+:
+
+Chick
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Chickens have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: Number of ticks until the chicken lays its egg. Laying occurs at 0 and this timer gets reset to a new random value between 6000 and 12000.
+: 1 or 0 (true/false) - Whether or not the chicken is a jockey for a baby zombie. If true, the chicken can naturally despawn, drops 10 experience upon death instead of 1-3 and cannot lay eggs. Baby zombies can still control a ridden chicken even if this is set false.
+: The variant of the chicken. Represents the  component.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Chicken variants
+:
+
+Chicken variants can be configured using JSON files within a data pack in the path .
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+When a chicken is killed off a ledge, the corpse also falls more slowly than normal and the wings continue flapping.
+Chicks can "hide" within hoppers due to their small size, which protects them from dangers like lava on top of the hopper.
+A few weeks before the end of Java Edition Beta, Notch tweeted that he had changed the chickens to ducks, causing a turmoil on Twitter. A few days later, Jeb, still receiving feedback on the idea, stated that it was just a joke. Later on, Mojang rejected the idea of adding ducks to Minecraft.  However, ducks were added into Minecraft Dungeons.
+The changelog for Pocket Edition v0.3.0 alpha referred to chickens as ducks.
+Notch later referred to chickens in a blog post as "chicken/duck/whatevers".
+During ,  at one point questions whether s are ducks.
+In Minecraft: The Island, Guy refers to chickens as "chick-ducks."
+In , s are designed with webbed feet closer to a duck.
+In the first chapter of Overworld Adventures, Sofia Dankis remarks she crafted a Nether portal near a lake "in case [her] chickens one day wanted to see what the life of a duck was."
+In the game code, the wattles of the chicken are called "red_thing".
+
+Publicity
+100px|thumb
+
+In the game Choplifter HD, players can find a hidden island in the mission "Operation Charlie Takedown," where several chickens appear.
+A picture of a chicken appears on a stringboard during The Game Awards 2024, during a conversation between  and Muppets star .
+Chickens are a frequently used minifigure in Lego Minecraft. A common fixture of sets are giant builds of mobs, chickens included.
+For the BigFigs wave a scale figure of a chicken was also produced.
+Since the name of the Tiny Takeover game drop was revealed, a temperate chick can be found in front of the creeper face in a Minecraft social media profile picture. This has been changed back to just a creeper face after a few weeks.
+
+Gallery
+
+Renders
+
+Textures
+
+Screenshots
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+Category:Nether mobs
+
+cs:Slepice
+de:Huhn
+es:Pollo
+fr:Poule
+he:תרנגול
+hu:Csirke
+it:Gallina
+ja:ニワトリ
+ko:닭
+lzh:雞
+nl:Kip
+pl:Kura
+pt:Galinha
+ru:Курица
+th:ไก่
+uk:Курка
+zh:鸡

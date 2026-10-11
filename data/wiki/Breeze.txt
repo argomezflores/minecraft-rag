@@ -1,0 +1,121 @@
+TITLE: Breeze
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Breeze
+---
+A breeze is a hostile mob spawned by certain trial spawners found in trial chambers. It moves via jumping large distances when attacking, attacks by firing wind charges, and deflects all projectiles that hit it except wind charges. Breezes are the only source of breeze rods, which are dropped upon death.
+
+Spawning
+Breezes spawn from trial spawners that generate surrounded by chiseled tuff in trial chambers. These trial spawners only generate in combat chambers, never in the corridors. Only one breeze spawner can generate in each combat chamber, and it is usually located in the center of the room.
+
+Breezes can spawn only in places with line of sight to the trial spawner that spawns them.
+
+Drops
+On death
+
+experience orbs are dropped if killed by a player or tamed wolf.
+
+Behavior
+thumb|A breeze jumping through the air
+A breeze leaps around between firing wind charges at its target. Before jumping, it compresses itself like a spring and can jump up to 15 blocks horizontally and 5 blocks vertically. If the breeze is in lava, it can jump only one block into the air. Breezes are immune to all fall damage.
+
+Breezes automatically deflect all projectiles that hit them except wind charges. Unlike shields, deflected projectiles maintain the same velocity, and can potentially harm the attacker or other entities. Breezes are unable to deflect the blast radius of splash potions or firework rockets, which affect them like any other mob if they are in range of the blast.
+
+Breezes are partially unaffected by the Invisibility effect. The eyebrows and surrounding wind remain visible.
+
+Breezes do not retaliate if attacked by mobs that can spawn from trial spawners (zombies, husks, skeletons, bogged, strays, spiders, cave spiders, and slimes). These mobs also do not retaliate if hit by a breeze's wind charge.
+
+Breezes actively pursue and attack iron golems.
+
+Breezes can rotate themselves while in a boat. They are the only mobs that can do this.
+
+Breezes float upward in water and lava exceptionally faster than all other mobs.
+
+Breezes produce particles on the ground. The particles that are produced will depend on the block that they are standing on. For example, a breeze standing on a sandstone block will produce sandstone particles. The particle amount increases if the breeze is in an aggressive state toward another mob, such as an iron golem or player.
+
+Wind charge
+
+Breezes attempt to shoot a wind charge at a player or enemy within a distance of 16 blocks, with a cooldown of 32 game ticks (1.6 seconds) between attempts. In Bedrock Edition, the cooldown is 30 game ticks. When a breeze's wind charge attack directly hits an entity, the entity takes damage, and a burst of wind appears. If a wind charge hits a block, only a burst of wind appears. This wind burst deals knockback but does not deal any damage by itself; instead, it often deals damage by making the entity fall a high distance. The wind burst can also interact with blocks, toggling block states of non-iron doors and trapdoors, buttons, levers, and fence gates, as well as extinguishing lit candles. Such block interactions are potential threats in trial chambers where there are many dispensers and other traps, but can be controlled by the mobGriefing game rule. Bells can also be rung if hit by the wind burst, which is not affected by the mobGriefing game rule.
+
+Wind charges can be deflected if hit with another projectile or a melee attack, similar to ghast fireballs.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Breezes have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Trivia
+Regarding a change made to prevent breezes from drowning while swimming, a changelog for a Bedrock Edition Preview said that breezes breathe through their eyes rather than their "feet". This is referring to how eye height defines drowning height for most mobs.
+During the design process to determine how the breeze would look, the developers reportedly sat in a room for half a day sketching and throwing out designs. One of the designs they came up with was a "strider with really long legs wearing cowboy pants".
+While Tom Olovsson was designing the breeze's sounds he tried using  to create the whoosh sounds, but mis-clicked while trying to load in a specific file and loaded in a bunch of different "whoosh" sounds instead, and he felt this was actually the right sound for the breeze.
+
+Issues
+
+Gallery
+Renders
+
+Animations
+
+Textures
+
+Screenshots
+
+Mojang images
+
+Concept artwork
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Monster mobs
+
+de:Böe
+es:Breeze
+fr:Breeze
+it:Brezza
+ja:ブリーズ
+ko:브리즈
+pl:Wichrzyk
+pt:Vórtice
+ru:Вихрь
+th:บรีซ
+uk:Вітрень
+zh:旋风人

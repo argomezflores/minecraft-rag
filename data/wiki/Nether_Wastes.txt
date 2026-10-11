@@ -1,0 +1,80 @@
+TITLE: Nether Wastes
+CATEGORY: Nether biomes
+URL: https://minecraft.wiki/w/Nether_Wastes
+---
+The Nether wastes or hell is the most common biome found in the Nether.
+
+Description
+The Nether wastes is the most common Nether biome and makes up around 36% of the Nether by volume. Unlike other Nether biomes, which tend to generate in large patches, the Nether wastes more often generates in thinner strips, often separating two or more other biomes. In particular, a thin strip of Nether wastes always separates the crimson forest and the basalt deltas, or the warped forest and soul sand valley, pairs of biomes that can never border each other.
+
+The Nether wastes is a barren biome composed of mostly netherrack. It has extensive lava seas with glowstone blobs hanging from the ceiling. Blobs of Nether quartz, Nether gold ore, and blackstone generate in the wastes (where ore is most visible) with the rarer ancient debris found unexposed within the terrain. Gravel and soul sand are found among its coastlines.
+
+Most of the Nether's mobs can spawn here, including ghasts, zombified piglins, magma cubes, striders, piglins, and the occasional endermen. Nether fortresses, ruined portals and bastion remnants are present as well.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the Nether wastes:
+
+Ambience
+Nether ambience plays while the player is in the Nether.
+
++NameSoundGroupNether Wastes AmbienceFile:nether_wastes_ambience.ogg LoopNether Wastes Addition 1File:nether_wastes_addition1.ogg Loop AdditionsNether Wastes Addition 2File:nether_wastes_addition2.oggNether Wastes Addition 3File:nether_wastes_addition3.oggNether Wastes Addition 4File:nether_wastes_addition4.oggNether Wastes Addition 5File:nether_wastes_addition5.oggNether Wastes Addition 6File:nether_wastes_addition6.oggNether Wastes Addition 7File:nether_wastes_addition7.oggNether Wastes Addition 8File:nether_wastes_addition8.oggNether Wastes Dark 1File:nether_wastes_dark1.oggNether Wastes Dark 2File:nether_wastes_dark2.oggNether Wastes Ground 1File:nether_wastes_ground1.oggNether Wastes Ground 2File:nether_wastes_ground2.oggNether Wastes Ground 3File:nether_wastes_ground3.oggNether Wastes Ground 4File:nether_wastes_ground4.oggNether Wastes Mood 1File:nether_wastes_mood1.ogg MoodNether Wastes Mood 2File:nether_wastes_mood2.oggNether Wastes Mood 3File:nether_wastes_mood3.oggNether Wastes Mood 4File:nether_wastes_mood4.oggNether Wastes Mood 5File:nether_wastes_mood5.ogg
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+, if the Nether wastes is used as the biome for Overworld generation, although the terrain is entirely netherrack, no ore is generated (including Nether quartz ore, Nether gold ore, ancient debris, etc.). Caverns and lakes (with red-colored water) still generate. The player is still able to place water in an Overworld Nether wastes biome, but trying to sleep in a bed still causes an explosion.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Nether biomes
+
+de:Nether-Ödland
+es:Desiertos del Nether
+fr:Terres désolées du Nether
+it:Distese del Nether
+ja:ネザーの荒地
+ko:네더 황무지
+lzh:焱界之漠
+pl:Netherowe pustkowia
+pt:Descampado do Nether
+ru:Пустоши Нижнего мира
+uk:Незерська пустка
+zh:下界荒地

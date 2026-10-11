@@ -1,0 +1,76 @@
+TITLE: Jagged Peaks
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Jagged_Peaks
+---
+The jagged peaks are one of the tall mountain peak biomes. These tall and jagged mountains are completely made out of stone covered by a layer of snow blocks.
+
+Generation
+Jagged peaks generate at the highest points of the surrounding landscape when erosion is low, weirdness is negative, and temperatures are cold to temperate. They take on many shapes, from small snow-capped hilltops to mountain ranges stretching hundreds of blocks, and can rise as high as the generation limit of Y=256.
+
+Slope biomes, such as groves and snowy slopes, typically surround jagged peaks and act as a transition to flatter biomes like meadows, forests, taigas, and plains, though jagged peaks can also border those biomes directly.
+
+Frozen peaks never border jagged peaks, but the two can generate nearby, separated by a river or valley. Near the ocean, the terrain is also steep, featuring massive cliffs at the shoreline.
+
+Below the surface, dripstone caves and, to a lesser extent, lush caves frequently generate beneath jagged peaks. The deep dark is very common further down.
+
+Description
+The blocks that make up the jagged peaks are almost entirely raw terrain blocks like stone with many exposed ores. Notably, emerald ore, iron ore, and coal ore are more common and infested stone generates deeper underground.
+
+The terrain is covered by one layer of snow blocks which are covered by snow layers. Just like the snowy slopes, stone cliffs can generate in steep sides to the east or north with only a layer of snow covering them.
+
+Pillager outposts are the only structures that can generate here, and they often form large foundations of cobblestone due to the tall cliffs. Goats can spawn frequently in this biome, and , rabbits and polar bears can also spawn here, as well as strays and frostbites.
+
+With Vibrant Visuals, jagged peaks use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at sunrise and sunset.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in jagged peaks:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+In other media
+
+See also
+Mountains
+
+References
+
+External links
+
+Navigation
+
+de:Zerklüftete Gipfel
+fr:Pics dentelés
+pt:Picos pontiagudos
+th:ยอดเขาขรุขระ
+uk:Гострі вершини
+zh:尖峭山峰

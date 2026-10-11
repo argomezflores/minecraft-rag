@@ -1,0 +1,121 @@
+TITLE: Polar Bear
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Polar_Bear
+---
+Polar bears are large neutral mobs that spawn in icy biomes. Adult polar bears are protective of their babies, attacking players that get too close or attack any babies near them.
+
+Spawning
+Polar bears spawn in snowy plains, ice spikes, frozen and deep frozen ocean biomes, and additionally/sometimes in frozen river, legacy frozen ocean, snowy slopes, jagged peaks, and frozen peaks biomes . They spawn in groups of up to two, above ice. , polar bears don't spawn on ice in snowy plains and ice spikes biomes. If there is a group, the second polar bear is a baby.
+
+Drops
+On death
+On , one of cod or salmon is selected. On , both drops are rolled.
+
+from player or tamed wolves kills.
+
+Killing a baby polar bear yields no items or experience.
+
+Behavior
+thumb|150px|A polar bear attacking.
+Polar bears can be passive, neutral, or hostile depending on the situation. Baby polar bears are passive, and adults are neutral; becoming hostile when a player either directly attacks it or when the player comes close to or attacks any baby polar bears near it.
+
+If a baby polar bear is attacked, unless killed in one hit, all adults within a 41×21×41 area become hostile toward the player or mob, regardless of difficulty, although in Peaceful difficulty their attacks do zero damage to players.
+
+, attacking an adult who is within a 16×8×16 area of a cub also provokes other adults within a 21×21×21 area of the attacked adult.
+
+Adult polar bears also attack foxes.
+
+Polar bears attack by rearing on their back legs and mauling down with their front paws. Their swimming speed is equal to the player's, making them difficult to get away from if they are attacking in water.
+
+Polar bears are immune to freezing damage from powder snow.
+
+Unlike most animal mobs, polar bears cannot breed. Baby polar bears can only be found when they naturally spawn. A baby polar bear eventually turns into an adult after 24000 ticks (20 minutes), and their growth cannot be sped up. However, their growth can be stopped by using a golden dandelion on them.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Polar bears have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Adding polar bears to Minecraft was a request by Jeb's wife. Jeb answered they'd be added "if they ever had a bear of their own". Once their son was born, he was named "Björn" (Swedish for "bear"), and polar bears were added.
+During the development of the frozen ocean biome, polar bears were removed from spawning, due to being deemed too "sad". They were added back in because it is more accurate to the polar bear's real life status.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Textures
+
+In other media
+
+Notes
+
+References
+
+External links
+Polar bear article on Wikipedia
+
+Navigation
+
+Category:Neutral mobs
+Category:Animal mobs
+
+de:Eisbär
+es:Oso polar
+fr:Ours blanc
+hu:Jegesmedve
+it:Orso polare
+ja:シロクマ
+ko:북극곰
+nl:IJsbeer
+pl:Niedźwiedź polarny
+pt:Urso-Polar
+ru:Белый медведь
+th:หมีขั้วโลก
+uk:Білий ведмідь
+zh:北极熊

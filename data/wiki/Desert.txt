@@ -1,0 +1,90 @@
+TITLE: Desert
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Desert
+---
+A desert is an expansive arid biome mainly consisting of sand. It is notable for its many structures such as desert pyramids and villages, and its dangerous hostile mob variants.
+
+Generation
+Deserts generate in areas with very high temperatures. Despite being uncommon, deserts make up around 2.4% of the Overworld by area since they tend to be quite large.
+
+Deserts can border mangrove swamps, windswept savannas, and all badlands variants. They may also border jungles, savannas, forests, and plains when the temperature decreases.
+
+Unlike most biomes, deserts do not typically generate beaches along the coastlines, instead directly bordering the warm ocean, or generating a stony shore if erosion is low. Rivers are common, and tend to have less water and more dry grassland.
+
+Lush caves, dripstone caves, and sulfur caves frequently generate beneath deserts.
+
+Description
+The surface is made entirely of sand, with sandstone generating underneath the sand. The terrain is usually flat, but with occasional hills and cliffs.
+
+Among the animals that can spawn in the desert, only rabbits and camels spawn in the wild, while villagers, cats, and farm animals appear in the common desert villages.
+
+Cacti and dead bushes generate frequently across the landscape, with cacti sometimes featuring a cactus flower on top of them. Sugar cane generates more commonly along water which is equally common to other flatland biomes. Unique desert wells generate occasionally with water as well as desert pyramids and pillager outposts. Deserts are one of the only biomes where fossils generate underground.
+
+This large amount of structures makes desert a valuable source of treasure loot. In contrast, the desert is also one of the most dangerous biomes because of its hostile mob variants. Husks and parched spawn at nighttime or during dry thunderstorms, sometimes on jockey mounts or camel husks. These mobs do not despawn during the daytime.
+
+With Vibrant Visuals, deserts have unique atmospherics, the sky is tinted turquoise-green at daytime and much brighter during the night. Moonlight is much more vibrant blue than in any other biome. Deserts use the warmest color grading temperature of all biomes, tinting everything yellow/orange.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the desert:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Wüste
+es:Desierto
+fr:Désert
+he:מדבר
+it:Deserto
+ja:砂漠
+ko:사막
+lzh:大漠
+pl:Pustynia
+pt:Deserto
+ru:Пустыня
+uk:Пустеля
+zh:沙漠

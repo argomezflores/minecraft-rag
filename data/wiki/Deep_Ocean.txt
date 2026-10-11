@@ -1,0 +1,72 @@
+TITLE: Deep Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Deep_Ocean
+---
+A deep ocean is a variant of the regular ocean with the seafloor twice as deep.
+
+Generation
+Deep oceans generate adjacent to oceans when continentalness drops even lower. This means that they cannot border land biomes, except mushroom fields. The seafloor is twice as deep as in regular oceans, usually around Y=30, and islands are much rarer, yet not impossible.
+
+Deep oceans generate at moderate temperatures, bordering regular oceans when continentalness increases. Deep oceans border deep lukewarm oceans when temperature increases, and deep cold oceans when temperature decreases.
+
+Description
+Like in any deep ocean, ocean monuments generate in deep oceans, meaning guardians and elder guardians can spawn there. Tall seagrass also generates more frequently in deep oceans compared to shallower oceans. In any other aspect, deep oceans are the same as regular oceans, with a gravel seabed and common fish spawning.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a deep ocean:
+
+These music tracks play while the player is not underwater in a deep ocean:
+
+Data values
+
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Before 1.18, the plains and forest biomes generated in patches within regular deep ocean biomes, similar to how "hills" biomes generated within their respective base biomes, creating islands.
+Although normal deep ocean biome could generate standalone, normal deep ocean biomes also generated in patches within normal ocean biomes.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+Navigation
+
+fr:Océan profond
+pt:Oceano profundo
+uk:Глибокий океан
+zh:深海

@@ -1,0 +1,85 @@
+TITLE: Soul Sand Valley
+CATEGORY: Nether biomes
+URL: https://minecraft.wiki/w/Soul_Sand_Valley
+---
+A soul sand valley is a dry biome located in the Nether. It is formed of large caverns with Nether fossils and different blocks, mainly including soul sand and soul soil.
+
+Description
+The soul sand valley makes up around 17% of the Nether by volume, making it the third most common biome in the dimension. It can generate next to any other Nether biome except for the warped forest.
+
+The soul sand valley is mostly composed of soul sand and soul soil, with gravel found on its coastlines. Soul fire is scattered throughout the biome and Nether fossils poke out of the terrain. Near these fossils are dried ghasts. It lacks a diverse set of plants, with the only native vegetation being crimson roots and mushrooms, although crimson fungi and huge fungi may spawn where the biome borders a crimson forest. Its fog is cyan and the air particles are gray as the sounds of winds and the voices of ghosts fill the air. Giant columns of basalt called basalt pillars can be found stretching from the floor to the ceiling. Caverns, Nether fortresses and even bastion remnants can also be found in the soul sand valley.
+
+Glowstone blobs can be found in this biome, although they are significantly rarer than in other Nether biomes, since the ceiling of this biome is made of soul sand or soul soil below which glowstone blobs cannot generate; they can still occasionally generate in caves and canyons in this biome, because the ceiling is made of netherrack.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the soul sand valley:
+
+Ambience
+Nether ambience plays while the player is in the Nether.
+
++NameSoundGroupSoulsand Valley AmbienceFile:Soulsand_valley_ambience.ogg LoopSoulsand Valley Sand 1File:Soulsand_valley_sand1.ogg Loop AdditionsSoulsand Valley Sand 2File:Soulsand_valley_sand2.oggSoulsand Valley Sand 3File:Soulsand_valley_sand3.oggSoulsand Valley Voices 1File:Soulsand_valley_voices1.oggSoulsand Valley Voices 2File:Soulsand_valley_voices2.oggSoulsand Valley Voices 3File:Soulsand_valley_voices3.oggSoulsand Valley Voices 4File:Soulsand_valley_voices4.oggSoulsand Valley Voices 5File:Soulsand_valley_voices5.oggSoulsand Valley Whisper 1File:Soulsand_valley_whisper1.oggSoulsand Valley Whisper 2File:Soulsand_valley_whisper2.oggSoulsand Valley Whisper 3File:Soulsand_valley_whisper3.oggSoulsand Valley Whisper 4File:Soulsand_valley_whisper4.oggSoulsand Valley Whisper 5File:Soulsand_valley_whisper5.oggSoulsand Valley Whisper 6File:Soulsand_valley_whisper6.oggSoulsand Valley Whisper 7File:Soulsand_valley_whisper7.oggSoulsand Valley Whisper 8File:Soulsand_valley_whisper8.oggSoulsand Valley Wind 1File:Soulsand_valley_wind1.oggSoulsand Valley Wind 2File:Soulsand_valley_wind2.oggSoulsand Valley Wind 3File:Soulsand_valley_wind3.oggSoulsand Valley Wind 4File:Soulsand_valley_wind4.oggSoulsand Valley With 1File:Soulsand_valley_with1.oggSoulsand Valley Mood 1File:Soulsand_valley_mood1.ogg MoodSoulsand Valley Mood 2File:Soulsand_valley_mood2.oggSoulsand Valley Mood 3File:Soulsand_valley_mood3.oggSoulsand Valley Mood 4File:Soulsand_valley_mood4.ogg
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+Despite its name, the soul sand valley isn’t actually a valley due to its cave-like generation.
+In the official artwork of the Nether Update, a wither skeleton can be seen in the soul sand valley instead of normal skeletons, despite wither skeletons not naturally spawning there.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+Around the Block: Soul Sand Valley – Minecraft.net on July 23, 2020
+
+See also
+
+Navigation
+
+Category:Nether biomes
+
+de:Seelensandtal
+es:Valle de almas
+fr:Vallée des âmes
+it:Valle delle anime
+ja:ソウルサンドの谷
+ko:영혼 모래 골짜기
+lzh:靈沙谷
+pl:Dolina dusz
+pt:Vale de areia das almas
+ru:Долина песка душ
+th:หุบเขาทรายวิญญาณ
+uk:Долина піску душ
+zh:灵魂沙峡谷

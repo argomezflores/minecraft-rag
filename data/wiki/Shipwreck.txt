@@ -1,0 +1,259 @@
+TITLE: Shipwreck
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Shipwreck
+---
+A shipwreck is a common structure found in oceanic biomes and rarely on beaches that resembles a sunken sailing ship. It contains up to three chests each with a different loot table, which can contain suspicious stew, fishing rods, and buried treasure maps, which lead to a buried treasure.
+
+Generation
+Shipwrecks generate in all oceans commonly. On rarer occasions, they generate above sea level nearby the water, in beaches, snowy beaches, or inside an iceberg, ocean ruins, ocean monument, or canyon.
+
+Structure
+
+Shipwrecks generate in one of three ways: upright, keeled sideways, or upside-down. In many cases, they are missing their bow (front) or stern (rear), mast or multiple other blocks, giving them a damaged appearance; however, it is also possible, but rare, to find them completely intact. They consist solely of wooden materials, including logs/stripped logs, planks, fences, slabs, stairs, trapdoors, a door (if the ship is upright), and up to 3 chests, depending on rotation and intact sections of the ship. The bow is supposed to generate one chest (unless upside-down) while the stern should generate 2, and the whole ship generates a maximum of 3 chests, regardless of the ship's rotation or condition. However, there are some instances in which chests that usually generate in a shipwreck section are missing. Only two wood types are used per ship (one is the primary type, which is used by the logs and exterior, and the other the secondary type), but only 8 combinations are possible: Primary dark oak with secondary jungle and spruce, primary jungle with secondary spruce, primary oak with secondary birch and spruce, primary spruce with secondary dark oak, jungle, and oak. Acacia is also another possible secondary type.
+
+Structure name Description Consists of ImagesThe stern of a ship, upright, intact.166
+112
+67
+20
+15
+13
+6
+4
+3
+2
+2
+1 center|frameless|208x208pxThe stern of a ship, upright, with a degraded appearance.153
+109
+59
+20
+14
+10
+6
+4
+4
+2
+2
+1 center|frameless|211x211pxThe bow of a ship, upright, intact.128
+108
+58
+20
+18
+11
+8
+1
+1 center|frameless|240x240pxThe bow of a ship, upright, with a degraded appearance.111
+100
+44
+12
+10
+11
+7
+1
+1 center|frameless|210x210pxA whole ship, upright, intact.252
+178
+104
+31
+31
+26
+14
+10
+6
+3
+2
+1 center|frameless|284x284pxA whole ship, upright, with a degraded appearance.243
+171
+89
+31
+27
+23
+10
+9
+6
+3
+2
+1 center|frameless|286x286pxThe stern of a ship, capsized, intact.143
+105
+101
+10
+6
+5
+4
+3
+2 center|frameless|234x234pxThe stern of a ship, capsized, with a degraded appearance.123
+99
+88
+10
+6
+4
+3
+3
+2 center|frameless|239x239pxThe bow of a ship, capsized, intact.117
+104
+60
+13
+11
+7
+7
+1 center|frameless|229x229pxThe bow of a ship, capsized, with a degraded appearance.83
+81
+46
+13
+8
+7
+6
+1 center|frameless|229x229pxA whole ship, capsized, intact.223
+171
+159
+30
+22
+14
+10
+6
+3 center|frameless|234x234pxA whole ship, capsized, with a degraded appearance.206
+150
+149
+24
+21
+11
+10
+6
+3 center|frameless|258x258pxThe stern of a ship, turtled, intact.176
+107
+60
+10
+10
+7
+4
+4
+3
+2
+2 center|frameless|233x233pxThe stern of a ship, turtled, with a degraded appearance.167
+98
+55
+10
+8
+7
+4
+4
+3
+2
+2 center|frameless|283x283pxThe bow of a ship, turtled, intact.123
+93
+60
+21
+14
+9
+8
+2 center|frameless|228x228pxThe bow of a ship, turtled, with a degraded appearance.112
+82
+54
+20
+11
+9
+8
+2 center|frameless|242x242pxA whole ship, turtled, intact.219
+153
+116
+30
+28
+19
+14
+10
+4
+3
+2 center|frameless|334x334pxA whole ship, turtled, with a degraded appearance.194
+133
+109
+28
+27
+19
+14
+10
+4
+3
+2 center|frameless|262x262pxThe most complete shipwreck structure. A whole ship, upright, with all components, and three masts, intact.209
+182
+108
+70
+67
+35
+24
+16
+6
+4
+3
+1 center|frameless|221x221pxA whole ship, upright, with all components, three masts, and a degraded appearance.201
+172
+107
+63
+28
+24
+23
+16
+6
+4
+3
+1 center|frameless|292x292px
+
+Loot
+thumb|Internal structure of a whole shipwreck.
+
+Shipwrecks contain up to 3 loot chests, depending on the sections still intact. Supply chests generate in the bow of the ships, treasure chests generate in the upper section of the stern, and map chests in the lower section. In the case of certain shipwrecks, especially those that intersect other structures, the chests that would normally be present in the corresponding section may be absent, resulting in some shipwrecks holding no chests at all. Although chests don't usually generate for missing sections, map chests from shipwreck sterns may generate in upside-down bows even if the stern is missing. Furthermore, each shipwreck with at least 2 chests always contains its map chest.
+
+Supply chests
+
+Treasure chests
+
+Map chests
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+: (optional, defaults to false) Whether or not the shipwreck is beached.
+
+Achievements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+External links
+Building Blocks: Shipwreck – Minecraft.net on June 7, 2024
+
+Navigation
+
+de:Schiffswrack
+es:Naufragio
+fr:Épave de navire
+it:Relitto
+ja:難破船
+ko:난파선
+lzh:沈舟
+nl:Scheepswrak
+pl:Wrak statku
+pt:Naufrágio
+ru:Затонувший корабль
+uk:Уламки корабля
+zh:沉船

@@ -1,0 +1,67 @@
+TITLE: Deep Lukewarm Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Deep_Lukewarm_Ocean
+---
+The deep lukewarm ocean is a deep variant of the lukewarm ocean.
+
+Generation
+Deep lukewarm oceans replace deep oceans at moderately high temperatures, bordering lukewarm oceans and mushroom fields. They are twice as deep as regular oceans, and border deep oceans near lower temperature zones, or warm oceans near high temperatures.
+
+Description
+Since they are a deep ocean variant, they can generate ocean monuments and have more tall seagrass. In any other aspect, they are the same as regular lukewarm oceans, with a sand floor and warm fish.
+
+With Vibrant Visuals, deep lukewarm oceans use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a deep lukewarm ocean:
+
+These music tracks play while the player is not underwater in a deep lukewarm ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+External links
+
+Navigation
+
+fr:Océan tiède profond
+pt:Oceano morno profundo
+uk:Глибокий помірний океан
+zh:温水深海

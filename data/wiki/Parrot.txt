@@ -1,0 +1,175 @@
+TITLE: Parrot
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Parrot
+---
+A parrot is a tamable passive mob that spawns in jungle biomes. Parrots imitate sounds of nearby monsters and can perch on the player's shoulders.
+
+Spawning
+Parrots naturally spawn in groups of 1–2 in jungles, bamboo jungles, and sparse jungles above logs, leaves, grass blocks, or air.
+
+Unlike most passive mobs, parrots cannot be bred.
+
+Drops
+On death
+
+experience orbs are dropped when parrots are killed by a player or a tamed wolf.
+
+Behavior
+Parrots fly around idly under normal circumstances, landing frequently to rest. They take interest in any nearby mobs, including those that are hostile to them, and follow them around closely. When attacked, they rapidly fly upward several blocks to flee.
+
+Parrots also flap their wings to swim, slow their falls, and prevent fall damage.
+
+Parrots can be tamed by feeding them wheat seeds, melon seeds, pumpkin seeds, beetroot seeds, torchflower seeds, or pitcher pods. Each item fed has a  chance of successfully taming them. Once tamed,  with a parrot makes it sit down and stand up.
+
+Unless told to sit, a tamed parrot follows the player and teleports if there is a distance of 12 blocks between it and the player.
+
+A death message is displayed to a parrot's owner upon its death.
+
+Because a cookie contains cocoa beans (the main component of chocolate) and chocolate is toxic to real-life parrots, feeding a cookie to a parrot kills it. , the parrot receives  (3.4028 x 1038), damages, and emits Poison particles as it dies. , a cookie inflicts Fatal Poison on the parrot, killing it after a few seconds.
+
+Unlike most animal mobs, parrots cannot breed and baby parrots do not exist.
+
+Sitting on a shoulder
+thumb|A player with a parrot on their shoulder.
+
+A tamed parrot on the ground can be made to perch on its player's shoulder by moving through the parrot. On its own, a tamed parrot can also fly to and perch on the player's shoulder, unless it has been told to sit. A player can have one parrot on each shoulder. Parrots always prefer a player's left shoulder first, if it is empty.
+
+, a parrot dismounts its player when the player:
+Lands on a higher surface ( block up or higher)
+drops off a ledge of higher than  of a block
+takes damage
+touches water
+touches powder snow
+is in creative flying mode
+starts gliding with an elytra
+sleeps on a bed
+submerges the player's head in lava (the parrot dismounts and burns even if the player has Fire Resistance)
+
+Parrots on a shoulder always look in the same direction the player's head is looking.
+
+A parrot riding on an entity cannot take any damage (except void and ).
+
+But it may get hurt as soon as it dismounts, as when dismounting a player submerged in lava.
+
+A parrot sitting on the shoulder appears in the inventory interface.
+
+, a parrot sitting on a shoulder prevents the player from entering a nether portal.
+
+If a player uses an ender pearl while parrots are on their shoulder, the parrots teleport with the player.
+
+Imitating sounds
+Parrots imitate the idle sounds of nearby monsters and , a few neutral animals as well; they have a detection range of 20 blocks. The sound produced by the parrots is the same sound as the mob being mimicked at a higher pitch, the same pitch as the mob's baby variant. Occasionally, a parrot may imitate sounds of mobs that are not in the area.
+
+, they can also imitate neutral mobs such as endermen, polar bears, wolves and zombified piglins. , they can also imitate piglins, hoglins and piglin brutes.
+
+, parrots attempt to imitate happy ghasts, but without using the corresponding sound event.
+
+Parrots don't imitate the sounds of skeleton horses.
+
+Mobs that are imitated by parrots:
+
+Dancing
+Parrots will dance near a jukebox if a music disc is inserted into it. Parrots even have the ability to dance while on a player's shoulder. This is a reference to the Party Parrot meme. They stop dancing when the track ends.
+
+The dancing radius is 3 blocks from the jukebox. If they dance and then fly beyond this radius, they stop dancing. A parrot does not dance if the music disc was inserted prior to it spawning, dismounting, or being within the 3 blocks range.
+
+Sounds
+Generic
+:
+
+:
+
+Imitations
+Note that these are the original mob sounds, and not the pitched up ones heard from parrots in-game.
+When making their ambient sound, parrots have a chance to trigger a random sound from this list if the difficulty is not Peaceful.
+Sounds Sound Subtitles  Mob Resource location Translation key Volume Pitch Attenuationdistance  Parrot breathesFriendly Mobs   1.0 1.36-2.04 16    0.4 1.80  Parrot rattlesFriendly Mobs   1.0 1.36-2.04 16    0.7 1.70  Parrot whirsFriendly Mobs   0.71.7 16      Parrot hissesFriendly Mobs    ?  1.44-2.16  16    0.6  1.8   Parrot creaksFriendly Mobs   0.7 0.8-1.2 16     1.0 1.0  Parrot hissesFriendly Mobs    0.42  1.44-2.16  16     0.6  1.8   Parrot gurglesFriendly Mobs    0.42  1.44-2.16  16     0.6  1.8    Parrot moansFriendly Mobs    0.49  1.44-2.16  16      0.7  1.7   Parrot roarsFriendly Mobs    0.14  1.44-2.16  16     1.6  1.8     Friendly Mobs     0.5 1.7  Parrot scuttlesFriendly Mobs    0.49  1.44-2.16  16     0.7  1.8     Parrot murmursFriendly Mobs    0.42  1.44-2.16  16        0.6  1.8   Parrot criesFriendly Mobs    0.49  1.44-2.16  16     0.35  1.8   Parrot moansFriendly Mobs     0.28  1.44-2.16  16     0.7  1.8    Friendly Mobs     1.0 1.7   Parrot growls Friendly Mobs     0.42 1.52-2.28 16 Parrot groansFriendly Mobs    0.42  1.44-2.16  16     0.6  1.8     Parrot murmurs Friendly Mobs      0.49  1.44-2.16  16 Parrot squishesFriendly Mobs    0.42  1.44-2.16  16     0.6  1.8  Parrot rattlesFriendly Mobs   0.7  1.36-2.04  16   0.7  1.7   Parrot screechesFriendly Mobs      0.42  1.36-2.04  16     0.7  1.5    Parrot snorts Friendly Mobs     0.42 1.44-2.16 16  Parrot snorts Friendly Mobs     0.42 1.44-2.16 16 Parrot murmursFriendly Mobs    0.28  1.44-2.16  16     0.7  1.8     Friendly Mobs     0.7 0.8  Parrot gruntsFriendly Mobs     0.14  1.44-2.16  16     0.7  1.7   Parrot lurksFriendly Mobs    0.28  1.36-2.04  16     0.4  1.7   Parrot hissesFriendly Mobs    0.49  1.44-2.16  16     0.7  1.8   Parrot rattlesFriendly Mobs    0.7  1.36-2.04  16     1.0  1.7   Parrot squishesFriendly Mobs    0.42  1.44-2.16  16    0.6  1.8   Parrot hissesFriendly Mobs    ?  1.44-2.16  16    0.6  1.8   Parrot rattlesFriendly Mobs    0.42  1.28-1.92  16     0.6  1.6   Parrot vexesFriendly Mobs    0.56  1.28-1.92  16     0.8  1.6     Parrot muttersFriendly Mobs    0.42  1.36-2.04  16       0.6  1.7   Parrot whinesFriendly Mobs    0.56  1.6-2.4  16     0.8  1.8   Parrot gigglesFriendly Mobs    0.35  1.44-2.16  16     0.5  1.8 Except for the second copy of , which is 1.26   Parrot angersFriendly Mobs    0.14  1.44-2.16  16     0.2  1.8   Parrot rattlesFriendly Mobs    0.49  1.44-2.16  16     0.7  1.8     Friendly Mobs     0.6 1.8  Parrot growlsFriendly Mobs    0.42  1.52-2.28  16     0.7  1.7   Parrot groansFriendly Mobs    0.42  1.44-2.16  16     0.6  1.8   Parrot groansFriendly Mobs    0.42  1.44-2.16  16     0.6  1.8     Friendly Mobs     0.4 1.8
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Parrots have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: Specifies the color variant of the parrot, default is 0. Represents the  component.
+Variant Numerical ID Identifier 32px Red 0 red_blue 32px Blue 1 blue 32px Green 2 green 32px Cyan 3 yellow_blue 32px Gray 4 gray
+
+When a parrot is resting on the player's shoulder, it ceases to be a distinct entity and its entity data is stored in the player's ShoulderEntityLeft or ShoulderEntityRight NBT. See also Player.dat format.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Trivia
+Red parrots are based on the real-life  "with a little Minecraft twist". Similarly, blue parrots are based on , cyan parrots are based on , green parrots are based on , and gray parrots are based on .
+The Minecraft team uses various party parrot emojis when communicating with each other on discord."Really. We have over 20 different party parrot emojis. :D" – HelenAngel, April 5, 2017
+The advancement obtained for breeding two animals is called "The Parrots and the Bats", even though neither parrots nor bats can breed.
+The parrot's dancing animation is based on the party parrot emojis, that are in turn, based on the kākāpō.
+The "idle6" sound of the parrot is the English word "hello".
+File:Parrot idle6.ogg
+The artist and modeller for parrots, RazzleberryFox, originally designed ten parrots.
+
+Gallery
+Renders
+Sitting
+
+Dancing
+
+Sitting on the player
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Tameable mobs
+Category:Animal mobs
+Category:Flying mobs
+
+de:Papagei
+es:Loro
+fr:Perroquet
+it:Pappagallo
+ja:オウム
+ko:앵무새
+nl:Papegaai
+pl:Papuga
+pt:Papagaio
+ru:Попугай
+th:นกแก้ว
+uk:Папуга
+zh:鹦鹉

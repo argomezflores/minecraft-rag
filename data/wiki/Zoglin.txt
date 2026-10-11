@@ -1,0 +1,118 @@
+TITLE: Zoglin
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Zoglin
+---
+A zoglin is an undead hostile mob that a hoglin turns into when out of the Nether for fifteen seconds straight. It never retreats or flees, and attacks players and almost all non-zoglin mobs indiscriminately, using the same tusk attack as its non-zombified counterpart.
+
+Spawning
+Zoglins spawn when a hoglin has been out of the Nether for . For their first 10 seconds after zombification, they get the Nausea effect.This does not happen in Bedrock Edition due to . This Nausea effect is cosmetic and does not affect its behavior.
+
+Similar to most hostile mobs, zoglins despawn when the difficulty is changed to Peaceful.
+
+Drops
+On death
+Both adult and baby zoglins share the following item drop table:
+
+if killed by a player or tamed wolf.
+
+Behavior
+Zoglins are hostile toward armor stands, cameras, players in Adventure or Survival mode, and all mobs except agents, creepers, ghasts, and other zoglins. This includes hoglins and zombified piglins. Normal hoglins do not attack zoglins unless provoked by zoglins.
+thumb|A zoglin attacking a sulfur cube
+
+When an adult zoglin attacks, it flings its target into the airThis does not happen in Bedrock Edition due to .. Blocking with a shield does not mitigate this. When a baby zoglin attacks, they do not fling their target. Baby zoglins, unlike baby hoglins, never grow up. Any mob that can retaliate attacks a zoglin in return after being attacked, including baby zoglins.
+
+, adult zoglins attack once every two seconds and babies attack every second. , both adults and babies attack once every second.
+
+When a zoglin attacks a piglin, the piglin either retreats or fights back. Piglin brutes attack zoglins if they are attacked first and never retreat. They also attack the zoglin if the zoglin attacks a piglin or another piglin brute.
+
+Like hoglins, zoglins can be leashed. If a player has a zoglin on a lead, then the zoglin still attacks other entities who get within its attack range, but does not actively pursue and attack the player leading it.
+
+Zoglins are incapable of breeding and do not flee from blocks that repel hoglins. Unlike baby hoglins, baby zoglins attack baby piglins. Piglins flee from zoglins if they are not engaged in combat.
+
+Being an undead mob, they are:
+damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+unaffected by the status effects Regeneration and Poison.
+ignored by the wither.
+affected by the Smite enchantment.
+unable to swim in water, but do not drown.
+a threat to armadillos, causing them to hide in their shell.
+
+As they are undead and do not grow up, golden dandelions do not work on baby zoglins.​
+
+Like zombified piglins, they are immune to fire and lava.
+
+If a hoglin is fed crimson fungus before it is zombified, the resulting zoglin does not despawn naturally and it does not count toward the mob cap.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Zoglins have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (true/false) - true if the zoglin is a baby. May not exist.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Trivia
+The zoglin's behavior resembles a vindicator named "Johnny".
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+Category:Nether mobs
+
+de:Zoglin
+es:Zoglin
+fr:Zoglin
+he:זוגלין
+it:Zoglin
+ja:ゾグリン
+ko:조글린
+lzh:屍化獷豕
+pl:Zoglin
+pt:Zoglin
+ru:Зоглин
+th:ซอกลิน
+uk:Зоґлін
+zh:僵尸疣猪兽

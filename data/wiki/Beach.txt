@@ -1,0 +1,74 @@
+TITLE: Beach
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Beach
+---
+Beaches are common coastal biomes that serve as transition biomes from the mainland to an ocean. Beaches are covered entirely with sand and are the main source of turtles and buried treasure.
+
+Generation
+Beaches generate on the coast bordering non-deep ocean biomes and most flatland biomes. Rarely, a beach can generate completely landlocked.
+
+Depending on the surrounding terrain, beaches can be wide and hilly, short and flat, or more rarely, jagged with tall cliffs. Beaches are replaced by stony shores at lower erosion values, or snowy beaches in frozen biomes. The coast may not always have a beach biome; land biomes can also directly border oceans, sometimes with tall cliffs.
+
+Description
+The beach biome consists entirely of sand with sandstone underneath, like deserts, but without any vegetation. Beach biomes, along with their sand, commonly continue underwater for a few blocks.
+
+Buried treasures often generate buried under the sand, and shipwrecks occasionally generate stranded on beaches. Turtles may spawn here, but other animals cannot.
+
+With Vibrant Visuals, beaches use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint. Beaches have default atmospherics, lighting, and color grading like temperate biomes.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is on a beach:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Strand
+es:Playa
+fr:Plage
+it:Spiaggia
+ja:海岸
+ko:해변
+lzh:灘
+pt:Praia
+ru:Пляж
+uk:Пляж
+zh:沙滩

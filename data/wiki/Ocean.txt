@@ -1,0 +1,85 @@
+TITLE: Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Ocean
+---
+The ocean is an aquatic biome consisting of water. They are relatively deep bodies of water with the surface at an altitude of Y=63, which is counted as the “sea level” of the world.
+
+Generation
+Oceans generate when continentalness reaches lower values. Here, the terrain is mostly flat at a depth of roughly Y=45, below the sea level, although some underwater hills and cliffs may generate. Rarely, these are tall enough to rise beyond sea level and form islands.
+
+They border coastal biomes like beaches, stony shores, and rivers near landmasses, but can also directly border land biomes like forests and plains. Near mountains, this often results in tall oceanic cliffs, sometimes more than 100 blocks tall.
+
+Ocean biomes are separated into temperature variants and deep variants. The regular, shallow ocean generates at medium temperature zones bordering lukewarm oceans and cold oceans, as well as the regular deep ocean.
+
+Description
+thumb|200px|The separate colors of each ocean variant
+Oceans are vast expanses of water that start at the sea level and end at the ocean floor, which is mostly covered by a one-block layer of gravel, though some clay, dirt, and sand patches may generate near shallow areas. Islands in ocean biomes are covered with grass blocks and the default, sparse vegetation.
+
+The seafloor is often covered with seagrass and kelp, with “forests” of kelp frequently reaching close to or even touching the water's surface. Fish, squid, and dolphins frequently spawn within oceans. Shipwrecks and ocean ruins generate  here, but ocean monuments cannot as they can only generate in deep oceans.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in an ocean:
+
+These music tracks play while the player is not underwater in an ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+Tutorial:Island survival
+
+References
+
+Navigation
+
+de:Ozean
+es:Océano
+fr:Océan
+it:Oceano
+ja:海洋
+ko:바다
+lzh:海
+pl:Ocean
+pt:Oceano
+ru:Океан
+th:มหาสมุทร
+uk:Океан
+zh:海洋

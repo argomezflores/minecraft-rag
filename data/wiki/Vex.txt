@@ -1,0 +1,121 @@
+TITLE: Vex
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Vex
+---
+A vex is a small flying hostile mob that wields an iron sword and is summoned by evokers. It attacks by lunging at its target with its sword and is capable of phasing through walls.
+
+Spawning
+The vex only spawns as part of an evoker's summoning attack. While summoning, the evoker is surrounded by white particles and makes a magical, horn-like sound. Then, a group of three vexes appears near the evoker. The evoker can summon additional vexes even if some still remain alive from the last summoning. Blocks obstructing a vex's spawning point will prevent vexes from spawning.
+
+Drops
+The vex's iron sword does not drop, because its main hand's  or  is . This is not affected by the Looting enchantment.
+
+is dropped when a vex is killed by a player or tamed wolf.
+
+Behavior
+Vexes attack players, adult villagers, iron golems, wandering traders, and any other target as commanded by their summoning evoker (any mob that attacks the evoker accidentally or purposefully) or by itself. They still attack these mobs even when they do not have a weapon, raising both of its hands when attacking; an unarmed vex can be spawned with this command .
+
+If any mob attacks a vex, any vexes in the area become hostile toward it. This includes "Johnny" vindicators that attack them, even though both are allied with the illagers.
+
+Vexes are capable of flying through the air, can freely pass through any block, including water and lava (without taking damage) and bedrock, meaning they can die in the void. Cobwebs cannot slow down vexes, but honey blocks can. Vexes can be bounced back when pushed by a slime block with help of any piston.
+
+While attacking, vexes glow red and lunge at their target. They often fly toward the back of their targets and attack from behind, making it difficult to block their attacks with a shield.
+
+If a vex is not holding any item in either hand, it still targets players and villagers, but does not damage them.
+
+Vexes do not count toward the bossbar during a raid as they are not considered as raiders by the game.
+
+Vexes summoned by an evoker start taking damage after 30 to 119 seconds and eventually die, even while riding a minecart or boat. Vexes summoned by a monster spawner, spawn egg, or the  command do not take damage this way.
+
+, when idle, vexes stay within a 15×11×15 cuboid range centered on their evoker's position when they spawned, unless summoned by a spawn egg or the  command.  Once a vex targets a player, it will chase the player up to approximately 128 blocks from the evoker, beyond which it will slowly float back to the evoker unless the player comes into range again.
+
+Like allays, vexes are completely emissive with Vibrant Visuals.
+
+Sounds
+:
+
+:
+
+pt:Vex/Sons
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Vexes have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: When a vex is idle, it wanders, selecting air blocks from within a 15×11×15 cuboid range centered at X,Y,Z. This central spot is the location of the evoker when it summoned the vex, or if an evoker was not involved,  do not exist.
+: Ticks of life remaining, decreasing by 1 per tick. When it reaches zero, the vex starts taking damage and  is set to 20.
+: The UUID of the evoker this vex was spawned by, stored as four ints. May not exist.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Despite their ghostly appearances and their ability to phase through walls, vexes are not undead mobs.
+According to JAPPA, the retexturing and remodeling of vexes was a long time in the making due to being requested so much.
+
+Gallery
+
+Screenshots
+
+Mojang screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Hostile mobs
+Category:Monster mobs
+Category:Flying mobs
+Category:Illager-associated mobs
+
+cs:Protiva
+de:Plagegeist
+es:Vex
+fr:Vex
+it:Vessante
+ja:ヴェックス
+ko:벡스
+nl:Ergernis
+pl:Dręczyciel
+pt:Vex
+ru:Досаждатель
+th:เวกซ์
+uk:Бісик
+zh:恼鬼

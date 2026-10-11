@@ -1,0 +1,118 @@
+TITLE: Cod
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Cod
+---
+Cod are common bucketable aquatic passive mobs found in oceans that are a source of raw cod and, occasionally, bones or bone meal.
+
+Spawning
+
+Java Edition
+Cod spawn underwater in normal, cold, and lukewarm oceans, and their deep variants, in groups of 3-6, subject to fish spawning requirements.
+
+Bedrock Edition
+Cod spawn underwater 12–32 blocks away from the player in normal, cold, frozen, lukewarm oceans, and their deep variants, in groups of 4–7. In addition, cod spawn only on the surface; that is, there must not be a spawnable block above the spawn location with a non-solid block on top.
+
+Drops
+On death
+
+experience when killed by a player or tamed wolf.
+
+Behavior
+Cod tend to swim in schools with a maximum of 9 cod per school.
+
+The player may collect a cod by  a water bucket on it, which gives the player a bucket of cod. Cod placed with buckets do not despawn naturally. When that fish bucket is  on a block, it empties the bucket, placing water with the cod swimming in it.
+
+Cod cannot be bred, but only spawn in designated biomes.
+
+Weaknesses
+A cod cannot survive outside of water. Outside of water, they flip around on their sides like guardians for a while trying to get back into the water until, after 10 seconds of time, they start taking suffocation damage and die. , fish out of water rotate while flipping. They cannot swim or breathe in cauldron water. – "fish bouncing and suffocating on top of the cauldron which fills with water" resolved as "Won't Fix" They can swim in, but cannot survive in waterlogged blocks, most noticeably waterlogged slabs and stairs.
+
+, cod are vulnerable to weapons that have the Impaling enchantment, which also affects other fish and aquatic mobs except drowned.
+
+Axolotls always attack cods on sight but they will not attack another cods for a few times after that.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Cod have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: 1 or 0 (/) - Whether the fish had ever been released from a bucket.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+A cod in real life is any species of fish that belong in the genus Gadus, except for Alaska pollock which is the same genus but not called "cod".
+
+Gallery
+Render
+
+Screenshots
+
+Textures
+
+Other
+
+See also
+
+References
+
+External links
+Cod article on Wikipedia
+
+Navigation
+
+Category:Passive mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+cs:Treska
+de:Kabeljau
+es:Bacalao
+fr:Morue
+hu:Hal
+it:Merluzzo
+ja:タラ
+ko:대구
+lzh:鱈
+nl:Vis (wezen)
+pl:Ryba (mob)
+pt:Bacalhau
+ru:Треска
+th:ปลาค็อด
+uk:Тріска
+zh:鳕鱼

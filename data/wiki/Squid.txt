@@ -1,0 +1,137 @@
+TITLE: Squid
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Squid
+---
+A squid is a common aquatic passive mob that spawns in rivers and oceans, and is the main source of ink sacs, which it drops upon death.
+
+Spawning
+, 2 to 4 squid can spawn in water or waterlogged block from Y-level 50 to 63 (inclusive), as long as the biome is a river or ocean variant. The block above must also be water, and the block below must be water or waterlogged.The spawning block and the block below must contain water fluid (water source, flowing water, or waterlogged blocks) while the block above must be water (source or flowing).The squid itself must also pass the collision check. E.g. they can spawn in waterlogged blocks with no collisions such as kelp, sea grass, or signs, but will fail when trying to spawn in a waterlogged slab or above a waterlogged fence.
+Squid share the water creature mob cap with dolphins and nautiluses.
+
+, 2 to 4 squid can spawn in ocean biomes, and two can spawn in river biomes. In addition, squid spawn only on the surface, i.e. there must not be a solid or spawnable block above the spawn location.
+
+Squid have a 5% chance of spawning as babies.
+
+Drops
+On death
+
+experience points when killed by a player or tamed wolf.
+
+Behavior
+thumb|The ink cloud produced by a squid
+Squid are passive toward the player. They are not attracted to light and do not deliberately interact with the player. Squid sometimes beach themselves and suffocate on the banks of rivers and occasionally on ocean beaches. These behaviors are shared with the glow squid.
+
+Squid wander around aimlessly in three dimensions as long as they are in the water, opening and closing their tentacles, which gives them the appearance of pushing themselves leisurely forward.
+
+A squid's hitbox does not include its tentacles, and therefore they cannot be damaged by attacking its tentacles.
+
+Squid suffocate when out of water, dying after . While on land, they remain stationary until they suffocate although  a squid's tentacles swing more slowly as its oxygen meter goes down. A squid can also suffocate in a single layer of water source blocks if it orients itself with its hitbox out of the water.
+
+Upon death, a squid rotates 90 degrees in Bedrock Edition. Squid don't have a death animation .
+
+They can take fall damage and burn like any other land mob, but they cannot drown. When out of the water, squid are extremely resistant to knockback.
+
+Squid cannot swim in lava, even if inflicted with . They simply pass through the lava and behave as if on land.
+
+, squid can survive on land with . However, they still cannot move.
+
+Unlike land-based mobs, squid can swim against a current and not get pushed by it.
+
+Guardians and elder guardians attack squid in the same manner as they would a player, even if the squid is affected by Invisibility. Axolotls also attack squid.
+
+Squid are affected by the Impaling enchantment —  because they are aquatic mobs;  as long as they touch water.
+
+When attacked underwater, a squid rises – block while producing dark blue bubbles and a cloud of black ink particles, and swims away. The ink remains visible when the squid has the  status effect.
+
+If the player is in Spectator mode or is far away from a squid (often when it is in an unloaded chunk), it remains stationary. When attacked in this state, squid cannot flee.
+
+Like land-based mobs, squid can be picked up by a minecart.
+
+Unlike most 'animal' mobs, squid cannot breed. Baby squid can only be found when they naturally spawn. A baby squid eventually turns into an adult after 24000 ticks (20 minutes), and their growth cannot be sped up. Feeding a baby squid a golden dandelion will freeze their growth. Using it again they will then take 24000 ticks (20 minutes) to grow up.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Squid have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+When Jeb first added squid to Minecraft, he used the code for cows as a basis for squid. He accidentally forgot to remove the milking feature, which led to squid being able to be milked. He also made a mistake in the squid's movement code, causing a server-client desync over the squid's position, which led to the "flying squid" bug.
+In-game squid have eight arms, but in real life they also have two additional long tentacles. The in-game squid is more like an octopus.
+In-game squid have a gaping, tooth-lined mouth, but as passive mobs they are completely harmless. Real-life squid, like all cephalopods, have a beak instead of teeth.
+, squid are not affected by the "Dinnerbone" and "Grumm" name tag easter egg.
+
+Gallery
+Screenshots
+
+Textures
+
+In other media
+
+See also
+Tutorial:Squid farming
+
+References
+
+Navigation
+
+Category:Passive mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+cs:Chobotnice
+de:Tintenfisch
+es:Calamar
+fr:Poulpe
+hu:Tintahal
+it:Calamaro
+ja:イカ
+ko:오징어
+lzh:鰂
+nl:Inktvis
+pl:Kałamarnica
+pt:Lula
+ru:Спрут
+th:หมึก
+uk:Кальмар
+zh:鱿鱼

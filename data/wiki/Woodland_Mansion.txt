@@ -1,0 +1,518 @@
+TITLE: Woodland Mansion
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Woodland_Mansion
+---
+A woodland mansion is a massive procedurally-generated structure found in dark forests and pale gardens. It is often found far away from the world spawn point. A mansion is inhabited by vindicators, evokers, and imprisoned allays and is one of the only places where totems of undying can be obtained. They are primarily made of dark oak wood and cobblestone, and are filled with various rooms. Besides illagers, a mansion's interior lighting is sufficiently low for other Overworld monsters to spawn.
+
+Generation
+Woodland mansions generate rarely in dark forests and pale gardens. They can be located with woodland mansion maps, which are obtained from cartographer villagers and abandoned camp secret chests, but a map may not always point to the nearest one. The nearest woodland mansion may also be located via the  command enabled by cheats.
+
+Mobs
+link=Allay link=Evoker link=Vindicator Allay Evoker Vindicator
+A woodland mansion naturally generates vindicators, evokers, and allays inside the mansion, but because the entrance is open and most rooms in the woodland mansion are dark, Overworld mobs sometimes spawn in these rooms or come in through the entrance at night.
+
+The first floor of the mansion may only generate rooms that contain vindicators; from the second floor upward, some large rooms may contain both evokers and vindicators. Rarely, a vindicator can spawn in the corridors and hallways.
+
+Allays are found imprisoned in cells inside "jail" rooms, often guarded by a vindicator.
+
+Once all the vindicators and evokers are killed in a woodland mansion, they do not respawn, unlike pillagers, who respawn constantly in and around pillager outposts.
+
+Structure
+
+Although their exact structure varies, all woodland mansions have some things in common: they all have three floors with a variety of rooms, and generate a cobblestone foundation underneath the entire structure if there are any gaps between the bottom of the mansion and the ground. The top floor is about half the size of the lower floors, but its size is random for each mansion, depending on how many rooms are generated on the top floor. Each mansion includes a large foyer that leads to the corridors connecting the rooms. A giant staircase, which leads up to the second floor, generates in the large foyer. The foyer is dark and hostile mobs can spawn under the staircase.
+
+Rooms
+A woodland mansion contains many types of rooms. Because the layout is randomly generated, some room types may not be present. Furthermore, certain rooms within the mansion are not readily accessible – some may have sealed entrances, while secret rooms have no entrances at all.
+
+One may access the individual structures of a woodland mansion by using structure blocks to manually load room structures from the /data/minecraft/structures/woodland_mansion folder in minecraft.jar. To do so, set a structure block to Load mode, enter woodland_mansion/structure_name, and press LOAD. A list of possible rooms, the names of these structures, and small descriptions are provided in the table below. Note that the room names are conjectural.
+
+Main and secret rooms
+A woodland mansion can sometimes generate secret rooms on each floor. A secret room can be one of the following type: "X" room, spider room, fake end portal room, obsidian room, birch pillar room, clean chest room, lava room, and attic room, with the attic room being the most common, and the "lava" room being the rarest. One method to look for secret rooms is to look for gaps between normal rooms, this way is best on the first floor, as there are no windows. Another way is looking through the windows on the second and third floors of the mansion, since some secret rooms are exposed to windows. A final method to look for a secret room is cutting down the roof, which works best for the third floor alone. Then the player can see any secret rooms from the roof of the floor, as well as the whole floor's layout.
+
+In the table below, a  indicates either a chest with random loot, or the spawn point of an illager.
+
+Structure name(Room name) Description Consists of Images("Flower room")A room dedicated to a cobblestone bench on which five flower pots have been placed, containing four different flowers.49
+40
+10
+7
+2
+1
+1
+1 center|220px("Pumpkin ring room")A room with a cobblestone ring around the walls, with rails on top of it, and ladders placed on the walls of the ring. A single carved pumpkin sits on the middle of the ring facing the entryway.49
+30
+19
+18
+15
+12
+1 center|220px("Office")A room with two cobblestone tables of different heights and chairs to go with them. There are some flower pots and carpets on the tables.49
+10
+8
+3
+3
+3
+1 center|220px("Checkerboard room")A room with a checkerboard pattern on the floor, slightly resembling that of a kitchen. All of its walls are lined with oak fences. A loot chest lies hidden above the door.68
+49
+40
+15
+13
+1  (random loot)center|220px("White tulip sanctuary")A room with an indented cobblestone structure against the wall, and a single potted tulip situated in the indent.49
+46
+22
+9
+7
+6
+1 center|220px("X room")A secret room with cobblestone "X" patterns decorating the walls. A chest sits in the corner. These rooms can generate on any floor.120
+49
+1  (random loot)center|220px("Spider room")A secret room packed with many cobwebs, with a spider monster spawner located in the center. These rooms can generate on any floor.95
+49
+1 center|220px("Obsidian room")A secret room with an octahedron-shaped mass of obsidian concealing a block of diamond within. These rooms can generate on any floor.49
+19
+1 center|220pxcenter|220px("Birch pillar room")A secret room with four birch plank pillars erected toward the ceiling. These rooms can generate on any floor.85 center|220px("Birch arch room")An office-like room comprising a desk with a flower pot on top, as well as a prominent arch in the center, made of birch fences, slabs, and stairs.80
+39
+9
+6
+1
+1 center|220px("Small dining room")A room with a carpeted table accompanied by chairs made using dark oak stairs. The upper parts of the walls are decorated with chimney-like structures.49
+14
+10
+10
+4
+2
+2
+2 center|220px("Single bed bedroom")A cozy room with a wool bed, a cobblestone fireplace, and a bonsai made with a fence and a block of leaves.49
+13
+7
+6
+4
+3
+2
+1
+1
+1 center|220px("Small library")A small study room with the only things of interest being the several bookcases in the corners.49
+24
+20
+12
+9
+7
+1 center|220px("Allium room")A room with a vine-tangled oak stand, on which sits an array of potted alliums. A full cauldron and a chest containing more alliums sit nearby. The roof is built from oak fences.55
+49
+16
+6
+5
+1  (8 )
+1 center|220px("Gray banner room")A room with an altar-like construction in the middle, made of cobblestone and cobblestone stairs that delimit a short, narrow passage with a gray banner at the end. There's a chest hidden behind the construction. A vindicator always generates here.105
+82
+12
+11
+1
+1  (random loot)
+1 center|220pxcenter|220px("Wheat farm")A room with a wheat farm and a small table with a chair in the corner. The water in the farm is covered with lily pads. Some, or even all of the crops may be missing. The farm resembles a farm found in a village, but uses dark oak logs instead.105
+32
+32
+30
+8
+8
+6
+6
+4
+4
+3
+1 center|220px("Forge room")A room with arches made of polished andesite. Located at the end of the room is a damaged anvil and a lava pool encased by polished andesite to prevent the surrounding planks from burning. A vindicator always generates here.146
+105
+55
+15
+2
+1
+1 center|220px("Sapling farm")A room with two layered rows filled with dark oak saplings, connected by ladders reaching the ceiling. A chest containing dark oak saplings lies near the entrance.129
+105
+58
+58
+42
+39
+1  (28 )center|220px("Wool room")A room with a messy pile of assorted shades of blue wool.105
+56
+46
+19 center|220px("Tree-chopping room")A room containing an artificial tree on a dirt platform and a chest that always holds an iron axe with Efficiency I. This room’s entrance is sealed off by a wall of dark oak planks.105
+79
+20
+20
+9
+1  (1  with Efficiency I)center|220px("Mushroom farm")A room with a mushroom farm, as well as a table, a chair and an empty chest.
+In Java Edition, due to a bug, no mushrooms generated in this room before 1.20.105
+71
+24
+21
+20
+20
+11
+10
+1 center|220px("Dual-staged farm")A room with a two-tiered farm, with the lower one growing pumpkins and the upper one growing melons. A vindicator always generates here.105
+42
+40
+32
+32
+20
+16
+16
+16
+16
+16
+5
+1
+1
+1 center|220px("Small storage room")A room with shelves housing many empty single chests. A vindicator always generates here.117
+105
+66
+42
+1 center|220px("Redstone jail")A room with a large cobblestone jail accessible through a lever-connected redstone circuit that opens the jail’s two iron doors. Inside the jail is a small table constructed with cobblestone stairs, some brown carpets and a cauldron. A vindicator always generates here.211
+71
+42
+6
+6
+5
+4
+2
+1
+1
+1 center|220px("Small jail")A room with a cobblestone jail containing a cauldron and brown carpets. Located outside the jail is a chair and table, near which a vindicator always generates.213
+105
+8
+7
+6
+3
+2
+1
+2
+1
+1
+1 center|220px("Wood arch hallway”)A room with several arches made of dark oak logs, as well as a loot chest at the end. A vindicator always generates here.105
+65
+1  (random loot)
+1 center|220px("Winding stairway room")A room with a one-block wide, walled-up spiral staircase that leads to a loot chest.289
+105
+50
+1
+1  (random loot)center|220pxcenter|220px("Illager head room")An otherwise-empty room containing some illager pixel art.105
+26
+14
+5
+2
+2
+2 center|220px("Curved staircase")Some stairs leading up, curving toward the left or right at the base, above which hangs an illager head made of wool. Each woodland mansion generates either one of two rooms with staircases. Only one staircase leads to the third floor of the mansion if there are more staircases in the mansion.135
+105
+60
+26
+26
+24
+14
+14
+5
+3
+2
+2
+2 center|220pxcenter|220px("Medium dining room")A room consisting of a table made of oak stairs and decorated with a potted flower, near which appears to be a serving counter in the corner. A chandelier hangs from the ceiling.105
+19
+19
+13
+6
+5
+4
+4
+1 center|220px("Double bed bedroom")A room with pink and purple beds at the end, as well as a table with a flower pot in the corner.105
+12
+8
+5
+4
+1
+1 center|220px("Triple bed bedroom")A room with three blue beds and a desk. Three vindicators always generate here.18
+12
+6
+5
+3
+2
+1 center|220px("Medium library")A lounge-like room with many bookcases, swing-like seating structures against the walls, and a table in the center with four flower pots on it, the flowers arranged by height.105
+48
+24
+16
+14
+1
+1
+1
+1 center|220px("Straight staircase")A straight staircase leading to the third floor, above which hangs some illager pixel art. Each woodland mansion generates either one of two rooms with staircases.117
+112
+61
+35
+26
+14
+14
+12
+5
+2
+2
+2
+2 center|220pxcenter|220px("Master bedroom")A room with a regal four-post bed. Gray banners hang from an ornate wall decoration above the doorway.112
+26
+17
+16
+13
+12
+9
+4
+3
+1
+1
+1
+1 center|220px("Bedroom with loft")A two-tiered bedroom containing a closet made of birch planks and dark oak doors on the first tier. A ladder near the entrance leads above to a loft with a loot chest and a wool bed.105
+78
+18
+18
+9
+7
+6
+4
+2
+2
+1
+1  (random loot)center|220pxcenter|220px("Ritual room")A room dedicated to a complex altar-like structure with single prominent elevated block draped under black carpet. Cobblestone benches run down on both sides, and an overhead structure constructed with cobblestone and decorated by two black banners hangs over the altar. Two vindicators and an evoker always generate here.105
+101
+27
+9
+6
+2
+1
+2
+1 center|220px("Cat statue room")A room dedicated to a large black wool cat statue situated in the center.143
+105
+12
+2 center|220px("Chicken statue room")A room dedicated to a large wool chicken statue situated in the center.105
+98
+11
+2 center|220px("Clean chest room")A secret room with a lone loot chest surrounded by four torches on dark oak fences at each corner of the otherwise empty room. These rooms can generate only on the first floor.105
+4
+4
+1  (random loot)center|220px("Fake End portal room")A secret room with a platform of orange wool in the middle and a ring of green wool above it, giving it the appearance of a stronghold End portal with lava underneath. Cobblestone stairs and infested cobblestone allow access to the ring, which has a trapped chest containing two Ender pearls flanked by two TNT blocks. If the trap is sprung, the TNT breaks the infested cobblestone and reveals silverfish which swarm the player. These rooms can generate only on the first floor.105
+24
+12
+9
+9
+2
+1  (2 )center|220px("Attic room")A secret room divided into two tiers, with the first one having nothing of interest but the hidden upper one containing a chest at each of its two ends. These rooms can generate on the upper two floors.144
+105
+102
+30
+2  (random loot)center|220pxcenter|220px("Large jail")A room with four cobblestone jail cells of slightly differing sizes. A vindicator always generates here. Allays have a chance to spawn in the jails.597
+225
+39
+20
+12
+4
+4
+4
+4
+3
+2
+1-3
+1 center|220pxcenter|220px("Large storage room")A room with shelves holding many empty double chests. A vindicator always generates here.225
+85
+78
+32
+26
+2
+1 center|220px("Illager statue room")A room housing a giant statue of an illager's upper body, including its hands, made out of wool, with an object resembling a torch in its left hand. A block of lapis lazuli is hidden inside the illager's head, at the middle.225
+182
+18
+7
+5
+4
+4
+2
+1 center|220px("Nature room")A room comprising an andesite water feature in one corner, and an artificial dark oak tree in the other corner.225
+124
+62
+48
+9
+4
+2 center|220px("Large dining room")A large dining hall containing multiple three-chair tables, and a chandelier hanging from the ceiling. A small serving counter can also be seen along with a torch at the center of each wall. Two vindicators and an evoker always generate here.225
+32
+14
+14
+12
+9
+8
+4
+3
+2
+1 center|220px("Conference room")A large gathering hall with a U-shaped table decorated with potted tulips, as well as two chandeliers hanging from the ceiling. Two vindicators and an evoker always generate here.225
+58
+21
+16
+10
+8
+5
+2
+1 center|220px("Large library")A large room containing three bookshelves, as well as a seating area with three large armchairs.225
+180
+32
+82
+4 center|220px("Map room")A room with a large table on which colored carpets are placed, with the resulting pattern seemingly representing a map. A small bookcase is also set against one of the walls. Two vindicators and an evoker always generate here.225
+36
+28
+14
+9
+9
+8
+4
+3
+2
+1 center|220px("Arena room")A large room with an arena-like platform made of double smooth stone slabs and barred by a ring of dark oak fences. A ladder leads up to an overhead loft concealing a loot chest.225
+152
+52
+49
+46
+10
+5
+3
+2
+1  (random loot)center|220pxcenter|220px("Lava room")A secret room containing a lava-filled glass case supported by large obsidian foundations on the floor and ceiling. Hidden within the glass case is a block of diamond. These rooms can generate on any floor.225
+98 - 110
+99
+25
+1 center|220pxcenter|220px
+
+Technical structures
+Structure name Description Consists of Images A small group of red and white carpets facing east.2
+6 center|140px A small group of red and white carpets facing north.2
+6 center|140px A group of red and white carpets facing south, laid atop a birch plank floor, flanked by two dark oak plank pillars with torches set on their inward sides.24
+21
+9
+4
+2
+2 center|180px Exactly the same as the previous, but the tops of the pillars have stairs facing inward.24
+21
+9
+4
+2
+2
+2 center|180px A group of red and white carpets facing west, laid atop a birch plank floor, flanked by two dark oak plank pillars with torches set on their inward sides.24
+21
+9
+4
+2
+2 center|180px Exactly the same as the previous, but the tops of the pillars have stairs facing inward.24
+21
+9
+4
+2
+2
+2 center|180px A small square of red carpet, surrounded by white carpet, laid out upon a birch plank floor.49
+16
+9 center|180px("Foyer")A room with a staircase in the center, and three doors, one on every side of the room excluding the side with the staircase. Every mansion has one of these, and it's always adjacent to the front door.495
+360
+222
+191
+146
+127
+40
+40
+35
+25
+19
+18
+17
+4 center|220pxcenter|220pxcenter|220px A large dark oak plank wall, with an open arch situated off-center. Used as doorways within a mansion.44
+8
+2 center|120px The same doorway as the previous, but slightly taller, with a line of dark oak logs near the top.60
+8
+8
+2 center|120px A wall with a large cross constructed out of dark oak logs. Used as walls separating mansion rooms.48
+8
+8 center|120px The same wall as the previous, but slightly taller, with a line of dark oak logs near the top.64
+16
+8 center|120px A flat square of dark oak planks. Used for the main inner area of the mansion roofing.64 center|180px An outer corner of the mansion roof structure, constructed out of dark oak planks and stairs with a cobblestone base.16
+12
+8 center|140px The flat frontal area of the mansion roof structure, consisting of dark oak planks and stairs with a cobblestone base.32
+32
+16 center|180px An inner corner of the mansion roof structure, constructed out of dark oak planks and stairs with a cobblestone base.20
+16
+8 center|140px A short cobblestone structure used to construct wall corners.13
+3 center|80px An outer wall used to make distinct the area between one floor and the next. Constructed out of planks, logs, and various cobblestone.21
+10
+8
+3 center|180px The same wall structure as the previous, but much taller. In a technical quirk, the structure block marks an area far outside of the physical structure.25
+7 center|80px A flat wall of planks, decorated by dark oak logs and cobblestone stairs and walls. Used for the outer walls of the ground floor of the mansion.54
+16
+5
+4
+3 center|180px The same as the previous, but the log cross is replaced by an intricate window with an overhang. Additionally, cobblestone stairs generate along the lower edge alongside the cobblestone walls. Used for the outer walls of the upper floors of the mansion.31
+19
+15
+12
+7
+6
+4 center|180px
+
+Loot
+
+Also, there can be found 8 alliums in a chest in the "Allium room", 28 dark oak saplings in a chest in the "Sapling farm", 2 ender pearls in a trapped chest in the "Fake End portal room", and an iron axe with Efficiency I in the "Tree-chopping room".
+
+Quotes
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+Achievements
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Woodland mansions were added as a way to implement s, the main antagonists of the then-developing game , into the base game of Minecraft, providing them with a place to live.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Illager structures
+de:Waldanwesen
+es:Mansión del bosque
+fr:Manoir des bois
+it:Magione della foresta
+ja:森の洋館
+ko:삼림 대저택
+lzh:林地府邸
+nl:Boslandhuis
+pl:Leśny dwór
+pt:Mansão da Floresta
+ru:Лесной особняк
+th:คฤหาสน์กลางป่า
+uk:Лісовий маєток
+zh:林地府邸

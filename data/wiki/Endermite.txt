@@ -1,0 +1,114 @@
+TITLE: Endermite
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Endermite
+---
+Endermites are small hostile arthropods that have a 5% chance to spawn  when a player throws an ender pearl. They attack by biting, and Endermen are hostile toward them.
+
+Spawning
+Endermites have a 5% chance to spawn when a player-thrown ender pearl lands. They spawn at the player's original position when the pearl lands, or at the pearl's landing site.
+
+An endermite despawns within 2 minutes, regardless of the player's distance, unless it has been named with a name tag. This applies even when it is in a minecart, boat, or boat with chest.
+
+Drops
+On death
+Endermites drop  experience orbs when killed by a player or tamed wolf.
+
+Behavior
+
+Endermites attack players within 16 blocks.
+
+, endermites become hostile toward any mob that attacks another endermite. Endermites  on the other hand do not become hostile toward any mob that attacks it.
+
+Endermen attack endermites in line of sight within 64 blocks. Endermites attack endermen .
+
+As arthropods, endermites are affected by the Bane of Arthropods enchantment.
+
+Like endermen, the eye of an endermite is emissive with Vibrant Visuals.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Endermites have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: How long the endermite has existed in ticks. Disappears when this reaches around 2400.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Endermites are the smallest hostile mob by hitbox size.
+Endermites are said to come from an "in-between" dimension, and are left behind by endermen as they teleport through.
+In a 2025 Minecraft.net article, the dimension that endermites come from was referred to as a terrifying and "scary in-betweeny dimension". It is explained that endermites attack players and endermen because they don’t like "being dragged between dimensions".
+According to the same article, endermites are "Lil fuzzy wuzzy killers".
+Dinnerbone once mentioned an "ultimate plan" for endermites involving the dragon egg, though this never came to fruition.
+In response to a question asking if the ultimate plan was an evil plan, Dinnerbone stated that "everything is an evil plan to somebody".
+When the person who asked the initial question stated they liked evil plans, Dinnerbone cryptically stated that he liked "evil plants".
+
+Gallery
+Screenshots
+
+Textures
+
+In other media
+
+See also
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Monster mobs
+Category:Arthropod mobs
+Category:End mobs
+
+cs:Endermit
+de:Endermite
+es:Endermite
+fr:Endermite
+he:אנדרמייט
+hu:Endermite
+it:Endermite
+ja:エンダーマイト
+ko:엔더마이트
+lzh:終眇蟎
+nl:Endermite
+pl:Endermit
+pt:Endermite
+ru:Эндермит
+uk:Ендермайт
+zh:末影螨

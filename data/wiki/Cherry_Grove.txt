@@ -1,0 +1,76 @@
+TITLE: Cherry Grove
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Cherry_Grove
+---
+A cherry grove is a mountain slope and plateau biome similar to meadows, filled with cherry trees.
+
+Generation
+Cherry groves generate inland at medium or cold temperatures and low humidity in areas of positive weirdness. They frequently generate on mountain slopes, as plateaus, or as valleys in mountain rings, allowing for a wide variety in shapes and terrain. However, these various climate requirements sometimes limit cherry grove generation to smaller patches, at times only a few blocks wide.
+
+Cherry groves often border plains, sunflower plains, forests, and dappled forests near lower elevation, and snowy slopes or frozen peaks near mountains. They less commonly border ice spikes and groves.
+
+Rivers and dry valleys sometimes separate meadows from mountains that contain cherry groves.
+
+Description
+Cherry groves have a lush green grass color with a slight arid tone. The ground is covered by more short grass, pink petals, and some tall grass. The main environmental features of the cherry grove are cherry trees identified by their pink leaves. Their leaves drop many petal particles in the atmosphere. Bee nests with bees generate somewhat commonly on the sides of cherry trees. The cherry trees can generate densely enough to create a cover of leaves.
+
+Just like in meadows, emerald ore can be found here, especially at higher altitudes, and both coal and iron ore are commonly found here. Infested blocks also naturally generate in cherry groves. Villages cannot generate here, but pillager outposts can. , unlike most Overworld biomes, sugar canes and pumpkin patches cannot generate here. Abandoned camps sometimes generate in cherry groves.
+
+, cherry groves are cold and allow snowfall above Y=200±8, however, this never occurs on natural terrain.
+
+Passive mobs that spawn here are limited to pigs, sheep, and rabbits.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the cherry grove:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang images
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Kirschberghain
+es:Cerezal
+fr:Bosquet de cerisiers
+ja:山岳#Cherry Grove
+ko:벚나무 숲
+lzh:櫻林
+pl:Wiśniowy gaj
+pt:Cerejal
+ru:Вишнёвая роща
+uk:Вишневий гай
+zh:樱花树林

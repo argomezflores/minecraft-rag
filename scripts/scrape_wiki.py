@@ -4,6 +4,7 @@ scrape_wiki.py — CLI para bajar el corpus curado de la Minecraft Wiki.
 Uso:
   python scripts/scrape_wiki.py               # full run
   python scripts/scrape_wiki.py --dry         # solo lista qué bajaría, sin bajar
+  python scripts/scrape_wiki.py --only "Hostile mobs,Boss mobs"   # solo esas categorías, sin prioritarias
 
 Se guarda cada artículo como data/wiki/{title}.txt con headers de metadata.
 Los archivos existentes se saltan (idempotente) — para forzar re-descarga,
@@ -22,21 +23,29 @@ from src.config import WIKI_PATH
 from src.scraper import _get_site, fetch_category, fetch_pages_by_title, save_article, safe_filename
 
 
-# 📚 Categorías curadas — corpus expandido v3.
-# Foco de Rogelio: crafteo, redstone, mecánicas, hornos, pociones. NO estructuras.
+# 📚 Categorías curadas. fetch_category NO entra a subcategorías: en la wiki los
+# mobs, estructuras y biomas viven en subcategorías (Category:Mobs → Hostile mobs…),
+# así que se listan explícitas. No se recorren todas a propósito: traerían
+# "Joke mobs", mobs de la película, biomas de Minecraft Dungeons, etc. (eval-log #011).
 CATEGORIES = [
     ("Items", 300),                # subimos de 250: más items del late-game
     ("Blocks", 500),               # ⬆️ 220 → 500: captura Hopper, Piston, Repeater, Furnace, etc.
-    ("Mobs", 100),
+    ("Mobs", 100),                 # solo páginas generales (Mob, Boss, Undead…)
     ("Potions", 60),               # ⬆️ ampliado
     ("Enchantments", 50),
     ("Gameplay", 150),             # ⬆️ 120 → 150: más mecánicas
     ("Redstone circuits", 60),     # ⬆️ 40 → 60
-    ("Redstone components", 80),   # 🆕 categoría específica de componentes
-    ("Utility blocks", 60),        # 🆕 furnace, brewing stand, cauldron, etc.
-    ("Mechanics", 80),             # 🆕 hunger, XP, sleep, brewing mechanics
-    ("Farming", 50),               # 🆕 cultivos, breeding
-    ("Biomes", 60),
+    ("Biomes", 60),                # solo páginas generales
+    # 🆕 v6 (#011): subcategorías con el contenido real
+    ("Hostile mobs", 80),
+    ("Passive mobs", 80),
+    ("Neutral mobs", 40),
+    ("Boss mobs", 10),
+    ("Generated structures", 60),
+    ("Dimensions", 20),
+    ("Overworld biomes", 80),
+    ("Nether biomes", 10),
+    ("End biomes", 10),
 ]
 
 # 📚 Fallback explícito: páginas críticas que Rogelio necesita en su día a día
@@ -65,6 +74,7 @@ PRIORITY_PAGES = [
     "Totem of Undying", "Ender Pearl", "Eye of Ender",
     # Portals & travel
     "Nether portal", "End portal", "Bed", "Boat", "Horse",
+    "The Nether", "The End", "Overworld",
     # Brewing/potions core
     "Potion", "Splash Potion", "Lingering Potion", "Tipped Arrow",
     "Blaze Powder", "Nether Wart", "Glass Bottle", "Water Bottle",
@@ -82,8 +92,19 @@ def main() -> int:
     dry = "--dry" in sys.argv
     WIKI_PATH.mkdir(parents=True, exist_ok=True)
 
+    # 📚 --only: corre solo esas categorías (y no las prioritarias). Útil para agregar
+    # categorías nuevas sin volver a pedir las ~1,000 páginas ya cacheadas.
+    categories = CATEGORIES
+    only = None
+    if "--only" in sys.argv:
+        only = {c.strip() for c in sys.argv[sys.argv.index("--only") + 1].split(",")}
+        categories = [(name, n) for name, n in CATEGORIES if name in only]
+        unknown = only - {name for name, _ in CATEGORIES}
+        if unknown:
+            print(f"[warn] no están en CATEGORIES: {sorted(unknown)}")
+
     print(f"Destino: {WIKI_PATH}")
-    print(f"Categorías ({len(CATEGORIES)}): {[c[0] for c in CATEGORIES]}")
+    print(f"Categorías ({len(categories)}): {[c[0] for c in categories]}")
     print(f"Páginas prioritarias ({len(PRIORITY_PAGES)}): {PRIORITY_PAGES[:8]}...")
     if dry:
         print("\n[DRY RUN] no se descargará nada.\n")
@@ -107,12 +128,13 @@ def main() -> int:
             print(f"  [progress] {total_saved} nuevos guardados...")
 
     # 📚 Primero categorías (bulk), después páginas prioritarias (fallback exacto).
-    for category_name, max_pages in CATEGORIES:
+    for category_name, max_pages in categories:
         for article in fetch_category(site, category_name, max_pages=max_pages):
             _persist(article)
 
-    for article in fetch_pages_by_title(site, PRIORITY_PAGES):
-        _persist(article)
+    if only is None:
+        for article in fetch_pages_by_title(site, PRIORITY_PAGES):
+            _persist(article)
 
     print(f"\n✅ Terminado.")
     print(f"   Nuevos guardados: {total_saved}")

@@ -1,0 +1,162 @@
+TITLE: Creaking
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Creaking
+---
+A creaking is a hostile mob spawned by active creaking hearts at night. It moves to attack players with melee headbutts, but cannot move at all while any players in Survival or Adventure mode can see it. It is protected from all damage by the creaking heart that spawned it; breaking the creaking heart kills the creaking. Hitting a protected creaking causes resin clumps to grow on pale oak logs near its linked creaking heart.
+
+Spawning
+
+Creakings spawn when an activated creaking heart is triggered at nighttime. To activate the heart, it must be placed between two pale oak blocks (pale oak logs, pale oak wood, stripped pale oak logs, or stripped pale oak wood) with the same orientation as the heart and along the same axis (for example, all three oriented along the Y axis, stacked on top of each other). When these conditions are met and the creaking heart is within the Overworld, a creaking spawns within 16 blocks horizontally and 8 blocks vertically of the creaking heart. The spawned creaking is linked to this creaking heart. The creaking heart does not deactivate even if its surrounding logs are broken or moved via pistons when the creaking is out.
+
+Unlike most monsters, a creaking can spawn on some blocks that prevent other mobs from spawning. Items that can be placed but do not have a collision box (buttons, glow lichen, levers, rails, redstone dust, pressure plates, torches and its variants) and full blocks that are transparent (glass, ice, scaffolding) that normally prevent mob spawns do not prevent creakings from spawning. However, blocks with a hitbox that is not a full block, such as carpets, do prevent creakings from spawning.
+
+If a creaking linked to a creaking heart is killed with a command during night, or moves more than 32 blocks away from its creaking heart, the creaking heart attempts to spawn a new creaking.
+
+The creaking can also be spawned using its spawn egg or commands. Creakings spawned by these methods do not vanish during the day, are not linked to any creaking heart, can take damage normally, and can go through portals without dying. On Bedrock Edition, if a creaking spawned this way is given the Absorption effect via commands, then when they take damage the player hurt sound is played.
+
+Drops
+On death
+Creakings do not drop any items or experience on death.
+
+Behavior
+Unalerted or idle
+Newly spawned creakings begin in an unalerted state. While in this state, their eyes are dimly lit and they walk around aimlessly.
+
+Idle creakings are not immediately hostile to the player, but become hostile once they enter the player’s field of vision.
+
+Alerted and attacking
+thumb|A creaking chasing the player when they look away from it.
+When a creaking within approximately 12 blocks enters a player's field of vision, it becomes alerted. This is signified by an “activation” sound and its eyes glowing a brighter orange. While alerted, the creaking attempts to move toward and attack the player, moving only when outside of the player's field of vision (such as behind the player or hidden behind blocks). An alerted creaking moves quickly, faster than an attacking vindicator, able to close distances in a matter of seconds.
+
+When within a player's field of vision, the creaking becomes completely immobile and can no longer attack, nor can it be pushed or knocked back by player attacks. If all nearby players leave the creaking's detection range (or enter Creative or Spectator mode), the creaking returns to its unalerted state.
+
+A player being invisible has no effect on the creaking's behavior and will still alert and be attacked by them.
+
+Creakings inflict  melee damage in Easy difficulty,  in Normal difficulty, and  in Hard difficulty.
+
+Field of view detection
+If a Survival or Adventure mode player's facing direction (both pitch and yaw) is within 60° of the creaking without blocks obstructing, the creaking becomes immobile. Changing the field of view (FOV) or entering third person view does not affect this detection. The visual box block obstructs the view.
+
+If a player is wearing a carved pumpkin, any creakings within their first-person FOV can still move. Wearing a carved pumpkin does not prevent an unalerted creaking from becoming alerted.
+
+Linked to a creaking heart
+
+A creaking spawned by a creaking heart is linked to it and becomes completely invulnerable to all sources of damage (except for the void and ). If necessary, it safely navigates on or through hazardous blocks such as magma blocks, powder snow, and lava. When the creaking is hit by a player-caused source, it sways and produces a trail of orange and gray particles that move in the direction of its connected creaking heart, and resin clumps grow on pale oak logs near the creaking heart during night-time. Hitting a named creaking during the day does not place resin clumps near its heart.
+
+Each creaking heart has a 32-block Euclidean radius surrounding it, where its linked creaking resides in. The creaking never intentionally moves beyond this radius from its creaking heart, even when pursuing a player. If it is pushed out of this radius, such as with pistons or knockback, it dies.
+
+Other attributes
+Creakings cannot enter minecarts or boats.
+
+While an immobilized creaking cannot be moved or pushed directly by players, it can still be moved via other methods. This includes water, lava, explosions, pistons, falling blocks, wind charges and attacks from some mobs. Iron golems, hoglins, zoglins, ravagers and wardens are able to fling the creaking into the air, and shulker bullets can give creakings the Levitation effect.
+
+Creakings can naturally swim and float on the surface of water or lava, but sink when they are immobilized from being observed.
+
+Creakings spawned from creaking hearts are not subject to the Infested, Oozing, Wind Charged, or Weaving status effects. However, creakings spawned using a spawn egg or commands are affected by these status effects as expected.
+
+Pillagers, evokers, vindicators, and illusioners flee from creakings when within 8 blocks. Vindicators with the name tag "Johnny" alternate between fleeing from creakings and attempting to attack them. Ravagers do not flee from creakings.
+
+With Vibrant Visuals, the eyes of creakings are emissive similar to eyeblossoms. Combined with the dense fog in the pale garden and nighttime, the emissive eyes are often the only part visible from a distance.
+
+Redstone component
+Because a creaking sinks in water (or lava) while being observed, but float while not being observed, a pressure plate or similar means can be used to produce a redstone signal while a creaking is being looked at, due to it sinking down and activating it. An unobserved creaking bobs up and down in liquid, which can cause it to activate a pressure plate even if not being looked at. Giving a creaking enough space to bob prevents this.
+
+Additionally, a redstone comparator can produce a signal by reading a creaking heart linked to a currently-spawned creaking. The produced signal strength is based on the Euclidean distance between the creaking and its heart, which is calculated as follows:
+
+In other words, the closer a creaking is to its heart, the stronger the signal.
+
+Despawning
+Naturally-spawned creakings despawn during daytime; if they have been named with a name tag they can persist throughout the day, but will still despawn eventually (this behaviour is an open bug: it looks like either creakings should be unnameable, or named creakings should be fully persistent).
+
+They also despawn if they are outside the 32-block radius around their linked creaking heart, or if they remain within the same block as a player for longer than 5 seconds, immediately respawning near the heart in both cases.
+
+Death
+thumb|right|200px|A creaking twitches before dying.
+Being invulnerable, naturally-spawned creakings cannot be killed by normal means. To kill a creaking, the player must destroy the creaking heart block it is linked to. Once the linked creaking heart is destroyed, the creaking twitches briefly before dying. This counts as the player who mined the block killing the creaking with regard to advancements and statistics.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Creakings have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Advancements that apply to non-creaking heart creakings:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The creaking is actually rooted to the ground and cannot be pushed as a result; this is seen in animations of the creaking in which it moves only one leg at a time. A creaking connected to a creaking heart is also connected to the pale tree roots.
+The creaking was made asymmetrical to emphasize its contrast with the rest of the Overworld and make it different from other mobs.
+Some of the sounds used for the creaking are made using teeth, dead sticks and leaves, a creaky chair, a table, and pretzel sticks, as well as Minecraft Social Lead Anthony Toczek's knuckles cracking.
+During the Minecraft Live 2024 Developer after-show, Marco Ballabio jokingly claims that a group of creakings is called a crunch.
+In a photo tweeted by the official Minecraft Twitter account, the creaking's body appears reversed, with the eyes mirrored. Its body also appears reversed in the key art of The Garden Awakens.
+During the Minecraft Live 2024 event, in which they were introduced, their texture was much darker and their eyes were more yellowish.
+Toward the end of the second Villager News segment in this livestream, when a villager places a creaking heart, the particles that appear when the creaking is summoned resemble those that appear when hitting a creaking in-game. This, however, does not occur in-game.
+
+Gallery
+Textures
+
+Animations
+
+Development renders
+
+Concept artwork
+
+Screenshots
+
+Mojang images
+
+In other media
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Monster mobs
+Category:Constructible mobs
+
+de:Knarz
+es:Crepitante
+fr:Grinceur
+it:Scricchio
+ja:クリーキング
+ko:크리킹
+lzh:䦪鬼
+pl:Trzeszcz
+pt:Rangente
+ru:Скрипун
+uk:Скрипень
+zh:嘎枝

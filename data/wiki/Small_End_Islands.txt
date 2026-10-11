@@ -1,0 +1,41 @@
+TITLE: Small End Islands
+CATEGORY: End biomes
+URL: https://minecraft.wiki/w/Small_End_Islands
+---
+The small End islands is a biome used to generate outer End islands.
+
+Description
+This biome generates as part of the outer islands of the End which consists of the empty expanses between the larger islands, populated only by smaller, circle-shaped islands. Neither End cities nor chorus trees can generate in this biome and it is the only biome where small islands can generate.
+
+Mobs
+The following mobs naturally spawn here:
+
+Music
+These music tracks play while the player is in the small end islands:
+
+Data values
+ID
+
+Biome definition
+
+History
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+External links
+
+Navigation
+
+Category:End biomes
+
+fr:Petites îles de l'End
+pt:Ilhas pequenas do End
+ru:Островки Края
+uk:Острівки Енду
+zh:末地小型岛屿

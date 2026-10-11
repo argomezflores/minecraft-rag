@@ -1,0 +1,76 @@
+TITLE: Frozen Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Frozen_Ocean
+---
+The frozen ocean is an icy variant of ocean covered by icebergs. The water's surface is partially covered with ice, where snowfall may occur and polar bears can spawn.
+
+Generation
+Frozen oceans generate as shallow ocean biomes at the coldest temperature zones, often near snowy plains, snowy taigas, regular taigas, and ice spikes. They are sometimes, but not always, separated from land biomes by snowy beaches, stony shores, or frozen rivers. They can generate close to mountains with groves and snowy slopes forming tall oceanic cliffs.
+
+Frozen oceans border deep frozen oceans as continentalness decreases, and cold oceans near higher temperatures.
+
+Description
+thumb|200px|The separate colors of each ocean variant
+Unlike other oceans, frozen oceans do not have a gravel seabed and directly expose stone and variants. Neither seagrass nor kelp generates on the seafloor, leaving it entirely barren. The surface is widely covered with ice, while large icebergs made of snow blocks, packed ice, and a bit of blue ice frequently generate.
+
+Shipwrecks and cold ocean ruins generate here, often inside icebergs. Occasional islands in frozen oceans are also covered with stone, however, some patches of grass blocks generate in between.
+
+Fewer mobs spawn here than in any other ocean variant, only cod and salmon. On the surface, however, polar bears and rabbits may also spawn , while some skeletons are replaced by strays and some zombies with frostbites.
+
+Frozen oceans have varying temperatures across their landscapes. Colder patches generate snowfall and freeze water on any altitude, while some patches only allow snowfall above Y=120±8, creating rainfall and unfrozen water on the ocean's surface.
+
+With Vibrant Visuals, frozen oceans use default environmental settings with a strong cold color grading, making the biome appear colder blue. They use cold sunlight, which is slightly stronger at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+, these music tracks play when the player is underwater in a frozen ocean:
+
+These music tracks play while the player is not underwater in a frozen ocean:
+
+Data values
+
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+External links
+
+Navigation
+
+fr:Océan gelé
+pt:Oceano congelado
+uk:Замерзлий океан
+zh:冻洋

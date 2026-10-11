@@ -1,0 +1,75 @@
+TITLE: Frozen River
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Frozen_River
+---
+A frozen river is an ice topped variant of the river that replaces the river in frozen regions.
+
+Generation
+Frozen rivers generate in place of rivers in the coldest temperatures. They often cut through biomes like snowy plains, snowy taigas, and ice spikes, but sometimes also non-snowy taigas where the edges of the river are not frozen.
+
+Like rivers, they can generate in many forms such as deep fjords, wide areas, or sometimes fall dry. They divide higher landmasses, serving as a division between two distinct biomes, and they sometimes end in elevated terrain.
+
+Frozen rivers often end in frozen oceans, although they can form loops or lakes. They sometimes cut through snowy beaches or stony shores near oceans.
+
+Description
+In a frozen river biome, the water is completely covered in a layer of ice. Patches of land or river coasts are covered in snow.
+
+Seagrass generates on the riverbed but cannot replace ice, and bushes can generate on land atop grass blocks. The rest of the frozen river biome generates exactly the same as any other biome, however, due to the extended coastlines, firefly bushes and sugar cane are more common, the latter uprooting itself due to the freezing water. When cutting through an ice spikes biome, spruce trees are often placed on land in the frozen river, although the biome itself does not generate them.
+
+Salmon spawn in the water here, as well as rabbits and polar bears . In Bedrock Edition, like some other cold biomes, only strays, skeletons, and frostbites can spawn at nighttime or during thunderstorms, as well as drowned underwater and slimes on slime chunks.
+
+With Vibrant Visuals, frozen rivers use default atmospherics with a strong cold color grading, making the biome appear colder blue. They use cold sunlight, which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a frozen river:
+
+These music tracks play while the player is not underwater in a frozen river:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Vereister Fluss
+pt:Rio congelado
+ru:Замёрзшая река
+uk:Замерзла річка
+zh:冻河

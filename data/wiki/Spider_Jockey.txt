@@ -1,0 +1,97 @@
+TITLE: Spider Jockey
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Spider_Jockey
+---
+A spider jockey is the rare appearance of a spider or cave spider being ridden by a skeleton. , the rider can also be a stray, bogged, parched, or wither skeleton.
+
+Spawning
+When a spider spawns, there is a 1% chance for a skeleton mob to spawn riding it.
+
+Spider jockeys can spawn in almost all scenarios where a regular spider can spawn. This includes areas of light level 0, monster spawners, trial spawners, and via spider spawn eggs.
+
+Spider jockeys spawned in narrow enclosures can cause the skeleton rider to die of suffocation, due to the spider climbing the walls and forcing the skeleton into the ceiling. They can also spawn in a 1-block tall space with a transparent block above, which prevents the skeleton rider from suffocating in it.
+
+The skeleton can spawn with armor and/or an enchanted bow, and, , the spider has a chance to spawn with various status effects in Hard difficulty. See  and  for details.
+
+thumb|Spider jockey that spawned with the skeleton's head inside glass.
+
+Skeleton variants
+, only skeletons can spawn as part of a spider jockey. A skeleton rider can turn into a stray without dismounting by staying in powder snow for .
+
+, when spider jockeys are spawned in snowy biomes, the skeleton has an 80% chance to spawn as a stray instead. When spider jockeys spawn in a swamp or mangrove swamp biome, the skeleton has an 80% chance to spawn as a bogged. When spider jockeys spawn in a desert biome, the skeleton has an 80% chance to spawn as a parched.
+
+Similarly, if spider jockeys are spawned anywhere in the Nether (via spawn eggs or commands as spiders/cave spiders cannot naturally spawn in the Nether), the skeleton has an 80% chance to spawn as a wither skeleton.
+
+Like regular skeletons; stray, bogged and parched riders have a chance to spawn with an enchanted bow and/or armor. Wither skeletons never spawn with an enchanted sword or armor.
+
+Cave spider jockeys
+
+In , cave spiders also have a 1% chance to a spawn as a spider jockey. Cave spider jockeys can spawn in almost all scenarios a regular cave spider can spawn. This includes monster spawners, trial spawners and via the cave spider spawn egg. In , cave spider jockeys can only be summoned with commands.
+
+Behavior
+
+While both mobs in the jockey have their own behaviors, only one will control the spider jockey’s movement. , the jockey’s movement is controlled by the skeleton, while , the movement is controlled by the spider.
+
+The spider can walk and climb at its normal speed and is not weighed down by the skeleton rider. The skeleton can shoot arrows and pick up equipment it finds.
+
+When a spider jockey enters a body of water, it will sink. If the jockey is submerged in water at least 2 blocks deep, the skeleton rider will be forcibly dismounted from the spider, separating the jockey. The skeleton cannot remount the spider after.
+
+Like with regular spiders, cobwebs will not slow down spider jockeys.
+
+A cave spider jockey behaves almost identically to a regular spider jockey, with the main difference being that it moves slightly faster and can maneuver through tighter spaces.
+
+, the movement of the spider jockey is controlled by the skeleton. When the jockey is exposed to daylight and the skeleton rider catches on fire, it seeks any nearby shade or water and moves there to avoid burning. When attacking, the spider jockey will strafe and try to keep distance from the target while the skeleton shoots arrows. The spider cannot attack or lunge while it is being ridden.
+
+, the movement of the spider jockey is controlled by the spider. When attacking, the spider moves towards and lunges at the target while the skeleton rider shoots arrows.
+
+Stray, bogged, and parched riders behave identically to skeletons. Wither skeleton riders attack up-close with their sword.
+
+If the skeleton rider picks up any item or weapon other than a bow (such as a sword or axe), it attempts to get up-close and attack through melee.
+
+In both editions, the spider and skeleton rider cannot attack each other.
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Jockeys
+
+Category:Monster mobs
+Category:Hostile mobs
+
+de:Spinnenreiter
+es:Jinete arácnido
+fr:Araignée chevauchée
+hu:Póklovas
+it:Cavalcatore di ragno
+ja:スパイダージョッキー
+ko:거미 조키
+lzh:蛛騎
+nl:Spinberijder
+pl:Pajęczy jeździec
+pt:Jóquei de Aranha
+ru:Скелет-наездник
+th:โครงกระดูกขี่แมงมุม
+uk:Жокей на павуку
+zh:蜘蛛骑士

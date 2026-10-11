@@ -1,0 +1,67 @@
+TITLE: Windswept Gravelly Hills
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Windswept_Gravelly_Hills
+---
+The windswept gravelly hills or extreme hills mutated biome is a more desolate variant of the windswept hills covered with gravel. It is the rarest surface biome in the Overworld, making up less than 0.1% of the map.
+
+Generation
+This variant rarely generates in lower humidity values and colder temperature ranges than regular windswept hills and windswept forests. Because of this, windswept gravelly hills often appear next to plains, snowy plains, ice spikes, snowy taigas, and uncommonly forests, sunflower plains, and flower forests. As the biome is a variant of the windswept hills, additional requirements for locating the biome are high PV and high erosion values. On top of that, all windswept hills biomes are more likely to generate in higher continentalness.
+
+Description
+thumb|Windswept gravelly hills in Bedrock Edition|left
+True to its name, windswept gravelly hills contain large amounts of gravel that replace multiple layers stone, grass blocks, and dirt across its landscape.
+
+Due to the gravel replacing most of the grass, vegetation like bushes and trees is sparser, making this variant relatively barren. , no trees generate here at all as the unused gravelly mountains+ biome serves this purpose, and almost 100% of the biome is covered with gravel, with only a few 1-block wide strips of grass blocks generating inside, allowing far fewer bushes to generate. Underwater, the terrain is similar with only the strips containing the regular lakebed blocks (sand and dirt).
+
+In other aspects, however, windswept gravelly hills resemble their regular counterpart: the terrain is still elevated and full of falling hazards, and generates hilly and shattered in some areas, often resulting in floating islands. Above Y=120±8, rainfall converts to snowfall, and snow begins to cover the ground. Water also begins to freeze into ice starting at that height.
+
+Windswept gravelly hills share their foliage, grass and water color with windswept hills and windswept forests. Emerald ore generates here, but this and other ores are rarely exposed due to the gravel. Underground, occasional infested stone with silverfish can be encountered.
+
+Farm animals spawn their cold variants in this biome when possible, and llamas spawn in herds around the biome.
+
+With Vibrant Visuals, windswept gravelly hills use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the windswept gravelly hills:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+
+Navigation
+
+de:Zerzauste Geröllhügel
+fr:Collines graveleuses venteuses
+pt:Colinas de cascalho das ventanias
+uk:Вітряні гравійні пагорби
+zh:风袭沙砾丘陵

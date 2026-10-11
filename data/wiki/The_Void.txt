@@ -1,0 +1,73 @@
+TITLE: The Void
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/The_Void
+---
+The Void is an empty biome which generates the void start platform. It is used by "The Void" superflat preset , and can be set in a single biome world as well. The void biome only exists ; , the "The Void" flat world preset is set to the plains biome, but generates identically as in Java Edition.
+
+Description
+Superflat
+The superflat preset "The Void" uses this biome. Preset generates only a 33×33 void start platform centered on a block of cobblestone at coordinates X=8, Y=-61, Z=8, 3 blocks above the bottom of the world. Since the world is made up of one layer of air, only the platform generates. Below the platform, there is just void, and above the platform, there is just sky.
+
+Single biome world
+If the Void is chosen for a single biome world, terrain generates the same as if using Default world option, but without any structures or features. The void start platform does generate on the same coordinates as in the superflat world, which puts it inside of the bedrock layers at the bottom of the world.
+
+Such a world consists almost entirely out of just nine blocks:
+,
+,
+,
+,
+,
+,
+,
+,
+.
+
+Only terrain features can generate in this world. They include caves and ore veins. Thanks to ore veins, an additional six blocks generate naturally:
+,
+,
+,
+,
+,
+.
+
+Occasionally, water and lava can form obsidian and cobblestone (and there is one additional cobblestone in the center of the start platform). These seventeen blocks in total represent 100% of the natural terrain in this world.
+
+Usage
+This biome can be useful for constructing a redstone contraptions world without interference from the surroundings. It can also be useful for building completely custom terrain from scratch.
+
+Because void doesn't generate in a default world, visiting it is not required for any advancement.
+
+Mobs
+No mobs apart from phantoms and pillager patrols can spawn naturally. Not even wandering traders spawn in this biome. However, other types of mob spawning occur as usual, such as zombified piglins spawning from nether portals, monster spawners spawning any mob, creakings spawning from creaking heart, or zombie sieges and cats spawning from villages.
+
+Data values
+ID
+
+Biome definition
+
+History
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Overworld biomes
+
+de:Die Leere (Biom)
+es:El vacío
+fr:Le vide
+it:Il vuoto
+ja:奈落 (バイオーム)
+lzh:太虛（生態域）
+pt:O vazio
+ru:Пустота (биом)
+th:เดอะวอยด์
+uk:Порожнеча (біом)
+zh:虚空（生物群系）

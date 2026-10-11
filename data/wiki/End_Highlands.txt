@@ -1,0 +1,41 @@
+TITLE: End Highlands
+CATEGORY: End biomes
+URL: https://minecraft.wiki/w/End_Highlands
+---
+The End highlands is a biome used to generate the outer End islands.
+
+Description
+This biome generates as part of the outer islands of the End, forming the hill-tops in the center of each island. This is the only biome where chorus trees naturally generate. End cities also generate here.
+
+Mobs
+The following mobs naturally spawn here:
+
+Music
+These music tracks play while the player is in the end highlands:
+
+Data values
+ID
+
+Biome definition
+
+History
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+External links
+
+Navigation
+
+Category:End biomes
+
+fr:Hautes terres de l'End
+pt:Terras altas do End
+ru:Возвышенности Края
+uk:Височини Енду
+zh:末地高地

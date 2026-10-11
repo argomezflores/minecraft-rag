@@ -1,0 +1,121 @@
+TITLE: Igloo
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Igloo
+---
+An igloo is an uncommon structure generated in snowy taigas, snowy plains, or snowy slopes and built mainly of snow blocks. Some igloos contain hidden labs under the carpet, with resources to cure a zombie villager.
+
+Generation
+Igloos generate uncommonly in snowy taigas, snowy plains, and rarely in snowy slopes.
+
+Structure
+
+thumb|The interior of an igloo
+An igloo is shaped like a small dwelling made of snow blocks. It has an entrance without a door and a carpeted interior containing a bed, furnace, and crafting table. There are two windows made of ice blocks/packed ice and one redstone torch as a light source.
+thumb|An igloo basement
+Half of all igloos have an oak trapdoor under the third carpet from the doorway, leading down a long ladder shaft to a basement. This passageway and the basement are built from stone bricks, some of which are infested blocks with silverfish. To the left of the ladder is a table made of stairs blocks, with a brewing stand containing one splash potion of Weakness and a flower pot holding a cactus. Beside the table is a cauldron two-thirds full of water. To the right is a chest that contains a golden apple. Beyond the far wall, behind iron bars in two different cages, are a villager and a zombie villager.
+
+Igloos that generate without a basement have a snow block in place of the trapdoor. The villagers, the brewing stand, and the chest are absent in this case.
+
+If an igloo with a basement forms partially above open-air, the shaft with the ladder still generates.
+
+Mobs
+link=Villagerlink=Zombie Villager Villager Zombie villager
+
+, the generated villager is always a cleric and is a plains biome type, but becomes unemployed after one tick due to not having a workstation. The villager cannot pathfind to the brewing stand or cauldron to take on a profession unless some of the blocks confining it are broken. The generated zombie villager always has the profession of cleric and becomes unemployed if cured.
+
+, the villager is the snowy type with a random profession. The zombie villager is unemployed but can change its profession to cleric or leatherworker after being cured because it can claim either the brewing stand or the cauldron.
+
+Sometimes if igloos generate at low altitudes(-30 or lower), their basement may break bedrock allowing the player to access the void.
+
+One may access the individual structures of an igloo by using structure blocks to manually load them from the  folder in version.jar. To do so, set a structure block to Load mode, enter , and press .  The individual structures are .
+
+Structure nameDescriptionConsists ofImagesigloo/top The above-ground room of the igloo, made of snow blocks.94
+9
+3
+2
+
+2
+1
+1
+1
+1
+1 center|220pxigloo/middleThe stone tunnel that connects the room above with the basement.12
+3 center|80pxigloo/bottomThe basement, made of various stone blocks and infested stone blocks, containing a villager and a zombie villager.104
+17
+11
+8
+7
+6
+4
+4
+3
+2
+2
+2
+1
+1
+1
+1  (1 )
+1
+1
+1
+1
+1  with a
+1
+1 center|220px
+
+Loot
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+, if a number of items in the igloo furnace are smelted, the light generated melts the igloo window, turning the ice into a water source block. If the igloo has a basement, this can reveal the trapdoor leading to it.
+thumb|A raid happening around an iglooAn igloo with a basement qualifies as a village  due to having a villager, a bed, a brewing stand, and a cauldron, with the last 2 blocks counting as job sites. This means a raid can be triggered in an igloo.
+An igloo can sometimes generate on a cliff, on a mountain, over a cave, or on a floating island, causing its basement to be exposed.
+
+Gallery
+Screenshots
+
+Mojang images
+
+In other media
+
+External links
+
+References
+
+Navigation
+
+Category:Villager structures
+de:Iglu
+es:Iglú
+fr:Igloo
+it:Iglù
+ja:イグルー
+ko:이글루
+lzh:雪屋
+pl:Igloo
+pt:Iglu
+ru:Иглу
+uk:Іглу
+zh:雪屋

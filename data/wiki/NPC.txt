@@ -1,0 +1,96 @@
+TITLE: NPC
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/NPC
+---
+Non player characters (abbreviated as NPCs) are interactive passive mobs that have models similar to villagers.
+
+Spawning
+Unlike other entities, NPCs do not spawn naturally; they can be spawned using the NPC spawn egg (it can be obtained with the following command: /give @s spawn_egg 1 51), or by using the command /summon npc. When spawned, an NPC displays a name hovering over its head. The default name is "NPC" with a color code of §e, resulting in the name being yellow.
+
+To spawn an NPC with its spawn egg, the player must have the Worldbuilder authorization, automatically granted to players in Creative mode, or by using the  command.
+
+Behavior
+NPCs have no basic AI. They can neither move nor be pushed by most entities, but they can be pushed by the breeze's wind charge, and by explosions, water, lava, by sticky pistons from below or sides with a slime block attached, and they can slide on ice when pushed. They cannot take damage nor be affected by potions. Nevertheless, the NPCs can still turn their body and stare at the nearest player if close enough.
+NPCs can also never ride minecarts or boats, and the vehicles go through NPCs. The player cannot use a lead on them.
+
+NPCs are invulnerable to attacks. An NPC is attacked by zoglins, withers, wardens, goats, and vindicators named Johnny, but the NPC remains undamaged. Pufferfish also inflate when an NPC is nearby. Foxes don't sleep near NPCs as well. Projectiles pass through them. However, an NPC dies when going below Y=-64, and despawns if it falls into the void. When the player is in creative mode and attemps to attack the NPC, said mob will completely disappear.
+
+Interface
+thumb|NPC interface without world builder permission.
+thumb|NPC interface with world builder permission.
+Right-clicking an NPC displays the interface. It can be edited only as long as the player has the world builder permission. The interface allows the player to edit the dialog, name, appearance and advanced settings. When the player doesn't have the world builder permission, it shows only the dialog and buttons.
+
+Customization
+Name
+The name of an NPC can be entered in the top text pane titled "Name". The text limit for the name is 32, and the color can be changed by using the color codes as by default the color is yellow (§e). This does not set the custom name given by name tag, renamed spawn egg, or  command; as the name set by the menu is different and cannot be selected by  target selector argument.
+Dialog
+The dialog box located right below the "Name" and often used as a tool for guiding. The text limit for the dialog is 256, although in some cases it appears as 337.
+Appearance
+NPCs appearance are selectable, to change the skin simply just by left clicking on the preferred skin.
+There are 60 skins available for the NPC , with the default being the yellow-robed NPC. , there are only 35 available to choose from.
+Advanced Settings
+The advanced NPC settings consists of URLs and commands. They are used to create interactive buttons. The current maximum advanced settings that can be added is 6.
+URL
+The URL feature allows the player to add a hyperlink button. The URL can be entered at the first input box below the title up to 1024 letters.
+To change the button name or label can be proceeded by filling the input box titled "Button Name", the current text limit for the label is 16 letters.
+When added, the button appears only if the player has the world builder permission disabled. The button label defaults to "Learn More" and the color defaults to blue, it can be changed by using the color codes.
+Command
+The command feature allows the player to add one or more executable commands in the NPC. The command can be entered at the first input box below the title, unlike the command block wherein multiple commands can be executed in one window. The current maximum characters for the command is 1024. The command(s) get executed when the dialogue with the NPC is closed.
+The command can be presented either as a button or a direct command. As a button, the button name or label can be changed by filling the input box titled "Button Name", the text limit for the label is 16 letters. It can be executed only if the player has the world builder permission disabled.
+When not added as a button, the command is executed after the dialogue with the NPC, visible by right clicking the NPC, has closed. In contrariwise, the button is displayed and has a label color defaults to light gray, and can be changed by using the color codes. (the default name of the NPC is NPC)
+@initiator is a specialized target selector that targets the player that has interacted with the NPC, distinguishing them from other players that may interact later. This is useful for running commands on a per-player basis.
+
+Sounds
+
+Data values
+ID
+
+Entity data
+NPCs have entity data associated with them that contain various properties.
+See Bedrock Edition level format/Entity format.
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The NPC's spawn egg is the only spawn egg to still be based on the pre-Spring to Life spawn egg design.
+The NPC addition in Pocket Edition alpha was likely accidental due to Pocket Edition sharing the same codebase as Education Edition likely in an agent.
+
+Gallery
+Renders
+
+Screenshots
+
+Development images
+
+In other media
+
+References
+
+External links
+Beginners Guide to Adding NPCS – Minecraft.net on November 09, 2021
+
+Navigation
+
+Category:Passive mobs
+Category:Humanoid mobs
+Category:Minecraft Education mobs
+
+de:NPC
+es:NPC
+fr:PNJ
+it:PNG
+ja:NPC
+ko:NPC
+lzh:NPC
+pl:NPC
+pt:NPC
+ru:Неигровой персонаж
+th:NPC
+tr:NPC
+uk:Неігровий персонаж
+zh:NPC

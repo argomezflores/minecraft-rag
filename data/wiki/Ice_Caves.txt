@@ -1,0 +1,76 @@
+TITLE: Ice Caves
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Ice_Caves
+---
+Ice caves are cave biomes composed of packed ice, snow, and calcite. Strays and frostbites spawn here, and they are the only place where icicles and ice crystals naturally generate.
+
+Generation
+Ice caves generate as cave biomes at lower temperatures, typically below snowy biomes such as snowy plains, snowy taigas, and frozen oceans. They also sometimes generate below less-cold biomes like taigas.
+
+The biome tends to generate at very high weirdness values. Ice caves are more common near oceans, while very high humidities reduce ice cave frequency.
+
+Ice caves may intersect with lush caves when humidity increases, and less commonly, dripstone caves when continentalness increases. Sulfur caves can never border ice caves, but can generate nearby, usually separated by a river on the surface.
+thumb|White shading on the graph indicates how far above the approximate seabed height (Y-axis) ice caves may generate in oceans at different weirdness values (X-axis).
+In oceans, ice caves can rarely generate above the seabed at weirdness values above 1.25. It is much rarer for ice caves to generate above oceans or land, requiring even higher weirdness values. Ice caves may leak out of cave openings or ravines.
+
+Description
+The walls of ice caves consist of packed ice with some calcite blobs. The floor is covered with patches of snow and ice crystals, and icicles hang on the ceiling.
+
+Blobs of stone and deepslate generate throughout the packed ice. This allows ores and other stone variants like diorite and andesite to generate. Glow lichen, dirt, and granite do not generate, unlike in other cave biomes.
+
+Water exposed to the sky freezes to ice, but in underground caves, the water from aquifers remains fluid. The light from lava lakes can sometimes cause icicles to fall down and damage mobs. Ice caves are a dry biome with no snowfall, but existing snow does not melt.
+
+Frostbites and strays spawn in ice caves, as well as common monsters. Glow squid and drowned can spawn in aquifers.
+
+Like other cave biomes, woodland mansions may generate in ice caves, but this is nearly impossible.
+
+Ice caves use the same graphical settings as ice spikes with Vibrant Visuals. Atmospherics are gray, both at horizon and zenith, and there are barely any color changes during sunset and sunrise. Sunlight is half as bright, and tinted pale blue during the entire day. Volumetric fog effects increase these effects, and the biome has the coldest color grading temperature of all biomes.
+
+Fog in Fancy graphics is dark blue, and the water color is slightly darker.
+
+Mobs
+
+Sounds
+
+Music
+Ice caves reuse the sulfur caves music set. These music tracks play while the player is in the ice caves:
+
+Data values
+ID
+:
+
+:
+
+Biome Definition
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang images
+
+In other media
+
+Navigation
+
+de:Eishöhlen
+es:Cuevas de hielo
+fr:Cavernes de glace
+he:מערות קרח
+it:Caverne di ghiaccio
+ja:Ice Caves
+lzh:Ice Caves
+nl:IJsgrotten
+pt:Cavernas de gelo
+ru:Ледяные пещеры
+zh:冰封洞穴

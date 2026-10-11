@@ -1,0 +1,76 @@
+TITLE: Warm Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Warm_Ocean
+---
+The warm ocean is a warm ocean variant filled with coral reefs on a sand-covered floor. Tropical fish and pufferfish spawn here, and sea pickles can generate on the ocean floor.
+
+Generation
+Warm oceans generate as ocean biomes in the highest temperature zones, often near deserts, windswept savannas, mangrove swamps, and badlands biomes.
+
+The warm ocean biome can generate as a regular or deep ocean. Where deep warm oceans used to generate, warm oceans are simply twice as deep. This means that they can border both lukewarm oceans and deep lukewarm oceans, as well as mushroom fields.
+
+Description
+thumb|200px|The separate colors of each ocean variant
+The warm ocean has an aquamarine water tone at the surface and often generates next to deserts and badlands. Like the lukewarm ocean, it has a stone floor covered with one layer of sand, however no dirt, clay or gravel generate at shallower areas. Occasional islands in the warm ocean are covered with grass blocks and default vegetation, or the beach terrain including sand and sandstone.
+
+Warm oceans feature coral reefs and numerous sea pickles, though kelp does not naturally generate here. Because of the height of the coral reef, warm oceans can appear more shallow than other oceans, though the actual ocean floor is no less deep.
+
+Shipwrecks and warm ocean ruins generate in the warm ocean, between the dense coral structures. Unique mobs that spawn here are pufferfish and tropical fish, however, cod and salmon cannot spawn. Zombie nautiluses use their coral variant.
+
+With Vibrant Visuals and ray tracing, warm oceans use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a warm ocean:
+
+These music tracks play while the player is not underwater in a warm ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+External links
+
+Navigation
+
+fr:Océan chaud
+pt:Oceano quente
+uk:Теплий океан
+zh:暖水海洋

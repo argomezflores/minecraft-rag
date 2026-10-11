@@ -1,0 +1,80 @@
+TITLE: Dripstone Caves
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Dripstone_Caves
+---
+Dripstone caves are cave biomes found in inland areas, filled with clusters and pillars of pointed dripstone and dripstone blocks.
+
+Generation
+Dripstone caves generate underground, generally in areas of high continentalness. This means they are often found far inland, and are essentially never found under ocean biomes or bordering a coast.
+
+Although inland areas often generate as dripstone caves, the continentalness requirement will rise in areas of high humidity due to the increasing likelihood of lush caves generating underground instead. Hence, biomes like dark forests, old growth taigas, bamboo jungles, wooded badlands, and taigas will generate dripstone caves much less frequently. Dripstone caves frequently generate under Mountain biomes, as these tend to generate further inland with most not confined to high humidity environments.
+
+Under mountain peaks, dripstone caves usually generate above the deep dark.
+Description
+thumb|x200px|A large dripstone.
+A dripstone cave looks similar to a regular cave, but dripstone blocks and pointed dripstone, both hanging as stalactites and growing from the ground as stalagmites generate throughout the biome. The ground is filled with small water wells of only a few blocks wide, containing waterlogged dripstone.
+
+Large dripstone cluster structures occasionally generate inside expansive caves and ravines. This biome also generates larger copper ore blobs compared to other biomes. Drowned and rarely zombie nautiluses are able to spawn in aquifers, unlike in other biomes. The same cave structures and features can generate as normally, like monster rooms and glow lichen. , woodland mansions also rarely generate.
+
+When exposed to the surface, the surface is made entirely out of stone with occasional patches of dripstone. Above Y=120±8, the temperature drops below freezing level in Bedrock Edition, freezing all water and covering the terrain with snow, even when generated in warm biomes like badlands. However, no rain or snowfall occurs as it is an arid biome.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in dripstone caves.
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+The Sơn Đoòng cave in Vietnam was of particular inspiration when coming up with the features of dripstone caves.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+de:Tropfsteinhöhlen
+es:Cuevas kársticas
+fr:Cavernes de spéléothèmes
+it:Caverne di speleotemi
+ja:鍾乳洞
+ko:점적석 동굴
+lzh:鐘乳石穴
+pl:Jaskinie naciekowe
+pt:Cavernas de espeleotemas
+ru:Карстовые пещеры
+uk:Сталактитові печери
+zh:溶洞

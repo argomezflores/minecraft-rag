@@ -1,0 +1,390 @@
+TITLE: Zombified Piglin
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Zombified_Piglin
+---
+Zombified piglins are neutral and undead variants of piglins that spawn in the Nether. Zombified piglins normally ignore players, but if one gets attacked and survives, it and all other zombified piglins in the vicinity become hostile and attack the aggressor.
+
+Spawning
+Zombified piglins can spawn in several methods:
+In Nether wastes and crimson forest biomes, and Nether fortresses in the Nether.
+When a strider spawns as a strider jockey.
+From Nether portals in the Overworld.
+They spawn directly in the portal, meaning they do not require other mobs to go through the portal.
+Mobs going through a Nether portal are not considered "spawning" of any kind.
+When struck by lightning, pigs transform into zombified piglins.
+From piglins or piglin brutes zombifying in the Overworld or the End.
+Zombification takes 15 seconds and starts as soon as the mob enters the dimension.
+The zombified piglin will retain any equipment that piglin or piglin brute had.
+As reinforcements from other zombified piglins.
+
+They have a 5% chance of spawning as baby zombified piglins. Zombified piglins do not spawn naturally on top of Nether wart blocks. Like other naturally fireproof mobs, they can spawn on magma blocks.
+
+Zombified piglins do not spawn in Peaceful mode, despite being neutral.
+
+Equipment
+95% of zombified piglins spawn with a golden sword, which has up to a 25% chance of being enchanted in Normal or Hard difficulty. This chance varies depending on the regional difficulty. The sword's enchantment is from 5 to 23 levels.
+
+5% of zombified piglins spawn with a golden spear, which may be enchanted. They use the spear’s charge attack if provoked.
+
+, on Halloween (October 31), zombified piglins have a 22.5% chance of spawning with a carved pumpkin or a 2.5% chance of spawning with a jack o'lantern equipped as headgear. This is not dropped, even if killed with Looting.
+
+Chicken jockeys
+
+Baby zombified piglins can spawn as a chicken jockey, with the following probability:
+
+A baby zombified piglin has a chance of 9.75% to spawn as a chicken jockey if a chicken is present within a 5×3×5 block area centered on the spawn attempt location (5% to use the chicken nearby + 4.75% of summoning a new chicken).
+A baby zombified piglin has a 4.75% chance of spawning as a chicken jockey if no chicken is present within a 5×3×5 area.
+The combined chance of a zombified piglin independently spawning as a baby chicken jockey is 0.2375%.
+
+Nether biomes and fortresses
+Zombified piglins spawn in the Nether at light level 11 and below on most blocks other than Nether wart blocks. They spawn most commonly in Nether wastes in groups of 4, frequently in Nether fortresses in groups of 4, and uncommonly in crimson forests in groups of 2-4. , zombified piglins spawn in groups of 2-4 on both Nether wastes and crimson forests and individually on Nether fortresses.
+
+Strider jockeys
+
+When an adult strider spawns, it has a 3.3% chance of spawning being ridden by a zombified piglin holding a warped fungus on a stick. The zombified piglin does not count toward the mob cap and does not despawn.
+
+In , zombified piglins can not spawn on top of saddled striders that are supposed to be jockeys. This is due to the fact that in the  file, the base  list does not have the  component, because it was moved to the  component group. And since zombified piglins spawned on top of striders were neither an adult nor a baby, both of which have the  component, and that striders that have spawned as a strider jockey are rideable by mobs in the  family, they no longer spawn.
+
+Nether portals
+When a Nether portal block in the Overworld receives a random tick, there is a chance of  (0.05%) on Easy,  (0.1%) on Normal and  (0.15%) on Hard for it to spawn a zombified piglin.
+
+, they appear inside one of the portal blocks on the bottom. Zombified piglins who spawn in this way cannot travel to the Nether for a preset amount of time, whether they walk through the portal they spawned in or through nearby portals.
+
+, they spawn one block to the east or south of the portal (depending on which direction the portal is facing). Neither slabs nor lighting prevents this. Every portal block is immediately ticked when the portal is first activated; therefore, if a large portal is repeatedly activated and deactivated, zombified piglins can spawn rapidly. However, portals at negative heights do not spawn zombified piglins at all.
+
+Zombified piglins spawning via this process is completely independent of the mob cap, similar to the spawning of phantoms , which means they can still spawn if there are a sufficient number of hostile mobs in the world.
+
+Pigs
+A zombified piglin spawns when lightning strikes within 4 blocks of a pig, up to 8 blocks down, and up to 4 blocks up, regardless of any obstruction between the pig and where the lightning strikes. If the pig is a piglet, it then transforms into a baby zombified piglin.
+
+Piglins
+A piglin or piglin brute that enters the Overworld or the End transforms into a zombified piglin after 15 seconds. When piglins wielding crossbows zombify, they keep their crossbows, but are unable to use them, and perform melee attacks like other zombified piglins. When baby piglins zombify, they do not have weapons, unlike baby zombified piglins that naturally spawn. When piglin brutes zombify, they keep their axes.
+
+The newly zombified piglin gets the Nausea effect for 10 seconds. This is a purely visual effect, and does not affect the mob's behavior.
+
+A zombified piglin keeps any armor or weapons collected before being zombified.
+
+Baby zombified piglins also have a 5% chance of becoming a chicken jockey.
+
+If a piglin is in the middle of bartering and gets zombified while inspecting a gold ingot, it drops the ingot when it turns into a zombified piglin.
+
+Leaders & Reinforcements
+
+Unlike other zombie variants, only leader zombified piglins can spawn reinforcements.
+
+On Hard difficulty, up to 5% of zombified piglins may spawn as a leader, which have a 50–75% plus 0–10%  chance to spawn other zombified piglins as reinforcements when receiving damage while targeting an entity.
+
+Unlike zombies, zombified piglins can spawn reinforcements regardless of light level.
+
+Drops
+
+On death
+
+There is an 8.5% or 25% chance to drop their original weapon if killed by a player or tamed wolf. The chance is increased by 1% or 5% per level of Looting, for a maximum of 11.5% or 40% with Looting III. The death animation does not include the weapon if it was dropped.
+(spawns with often)
+(spawns with rarely)
+if zombified from a piglin brute
+if zombified from a piglin
+if spawned riding a strider
+After a piglin transforms into a zombified piglin, it drops any acquired armor and held weapons upon death.
+for adults or  for babies if killed by a player or a tamed wolf.
+An additional  for each equipment it does not drop upon death.
+Additionally, , 0.75% of zombified piglins that have spawned do not drop any experience.
+
+Behavior
+Zombified piglins wander aimlessly about when idle. They move at 2.28 m/s and are immune to fire and lava. When provoked, their speed increases to 3.38 m/s or faster for babies.
+
+, like zombies, some zombified piglins can attack wooden and copper doors and may break them on Hard difficulty or in Hardcore mode.
+
+In Normal and Hard difficulties, up to 55% or 25% of zombified piglins can pick up any armor pieces and swords better than their golden one, which they always drop when killed. This also prevents them from despawning.
+
+, zombified piglins may pick up an ominous banner next to it as pillagers do.
+
+Zombified piglins try to destroy any turtle eggs they see within 23 blocks away horizontally and 3 blocks away vertically (10 blocks horizontally and 2 blocks vertically ), not counting the block they are standing in. When a zombified piglin is first spawned, it always detects nearby turtle eggs after exactly 2 seconds, as long as there are two blocks of air above it. However, if the turtle egg is placed after the zombified piglin spawned, the zombified piglin takes some time to notice the turtle egg and try to break it. Unlike other zombie variants, zombified piglins do not attack baby turtles.
+
+Zombified piglins avoid walking near magma blocks and cannot jump over magma blocks one block high. If a zombified piglin is surrounded by a magma block wall one block height or higher, it gets near those surrounding magma blocks surrounding them. If a zombified piglin spawns on or is pushed onto magma blocks, it pathfinds normally on the magma.
+
+Zombified piglins do not retreat from zoglins, soul torches, soul lanterns, soul fire, or soul campfires. Zoglins attack zombified piglins on sight, causing a retaliation.
+
+Zombified piglins are not distracted by gold and cannot barter, unlike piglins. They also do not follow players that are holding a gold ingot or another gold item.
+
+Wandering traders run away from zombified piglins, despite them being passive to them. In addition, piglins squeal in distress and flee from zombified piglins if they get too close. Zombified piglins ignore piglins unless provoked.
+
+Iron golems attack zombified piglins, which causes other zombified piglins to attack the iron golem. A zombified piglin is neutral to every mob that can attack, but they retaliate and gang up on any mob that provokes them.
+
+Mounting
+
+15% of naturally spawned baby zombified piglins are supposed to spawn as a jockey and find the nearest mob to mount but do not due to a bug.
+
+This is due to the fact that in the  file, in the  event, it has 3 triggering spawn events,  where the zombified piglin spawns as an adult,  where it spawns as a baby, and  which is supposed to be the event that spawns baby zombified piglins as a baby jockey that finds mounts, but it does not exist.
+
+//This spawn event is applied when mobs spawn naturally
+"minecraft:entity_spawned": {
+"randomize": [
+{
+"trigger": "spawn_adult",
+"weight": 9500
+},
+{
+"trigger": "spawn_baby",
+"weight": 425
+},
+{
+"trigger": "spawn_baby_jockey",//This spawn event is non-existent. Meaning no component groups are added.
+"weight": 75
+}
+]
+},
+"spawn_adult": {
+"add": {
+"component_groups": [
+"minecraft:pig_zombie_adult",
+"minecraft:pig_zombie_calm"
+]
+}
+},
+"spawn_baby": {
+"add": {
+"component_groups": [
+"minecraft:pig_zombie_baby",
+"minecraft:pig_zombie_calm"
+]
+}
+},
+
+And because  does not exist, this results the baby jockey actually spawning as a broken zombified piglin that is neither a baby nor an adult, and does not drop experience upon death.
+"minecraft:pig_zombie_baby": {
+//This component is what makes mobs drop experience upon death. This is only added to the "minecraft:pig_zombie_adult" and "minecraft:pig_zombie_baby" component groups.
+"minecraft:experience_reward": {
+"on_death": {
+"expression": "query.last_hit_by_player ? 12 + (query.equipment_count * Math.Random(1,3)) : 0",
+"version": 13
+}
+},
+"minecraft:is_baby": {},
+"minecraft:scale": {
+"value": 0.5
+},
+"minecraft:collision_box": {
+"height": 1.96,
+"width": 0.98
+},
+//This component gives the mob the ability to ride. It used to be in the components list, resulting in all zombified piglins being able to ride anything. But it got moved to the "minecraft:pig_zombie_adult" and "minecraft:pig_zombie_baby" component groups to make baby zombified piglins able to ride common mobs like baby zombies do.
+"minecraft:type_family": {
+"family": [
+"baby_undead",
+"baby_zombie_pigman",//Because they are in the "baby_zombie_pigman" family rather than "zombie_pigman", they aren't avoided by piglins.
+"undead",
+"monster",
+"mob"
+]
+}
+},
+"minecraft:pig_zombie_adult": {
+//This component is what makes mobs drop experience upon death. This is only added to the "minecraft:pig_zombie_adult" and "minecraft:pig_zombie_baby" component groups.
+"minecraft:experience_reward": {
+"on_death": {
+"expression": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0",
+"version": 13
+}
+},
+"minecraft:rideable": {
+"family_types": [
+"baby_undead"
+],
+"seat_count": 1,
+"seats": {
+"lock_rider_rotation": 0,
+"position": [
+0,
+1.175,
+-0.35
+]
+}
+},
+//This component gives the mob the ability to ride. It used to be in the components list, resulting in all zombified piglins being able to ride anything. But it got moved to the "minecraft:pig_zombie_adult" and "minecraft:pig_zombie_baby" component groups to make baby zombified piglins able to ride common mobs like baby zombies do.
+"minecraft:type_family": {
+"family": [
+"zombie_pigman",
+"undead",
+"monster",
+"mob"
+]
+},
+"minecraft:collision_box": {
+"height": 1.9,
+"width": 0.6
+}
+},
+Since the  was moved into the  and  component groups, instead of being in the base components list, these broken piglins are not in any family, causing them to have the following issues:
+They cannot be put in boats or minecarts.
+The Smite enchantment does not deal more damage to them, due to them not being part of the  family.
+They are not targeted by iron golems and snow golems, due to them not being part of the  family.
+They are targeted by withers, and are able to damage it, due to them not being part of the  family.
+Armadillos do not roll up when near them, due to them not being part of the  family.
+Piglins do not avoid them. They also do not avoid normal unbroken baby zombified piglins, as they are in the  family, rather than the  family.
+They are affected by the Poison and Regeneration effects, due to them not being part of the  family, but Instant Health and Instant Damage are still reversed for them.
+
+Using the  command, it is possible to make a baby zombified piglin ride:
+
+Mob type
+Being an undead mob, they are:
+damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+unaffected by the status effects Regeneration and Poison.
+ignored by the wither.
+affected by the Smite enchantment.
+unable to swim in water, but do not drown.
+a threat to armadillos, causing them to hide in their shell.
+
+As they are undead and do not grow up, golden dandelions do not work on baby zombified piglins.
+
+Picking up items
+
+Like zombies, some zombified piglins spawn with the ability to pick up dropped items from the ground in Normal and Hard difficulty. , zombified piglins pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+Standard zombified piglins can pick up all items except for glow ink sacs. Chicken jockey riders also cannot pick up any variant of an egg.
+
+If the picked up item is armor, the zombified piglin equips the armor into its respective armor slot. Carved pumpkins and heads are worn on their heads, and elytra are worn in the their chestplate slot. If the picked up item is a shield, the zombified piglin equips it to their offhand. It cannot use the shield to block incoming attacks, however.
+
+If a zombified piglin encounters another similar item, it may drop the previous item in favor of the new one if:
+both items are armor/weapons and the new item is better damage-wise (reduces higher damage for armor, or inflicts more damage for weapons) without considering enchantments,
+both items are armor/weapons with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is less damaged than the old item
+
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+
+A zombified piglin equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Picked-up items do not cause the zombified piglin to drop more experience when killed, unlike naturally-spawned gear.
+
+Hostility
+Zombified piglins are not initially hostile, but all zombified piglins within a 67×22×67 to 111×22×111 area or a 20-block radius centered on an attacked zombified piglin become aggressive and converge on the attacker (another mob or player, except goats and ghasts) if any individual is attacked, unless the zombified piglin attacked is killed in one hit. They make an aggressive sound when angered. In addition, some zombified piglins have the ability to spawn reinforcements when attacked (similar to zombies). This applies to any hit registered as coming from the player or other mobs, including deflected ghast fireballs, sweep attacks, snowballs and eggs, fireworks shot from crossbows, TNT, wind charges, and skeleton arrows. Arrows shot from dispensers or bed explosions do not provoke zombified piglins.
+
+A zombified piglin can remain hostile indefinitely if it is both within the follow range of the player (33 to 55 blocks) and has a direct line of sight to the player. However, breaking one of those conditions causes a hostile zombified piglin to return to being neutral after a "forgiveness timer" expires. , this timer ranges from 20 seconds to 55 seconds, whereas  it is always 25 seconds. The forgiveness timer does not advance for zombified piglins in unloaded chunks. Therefore, if the player enters a Nether portal and returns, any provoked zombified piglins in the area remain aggressive (unless another player was nearby to keep the chunks loaded). A player's death causes zombified piglins to become neutral toward the player if the gamerule forgive_dead_players (true by default) is true.
+
+A hostile zombified piglin can also "sound an alarm", spreading the aggro to all zombified piglins within a 67×22×67 to 111×22×111 area  or 20-block radius. A hostile zombified piglin does this whenever the targeted player is within their follow range (33 to 55 blocks) and has a constant line-of-sight with its target, then it does the same every 4–6 seconds (80-120 game ticks), recruiting any formerly-neutral peers. They pursue players even if they have the Invisibility effect.
+
+, a nearby neutral zombified piglin prevents a player from sleeping, as if it were a hostile mob.
+
+Hostile zombified piglins have slightly different pathfinding than when they are neutral. For example, they fall off edges that would cause them to take fall damage in an attempt to reach their target where most other mobs would otherwise not.
+
+When a zombified piglin is angered, the normal piglins do not get aggressive, and vice versa.
+
+Unlike other zombie variants, zombified piglins do not attack villagers and wandering traders. However, a villager that accidentally damages a zombified piglin with a firework rocket (after the player defeats a raid) will provoke any nearby zombified piglins to retaliate against the villager, and as a zombie variant, zombified piglins turn regular villagers into zombie villagers.This does not occur in  because zombified piglins are not in the  family, and mobs in the  family can convert villagers into zombie villagers.
+
+Using spears
+Zombified piglins wielding spears have different attacking behavior. When attacking, they use the spear's charge attack while moving toward their target. They hold the charge through its full duration, using all 3 stages. Once the charge attack has ended or they get too close to their target, they walk away to increase the distance between them and their target before turning around to begin another charge. If a zombified piglin accidentally damages a neutral or hostile mob (except goats) with a spear's charge attack, the mob retaliates and attacks that zombified piglin.
+
+Jockey
+
+thumb|width=165x165|A zombified piglin ridden by a baby zombie
+15% of nearby baby zombies, baby husks, or gurgles, or baby frostbites may ride an adult zombified piglin to form a jockey.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Zombified piglins have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+The pre-Texture Update zombie pigman texture file has "THX XAPHOBIA" written on the unused section as a credit by Notch to the skin's original creator.
+The zombified piglin's angry sound is played twice the speed of the original sound file in the game.
+Applying the Classic Texture Pack changes the zombified piglin's model and texture back to a zombie pigman.
+In narrative media such as , piglins do not zombify in the Overworld because they breathe in Nether wart spores.
+In the 2013 Marvel's Agents of S.H.I.E.L.D. episode Girl in the Flower Dress, Jemma Simmons mentions that another character "runs a rather nasty mob" of zombie pigmen.
+If a player sits on a saddled pig and is struck by lightning, they end up sitting on the newly-transformed zombified piglin. However, after dismounting, the zombified piglin cannot be ridden again.
+
+Gallery
+Renders
+
+Jockeys
+
+Armed
+
+Zombifying
+
+Halloween
+
+Zombie pigman
+
+Screenshots
+Zombified piglin
+
+Zombie pigman
+
+Mojang screenshots
+Zombified piglin
+
+Zombie pigman
+
+Textures
+
+In other media
+
+See also
+
+Zombified piglin farming
+
+Notes
+
+References
+
+Navigation
+
+Category:Neutral mobs
+Category:Monster mobs
+Category:Nether mobs
+Category:Undead mobs
+Category:Piglins
+
+de:Zombifizierter Piglin
+es:Piglin zombificado
+fr:Piglin zombifié
+hu:Zombi-malacember
+it:Piglin zombificato
+ja:ゾンビピグリン
+ko:좀비화 피글린
+lzh:屍化豕靈
+nl:Zombievarken
+pl:Zzombifikowany piglin
+pt:Piglin-Zumbi
+ru:Зомбифицированный пиглин
+uk:Зомбований піґлін
+zh:僵尸猪灵

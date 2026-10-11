@@ -1,0 +1,86 @@
+TITLE: River
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/River
+---
+A river is a common aquatic biome that cuts through most land biomes. Rivers can serve as borders between various other biomes, and usually lead to oceans, although they are also able to form loops or lakes.
+
+Generation
+Rivers generate in the deepest part of valleys when PV values are at their lowest. Rivers can cut through any type of land, but are replaced by frozen rivers at very low temperatures.
+
+Inland regions with low erosion can cause rivers to abruptly end. Despite this, rivers can frequently form deep fjords with tall cliffs between elevated terrain and mountains. Rivers also end in swamps or mangrove swamps, with their water bodies often connected.
+
+Rivers often divide higher landmasses, serving as a division between two distinct biomes. They may also form loops or lakes, or meander through flatland terrain. In flatland terrain near the coast, rivers are often wide, while at high erosion farther inland they may fall completely dry.
+
+Description
+A river biome on its own does not have many distinct features; most of its characteristics are created by the terrain generation or surrounding biomes. They are filled with still water up to the sea level, and the terrain below consists of default lakebed blocks, covered with seagrass. Specifically, it is separated into patches of dirt, clay, sand, and gravel.
+thumb|A river with some dry land in the wooded badlands biome, showing how trees generate on the edge
+When a river generates land, it is just covered by grass blocks with some patches of bushes. However, features from bordering biomes often leak into the river biome. This happens most notably with wooded badlands, where the grass allows many oak trees and leaf litter to generate. Due to the extended coastlines, firefly bushes and sugar cane are often found near rivers, although they are no more common than in other biomes.
+
+No fully-passive mobs spawn within river biomes themselves, but they frequently wander into them from the surrounding biomes if they can spawn there. Drowned can spawn underwater, as can salmon and squid. , no hostile mobs spawn above water.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a river:
+
+These music tracks play while the player is not underwater in a river:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Rivers override canyons at or close to the surface level, causing the canyon to be abruptly cut off by a wall of stone. However, if the canyon is long enough, it may continue on the other side of the river.
+Canyons can generate underground in river biomes without being cut off.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Fluss
+es:Río
+fr:Rivière
+ja:河川
+ko:강
+lzh:川
+pl:Rzeka
+pt:Rio
+ru:Река
+uk:Річка
+zh:河流

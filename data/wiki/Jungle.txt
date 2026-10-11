@@ -1,0 +1,90 @@
+TITLE: Jungle
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Jungle
+---
+The jungle is a lush biome with dense vegetation of jungle trees, oak trees, bamboo, and various smaller plants. Jungles generate in humid and warm areas, often next to forests, and their sparse and bamboo variants.
+
+Generation
+Jungles generate in semi-warm and high humidity climates, usually where weirdness is negative. They occupy a wide range of terrain, from vast flatlands to rugged hills and steep cliffs. When temperature decreases, they often border birch forests, dark forests, and forests, and near higher temperatures they usually border deserts and wooded badlands.
+
+As they generate in warmer climates, they may border mangrove swamps or lukewarm oceans. Forests often form the slopes of terrain that rises to stony peaks, though jungles can also border stony peaks directly.
+
+Sparse jungles and bamboo jungles frequently border jungles, with a river often separating them.
+
+Lush caves are common beneath jungles because of the high humidity.
+
+Description
+Jungles contain many types of vegetation densely packed together. Tall 2×2 jungle trees are common with many branches and vines, growing over 30 blocks in height. Small jungle trees with cocoa beans or the even smaller jungle bushes generate on the ground, together with oaks that are more commonly large.
+
+The lush green grass is vegetated by ferns and vines everywhere. Melon patches are exclusive to jungle biomes, and they generate somewhat more often than pumpkin patches do in other biomes. Single bamboo plants are scattered in the jungle. Dandelions and poppies are twice as common as in most other biomes.
+
+Parrots, ocelots, and pandas exclusively spawn in jungle biomes, together with warm animal variants.
+
+Jungle pyramids may generate exclusively here. As these temples are partially made of mossy cobblestone and also covered in vines, they can prove hard to spot from a distance due to the density of the trees.
+
+, cod and salmon are the only fish which may be caught when fishing in jungles. Otherwise, bamboo and cocoa beans can also be collected.
+
+With Vibrant Visuals, jungles use a strong humid volumetric fog setting, which fades the distance in an orange tint. Jungles use warmish and color grading, which makes the biome look more humid and warm. The night sky is slightly brighter and moonlight colored more vibrant blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the jungle:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Dschungel
+es:Jungla
+fr:Jungle
+it:Giungla
+ja:ジャングル
+ko:정글
+lzh:叢莽
+pt:Selva
+ru:Джунгли
+uk:Джунглі
+zh:丛林

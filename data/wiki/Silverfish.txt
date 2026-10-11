@@ -1,0 +1,124 @@
+TITLE: Silverfish
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Silverfish
+---
+Silverfish are small hostile arthropods found infesting stone and deepslate blocks in mountain caves and certain structures, such as strongholds, or spawned using potions of Infestation. They attack by biting, and attacking one can cause nearby silverfish to break out of their blocks to attack the aggressor.
+
+Spawning
+Silverfish spawn from broken infested blocks, which generate in strongholds, underground in mountains and windswept hills biomes, in igloo basements, and in woodland mansion false portal rooms. Silverfish do not appear if the block is broken with the Silk Touch enchantment.
+
+Monster spawners
+Silverfish monster spawners naturally generate in End portal rooms in strongholds. Silverfish can spawn from spawners at light level 11 or lower. , they can also spawn on stone types they can enter (stone, cobblestone, stone bricks, etc.) at any light level, and cannot spawn within a 5 block distance of any player.
+
+Trial spawners
+Each trial chambers structure has a 25% chance to select silverfish as the "small melee" mob for its trial spawners.
+
+During ominous trials, each ominous trial spawner has a  chance to be able to dispense lingering potions of Infestation, which spawns silverfish when an affected entity takes damage. Any type of trial spawner can dispense Infested potions, regardless of the mob type it spawns.
+
+Infested
+Silverfish have a 10% chance to spawn in groups of 1-2 when an entity with the Infested effect takes damage.
+
+Drops
+On death
+Silverfish have no drops other than  experience points when killed by a player or tamed wolf.
+
+Behavior
+alt=|thumb|right|A silverfish being freed from an infested block, which calls for help from other silverfish; causing them to emerge from more infested blocks.
+Silverfish attack players and snow golems and call other silverfish in the area upon being hit. Silverfish pathfind toward the player and can see the player through walls.
+
+When they suffer Poison damage or damage inflicted by the player and survive, they cause other silverfish within a 21×11×21 area to break out of their infested blocks. The player can prevent other silverfish from appearing by killing them in one hit. If the game rule  is set to , the infested blocks are broken, but no silverfish spawn from them.
+
+Silverfish, being arthropods, take extra damage from the Bane of Arthropods enchantment and receive Slowness IV upon being hit.
+
+When idle, silverfish enter a nearby deepslate, stone, cobblestone, stone bricks, mossy stone bricks, cracked stone bricks, or chiseled stone bricks block, transforming it into the respective infested block if the game rule  is set to , as per default. They cannot infest mossy cobblestone, despite being capable of infesting both mossy blocks and cobblestone, and they also cannot infest slab or stairs of these blocks. They are also unable to infest andesite, diorite, granite, and smooth stone.
+
+Silverfish are immune to the Infested status effect.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Silverfish have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+In real life, silverfish are harmless, small, wingless insects that are often found in dark areas in buildings and the wooden pilings of seaside piers and trees. They are infamous for damaging paper-based products.
+Silverfish are the only real-life animals to be fully hostile mobs.
+
+Publicity
+Silverfish appeared in the April Fools 2.0 update as the redstone bug.
+Due to the suffix "-fish", The Monster Food Add-On featured an item called silver seafood made from silverfish shells, and Minecraft Experience: Villager Rescue initially showed them underwater.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Textures
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+Category:Hostile mobs
+Category:Monster mobs
+Category:Arthropod mobs
+
+cs:Rybenka
+de:Silberfischchen
+es:Lepisma
+fr:Poisson d'argent
+hu:Ezüstmoly
+it:Pesciolino d'argento
+ja:シルバーフィッシュ
+ko:좀벌레
+lzh:蟫
+nl:Zilvervis
+pl:Rybik cukrowy
+pt:Traça
+ru:Чешуйница
+uk:Лусківниця
+zh:蠹虫

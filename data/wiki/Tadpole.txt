@@ -1,0 +1,99 @@
+TITLE: Tadpole
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Tadpole
+---
+A tadpole is a bucketable aquatic baby passive mob hatched from frogspawn. They mature into one of the three frog variants depending on the biome in which they mature.
+
+Spawning
+Tadpoles hatch from frogspawn in groups of 2-5.
+
+Drops
+As with other baby animals, tadpoles do not drop any items or experience on death.
+
+Behavior
+Tadpoles swim aimlessly in water. On land, they flop around like fish and seek out the nearest water. They die in less than 20 seconds after being out of water.
+
+Unlike frogs, tadpoles are hunted by axolotls.
+
+Tadpoles follow a player that is holding a slimeball.
+
+A player can pick up a tadpole with a bucket of water. A tadpole's health, age, and custom name are preserved when it's picked up in a bucket.
+
+A tadpole grows up into one of the variants of a frog depending on the tadpole's location, as shown on the table below. Tadpoles take one Minecraft day to grow up (20 minutes). Its growth may be accelerated by feeding it slimeballs. Each use reduces the remaining growth duration by 10%.
+
+VariantsTemperateColdWarm BiomesFrogs spawn naturally in this biome.
+Notes
+
+Alternatively, a tadpole can be prevented from aging when a player uses a golden dandelion, allowing it to remain as a tadpole indefinitely, or until another golden dandelion is used on it to cause its aging to resume.
+
+Unlike all other mobs with baby variants, the tadpole is treated by the game as a completely different mob from the frog.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Tadpoles have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: Represents the age of the tadpole in ticks. When greater than or equal to , the tadpole grows up to a frog.
+: 1 or 0 (true/false) - Whether the tadpole had ever been released from a bucket.
+
+Achievements
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Render
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+Category:Aquatic mobs
+
+de:Kaulquappe
+es:Renacuajo
+fr:Têtard
+he:ראשן
+ja:オタマジャクシ
+ko:올챙이
+lzh:蝌蚪
+pl:Kijanka
+pt:Girino
+ru:Головастик
+uk:Пуголовок
+zh:蝌蚪

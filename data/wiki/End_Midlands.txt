@@ -1,0 +1,39 @@
+TITLE: End Midlands
+CATEGORY: End biomes
+URL: https://minecraft.wiki/w/End_Midlands
+---
+The End midlands is a biome used to generate outer End islands.
+
+Description
+This biome generates as part of the outer islands of the End, forming the gradual slope from the hill-tops of each island down to the cliffs around the edge. End cities generate here, but chorus trees do not.
+
+Mobs
+The following mobs naturally spawn here:
+
+Music
+These music tracks play while the player is in the end midlands:
+
+Data values
+ID
+
+Biome definition
+
+History
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Navigation
+
+Category:End biomes
+
+fr:Terres moyennes de l'End
+pt:Interior do End
+ru:Равнины Края
+uk:Рівнини Енду
+zh:末地内陆

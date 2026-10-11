@@ -1,0 +1,197 @@
+TITLE: Tropical Fish
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Tropical_Fish
+---
+Tropical fish are common bucketable aquatic passive mobs found in warm or lukewarm oceans, mangrove swamps, and lush caves. There are 2,700 naturally occurring variants of tropical fish of different colors and shapes with unique names  and 3,072 .
+
+Spawning
+thumb|A group of tropical fish in a lukewarm ocean
+, random varieties of tropical fish spawn in groups of 8 in lukewarm or warm oceans (as well as their deep variants) and mangrove swamps at Y-level 50 to 63, and in lush caves in aquifers at any Y-level. They are subject to fish spawning requirements.
+
+, tropical fish spawn underwater at 12-32 blocks away from the player. Tropical fish spawn only in warm, lukewarm, deep lukewarm ocean biomes; lush caves, in groups of 3-5 for the same preset pattern, and in groups of 1-3 for a random pattern; and mangrove swamps. In addition, tropical fish in warm, lukewarm, and deep ocean variants can spawn only at Y levels between 50 and 64 and must be on the surface (i.e., there must not be a spawnable block above the spawn location with a non-solid block on top). Tropical fish in lush caves can spawn on aquifers at any Y levels but require underground.
+
+Drops
+On death
+
+when killed by a player or tamed wolf.
+
+Behavior
+Tropical fish tend to swim in schools of fish with a maximum of 7 tropical fish per school. Tropical fish are also able to go against the water flow.
+
+The player may collect a tropical fish by  a water bucket on it, which gives the player a bucket of tropical fish.  that fish bucket against a block empties the bucket, placing water with that fish swimming in it. Tropical fish placed via buckets do not despawn naturally.
+
+Tropical fish cannot be bred, but only spawn in designated biomes.
+
+Weaknesses
+Tropical fish cannot survive out of water. Outside of water, they flop around for a while until eventually they suffocate and die. , they rotate when flipping. Fish cannot swim or breathe in cauldron water. – "fish bouncing and suffocating on top of the cauldron which fills with water" resolved as "Won't Fix"
+
+Fish have a weakness to weapons that have the Impaling enchantment, which also affects aquatic mobs except drowned.
+
+Axolotls always attack tropical fishes on sight but they will not attack another tropical fishes for a few times after that.
+
+Varieties
+thumb|300px|The 22 uniquely-named varieties of tropical fish in Java Edition. From top to bottom and left to right:
+Anemone, Black Tang, Blue Tang, Butterflyfish, Cichlid, Clownfish
+Cotton Candy Betta, Dottyback, Emperor Red Snapper, Goatfish, Moorish Idol, Ornate Butterflyfish
+Parrotfish, Queen Angelfish, Red Cichlid, Red Lipped Blenny, Red Snapper, Threadfin
+Tomato Clownfish, Triggerfish, Yellowtail Parrotfish, Yellow Tang
+thumb|300px|All possible tropical fish variants
+
+Java Edition
+When tropical fish spawn in the wild, 90% of the time they appear as schools of one of the 22 varieties in the first image, and the other 10% of the time their patterns, shape, and colors are completely random, drawn from any of 2 shapes, 6 patterns, 16 base colors, and 16 pattern colors. The color black is not supposed to appear on any naturally-spawned tropical fish, since the eyes are usually hard to see, but due to a bug black can be chosen randomly. This results in 3,072 naturally-occurring combinations, instead of the intended 2,880.
+
+Tropical fish can be summoned with black as one or both of their colors, and/or without any visible pattern, though even without the pattern they can still have a pattern color, causing a further 884 possible combinations, 480 of which look the same due to the missing pattern.
+
+Bedrock Edition
+Tropical fish do not have common varieties . Instead, naturally spawned tropical fish have 2 spawn attempts: the first chooses one of the 22 preset variants, and the other uses randomly chosen patterns, sizes, shapes, and colors (except black).
+Tropical fish spawned from a spawn egg use randomly chosen patterns, sizes, shapes, and colors (except black).
+Using commands, tropical fish may be spawned as one of the 22 preset variants. Due to , yellowtail parrot fish do not spawn, therefore only 21 preset variants exist on Bedrock Edition. The specific command used is .
+
+Names
+<onlyinclude>Tropical fish variants in buckets have names that are assigned based on their colors and type. , the names are in the name of the bucket, giving names like "Bucket of Dottyback", "Bucket of Sky-Orange Snooper", or "Bucket of Orange-Lime Dasher". , the type, and colors are displayed as additional lines in the item tooltip.
+
+, the following colors are renamed from their defaults when they refer to tropical fish. Parentheses indicate default name and color id - see .
+(Light Blue; 3)
+(Pink; 6)
+(Light Gray; 8)
+(Cyan; 9)
+(Purple; 10)
+
+The base color is first, and the pattern color is next if it is different.
+
+The fish type is determined according to the shape and pattern of the fish:
+
+FlopperStripeyGlitterBlockfishBettyClayfishKobSunstreakSunstreak , SunStreak .SnooperDasherBrinelySpotty48px48px48px48px48px48px48px48px48px48px48px48px
+Some varieties of tropical fish don't follow the normal naming system; instead, they reference real-life fish species. , these unique fish are limited to the 22 common varieties. , there are also 22 uniquely-named tropical fish, though they are not all the same as . These uniquely-named tropical fish aren't different from regular tropical fish in terms of design or behavior.
+
+These varieties are:
+
+Name  Type  Image Anemone  Orange-Gray Stripey  center|50px Black Tang  Gray Flopper  center|50px Blue Tang  Gray-Blue Flopper  center|50px Blue Dory  Gray-Sky SunStreak  center|50pxButterflyfish White-Gray Clayfish  center|50pxButterfly Fish White-Gray Brinely  center|50px Cichlid  Blue-Gray SunstreakBlue-Gray SunStreak center|50px Clownfish  Orange-White Kob  center|50px Cotton Candy Betta  Pink-Light Blue SpottyRose-Sky Spotty  center|50px Dottyback Purple-Yellow BlockfishPlum-Yellow Blockfish  center|50px Emperor Red Snapper  White-Red Clayfish  center|50px Goatfish  White-Yellow Spotty  center|50px Moorish Idol  White-Gray Glitter  center|50px Ornate ButterflyfishOrnate Butterfly  White-Orange Clayfish  center|50px Parrotfish  Cyan-Pink DasherTeal-Rose Dasher  center|50px Queen AngelfishQueen Angel Fish  Lime-Light Blue BrinelyLime-Sky Brinely  center|50px Red Cichlid  Red-White Betty  center|50px Red Lipped Blenny  Gray-Red Snooper  center|50px Red Snapper  Red-White Blockfish  center|50px Threadfin  White-Yellow Flopper  center|50px Tomato Clownfish  Red-White Kob  center|50px Tomato Clown  Red-White SunStreak  center|50px Triggerfish  Gray-White SunstreakGray-White SunStreak center|50px Yellowtail ParrotfishYellowtail Parrot  Cyan-Yellow DasherTeal-Yellow Dasher  center|50pxYellow Tang Yellow Flopper center|50px Yellow Stripey  center|50px
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Tropical fish have entity data associated with them that contains various properties.
+
+:
+See Bedrock Edition level format/Entity format.
+
+:
+
+Entity data
+
+: 1 or 0 (true/false) - Whether the fish had ever been released from a bucket.
+: A 4-byte integer. Encodes the , , and  components.
+The least significant byte has a value of either 0 for a small fish, or 1 for a large fish. Values above 1 result in an invisible fish.
+The next byte has a value from 0–5, representing the pattern on the fish. Values above 5 result in a fish with no pattern.
+The next byte has a value from 0–15, representing the color of the fish's body.
+The most significant byte has a value from 0–15, representing the color of the fish's pattern.
+Color Data value  White 0  Orange 1  Magenta 2  Light Blue 3  Yellow 4  Lime 5  Pink 6  Gray 7  Light Gray 8  Cyan 9  Purple 10  Blue 11  Brown 12  Green 13  Red 14  Black 15
+
+The fish sizes and patterns are depicted in the following table, with white body color and dark-gray pattern color.
+
+second-least byte 0  1  2  3  4  5 least byte  1
+
+Flopper
+
+Glitter
+
+Betty
+
+Stripey
+
+Blockfish
+
+Clayfish
+
+300px
+
+Kob
+
+Snooper
+
+Brinely
+
+Sunstreak
+
+Dasher
+
+Spotty
+
+0
+
+The 22 varieties of tropical fish most commonly found throughout the world have Variant tag values from the following table, which also lists what color/shape/patterns come from that value.
+
+Shape  Pattern  Base color  Pattern color  Variant  Type  Name 0  0  1  0  65536  Orange-White Kob  Clownfish 0  1  7  0  459008  Gray-White Sunstreak  Triggerfish 0  0  14  0  917504  Red-White Kob  Tomato Clownfish 1  3  14  0  918273  Red-White Blockfish  Red Snapper 1  4  14  0  918529  Red-White Betty  Red Cichlid 1  5  0  1  16778497  White-Orange Clayfish  Ornate Butterflyfish 0  4  5  3  50660352  Lime-Light Blue Brinely  Queen Angelfish 0  5  6  3  50726144  Pink-Light Blue Spotty  Cotton Candy Betta 1  0  0  4  67108865  White-Yellow Flopper  Threadfin 0  5  0  4  67110144  White-Yellow Spotty  Goatfish 1  0  4  4  67371009  Yellow Flopper  Yellow Tang 0  3  9  4  67699456  Cyan-Yellow Dasher  Yellowtail Parrotfish 1  3  10  4  67764993  Purple-Yellow Blockfish  Dottyback 0  3  9  6  101253888  Cyan-Pink Dasher  Parrotfish 1  2  0  7  117441025  White-Gray Glitter  Moorish Idol 1  5  0  7  117441793  White-Gray Clayfish  Butterflyfish 1  1  1  7  117506305  Orange-Gray Stripey  Anemone 1  0  7  7  117899265  Gray Flopper  Black Tang 0  1  11  7  118161664  Blue-Gray SunStreak  Cichlid 1  0  7  11  185008129  Gray-Blue Flopper  Blue Tang 1  5  0  14  234882305  White-Red Clayfish  Emperor Red Snapper 0  2  7  14  235340288  Gray-Red Snooper  Red Lipped Blenny
+The variant number is the sum of the most significant byte × 224 + second most significant byte × 216 + second least significant byte × 28 + least significant byte.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Renders
+
+Mojang screenshots
+
+Screenshots
+
+Textures
+
+Other
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+cs:Tropické ryby
+de:Tropenfisch
+es:Pez tropical
+fr:Poisson tropical
+it:Pesce tropicale
+hu:Hal
+ja:熱帯魚
+ko:열대어
+nl:Vis (wezen)
+pl:Ryba (mob)
+pt:Peixe tropical
+ru:Тропическая рыба
+th:ปลาเขตร้อน
+uk:Тропічна риба
+zh:热带鱼

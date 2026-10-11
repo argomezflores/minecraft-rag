@@ -1,0 +1,71 @@
+TITLE: Frozen Peaks
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Frozen_Peaks
+---
+Frozen peaks are snowy mountain peak biomes covered by snow blocks, containing large amounts of ice and packed ice.
+
+Generation
+Frozen peaks generate at low-to-moderate temperatures in areas of positive weirdness. They generate as small hilltops, a large singular peak, a ring of peaks surrounding a valley, or as a large range reaching the generation height limit of Y=256.
+
+As a mountain peak biome, they are often surrounded by slope biomes such as groves and snowy slopes, which may act as transitionary boundaries between the frozen peaks and plateau biomes like meadows, cherry groves, or pale gardens. They may also directly border these plateau biomes instead, as well as forests, plains, and birch forests, and taigas. Frozen peaks rarely border stony peaks when temperature increases.
+
+Frozen peaks are separated from jagged peaks by valleys. Rarely, frozen peaks can generate coastally, where surrounding terrain may get cut off into massive cliffs.
+
+The deep dark is very common below frozen peaks. Above this, dripstone caves are common, though lush caves may also generate.
+
+Description
+The mountainous terrain of frozen peaks is covered by snow and snow blocks, with glaciers of packed ice and occasional small blobs of ice. Packed ice cliffs can generate in steep sides to the east or north with only a layer of snow covering them.
+
+Like all other mountain biomes, emerald ore and infested stone commonly generates underground. Pillager outposts may generate on the steep cliffs, sometimes reaching above the terrain generation limit. The only passive mobs that spawn here are goats, as well as rabbits and polar bears . Strays and frostbites spawn here at night or during thunderstorms .
+
+With Vibrant Visuals, frozen peaks use default environmental settings with a strong cold color grading, making the biome appear icy blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in frozen peaks:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+See also
+Mountains
+
+References
+
+External links
+
+Navigation
+
+de:Vereiste Gipfel
+fr:Pics gelés
+pt:Picos congelados
+uk:Крижані вершини
+zh:冰封山峰

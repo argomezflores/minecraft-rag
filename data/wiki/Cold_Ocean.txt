@@ -1,0 +1,71 @@
+TITLE: Cold Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Cold_Ocean
+---
+The cold ocean is a cold variant of the ocean biome with slightly less underwater vegetation. It generates near cold biomes and has a deep variant.
+
+Generation
+Cold oceans replace oceans at moderately cold temperatures, often near taigas and old growth taigas. As a shallow ocean, they can border coastal biomes but never mushroom fields. Cold oceans border deep cold oceans when continentalness decreases. Cold oceans transition to regular oceans when temperature increases, or frozen oceans when temperature decreases.
+
+Description
+thumb|200px|The separate colors of each ocean variant
+The cold ocean uses a dark indigo water color at the surface. Like regular oceans, its floor is made up mainly of gravel. The vegetation in cold oceans has less seagrass compared to other ocean variants.
+
+The same mobs as in regular oceans spawn here, namely salmon, cod, and dolphins. Ocean ruins use their cold variant and shipwrecks are common. Occasional islands in cold oceans are covered by grass blocks with default vegetation.
+
+With Vibrant Visuals, cold oceans use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a cold ocean:
+
+These music tracks play while the player is not underwater in a cold ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+External links
+
+Navigation
+
+fr:Océan froid
+pt:Oceano frio
+uk:Холодний океан
+zh:冷水海洋

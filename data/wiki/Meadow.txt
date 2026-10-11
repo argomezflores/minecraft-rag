@@ -1,0 +1,73 @@
+TITLE: Meadow
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Meadow
+---
+The meadow is an elevated grassy mountain slope and plateau biome filled with patches of flowers, turquoise-green grass and tall grass, where sheep, donkeys, and rabbits spawn.
+
+Generation
+Meadows generate elevated in cool to temperate inland regions. They take several forms, including thin strips on mountain slopes, massive standalone plateaus, and valleys inside mountain rings.
+
+Toward higher elevations, snowy slopes or groves often generate between a meadow and high peaks, though meadows can also border jagged peaks or frozen peaks directly. As terrain lowers, plains, taigas, forests, birch forests, or flower forests tend to surround meadows. Cherry groves can also border meadows, especially where humidity is low, while pale gardens often do so where humidity is high.
+
+Dripstone caves and the deep dark often generate beneath meadows, while lush caves are somewhat less common.
+
+Description
+The meadow is a high altitude counterpart to the plains biome. It is covered by most flowers controlled by a gradient, meaning that it can continue for hundreds of blocks with the same type of flower. In addition to this, the ground is covered by lots of short grass and wildflowers, along with some tall grass.
+
+Rarely, a lone oak or birch tree of any size can generate and always has a bee nest. Both pillager outposts and plains villages can generate in this biome, making this the only mountain biome where villages can generate. , unlike most Overworld biomes, sugar canes and pumpkin patches cannot generate here. Abandoned camps sometimes generate in meadows.
+
+Just like other mountain biomes, emerald ores can be found in meadows, especially at higher altitudes, and both coal and iron ores are commonly found here. Infested block blobs also naturally generate in meadows.
+
+, meadows are cold and allow snowfall above Y=200±8, however, this never occurs on natural terrain.
+
+The only passive mobs that can spawn here are rabbits, sheep, and occasionally donkeys.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in meadows:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Alm
+es:Prado
+fr:Prairie
+pt:Pradaria
+uk:Лука
+zh:草甸

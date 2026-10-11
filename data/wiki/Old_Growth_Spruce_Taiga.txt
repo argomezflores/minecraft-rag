@@ -1,0 +1,73 @@
+TITLE: Old Growth Spruce Taiga
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Old_Growth_Spruce_Taiga
+---
+The old growth spruce taiga or redwood taiga mutated is a forested biome covered with tall 2×2 spruce trees that grow leaves around the trunk. The ground, made of podzol and coarse dirt, occasionally features mossy cobblestone rocks.
+
+Generation
+Old growth spruce taigas generate where weirdness is negative, temperatures are moderately low, and humidity is very high. They often border old growth pine taigas, a variant with trees that have few leaves only near the top, either directly or separated by a river.
+
+Old growth spruce taigas commonly border regular taigas and dark forests. Less commonly, they border windswept forests, swamps, pale gardens, or rising groves and jagged peaks.
+
+Lush caves are very common beneath old growth spruce taigas due to their high humidities.
+
+Description
+As the name implies, old growth spruce taigas include trees that have attained a great age, and therefore great height. These spruces grow all over the landscape, while most of them are tall with 2×2 trunks, regular pine and spruce trees can also generate.
+
+Much of the grass blocks are replaced by large swaths of podzol and coarse dirt. Additionally, rocks made of mossy cobblestone frequently generate on the ground and dead bushes generate alongside the sweet berry bushes, ferns, and large ferns. Mushrooms are more common here than in most Overworld biomes.
+
+Trail ruins may generate here, but villages and pillager outposts cannot. Chestnut wolves, foxes and rabbits may spawn here. The climate is cold and allows snowfall above layer Y=160±8, which is notably lower than in the old growth pine taiga.
+
+Abandoned camps sometimes generate in old growth spruce taigas.
+
+With Vibrant Visuals, old growth spruce taigas use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint. Old growth spruce taigas have coolish color grading which tints the environment with a colder blue color, and cold sunlight which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the old growth spruce taiga:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+See also
+
+External links
+
+Navigation
+
+de:Fichten-Urtaiga
+fr:Taïga ancienne de sapins
+pt:Taiga de abetos antigos
+ru:Многолетняя тайга
+uk:Одвічна смерекова тайга
+zh:原始云杉针叶林

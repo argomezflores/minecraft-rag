@@ -1,0 +1,69 @@
+TITLE: Grove
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Grove
+---
+A grove is a snowy forest biome that often generates on the sides of mountains. Similar to the snowy taiga, it is filled with spruce trees but the ground is covered with snow blocks and occasional powder snow patches.
+
+Generation
+Groves usually generate as mountain slope biomes in cold to temperate climates, requiring medium to high humidity. As a result, they are frequently bordered by jagged peaks and frozen peaks in higher mountains.
+
+Groves often border forests, taigas, meadows, birch forests, dark forests, and old growth taigas as the terrain lowers. In frozen climates, snowy taigas frequently border groves.
+
+Very cold climates allow groves to stretch into flatter terrain and valleys, where they can cover thousands of blocks with thin frozen river, taiga, or snowy taiga biomes cutting through the valleys. If the humidity decreases, snowy slopes often generate instead.
+
+Similar to other mountain biomes, the deep dark is very common deep underground. At shallower depths, dripstone caves and lush caves frequently generate.
+
+Description
+A grove creates a forest of spruce trees on the sides of a mountain, reminiscent of a snowy taiga but the surface is covered snow blocks above a dirt ground, with snow layers on top. All spruce trees grow on a single block of dirt replacing snow blocks, with a slightly lower density than in snowy taigas.
+
+Strips of powder snow occasionally replace snow blocks and the dirt below, where trees do not generate. Fallen trees and dying trees do not generate here.
+
+Rabbits, snowy wolves, and snow foxes can spawn in this biome. Like other mountain biomes, emerald ore and infested stone can generate in stone under the ground. Pillager outposts are the only structures that generate here.
+
+With Vibrant Visuals, groves use default environmental settings with a coolish color grading, making the biome appear colder blue. They use cold sunlight, which is slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a grove:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+
+References
+
+Navigation
+
+de:Berghain
+es:Montañas#Abetal
+fr:Bosquet
+pt:Bosque
+uk:Гай
+zh:雪林

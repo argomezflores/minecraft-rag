@@ -1,0 +1,127 @@
+TITLE: Glow Squid
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Glow_Squid
+---
+A glow squid is a squid variant that spawns in dark underwater areas, typically in ocean depths, canyons, and underground lakes. It has an aqua luminescent texture, and is the only source of glow ink sacs.
+
+Spawning
+, schools of 4 to 6 glow squid spawn in water (source block or flowing) in complete darkness (light level must be 0) in the Overworld below layer 30, except for sulfur caves and deep dark biomes. Unlike most other aquatic mobs, they do not require water or waterlogged blocks above or below their spawning space. In all spawnable biomes, the spawn weight is  and the spawn chance is 100%.
+
+, glow squid spawn anywhere when there's water underground, in schools of 2 to 4 (below a solid roof categorized as cave spawn, while squid are surface spawns) anywhere except deep dark biomes, from Y=-64 to Y=30, in a light level of 0. The spawn weight is 10 in all spawnable biomes except mangrove swamp, in which the spawn weight is 100.
+
+Glow squid have a 5% chance of spawning as babies.
+
+Drops
+On death
+
+experience points when killed by a player or tamed wolf.
+
+Behavior
+thumb|The turquoise ink cloud produced by a glow squid
+Glow squid are passive toward the player. They are not attracted to light and do not deliberately interact with the player. Glow squid sometimes beach themselves and suffocate on the banks of rivers and occasionally on ocean beaches. These behaviors are shared with the traditional squid.
+
+Glow squid wander around aimlessly in three dimensions as long as they are in the water, opening and closing their tentacles, which gives them the appearance of pushing themselves leisurely forward.
+
+A glow squid's hitbox does not include its tentacles, and therefore cannot be damaged by attacking its tentacles.
+
+Glow squid suffocate when out of water, dying after . While on land, they remain stationary until they suffocate. , they can often suffocate in a single layer of source blocks, as they can orient themselves so their hitbox is out of the water. They can take fall damage and burn like any other land mob, but they cannot drown. When out of the water, glow squid are extremely resistant to knockback.
+
+Glow squid appear to glow, but do not produce block lighting. They stop glowing for  when harmed. They are emissive with Vibrant Visuals, and the light pixels glow especially strongly.
+
+Glow squid cannot swim in lava, even if inflicted with Fire Resistance. They simply pass through the lava and behave as if on land.
+
+, a glow squid can survive on land with Water Breathing. However, they still cannot move.
+
+Unlike land-based mobs, glow squid can swim against a current and not get pushed by it.
+
+Guardians and elder guardians attack glow squid in the same manner as they would a player, even if the glow squid is affected by Invisibility. Axolotls also attack glow squid.
+
+Glow squid are affected by the Impaling enchantment —  because they are aquatic mobs;  as long as they touch water.
+
+Glow squid constantly produce crystalline particles around them. When attacked, they emit a cloud of turquoise ink particles and swim away. The particles and the ink remain visible when the glow squid has the Invisibility status effect.
+
+If the player is in Spectator mode or is far away from glow squid (often when they are in unloaded chunks), they remain stationary. When attacked in this state, the squid cannot flee.
+
+Like a land-based mob, a glow squid can be picked up by a minecart.
+
+Unlike most “animal” mobs, glow squid cannot breed. Baby glow squid can be found only when they naturally spawn. A baby glow squid eventually turns into an adult after 24000 ticks (20 minutes), and their growth cannot be sped up.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Glow squid have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: Countdown of ticks remaining until the glow squid starts glowing. Not glowing while positive, glowing when countdown reaches zero.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Textures
+
+In other media
+
+See also
+
+(Earth)
+(Dungeons)
+(Dungeons)
+
+References
+
+External links
+article on Wikipedia
+Mob Menagerie: Glow Squid — Minecraft.net on February 29, 2024
+
+Navigation
+
+Category:Passive mobs
+Category:Aquatic mobs
+Category:Animal mobs
+
+de:Leuchttintenfisch
+es:Calamar luminoso
+fr:Poulpe luisant
+it:Calamaro luminescente
+ja:ヒカリイカ
+ko:발광 오징어
+pl:Świecąca kałamarnica
+pt:Lula-Brilhante
+ru:Светящийся спрут
+uk:Сяйний кальмар
+zh:发光鱿鱼

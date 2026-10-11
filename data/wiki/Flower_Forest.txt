@@ -1,0 +1,83 @@
+TITLE: Flower Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Flower_Forest
+---
+A flower forest is a variant of the forest filled with a much larger variation and frequency of flowers. Rabbits spawn here instead of wolves and bee nests generate much more often.
+
+Generation
+Flower forests generate at moderate temperatures, very low humidities, and are confined to areas of negative weirdness. This means that they are rarer than regular forests and will never border them.
+
+They most commonly border plains and meadow biomes. Flower forests may border sunflower plains biomes, separated by a river much of the time. They may also occasionally border swamps, savannas, snowy slopes, jagged peaks, and windswept hills.
+
+Description
+Flower forests have both oak and birch trees. They generate with a wide array of flowers, along with bee nests on 5% of trees.
+
+Abandoned camps sometimes generate in flower forests.
+
+Differences to regular forests
+There are some key differences between regular forests and flower forests.
+
+Flower forests have fewer trees and less grass. Instead, flower forests include a diverse variety of flowers. Leaf litter and bushes are completely absent.
+The vast number of flowers makes this biome variant an excellent source of dyes. The following types of flowers can be generated in flower forests:
+
+The following flowers do not generate in flower forests:
+
+There is a 10× greater chance of trees generating a bee nest.
+There is also a slight difference in mob spawning:
+cannot spawn in flower forests.
+can spawn in flower forests.
+also occur 10× more often, as there is 10× higher chance of spawning a bee nest with a tree.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the flower forest:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+See also
+
+External links
+
+Navigation
+
+de:Blumenwald
+es:Bosque floral
+fr:Forêt fleurie
+ja:森林
+ko:숲
+pl:Las
+pt:Floresta de flores
+ru:Лес
+uk:Квітковий ліс
+zh:繁花森林

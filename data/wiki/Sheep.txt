@@ -1,0 +1,176 @@
+TITLE: Sheep
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Sheep
+---
+A sheep is a common passive mob that supplies wool and raw mutton and is found in most grassy biomes.
+
+Spawning
+The sheep color is determined by the type of biome the sheep spawns in.
+
+Biome Common (81.836%) Uncommon (15%, or 5% for each color) Rare (3%) Epic (0.164%) Temperate  White  Light Gray Gray Black  Brown  Pink Cold  Black White Light Gray Gray  Brown  Pink Warm  Brown  White Light Gray Gray  Black  Pink
+
+If a monster spawner is set to spawn sheep, the sheep model spinning inside appears with one of . Independently from the displayed color, all six variants are able to spawn and the usual chances apply. To guarantee that sheep always spawn with the desired color, additional NBT tags can be applied to the monster spawner, utilizing the Color tag.
+
+Natural generation
+, 4 sheep may spawn above grass blocks at a light level of 9 and higher, even in snowy taigas, but not in pale gardens.
+
+, 2 to 3 sheep spawn during the world generation on grass blocks at the surface with at least a 2 block space above at a light level of 7 and higher, except in pale gardens, snowy plains, ice spikes, or wooded badlands. They later spawn individually on grassy biomes.
+
+Two sheep sometimes spawn in shepherd houses, butcher houses, and animal pens in villages.
+
+Drops
+On death
+
+experience orbs if killed by a player or tamed wolf.
+
+Killing a baby sheep yields no items nor experience.
+
+Shearing
+When sheared, sheep give 1–3 wool and do not take any damage. This is not affected by Fortune or Looting.
+
+Breeding
+Upon successful breeding,  is dropped.
+
+Behavior
+Sheep wander aimlessly and individually or in small flocks of two to four. Sheep avoid cliffs and hazardous areas if it warrants damage. Sheep emit hoarse bleats in mostly random patterns and especially when attacked. If harmed, sheep flee for a few seconds, but make no special attempt to avoid wolves.
+
+Sheep do not usually interact with players or other mobs, but follow a player holding wheat within a six blocks radius. Adult sheep cannot fit through a gap of the 90-degree intersection of two fences when the corner fence is removed, whereas the player and most other mobs can fit through easily (although mobs won't path-find through this gap).
+
+left|thumb|A sheared sheep eating grass and regrowing its wool
+Sheep graze short grass, short dry grass, tall dry grass, and ferns (but not tall grass or large ferns), making them disappear, and grass blocks, changing them into dirt blocks. Baby sheep graze grass much more often than adults and mature 1 minute faster when grazing. Sheep can eat grass through blocks that are lower than a full block, including extremities such as honey blocks, as well as from inside minecarts. A sheared sheep only regrows its wool after grazing. Therefore, if no grass is available, a sheep cannot regrow its wool after being sheared. If an adult sheep has the opportunity, the chance of eating grass is  every other game tick ( for baby sheep). If  is set to , grass blocks remain, but the sheep still regrow their wool.
+
+Dyeing
+width=660x660
+
+A sheep's wool can be dyed by pressing the  key or the interact button while holding any dye. A sheared sheep cannot be dyed until its wool grows back after eating a grass block. Dyeing changes the color of the sheep's wool until the sheep is dyed again. The new wool colors are inherited by baby sheep.
+
+If a sheep is dyed and then sheared, it retains its new dyed wool color after the wool regrows.
+
+Breeding
+
+thumb|An example of how a bred sheep inherits a mixture of its parents' colors when possible
+Sheep can be bred using wheat, after which they spawn a baby sheep. They cannot breed for five minutes after the baby sheep appears.
+
+The 20-minute growth of a baby sheep can be slightly accelerated using wheat. Each use takes 10% off the remaining time to grow up. A baby sheep can also accelerate its own growth by eating grass.
+
+If the parents have compatible wool colors (meaning that the corresponding dye items could be combined into a third dye color), the resulting baby sheep inherits a mix of their colors (e.g., blue sheep + white sheep = light blue baby sheep).
+If the dye colors cannot normally be mixed, the baby sheep spawns with the same color as one of the parents, chosen randomly, regardless of whether one or both parents have been sheared. Resulting colors from every possible pair of sheep can be seen in the table below.
+
++ Color mixing from sheep breedingParents White Gray Black Red Yellow Green Blue Purple PinkOther White— Light Gray Gray Pink— Lime Light Blue——— Gray Light Gray————— Black Gray Red Pink Orange Purple Yellow— Orange—— Green Lime— Cyan Blue Light Blue Purple Cyan— Purple——— Magenta Pink Magenta—Other—
+
+Easter eggs
+
+thumb|An evoker changing a sheep's wool color
+An evoker can change a sheep's wool color if the evoker isn't engaged in combat and  is set to true. If that condition is met, it can change the wool color of any blue sheep within 16 blocks to red. It signals the spell by producing orange color particles () and making a "wololo" sound. This is a reference to the priest unit of the 1997 game Age of Empires. This will still work if they are named jeb_.
+thumb|A sheep named "jeb_"
+If a sheep is named jeb_, its wool cycles through all dye colors in order. This is purely a visual effect. A sheep named jeb_ can still be dyed without changing the rainbow effect, and any wool obtained from one of these sheep has the most recent color as if the sheep was not named. The name tag jeb_ is an easter egg toward Jens Bergensten, one of the developers, or "Jeb" as he is called online.
+
+This feature was added in version 1.7.4.
+
+Jockey
+
+thumb|width=165x165|A white unsheared sheep ridden by a baby zombie
+15% of baby zombies, husks, or drowned may ride a nearby sheep to form a jockey.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Sheep have entity data associated with them that contain various properties.
+
+:
+See Bedrock Edition level format/Entity format.
+
+:
+
+Entity data
+
+: The color of the sheep. Default is 0. Represents the  component.
+: 1 or 0 (true/false) - true if the sheep has been shorn.
+Color Data value 32px White 0 32px Orange 1 32px Magenta 2 32px Light Blue 3 32px Yellow 4 32px Lime 5 32px Pink 6 32px Gray 7 32px Light Gray 8 32px Cyan 9 32px Purple 10 32px Blue 11 32px Brown 12 32px Green 13 32px Red 14 32px Black 15
+
+Color values
+, non-white sheep colors are 25% darker as the respective dye color values; white is separately defined as . Non-white sheep colors are applied to the sheep_wool.png and sheep_wool_undercoat.png textures, while white is applied exclusively to the sheep_wool.png texture (the wool undercoat texture is not rendered for white sheep).
+
+, sheep colors use the same values as the base dye colors. The wool textures of white sheep are not tinted.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Spawn rules before Spring to Life
+The color of a sheep was determined by the values in the table below. One in every 500 white sheep (0.2%) was instead pink, making pink the rarest of the six naturally spawning colors. 5% of all sheep (regardless of color) spawned as baby sheep.
+
++ Sheep ColorsColorChancePercentageAdultBabyTotal -100%95%5% White × 81.836%77.7442%4.0918% Black5%4.75%0.25% Gray5%4.75%0.25% Light gray5%4.75%0.25% Brown3%2.85%0.15% Pink × 0.164%0.1558%0.0082%
+
+Data history
+
+Issues
+
+Gallery
+
+Renders
+Unsheared
+
+Sheared
+
+Baby
+
+Jeb
+
+Mojang screenshots
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+
+cs:Ovce
+de:Schaf
+es:Oveja
+fr:Mouton
+he:כבשה
+hu:Bárány
+it:Pecora
+ja:ヒツジ
+ko:양
+nl:Schaap
+pl:Owca
+pt:Ovelha
+ru:Овца
+th:แกะ
+tr:Koyun
+uk:Вівця
+zh:绵羊

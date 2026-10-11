@@ -1,0 +1,83 @@
+TITLE: Plains
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Plains
+---
+The plains are common grassland biomes in the Overworld with wide, open terrain and flowers.
+
+Generation
+Plains are the second-most common Overworld biome after forests, covering about 10.2% of its area. This is due to both their abundance and their potential to grow very large. They generate across a broad range of moderate temperatures when humidity is low to moderate.
+
+The terrain varies widely, from small islands and expansive flatlands to rolling hills and steeper ground where they transition into meadows, snowy slopes, or windswept biomes. They most often border forests, savannas, sparse jungles, flower forests, sunflower plains, or dappled forests. Because plains have a wide temperature range, they can transition into mangrove swamps, badlands, deserts, or snowy plains.
+
+Beneath inland plains, dripstone caves are common, whereas sulfur caves are less abundant.
+
+Description
+Plains are grassy with few terrain features, creating a wide, open view. Many of the grass blocks are covered in short grass or tall grass, with many different flowers. Oak trees generate sometimes;  are large, while  have bees and bee nests.
+
+Some occasional large patches of flowers grow various colors of tulips. Along with flower forests, plains are the only places where tulips generate. Oxeye daisies, cornflowers, dandelions, poppies, and azure bluets, sporadically generate within the plains. Bushes also generate in small patches of plain fields.
+
+Villages generate in plains, using oak planks and logs. Pillager outposts can generate here as well.
+
+Horses and donkeys spawn in plains biomes, as well as hostile zombie horses during the nighttime. Common temperate animal variants also spawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in plains:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Historical screenshots
+
+Development images
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Ebene
+es:Llanura
+fr:Plaines
+it:Pianura
+ja:平原
+ko:평원
+lzh:原野
+pl:Równiny
+pt:Planície
+ru:Равнины
+uk:Рівнини
+zh:平原

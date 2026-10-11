@@ -1,0 +1,74 @@
+TITLE: Pale Garden
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Pale_Garden
+---
+A pale garden is a rare variant of the dark forest biome with pale oaks and many pale vegetation blocks. Creaking hearts that spawn creakings at night can often be found here.
+
+Generation
+Pale gardens generate inland in temperate regions with very high humidity, almost always adjacent to dark forests. They tend to generate on high terrain, such as plateaus or mountain slopes, which makes meadows and groves common borders. Pale gardens sometimes also border birch forests, jungles, and old growth taigas. Most are small, but some stretch hundreds of blocks.
+
+Lush caves, dripstone caves, and the deep dark commonly generate beneath pale gardens.
+
+Description
+They mainly consist of pale oak trees, along with pale moss patches made of pale moss blocks and pale moss carpets, and scattered eyeblossoms. Pale hanging moss can be found hanging off the trees. Some of the pale oak trees contain a creaking heart block, which spawns a creaking when activated at night. Woodland mansions and abandoned camps can generate in pale gardens. The water, sky, and blocks of the biome are desaturated.
+
+With Vibrant Visuals, the pale garden has an extremely dense pale fog that blocks all skylight and limits the view to only a few chunks. Sunlight is much less bright and colored gray, as well as moonlight. Pale gardens use coolish color grading, which tints the environment colder blue.
+
+The biome is said to be the only remnant of a world lost to time, with the tallness of the trees and the pale hanging moss combining to create a sense of an untamed wilderness.
+
+Ambient music does not play in pale gardens. If a music track is playing while the player enters the biome, it fades into silence. The music resumes when the player exits the biome.
+
+Mobs
+Creakings are found in this biome only at night, but their spawning is controlled by creaking hearts, not the biome. Since naturally generated pale oaks only have a 20% chance to include a creaking heart, it is possible to find small pale gardens with no creaking hearts.
+
+Regular passive mobs do not naturally spawn in the pale garden, but normal hostile mobs can spawn here, sometimes even during the day because of the thick foliage.
+
+The following mobs naturally spawn here:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang images
+
+Development images
+
+In other media
+
+References
+
+Navigation
+
+de:Blasser Garten
+es:Jardín pálido
+fr:Jardin pâle
+it:Giardino pallido
+ja:ペールガーデン
+ko:창백한 정원
+lzh:縞苑
+pt:Jardim pálido
+ru:Бледный сад
+uk:Блідий сад
+zh:苍白之园

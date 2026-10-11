@@ -1,0 +1,173 @@
+TITLE: Trader Llama
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Trader_Llama
+---
+A trader llama is a llama variant that spawns in pairs leashed to wandering traders. It behaves similarly to a regular llama, but becomes hostile if the wandering trader is attacked, and will despawn when the trader does unless the lead is removed.
+
+Spawning
+
+When a wandering trader spawns, two trader llamas attempt to spawn within 4 blocks of the trader on each horizontal axis and the world's surface on the y-axis. Each llama has 10 spawn attempts. Once a llama spawns, they are leashed to the wandering trader.
+
+, when a wandering trader is spawned using a spawn egg, trader llamas do not spawn.
+
+Drops
+Breeding
+upon successful breeding.
+
+On death
+
+Any equipped  and .
+All items in their inventory.
+experience orbs if killed by a player or tamed wolf.
+
+Like other baby animals, killing a baby trader llama yields no item or experience.
+
+Behavior
+Trader llamas are neutral, retaliating when it or the associated wandering trader is attacked by a player or mob. Sometimes their spit can miss their target and hit another trader llama, starting a fight within a group of trader llamas.
+
+Trader llamas are hostile toward wolves and spit without provocation, but they don't attack tamed wolves unless provoked. Wolves are fearful of trader llamas of strength 4 or 5 and always run away, and won't attack unless provoked by their spit. Wolves flee from weaker trader llamas less often. Tamed wolves never flee from trader llamas.
+
+Trader llamas are also hostile toward zombies, husks, drowned, zombie villagers, pillagers, vindicators, evokers, and illusioners .
+
+Trader llamas are completely passive on Peaceful difficulty.
+
+Trader llamas float when in water deeper than one block.
+
+Trader llamas can safely fall 6 blocks before they begin to accumulate fall damage, unlike most mobs, which can only safely fall 3 blocks. They also take half of the normal fall damage (rounded up) that most other mobs take ( damage per block over the safe distance instead of ).
+
+Trader llamas have a  chance to regenerate  health point each game tick.
+
+Unlike other neutral mobs, trader llamas don't count toward the  tag.
+
+Spitting
+
+Trader llamas attack other mobs by spitting at them, dealing  damage. Trader llama spit is not flammable.
+
+Taming
+A trader llama lead by a wandering trader is untamable and cannot be ridden. It becomes tamable or immediately tamed and does not despawn once it is unleashed from the wandering trader.
+
+Trader llamas can be tamed by repetitively riding them until hearts are displayed, done by pressing  on the llama while holding nothing. Tamed trader llamas do not despawn.
+
+Taming success depends on the trader llama's Temper value. Temper is a positive trait, with higher values increasing the chance of successful taming. Llamas begin with a Temper value of 0 and a maximum of 30. When a player rides an untamed trader llama, a random number from 0 to 29 is chosen. The trader llama gets tamed successfully if this number is less than the Temper value, otherwise, the Temper is increased by 5 and the player is bucked off. Temper can also be increased by feeding the llama.
+
+Tamed trader llamas do not spit at mobs that attack its owner, although it spits at any mob that attacks the llama. Tamed trader llamas can still retaliate at players should the player hit them.
+
+Feeding a trader llama food can alter its behavior, increasing its temper value if untamed, restoring lost health or making a baby grow faster (babies ordinarily take around 20 minutes to mature to adults). The table below lists the effects of the 2 food items llamas accept.
+
+A trader llama can be fed by holding a valid food item and pressing  while facing the llama. Llamas can be fed only when feeding would have an effect, similar to other animals. If the food is invalid, the player mounts the llama instead.
+
+FoodHeals Speeds growth byIncreases temper byNotes
+
+10 sec (200 ticks)
++3
+
+1:30 min (1800 ticks)
++6
+Activates love mode in tamed llamas.
+
+Breeding
+Adult tamed trader llamas can be bred by being fed a hay bale. The baby trader llama takes on the coat color of one parent at random. Its strength is chosen as a random integer between 1 and the strength of the stronger parent, inclusive. 3% of the time the resulting strength is increased by 1, but it is capped at 5.
+
+When two trader llamas are bred, the offspring wears the same unique rug to all trader llamas.
+
+Stronger parent's strengthOffspring's strength1 2 3 4 5197% 3%   248.5% 50% 1.5%  332.33% 33.33% 33.33% 1% 424.25% 25% 25% 25% 0.75%519.4% 20% 20% 20% 20.6%
+
+Select a row based on the stronger parent. The column shows the probability of the resulting offspring having a given strength.
+
+A llama's base health ( to ) is calculated based on that of its parents, in the same way as a horse's.
+
+Color variant of llamas is randomly selected between parents.
+
+When breeding a trader llama with a normal llama , the offspring will always be a normal llama. , the offspring can be either normal or trader llama.
+
+Caravans
+Trader llamas form a caravan when one of them is leashed by a player.
+
+Leashing a trader llama signals up to 9 nearby llamas that are not already in a caravan to follow each other, forming a caravan of up to ten llamas. When multiple llamas are leashed, each leashed llama can form a separate caravan of up to ten separate llamas. Each caravan cannot have two or more leashed llamas in it, and there is no limit to the number of caravans a player can lead.
+
+Storage
+thumb|right|The GUI of a trader llama.
+A tamed trader llama can be equipped with a chest by pressing the  control on it while holding a chest. The chest gives the trader llama 3 to 15 slots of inventory space, depending on its strength (see table below). Once equipped, its contents can be accessed by pressing the  control on the llama while sneaking, or by opening the inventory while riding the llama. The chest itself cannot be retrieved without killing the trader llama.
+
+Strength distribution in wild llamas Strength  Probability of spawning with that amount of strength Number of slots in inventory1 32.8% 32 32.8% 63 32.8% 94 0.8% 125 0.8% 15
+
+Carpets
+thumb|right|350px|All llama carpet patterns.
+A trader llama can be equipped with a wool carpet in its carpet slot. Each carpet color shows as a different patterned rug when on the llama's back. This can be useful for color-coding the llamas as storage containers, like dyed shulker boxes. A trader llama that does not have a carpet wears a unique blue rug design. This design can be replaced with a carpet but never removed.
+
+When given carpets, all types of (trader) llamas look the same, except for their fur colors. , a trader llama's carpet decoration remains visible when the llama is under the effect of Invisibility; , it becomes invisible.
+
+For the purposes of the  command, a trader llama carries its carpet in the armor.body slot.
+
+Despawning
+Trader llamas often despawn one tick before their trader does, because a trader llama has its DespawnDelay set to 47999 ticks. This value is decremented each tick that the llama is untamed, non-leashed to some thing other than the wandering trader, and not being ridden by exactly one player, and is reset to one tick less than the trader's own DespawnDelay if leashed to a trader. The llama despawns when its DespawnDelay reaches zero ticks.
+
+Sounds
+Trader llamas share the same sound as normal llamas.
+
+Data values
+ID
+:
+
+:
+
+Entity data
+:
+
+Trader llamas have entity data associated with them that contain various properties.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+Breeding a pair of trader llamas is not required in order to complete the Two by Two advancement.
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data History
+
+Issues
+
+Trivia
+The trader llama LEGO BrickHeadz figure is the 200th produced.
+
+Gallery
+Renders
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Neutral mobs
+Category:Tameable mobs
+Category:Animal mobs
+
+de:Händlerlama
+es:Llama
+fr:Lama
+it:Lama
+ja:ラマ
+ko:상인 라마
+nl:Lama
+pl:Lama
+pt:Lhama do Vendedor
+ru:Лама
+uk:Лама крамаря
+zh:行商羊驼

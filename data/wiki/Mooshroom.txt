@@ -1,0 +1,145 @@
+TITLE: Mooshroom
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Mooshroom
+---
+A mooshroom is a mushroom-covered variant of the cow exclusive to the mushroom fields biome. Mooshrooms are a great source of mushroom stew and leather.
+
+Spawning
+Red mooshrooms can spawn in mushroom fields biomes in herds of 4–8 on mycelium blocks. They do not naturally spawn in any other biome.
+
+Red mooshrooms have a 5% chance of spawning as babies.
+
+A red mooshroom transforms into a brown mooshroom, and vice versa, when it is struck by lightning. Brown mooshrooms never spawn naturally.
+
+Breeding
+
+A pair of mooshrooms can breed when being given wheat. A mooshroom cannot be bred with a cow.
+
+Breeding two red mooshrooms has a  chance to spawn a brown baby variant and vice versa. When breeding a red mooshroom and a brown mooshroom together, the baby has a  chance of being either variant.
+
+Feeding wheat to a baby mooshroom shortens its growing time by 10% of the remaining time. Baby mooshrooms do not have mushrooms on their backs; they appear once the baby grows to an adult.
+
+Drops
+Breeding
+upon successful breeding
+On death
+
+(when killed by a player or tamed wolf)
+
+Shearing a mooshroom drops 5 corresponding mushrooms and turns the mooshroom into a temperate cow, emitting a smaller version of the explosion particle. The mushrooms do not grow back.
+
+Like other baby animals, killing a baby mooshroom yields no items or experience.
+
+Behavior
+Mooshrooms have the same AI behavior as cows: they walk around slowly and aimlessly, huffing and mooing occasionally. They avoid danger such as cliffs, fire, or lava, but make no attempt to stay out of water.
+
+A mooshroom follows a player holding wheat.
+
+A lightning strike within 4 blocks of a mooshroom switches its color, from red to brown and vice versa. Mooshrooms do not take damage from lightning during this transformation.
+
+Milking
+A mooshroom can be milked by  a bucket on it, yielding a milk bucket. Mooshrooms can also be  using bowls to get mushroom stew.
+
+When a small flower is fed to a  brown mooshroom, the brown mooshroom produces a suspicious stew related to that small flower the next time it is  with a bowl. Red mooshrooms do not produce suspicious stew. The brown mooshroom returns to producing mushroom stew until fed another small flower. The small flowers produce the suspicious stew with the following effects.
+
+Jockey
+
+thumb|width=165x165|A red mooshroom ridden by a baby zombie.
+15% of nearby baby zombies, husks, or drowned may ride an adult mooshroom to form a jockey.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Mooshrooms have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: The effects applied to the suspicious stew from milking the mooshroom.
+
+: Optional. The Effect identifier of the status effect the brown mooshroom may give to a suspicious stew.
+: Optional. An integer indicating the duration of the status effect the brown mooshroom may give to a suspicious stew.
+: ID of the mooshroom's type. Represents the  component.
+Variant Identifier 32px Red red 32px Brown brown
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+, there was a buttercup-covered variant of mooshrooms known as "mooblooms". This variant was also part of the Minecraft Live 2020 Mob Vote. It came last and there are currently no known plans to add it to the game.
+Unlike cows, mooshrooms do not have a Moody sound variant.
+
+Gallery
+Mojang screenshots
+
+Development images
+
+Screenshots
+
+Mojang artwork
+
+Textures
+
+In other media
+
+External links
+Cordyceps fungi
+
+References
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+
+cs:Krávomůrka
+de:Mooshroom
+es:Mooshroom
+fr:Mooshroom
+hu:Mooshroom
+it:Mooshroom
+ja:ムーシュルーム
+ko:무시룸
+nl:Mooshroom
+pl:Mooshroom
+pt:Mooshroom
+ru:Муушрум
+th:มูชรูม
+uk:Мушрум
+zh:哞菇

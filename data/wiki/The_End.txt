@@ -1,0 +1,151 @@
+TITLE: The End
+CATEGORY: Dimensions
+URL: https://minecraft.wiki/w/The_End
+---
+thumb|The End's central island. The ender dragon can be seen flying around the End spikes.|alt=
+thumb|A view of the outer islands of the End. An End city with a ship as well as several End gateways can be seen.
+
+The End is a dark, void-like, and space-like dimension consisting of separate islands in the void, made out of End stone. It is inhabited by endermen and shulkers. The ender dragon also spawns when the player first arrives. There is no portal back until it is defeated.
+
+The End is generally considered the final goal of , and is usually the last dimension a player will travel to. The ender dragon is considered the final boss, and it is necessary to defeat it to return to the Overworld without dying, and to read the End Poem.
+
+Accessing
+
+thumb|right|An activated End portal found in a stronghold
+
+To access the End, the player must go through the process of finding a stronghold using eyes of ender, finding the portal room, and activating the End portal in the End portal room. The room consists of a 5×5 square of End portal frames, with the corners cut out, making a total of 12. The portal hangs over a lava pool, with a staircase leading up to it. A silverfish spawner sits on top of the staircase.
+
+The player can activate the portal by filling the 12 End portal frames each with an eye of ender. Each frame block has a 10% chance of generating with an eye in it. Once all the eyes of ender are placed, the portal activates and emits a loud noise audible from anywhere in the world. As soon as it is activated, the portal destroys all blocks in the central 3×3 square, including bedrock or another portal frame, and replaces them with the End portal blocks that can teleport an entity into the End dimension. Upon jumping into the portal, the player immediately arrives in the End (X: 100, Z: 0), along with any prior entities that may have teleported.
+
+If cheats are enabled, players can also teleport to the End without using an End portal: the command  allows the player to select their teleportation destination in the End directly.
+
+Environment
+The End consists of one large island surrounded at a distance by many smaller islands, all mainly composed of End stone. There is a gap between the central island and the outer islands of about 1000 blocks with nothing but the void.
+
+The starless "sky" and the void of the End are both composed of a blank, static pattern (see End sky), colored slightly purple with Vibrant Visuals. The daylight cycle is absent in the End, similar to the Nether, being replaced by a constant dim light.
+thumb|An End flash
+The sky periodically flashes and emits purple light while also producing sounds. The purple light acts as sky light.
+
+The weather cycle does not exist in the End, meaning there is no rain, snowfall, or thunderstorms.
+
+Most items and blocks function in the End exactly as they do in the Overworld, with a few notable exceptions:
+
+Beds and respawn anchors cause an explosion 25% stronger than TNT and fires when one attempts to  them, as beds do in the Nether and respawn anchors in the Overworld.
+Villagers, if brought in, can still use beds safely during night time in the Overworld.
+Compasses are unable to find the original spawn point, as spawn points cannot be set within the End, but a compass used on a lodestone still works.
+Clocks are unable to determine the position of the sun and moon, as there is no daylight cycle in the End. Clocks instead spin randomly as they do in the Nether.
+Eyes of ender cannot be thrown, since no strongholds generate in the End.
+Nether portals cannot be activated by the player in the End (although they can be placed through commands or external programs and editors).
+Fire burns indefinitely on bedrock, but does not naturally spread onto other blocks of bedrock, as with netherrack.
+Creaking hearts do not spawn creakings when placed between two pale oak logs.
+Eyeblossoms do not change between open and closed states depending on the time of day.
+
+Biomes
+There are 5 biomes that make up the End . Beds and respawn anchors still explode if the biome is set in the Overworld. , all End biomes are classified as a single biome, which is called the_end.
+
+Structure and generated features
+There are currently 7 structures and generated features in The End:
+
+Name Description Image End spikeEnd spikes, also known as obsidian pillars, obsidian spikes or obsidian towers, are generated structures at the End that are made of obsidian, with a single bedrock block and an End crystal on top of each pillar. Larger ones have cylindrical forms. The pillars surround the exit portal in a 42 block radius circle, and penetrate through the main island down to y level 0.  250px End platformThe End platform is a 5 by 5 square of obsidian that is generated once a player or entity enters the End. If the obsidian is destroyed, or if a block is placed on top of the three air blocks above any part of the platform when the player enters the End, the obsidian is restored and any blocks on top of those three air blocks above the platform are replaced with air, and dropped as an item. 250px Exit portalThe exit portal (also known as the End fountain) is a structure located on the central island that enables the players to return to their spawn points in the Overworld or the Nether. It activates upon the defeat of the ender dragon. 250px End gatewayEnd gateway portals are generated in the End after defeating the ender dragon, and are used to gain quick access to the outer End islands and teleport the player back to the center island. 250px End cityEnd cities are skyscraper-like structures found on the outer islands of the End. They are inhabited by shulkers and hold exclusive loot. 250px End ship End ships are floating structures that are sometimes generated alongside End cities. They are the only places where elytra and the dragon head can be legitimately obtained. 250px Chorus tree Chorus trees are tall, coral-like blocks ubiquitous in the outer islands. They are composed of chorus plants and chorus fruit. Similar to bamboo and sugar cane, breaking one part causes all plants above the tree to break. 250px
+
+Terrain features
+Main island
+All players begin their exploration of the End with the main island. Unlike Nether portals, entering the End portal instantly teleports the player to the End, giving no time to back out. Upon arrival in the End, the player is placed on a 5×5×1 obsidian platform with three layers of air blocks above it. If there are any blocks in a three-block space above the platform, they are destroyed when a player enters an End portal. The platform can generate on the island, within it, or at a short distance from it, close enough to throw an ender pearl to reach the island. It always generates centered on the coordinates (100, 49, 0) with the player facing west.
+
+Once the player enters the End, the only way back (without prior setup) is to die or defeat the ender dragon. The dragon spawns naturally and flies around above ten end spikes of obsidian arranged in a circle with a radius of 42 blocks around the central exit portal, which activates when the dragon is killed. On top of each tower lies an End crystal. Two of the crystals are protected by cages of iron bars. These crystals heal the dragon but can be destroyed by hitting them. Destroying the crystal while the dragon is healing damages the dragon.
+
+Once defeated, the dragon goes to the exit portal at (0, 64, 0), rises into the sky, and slowly disintegrates, with bright beams of light flashing from its body. It then explodes, drops 12,000 (first dragon) or 500 (all subsequent dragons) experience orbs, activates the exit portal, and generates one End gateway (first 20 dragons only). This gives the player access to the End's outer islands. Atop the exit portal lie four torches and the dragon egg. After the dragon is killed, it can be respawned an unlimited number of times by placing four End crystals on the sides of the exit portal. Respawning the ender dragon regenerates any obsidian pillar blocks previously mined by the player, as well as the torches on the exit portal. However, the dragon egg does not regenerate when a respawned ender dragon is killed.
+
+thumb|right|The End's outer islands are clustered around the main island.
+
+Once the player enters the exit portal, the "End Poem" is displayed, thereby "completing" the game. The player then respawns wherever the spawn point is set in the Overworld or in the Nether and may return to the End through the same portal (or a different portal from another stronghold); the End remains in the same state as the player left it. The obsidian platform is regenerated each time a player enters the End, meaning that any blocks or block entities placed in the 5×5×4 space on or above the platform are destroyed and replaced with obsidian and air blocks.
+
+Outer islands
+
+The End's outer islands are more diverse than the main island. When a player enters one of the End gateways that generate after killing the dragon, they are instantly teleported over the ~1000 block void to the outer islands. These gateway portals are easiest to enter through the use of ender pearls, due to the one block tall gap between the bedrock blocks, but can also be entered by placing water and swimming through, using a trapdoor or piston to force the player to crawl, or with skilled use of a pair of elytra.
+
+The outer islands vary in size. There are occasional "mini islands" in the gaps between the larger ones, generally with nothing on them (occasionally they generate End gateways that return the player to the obsidian platform). The larger islands can also vary in size but are generally a hundred to several hundred blocks wide. The gaps between these islands are generally short enough that players can travel between them via ender pearls.
+
+These outer islands generate up to the world boundary. Some are topped with a forest of chorus trees that may be harvested for its chorus fruit, and perhaps chorus flowers, to grow it in the Overworld. The player may find End cities (which may generate ships with them) on these islands, which hold exclusive loot. Elytra and the dragon head can only be found on the End ships.
+
+Mobs
+The End is home to three naturally spawning mobs, with one additional related mob:
+: Spawns naturally once on the central island when the player first arrives, but can be respawned by placing 4 End crystals, one on each side's middle block of the exit portal.
+: Spawn naturally throughout the entire dimension.
+: Appear within End cities on the outer islands. They do not respawn once killed, but can sometimes clone themselves when attacked by another shulker.
+: Are associated with the End, but do not spawn naturally without player interaction.Minecraft: Mobspotter's Encyclopedia, page 162
+
+Unlike other dimensions, no passive mobs spawn naturally in the End.
+
+Blocks
+Naturally generated
+Naturally generated includes blocks that are created through the world seed and always generate no matter what.
+
+Naturally created
+These blocks are created through a combination of events that lead these blocks to be placed by natural causes such as summoning the ender dragon, not by the player.
+
+Structures
+These blocks and entities are only generated as part of End cities, when the "generated structures" option is on.
+
+Technical information
+ID
+
+Folder
+, the End is stored in .minecraft/saves/<world name>/dimensions/minecraft/the_end . Deleting this folder resets the End, so that all player-made changes and buildings in that dimension are undone.
+
+, the com.mojang/minecraftWorlds/<world ID>/db folder contains several collections of chunks. Some of these files are used for the End, but it is impossible to tell which ones simply by reading the file name.
+
+Dimension type definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Developer Ulraf in a livestream was asked about if there were plans for an update to the End dimension, akin to the Nether Update, and what Ulraf would personally want to see changed. In response, Ulraf stated that while there is little he can say, he expressed that he has played mods that add features to the End and that he doesn't think they were on the "right track". To clarify, he explains that the End should still stay relatively empty, scary, and quiet, as those are aspects currently unique to the End. He believes that there needs to be more to the End than there is right now to address it being "a bit boring". He stated that he is anticipating the challenge of working on an update to the End, and that he is excited to work on it when they get to it. Regarding specific features, he expressed interest in adding new blocks, creatures, and structures while still retaining the desolate feeling of the dimension by avoiding additions like too many plants. Lastly, he explained that he would really like to refine the ender dragon fight to make it more interesting and challenging. https://youtu.be/2cxUNoWNy50?t=11843
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Development images
+
+References
+
+Navigation
+
+E
+
+cs:End
+de:Das Ende
+es:El End
+fr:L'End
+he:האנד
+hu:A Vég
+it:L'End
+ja:ジ・エンド
+ko:엔드
+lzh:終界
+nl:De End
+pl:End
+pt:O End
+ru:Энд
+th:ดิเอนด์
+uk:Енд
+zh:末地

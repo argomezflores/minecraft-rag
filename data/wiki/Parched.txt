@@ -1,0 +1,114 @@
+TITLE: Parched
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Parched
+---
+A parched is a skeleton variant that spawns in deserts. Parched behave similar to skeletons, but have less health, do not burn in sunlight, fire their bows more slowly, take freeze damage instead of converting to strays, and shoot tipped arrows of Weakness.
+
+Spawning
+Parched can spawn in deserts at night, replacing some skeletons.
+
+, parched spawn directly under the sky in groups of 4 in place of 50% of all skeletons spawned in desert biomes.
+
+, parched spawn on the surface in groups of 2-4 in place of  (~33%) of all skeletons spawned in desert biomes.
+
+Camel husk jockeys
+When a husk spawns naturally and spawns in a space that does not block the collision box required for a camel husk, it has a 10% chance to spawn as a camel husk jockey, i.e. riding a camel husk, and spawning a parched as the second passenger.
+
+Spider jockeys
+Spiders and cave spiders spawned in deserts have a 1% chance to spawn as a spider jockey, with an 80% chance of the rider being a parched.
+
+Drops
+On death
+
+Any picked-up equipment has a 100% chance of dropping and drops with the same damage level it had when picked up.
+Any naturally spawned equipment, including the bow, has an 8.5% chance of dropping (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It is damaged and may be enchanted.
+experience orbs when killed by a player or tamed wolf and an extra  if the parched has armor.
+
+Behavior
+Parched mostly behave like normal skeletons except that they shoot extended arrows of Weakness instead of normal arrows, have their cooldown between each bow shot longer than normal skeletons at every 4.5/3.5 seconds on Easy and Normal and every 3.5/2.5 seconds on Hard, and they do not burn in sunlight. Parched are also immune to the Weakness effect, although this typically makes no effective difference since parched attack using projectiles, which are themselves not affected by Weakness.
+
+In , like normal skeletons, strays and bogged, parched also do not retaliate against attacks from breezes, despite them not spawning at the trial chambers. Breezes also don't retaliate against attacks from parched.
+
+, the eyes of parched are emissive when Vibrant Visuals is enabled.
+
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+Unable to swim in water, but do not drown.
+A threat to armadillos, causing them to hide in their shell.
+
+Because they are under the "skeletons" entity type tag, if a parched kills a creeper, the creeper drops a music disc, randomly selected from 13, cat, blocks, chirp, far, mall, mellohi, stal, strad, ward, 11, and wait. They also run away from wild and tamed wolves similar to other skeleton variants.
+
+Similar to bogged, parched take freezing damage and do not convert into strays. Unlike husks converting into zombies, parched do not turn into skeletons when submerged in water for too long.
+
+Picking up items
+
+Some parched spawn with the ability to pick up dropped items from the ground. Unlike zombies, however, they pick up only weapons, shields, and armor. , parched pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+If the picked up item is a weapon (other than a bow), the parched uses the item as a melee weapon. Parched do not pick up spears under any circumstances. , parched prefer bows over other weapons, and do not pick up other weapons while wielding a bow. , the only weapon a parched will swap its held bow for is a sword. When picking up weapons, parched prefer ones that deal more damage without considering enchantments. They also prefer weapons with NBT data over those without, and weapons that are less damaged.
+
+If the picked up item is a shield, the parched equips the shield into their offhand. It cannot use the shield to block incoming attacks, however.
+
+If the picked up item is armor, a carved pumpkin or a head, the parched equips itself with the item. Parched prefer armor that give more armor points, and will replace their current armor with it. Parched pick up cosmetic wearables (heads and carved pumpkins) as long as they aren't wearing a helmet, and will replace the cosmetic wearable if they find a helmet.
+
+If a parched has equipment and picks up something they prefer more, the parched drops the old equipment, with the same chance as if killed with Looting I, in favor of the new one.
+
+A parched equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Gallery
+Renders
+
+Development renders
+
+Screenshots
+
+Mojang images
+
+Textures
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+
+de:Vertrockneter
+es:Momificado
+fr:Desséché
+it:Ossecco
+ja:パーチド
+ko:파치트
+lzh:枯髑
+pl:Oschlak
+pt:Ressecado
+ru:Пустынник
+uk:Засушень
+zh:焦骸

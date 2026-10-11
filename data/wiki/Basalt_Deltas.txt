@@ -1,0 +1,84 @@
+TITLE: Basalt Deltas
+CATEGORY: Nether biomes
+URL: https://minecraft.wiki/w/Basalt_Deltas
+---
+The basalt deltas are a volcanic biome found in the Nether.
+
+Description
+The basalt deltas is the second rarest Nether biome, making up around 16% of the Nether by volume, and can generate next to any other Nether biome except for the crimson forest.
+
+The rough and jagged terrain of basalt deltas is composed largely of basalt and blackstone and features numerous deltas, shallow pools of lava, and magma blocks, typically reaching depths of 1 to 3 blocks. The biome's fog is a dull lilac color, and ambient ash particles float through the air. Archipelagos with islands of different sizes can be found around the lava seas nearby. On the ceiling, glowstone blobs generate as usual. Both brown and red mushrooms still grow in this biome on top of the basalt blocks.
+
+Nether fortresses and ruined portals can be found here. Nether quartz ore, Nether gold ore, and the rare ancient debris generate underground, but are more difficult to obtain due to the abundance of deltas and lava seas. Ore also spawns more frequently to compensate for the significantly reduced amount of netherrack in the biome. Bastion remnants are not present, making basalt deltas the only Nether biome to not feature them.
+
+Magma cubes have a higher spawn rate in this biome than in any other biome. Occasionally, a ghast can be spotted. Like in all Nether biomes, striders wander the lava lakes, and sometimes spawn trapped in the countless deltas.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the basalt deltas:
+
+Ambience
+Nether ambience plays while the player is in the Nether.
+
++NameSoundGroupBasalt Deltas AmbienceFile:Basalt deltas ambience.ogg LoopBasalt deltas active 1(Unused)File:Basalt deltas active1.ogg Loop AdditionsBasalt deltas active 2(Unused)File:Basalt deltas active2.oggBasalt deltas active 3(Unused)File:Basalt deltas active3.oggBasalt deltas active 4(Unused)File:Basalt deltas active4.oggBasalt Deltas Basalt Ground 1File:Basalt deltas basaltground1.oggBasalt Deltas Basalt Ground 2File:Basalt deltas basaltground2.oggBasalt Deltas Basalt Ground 3File:Basalt deltas basaltground3.oggBasalt Deltas Basalt Ground 4(Unused)File:Basalt deltas basaltground4.oggBasalt Deltas Click 1File:Basalt deltas click1.oggBasalt Deltas Click 2File:Basalt deltas click2.oggBasalt Deltas Click 3File:Basalt deltas click3.oggBasalt Deltas Click 4File:Basalt deltas click4.oggBasalt Deltas Click 5File:Basalt deltas click5.oggBasalt Deltas Click 6File:Basalt deltas click6.oggBasalt Deltas Click 7File:Basalt deltas click7.oggBasalt Deltas Click 8File:Basalt deltas click8.oggBasalt Deltas Debris 1File:Basalt deltas debris1.oggBasalt Deltas Debris 2File:Basalt deltas debris2.oggBasalt Deltas Debris 3File:Basalt deltas debris3.oggBasalt Deltas Heavy Click 1File:Basalt deltas heavy click1.oggBasalt Deltas Heavy Click 2File:Basalt deltas heavy click2.oggBasalt Deltas Long Debris 1File:Basalt deltas long debris1.oggBasalt Deltas Long Debris 2File:Basalt deltas long debris2.oggBasalt Deltas Plode 1File:Basalt deltas plode1.oggBasalt Deltas Plode 2File:Basalt deltas plode2.oggBasalt Deltas Plode 3File:Basalt deltas plode3.oggBasalt Deltas Twist 1File:Basalt deltas twist1.oggBasalt Deltas Twist 2File:Basalt deltas twist2.oggBasalt Deltas Twist 3File:Basalt deltas twist3.oggBasalt Deltas Twist 4File:Basalt deltas twist4.ogg
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+Basalt deltas have no unique mood-based ambient sounds in dark areas and instead borrow those of the Nether wastes.
+According to Felix Jones, the basalt deltas biome has a subtle Easter egg that has not yet been found by anyone.
+Much of the ambience in the basalt deltas resembles the clicking of a Geiger counter, used to measure radioactivity.
+During the ambience creation process, Brandon Pearce provided the keyword "radiation" to audio director Samuel Åberg, which may explain its purpose.
+In Bedrock Edition, the basalt delta is the only nether biome that doesn't have a red water tint.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+References
+
+External links
+Around the Block: Basalt Deltas – Minecraft.net on August 13, 2020
+
+Navigation
+
+Category:Nether biomes
+
+de:Basaltdeltas
+es:Deltas de basalto
+fr:Deltas de basalte
+it:Delta di basalto
+ja:玄武岩の三角州
+ko:현무암 삼각주
+lzh:黑堦石洲渚
+pl:Bazaltowe delty
+pt:Deltas de basalto
+ru:Базальтовые дельты
+th:สันดอนหินบะซอลต์
+uk:Базальтові дельти
+zh:玄武岩三角洲

@@ -1,0 +1,72 @@
+TITLE: Birch Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Birch_Forest
+---
+A birch forest is a lush biome filled with birch trees and wildflowers that usually generates near other woodland biomes.
+
+Generation
+Birch forest biomes are somewhat rarer than regular forest biomes. They generate at medium temperatures and moderately high humidities. Birch forests commonly border regular forests, dark forests, meadows, taigas, jungles, oceans, and mountains. Regular birch forests frequently border old growth birch forests, often separated by rivers.
+
+Lush caves may generate under a birch forest because of its relatively high humidity.
+
+Description
+Birch forests feature birch trees across the landscape that generate as densely as trees in regular forests. Unlike regular forest biomes, oak trees and wolves do not spawn here.
+
+Between the birches, scattered bushes, rose bushes, lilacs, peonies, and lilies of the valley can be found, while wildflowers commonly cover the ground in patches. Bee nests housing 2–3 bees spawn on 0.2% or 0.035% of birches.
+
+Abandoned camps sometimes generate in birch forests.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the birch forest:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Artwork
+
+See also
+
+External links
+
+Navigation
+
+de:Birkenwald
+es:Abedular
+fr:Forêt de bouleaux
+it:Foresta di betulle
+ja:シラカバの森
+ko:자작나무 숲
+lzh:樺林
+pt:Floresta de bétulas
+ru:Березняк
+uk:Березовий ліс
+zh:桦木森林

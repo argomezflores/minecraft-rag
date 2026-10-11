@@ -1,0 +1,81 @@
+TITLE: Sparse Jungle
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Sparse_Jungle
+---
+The sparse jungle or jungle edge biome is a variant of the jungle where vegetation is sparser, resembling a lush plains biome with small jungle trees.
+
+Generation
+The sparse jungle generates in areas with moderately high temperature and humidity, usually where weirdness is positive. It typically borders bamboo jungles, plains, old growth birch forests, deserts, wooded badlands, mangrove swamps, and windswept savannas. Rivers usually separate it from regular jungles, though direct borders are not rare. In coastal areas, sparse jungles may border beaches or lukewarm oceans directly.
+
+As the sparse jungle spreads further inland or the terrain rises, it sometimes transitions to forests, and terrain that rises further may lead to stony peaks.
+
+Because of the relatively high humidity, lush caves frequently generate under sparse jungles.
+
+Description
+Oak trees, jungle trees, jungle bushes, and patched melons generate here, though at significantly lower rates than the regular jungle, roughly comparable to the rate of trees in the savanna biome. Only small jungle trees generate in this biome, and bamboo does not generate here.
+
+The grass still takes on a bright green color, though slightly less vibrant than the main jungle. Jungle pyramids do not generate. Warm animal variants spawn here, and unique to this biome are rusty wolves. , ocelots, parrots and pandas may spawn in this biome, like in regular jungles.
+
+Abandoned camps sometimes generate in sparse jungles.
+
+With Vibrant Visuals, sparse jungles use a strong humid volumetric fog setting similar to regular jungles, which fades the distance in an orange tint. Sparse jungles have warmish color grading, which makes the biome look more humid and warm. The night sky appears slightly brighter, and moonlight is colored more vibrant blue.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the sparse jungle:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Lichter Dschungel
+es:Jungla#Jungla dispersa
+fr:Jungle clairsemée
+ja:ジャングル#まばらなジャングル
+ko:정글#듬성듬성한 정글
+lzh:叢莽#疏叢莽
+pt:Selva esparsa
+ru:Джунгли#Редеющие джунгли
+uk:Рідкі джунглі
+zh:稀疏丛林

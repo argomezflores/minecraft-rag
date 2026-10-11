@@ -1,0 +1,71 @@
+TITLE: Ice Spikes
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Ice_Spikes
+---
+The ice spikes or ice plains spikes biome is a variant of the snowy plains, featuring ice spikes made of packed ice and other special features.
+
+Generation
+Ice spikes generate in the lowest temperature zones and require very low humidity, bordering snowy plains much of the time. Generating in positive weirdness, they are often separated from snowy plains by frozen rivers, and they border dappled forests and cherry groves when temperature rises.
+
+In areas of low erosion, ice spikes may fill valleys while rising terrain gives way to snowy slopes. Windswept gravelly hills may border ice spikes; near the coast, they can border snowy beaches, stony shores, and frozen oceans.
+
+Description
+The ice spikes features large numbers of ice spikes and ice patches dotted across its landscape. Instead of grass blocks, snow blocks cover the ground. Vegetation is extraordinarily scarce, as it can only appear in locations where the underlying dirt was exposed during terrain generation.
+
+Because the whole biome experiences snowfall, lightning typically doesn't strike within it. Rabbits and polar bears spawn at daytime  and also nighttime , as well as most common hostile mobs plus strays, frostbites, and zombie horsemen at night or during thunderstorms, the latter only on player-created grass blocks. This is unlike snowy plains , where no mobs other than skeletons and strays can spawn.
+
+Ice spikes have the highest snow accumulation upon generation of any biome . On top of the terrain snow blocks, snow generates stacked in many layers which quickly adds up during snowfall.
+
+Ice spikes have fully unique graphical settings for Vibrant Visuals. Atmospherics are gray, both at horizon and zenith, and there are barely any color changes during sunset and sunrise. Sunlight is half as bright, and tinted pale blue during the entire day. Volumetric fog effects increase these effects, and the biome has the coldest color grading temperature of all biomes.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in an ice spikes biome:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+See also
+
+External links
+
+Navigation
+
+de:Eiszapfentundra
+es:Picos de hielo
+fr:Stalagmites de glace
+pt:Picos de gelo
+uk:Льодяні шипи
+zh:冰刺之地

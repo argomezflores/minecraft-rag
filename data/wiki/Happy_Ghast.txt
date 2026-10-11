@@ -1,0 +1,188 @@
+TITLE: Happy Ghast
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Happy_Ghast
+---
+A happy ghast is a passive counterpart of ghasts that can be harnessed and ridden by up to four players at once as a flying mount. It can also be used in conjunction with leads to airlift and transport boats and leashable mobs.
+
+Spawning
+Happy ghasts can be spawned by waterlogging a dried ghast for about 20 minutes. The block will transform into a ghastling. The ghastling cannot be harnessed or ridden until fully grown. Feeding it snowballs accelerates its growth. Unlike most other mobs that can be fed, happy ghasts cannot be bred.
+
+Drops
+Happy ghasts drop their equipped harness on death, if any, plus  experience orbs when killed by a player or tamed wolf. Killing a ghastling yields no experience.
+
+Behavior
+Home location
+Happy ghasts are bound to a home. This home is initially set as the location where it spawns, and is updated to its current location whenever any of the following events happen:
+A harness is equipped on or removed from it.
+A lead is detached from it.
+It is dismounted.
+It is no longer tempted by a player with a snowball or a harness.
+This can happen by the player switching to a different item, or leaving the radius where the happy ghast can be tempted.
+The ghastling stops following a mob (see ).
+
+Unharnessed happy ghasts roam within a 64-block radius of their home, while harnessed happy ghasts and ghastlings roam within a 32-block radius of their home.
+
+Healing
+When not at full health, happy ghasts regenerate at a rate of  every 30 seconds. However, if they are between Y-levels 187 and 196 in the Overworld (corresponding to the cloud level), or if it is raining or snowing, they regenerate at a rate of  per second. The happy ghast needs sky access (iron bars and signs above the happy ghast for example block access, though string does not block access) and cannot be touching water for the increased healing rate from rain or snow.
+
+Ghastling
+
+right|thumb|200px|A ghastling
+A baby happy ghast is called a ghastling. After spawning from a hydrated dried ghast block, ghastlings require  to grow up into adult happy ghasts. This process can be sped up  snowballs. , it takes 10 snowballs for a newly-spawned ghastling to become a happy ghast; , each snowball fed to a ghastling reduces its remaining growth time by 10%.
+
+Ghastlings occasionally follow nearby players or specific mobs within a range of 16 blocks. They move toward their target with a slight speed boost (× 1.1) and stop once they are within 5 blocks of it. They prioritize players but can also follow the mobs listed below, provided they are not babies:
+
+Ghastlings do not follow ambient mobs such as bats, aquatic-based mobs, monsters other than skeleton horses, golems, allays, mooshrooms, and wandering traders and their llamas.
+
+Ghastlings, unlike adults, do not drown when submerged underwater.
+
+They can be spawned specifically using commands or by  a happy ghast spawn egg while looking at a happy ghast or ghastling in reach, like other baby mobs. , happy ghast spawn eggs have a 5% chance to spawn a ghastling.
+
+Happy ghast
+Happy ghasts fly around aimlessly and are passive to players and other mobs. Unlike most passive mobs, they do not panic when damaged.
+
+They follow players holding snowballs. They also follow players holding a harness, if they do not have one already equipped. They can also be leashed, and the lead can stretch a maximum of 16 blocks, instead of 12 blocks like other mobs.
+
+Unlike regular ghasts, happy ghasts are not immune to fire and lava damage, and cannot shoot fireballs.
+
+Happy ghasts are unaffected by Speed.
+
+Riding
+
+right|thumb|200px|A happy ghast being ridden by Steve
+
+A happy ghast can be ridden and piloted by the player when equipped with a harness. Only adult happy ghasts can be equipped with a harness and ridden. The harness can be taken off using shears to retrieve the item.
+
+Up to four players can ride a happy ghast. The first player who mounts a happy ghast controls it, sitting in the front just above its face. Players who mount after the piloting player sit in a spot on the remaining sides, starting clockwise from the first player. When one of the players dismounts, the next players are rotated counter-clockwise, filling in the empty seat. While the happy ghast is being ridden, its goggles lower to cover its eyes.
+
+When riding, the player can fly both horizontally and vertically, allowing for more precise movement in the air. A happy ghast is controlled with the standard ; pressing  moves the happy ghast in the direction the player is looking. Pressing  moves the happy ghast straight upward. There is no dedicated control to move downward; in order to do so, the player should look down and press , or look up and press backward. To avoid vertical movement, the player can press  or , or aim their camera to a pitch of zero degrees with the assistance of the debug screen.
+
+A ridden happy ghast moves at about 3.6 m/s when going in the direction the pilot is looking.
+
+While riding a happy ghast, the player gains an increased vertical range for picking up dropped items on the ground below. This range is about the entire perimeter of the happy ghast near the bottom of its body. This allows for items close to any side of the happy ghast to be picked up by the player. The player's third-person view camera also appears farther (8 blocks) from the player than the usual 4 blocks.
+
+a happy ghast places the player on top of it. Players can stand on top of a happy ghast (both harnessed and unharnessed) in the air as if it were a solid block. While players are standing on it, the happy ghast becomes stationary and aligns to one of the cardinal directions, making it easier to mount and dismount and to build structures high above the ground. Reloading the chunks causes the happy ghast to realign and face south. Other entities (such as other mobs and items) also sit on top of the stationary happy ghast, and mobs make little to no attempt to pathfind while standing on it. When there are no longer any players standing on the happy ghast, it becomes mobile again and loses this collision. Any entities left on it are flung off, which can indirectly cause mobs to fall to their death.
+
+Because happy ghasts can behave like solid blocks, it is possible to teleport onto one using an ender pearl.
+
+Carrying leashed entities
+right|thumb|200px|A happy ghast carrying a boat on a lead
+Happy ghasts can also be used to carry and transport entities in the air using leads.
+
+The player can attach a leashed boat, boat with chest, or specific leash-able mobs too large to fit in boats (horses, donkeys, mules, skeleton horses, zombie horses, camels, camel husks, and sniffers) to a happy ghast (both harnessed and unharnessed). Although only one lead is required to suspend an entity from a happy ghast, the carried entity appears to be hanging from four leads. If the happy ghast is harnessed, it also gains a unique visual design of ropes fastened to it.
+
+Any other leashable entity not listed above can also be leashed to the happy ghast, but they do not gain the 4-lead design, instead using only one lead.
+
+While the player is sneaking and holding an entity's leash, pressing the  key on a happy ghast attaches the leashed entity underneath it. This secures the carried entity for safe transport while flying. Multiple entities can be attached this way at once, with there being no limit to how many. The leash can be removed later by using shears on either the happy ghast or the carried entity, separating them. Using shears on the happy ghast while carrying multiple entities cuts all leads simultaneously.
+
+While most mobs can safely sit in a boat or boat with chest while it is being carried, players cannot. When a player enters the boat, it becomes immovable by the happy ghast, eventually resulting in the lead snapping. However, a player can be carried while riding a pig or unsaddled horse attached to a happy ghast.
+
+Sounds
+Adult
+Despite being a solid surface, walking on happy ghasts is completely silent and does not produce footstep sounds.
+
+:
+
+:
+
+Ghastling
+:
+
+:
+
+Data values
+
+ID
+:
+
+:
+
+Entity data
+Happy Ghast have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: Prevents the Happy Ghast from moving when greater than 0. Set to 10 when a player is less than 2 blocks above and decreases by 1 per tick otherwise. Movement resumes when it reaches 0.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+The Happy Ghast Music Video is below (wiki page available)
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The first concepts of the happy ghast came from  concept art of a flying ghast mount.
+A similar concept is used in , where some s rode  in a more abusive manner.
+In an official Minecraft poster created by Mojang, players are depicted riding smiling ghasts in a manner similar to players riding happy ghasts.
+While working on the happy ghast, a Mojang designer compared all existing transportation methods in Minecraft, in order to determine when in the game progression the happy ghast can be obtained, as well as its speed.
+The texture of both adult happy ghasts and regular ghasts is more detailed than the previous ghast texture. However, it's still not consistent with the core texel size (16/m), using half density as the compromise between two tex.
+During Minecraft LIVE, Agnes Larsson advised the community to construct designated "Ghast Stations" at their high-altitude builds, to allow for safe boarding of happy ghasts.
+The term ghast station would later be used for various promotions, most notably Ghast Station Skinpack and LEGO set 21597 Ghast Station.
+According to the alt text of an image on a Minecraft.net article, the collective noun for a group of happy ghasts is "a chuckle of happy ghasts".
+In Java Edition 25w15a, if a happy ghast has a harness and is turned back into a ghastling (by editing NBT data using ), the harness remains visible and even shrinks to fit the ghastling.
+This can still be done in  by using  with a repeating command block.
+Ghastlings undergo the largest relative size transition when growing into an adult, increasing their hitbox size by over 4.2×.
+According to Marc Watson, ghastlings are not s from , but instead represent a different stage of the ghast life cycle.
+
+Gallery
+Renders
+
+All harness colors
+
+Mojang screenshots
+
+Concept artwork
+
+Screenshots
+
+Textures
+
+Official artwork
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+Category:Flying mobs
+Category:Nether mobs
+Category:Constructible mobs
+Category:Transport
+
+de:Glücklicher Ghast
+es:Ghast feliz
+fr:Ghast joyeux
+it:Ghast allegro
+ja:ハッピーガスト
+ko:행복한 가스트
+lzh:悅魄
+pl:Wesoły ghast
+pt:Ghast Feliz
+ru:Счастливый гаст
+th:แฮปปี้แก๊สต์
+uk:Щасливий ґаст
+zh:快乐恶魂

@@ -1,0 +1,130 @@
+TITLE: Ravager Jockey
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Ravager_Jockey
+---
+A ravager jockey is the appearance of a ravager ridden by an illager. They are found in various waves during raids.
+
+Spawning
+Raids
+
+Like ravagers themselves, ravager jockeys spawn only during raids in certain waves. Depending on the wave, they can have either a pillager, vindicator, or evoker rider.
+
+Java Edition
+A pillager-ravager jockey spawns in wave 5 and the extra wave in Normal difficulty.
+
+A vindicator-ravager jockey and an evoker-ravager jockey spawn in wave 7 and the extra wave in Hard difficulty. Additionally, there is a chance for a pillager-ravager jockey to spawn in the extra wave.
+
+Bedrock Edition
+A pillager-ravager jockey spawns in wave 5.
+
+A pillager-ravager jockey and an evoker-ravager jockey spawn in wave 7.
+
+Summoning using commands
+Ravager jockeys can also be manually spawned using commands.
+
+, the illusioner, an unused illager, can also be spawned using commands. By extension, illusioner-ravager jockeys can be created.
+
+Note: Ravager jockeys spawned this way cannot normally join raids. This can be configured using entity tags.
+
+Java Edition
+Pillager-Ravager Jockey:
+
+This command spawns a ravager jockey with a pillager rider.
+
+Vindicator-Ravager Jockey:
+
+This command spawns a ravager jockey with a vindicator rider.
+
+Evoker-Ravager Jockey:
+
+This command spawns a ravager jockey with an evoker rider.
+
+Illusioner-Ravager Jockey:
+
+This command spawns a ravager jockey with an illusioner rider.
+
+However, in Java Edition, almost any mob can ride a ravager with commands, see Tutorial:Summoning jockeys for more information.
+
+Bedrock Edition
+Pillager-Ravager Jockey:
+
+This command spawns a ravager jockey with a pillager rider.
+
+Raid Captain Pillager-Ravager Jockey:
+
+This command spawns a ravager jockey with a raid captain pillager rider.
+
+Raider Pillager-Ravager Jockey:
+
+This command spawns a ravager jockey with a pillager rider, but the pillager drops raid-specific loot upon death.
+
+Vindicator-Ravager Jockey:
+
+This command spawns a ravager jockey with a vindicator rider.
+
+Raid Captain Vindicator-Ravager Jockey:
+
+This command spawns a ravager jockey with a raid captain vindicator rider.
+
+Raider Vindicator-Ravager Jockey:
+
+This command spawns a ravager jockey with a vindicator rider, but the vindicator drops raid-specific loot upon death.
+
+Evoker-Ravager Jockey:
+
+This command spawns a ravager jockey with an evoker rider.
+
+Behavior
+
+Ravager jockeys combine the behavior and power of the ravager and their rider. Often times, their movement is controlled by the rider. They attack players, adult villagers, wandering traders, snow golems, and iron golems. Because of their illager rider, they also flee from creakings.
+
+Like regular ravagers, the ravager has a chance to become stunned for a few seconds when their bite is blocked with a shield. However, their rider can still attack while the ravager is stunned.
+
+Unlike most other jockeys, ravager jockeys can freely swim in water without immediately dismounting their rider. If a ravager jockey is fully submerged underwater it dismounts its rider, separating the jockey. The rider does not attempt to mount the ravager again after being dismounted.
+
+The specific behavior of a ravager jockey depends on the rider.
+
+Pillager-ravager jockey
+When attacking, the jockey moves into range and stops in place as the pillager loads and fires its crossbow. They stay a small distance away from their target, but the ravager can still bite if it gets close enough.
+
+If the pillager is spawned without a crossbow or if it breaks, it becomes passive. However, the ravager remains hostile, chasing and attacking targets.
+
+Vindicator-ravager jockey
+When attacking, the jockey rushes toward their target. The ravager and vindicator both attack normally.
+
+If the vindicator is named "Johnny" it may attack the ravager, but the ravager never attacks it back.
+
+Evoker-ravager jockey
+When attacking, the jockey rushes toward their target. The ravager bites while the evoker casts its spells, and the jockey slightly slows down as the evoker prepares to cast one.
+
+The evoker may sometimes accidentally damage the ravager with its evoker fangs, but the ravager never attacks it back.
+
+Summoned vexes damaged by the ravager’s roar do not attack it back.
+
+Illusioner-ravager jockey
+
+When attacking, the jockey rushes toward their target until they get into range. It then starts strafing left-to-right, keeping distance as the illusioner shoots arrows and casts its spells. The ravager can still bite if their target gets close enough.
+
+When the illusioner creates its clones, they appear floating in the air and also sitting.
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Hostile mobs
+Category:Illagers
+Category:Jockeys
+Category:Monster mobs
+
+it:Cavalcatore di devastatore
+ja:ラヴェジャージョッキー
+pt:Jóquei de Devastador

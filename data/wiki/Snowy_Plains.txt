@@ -1,0 +1,84 @@
+TITLE: Snowy Plains
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Snowy_Plains
+---
+The snowy plains or ice plains are snow-covered grassland biomes in the Overworld that usually generate near other snowy biomes.
+
+Generation
+Snowy plains generate where temperatures are very low and humidity is low to moderate. Frozen rivers frequently meander through snowy plains, and they commonly border frozen oceans, either directly or separated by snowy beaches or stony shores.
+
+Snowy taigas and ice spikes often border snowy plains, sometimes separated by frozen rivers. Where erosion is low, snowy plains are replaced by large areas of snowy slopes or groves, which can climb further to jagged peaks or frozen peaks. A thin snowy plains biome may generate in the lowest part of such mountain valleys.
+
+Windswept gravelly hills and windswept hills can generate nearby when the erosion is high. Plains and forest biomes generate where the temperature rises.
+
+Ice caves, sulfur caves, and dripstone caves are somewhat common beneath snowy plains.
+
+Description
+Snowy plains are plains covered with snow layers, which are often stacked  due to a higher snow accumulation. Aquifers and springs freeze over soon after generation due to the temperature if not exposed to light; thus, sugar cane that generates alongside water sources often uproot itself shortly after. Lava lakes and lava springs that generate within the snowy plains biomes melt the snow layers around them.
+
+Polar bears and rabbits are the only passive mobs spawning here. At nighttime or during thunderstorms, in Bedrock Edition, no other hostile mobs than frostbites, skeletons, and their cold stray variants can spawn here. Rarely, zombie horsemen can also spawn, as well as other hostile mobs .
+
+Igloos are typical structures in snowy plains. Villages generate commonly, with structures made of spruce wood, and pillager outposts can also be found.
+
+With Vibrant Visuals, snowy plains use default atmospherics with a strong cold color grading, making the biome appear icy blue. They have cold sunlight, which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in snowy plains:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+de:Verschneite Ebene
+es:Llanura nevada
+fr:Plaines enneigées
+ja:雪原
+ko:눈 덮인 평원
+lzh:雪原
+pl:Śnieżne równiny
+pt:Planície nevada
+ru:Заснеженные равнины
+uk:Засніжені рівнини
+zh:雪原

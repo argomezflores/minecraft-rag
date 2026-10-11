@@ -1,0 +1,161 @@
+TITLE: Camel
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Camel
+---
+A camel is a large passive mob found in deserts and desert villages. They can be saddled and ridden by up to two players at once. When standing, it is tall enough that its riders cannot be reached by most melee-attacking mobs on the ground.
+
+Spawning
+Camels spawn uncommonly in deserts in any light level or a light level of 7 and below.
+
+Desert villages
+One camel spawns in the center of each desert village during world generation that is not abandoned. This camel is persistent and does not despawn.
+
+Drops
+On death
+experience orbs drop when camels are killed by a player or tamed wolf. A saddle is dropped if the camel was already equipped with one. Killing a baby camel yields neither items nor experience.
+
+Breeding
+Upon successful breeding,  is dropped.
+
+Behavior
+A camel wanders aimlessly, avoiding hazards and obstacles, and occasionally sits for two to seven seconds before standing up again. , camels get up immediately once the player rides them with a saddle while sitting; , they get up once the player moves . Camels immediately flee after being harmed, even when sitting. A sitting camel cannot be pushed by players or mobs. Sitting camels do not stand up if there are solid blocks above them, as doing so would inflict suffocation damage.
+
+thumb|A camel sitting in a desert village.
+
+Every few seconds, regardless of its movement state, a camel slowly raises its head a small amount, wiggles its ears twice, then slowly lowers its head back down. While doing this, it also wags its tail slightly. This has no effect on gameplay and is purely visual.
+
+Camels can safely fall 6 blocks before they begin to accumulate fall damage, unlike most mobs, which can safely fall 3 blocks. Camels also take half of the normal fall damage (rounded up) that most other mobs take ( damage per block over the safe distance instead of ). If an entity is riding a camel, they receive the same fall damage as the camel.
+
+Camels are healed by  health points each time they are fed a cactus. Camels also heal slowly on their own over time.
+
+Even though camels are bred with cacti, touching a cactus block still harms them like any other mob. As with other mobs, camels do not avoid cacti when they pathfind.
+
+Camels have the unique ability to step up 1.5 blocks, allowing them to surmount fences and walls with ease. This is in contrast to horses, donkeys and mules, which can't automatically step up more than one block without jumping.
+
+Camels have a  chance to regenerate  health point each game tick.
+
+Riding
+
+Camels are naturally tame, and can always be ridden by players. Up to two players can ride one camel. While riding, the player in the back seat cannot hurt the player driving or the camel itself.
+
+Camels have one slot in their inventory for equipping a saddle. A saddle can be placed on a camel by holding it and then  it on the camel, or by accessing its inventory. A camel's inventory can be accessed by mounting the camel and using  control, or by  and then  or pressing the "open inventory" button on the camel.
+
+Once a camel is saddled, the player can control it with standard directional controls, , and the mouse. A second player can then ride as a passenger. The player dismounts using the  control. If the controlling passenger dismounts, the second passenger then takes control of the camel.
+
+thumb|Several husks trying to attack Efe riding a camel.
+
+Camels are less maneuverable than other mounts, with their turning and strafing speed being slower. They gradually gain speed while moving in a straight line, up to a walking speed of 3.885 blocks/s, and can also manually sprint at a speed of 8.203 blocks/s by double tapping  or by holding the  control while moving forward.
+
+Saddled camels also have the ability of "dashing". When the player rides them, the experience bar on HUD is replaced by a dash charging bar, similar to the jump charging bar for horses. Dashing is done using the jump control, and holding the control charges for a longer dashing. Camels can dash every 2.75 seconds. When dashing, the camel launches up to 12 blocks forward and one block upward. For a short time after dashing, the camel cannot sprint.
+
+Camels are tall enough that most melee hostile mobs such as zombies, vindicators, hoglins, silverfish, endermites and golden sword-wielding piglins cannot reach mounted players to attack them. Spiders, wolves, slimes and magma cubes can still attack successfully because they jump or climb while attacking. Most mobs never deliberately attack camels under any circumstance, even to reach players riding one; the only exceptions being mobs that attack most or all other mobs, these being zoglins, wardens, withers, and vindicators named "Johnny".
+
+Baby camels cannot be equipped or ridden.
+
+Breeding
+
+Camels follow players holding cactus but stop following when separated from the player by 10 blocks / 16 blocks or more. Sitting camels immediately start to stand up and follow once they notice the player holding cactus. Additionally, baby camels follow adults.
+
+A player can breed camels by using cactus. After breeding, a baby camel spawns and 1–7 experience is generated. The parents cannot be bred again for 5 minutes.
+
+Baby camels take 24000 ticks (20 minutes) to grow up, but the growth time can be accelerated  cactus. Each use takes 10 seconds off the remaining time to grow up.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Camels have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: The tick when the camel started changing its pose.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+
+Announcement
+{{HistoryTable
+|{{HistoryLine||October 15, 2022|link=|32px 20px Camels are announced at Minecraft Live 2022. Minecraft'''s camels are more specifically based on the dromedary, a species of camel that has one hump on its back.}}
+}}
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+The camel's design pitch was made by developer Ulraf. https://youtu.be/2cxUNoWNy50?t=3142
+Minecraft'' camels are specifically based on the one-humped , though the first model was based on the two-humped .
+According to Agnes Larsson, the camel has an easter egg related to its ears.Making Minecraft Mobs: Meet the Camel!
+
+Gallery
+Renders and animations
+
+Development images
+
+Recreations
+
+Mojang screenshots
+
+Concept artwork
+
+Screenshots
+
+Official artwork
+
+Textures
+
+In other media
+
+Trails & Tales Event
+
+References
+
+External links
+Camel article on Wikipedia
+Mob Menagerie: Camel – Minecraft.net on June 22, 2023
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+Category:Transport
+Category:Tameable mobs
+
+de:Dromedar
+es:Camello
+fr:Dromadaire
+he:גמל
+it:Dromedario
+ja:ラクダ
+ko:낙타
+lzh:橐駝
+pl:Wielbłąd
+pt:Camelo
+ru:Верблюд
+uk:Верблюд
+zh:骆驼

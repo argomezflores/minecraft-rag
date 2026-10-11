@@ -1,0 +1,149 @@
+TITLE: Phantom
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Phantom
+---
+Phantoms are flying undead hostile mobs that spawn in the night sky when the player has not slept in a bed or straw bed or died for at least 3 in-game days. They attack by diving at the player from the sky to bite them.
+
+Spawning
+thumb|Two phantoms at night.
+Phantoms spawn unless the game rule spawn_phantoms or doInsomnia is set to false. The spawning mechanics differ between Java and Bedrock editions. In both editions, they spawn in the Overworld above a player whose "Time Since Last Rest" statistic is at least 1 hour (72000 ticks or 3 in-game days). This statistic is reset when the player dies or enters a bed or straw bed. This does not require skipping the night.  Furthermore, the player must not have a block overhead that blocks light in any way; for example, leaves prevent phantoms from spawning as they have a light opacity of 2, but glass does not, as its light opacity is 0. Phantoms do not spawn above players in Spectator mode, but they do spawn above players in Creative mode.
+
+Bedrock Edition
+Phantom spawning is similar to other monsters spawning: the spawn location must have a light level of 7 or less, and spawns are limited by the monster population cap. Phantoms are also subject to a density cap of 5. Phantom spawn attempts are made on surface blocks throughout the same spawn radius as other monsters. However, when a phantom spawn attempt succeeds, the phantom appears somewhere in a 21×15×21 cube centered 28 blocks above the player instead of at the block where the spawn attempt occurred.
+
+This means phantoms can also spawn during daytime as long as there are suitable blocks around players who are directly below the sky. The number of phantoms spawned is 1-2 in Easy difficulty, 1-3 in Normal, and 1-4 in Hard. Blocks that can spawn phantoms needs to count as surface, that is, they have to be the highest spawnable block having no solid blocks directly above them. A solid floor under a roof of leaves, with at least 8 air blocks in between, meets this criteria.
+
+Java Edition
+thumb|The phantom's spawn range in Java Edition. The glass at the bottom indicates the player's position, the red stained glass indicates phantom spawning locations, and the blue stained glass indicates the bounding box of the spawn range.
+Phantoms attempt to spawn every . They spawn only if it is night or a thunderstorm is happening, the player is above sea level (Y>62) with sky visible directly above (cobwebs do not block this), and the local difficulty is greater than a randomly chosen value between 0.0 and 3.0. The formula  represents the chance of a successful spawn, where x is the number of ticks since the player last entered a bed or straw bed or died. This roughly comes to a  (25.0%) chance on day 4, a  (40.0%) chance on day 5, a  () (50.0%) chance on day 6,  (about 57.1%) chance on day 7, and so on.
+
+If all conditions are met, a group of phantoms attempts to spawn 20–34 blocks above the player, and off to the side by a Chebyshev distance of up to 10 blocks. The number of phantoms spawned is 1-2 in Easy difficulty, 1-3 in Normal, and 1-4 in Hard. Phantoms can spawn inside buildings, if the player is outside and the building is both near enough and the building has a large enough cavity for them to spawn inside.
+
+Phantoms count toward the hostile mob cap, but they do not adhere to it when spawning. Their spawning mechanic is based on the location of players in the world rather than by chance, unlike regular mob spawning. Phantom spawning is completely independent of biome, meaning they can spawn in biomes that normally prevent hostile mob spawning such as mushroom fields, deep dark and the void. The number of phantoms that spawn indirectly increase in number every consecutive night a player has not entered a bed or straw bed, as there is a higher chance that phantoms spawn every time there is a spawn attempt. They then stop spawning when the player lies down in bed or straw bed.
+
+Drops
+On death
+
+when killed by the player or a tamed wolf.
+
+Behavior
+thumb|right|A phantom swooping at the player. In addition, a spider is stalking the player and a sheep, a plains village, and some pigs can be seen in the background.
+When idle, phantoms fly around in a roughly circular pattern within 15 to 25 blocks of a player horizontally and within 24 to 35 blocks of a player vertically. They leave a trail of gray smoke while they fly. Their movement speed when attacking is one of the fastest of any mob, up to 20 blocks per second. They have a large search radius, targeting and following players from 64 blocks away. Once every 10-20 seconds or every 8-12 seconds, they swoop in to attack.
+
+If stopped or hurt during this action, the phantom retreats back to its original elevation. When a path to its original elevation is obstructed by a block, the phantom continues attempting to return - they will rarely attack or swoop down until they reach it. They will not pathfind to the elevation, simply flying up into a block, so they are relatively safe in this state. In the case of spawning under a high glass ceiling, phantoms spawn, immediately attack, and then fly up to the glass.
+
+Phantoms attack exposed players in beds or straw beds, but do not attack players in Creative mode.
+
+Phantoms switch targets if a player has spawned them but another player qualifies to be attacked, however they are neutralized if the spawning or targeted player resets their timer.
+
+Phantoms can move through water at their normal speed and do not drown. They can be captured in a boat or minecart.
+
+A phantom's body disappears when under the Invisibility effect, but its eyes and smoke particles are still visible.
+
+Cats hiss at phantoms that are currently attacking players, and phantoms try to stay at least 16 blocks away from them, ignoring blocks obstructing line of sight. , phantoms also avoid ocelots in the same manner.
+
+Being an undead mob, they are:
+damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+unaffected by the status effects Regeneration and Poison.
+ignored by the wither.
+affected by the Smite enchantment.
+unable to swim in water, but do not drown.
+a threat to armadillos, causing them to hide in their shell.
+
+Like zombies and skeletons, phantoms burn in sunlight.
+
+The eyes of phantoms are emissive with Vibrant Visuals.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Phantoms have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+: The size of the phantom. Ranges from  to , similar to slimes. Unlike slimes, phantoms always have a constant  HP, and deal + damage. Naturally spawned phantoms are always size 0.
+: The phantom, when not actively attacking, attempts to circle around X,Y,Z. Appears to reset to a point above the target player every time the phantom flies up after a swoop. Set to spawn location if not specified.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Trivia
+thumb|200px|The red phantom design was scrapped because it looked like a Nether mob.
+At one point before the release of 18w10a, the phantom texture was made red, but it was decided that it appeared too much like a Nether mob.
+The unused red design was used later  as a pet phantom.
+The phantom was originally going to have a mouth, like the drawing shown during MINECON Earth, but it was eventually scrapped because "it looked so much like a muppet". Earlier designs can be seen on Minecraft's Instagram account.
+The sounds of the phantom were taken from Samuel Åberg's son screaming.
+Despite being flying mobs, phantoms can destroy turtle eggs when on top of them.
+In its Mob Menagerie, phantoms's real-world parallel was stated to be bats, as well as mentions of the extinct pterosaur, .
+
+Gallery
+Renders
+
+Screenshots
+
+Mojang images
+
+Development images
+
+Concept artwork
+
+Textures
+
+In other media
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+Category:Flying mobs
+
+de:Phantom
+es:Fantasma
+fr:Phantom
+hu:Fantom
+it:Fantasma
+ja:ファントム
+ko:팬텀
+pl:Fantom
+pt:Espectro
+ru:Фантом
+th:แฟนท่อม
+uk:Фантом
+zh:幻翼

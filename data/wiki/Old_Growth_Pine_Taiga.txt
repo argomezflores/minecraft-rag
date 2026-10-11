@@ -1,0 +1,77 @@
+TITLE: Old Growth Pine Taiga
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Old_Growth_Pine_Taiga
+---
+The old growth pine taiga or mega taiga is a forested biome filled with large 2×2 spruce trees, with the tall trees being mostly arrow-shaped: a thick trunk with few leaves at the top. The ground is made of podzol and coarse dirt and covered by mossy cobblestone rocks.
+
+Generation
+Old growth pine taigas generate at moderately low temperatures where humidity is very high, typically in areas of positive weirdness. They commonly border regular taigas and dark forests. They can also border old growth spruce taigas, a variant with mega spruce trees featuring leaves around the trunk, either directly or separated by a river.
+
+The terrain around old growth pine taigas varies. They may border swamps, windswept forests, pale gardens, or rising groves that give way to mountains.
+
+Because of the high humidities, lush caves are very common beneath old growth pine taigas.
+
+Description
+As the name implies, an old growth pine taiga includes trees that have attained a great age, and therefore great height. These pines grow all over the landscape, while most of them are tall with 2×2 trunks, regular pine and spruce trees can also generate.
+
+Much of the grass blocks are replaced by large swaths of podzol and coarse dirt. Additionally, rocks made of mossy cobblestone frequently generate on the ground and dead bushes generate alongside the sweet berry bushes, ferns, and large ferns. Mushrooms are more common here than in most Overworld biomes.
+
+Trail ruins may generate here, but villages and pillager outposts cannot. Black wolves, foxes, and rabbits may spawn here. The climate is cold and allows snowfall above layer Y=200±8, but this only occurs on top of some trees on mountain slopes. Uniquely to this biome, zombie villagers have the highest spawn rate amongst all biomes.
+
+Abandoned camps sometimes generate in old growth pine taigas.
+
+With Vibrant Visuals, old growth pine taigas use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint. Old growth pine taigas have coolish color grading which tints the environment with a colder blue color, and cold sunlight which appears slightly brighter at dusk and dawn.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in the old growth pine taiga:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Development images
+
+See also
+
+External links
+
+Navigation
+
+de:Kiefern-Urtaiga
+es:Taiga ancestral
+fr:Taïga ancienne de pins
+ja:タイガの原生林
+ko:원시 타이가
+lzh:原生棘林
+pt:Taiga de pinheiros antigos
+ru:Многолетняя тайга
+uk:Одвічна соснова тайга
+zh:原始松木针叶林

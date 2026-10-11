@@ -1,0 +1,84 @@
+TITLE: Desert Pyramid
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Desert_Pyramid
+---
+A desert pyramid or desert temple is an uncommon above ground structure found in desert biomes built mostly of sandstone and terracotta. The desert pyramid contains four loot chests hidden under the floor in the center, which are protected by a TNT trap, and a secret buried room to the side where archaeology can be performed by brushing the generated suspicious sand with a brush.
+
+Generation
+Desert pyramids generate in desert biomes. Desert pyramids have a lower generation frequency  than .
+
+Desert pyramids can be located with desert pyramid explorer maps, which are found in secret chests in abandoned camps.
+
+Structure
+
+Desert pyramids are constructed with normal, smooth, chiseled, and cut sandstone, as well as orange and blue terracotta, sandstone slabs, and sandstone stairs.
+thumb|left|The inside view of a desert pyramid’s central room
+The pattern of orange terracotta on the towers of desert pyramids resembles an , the ancient Egyptian symbol for life and the  key. There is one main entrance in the front, two more entrances in the back on both the left and right sides near the top of the pyramid, and a one-block wide window at the top. Even if the rest of the pyramid generates mostly buried by sand, the top of the pyramid is almost always above ground. A mostly buried pyramid can still be accessed by the window in the top if necessary, though fall damage is likely. In the center of the pyramid's 21×21 ground floor is a checkerboard pattern of terracotta and sandstone in a wind rose symbol, with a block of blue terracotta in the center.
+thumb|A preview of the four hidden chests with the TNT trap under the desert pyramid
+Underneath this terracotta is a secret fosse containing four chests, which are rigged by a stone pressure plate directly under the blue terracotta block. The pressure plate is connected to a 3×3 grid of TNT, which means that if a player or mob unintentionally steps on the plate, it sets off the nine TNT blocks, which destroy the chests and their loot and can kill the player. As there is no light in the chest room, mobs sometimes spawn inside it and trigger the TNT trap, destroying the chests and loot before any player can reach it.
+thumb|View of an excavated cellar room, showing position of the collapsed stairs
+Desert pyramids also generate with a lower room situated in the back (either on the left or right), and buried in sand. Six to eight of these sand blocks generate as suspicious sand. This room is 5×5 blocks, has another instance of the sandstone wind rose pattern on the ground, and is connected to the main floor with collapsed stairs.
+
+When a desert pyramid generates above a ravine, the foundation extends downward until it reaches the bottom.
+
+Generated loot
+
+The loot chances above are per chest. As each chest has a 2.4% chance to contain an enchanted golden apple for example, with four chests, each pyramid has about a 9% chance overall of having at least one.
+
+Archaeological loot
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Mojang images
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+Category:Temples
+
+cs:Pouštní chrám
+de:Wüstentempel
+es:Pirámide del desierto
+fr:Pyramide du désert
+hu:Sivatagi templom
+it:Piramide del deserto
+ja:砂漠の寺院
+ko:사막 피라미드
+nl:Woestijnpiramide
+pl:Piramida
+pt:Templo do Deserto
+ru:Храм в пустыне
+th:พีระมิดทะเลทราย
+uk:Пустельна піраміда
+zh:沙漠神殿

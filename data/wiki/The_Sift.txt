@@ -1,0 +1,110 @@
+TITLE: The Sift
+CATEGORY: Dimensions
+URL: https://minecraft.wiki/w/The_Sift
+---
+thumb|The Sift featuring a blub and new blocks as shown in Minecraft LIVE – September 2026|434x434px
+The Sift is an upcoming dimension first seen in  that is expected to release in 2027. Associated features include a new mob called the blub, alongside several new blocks for which no names have been officially confirmed for release.
+
+Content
+
+Blocks
+Several salmon-colored blocks are referred to as orange in color in the Audio Description.
+
+32px Sift stone
+A dark grayish stone-like block and seemingly has a turquoise tint.
+
+32px Sift dirt
+A dark pink dirt-like block that generates naturally below grass blocks.
+
+32px Darker grass block
+This version has a dark salmon color but is referred to as orange in the Audio Description.
+
+32px Lighter grass block
+This version has a lighter salmon color but is referred to as orange in the Audio Description.
+
+32px Green grass block
+A damp green grass-like block visible in the distance in the reveal footage.
+
+32px Darker short grass
+This version has a dark salmon color but is referred to as orange in the Audio Description.
+
+32px Lighter short grass
+This version has a lighter salmon color but is referred to as orange in the Audio Description.
+
+32px Green short grass
+Short green foliage visible in the distance in the reveal footage.
+
+32px Darker Tall grass
+It is not clear if multiple shades of this exist from the reveal footage.
+The closest of these to the camera have their bottom halves mostly obscured by shorter variants; however, it seems as though they are indeed two blocks high, rather than one block high growing on an obscured grass block.
+
+32px Green tall grass
+Tall green foliage visible in the distance of the reveal footage.
+
+32px White tree log
+A gray tree trunk block, comparable in color to the pale oak log.
+
+32px White tree leaves
+Comprises the upper canopies of a generated tree feature in an unnamed, distant forested biome depicted in the reveal.
+
+32px Weeping white foliage
+This stalactite-like block, much like pale hanging moss from pale oak trees or weeping vines from huge crimson fungi, appears to hang down from the white tree features, attached to the underside of white tree leaves blocks.
+
+Mobs
+32px Blub
+A small, passive "rabbitlike" mob that is native to the Sift and can squeak.
+
+Environment
+Biomes
+Pink meadow
+A biome that is floored with salmon/pink dirt-like blocks and grasses.
+The blub is seen in this biome.
+
+Green Sift plains
+A biome that is floored with green dirt-like blocks and grasses visible in the distance to the right of the White forest in the reveal footage.
+
+White forest
+A biome wooded with white trees.
+Seems to generate trees densely packed together similarly to dark forests.
+
+Features
+32px White tree
+Generated feature composed of dark gray log-like blocks similar to pale oak logs and white leaf-like blocks.
+Appears to generate with a thick trunk that thins further up the tree, with the thicker part of the trunk appearing much thicker than the trunks of previously existing tree types.
+
+Videos
+This footage was shown during Minecraft LIVE – September 2026, featuring the new Sift dimension and the blub:
+
+thumbtime=00:13|425px|alt=Minimal view of dimension landscape
+
+History
+Announcement
+
+Trivia
+Despite Larsson stating that the Sift is the first new dimension to be implemented into the base game in 14 years, its 2027-scheduled implementation actually increases that count to at least 15, as the End was implemented first in November 2011.
+As of currently, the End was first accessible in a development version  ago (Java Edition Beta 1.9 Prerelease 4, released 2011-10-13), and in a full release  ago (Java Edition 1.0.0, released 2011-11-18).
+
+Gallery
+Screenshots
+
+Mojang images
+
+In other media
+
+References
+
+Navigation
+
+S
+
+es:El Sift
+fr:Le Sift
+he:הסיפט
+it:Il Sift
+ja:The Sift
+ko:The Sift
+lzh:The Sift
+pt:The Sift
+ru:Сифт
+th:เดอะซิฟต์
+zh:The Sift

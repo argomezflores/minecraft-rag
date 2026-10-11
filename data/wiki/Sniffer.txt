@@ -1,0 +1,140 @@
+TITLE: Sniffer
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Sniffer
+---
+A sniffer is an ancient https://www.youtube.com/watch?v=MPJ2dzVcOgg&t=18 passive mob that spawns only by hatching from sniffer eggs. It looks for and digs up torchflower and pitcher plant seeds in dirt, grass, and moss blocks.
+
+Spawning
+Sniffers spawn by hatching from sniffer eggs, which can be found in suspicious sand from warm ocean ruins. Sniffers cannot spawn naturally. Breeding sniffers with torchflower seeds can also result in a sniffer egg being laid as an item.
+
+Drops
+On death
+When killed, adult sniffers drop  experience points if it was killed by a player or a tamed wolf. Snifflets, just like other baby animals, do not drop any experience points.
+
+Breeding
+Upon successful breeding,  is dropped.
+
+Behavior
+thumb|A digging sniffer.
+Sniffers wander aimlessly, avoiding hazards and obstacles. They occasionally smell their surroundings and track ancient seeds by pressing their snout to the ground. When they find a seed, they sploot and use their snouts to dig into the ground until they get torchflower seeds or a pitcher pod, with an equal chance of digging up either one.
+
+A sniffer can only dig if it is on the ground. A sniffer cannot dig when it is leashed, in water, tempted with a torchflower seed, panicking, or in a boat or minecart. The block underneath its head must be diggable and reachable by the sniffer. The head location is defined as 2.25 blocks in front of the center of the body. The sniffer also stores its prior 20 digging locations to prevent subsequent digging at those locations. After sniffing out seeds, an eight-minute cooldown is activated before it can search again.
+
+The following blocks are diggable by the sniffer:
+
+, data packs can change this list by modifying the minecraft:sniffer_diggable_block block tag.
+
+Sniffers cannot dig on mycelium.
+
+Breeding
+A player can breed sniffers by using torchflower seeds on two sniffers. , only sniffers at full health can breed. When two adult sniffers breed, they drop a sniffer egg as an item on the ground, and then enter a 5-minute cooldown before they can breed again. Once placed by a player, a sniffer egg hatches after 10 minutes if placed on a moss block or 20 minutes otherwise.
+
+Healing
+
+, sniffers are healed by  health points each time they are fed a torchflower seed.
+
+Snifflets
+A baby sniffer is called a snifflet. Snifflets require 48000 game ticks to grow up into adult sniffers, which is equal to 40 minutes or two in-game days, twice as long as most other baby mobs in the game. The remaining growth time is reduced by 10% each time a snifflet is fed torchflower seeds.
+
+Snifflets cannot dig.
+
+Unlike most baby mobs, snifflets do not follow the adults.
+
+There is an initial lag period between snifflets growing into adults and splooting for seeds.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+Java Edition
+
+Bedrock Edition
+
+Entity data
+Sniffers have entity data associated with them that contain various properties.
+
+Java Edition
+
+Entity data
+
+Bedrock Edition
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+According to Minecraft: Mobspotter's Encyclopedia, Sniffers have feathers and fur.Minecraft: Mobspotter's Encyclopedia, pg. 41
+The sniffer was originally a doodle Nekofresa made in their kitchen. The sniffer was also Nekofresa's first mob ever designed for Minecraft.
+The sniffer's walking animation was inspired by the leg movements of centipedes.
+During the prototype phase for the sniffer's digging up of items, the developers used beds as a placeholder.
+Due to the size of the sniffer, developers found it challenging to perfect its pathfinding, especially on 1 block edges.
+A new team made up of new developers were tasked with developing the sniffer, and most of them had never made a mob before.
+The sniffer's digging animation was inspired by the way s spread their legs while lying down. The action is called a "sploot".
+To this day, the developers still don't know what the sniffer's front yellow part is. Whether it's a beak, a nose, or eyes, or whether it's used for breathing or finding seeds is unknown.
+Original ideas for what a baby sniffer would be called were Sniffling, Snort, and Snifflet.
+Mojang developer Cory Scheviak personally calls sniffers "".
+
+Gallery
+Renders
+
+Development images
+
+Concept artwork
+
+Screenshots
+
+Textures
+
+In other media
+Official media
+
+Promotional images
+
+Event servers
+
+Cosmetics
+
+Merchandise
+
+References
+
+External links
+Mob Menagerie: Sniffer – Minecraft.net on July 21, 2023
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+
+de:Schnüffler
+es:Sniffer
+fr:Renifleur
+it:Fiutatore
+ja:スニッファー
+ko:스니퍼
+lzh:嗅獸
+pl:Niuchacz
+pt:Farejador
+ru:Нюхач
+uk:Нюхач
+zh:嗅探兽

@@ -1,0 +1,84 @@
+TITLE: Crimson Forest
+CATEGORY: Nether biomes
+URL: https://minecraft.wiki/w/Crimson_Forest
+---
+The crimson forest is a forested biome in the Nether. It is one of two Nether biomes where players are able to acquire wood without returning to the Overworld. This forest is the only place where huge crimson fungus trees grow naturally.
+
+Description
+The crimson forest is the second most common Nether biome, making up 22% of the Nether by volume, and can generate next to any other Nether biome except for the basalt deltas.
+
+Crimson forests are dense and have a crimson color scheme. The forest's fog is dark red and blazing particles are seen floating. Piglins are often seen in this biome in groups of 3-4. Zombified piglins also spawn, but in fewer numbers, and striders appear in lava lakes that generated within the biome. This is the only biome where hoglins naturally spawn outside of bastion remnants.
+
+The forest floor is mostly covered with crimson nylium, with some netherrack and Nether wart blocks generating on the surface as well. The most frequent vegetation of the biome includes crimson fungi, crimson roots and huge crimson fungi, along with weeping vines that hang from the large fungi and Nether wart blocks from the ceiling, and lone shroomlights that provide light within the huge fungi. Warped fungi, though less common, also occasionally generate, naturally keeping hoglins away from affected areas. Just like in the rest of the Nether biomes, fire and lava are very common, with the latter appearing as lava springs or whole lava lakes. Glowstone blobs also spawn on the ceiling like normal.
+
+Nether fortresses can generate in this biome, along with bastion remnants and ruined portals.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in a crimson forest:
+
+Ambience
+Nether ambience plays while the player is in the Nether.
+
++NameSoundGroupVolumePitchCrimson Forest AmbienceFile:Crimson forest ambience.ogg Loop1.0 1.0Crimson Forest Addition 1File:Crimson forest addition 1.ogg Loop Additions 1.0 1.01.0-1.1Crimson Forest Addition 2File:Crimson forest addition 2.oggCrimson Forest Addition 3File:Crimson forest addition 3.oggCrimson Forest Particles 1File:Crimson forest particles 1.oggCrimson Forest Particles 2File:Crimson forest particles 2.oggCrimson Forest Particles 3File:Crimson forest particles 3.oggCrimson Forest Shine 1File:Crimson_forest_shine1.oggCrimson Forest Shine 2File:Crimson_forest_shine2.oggCrimson Forest Shine 3File:Crimson_forest_shine3.oggCrimson Forest Shroom 1File:Crimson_forest_shroom1.oggCrimson Forest Shroom 2File:Crimson_forest_shroom2.oggCrimson Forest Shroom 3File:Crimson_forest_shroom3.oggCrimson Forest Twang 1File:Crimson_forest_twang1.oggCrimson Forest Voom 1File:Crimson_forest_voom1.oggCrimson Forest Voom 2File:Crimson_forest_voom2.oggCrimson Forest Mood 1File:Crimson forest mood 1.ogg Mood 1.0 1.00.8-1.0Crimson Forest Mood 2File:Crimson forest mood 2.oggCrimson Forest Mood 3File:Crimson forest mood 3.oggCrimson Forest Mood 4File:Crimson forest mood 4.ogg
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+When the crimson forest was announced at MINECON Live 2019, which happened before the first Nether Update snapshot was released, it was known as "Nether wart forest". In the announcement, however, it was called "Nether wart forest red".
+Most of the ambience in the crimson forest was made with balloons, which Samuel Åberg says creates a disturbing feeling of something stretching and forcing itself to bend.
+The crimson forest's music track, Chrysopoeia, is named after  that refers to the transmutation of base metals into gold.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+In other media
+
+References
+
+External links
+
+See also
+
+Navigation
+
+Category:Nether biomes
+
+de:Karmesinwald
+es:Bosque carmesí
+fr:Forêt carmin
+it:Foresta cremisi
+ja:真紅の森
+ko:진홍빛 숲
+lzh:緋蕈林
+pl:Szkarłatny las
+pt:Floresta carmesim
+ru:Багровый лес
+uk:Багряний ліс
+zh:绯红森林

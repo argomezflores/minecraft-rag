@@ -1,0 +1,51 @@
+TITLE: Elder Guardian Ghost
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Elder_Guardian_Ghost
+---
+An elder guardian ghost is an invisible hostile mob used to render the particle of an elder guardian in the player's interface .
+
+Spawning
+Elder guardian ghosts can be spawned using commands, such as .
+
+Behavior
+thumb|right|An elder guardian ghost burning
+Elder guardian ghosts are invisible and have defensive spikes that deal .
+
+When the elder guardian ghost spawns outside of water, it floats upward until it despawns, similar to a mob tied to a balloon, or under a high level of the Levitation effect, but it is able to pass through blocks.
+
+The elder guardian ghost itself is not immune to suffocation damage. It behaves similarly to custom mobs added in behavior packs with broken AI; the mobs float upward and pass through blocks when hit.
+
+If an elder guardian ghost is spawned underwater, it slowly sinks downward, passing through all blocks (including bedrock), until it eventually falls into the void and dies. When underwater, the elder guardian ghost can rotate its body, look at players, and swim while slowly sinking downward.
+
+The elder guardian ghost can be affected by the Instant Health effect and increase its health, and its maximum health can reach .
+
+Elder guardian ghosts inflict Mining Fatigue III when spawned in Survival or Adventure.
+
+Sounds
+
+Data values
+ID
+
+Entity data
+See Bedrock Edition level format/Entity format.
+
+History
+
+Issues
+
+Gallery
+
+References
+
+Navigation
+
+Category:Unused mobs
+Category:Hostile mobs
+Category:Monster mobs
+
+ja:Elder Guardian Ghost
+ko:유령 엘더 가디언
+lzh:古海衛靈
+pt:Fantasma do Guardião-Mestre
+ru:Призрачный древний страж
+zh:远古守卫者幽灵

@@ -1,0 +1,77 @@
+TITLE: Buried Treasure
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Buried_Treasure
+---
+A buried treasure is a naturally generated structure that consists of a buried loot chest found in beaches and located with explorer maps. Buried treasures are the only source of the heart of the sea, which can be used to craft a conduit.
+
+Generation
+Buried treasures generate in beach, snowy beach, and stony shore biomes, and can also generate underwater. They are dramatically more common in  than in .
+
+The treasure chest is almost always buried by some material. Most of the time the chest generates buried in a beach, so it has a sand or gravel block covering it. Sometimes, if generated on the side of an underwater hill, it spawns with stone blocks covering it. If it generates on the surface of the ocean floor, a gravel or sand block covers it. Nonetheless, terrain generation can cause the chest to be buried by any suitable terrain-generated blocks, such as coal ore and diorite.
+
+In Java Edition, buried treasures always generate at chunk section relative 9 (out of 0 through 15) on both the X and Z axis, and are always facing east.
+
+In Bedrock Edition, buried treasures always generate at chunk section relative 8 (out of 0 through 15) on the X and Z axis.
+
+Location per seed
+A preview of buried treasure generation is shown below:
+
+Structure
+thumb|A dug up buried treasure chest
+Buried treasures contain a single chest full of various loot. If the chest is exposed to water, it generates waterlogged.
+
+Loot
+
+A heart of the sea is always present in every buried treasure.
+
+Data values
+ID
+:
+
+:
+
+Config
+:
+Structure configuration
+:
+
+Achievements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Buried treasures are the smallest naturally generated structure in the game.
+In Java Edition, the player arrow is shown under the X of the treasure, but in Bedrock Edition, the player arrow is shown on top of the X.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Notes
+
+References
+
+Navigation
+
+de:Vergrabener Schatz
+es:Tesoro enterrado
+fr:Trésor enfoui
+it:Tesoro sepolto
+ja:埋もれた宝
+ko:땅에 묻힌 보물
+lzh:湮寶
+pl:Zakopany skarb
+pt:Tesouro Enterrado
+ru:Клад
+uk:Закопаний скарб
+zh:埋藏的宝藏

@@ -33,6 +33,13 @@
   {"question": "¿Cómo hago un pastel?", "expected_source_contains": "Cake", "expected_answer_contains": ["Milk", "Sugar", "Wheat"], "tags": ["crafting", "blocklist"]},
   {"question": "¿Cómo hago un estandarte?", "expected_source_contains": "Banner", "expected_answer_contains": ["Wool", "Stick"], "tags": ["crafting", "blocklist"]},
 
+  {"question": "¿Cómo derroto al Ender Dragon?", "expected_source_contains": "Ender Dragon", "expected_answer_contains": ["End Crystal"], "tags": ["mobs", "unseen"]},
+  {"question": "¿Qué hace un creeper?", "expected_source_contains": "Creeper", "expected_answer_contains": ["explo"], "tags": ["mobs", "unseen"]},
+  {"question": "¿Cómo invoco al Wither?", "expected_source_contains": "Wither", "expected_answer_contains": ["Wither Skeleton Skull", "Soul Sand"], "tags": ["mobs", "unseen"]},
+  {"question": "¿Qué encuentro en una fortaleza del Nether?", "expected_source_contains": "Nether Fortress", "expected_answer_contains": ["Blaze", "Nether Wart"], "tags": ["structures", "unseen"]},
+  {"question": "¿Cómo llego al End?", "expected_source_contains": ["The End", "End Portal", "Stronghold", "Eye of Ender"], "expected_answer_contains": ["Eye of Ender"], "tags": ["dimensions", "unseen"]},
+  {"question": "¿Qué mob peligroso vive en el Deep Dark?", "expected_source_contains": ["Deep Dark", "Warden"], "expected_answer_contains": ["Warden"], "tags": ["biomes", "unseen"]},
+
   {"question": "¿Cómo crafteo una espada de rubí?", "expect_abstain": true, "tags": ["negative"]},
   {"question": "¿Cómo instalo mods con Forge?", "expect_abstain": true, "tags": ["negative"]},
   {"question": "¿Cómo hago una poción de vuelo?", "expect_abstain": true, "tags": ["negative"]}

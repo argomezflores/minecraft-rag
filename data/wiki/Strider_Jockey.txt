@@ -1,0 +1,44 @@
+TITLE: Strider Jockey
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Strider_Jockey
+---
+A strider jockey is the appearance of a strider being ridden by a zombified piglin.Zombified piglins have not spawned on top of saddled striders since Bedrock Edition 26.0 due to . The zombified piglin rider wields a warped fungus on a stick and the strider is saddled. They sometimes spawn when an adult strider naturally spawns in the Nether.
+
+Spawning
+
+Adult striders have a  chance to spawn being ridden by a zombified piglin. The strider spawns wearing a saddle, while the zombified piglin spawns with a warped fungus on a stick in its hand, replacing the usual golden sword or spear. The zombified piglin can also spawn as a baby.
+
+on Halloween, there is a 22.5% chance for the zombified piglin to spawn wearing a carved pumpkin on its head, and a 2.5% chance to spawn wearing a jack o'lantern.
+
+Strider jockeys also have a chance to spawn when using the strider spawn egg.
+
+Behavior
+The movement of the strider jockey is controlled by the zombified piglin , or controlled by the strider . Like regular striders, the jockey will move faster while in lava and slower when out of lava.
+
+Like zombified piglins, strider jockeys are neutral toward players and other mobs. They are angered when the rider or any nearby zombified piglin is attacked, resulting in the strider jockey attacking the aggressor via melee. They also pathfind toward and stomp on turtle eggs. The strider jockey does not retaliate when the strider itself is attacked.
+
+Unlike players, the zombified piglin cannot “use” the warped fungus on a stick and make the strider move faster.
+
+, the strider cannot be tempted by a warped fungus or warped fungus on a stick while being ridden by the zombified piglin. In both editions, the strider can be fed and leashed. The strider’s saddle cannot be removed using shears while the zombified piglin is riding it.
+
+When the rider is dismounted or killed, the strider becomes passive. Additionally, the strider can immediately be ridden by the player due to spawning with a saddle already equipped. The saddle can be removed using shears and is also dropped upon the strider's death.
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+References
+
+Navigation
+
+Category:Jockeys
+Category:Nether mobs
+Category:Animal mobs
+Category:Neutral mobs
+
+Category:Monster mobs
+
+ja:ストライダージョッキー
+pt:Jóquei de Lavagante

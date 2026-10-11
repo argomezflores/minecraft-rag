@@ -1,0 +1,261 @@
+TITLE: Drowned
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Drowned
+---
+Drowned are neutral, aquatic zombie variants that spawn in many places with water or when zombies are submerged underwater for too long. They primarily attack through melee attacks, but may also spawn armed with tridents that they can throw at range. A baby drowned is referred to as a gurgle.
+
+Spawning
+Natural generation
+Drowned spawn naturally at water blocks that emit light level of 0 and internal sky light level being 7 and below in all ocean biomes, aquifers in the dripstone caves biome, and river biomes. They spawn at higher rates in rivers and dripstone caves than in ocean biomes.
+
+, drowned spawn individually inside flowing water or source water that is 2 blocks or taller (this can include waterlogged blocks or bubble columns). In ocean biomes and dripstone caves, drowned spawn at Y < 58; this restriction does not apply to rivers meaning they can also spawn during the day in that biome as long as it is deep enough for the sky light level to reach 7 and below.
+
+, drowned spawn in groups of 2-4 in oceans, frozen rivers, dripstone caves and ice caves while they spawn individually in rivers inside flowing water or source water of any depth, but they spawn at higher rates in water that is 2 blocks or taller. They spawn only on the surface that is on the highest spawnable block at any given X, Z coordinate. They count toward the monster population control cap and also have their own density caps of 5 in oceans and 2 in rivers. They can spawn during the day as long as the water is deep enough for the sky light level to reach 7 and below.
+
+Drowned have a chance to spawn with either a trident or a fishing rod in their main hand, and occasionally with a nautilus shell in their offhand. Alongside the frostbite, they are one of the only Overworld zombie variants that cannot naturally spawn with any armor.
+
+, when spawned as a gurgle they also have a small chance to spawn riding a chicken, creating a drowned chicken jockey.
+
+Ocean ruins
+Drowned spawn during the generation of certain ocean ruin structures. These drowned do not naturally despawn unless the world is set to Peaceful difficulty.
+
+When spawning mounted on a zombie nautilus, the zombie nautilus is also persistent (does not despawn).
+
+Conversion
+thumb|A zombie converting into a drowned.|alt=A zombie from Minecraft converting into a drowned, a zombie variant.
+
+If a zombie's head (not the legs) is submerged in water continuously for 30 seconds, it begins the process of converting into a drowned. The zombie begins shaking, similar to the effect seen while a zombie villager is being cured or a skeleton is converting into a stray. At this point, the process cannot be stopped, and 15 seconds later the zombie becomes a drowned. The drowned appears with full health even if the previous zombie did not.
+
+Only normal zombies can transform into drowned, while zombie villagers and zombified piglins cannot. For husks and frostbites, they first transform into a regular zombie, and subsequently convert to a drowned in the usual fashion. The zombie that is converted from these mobs always has full health even if converted from a damaged husk or frostbite.
+
+Zombie nautilus jockeys
+When an adult drowned spawns outside of rivers and frozen rivers, either naturally or as part of a structure, and is wielding a trident in its main hand, it has a 50% chance to spawn riding a zombie nautilus, i.e. as a zombie nautilus jockey.
+
+Reinforcements
+
+On Hard difficulty, all drowned have a 0-10% chance to spawn other drowned as reinforcements when receiving damage while targeting an entity. Additionally, up to 5% of drowned spawn as leaders, getting a 50-75% boost to that chance. Reinforcements can only spawn in at least 2 block deep water, and it does not matter whether the water is source blocks or flowing.
+
+Variants
+Gurgles
+Baby drowned, known as "gurgles", make up 5% of drowned spawns. They behave similarly to regular drowned, with the following differences:
+They are much faster than normal drowned, yet they have the same health.
+The noises they make are higher-pitched than adult drowned sound effects.
+Worn armor shrinks to fit their body size.
+They are able to fit through 1×1 block gaps.
+They give 12 experience points when killed by the player or a tamed wolf instead of 5.
+Unlike most other baby mobs, they remain babies indefinitely and never become adult drowned, therefore golden dandelions do not work.
+They have a decreased hitbox size.
+
+Jockeys
+
+, every gurgle has a chance to spawn as a chicken jockey. In a chicken-free environment, each baby has a 4.75% chance of spawning as a chicken jockey, for a total 0.2375% chance for each spawned drowned to spawn as a chicken jockey; if chickens are present, the chance increases to 0.4875%.
+
+, 15% of naturally spawned gurgles can start riding a mob and become a jockey after it spawns. A jockey mob ridden by a gurgle adapts to the speed of its rider. A gurgle can ride:
+
+Drops
+On death
+
+Adult drowned drop  and an additional  per naturally-spawned equipment if killed by a player, axolotl or tamed wolf. Gurgles drop  and an additional  per naturally-spawned equipment if killed by a player, axolotl or tamed wolf.
+
+1 , , , and/or .
+
+Any picked-up equipment has a 100% chance of dropping, and drops without changing the damage that has accumulated on it.
+
+Equipment
+For naturally-spawned drowned:
+In the main hand (mutually exclusive):
+Each drowned has a 6.25% chance to spawn with a . May be enchanted.
+Each drowned has a 3.75% chance to spawn with a . May be enchanted.
+In the offhand:
+Each drowned has a 3%/8% chance to spawn with a .
+
+In , on Halloween, a drowned may spawn wearing a carved pumpkin or jack o'lantern. However, they do not drop them, even when killed with Looting.
+
+A drowned holding a trident or fishing rod has an 8.5%/25% chance to drop it when killed by a player or tamed wolf. The chance is increased by 1% per level of Looting, up to a max of 11.5%/28% with Looting III. This means that in Java Edition, killing 8 drowned with tridents without the Looting enchantment or 6 with Looting III, will have a greater than 50% chance of getting a trident, or 2 drowned in  regardless of Looting.
+
+In Java Edition, zombies converted to drowned are never equipped with new items. They keep any equipment the zombie had before conversion.
+
+In Bedrock Edition, zombies converted to drowned are never equipped with tridents. Any equipment the zombie had before conversion is always dropped at full durability.
+
+For converted drowned in Bedrock Edition:
+1% spawn with a  in the main hand.
+8% spawn with a  in the offhand (same as naturally-spawned drowned).
+
+Farming
+
+Farms that convert zombies into drowned produce all of naturally-spawned equipment dropped by zombies, as well as fishing rods, copper ingots, and (in Bedrock Edition) nautilus shells.
+
+A drowned farm must be designed to harvest naturally-spawned drowned to produce tridents in all game editions and nautilus shells in Java Edition.
+
+Behavior
+150px|thumb|A drowned swimming .
+
+During the day, drowned stay on the floor of the body of water they are in, unless provoked.
+
+If on land during the daytime, drowned seek out nearby water or shade. They sometimes step onto land but quickly return to the water.
+
+Drowned seek out turtle eggs within 10 blocks  and 24 blocks . They stomp on turtle eggs until the eggs break. Drowned can even jump over a 1-block gap to reach a turtle egg successfully, even if the egg is raised 1 block higher than the gap.
+
+Drowned are passive or neutral during the day if no player in range is touching the water,  the players head is underwater for drowned without tridents.
+
+They are immune to guardian and elder guardian attacks.
+
+Drowned can be damaged by a fully-powered conduit within a distance of 8 blocks.
+
+, drowned can mount and ride any untamed zombie nautilus that they collide with, but they do not actively search for zombie nautiluses to mount. However, 15% of gurgles can actively search for one.
+
+Like spiders and endermen, drowned have eyes (in addition to their noses and mouths) that appear to glow in Bedrock Edition, although they do not produce light. With Vibrant Visuals, all bright parts in the first layer are emissive and glow in the dark.
+
+, drowned are never spawned as part of a zombie siege, but if a drowned naturally spawns nearby, it will join the siege and behave like all other zombies.
+
+Attacking
+Generic
+
+They are always hostile toward axolotls. Like other zombie variants, they chase and attack villagers, wandering traders, snow golems, baby turtles, and iron golems, but only at night or in dark areas.
+
+If a drowned kills a villager, either with a melee attack or with a thrown trident, the villager has a chance of turning into a zombie villager (a 0% chance on Easy difficulty, a 50% chance on Normal, and a 100% chance on Hard).
+
+Drowned-specific
+During the day, drowned ignore players on land and in boats, only attacking if the player enters the water.
+
+A drowned is also neutral if it is equipped with a trident during the daytime, only attacking the player if provoked. During the night or in thunderstorms, they become hostile and attack any player or baby turtle they see, without provocation.
+
+Every drowned has a melee attack, and if it spawns with a trident, the trident is used as a ranged weapon. A drowned with a trident can throw it every 1.5 seconds, sending it up to 20 blocks away. Thrown tridents cannot be picked up by the player, just like arrows shot by skeletons. , a drowned with a trident also uses a melee attack if their target is within a 3 blocks distance. They can use this melee attack while mounted on entities, except for zombie nautiluses .
+
+A drowned's trident can be enchanted. The Loyalty, Impaling, and Channeling enchantments work the same as they would for a player, while Riptide has no effect for drowned.
+
+A drowned equipped with a trident continues throwing it at the player even after the player leaves the water, or gets a long distance away. It also attacks any player that attacks it or another drowned. However, it is not provoked by a player killing another drowned in one hit.
+
+If one drowned is hit by another drowned's thrown trident, the attacked drowned ignores it.
+
+Sometimes, drowned do not immediately become aggressive toward a player when the player first enters the water.  However these are not "passive" drowned, but slow or non-movers which more-often will melee attack when the player draws closely.
+
+Breaking doors
+Up to 10% of drowned spawn with the ability to break wooden and copper doors on Hard difficulty.
+
+Picking up items
+
+Like zombies, some drowned spawn with the ability to pick up dropped items from the ground in Normal and Hard difficulty, with the chance being higher in the latter. , drowned pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+Standard drowned can pick up all items except for glow ink sacs and spears. Chicken jockey riders also cannot pick up any variant of an egg.
+
+If the picked up item is armor, the drowned equips the armor into its respective armor slot. Carved pumpkins and heads are worn on their heads, and elytra are worn in the their chestplate slot. If the picked up item is a shield, the drowned equips it to their offhand. It cannot use the shield to block incoming attacks, however.
+
+If a drowned encounters another similar item, it may drop the previous item in favor of the new one if:
+both items are armor/weapons and the new item is better damage-wise (reduces higher damage for armor, or inflicts more damage for weapons) without considering enchantments,
+both items are armor/weapons with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is less damaged than the old item
+
+Drowned prefer tridents over other hold-able items.
+
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+
+A drowned equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Picked-up items do not cause the drowned to drop more experience when killed, unlike naturally-spawned gear.
+
+In , drowned which pick up a trident do not use the trident's ranged attack, and instead only use the melee attack.
+
+In , due to a bug, drowned, as well as zombies, husks, and zombie villagers can also wear horse armor, nautilus armor, and wolf armor.
+
+Mob type
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+Threatening to armadillos, causing them to hide in their shell.
+
+As they are undead and do not grow up, golden dandelions do not work on gurgles.
+
+Swimming
+
+thumb|A drowned swimming .
+
+Drowned use a swimming animation similar to the player. They use this animation whenever they try to pathfind to a player that is either below or above them; if the player is on the same ground level, the drowned simply walk toward them. Drowned also use this animation if they are tracking a player while they are not standing on a solid block. Their hitbox does not change when using this animation.
+
+If they hold a nautilus shell or anything else in their offhand, their arms are in the same posture as a player's. When attacking, they use the player's attacking animation. Still, they use the same swimming animation when tracking a player underwater.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Drowned have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Drowned are not considered as aquatic mobs, instead, they are considered as undead and are therefore unaffected by the Impaling enchantment.
+A gurgle chicken jockey that spawns underwater floats to the surface because the chicken it is riding floats, causing the gurgle riding it to burn in sunlight during the day, resulting in a chicken in the middle of the ocean or river where the gurgle chicken jockey spawned in.
+, drowned have a more inflated outer layers. This causes their heads and arms to look larger than  and causes helmets to go inside their heads and their clothing goes off the sides of their leggings.
+The sounds for drowned were recorded by Samuel Åberg gurgling milk.
+
+Gallery
+Renders
+
+Screenshots
+
+Mojang images
+
+Textures
+
+In other media
+
+See also
+
+Notes
+
+References
+
+External links
+DANGER: SCARY MOB SPOTTED IN SEAS — Minecraft.net on July 2, 2018
+Navigation
+
+Category:Neutral mobs
+Category:Undead mobs
+Category:Monster mobs
+
+de:Ertrunkener
+es:Ahogado
+fr:Noyé
+hu:Vízbefúlt
+it:Annegato
+ja:ドラウンド
+ko:드라운드
+lzh:溺屍
+pl:Utopiec
+pt:Afogado
+ru:Утопленник
+th:ซอมบี้ใต้น้ำ
+tr:Boğuk
+uk:Потопельник
+zh:溺尸

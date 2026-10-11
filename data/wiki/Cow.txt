@@ -1,0 +1,169 @@
+TITLE: Cow
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Cow
+---
+A cow is a passive mob found in most grassy biomes and are a source of leather, beef, and milk. They have three variants based on the temperature of the biome they spawn in.
+
+Spawning
+Cows spawn naturally in the Overworld in most grassy biomes except for snowy plains, meadows, cherry groves, mangrove swamps, and pale gardens. They spawn in small herds, with a set spawn rate for each biome.
+
+Cows also require a well-lit grass block to spawn on and at least two blocks of space above it.
+
+, herds of four cows spawn on grass blocks.
+Individual cows may rarely spawn after world generation.
+
+, herds of 2–3 cows spawn on grass blocks.
+Individuals regularly spawn on grass after world generation.
+
+Cows sometimes spawn inside animal pens, stables, and butcher house backyards in villages upon world generation.
+
+shears on a mooshroom converts it into a cow.
+
+Variants
+
+Cows have 3 variants; temperate, cold, and warm. The variant is determined by the biome the cow spawns in.
+
+If a cow is spawned via spawn egg or command in any biome not listed, it spawns as a temperate cow.
+
+Sound variants
+
+Cows have 2 sound variants: Classic and Moody.
+
+A sound variant is chosen randomly upon the mob spawning, and is not related to the mob's temperature variant. These sound variants have no effect on the mob's behavior.
+
+For the sounds of each sound variant, see .
+
+Drops
+Breeding
+experience orbs upon a successful breeding.
+
+On death
+An adult cow drops:
+
+experience orbs are dropped when killed by a player or tamed wolf.
+Killing a baby cow yields no items nor experience.
+
+Milking
+An adult cow can be milked by  a bucket on it, yielding a milk bucket.
+
+Behavior
+thumb|A baby cow compared to a regular cow
+A cow moos and huffs occasionally while wandering aimlessly, but tends to stay in well lit and grassy places. They avoid water unless following a player and always avoid rails and falls that cause damage. If harmed, the cow flees for a few seconds.
+
+Cows follow players holding wheat within a six block radius.
+
+Breeding
+
+Cows follow players holding wheat but stop following when separated from the player by at least 10 or 16 blocks. Additionally, baby cows follow adults.
+
+A player can breed cows by using wheat. After breeding, a baby cow spawns and 1–7 experience is generated. The parents cannot be bred again for 5 minutes. The variant of the offspring is inherited from one of the parents and does not depend on the biome they are bred in.
+
+Baby cows take 24000 ticks (20 minutes) to grow up, but the growth time can be accelerated  wheat. Each use takes 10% off the remaining time to grow up. It moves to another adult cow if it is separated from its parent by more than 24 blocks. Baby cows prefer to follow adult cows instead of players holding wheat.
+
+If a baby cow is fed a golden dandelion, its growth freezes and resets to 24000 ticks (20 minutes). Feeding the baby cow another one resumes the growth.
+
+Jockey
+
+thumb|width=165x165|A temperate cow ridden by a baby zombie
+15% of nearby baby zombies, husks, or drowned may ride a cow to form a jockey.
+
+Sounds
+Generic
+:
+
+:
+
+Classic
+:
+
+:
+
+Moody
+
+Historical sounds
+SoundFromtoPitchAlpha v1.0.8Alpha v1.0.9?Alpha v1.0.91.4.2 (12w38a)
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Cows have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: The variant of the cow. Represents the  component.
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Teaser
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Minecraft Education
+
+Data history
+
+Issues
+
+Trivia
+Cows in the PC Gamer Minecraft Demo are branded with a 'PCG' logo on their side.
+Markus Persson stated in a Tumblr post that all "breedable" peaceful mobs displayed traits of both genders and could breed with any other individual of their species. This applies to cows as they have horns and give milk (although there are some cattle breeds wherein females exhibit horns).
+
+Gallery
+
+Mojang screenshots
+
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+Cattle article on Wikipedia
+Mob Menagerie: Cow – Minecraft.net on October 13, 2023
+
+Navigation
+
+Category:Passive mobs
+Category:Animal mobs
+
+cs:Kráva
+de:Kuh
+es:Vaca
+fr:Vache
+hu:Tehén
+it:Mucca
+ja:ウシ
+ko:소
+lzh:牛
+nl:Koe
+pl:Krowa
+pt:Vaca
+ru:Корова
+th:วัว
+uk:Корова
+zh:牛

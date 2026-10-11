@@ -1,0 +1,137 @@
+TITLE: Frostbite
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Frostbite
+---
+A frostbite is a variant of the zombie that spawns in cold biomes or when a zombie is submerged in powder snow. Its melee attacks apply the Freezing effect to their target, and it can sometimes spawn holding ice balls, which are thrown as a ranged attack. They also have a bit more health than the regular zombie.
+
+Spawning
+Natural spawning
+Frostbites spawn in some snowy biomes, such as ice spikes and ice caves.
+
+Conversion
+Zombies and husks transform into frostbites when submerged inside powder snow for 22 seconds and retain equipped tools and armor.
+Like husks, frostbites transform into zombies when submerged inside water for 30 seconds. If the resulting zombie remains submerged in water, it can subsequently transform into a drowned, although drowned cannot turn back into frostbites.
+
+Unlike skeletons converting to strays, zombies and husks that are transforming in powder snow take damage before their transformation.
+
+Variants
+Baby frostbites
+Baby frostbites make up 5% of frostbite spawns. They behave similarly to regular frostbites, with the following differences:
+They are much faster than normal frostbites, yet they have the same health.
+The noises they make are higher-pitched than adult frostbite sound effects.
+Worn armor shrinks to fit their body size.
+They are able to fit through 1×1 block gaps.
+They give 12 experience points when killed by the player or a tamed wolf instead of 5.
+Unlike most other baby mobs, they remain babies indefinitely and never become adult frostbites, therefore golden dandelions do not work.
+They have a decreased hitbox size.
+
+Jockeys
+
+, every baby frostbite has a chance to spawn as a chicken jockey. In a chicken-free environment, each baby has a 4.75% chance of spawning as a chicken jockey, for a total 0.2375% chance for each spawned frostbite to spawn as a chicken jockey; if chickens are present, the chance increases to 0.4875%.
+
+, 15% of naturally spawned baby frostbites can start riding a mob and become a jockey after it spawns. A jockey mob ridden by a baby frostbite adapts to the speed of its rider. A baby frostbite can ride:
+
+Drops
+On death
+
+Behavior
+Attacking
+A frostbite primarily uses its melee attack, which will apply the Freezing effect for 3 seconds to their target. Unlike husks, they can apply this effect while holding a weapon.
+
+They sometimes spawn holding ice balls and can throw them as a ranged attack. They throw ice balls at range within 16 blocks while moving toward their target, and switch to melee attacks when they get within 2 blocks of the player. Frostbites also throw ice balls if they pick up an ice ball item off the ground.
+
+Frostbites attack players, villagers, wandering traders, iron golems, snow golems, and baby turtles.
+
+Mob type
+Being an undead mob, they are:
+
+damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+unaffected by the status effects Regeneration and Poison.
+ignored by the wither.
+affected by the Smite enchantment.
+a threat to armadillos, causing them to hide in their shell.
+
+Picking up items
+
+Like zombies, some frostbites spawn with the ability to pick up dropped items from the ground in Normal and Hard difficulty, with the chance being higher in the latter. , frostbites pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+, standard frostbites can pick up any item except for glow ink sacs and spears. , they can only pick up ice balls, swords, armor, and carved pumpkins. Chicken jockey riders also cannot pick up any variant of an egg.
+
+If the picked up item is armor, the frostbite equips the armor into its respective armor slot. Carved pumpkins and heads are worn on their heads, and elytra are worn in the their chestplate slot. If the picked up item is a shield, the frostbite equips it to their offhand. It cannot use the shield to block incoming attacks, however.
+
+If a frostbite encounters another similar item, it may drop the previous item in favor of the new one if:
+Both items are armor/weapons and the new item is better damage-wise (reduces higher damage for armor, or inflicts more damage for weapons) without considering enchantments,
+Both items are armor/weapons with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is less damaged than the old item
+
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+
+A frostbite equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Picked-up items do not cause the frostbite to drop more experience when killed.
+
+Powder snow
+Frostbites do not sink in or take damage from powder snow, and their jump height and speed is unimpeded by it. They can ascend through multiple layers of powdered snow like scaffolding.
+
+Jockey
+
+thumb|width=165x165|An unarmed frostbite ridden by a baby zombie
+15% of nearby baby zombies, baby husks, gurgles, or baby frostbites may ride an adult frostbite to form a jockey.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The frostbite could be considered a successor to the  from , another ice-covered zombie variant which notably also attacks with thrown ice projectiles in addition to the standard melee attacks. Both are very similar in appearance as well, with the only significant difference being that the frostbite uses an original clothing design, whereas the frozen zombie simply reuses the clothes of the normal zombie.
+The frostbite's texture even includes the palette, positioned identically to the palette in the frozen zombie's texture from Minecraft Dungeons.
+
+Gallery
+
+Mojang images
+
+Development images
+
+Renders
+With an Ice Ball
+
+Targeting
+
+Textures
+
+References
+
+See also
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+
+de:Erfrorener
+es:Escarchado
+fr:Gelé
+it:Brinato
+ja:Frostbite
+pt:Gélido
+ru:Замёрзший зомби
+zh:Frostbite

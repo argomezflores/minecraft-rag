@@ -1,0 +1,74 @@
+TITLE: Lukewarm Ocean
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Lukewarm_Ocean
+---
+The lukewarm ocean is a lukewarm variant of oceans, notable for its sand floor and warm fish.
+
+Generation
+Lukewarm oceans generate as oceans at moderately high temperatures, often bordering jungles, savannas, windswept savannas, plains and forests. Mangrove swamps often generate near lukewarm oceans, but will be separated by beach or river biomes.
+
+The lukewarm ocean generates as a shallow ocean, bordering coastal biomes and deep lukewarm oceans, but never mushroom fields. They can border warm oceans when temperature increases, and regular oceans as temperature decreases.
+
+Description
+thumb|200px|The separate colors of each ocean variant
+The lukewarm ocean has light blue water at the surface. Its floor is made of sand, with occasional patches of dirt, gravel and clay in shallower areas. Ocean ruins that generate in lukewarm and warm oceans are made of sandstone blocks, as opposed to the stone blocks that make up ruins in colder oceans. This biome also has more seagrass and less kelp compared to colder ocean variants.
+
+Occasional islands in lukewarm oceans are covered by grass blocks with default vegetation.
+
+Like in warm oceans, tropical fish and pufferfish spawn here, as well as cod and salmon.
+
+With Vibrant Visuals, lukewarm oceans use a coolish humid volumetric fog setting, which slightly fades the distance in an orange tint.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+
+Music
+These music tracks when the player is underwater in a lukewarm ocean:
+
+These music tracks play while the player is not underwater in a lukewarm ocean:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+See also
+Tutorial:Island survival
+
+References
+
+External links
+
+Navigation
+
+fr:Océan tiède
+pt:Oceano morno
+uk:Помірний океан
+zh:温水海洋

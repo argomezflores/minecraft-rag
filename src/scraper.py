@@ -233,6 +233,13 @@ def fetch_pages_by_title(
                 print(f"  [404] {title}")
                 time.sleep(RATE_LIMIT_DELAY)
                 continue
+            # 📚 Muchos títulos "obvios" son redirects (Enchanting → Enchantment,
+            # Hunger → Food). _process_page descarta redirects, así que los
+            # seguimos aquí (docs/eval-log.md #011).
+            if page.redirect:
+                target = page.resolve_redirect()
+                print(f"  [redirect] {title} → {target.name}")
+                page = target
         except Exception as e:
             print(f"  [FAIL] {title}: {e}")
             continue
@@ -280,6 +287,10 @@ def fetch_category(
         # 📚 Respetamos rate limit para no ser bloqueados.
         time.sleep(RATE_LIMIT_DELAY)
 
+    if count == 0:
+        # 📚 Una categoría inexistente o que solo tiene subcategorías regresa 0
+        # sin error; antes pasaba desapercibido (docs/eval-log.md #011).
+        print(f"  [warn] '{category_name}' no tiene páginas directas (¿no existe o solo tiene subcategorías?)")
     print(f"  [done] {count} artículos en '{category_name}'")
 
 

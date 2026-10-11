@@ -1,0 +1,670 @@
+TITLE: Trail Ruins
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Trail_Ruins
+---
+Trail ruins are buried structures that work as archaeological sites where suspicious gravel generates. They are found in heavily forested biomes and resemble ruined villages from a lost culture.
+
+Generation
+The biomes the trail ruins can be found in are the taiga, snowy taiga, old growth spruce taiga, old growth pine taiga, old growth birch forest, and the jungle.
+
+Trail ruins are one of the only structures that generate on the same locations in Java Edition and Bedrock Edition.
+
+Structure
+thumb|An excavated build in trail ruins
+The trail ruins are structures that generate mostly underground with only the top of the tower above the ground. The ruins resemble small, ancient settlements. Each trail ruin has a main road made of cobblestone, stone, and stone bricks that connect multiple small buildings and a central tower made of stained terracotta and glazed terracotta, the tip of which is the only part of the structure that does not tend to generate underground. Adjacent to the tower generates two rooms and sometimes other small buildings and a decor made out of mud bricks and terracotta. Most of the structure is buried in gravel, dirt, and coarse dirt, as well as suspicious gravel, which may lead to the illusion that they are just a few misplaced blocks at first glance.
+
+Trail ruins are completely solid; they don't have interior rooms.
+
+Some blocks of suspicious gravel are generated floating. They fall and are destroyed if an adjacent block is updated.
+
+File structure
+All trail ruins structures found below are located in the folder client.jar/data/minecraft/structures/trail_ruins.
+
+List trail_ruins
+buildings
+group_full_1.nbt
+group_full_2.nbt
+group_full_3.nbt
+group_full_4.nbt
+group_full_5.nbt
+group_hall_1.nbt
+group_hall_2.nbt
+group_hall_3.nbt
+group_hall_4.nbt
+group_hall_5.nbt
+group_lower_1.nbt
+group_lower_2.nbt
+group_lower_3.nbt
+group_lower_4.nbt
+group_lower_5.nbt
+group_room_1.nbt
+group_room_2.nbt
+group_room_3.nbt
+group_room_4.nbt
+group_room_5.nbt
+group_upper_1.nbt
+group_upper_2.nbt
+group_upper_3.nbt
+group_upper_4.nbt
+group_upper_5.nbt
+large_room_1.nbt
+large_room_2.nbt
+large_room_3.nbt
+large_room_4.nbt
+large_room_5.nbt
+one_room_1.nbt
+one_room_2.nbt
+one_room_3.nbt
+one_room_4.nbt
+one_room_5.nbt
+decor
+decor_1.nbt
+decor_2.nbt
+decor_3.nbt
+decor_4.nbt
+decor_5.nbt
+decor_6.nbt
+decor_7.nbt
+roads
+long_road_end.nbt
+road_end_1.nbt
+road_section_1.nbt
+road_section_2.nbt
+road_section_3.nbt
+road_section_4.nbt
+road_spacer_1.nbt
+tower
+hall_1.nbt
+hall_2.nbt
+hall_3.nbt
+hall_4.nbt
+hall_5.nbt
+large_hall_1.nbt
+large_hall_2.nbt
+large_hall_3.nbt
+large_hall_4.nbt
+large_hall_5.nbt
+one_room_1.nbt
+one_room_2.nbt
+one_room_3.nbt
+one_room_4.nbt
+one_room_5.nbt
+platform_1.nbt
+platform_2.nbt
+platform_3.nbt
+platform_4.nbt
+platform_5.nbt
+stable_1.nbt
+stable_2.nbt
+stable_3.nbt
+stable_4.nbt
+stable_5.nbt
+tower_1.nbt
+tower_2.nbt
+tower_3.nbt
+tower_4.nbt
+tower_5.nbt
+tower_top_1.nbt
+tower_top_2.nbt
+tower_top_3.nbt
+tower_top_4.nbt
+tower_top_5.nbt
+
+Structure blueprint
+Buildings
+Structure name Description Consists of Imagetrail_ruins/buildings/group_full_1Connects to a group hall. Needs a lot of space to generate so they are somewhat rare.120
+115
+17
+11
+9
+7
+6
+1
+1 250pxtrail_ruins/buildings/group_full_2130
+112
+26
+11
+2
+1 250pxtrail_ruins/buildings/group_full_3157
+93
+25
+10
+2
+1 250pxtrail_ruins/buildings/group_full_4131
+114
+17
+17
+6
+3
+1
+1 250pxtrail_ruins/buildings/group_full_5131
+114
+17
+17
+6
+3
+1
+1 250pxtrail_ruins/buildings/group_hall_1Bigger room that needs a wide area to generate. Can generate smaller rooms on the side. Can have between 0-4 rooms attatched.173
+134
+37
+9
+7
+5
+1 250pxtrail_ruins/buildings/group_hall_2176
+133
+37
+9
+8
+5
+2
+1 250pxtrail_ruins/buildings/group_hall_3168
+145
+35
+12
+8
+6
+6
+5 250pxtrail_ruins/buildings/group_hall_4196
+131
+43
+8
+5
+3 250pxtrail_ruins/buildings/group_hall_5242
+136
+5
+5 250pxtrail_ruins/buildings/group_lower_188
+80
+23
+7
+6
+4
+1 250pxtrail_ruins/buildings/group_lower_2102
+92
+22
+6
+3
+1
+1 250pxtrail_ruins/buildings/group_lower_3115
+64
+22
+5
+3
+1
+1 250pxtrail_ruins/buildings/group_lower_488
+87
+16
+10
+7
+1 250pxtrail_ruins/buildings/group_lower_588
+87
+16
+7
+1 250pxtrail_ruins/buildings/group_room_1Generates attached to a group hall.65
+54
+29
+9
+1 250pxtrail_ruins/buildings/group_room_268
+46
+25
+8
+2
+1
+1 250pxtrail_ruins/buildings/group_room_367
+61
+14
+7
+1
+1 250pxtrail_ruins/buildings/group_room_465
+54
+29
+9
+1 250pxtrail_ruins/buildings/group_room_565
+54
+29
+9
+1 250pxtrail_ruins/buildings/group_upper_1Doesn't generate due to a bug. MC-264093129
+87
+17
+15
+10
+10
+2
+1 250pxtrail_ruins/buildings/group_upper_2143
+78
+30
+13
+4
+3
+2
+1
+1 250pxtrail_ruins/buildings/group_upper_3145
+77
+29
+13
+4
+3
+2
+1
+1 250pxtrail_ruins/buildings/group_upper_4123
+87
+17
+15
+11
+3
+1 250pxtrail_ruins/buildings/group_upper_5123
+87
+17
+15
+11
+3
+1 250pxtrail_ruins/buildings/large_room_1A room connecting to the main road of the ruin.182
+150
+39
+21
+6
+2
+2
+1
+1
+1
+1
+1 250pxtrail_ruins/buildings/large_room_2164
+67
+28
+12
+10
+9
+9
+9
+7
+1
+1 250pxtrail_ruins/buildings/large_room_3370
+205
+75
+36
+23
+12
+11
+1
+1
+1
+1 250pxtrail_ruins/buildings/large_room_4356
+56
+9
+7
+6
+3
+1
+1
+1 250pxtrail_ruins/buildings/large_room_5531
+187
+172
+20
+3
+2
+1 250pxtrail_ruins/buildings/one_room_1Connects directly to the main road.96
+70
+31
+15
+1
+1 250pxtrail_ruins/buildings/one_room_287
+76
+25
+15
+3
+1
+1
+1 250pxtrail_ruins/buildings/one_room_385
+78
+25
+15
+6
+1
+1
+1 250pxtrail_ruins/buildings/one_room_4114
+83
+55
+29
+22
+5
+1
+1
+1 250pxtrail_ruins/buildings/one_room_5139
+47
+10
+7
+1 250px
+
+Decor
+Structure name Description Consists of Imagetrail_ruins/decor/decor_1A decor part connecting to the main road of the ruin. Generates on opposite side of rooms of the main road.30
+21
+12
+3 250pxtrail_ruins/decor/decor_218
+14
+11
+7 250pxtrail_ruins/decor/decor_320
+13 250pxtrail_ruins/decor/decor_418
+12
+2
+1 250pxtrail_ruins/decor/decor_529
+25
+6
+1 250pxtrail_ruins/decor/decor_612
+6
+4
+4
+3
+1 250pxtrail_ruins/decor/decor_748
+30
+4
+2
+1 250px
+
+Roads
+Structure name Description Consists of Imagetrail_ruins/roads/long_road_endConnects to the main tower, opposite side of the main road.94
+68
+7
+5
+5 250pxtrail_ruins/roads/road_end_1Currently doesn't generate due to a bug.36
+29 250pxtrail_ruins/roads/road_section_1Road parts that connect the different parts of the ruin.56
+26
+23
+1 250pxtrail_ruins/roads/road_section_258
+37
+6
+5
+3 250pxtrail_ruins/roads/road_section_357
+47
+11 250pxtrail_ruins/roads/road_section_463
+47
+11 250pxtrail_ruins/roads/road_spacer_1Part of the main road. No rooms or decorations attatched.55
+27
+13
+6
+5 250px
+
+Tower
+Structure name Description Consists of Imagetrail_ruins/tower/hall_1Connects to the tower.138
+121
+39
+13
+10
+4
+3
+2
+2
+1
+1
+1 250pxtrail_ruins/tower/hall_2205
+161
+48
+23
+20
+4
+3
+1
+1
+1 250pxtrail_ruins/tower/hall_3268
+207
+19
+16
+11
+11
+7
+5
+1 250pxtrail_ruins/tower/hall_4268
+210
+15
+8
+6
+5
+4
+3
+2
+1 250pxtrail_ruins/tower/hall_5221
+206
+15
+13
+6
+3
+2
+2
+1 250pxtrail_ruins/tower/large_hall_1Connects to the tower.205
+190
+74
+21
+12
+9
+1
+1 250pxtrail_ruins/tower/large_hall_2181
+178
+50
+43
+10
+4
+1
+1 250pxtrail_ruins/tower/large_hall_3200
+196
+23
+69
+20
+12
+10
+1
+1 250pxtrail_ruins/tower/large_hall_4188
+166
+49
+20
+12
+8
+1
+1 250pxtrail_ruins/tower/large_hall_5244
+117
+26
+16
+2
+1
+1 250pxtrail_ruins/tower/one_room_1Connects to the tower halls.43
+32
+11
+9
+1 250pxtrail_ruins/tower/one_room_253
+35
+2
+2
+1
+1
+1 250pxtrail_ruins/tower/one_room_344
+28
+10
+8
+1 250pxtrail_ruins/tower/one_room_444
+28
+10
+8
+1 250pxtrail_ruins/tower/one_room_516
+11
+6
+1 250pxtrail_ruins/tower/platform_1Connects to the tower.80
+77
+16
+13
+9
+8
+3 250pxtrail_ruins/tower/platform_2107
+72
+15
+14
+6 250pxtrail_ruins/tower/platform_379
+37
+9
+7 250pxtrail_ruins/tower/platform_496
+93
+11
+10
+8
+8
+7
+2
+1 250pxtrail_ruins/tower/platform_5124
+90
+13
+4
+4
+3
+1 250pxtrail_ruins/tower/stable_1Connects to the tower halls.120
+99
+47
+12
+12
+2
+1 250pxtrail_ruins/tower/stable_2123
+98
+52
+15
+10
+2
+1 250pxtrail_ruins/tower/stable_3116
+96
+47
+13
+12
+3
+1
+1 250pxtrail_ruins/tower/stable_4122
+96
+44
+14
+10
+3
+3
+1
+1 250pxtrail_ruins/tower/stable_5185
+59
+6
+1 250pxtrail_ruins/tower/tower_1Central area everything else generates from.114
+56
+39
+22
+22
+22
+11
+11
+4
+3
+1
+1 250pxtrail_ruins/tower/tower_2142
+36
+36
+23
+23
+17
+13
+5
+5
+4
+2
+1 250pxtrail_ruins/tower/tower_3207
+66
+52
+26
+22
+21
+19
+19
+16
+14
+1 250pxtrail_ruins/tower/tower_4218
+52
+25
+23
+21
+20
+18
+16
+16
+13
+12
+1
+1 250pxtrail_ruins/tower/tower_5191
+52
+42
+27
+22
+21
+16
+15
+12
+12
+3
+1
+1 250pxtrail_ruins/tower/tower_top_1The only part visible from surface. Generates on top of the tower part.17
+13
+11
+3
+1
+1 250pxtrail_ruins/tower/tower_top_234
+9
+8
+8
+1 250pxtrail_ruins/tower/tower_top_325
+15
+3
+2
+1 250pxtrail_ruins/tower/tower_top_430
+18
+1
+1 250pxtrail_ruins/tower/tower_top_523
+6
+1
+1 250px
+
+Loot
+The loot in trail ruins can be found by brushing suspicious gravel randomly generated throughout the structure. There are two types of suspicious gravel, common and rare. Their loot tables are listed below.
+
+Each structure piece (see the file structure list above for piece names) contains gravel and uses one of three processor lists to replace some of the gravel with other blocks, including suspicious gravel. All of the tower_top structure pieces and everything in the roads folder replace two gravel with two common suspicious gravel. The rest replace nine gravel with six common suspicious gravel and three rare suspicious gravel. Additionally, all of the processor lists (except for the one used for the tower_top) first replace 20% of the gravel with dirt, then 10% of the remaining gravel with coarse dirt, followed by common suspicious gravel, and finally rare suspicious gravel (if applicable). Thus, a structure piece—especially a decor structure piece—can generate less suspicious gravel than it should.
+
+Common
+
+Rare
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+One of the decor rooms with two coal blocks and brick stairs is a reference to pot baking from the original archeology showcased in Minecraft Live 2020.
+One iteration of the trail ruins took the developers 16-20 hours over the course of a few weeks to design and build.
+According to Mojang, trail ruins are "evidence of lost villager cultures – similar but distinct from the ones that exist today". Intrepid explorers recently began to uncover evidence of lost villager cultures – similar but distinct from the ones that exist today. All that remains of these civilizations are buried below the ground in heavily forested biomes, in what Mojang Studios’ archaeology team call “trail ruins”.
+
+Gallery
+Screenshots
+
+Mojang images
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+de:Pfadruine
+es:Sendero en ruinas
+fr:Ruines de sentier
+ja:旅路の遺跡
+pl:Ruiny szlaku
+pt:Trilha em Ruínas
+ru:Руины былых времён
+uk:Руїни стежки
+zh:古迹废墟

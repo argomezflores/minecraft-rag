@@ -1,0 +1,153 @@
+TITLE: Structure
+CATEGORY: Generated structures
+URL: https://minecraft.wiki/w/Structure
+---
+thumb|width=335x335|An ancient city, a structure found in deep dark biomes
+Structures (also known as a "generated structure" or "structure feature") are naturally-generated formations that can be located using  and will not spawn in the world when the "Generate Structures" option is disabled during world creation. Players can generate structures using . Certain features, such as monster rooms or desert wells, still generate when this option is disabled and are listed under  due to their resemblance to other defined structures.
+
+Overworld
+The Overworld contains numerous structures, at a wide variety of scales.
+
+Underground structures
+These structures can generate only underground in any default Overworld.
+
+Structure Biome(s) DescriptionScreenshot   Long corridors made of deepslate and wool, connecting to a central building with a frame-like structure made of reinforced deepslate. The central structure resembles a warden. Small ruins can be found scattered around the ancient city containing loot chests inside. Since this structure generates in the deep dark biome, it contains many sculk sensors, shriekers, and catalysts.frameless
+
+A hidden chest containing valuable loot that spawns in coastal biomes. They are found using treasure maps located in shipwrecks and occasionally ocean ruins. The most notable item in buried chests is the heart of the sea, which is guaranteed to be found. Other common loot that can be found are diamonds, iron and gold ingots, emeralds, TNT, and potions.frameless  All overworld biomes except the deep dark A maze of corridors supported by oak fences, with incomplete rail systems on which minecarts with chests can generate. Cave spider spawners may generate here heavily surrounded by cobwebs. In badlands biomes, they use dark oak planks instead of oak planks, and may generate close to the surface.frameless  All overworld biomes Strongholds in Minecraft are generated with maze-like underground structures composed of various specialized rooms, including the essential End portal room, libraries, prison cells, and storage areas. The End portal in the stronghold is the only way to access the End dimension, and it requires eyes of ender to activate. Eyes of ender are also used to locate the stronghold.frameless
+
+A group of ruined buildings meant to resemble small, ancient settlements. The entire structure is buried underground except for the tip of the tower, which is exposed to the surface. The structure can contain suspicious gravel with various archaeology items.frameless  All overworld biomes except the deep dark A large underground structure made of copper and tuff-related blocks, featuring trial spawners and vaults in challenging combat rooms. It is the only place where the breeze is found, as well as the heavy core in vault loot.frameless
+
+Above ground structures
+These structures generate only aboveground.
+
+Structure Biome(s) DescriptionScreenshot
+
+A small tent full of items, from oxidized copper golem statues to utility blocks, such as the crafting table, cauldron, and straw beds. Abandoned camps are built out of wool stairs and fences, and have different appearances for each biome. Barrels, chests, and cushions are scattered in and around the structure with loot, and rarely a hidden copper chest contains more valuable loot.frameless
+Large sandstone buildings containing four chests with loot in an underground room hidden beneath terracotta. The chests are trapped with TNT that detonates when a stone pressure plate in the center is stepped on, destroying the chests and their contents. There is also a buried side room with suspicious sand.frameless
+
+Snow buildings that may have a basement hidden under a white carpet. The igloo itself contains little of value, but the basement has a villager and a zombie villager held captive behind iron bars. Acting as a tutorial, the basement contains all ingredients to cure the zombie villager, including a splash potion of Weakness on a brewing stand and golden apple in a chest.frameless
+
+Overgrown cobblestone structures containing two loot chests, with one trapped with two dispensers firing arrows by redstone and the other hidden behind a lever puzzle. Setting the correct combination for the lever puzzle moves a block on the main floor, revealing a hidden cavity and the chest.frameless
+
+peak biomes
+
+An assortment of structures spawning pillagers. The main feature of interest is the watchtower: a tall structure built with wood and cobblestone that generates a loot chest in the top floor. Located around the watchtower are up to four small structures, including tents, target scarecrows, and wooden cages sometimes containing an iron golem or a group of up to 3 allays.frameless
+Swamp huts are small wooden buildings on top of log stilts containing a cauldron with a random potion and crafting table. Upon their generation, one black cat and one witch occupy the structure's area and the mobs do not despawn naturally. The huts can be used to create a witch farm, as replacement witches spawn automatically.frameless
+
+A town full of houses and job sites inhabited by villagers with random professions and up to two iron golems defending the village. They are constructed with a wide variety of materials and different architecture, depending on the biome that they generate in. Villages also contain farms with animals and crops, and cats spawn commonly around the houses.
+Villages can rarely generate as abandoned villages where zombie villagers spawn instead of villagers. Houses no longer have torches, some blocks are broken and replaced with cobwebs or mossy cobblestone, and no iron golems spawn.frameless
+frameless
+
+Massive, systematically-generated buildings constructed with dark oak and a cobblestone foundation. They contain many rooms (some hidden) and loot chests scattered across their three floors, and are inhabited by vindicators and evokers that do not naturally despawn or respawn when defeated. Allays can sometimes be found in prison cells.frameless
+
+Aboveground and underground structures
+These structures generate both aboveground and underground.
+
+Structure Biome(s) DescriptionScreenshot  All overworld biomes except the deep dark An incomplete Nether portal constructed with various types of stone materials. They can generate in varying sizes and positions, on the surface, underwater, and in caves. A netherrack platform generates underneath, as well as a loot chest and a few gold blocks.frameless
+
+Underwater structures
+These structures generate below the sea level i.e. y=64 and in the Ocean biomes.
+
+Note that ocean ruins and shipwrecks sometimes generate above water on shores, and icebergs are partially above and below water.
+
+Structure Biome(s) DescriptionScreenshot
+
+Massive prismarine temples inhabited by guardians and three elder guardians in fixed positions. Wet sponges, along with eight blocks of gold as treasure, also generate naturally here. The interior structure is randomly generated, resembling a maze.frameless
+
+A collection of small structures made of stone bricks or sandstone depending on the ocean temperature. Drowned may spawn naturally here. Along with loot chests, they contain suspicious sand or suspicious gravel. Suspicious sand in warm ocean ruins is the only way to get the sniffer egg.frameless
+
+Wooden structures resembling sunken ships in varying states of deterioration, containing up to three loot chests. Sometimes they can generate on land.frameless
+
+The Nether
+The Nether, though equally vast, contains far fewer structures than the Overworld.
+
+Structure Biome(s) DescriptionScreenshot
+
+Enormous, castle-like blackstone structures housing piglins and piglin brutes. They can generate in various forms (bridges, housing units, hoglin stables, and treasure rooms) and chest loot varies from one form to the next. Large quantities of gold blocks generate within the structure and this is the only place where netherite upgrades can be found.frameless  All nether biomes Towering castles made of Nether bricks that contain blaze monster spawners and Nether wart farms. They are divided into open-air ramparts and winding interior corridors, some of which contain loot chests. Wither skeletons and blazes exclusively spawn here.frameless   Fossil variants that are more incomplete and purely composed of bone blocks. Dried ghasts may sometimes generate near Nether fossils.
+, this is technically a feature rather than a structure-like feature.frameless  All nether biomes Similar to the Overworld ruined portal, this is an incomplete Nether portal constructed with blackstone materials instead of stone. They can generate in varying sizes and positions, with a loot chest and a few gold blocks.frameless
+
+The End
+The End is the final and most barren dimension. After defeating the ender dragon, gateways to the outer islands are created.
+
+Structure Biome(s) DescriptionScreenshot   The End
+
+Sprawling, well-connected towers built from purpur blocks, End stone bricks, and magenta stained glass. They are inhabited by shulkers that guard valuable loot chests, and may generate an End ship holding an elytra.frameless
+
+Structure-like features
+
+These world generation features share similarities with structures but are generated in the same manner as trees and ores. They will generate even when the "Generate Structures" option is disabled. These cannot be located using the  command.
+
+Features Biome(s) Description Screenshot  All overworld biomesLarge, hollow spherical rocks composed of outer layers of smooth basalt and calcite with an inner layer of amethyst blocks. This is the only place where budding amethyst, amethyst buds, amethyst clusters and amethyst blocks can be found. They come in many sizes, including open geodes and entirely encased geodes.frameless  All overworld biomes (near the world spawn) A chest with beginner loot, that spawns near the world spawn if the feature was toggled on when creating the world.frameless
+
+Small sandstone feature holding water in their center cavity with suspicious sand below.frameless
+
+The End A 1-block portal that activates after the ender dragon is defeated. Using an ender pearl, the player can teleport to the outer regions of the End. They generate infinitely throughout the world as gateways back to the main island.frameless
+The End An obsidian platform that repairs itself when any entity enters the End.frameless   The End Tall obsidian pillars that hold the End crystals. Some of them also have iron bars.frameless   The End A feature that looks like a fountain. It becomes the only portal to the Overworld and a dragon egg spawns on it after the player defeats the ender dragon.frameless
+
+Usually buried feature made of bone blocks and coal or diamond ore depending on the altitude.frameless  All overworld biomes A small cobblestone room containing a monster spawner, which spawns zombies, skeletons, or spiders, as well as up to two loot chests. They are typically connected to underground caves but may generate above ground or intersected with true structures such as mineshafts or strongholds.frameless   The Void
+A platform made of stone with a cobblestone block in the center. They can spawn only in superflat worlds with "The Void" preset selected.frameless
+
+Removed structures
+
+These are structures that have been removed or exist only in older versions of Minecraft.
+
+Structure Biome(s) Description  Anywhere, since biomes did not exist at the time. A giant pyramid that had no interior and was made solely out of bricks. It was made to test structure generation. The official name for this structure is unknown. It was removed in Java Edition Infdev 20100327.  All overworld biomes A tall, 1×1 glass pillar that stretched from the End portal room in the stronghold all the way to the build limit. According to Jeb, it was a debug feature that he forgot to remove. It was removed in the version Java Edition Beta 1.9 Prerelease 4.  Anywhere in Java Edition Indev. Used to serve as the spawn location for the player during the Indev phase. The first edition of this house was made of mossy cobblestone, but later it was changed to wooden planks. It also originally included chests that contained various items, which were later removed.  Anywhere in Java Edition Infdev. Chunk-sized patches of terrain that would generate up to the height limit. They were never intended to be in the game as they were just a "glitch". Monoliths were patched in the version Alpha v1.2.0 Preview.  Anywhere, as it's built by the player. A player-built structure that would turn into the "Nether Spire", and would give the player access to unobtainable items. The reason for its addition is because the Nether did not exist  back then. It was then removed after the addition of the Nether in Pocket Edition.  Anywhere where the Nether reactor was built. A tall and round structure that spawned over the Nether reactor. It was made out of obsidian, which was later changed to netherrack. It would spawn various zombie pigmen and items from the Nether. Its purpose was to enable the players on Pocket Edition to obtain certain items, since the Nether was not implemented yet.  Anywhere, as it stretched toward every cardinal direction. A 2 block tall obsidian wall that was present during some versions of the Infdev phase. It started in the middle of the world, and stretched toward north, south, west and east. This structure doesn't have an official name.
+
+Generation
+
+Structures are generated for a given chunk after the terrain has been formed. The chunk format includes a tag called  that indicates whether structures whose "point of origin" is in that chunk have been generated. If it is false or missing, it generates again. Structure generation is based on what is already in the chunk, so (for example) flagging a chunk that has already been populated for repopulation approximately doubles the amount of ore in it. When structures are generated, they can spill over into neighboring chunks that have been previously generated.
+
+Data values
+ID
+The following table lists configured structure features' IDs  and structure features' IDs . These IDs can be used in  command.
+
+Structure nameJava EditionBedrock EditionDimensionOverworldThe NetherOverworldThe EndThe NetherOverworldOverworldOverworldNot a StructureThe NetherOverworldOverworldOverworld, The NetherOverworldOverworldOverworldOverworldOverworldOverworld
+
+Tags
+
+, there are some structure tags in vanilla game.
+
+TagStructure(s)#cats_spawn_as_black#cats_spawn_in#dolphin_located#eye_of_ender_located#mineshaft#ocean_ruin#on_ocean_explorer_maps#on_treasure_maps#on_trial_explorer_maps#on_woodland_explorer_maps#ruined_portal#shipwreck#village
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+See also
+Biome
+Feature
+Generated structures data file format
+Jigsaw Block
+Structure Block
+Air
+
+External links
+Rare Structures in Minecraft – Minecraft Help Center
+
+Navigation
+
+Category:Structures
+
+de:Bauwerk
+es:Estructura
+fr:Structure
+it:Struttura
+ja:構造物
+ko:생성 구조물
+lzh:構
+nl:Gegenereerde structuren
+pl:Układy generowane
+pt:Estrutura
+ru:Натуральная структура
+th:โครงสร้าง
+uk:Структура
+zh:生成结构

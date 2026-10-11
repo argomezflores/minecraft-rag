@@ -1,0 +1,130 @@
+TITLE: Cave Spider
+CATEGORY: Neutral mobs
+URL: https://minecraft.wiki/w/Cave_Spider
+---
+A cave spider is a smaller spider variant that naturally spawns in sulfur caves. It behaves similarly to a normal spider, but has less health and inflicts Poison with its melee attacks on Normal and Hard difficulty.
+
+Spawning
+thumb|right|Size of a cave spider (left) compared to a regular spider (right).
+
+Natural spawning
+Cave spiders replace all spider spawns in sulfur caves.
+
+Monster spawners
+Cave spiders spawn from monster spawners in mineshafts at a light level of 0. These monster spawners are surrounded by cobwebs in corridors.
+
+Trial spawners
+Cave spiders have a 25% chance to be selected as the "small melee" mob for trial spawners in trial chambers.
+
+Spider jockeys
+
+There is a 1% chance for a cave spider to spawn with a skeleton riding it, forming a cave spider jockey. The skeleton has an 80% chance to be replaced by a stray, bogged, parched, or wither skeleton in the biomes where they spawn. Similar to regular spiders, the skeleton controls how both mobs move. Cave spider jockeys can fit through smaller gaps than spider jockeys.
+
+Drops
+
+On death
+
+when killed by a player or tamed wolf.
+
+Behavior
+Cave spiders inherit their behavior from spiders:
+They are neutral if under daylight or in light levels of 12 or above, otherwise hostile toward players and iron golems. Once they become hostile, light does not affect them.
+They attack by leaping and biting.
+They are unaffected by cobwebs and Poison.
+They are scared of armadillos.
+
+They have some distinctions from regular spiders:
+They can fit through a space that is one block wide and  block tall.
+They can go through the spaces between two different types of (unconnected) fences.
+They cannot spawn with status effects in Hard difficulty.
+They flip 90° upon death.
+
+Being arthropods, they are weak against weapons with the Bane of Arthropods enchantment.
+
+Unlike other neutral mobs, cave spiders don't count toward the  tag.
+
+The red eyes of cave spiders are emissive with Vibrant Visuals, making them easily distinguishable in the dark caves where they spawn.
+
+Poison
+On Normal or Hard difficulty, cave spiders inflict  upon attacking. On Normal difficulty, the Poison lasts for 7 seconds and causes  damage. On Hard difficulty, it lasts for 15 seconds and causes . Poison damage is not taken when the player's health is at .
+
+Jockey
+
+thumb|width=165x165|A cave spider ridden by a baby zombie
+15% of nearby baby zombies, husks, or drowned may ride a cave spider that was not spawned as a spider jockey, to form a jockey.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Cave spiders have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+While a cave spider's hitbox is only 13.9% the volume of a normal spider's, its model's volume is 34.3% as large. The shadow is even larger: compared to the normal spider's shadow it has an area of 49%.
+
+Gallery
+Screenshots
+
+Textures
+
+In other media
+
+References
+
+External links
+Meet the Cave Spider – Minecraft.net on September 5, 2017
+
+Navigation
+
+Category:Neutral mobs
+Category:Monster mobs
+Category:Arthropod mobs
+
+cs:Jeskynní pavouk
+de:Höhlenspinne
+es:Araña de cueva
+fr:Araignée venimeuse
+hu:Bányapók
+it:Ragno delle caverne
+ja:洞窟グモ
+ko:동굴 거미
+nl:Grottenspin
+pl:Pająk jaskiniowy
+pt:Aranha das Cavernas
+ru:Пещерный паук
+uk:Печерний павук
+zh:洞穴蜘蛛

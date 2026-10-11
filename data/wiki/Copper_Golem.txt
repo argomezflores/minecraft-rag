@@ -1,0 +1,183 @@
+TITLE: Copper Golem
+CATEGORY: Passive mobs
+URL: https://minecraft.wiki/w/Copper_Golem
+---
+A copper golem is a buildable passive mob that takes items out of copper chests, and attempts to store them in nearby wooden chests and trapped chests. A chest examined by a copper golem must either be empty, or contain the item type it is holding, for the golem to place anything inside of it.
+
+If not waxed, a copper golem oxidizes over time and eventually turns into a copper golem statue, dropping its currently held items.
+
+Spawning
+Creation
+
+A copper golem is created by placing a block of copper of any oxidation stage, then placing a carved pumpkin or jack o’lantern on top. The pumpkin must be placed last, whether by the player, a dispenser, or an enderman. The building pattern also works horizontally or upside-down, as long as the pumpkin is the final block placed.
+
+On creation, the block of copper is replaced by a copper chest oriented the same way as the pumpkin, and a copper golem spawns at the location of the pumpkin. A waxed block of copper can also be used, but the golem and the chest will not be not waxed. The oxidation stage of the copper golem and the copper chest matches that of the block of copper used to create it (with the exception below). If the resulting chest is placed next to an existing copper chest with a matching orientation, the two chests combine into a large copper chest as they would if the new copper chest had been placed manually, including the effect where the more oxidized chest is changed the same oxidation state as the less oxidized chest and both are unwaxed.
+
+Reanimation
+an axe on an unwaxed and unoxidized copper golem statue causes it to reanimate into a copper golem.
+
+When using a copper golem spawn egg, it spawns the golem on its own, without a copper chest. A copper golem spawned this way is unoxidized and unwaxed.
+
+Drops
+On death
+
+Shearing
+When a copper golem has been given a poppy by an iron golem, it can be sheared to drop 1 poppy.
+
+Behavior
+When idle, copper golems wander aimlessly while avoiding obstacles and environmental hazards. Copper golems can also open and close non-iron doors (and try to open them whenever possible). They occasionally spin their heads or stare at players. They are completely passive to players and other mobs, and run around in a panic if attacked. Unlike most other passive mobs, copper golems do not suspend their behavior when more than 32 blocks from a player.
+
+When in a body of water, copper golems sink to the bottom. They do not swim or drown, but they can still move laterally and step up full blocks as if they were on land, similar to iron golems and undead mobs.
+
+Like iron golems and snow golems, copper golems do not take fall damage. However, they still avoid walking off drops that would otherwise cause them harm.
+
+The yellow eyes of copper golems are emissive with Vibrant Visuals, and the rest of the body is metallic, reflecting all types of light.
+
+Chest interactions and item transportation
+thumb|200px|A copper golem taking an item from a copper chest (the chest is excluded for clarity)
+If a copper golem is not holding an item, it opens the nearest copper chest and attempts to take out up to 16 of the first item it finds. It takes 3 seconds to stop and examine each copper chest it visits. If the copper chest is empty, the copper golem moves on to the nearest copper chest it has not opened. The copper golem can remember up to 9 copper chests that it has previously opened. If it checks 10 copper chests and still cannot find an item, it wanders around for 7 seconds, forgets which copper chests it has opened, and continues searching for a copper chest to take items from.
+
+If a copper golem is holding one or more items, it opens the nearest wooden chest or trapped chest and attempts to put the items into it. It takes 3 seconds to stop and examine each chest it opens. If the chest is empty or if the chest contains the same type of item that the copper golem is holding, the golem attempts to add its items to the chest. , a copper golem cannot distinguish between different potion contents, types of tipped arrows, or suspicious stew types, but it can . In both editions, a copper golem ignores durability, enchantments, the contents of shulker boxes and bundles, custom names, or any other data. Copper golems do not search the contents of bundles or shulker boxes when determining if a chest contains an item. While a copper golem is holding an item, the player can press  on the golem with an empty hand to take the item from it, dropping the item on the ground.
+
+If it cannot add items to a chest, the copper golem moves on to the nearest chest that it hasn't visited. The copper golem can remember up to 9 chests it has previously visited. If it checks 10 chests and still cannot place its items, it wanders around for 7 seconds, forgets which chests it has opened, and continues searching for a chest to put its items in. The copper golem forgets all the chests that it has previously visited when it successfully deposits an item in a chest.
+
+Copper golems cannot see the contents of chests (either wooden or copper) without manually opening and examining them, and do not remember correct item matches.
+
+When a copper golem deposits items in a chest, it attempts to add them to the frontmost available slot. If the deposited item is stackable, it avoids adding to existing stacks in any slot other than the frontmost available one.
+
+If the chest or copper chest a copper golem is walking toward can no longer be opened (e.g. it has a cat sitting on it) or is destroyed, the copper golem marks the position as visited and moves on.
+
+Copper golems do not simultaneously open a chest that another non-player entity, such as another copper golem, is already interacting with.
+
+Copper golems search for chests and copper chests in a 65×17×65 area centered on the copper golem's block position. Copper golems cannot interact with chests located more than one block above them or more than two blocks below them. However, they try to reach chests if they can find a path. If a chest is two blocks below them, copper golems fall on the chest, even if they cannot come back up.
+
+Copper golems interact only with wooden chests, trapped chests and copper chests. They ignore items dropped on the ground, ender chests, minecarts with chests, barrels, boats with chests, and all other containers.
+
+Copper golems can interact with chests while in a minecart or a boat if copper chest and other chest are within reach distance and they have enough time to interact with the chest.
+
+Oxidation
+thumb|right|The four stages of copper golem oxidation
+
+Non-waxed copper golems have four stages of oxidation (unoxidized, exposed, weathered, and oxidized). Shortly after becoming fully oxidized, a copper golem turns into a statue.  an axe on an oxidized copper golem removes the oxidation from the golem one stage at a time, as do lightning bolts.
+
+Copper golems can be waxed with a honeycomb to prevent the oxidation from progressing, lightning bolts from removing the oxidization, or fully oxidized golems from turning into statues. Wax can be removed by  an axe on the golem. , unlike copper blocks, waxing or unwaxing a copper golem does not grant the "Wax On" and "Wax Off" advancements.
+
+A copper golem takes between 7 hours and 7 hours and 40 minutes (420–460 minutes, or 21–23 in-game days; plus one tick if the mob is in its initial state or was just scraped with an axe) to oxidize to the next stage. Since the timer is based on gametime, it advances even if the golem is not located in a loaded chunk. As the mob begins to oxidize (exposed copper golem), it becomes discolored and develops green spots. As the oxidation continues (weathered copper golem), the mob becomes a green color with brown spots. In the last stage (oxidized copper golem), the mob is teal with several green spots. Like copper bulbs, the texture of the eyes of the copper golem dims as it oxidizes. However, the golem itself does not emit any light, regardless of oxidation level.
+
+Turning into a statue
+
+Once fully oxidized, a copper golem has a 0.58% chance per tick to become a copper golem statue and take a random pose, provided it is not waxed and is fully located in air (that is, a copper golem cannot turn into a statue while underwater or standing on a partial block such as a slab, as part of its hitbox is not located within an air block). Copper golems also cannot turn into statues when above or below the build height limit. This process takes on average 8.62 seconds. During the transformation, any items held by the copper golem are dropped. If the golem was named using a name tag, it keeps its custom name.
+
+an axe on a copper golem statue removes the oxidization one stage at a time. If the statue is unoxidized, scraping it with an axe reanimates it into an unoxidized copper golem.
+
+Poppy
+thumb|A copper golem with a poppy on its head.
+Iron golems occasionally hold out a poppy, which a copper golem can take and place on top of the rod on its head. Using shears on the copper golem drops the poppy. Alternatively, it drops when the copper golem turns into a copper golem statue.
+
+Sounds
+Generic
+:
+
+:
+
+Regular and exposed sounds
+:
+
+:
+
+Weathered sounds
+:
+
+:
+
+Oxidized sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Copper golems have entity data associated with them that contain various properties.
+
+:
+
+Entity data
+
+: unaffected, exposed, weathered, or oxidized - the oxidation level of the copper golem
+: The number of ticks gametime must reach for the copper golem's oxidation level to change. Setting the value to -1 automatically sets the oxidation time randomly from 504000 to 552000 + the current gametime. If the value is -2, the copper golem is waxed (it remains unchanged over time).
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+Achievements that apply to all mobs:
+
+Advancements
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The copper golem's original design pitch was made by developer Ulraf. https://youtu.be/2cxUNoWNy50?t=2542
+Spinning animation variants for the weathered and oxidized copper golem exist within the animation files, but as of now they share the same animation as the unoxidized spinning animation.
+Sprites of copper golems appeared as an easter egg in the 2022 Mob Vote Event, 2023 Mob Vote Event, and the Eerie Mojang Office Party server.
+The copper golem became the second community vote losing mob to be later added to the game, having lost the 2021 mob vote to the allay, after the frog and mangrove swamp content was implemented in The Wild Update.
+
+Gallery
+
+Textures
+
+Renders
+
+Animations
+Unoxidized
+
+Exposed
+
+Weathered
+
+Oxidized
+
+Screenshots
+
+Mojang screenshots
+
+Concept artwork
+
+In other media
+
+Mob vote artwork
+
+References
+
+Navigation
+
+Category:Golem mobs
+Category:Passive mobs
+
+de:Kupfergolem
+es:Gólem de cobre
+fr:Golem de cuivre
+it:Golem di rame
+ja:カッパーゴーレム
+ko:구리 골렘
+lzh:銅傀儡
+pl:Miedziany golem
+pt:Golem de Cobre
+ru:Медный голем
+uk:Мідний ґолем
+zh:铜傀儡

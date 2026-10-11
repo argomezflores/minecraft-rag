@@ -1,0 +1,290 @@
+TITLE: Zombie Villager
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Zombie_Villager
+---
+A zombie villager is a variant of the zombie that can be cured into a normal villager by using a golden apple on it while it is under the effect of Weakness.
+
+Spawning
+thumb|A plains zombie villager with an enchanted iron sword
+, when zombies spawn during the normal cycle, there is a 5% chance that one of them will be replaced with a zombie villager. This chance increases to 20% in old growth pine taiga biomes.
+
+, when zombies spawn during the normal cycle, there is a 5% chance that 2–4 of them will be replaced with zombie villagers.
+
+Converting
+Additionally, if a zombie, husk, drowned, frostbite, zombie villager, or zombified piglin kills a villager, from either a melee or ranged attack, that villager has a chance of turning into a zombie villager depending on the game difficulty.
+
+DifficultyChanceEasy0%Normal50%Hard100%
+
+In Java Edition,  a converted zombie villager does not despawn if the player has traded with it at least once prior to its conversion, but unlike all other persistent mobs it still counts toward the hostile mob cap. If the zombie villager picks up any item however, it remains persistent but is excluded from the mob cap.  all converted zombie villagers are persistent.
+
+Abandoned villages
+Zombie villagers may also spawn as part of abandoned villages during world generation, the number of which depends on the buildings in that village, as some buildings generate zombie villagers inside and some do not. Like villagers, the zombie villagers’ biome outfits are based on the type of village. These zombie villagers are persistent and do not despawn. In , these zombie villagers can open doors instead of breaking them.
+
+Igloo basements
+A zombie villager appears alongside a cleric villager in every igloo basement (a normal zombie villager in Bedrock Edition and a cleric zombie villager in Java Edition), both locked in small cages behind iron bars. One of them transforms into a leatherworker, due to the workstation (a cauldron). The zombie villager is persistent and does not despawn.
+
+Reinforcements
+
+On Hard difficulty, all zombie villagers have a 0-10% chance to spawn other zombie villagers as reinforcements when receiving damage while targeting an entity. Additionally, up to 5% of zombie villagers spawn as leaders, getting a 50-75% boost to that chance.
+
+Variants
+Baby zombie villagers
+Baby zombie villagers make up 5% of zombie villager spawns. They behave similarly to regular zombie villagers, with the following differences:
+They are 30% faster than normal zombie villagers, yet they have the same health.
+The noises they make are higher-pitched than adult zombie villager sound effects.
+, baby zombie villagers have a chance to spawn as a chicken jockey.
+, baby zombie villagers have a 15% chance to spawn as a jockey, but cannot ride mobs due to .
+Baby zombie villagers become baby villagers when cured.
+Worn armor shrinks to fit their body size.
+They drop 12 experience when killed by the player or a tamed wolf instead of 5.
+Unlike most other baby mobs, they remain babies indefinitely and never become adult zombie villagers, therefore golden dandelions do not work.
+They have a decreased hitbox size.
+
+Baby zombie villagers are spawned when a zombie kills a baby villager, with the chance of infection being the same as adult zombie villagers. Baby zombie villagers also spawn naturally, but the combined chance (5% villagers × 5% babies) is low at 0.25% (or 1 in 400 chance) of all newly spawned zombies.
+
+Jockeys
+
+, 15% of naturally spawned baby zombie villagers can start riding a skeleton horse and become a jockey after it spawns. They are also supposed to ride mobs that baby zombies, baby husks, and gurgles ride but do not due to .
+
+This is due to the fact that in the  file, in the  component group, it has the  component, which has , which makes the baby zombie villager able to ride mobs. However in the  event, the { "test": "has_component", "operator": "!", "value", "minecraft:is_baby" } entity filter tries to prevent adding professions to babies, but filters like this only apply when in a "lifetime" event, not a spawning event. Thus, this filter has no effect on the baby zombie villagers that spawn. The component groups of the professions that zombie villagers have contain the  components that override the  component group's  component, preventing baby zombie villagers being part of the  family, which prevents them from riding mobs. However, they are still part of the  family, and skeleton horses are rideable by mobs in said family, which means that baby zombie villager jockeys can only search for nearby skeleton horses to mount.
+
+Using the  command, it is possible to make a "converted" baby zombie villager ride:
+
+Villager variants
+A zombie villager retains its biome outfit and profession after zombification from a villager. They also retain their trades. Zombie villagers with a profession cannot work at a job site block.
+
+Below is a table listing the various biome outfits and professions, along with the specific job site block that each profession requires:
+
+Variant spawning
+A zombie villager has variants depending on what biome it had spawned in, a Plains variant spawning in Sunflower Plains is an example.
+
+Plains variant
+Taiga variant
+Jungle variant
+
+Savanna variant
+
+Snowy variant
+
+Swamp variant
+
+Desert variant
+
+Drops
+On death
+
+Any picked-up equipment has a 100% chance of dropping on death or when cured and drops with the same damage level it had when picked up.
+
+Taken equipment
+When a zombie villager dies, all of its picked-up equipment drops without changing the damage that has accumulated on it . , the armor's durability is still vulnerable to attacks, as if a player is wearing it.
+
+Naturally-spawned equipment
+In , a zombie villager can spawn with any of the following:
+Zombie villagers spawn with pumpkins and jack o'lanterns only during Halloween.
+
+(sometimes enchanted)
+(sometimes enchanted)
+(sometimes enchanted)
+(sometimes enchanted, made from leather, copper, gold, chainmail, iron or diamond)
+
+Zombie villagers have an 8.5% chance of dropping their naturally-spawned equipment (other than Halloween pumpkins), and drop it with a random durability. Each level of Looting increases the chance by 1 percentage point (11.5% with Looting III).
+
+Experience
+Adult zombie villagers drop  and baby zombie villagers drop  when they are killed by a player or a tamed wolf. Any zombie villager that spawns with equipment drops an additional  per item.
+
+Behavior
+
+Zombie villagers behave like ordinary zombies, except that they do not convert into drowned when submerged in water or into frostbites when freezing in powder snow.
+
+Zombie villagers that were converted from villagers retain their professions and clothes, which gain a tattered appearance. Naturally spawned zombie villagers (or ones spawned with spawn eggs) have a random profession, and can also spawn with unemployed or nitwit outfits. , due to a bug, baby zombie villagers can have professions.
+
+, zombie villagers are never spawned as part of a zombie siege, but if a zombie villager naturally spawns nearby, it will join the siege and behave like all other zombies.
+
+Using spears
+Zombie villagers wielding spears have different attacking behavior. When attacking, they use the spear's charge attack while moving toward their target. They hold the charge through its full duration, using all 3 stages. Once the charge attack has ended or they get too close to their target, they walk away to increase the distance between them and their target before turning around to begin another charge. If a zombie villager accidentally damages a neutral or hostile mob (except goats) with a spear's charge attack, the mob retaliates and attacks that zombie villager.
+
+Mob type
+Being an undead mob, they are:
+damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+unaffected by the status effects Regeneration and Poison.
+ignored by the wither.
+affected by the Smite enchantment.
+a threat to armadillos, causing them to hide in their shell.
+
+As they are undead and do not grow up, golden dandelions do not work on baby zombie villagers.
+
+Picking up items
+
+Like zombies, some zombie villagers spawn with the ability to pick up dropped items from the ground in Normal and Hard difficulty, with the chance being higher in the latter. , zombie villagers pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+Standard zombie villagers can pick up all items except for glow ink sacs. Chicken jockey riders also cannot pick up any variant of an egg.
+
+If the picked up item is armor, the zombie villager equips the armor into its respective armor slot. Carved pumpkins and heads are worn on their heads, and elytra are worn in the their chestplate slot. If the picked up item is a shield, the zombie villager equips it to their offhand. It cannot use the shield to block incoming attacks, however.
+
+If a zombie villager encounters another similar item, it may drop the previous item in favor of the new one if:
+both items are armor/weapons and the new item is better damage-wise (reduces higher damage for armor, or inflicts more damage for weapons) without considering enchantments,
+both items are armor/weapons with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is less damaged than the old item
+
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+
+A zombie villager equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Picked-up items do not cause the zombie villager to drop more experience when killed, unlike naturally-spawned gear.
+
+In , due to a bug, zombies villagers, as well as zombies, husks, and drowned can also wear horse armor, nautilus armor, and wolf armor.
+
+Geared zombie villagers
+
+Along with skeletons and regular zombies, some zombie villagers are capable of picking up dropped items. These zombie villagers automatically pick up and hold any item that they come across (except jack o'lanterns, mob heads and pumpkins, as these are worn on their heads), and use any armor, weapons, or tools picked up. If they encounter another similar item, they pick it up and drop their previous item:
+
+if the new item is armor or a sword and the old item was not (for example, zombie villagers prefer swords to pickaxes and helmets to pumpkins),
+if both items are armor/swords and the new item is better damage-wise (reduces more damage for armor, or inflicts more damage for swords),
+if both items are armor/swords with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is more damaged than the old item, or
+if both items are bows and the new item has NBT tags while the old does not.
+
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+
+Armor worn by zombie villagers is not damaged from most damage sources, which means it cannot "wear out" the way player armor does. Helmets (not blocks like pumpkins) on zombie villagers can wear away and break if the zombie villager is exposed to daylight, or has an anvil or other falling block dropped on its head. Zombie villagers also have a natural armor rating of , which gives 1.6 - 8% damage reduction from most sources.
+
+Some zombie villagers that are capable of picking up items spawn already in possession of such items, and those items may also be enchanted. The chances of that event are listed below. If a zombie villager spawns wearing multiple pieces of armor, the armor is never mismatched (i.e. all pieces are made of the same material).
+
++Chances of zombie villagers wearing or picking up armor, per difficulty  Easy Normal Hard Can pick up loot 0% 0%-55% 6.875%-55% Armor 0% 0%-15%Value is based on the regional difficulty. 1.875%-15% Armor enchantment 0% 0%-50% 6.25%-50% Weapon chance of an iron sword,  chance of an iron spear,  chance of an iron shovel 1% 1% 5% Weapon enchantment 0% 0%-25% 3.125%-25%
+
+If a zombie villager does spawn with armor, the chances of specific armor are as follows:
++ Chances of different armor pieces, per difficulty Armor Easy & Normal Hard Helmet 100% 100% Helmet & chestplate 75% 90% Helmet & chestplate & leggings 56.25% 81% Full set 42.19% 72.9%
+
+The chances of particular materials are:
+
++ Chances of different armor types Armor type Chance Leather 23.60%  Copper 32.23% Gold 33.29% Chain 9.73% Iron 1.10% Diamond 0.04%
+
+Any zombie villager that spawns with equipment (picked-up items don't count) drops 1–3 extra experience per item.
+
+Curing
+
+Zombie villagers can be cured (converted to normal villagers) by first giving them the Weakness effect, which can be applied by:
+A splash potion of Weakness thrown by the player, a dispenser, or a witch.
+A lingering potion of Weakness thrown by the player or a dispenser.
+An arrow of Weakness shot by the player, a dispenser, or a parched.
+An area effect cloud caused by the explosion of a creeper inflicted with Weakness.
+The  command, if cheats are enabled.
+
+The weakened zombie villager must then be healed by  a (non-enchanted) golden apple on it. The zombie villager begins to shudder to signal that curing is in progress. Also, the Weakness effect is removed, replaced by Strength for the duration of the curing process. An internal countdown timer is then started, counting down the total time to cure.
+
+Time to cure is initially a random integer between 3600 and 6000 ticks (180 to 300 seconds, 3 to 5 minutes). On each tick, there is a 1% chance for the game to look for cure accelerants. It checks each block within a 9×9×9 cube centered on the villager for either iron bars or a bed (either half of a bed, detected separately; copper bars are ignored). For each one found up to 14, there is a 30% chance of decreasing the countdown timer by 1 more tick. Therefore, having at least 14 half-beds and/or iron bars within range speeds up conversion by an average of 4.2%.
+
+During the curing process, the zombie villager behaves like a normal zombie except that it gains Strength (with a potency that doesn't depend on the difficulty level). Thus, a zombie villager is more dangerous during curing than at other times.
+
+At the end of the curing process, the zombie villager transforms into a villager and gains the Nausea effect for 10 seconds (which has no effect on the villager's behavior). If it was holding any item it picked up, that item is dropped (unless it was enchanted with Curse of Binding, in which case it remains in the villager's inventory but is not worn and does not drop if the villager is killed). If it was a baby before it was transformed into a zombie villager, it remains a baby after the cure. If it had traded with a player at least once, it recovers its former profession and inventory of trades. Otherwise, it recovers its profession but might immediately change it if it finds and claims a workstation block for a different profession.
+
+A newly-cured villager, if it had a profession prior to being zombified, offers a trading discount to the player who administered the cure. These discounts are permanent. If a villager is cured more than once, no additional discounts are applied. Villagers near the cured villager are also affected but offer fewer, smaller discounts.
+
+Zombie villagers that are in the process of converting do not despawn if the player moves far away from them, but like all monsters, they despawn if the difficulty is changed to Peaceful.
+
+Specific to Java Edition
+If a zombie villager spawned as a nitwit or was a nitwit before it was transformed into a zombie villager, it remains a nitwit if cured.
+If cured, naturally spawned zombie villagers keep their profession for one tick then become unemployed.
+A cured villager gains both the permanent and the temporary but spreadable type of positive gossip from curing.
+There is a bug whereby if a zombie villager chicken jockey is recently cured, the baby villager will still ride the chicken. The rider will grow to a normal villager after 20 minutes and, if struck by lightning, can be turned into a witch jockey.
+
+Specific to Bedrock Edition
+A former nitwit zombie villager becomes an unemployed villager and can learn a profession after the cure.
+Villagers in a range of 16 blocks in a cube surrounding the cured villager also offer a small discount proportional to the number of cured villagers (up to 10).
+Saving and reloading the world causes the curing process to finish as soon as the chunk containing the villager is ticked. This does not happen if the player moves out of range, then returns: In that case, the countdown timer pauses until the player returns.
+After the curing process, naturally spawned zombie villagers can gain a different profession from the one they had while zombified.
+
+Jockey
+
+thumb|width=165x165|A plains zombie villager ridden by a baby zombie
+15% of nearby baby zombies, baby husks, gurgles, or baby frostbites may ride an adult zombie villager to form a jockey.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Zombie villagers have entity data associated with them that contains various properties.
+
+:
+See Bedrock Edition level format/Entity format.
+
+:
+
+Entity data
+
+: -1 when not being converted back to a villager, positive for the number of ticks until conversion back into a villager. The regeneration effect parallels this.
+: The UUID of the player who started curing the zombie, stored as four ints.
+Type Data value 32px Desert minecraft:desert 32px Jungle minecraft:jungle 32px Plains minecraft:plains 32px Savanna minecraft:savanna 32px Snowy minecraft:snow 32px Swamp minecraft:swamp 32px Taiga minecraft:taiga
+Profession Data value 32px Armorer minecraft:armorer 32px Butcher minecraft:butcher 32px Cartographer minecraft:cartographer 32px Cleric minecraft:cleric 32px Farmer minecraft:farmer 32px Fisherman minecraft:fisherman 32px Fletcher minecraft:fletcher 32px Leatherworker minecraft:leatherworker 32px Librarian minecraft:librarian 32px Nitwit minecraft:nitwit 32px Unemployed minecraft:none 32px Mason minecraft:mason 32px Shepherd minecraft:shepherd 32px Toolsmith minecraft:toolsmith 32px Weaponsmith minecraft:weaponsmith
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+
+When a zombie villager wears a carved pumpkin or jack o'lantern, its head is so tall that it pokes out the top of the pumpkin.
+, zombie villagers have a glitched design when using the programmer art resource pack.
+, when a zombie villager holds a trident, the hand that holds the trident lowers.
+, if a zombie villager is summoned using the  command with an invalid spawn event, a generic zombie villager spawns with the following issues.
+They are not in any family.
+They move extremely fast.
+, the icon for the achievement "Zombie Doctor" uses the old zombie villager texture.
+Curing a zombie villager chicken jockey is the only way to get a villager riding a chicken without the use of commands.
+Green-colored zombies are also present in Minicraft, a 2D Minecraft-inspired game also created by Markus Persson.
+, the rarest mob is a baby zombie villager riding a chicken, with 3 pieces of enchanted diamond armor, an enchanted iron sword and a jack o'lantern on its head. It has approximately a 1 in 948 trillion (948,148,148,148,148) chance to spawn and can be found only during Halloween, as this is when mobs can spawn wearing jack o' lanterns.
+
+Gallery
+
+Textures
+
+Renders
+
+Halloween
+
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+Category:Villagers
+de:Zombiedorfbewohner
+es:Aldeano zombi
+fr:Zombie-villageois
+it:Villico zombi
+ja:村人ゾンビ
+ko:좀비 주민
+pl:Osadnik zombie
+pt:Aldeão Zumbi
+ru:Зомби-житель
+uk:Зомбоселянин
+zh:僵尸村民

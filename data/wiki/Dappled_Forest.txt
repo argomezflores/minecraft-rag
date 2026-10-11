@@ -1,0 +1,83 @@
+TITLE: Dappled Forest
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Dappled_Forest
+---
+The dappled forest is a woodland biome consisting of poplar trees with red, orange, and yellow leaves, along with the occasional spruce tree. The ground is an orange-brown grass and coarse dirt soil covered by leaf litter, red shrubs, and brown mushrooms.
+
+Generation
+Dappled forests generate in moderately cold regions with very low humidity, typically in areas of positive weirdness.
+
+Dappled forests frequently border plains, sunflower plains, cherry groves, ice spikes, and swamps. They can generate in any type of terrain, such as in flatlands near windswept gravelly hills, near cold oceans, or in mountains near frozen peaks.
+
+Their size can range from a microbiome with only a few trees to a large forest stretching hundreds of blocks. Dappled forests are often separated from plains by rivers or valleys.
+
+Description
+The dappled forest is a cold biome that consists of poplar trees and red shrubs, of which the former is prevalent enough to cover the majority of the terrain from the sky. The biome's grass color is a saturated orange, which also affects short plants and sugar cane. Biome-tinted leaves like oak and acacia are bright orange. Fallen poplar trees generate commonly, and shelf mushrooms are on all poplar trees.
+
+Other terrain blocks like coarse dirt, brown mushrooms, and leaf litter generate as part of the surface of dappled forests. Spruce trees generate very sparsely throughout.
+
+Tree density is much higher in Bedrock Edition than in Java Edition, sometimes allowing hostile mobs to spawn at daytime.
+
+The biome has default settings for Vibrant Visuals but this is subject to change. The water color is a very dark blue, almost black, and more opaque than in any other biome. Underwater fog, however, is white and twice as dense.
+
+Abandoned camps generate here, usually with a poplar tree. Cold farm animal variants spawn as well as foxes and rabbits.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+Dappled forests re-use the forest music pool  and the default Overworld music pool :
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Dappled forests are inspired by trees seen during autumn in Michigan, USA, as well as those found in Sweden.
+Prior to their introduction,  featured a similar locale through . Despite common assumptions from fans, these were developed independently.
+Dappled forests are the only biome where foxes can spawn but wolves can't spawn. As a consequence the biome is ideal for long-term fox farms.
+
+Gallery
+
+Screenshots
+
+Mojang images
+
+In other media
+
+References
+
+See also
+
+Navigation
+
+de:Rotlaubwald
+es:Bosque moteado
+fr:Forêt ambrée
+he:יער מנוקש
+it:Foresta ambrata
+ja:まだらな森
+ko:얼룩덜룩한 숲
+lzh:斑林
+pt:Floresta salpicada
+ru:Пёстрый лес
+uk:Плямистий ліс
+zh:斑驳森林

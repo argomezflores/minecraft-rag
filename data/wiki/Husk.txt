@@ -1,0 +1,231 @@
+TITLE: Husk
+CATEGORY: Hostile mobs
+URL: https://minecraft.wiki/w/Husk
+---
+Husks are a variant of the zombie that spawn in deserts. They function similarly to zombies, except that they do not burn in sunlight, and they inflict Hunger with their unarmed attacks.
+
+Spawning
+Husks spawn at a light level of 0 in the desert, mostly replacing zombies in these biomes.
+
+, husks spawn directly under the sky in groups of 4 in place of 80% of all zombies and zombie villagers spawned in desert biomes.
+
+, husks spawn on the surface in groups of 2-4 in place of 70% of all zombies and zombie villagers spawned in desert biomes.
+
+Camel husk jockeys
+When spawning naturally, husks have a 10% chance to spawn as camel husk jockey if they spawn in a space that does not block the collision box required for a camel husk. This can only happen for up to one husk in each spawning pack. This can happen even when the husk spawns as a baby and was supposed to spawn as a chicken jockey. In that case, the chicken is spawned as a "jockey chicken" (i.e. it doesn't lay eggs and can despawn) but the husk spawns riding the camel husk instead.
+
+Trial spawners
+Husks have a  chance to be selected as the "melee" mob for trial spawners in trial chambers.
+
+Reinforcements
+
+On Hard difficulty, all husks have a 0-10% chance to spawn other husks as reinforcements when receiving damage while targeting an entity. Additionally, up to 5% of husks spawn as leaders, getting a 50-75% boost to that chance. Just like for regular husk spawning, reinforcement husks can only spawn in places with direct sky exposure.
+
+Variants
+Baby husks
+thumb|Three adult husks and one baby husk.
+thumb|All mobs that can be ridden by baby husks in Bedrock Edition.
+Baby husks make up 5% of husk spawns. They behave similarly to regular husks, with the following differences:
+They are much faster than normal husks, yet they have the same health.
+The noises they make are higher-pitched than adult husk sound effects.
+Worn armor shrinks to fit their body size.
+They are able to fit through 1×1 block gaps.
+They give 12 experience points when killed by the player or a tamed wolf instead of 5.
+Unlike most other baby mobs, they remain babies indefinitely and never become adult husks, therefore golden dandelions do not work.
+They have a decreased hitbox size.
+
+Jockeys
+
+, every baby husk has a chance to spawn as a chicken jockey. In a chicken-free environment, each baby has a 4.75% chance of spawning as a chicken jockey, for a total 0.2375% chance for each spawned zombie to spawn as a chicken jockey; if chickens are present, the chance increases to 0.4875%.
+
+, 15% of naturally spawned baby husks can start riding a mob and become a jockey after it spawns. A jockey mob ridden by a baby husk adapts to the speed of its rider. A baby husk can ride:
+
+Camel husk jockeys
+Adult husks have a chance to spawn riding a camel husk, along with a parched, and wielding an iron spear. The husk may also spawn wearing armor.
+
+Drops
+On death
+
+Taken equipment
+When a husk dies, all of its picked-up equipment drops without changing the damage that has accumulated on it . , the armor's durability is still vulnerable to attacks, as if a player is wearing it.
+
+Naturally-spawned equipment
+Husks have an 8.5% chance of dropping their naturally-spawned equipment (except Halloween carved pumpkins and jack o'lanterns) with a random durability. Each level of Looting increases the chance 1 percentage point (11.5% with Looting III). , they cannot drop the diamond swords or trimmed armor that they occasionally wield/wear during ominous trials.
+These items include:
+(sometimes enchanted)
+(sometimes enchanted)
+(sometimes enchanted)
+(in ominous trials)
+(sometimes enchanted, made from leather, copper, gold, chainmail, iron or diamond)
+
+Additionally, , all naturally spawned equipment always drops at full durability when the husk converts to a zombie.
+
+Experience
+Adult husks drop  and baby husks drop  when they are killed by a player or a tamed wolf. Any husk that spawns with equipment drops an additional  per item.
+
+Behavior
+thumb|right|upright|A husk that drowns converts to a zombie (which can convert to a drowned).
+Like zombies, husks are hostile toward the player, iron golems, villagers, baby turtles, and wandering traders. They pursue these mobs on sight from up to 40 blocks away, as opposed to 16 blocks like most other hostile mobs. If any other mob attacks a husk on purpose, all other husks and zombie variants (except zombified piglins) within a 67×67×21 to 111×111×21 area become hostile toward the attacker. They attempt to avoid obstacles, including sheer cliffs, water, and lava, and try to find the shortest path to the player.
+
+Husks apply Hunger to any player or mob they hit using a melee attack, unless the husk is holding an item in its main hand or the player blocks the attack with a shield. This effect lasts for 7 × floor (regional difficulty) seconds.
+
+Husks are one of the few undead mobs that are immune to burning in sunlight, which allows them to stay around during the day.
+
+Husks have a chance to spawn with the ability to break down doors on Hard difficulty.
+
+Husks seek out any nearby turtle eggs and trample them.
+
+Husks can pick up items if the game rule  is set to true, which prevents them from despawning.
+
+Husks attempt to avoid water, only entering it when there is no other path to their target.
+
+A husk that is fully submerged in water for 30 seconds begins converting to a normal zombie, which takes an additional 15 seconds and cannot be stopped even if the husk leaves water. Once this process finishes, the zombie that it becomes has full health even if the husk has been damaged, and may further convert into a drowned if it remains submerged.
+
+, husks are never spawned as part of a zombie siege, but if a husk naturally spawns nearby, it will join the siege and behave like all other zombies.
+
+Using spears
+Husks wielding spears have different attacking behavior. When attacking, they use the spear's charge attack while moving toward their target. They hold the charge through its full duration, using all 3 stages. Once the charge attack has ended or they get too close to their target, they walk away to increase the distance between them and their target before turning around to begin another charge. If a husk accidentally damages a neutral or hostile mob (except goats) with a spear's charge attack, the mob retaliates and attacks that husk.
+
+Mob type
+Being an undead mob, they are:
+Damaged by the status effect Instant Health and healed by the status effect Instant Damage.
+Unaffected by the status effects Regeneration and Poison.
+Ignored by the wither.
+Affected by the Smite enchantment.
+Unable to swim in water, but do not drown.
+A threat to armadillos, causing them to hide in their shell.
+
+As they are undead and do not grow up, golden dandelions do not work on baby husks.
+
+Picking up items
+
+Like zombies, some husks spawn with the ability to pick up dropped items from the ground in Normal and Hard difficulty, with the chance being higher in the latter. , husks pick up items that they happen to walk near. , they actively search for and walk toward dropped items.
+
+Standard husks can pick up all items except for glow ink sacs. Chicken jockey riders also cannot pick up any variant of an egg.
+
+If the picked up item is armor, the husk equips the armor into its respective armor slot. Carved pumpkins and heads are worn on their heads, and elytra are worn in the their chestplate slot. If the picked up item is a shield, the husk equips it to their offhand. It cannot use the shield to block incoming attacks, however.
+
+If a husk encounters another similar item, it may drop the previous item in favor of the new one if:
+both items are armor/weapons and the new item is better damage-wise (reduces higher damage for armor, or inflicts more damage for weapons) without considering enchantments,
+both items are armor/weapons with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is less damaged than the old item
+
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+
+A husk equipped with a picked-up item becomes persistent and does not despawn, similar to being named.
+
+Picked-up items do not cause the husk to drop more experience when killed, unlike naturally-spawned gear.
+
+In , due to a bug, husks, as well as zombies, zombie villagers, and drowned can also wear horse armor, nautilus armor, and wolf armor.
+
+Geared husks
+
+Some husks spawn wearing armor or holding weapons, both of which may be enchanted. In addition, husks may also spawn with the ability to pick up loot that is on the ground. The chances of each of these events occurring are listed below. If a husk spawns wearing multiple pieces of armor, the armor is never mismatched (i.e. all pieces are made of the same material). Husks cannot naturally spawn with netherite armor.
+
++ Chances of husks wearing or picking up armor, per difficulty  Easy Normal Hard Can pick up loot 0% 0–55% 6.875–55% Armor 0% 0–15%Value is based on the regional difficulty. 1.875–15% Armor enchantment 0% 0–50% 6.25–50% Weapon chance of an iron sword,  chance of an iron spear,  chance of an iron shovel 1% 1% 5% Weapon enchantment 0% 0–25% 3.125–25%
+
+If a husk does spawn with armor, the chances of specific armor are as follows:
+
++ Chances of different armor pieces, per difficulty Armor Easy & Normal Hard Helmet 100% 100% Helmet and chestplate 75% 90% Helmet, chestplate, and leggings 56.25% 81% Full set 42.19% 72.9%
+
+The chances of it being of a particular material are:
+
++ Chances of different armor types Armor type Chance Leather 23.60%  Copper 32.23% Gold 33.29% Chain 9.73% Iron 1.10% Diamond 0.04%
+
+, the armor is not damaged by any damage source; it cannot "wear out" the way player armor does. Unlike other zombies, helmets worn by husks do not break if the husk is exposed to daylight. , any armor piece is damaged as if the player is wearing it.
+
+Husks also have a natural armor rating of , giving 1.6 to 8% damage reduction from most sources. Husks can also wear mob heads, although they need to be dropped by the player before the husk can pick one up and put it on.
+
+On , husks  may spawn wearing a carved pumpkin or jack o'lantern. They are never dropped, even when the husks are killed with Looting.
+
+Jockey
+
+thumb|width=165x165|An unarmed husk ridden by a baby zombie
+15% of nearby baby zombies, baby husks, gurgles, or baby frostbites may ride an adult husk to form a jockey.
+
+Sounds
+:
+
+:
+
+pt:Zumbi-Múmia/Sons
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Husks have entity data associated with them that contains various properties.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+
+Advancements that apply to all mobs:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The husk was created by Jason Mayer at a game jam and shown to Jens Bergensten.
+Husks are slightly taller than regular zombies.
+Their hitbox is still exactly 2 blocks.
+
+Gallery
+Renders
+
+Screenshots
+
+Mojang images
+
+Textures
+
+In other media
+
+See also
+
+References
+
+External links
+Meet the Husk – Minecraft.net on August 14, 2017
+
+Navigation
+
+Category:Hostile mobs
+Category:Undead mobs
+Category:Monster mobs
+
+de:Wüstenzombie
+es:Disecado
+fr:Momifié
+it:Mummificato
+ja:ハスク
+ko:허스크
+lzh:枯屍
+nl:Mummie
+pl:Posuch
+pt:Zumbi-Múmia
+ru:Кадавр
+uk:Висушень
+zh:尸壳

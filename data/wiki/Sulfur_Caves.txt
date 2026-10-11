@@ -1,0 +1,78 @@
+TITLE: Sulfur Caves
+CATEGORY: Overworld biomes
+URL: https://minecraft.wiki/w/Sulfur_Caves
+---
+Sulfur caves are cave biomes composed of sulfur and cinnabar blocks, where sulfur cubes and cave spiders spawn. Sulfur pools with potent sulfur generate here, as well as sulfur spikes.
+
+Generation
+Sulfur caves generate underground at the same depth as lush caves and dripstone caves, although they tend to be much smaller in size and more fragmented. Sulfur springs sometimes generate on the surface, indicating there are sulfur caves below.
+
+The biome tends to generate at very low weirdness values with high erosion and at a broad range of moderate continentalness. This means that they never generate directly under river valleys or below high mountains, though they may generate between rivers or under hilltops. They are common under flatland terrain near swamps, deserts and other flatland biomes.
+thumb|Orange shading on the graph indicates how far above the approximate surface height (Y-axis) sulfur caves may generate at different weirdness values (X-axis).
+Rarely, sulfur caves can generate on the surface at weirdness values below -1.25. They may also leak out of cave openings or ravines.
+
+Description
+The main landscape is composed of sulfur and cinnabar, layers in approximately same amount of blocks, with frequent sulfur pools possessing a unique acid-green color of water. Potent sulfur is found only on the bottom of these pools, creating noxious gas with white bubbles particles in and on top of the water. Nausea is inflicted to mobs and players when they come in contact with this noxious gas.
+
+Sulfur spikes in varying patches and sizes generate on top of sulfur. Other terrain blocks such as deepslate and stone variants generate between the sulfur and cinnabar.
+
+Ores rarely generate here, because sulfur and cinnabar replace most stone and deepslate blocks. The sky fog has a unique green color.
+
+When a minecart with chest from a mineshaft spawns in sulfur caves, it has a chance to contain the "Bounce" music disc. In Bedrock Edition, woodland mansions can generate in sulfur caves, similar to other cave biomes, although this is nearly impossible.
+
+With Vibrant Visuals, sulfur caves use warmish color grading, which tints the biome to look more humid and warm. They use a strong, dense volumetric fog; however, this is visible only on the surface with directional lighting.
+
+Mobs
+The following mobs naturally spawn here:
+
+Sounds
+Music
+These music tracks play while the player is in sulfur caves:
+
+Data values
+ID
+:
+
+:
+
+Biome definition
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Screenshots
+
+Mojang images
+
+Development screenshots
+
+References
+
+Navigation
+
+de:Schwefelhöhlen
+es:Cuevas de azufre
+fr:Cavernes de soufre
+he:מערות גופרית
+it:Caverne di zolfo
+ja:硫黄の洞窟
+ko:유황 동굴
+lzh:硫黃窟
+nl:Zwavelgrotten
+pt:Cavernas de enxofre
+ru:Серные пещеры
+th:ถ้ำกำมะถัน
+uk:Сірчані печери
+zh:硫黄洞穴
