@@ -1,0 +1,36 @@
+[
+  {"question": "¿Cómo hago una poción de velocidad?", "expected_source_contains": "Potion of Swiftness", "expected_answer_contains": ["Sugar", "Awkward Potion"], "tags": ["potions"]},
+  {"question": "¿Cómo hago una poción de fuerza?", "expected_source_contains": "Potion of Strength", "expected_answer_contains": ["Blaze Powder", "Awkward Potion"], "tags": ["potions"]},
+  {"question": "¿Cómo hago una poción de visión nocturna?", "expected_source_contains": "Potion of Night Vision", "expected_answer_contains": ["Golden Carrot", "Awkward Potion"], "tags": ["potions"]},
+  {"question": "¿Cómo hago una poción de curación?", "expected_source_contains": "Potion of Healing", "expected_answer_contains": ["Glistering Melon", "Awkward Potion"], "tags": ["potions"]},
+  {"question": "¿Cómo hago una poción de debilidad?", "expected_source_contains": "Potion of Weakness", "expected_answer_contains": ["Fermented Spider Eye"], "tags": ["potions"]},
+  {"question": "¿Cómo hago una Awkward Potion?", "expected_source_contains": "Awkward Potion", "expected_answer_contains": ["Nether Wart", "Water Bottle"], "tags": ["potions"]},
+  {"question": "¿Cómo hago una poción arrojadiza (splash)?", "expected_source_contains": "Splash Potion", "expected_answer_contains": ["Gunpowder"], "tags": ["potions"]},
+  {"question": "¿Cómo hago que una poción dure más tiempo?", "expected_source_contains": ["Potion", "Brewing", "Redstone Dust"], "expected_answer_contains": ["Redstone"], "tags": ["potions"]},
+  {"question": "¿Para qué sirve la poción de debilidad?", "expected_source_contains": "Potion of Weakness", "expected_answer_contains": ["Zombie Villager", "Golden Apple"], "tags": ["potions"]},
+
+  {"question": "¿Qué hace un repetidor de redstone?", "expected_source_contains": "Redstone Repeater", "expected_answer_contains": ["tick", "señal"], "tags": ["redstone-function"]},
+  {"question": "¿Para qué sirve el comparador de redstone?", "expected_source_contains": "Redstone Comparator", "expected_answer_contains": ["señal", "rest"], "tags": ["redstone-function"]},
+  {"question": "¿Qué hace un observer?", "expected_source_contains": "Observer", "expected_answer_contains": ["detect"], "tags": ["redstone-function"]},
+  {"question": "¿Qué diferencia hay entre un dispensador y un soltador?", "expected_source_contains": ["Dispenser", "Dropper"], "expected_answer_contains": ["Dispenser", "Dropper"], "tags": ["redstone-function"]},
+  {"question": "¿Para qué sirve una tolva?", "expected_source_contains": "Hopper", "expected_answer_contains": ["transf"], "tags": ["redstone-function"]},
+  {"question": "¿Qué hace un sensor de luz solar?", "expected_source_contains": "Daylight Detector", "expected_answer_contains": ["luz"], "tags": ["redstone-function"]},
+  {"question": "¿Cómo funciona un pistón pegajoso?", "expected_source_contains": "Sticky Piston", "expected_answer_contains": ["retra"], "tags": ["redstone-function"]},
+  {"question": "¿Qué hace una antorcha de redstone?", "expected_source_contains": "Redstone Torch", "expected_answer_contains": ["apag"], "tags": ["redstone-function"]},
+
+  {"question": "¿Cómo crafteo un repetidor de redstone?", "expected_source_contains": "Redstone Repeater", "expected_answer_contains": ["Redstone Torch", "Stone"], "tags": ["redstone-crafting"]},
+  {"question": "¿Cómo hago un pistón?", "expected_source_contains": "Piston", "expected_answer_contains": ["Cobblestone", "Iron Ingot"], "tags": ["redstone-crafting"]},
+  {"question": "¿Cómo crafteo un observer?", "expected_source_contains": "Observer", "expected_answer_contains": ["Cobblestone", "Quartz"], "tags": ["redstone-crafting"]},
+  {"question": "¿Cómo hago un comparador de redstone?", "expected_source_contains": "Redstone Comparator", "expected_answer_contains": ["Quartz", "Redstone Torch"], "tags": ["redstone-crafting"]},
+  {"question": "¿Cómo hago una tolva?", "expected_source_contains": "Hopper", "expected_answer_contains": ["Iron Ingot", "Chest"], "tags": ["redstone-crafting"]},
+  {"question": "¿Cómo crafteo un dispensador?", "expected_source_contains": "Dispenser", "expected_answer_contains": ["Bow", "Cobblestone"], "tags": ["redstone-crafting"]},
+  {"question": "¿Cómo hago una lámpara de redstone?", "expected_source_contains": "Redstone Lamp", "expected_answer_contains": ["Glowstone", "Redstone Dust"], "tags": ["redstone-crafting", "coverage"]},
+
+  {"question": "¿Cómo hago una mesa de crafteo?", "expected_source_contains": "Crafting Table", "expected_answer_contains": ["Planks"], "tags": ["crafting"]},
+  {"question": "¿Cómo hago un horno?", "expected_source_contains": "Furnace", "expected_answer_contains": ["Cobblestone"], "tags": ["crafting"]},
+  {"question": "¿Cómo hago un soporte para pociones?", "expected_source_contains": "Brewing Stand", "expected_answer_contains": ["Blaze Rod", "Cobblestone"], "tags": ["crafting"]},
+
+  {"question": "¿Cómo crafteo una espada de rubí?", "expect_abstain": true, "tags": ["negative"]},
+  {"question": "¿Cómo instalo mods con Forge?", "expect_abstain": true, "tags": ["negative"]},
+  {"question": "¿Cómo hago una poción de vuelo?", "expect_abstain": true, "tags": ["negative"]}
+]

@@ -103,15 +103,30 @@ BACKFILL_QUERIES: list[dict] = [
 ]
 
 
-def _check_source_hit(top_source: str, expected: str) -> bool:
-    """True si el título del top-1 contiene la substring esperada (case-insensitive)."""
-    return expected.lower() in (top_source or "").lower()
+def _check_source_hit(top_source: str, expected: str | list[str]) -> bool:
+    """True si el título del top-1 contiene la substring esperada (o alguna, si es lista)."""
+    options = expected if isinstance(expected, list) else [expected]
+    return any(o.lower() in (top_source or "").lower() for o in options)
 
 
 def _check_answer_hits(answer: str, expected_terms: list[str]) -> int:
     """Cuenta cuántos términos esperados aparecen en la respuesta."""
     answer_lower = (answer or "").lower()
     return sum(1 for t in expected_terms if t.lower() in answer_lower)
+
+
+# 📚 Frases con las que el pipeline/LLM admite que no tiene la info.
+# Sirven para medir abstención correcta (preguntas negativas) y falsa
+# abstención (preguntas con respuesta en el corpus que igual dicen "no sé").
+_ABSTAIN_PATTERNS = [
+    "no lo encontr", "no encontr", "no tengo", "no tiene esa", "no está en",
+    "no incluye", "no contiene", "no se menciona", "no aparece", "no existe",
+]
+
+
+def _is_abstention(answer: str) -> bool:
+    answer_lower = (answer or "").lower()
+    return any(p in answer_lower for p in _ABSTAIN_PATTERNS)
 
 
 def _run_query(entry: dict, format: str = "full") -> dict:
@@ -133,6 +148,8 @@ def _run_query(entry: dict, format: str = "full") -> dict:
             "question": question,
             "format": format,
             "tags": entry.get("tags", []),
+            "expect_abstain": entry.get("expect_abstain", False),
+            "abstained": _is_abstention(result["answer"]),
             "expected_source": entry.get("expected_source_contains", ""),
             "top_source": top_source,
             "top_score": result["sources"][0].score if result["sources"] else 0,
@@ -164,20 +181,42 @@ def _summary(results: list[dict]) -> dict:
     if total == 0:
         return {"total": 0}
 
-    source_hits = sum(1 for r in results if r.get("source_hit"))
-    answer_ratios = [r.get("answer_hit_ratio") for r in results if r.get("answer_hit_ratio") is not None]
+    # 📚 Las preguntas negativas (expect_abstain) no tienen fuente esperada:
+    # se miden aparte por abstención correcta, no por hit rate.
+    positives = [r for r in results if not r.get("expect_abstain")]
+    negatives = [r for r in results if r.get("expect_abstain")]
+
+    source_hits = sum(1 for r in positives if r.get("source_hit"))
+    # 📚 top-5: el top-1 es estricto — penaliza respuestas correctas cuyo primer
+    # chunk vino de otro artículo (docs/eval-log.md #006).
+    top5_hits = sum(
+        1 for r in positives
+        if any(_check_source_hit(t, r.get("expected_source", "")) for t in r.get("sources_titles", []))
+    )
+    answer_ratios = [r.get("answer_hit_ratio") for r in positives if r.get("answer_hit_ratio") is not None]
     latencies = [r.get("latency_ms", 0) for r in results if not r.get("error")]
     errors = sum(1 for r in results if r.get("error"))
 
-    return {
+    summary = {
         "total_queries": total,
-        "source_hit_rate": round(source_hits / total, 3),
+        "source_hit_rate": round(source_hits / len(positives), 3) if positives else None,
         "source_hits": source_hits,
+        "source_hit_rate_top5": round(top5_hits / len(positives), 3) if positives else None,
         "answer_hit_avg": round(statistics.mean(answer_ratios), 3) if answer_ratios else None,
+        # 📚 Solo cuenta si dijo "no encontré" Y le faltan términos esperados:
+        # una respuesta completa con un "no se menciona X" al margen no es abstención.
+        "false_abstentions": sum(
+            1 for r in positives
+            if r.get("abstained") and (r.get("answer_hit_ratio") or 0) < 1
+        ),
         "latency_p50_ms": round(statistics.median(latencies)) if latencies else None,
         "latency_p95_ms": round(sorted(latencies)[int(len(latencies) * 0.95) - 1]) if len(latencies) > 1 else None,
         "errors": errors,
     }
+    if negatives:
+        summary["abstain_ok"] = sum(1 for r in negatives if r.get("abstained"))
+        summary["abstain_total"] = len(negatives)
+    return summary
 
 
 def main() -> int:
@@ -187,6 +226,8 @@ def main() -> int:
                         help="Correr TODAS las queries del logger persistente (data/logs/queries.jsonl)")
     parser.add_argument("--version", default=None, help="Etiqueta de versión (default: v5)")
     parser.add_argument("--format", default="full", choices=["full", "chat"])
+    parser.add_argument("--eval-set", default=None,
+                        help="JSON con preguntas etiquetadas (ej. data/eval/eval_set.json); ignora backfill y log")
     args = parser.parse_args()
 
     version = args.version or "v5"
@@ -220,19 +261,24 @@ def main() -> int:
             results.append(r)
 
     else:
+        queries = (
+            json.loads(Path(args.eval_set).read_text(encoding="utf-8"))
+            if args.eval_set else BACKFILL_QUERIES
+        )
         print(f"[bench] Corriendo benchmark v={version} format={args.format}")
-        print(f"[bench] Backfill: {len(BACKFILL_QUERIES)} queries del historial\n")
+        print(f"[bench] {'Eval set' if args.eval_set else 'Backfill'}: {len(queries)} queries\n")
 
-        for i, entry in enumerate(BACKFILL_QUERIES, start=1):
-            print(f"  [{i}/{len(BACKFILL_QUERIES)}] {entry['question'][:60]}...", end=" ")
+        for i, entry in enumerate(queries, start=1):
+            print(f"  [{i}/{len(queries)}] {entry['question'][:60]}...", end=" ")
             r = _run_query(entry, format=args.format)
-            status = "✓" if r.get("source_hit") else "✗"
+            ok = r.get("abstained") if entry.get("expect_abstain") else r.get("source_hit")
+            status = "✓" if ok else "✗"
             print(f"{status} top={r.get('top_source', 'N/A')[:30]} lat={r.get('latency_ms', 0)}ms")
             results.append(r)
 
     # Optional: correr también las queries del log persistente (menos backfill).
     logged_count = 0
-    if not args.backfill_only and not args.from_log:
+    if not args.backfill_only and not args.from_log and not args.eval_set:
         logged = read_recent(n=50)
         # Filtramos duplicados con backfill.
         backfill_qs = {q["question"].lower().strip() for q in BACKFILL_QUERIES}
@@ -257,6 +303,7 @@ def main() -> int:
         "version": version,
         "timestamp": ts,
         "format": args.format,
+        "eval_set": args.eval_set,
         "summary": summary,
         "total_queries_in_log": total_logged,
         "backfill_count": len(BACKFILL_QUERIES),
@@ -270,9 +317,14 @@ def main() -> int:
     print(f"RESUMEN v={version}")
     print(f"{'=' * 60}")
     print(f"Total queries:       {summary['total_queries']}")
-    print(f"Source hit rate:     {summary['source_hit_rate']} ({summary['source_hits']}/{summary['total_queries']})")
+    n_positives = summary["total_queries"] - summary.get("abstain_total", 0)
+    print(f"Source hit rate:     {summary['source_hit_rate']} ({summary['source_hits']}/{n_positives})")
+    print(f"Source hit top-5:    {summary['source_hit_rate_top5']}")
     if summary.get("answer_hit_avg") is not None:
         print(f"Answer hit avg:      {summary['answer_hit_avg']}")
+    print(f"Falsas abstenciones: {summary['false_abstentions']}")
+    if "abstain_ok" in summary:
+        print(f"Abstención correcta: {summary['abstain_ok']}/{summary['abstain_total']}")
     print(f"Latencia p50:        {summary['latency_p50_ms']}ms")
     print(f"Latencia p95:        {summary['latency_p95_ms']}ms")
     print(f"Errores:             {summary['errors']}")
