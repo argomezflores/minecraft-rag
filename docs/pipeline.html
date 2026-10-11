@@ -248,6 +248,7 @@
     <ul>
       <li><a href="#observabilidad">📊 Observabilidad + Benchmark</a></li>
       <li><a href="#corpus-filters">🚫 Corpus filtering (v5)</a></li>
+      <li><a href="#evaluacion">🔬 Evaluación + fixes de causa raíz (v6)</a></li>
       <li><a href="#decisiones">📋 Decisiones que tomamos</a></li>
       <li><a href="#latencia">⚡ Latencia y costos</a></li>
       <li><a href="timeline.html">🕰️ Timeline visual del proyecto →</a></li>
@@ -255,7 +256,7 @@
   </nav>
 
   <main>
-    <h1>⛏️ Pipeline técnico — RAG Minecraft (v3)</h1>
+    <h1>⛏️ Pipeline técnico — RAG Minecraft (v6)</h1>
     <p>Este documento explica <strong>capa por capa</strong> qué hace el sistema, por qué existe cada pieza, y muestra el código real que la implementa. Está pensado para ser leído en orden (siguiendo el nav lateral) o para ir directo a la capa que te interesa.</p>
 
     <div class="note">
@@ -269,7 +270,7 @@
     <div class="flow">┌────────────────────── INGESTA (offline, se corre 1 vez) ──────────────────────┐
 │                                                                                │
 │  minecraft.wiki  →  <span class="fn">scraper.py</span>  →  <span class="fn">chunker.py</span>  →  <span class="fn">embedder.py</span>  →  ChromaDB    │
-│  (API MediaWiki)     (mwclient)      (~800 chars)      (all-MiniLM-L6)         │
+│  (API MediaWiki)     (mwclient)    (800 + recetas)     (all-MiniLM-L6)         │
 │                                                                                │
 └────────────────────────────────────────────────────────────────────────────────┘
 
@@ -278,7 +279,7 @@
 │    User Q  →  <span class="fn">rewriter</span>  →  <span class="fn">retriever</span>  →  <span class="fn">reranker</span>  →  <span class="fn">generator</span>  →  Answer  │
 │    (ES)      (Haiku)     (bi-encoder)   (cross-encoder)  (Sonnet)              │
 │                 ↓             ↓              ↓              ↓                   │
-│              3 queries    top-20 x 3    top-5 fino     respuesta + citas       │
+│           3 + trad. EN    top-20 x N   top-5 (vs EN)   respuesta + citas       │
 │                                                                                │
 └────────────────────────────────────────────────────────────────────────────────┘</div>
 
@@ -347,6 +348,10 @@
          arranged in the crafting grid → Diamond Pickaxe."</code></pre>
         Los templates no reconocidos siguen cayendo al fallback (se eliminan) — cero riesgo de romper el pipeline.
       </div>
+
+      <div class="tradeoff">
+        <strong>🆕 v6 — Recetas de brewing con <code>base=</code>:</strong> la wiki escribe <code>{{Brewing|Sugar|base=Awkward Potion|Potion of Swiftness}}</code>. En MediaWiki los parámetros con nombre <em>no cuentan</em> en la numeración posicional: <code>1</code>=Sugar, <code>2</code>=Potion of Swiftness y <code>3</code> no existe. El converter esperaba 3 posicionales, regresaba <code>""</code> y la receta desaparecía sin avisar. Ahora lee <code>base=</code>/<code>base1=</code> (y el resultado del posicional 2), con fallback al formato viejo. Los archivos con recetas de brewing pasaron de 10 a 42. Para re-bajar solo lo afectado: <code>python scripts/scrape_priority.py --refresh-matching brew</code>. Ver <a href="eval-log.md">eval-log #002</a>.
+      </div>
     </div>
 
     <div class="layer" id="capa-chunker">
@@ -363,7 +368,7 @@
         <strong>Overlap 150 chars (~20%):</strong> Sin overlap, ideas que caen en el borde entre chunks se pierden. Ejemplo: si un chunk termina "the Beacon requires a base of" y el siguiente empieza "3×3 Iron blocks", ninguno tiene la idea completa. Overlap la duplica en ambos.
       </div>
       <div class="tradeoff">
-        <strong>Separadores naturales</strong> (<code>\n\n</code> > <code>\n</code> > <code>. </code> > <code> </code>): buscamos el mejor punto de corte dentro de la ventana. Preserva la estructura del texto.
+        <strong>Separadores naturales</strong> (<code>\n\n</code> > <code>\n</code> > <code>. </code> > <code> </code>): buscamos el mejor punto de corte <strong>en la segunda mitad</strong> de la ventana (v6). Preserva la estructura del texto y garantiza chunks de 400-800 chars.
       </div>
 
       <h4>Código real</h4>
@@ -378,11 +383,12 @@
         <span class="kw">if</span> end >= <span class="fn">len</span>(text):
             chunks.<span class="fn">append</span>(text[start:].<span class="fn">strip</span>())
             <span class="kw">break</span>
-        <span class="cmt"># Buscamos el mejor separador dentro de [start, end]</span>
+        <span class="cmt"># v6: buscamos el separador solo en la SEGUNDA MITAD de la ventana</span>
+        min_split = start + chunk_size // <span class="num">2</span>
         split_at = -<span class="num">1</span>
         <span class="kw">for</span> sep <span class="kw">in</span> separators:
-            idx = text.<span class="fn">rfind</span>(sep, start, end)
-            <span class="kw">if</span> idx > start:
+            idx = text.<span class="fn">rfind</span>(sep, min_split, end)
+            <span class="kw">if</span> idx != -<span class="num">1</span>:
                 split_at = idx + <span class="fn">len</span>(sep)
                 <span class="kw">break</span>
         <span class="kw">if</span> split_at == -<span class="num">1</span>:
@@ -392,6 +398,16 @@
         start = <span class="fn">max</span>(split_at - overlap, start + <span class="num">1</span>)
     <span class="kw">return</span> [c <span class="kw">for</span> c <span class="kw">in</span> chunks <span class="kw">if</span> c]</code></pre>
       <div class="file-link">📁 <a href="../src/chunker.py"><code>src/chunker.py</code></a></div>
+
+      <div class="tradeoff">
+        <strong>🐛 v6 — El bug que explicaba casi todo:</strong> la versión original buscaba el separador en toda la ventana <code>[start, end]</code> y prefería el <em>tipo</em> (<code>\n\n</code>) aunque estuviera pegado al inicio. Pasaba esto:
+        <ol>
+          <li>Si el único <code>\n\n</code> caía en el carácter 112, el chunk medía 114.</li>
+          <li><code>split_at - overlap</code> quedaba <em>antes</em> del inicio, y el guard <code>max(..., start + 1)</code> avanzaba <strong>1 carácter</strong>.</li>
+          <li>La siguiente ventana volvía a encontrar el mismo <code>\n\n</code>.</li>
+        </ol>
+        Resultado: el mismo párrafo se guardaba ~110 veces, 113,584 chunks para 3.9M caracteres (19x) y un índice de 708 MB. Los artículos tipo lista dominaban cualquier búsqueda. Con el fix quedan 7,619 chunks de texto y el ingest baja de ~15 a ~3 min. Ver <a href="eval-log.md">eval-log #001</a> y <code>tests/test_chunker.py</code>.
+      </div>
     </div>
 
     <div class="layer" id="capa-embedder">
@@ -457,36 +473,47 @@ embed_texts([
         <strong>ID único e idempotente</strong> (<code>Diamond_Pickaxe_c0</code>): si re-ingestas el mismo artículo, los chunks se <em>sobrescriben</em> en lugar de duplicarse. Fundamental para el flujo "actualizar corpus" sin duplicados.
       </div>
       <div class="tradeoff">
-        <strong>Metadata rica</strong> (<code>title, url, category, chunk_index</code>): permite citar la fuente en la respuesta y filtrar por categoría en queries avanzadas.
+        <strong>Metadata rica</strong> (<code>title, url, category, chunk_index, kind</code>): permite citar la fuente en la respuesta y filtrar por categoría en queries avanzadas. <code>kind</code> es <code>"text"</code> o <code>"recipe"</code> (v6).
       </div>
       <div class="tradeoff">
         <strong><code>hnsw:space=cosine</code>:</strong> le dice a Chroma qué medida de similitud usar. Cosine es mejor para texto que Euclidean (L2).
       </div>
 
       <h4>Código real</h4>
-      <pre><code><span class="kw">def</span> <span class="fn">ingest_article</span>(article: WikiArticle, collection) -> <span class="ty">int</span>:
+      <pre><code><span class="kw">def</span> <span class="fn">recipe_chunks</span>(article: WikiArticle) -> <span class="ty">list</span>[<span class="ty">str</span>]:
+    <span class="cmt"># v6: cada línea de receta → chunk propio, redactado como respuesta</span>
+    recipes = []
+    <span class="kw">for</span> ln <span class="kw">in</span> (ln.<span class="fn">strip</span>() <span class="kw">for</span> ln <span class="kw">in</span> article.text.<span class="fn">splitlines</span>()):
+        <span class="kw">if not</span> ln.<span class="fn">startswith</span>(_RECIPE_PREFIXES): <span class="kw">continue</span>
+        output = ln.<span class="fn">rsplit</span>(<span class="str">"→"</span>, <span class="num">1</span>)[-<span class="num">1</span>].<span class="fn">strip</span>().<span class="fn">rstrip</span>(<span class="str">"."</span>)  <span class="cmt"># producto, no el título</span>
+        method = ln.<span class="fn">split</span>(<span class="str">" "</span>, <span class="num">1</span>)[<span class="num">0</span>].<span class="fn">lower</span>()                   <span class="cmt"># crafting/smelting/brewing</span>
+        recipes.<span class="fn">append</span>(<span class="str">f"How to make {output} ({method}): {ln}"</span>)
+    <span class="kw">return</span> <span class="fn">list</span>(<span class="ty">dict</span>.<span class="fn">fromkeys</span>(recipes))  <span class="cmt"># dedup preservando orden</span>
+
+
+<span class="kw">def</span> <span class="fn">ingest_article</span>(article: WikiArticle, collection) -> <span class="ty">int</span>:
     chunks = <span class="fn">split_text</span>(article.text, CHUNK_SIZE, CHUNK_OVERLAP)
-    <span class="kw">if not</span> chunks: <span class="kw">return</span> <span class="num">0</span>
+    recipes = <span class="fn">recipe_chunks</span>(article)
+    <span class="kw">if not</span> chunks <span class="kw">and not</span> recipes: <span class="kw">return</span> <span class="num">0</span>
 
-    safe_title = article.title.<span class="fn">replace</span>(<span class="str">" "</span>, <span class="str">"_"</span>)
+    safe_title = <span class="fn">safe_filename</span>(article.title)
     ids = [<span class="str">f"{safe_title}_c{i}"</span> <span class="kw">for</span> i <span class="kw">in</span> <span class="fn">range</span>(<span class="fn">len</span>(chunks))]
+    ids += [<span class="str">f"{safe_title}_r{i}"</span> <span class="kw">for</span> i <span class="kw">in</span> <span class="fn">range</span>(<span class="fn">len</span>(recipes))]
+    documents = chunks + recipes
     metas = [{
-        <span class="str">"title"</span>: article.title,
-        <span class="str">"category"</span>: article.category,
-        <span class="str">"url"</span>: article.url,
-        <span class="str">"chunk_index"</span>: i,
-    } <span class="kw">for</span> i <span class="kw">in</span> <span class="fn">range</span>(<span class="fn">len</span>(chunks))]
+        <span class="str">"title"</span>: article.title, <span class="str">"category"</span>: article.category, <span class="str">"url"</span>: article.url,
+        <span class="str">"chunk_index"</span>: i, <span class="str">"kind"</span>: <span class="str">"text"</span> <span class="kw">if</span> i < <span class="fn">len</span>(chunks) <span class="kw">else</span> <span class="str">"recipe"</span>,
+    } <span class="kw">for</span> i <span class="kw">in</span> <span class="fn">range</span>(<span class="fn">len</span>(documents))]
 
-    embeddings = <span class="fn">embed_texts</span>(chunks)  <span class="cmt"># BATCH — mucho más rápido</span>
-
-    collection.<span class="fn">upsert</span>(  <span class="cmt"># insert-or-update</span>
-        ids=ids,
-        documents=chunks,
-        embeddings=embeddings,
-        metadatas=metas,
-    )
-    <span class="kw">return</span> <span class="fn">len</span>(chunks)</code></pre>
+    embeddings = <span class="fn">embed_texts</span>(documents)  <span class="cmt"># BATCH — mucho más rápido</span>
+    collection.<span class="fn">upsert</span>(ids=ids, documents=documents, embeddings=embeddings, metadatas=metas)
+    <span class="kw">return</span> <span class="fn">len</span>(documents)</code></pre>
       <div class="file-link">📁 <a href="../src/ingest.py"><code>src/ingest.py</code></a></div>
+
+      <div class="tradeoff">
+        <strong>🆕 v6 — Chunks de receta dedicados:</strong> el chunker corta por tamaño y no sabe de secciones, porque los <code>== Encabezados ==</code> se pierden al limpiar el wikitext. En <em>Redstone Comparator</em> y <em>Furnace</em> el chunk 0 terminaba en el encabezado "Crafting" y la receta quedaba en el chunk 1, rodeada de texto sobre generación natural. Ninguna query de crafteo traía ese chunk. Ahora cada línea de receta se indexa además como chunk propio (+789 chunks; índice total de 8,408).
+        <br><br><strong>Redactado como respuesta</strong> (<code>"How to make X (crafting): ..."</code>) porque ms-marco puntúa mejor un pasaje con forma de respuesta que una lista seca. Con "How do I make a Redstone Comparator?" la lista seca quedaba en el #10, y con el formato nuevo gana (logit 7.67 contra 6.10 del mejor párrafo). Ver <a href="eval-log.md">eval-log #008 y #009</a>.
+      </div>
     </div>
 
     <!-- ================== QUERY ================== -->
@@ -510,33 +537,38 @@ embed_texts([
       <div class="tradeoff">
         <strong>Opcional (env <code>QUERY_REWRITE=false</code>):</strong> se puede desactivar para A/B testing o para reducir latencia en casos donde no aporta.
       </div>
+      <div class="tradeoff">
+        <strong>🆕 v6 — La variación #1 es una traducción fiel al inglés</strong>, sin agregar nada que no esté en la pregunta. <code>rewrite_query()</code> regresa <code>(queries, english)</code> y el pipeline usa <code>english</code> para el re-ranker, que solo entiende inglés. El prompt además prohíbe agregar ingredientes o datos: antes Haiku "adivinaba" la respuesta (puso <em>Fermented Spider Eye</em> para la poción de velocidad, cuando es Sugar), y eso traía chunks equivocados. Si Haiku falla, se usa la traducción del glosario y luego la original. Ver <a href="eval-log.md">eval-log #003 y #005</a>.
+      </div>
 
       <h4>Código real</h4>
-      <pre><code><span class="kw">def</span> <span class="fn">rewrite_query</span>(question: <span class="ty">str</span>, n: <span class="ty">int</span> = <span class="num">3</span>) -> <span class="ty">list</span>[<span class="ty">str</span>]:
-    <span class="kw">if not</span> ANTHROPIC_API_KEY:
-        <span class="kw">return</span> [question]  <span class="cmt"># fallback: sin rewriter</span>
+      <pre><code><span class="kw">def</span> <span class="fn">rewrite_query</span>(question: <span class="ty">str</span>, n: <span class="ty">int</span> = <span class="num">3</span>) -> <span class="ty">tuple</span>[<span class="ty">list</span>[<span class="ty">str</span>], <span class="ty">str</span>]:
+    seen = {question.<span class="fn">lower</span>().<span class="fn">strip</span>()}
+    result, english = [question], <span class="str">""</span>  <span class="cmt"># original siempre primero</span>
 
     <span class="kw">try</span>:
-        client = <span class="fn">Anthropic</span>(api_key=ANTHROPIC_API_KEY)
-        response = client.messages.<span class="fn">create</span>(
-            model=HAIKU_MODEL,
-            max_tokens=<span class="num">300</span>,
-            system=_REWRITE_PROMPT,  <span class="cmt"># "Devuelve JSON con 3 variaciones"</span>
+        response = <span class="fn">Anthropic</span>(api_key=ANTHROPIC_API_KEY).messages.<span class="fn">create</span>(
+            model=HAIKU_MODEL, max_tokens=<span class="num">300</span>,
+            system=_REWRITE_PROMPT,  <span class="cmt"># "#1 = traducción fiel, nunca agregues ingredientes"</span>
             messages=[{<span class="str">"role"</span>: <span class="str">"user"</span>, <span class="str">"content"</span>: question}],
         )
         rewrites = <span class="fn">_extract_json_array</span>(response.content[<span class="num">0</span>].text)
         <span class="kw">if</span> rewrites:
-            <span class="cmt"># Dedup + original primero</span>
-            seen = {question.<span class="fn">lower</span>().<span class="fn">strip</span>()}
-            result = [question]
+            english = rewrites[<span class="num">0</span>].<span class="fn">strip</span>()  <span class="cmt"># v6: para el cross-encoder</span>
             <span class="kw">for</span> r <span class="kw">in</span> rewrites[:n]:
                 <span class="kw">if</span> r.<span class="fn">lower</span>().<span class="fn">strip</span>() <span class="kw">not in</span> seen:
-                    result.<span class="fn">append</span>(r)
-                    seen.<span class="fn">add</span>(r.<span class="fn">lower</span>().<span class="fn">strip</span>())
-            <span class="kw">return</span> result
+                    result.<span class="fn">append</span>(r); seen.<span class="fn">add</span>(r.<span class="fn">lower</span>().<span class="fn">strip</span>())
     <span class="kw">except</span> <span class="ty">Exception</span> <span class="kw">as</span> e:
-        <span class="fn">print</span>(<span class="str">f"[query_rewriter] fallback (error: {e})"</span>)
-    <span class="kw">return</span> [question]</code></pre>
+        <span class="fn">print</span>(<span class="str">f"[query_rewriter] fallback Haiku (error: {e})"</span>)
+
+    <span class="cmt"># Variación garantizada del glosario ES→EN (v4)</span>
+    translated, detected = <span class="fn">translate_es_terms</span>(question)
+    <span class="kw">if</span> detected <span class="kw">and</span> translated.<span class="fn">lower</span>().<span class="fn">strip</span>() <span class="kw">not in</span> seen:
+        result.<span class="fn">append</span>(translated)
+
+    <span class="kw">if not</span> english:  <span class="cmt"># fallback: glosario → original</span>
+        english = translated <span class="kw">if</span> detected <span class="kw">else</span> question
+    <span class="kw">return</span> result, english</code></pre>
       <div class="file-link">📁 <a href="../src/query_rewriter.py"><code>src/query_rewriter.py</code></a></div>
 
       <h4>Ejemplo real</h4>
@@ -547,7 +579,7 @@ embed_texts([
           <td>
             <ol style="margin:0; padding-left:20px">
               <li>que hace el repeater <em>(original)</em></li>
-              <li>¿Qué función tiene el Redstone Repeater en Minecraft?</li>
+              <li>What does a Redstone Repeater do? <em>(traducción fiel → re-ranker, v6)</em></li>
               <li>Redstone Repeater signal delay function mechanics</li>
               <li>How does a Redstone Repeater extend or delay signals</li>
             </ol>
@@ -618,26 +650,37 @@ embed_texts([
         <strong>Sigmoide sobre el logit:</strong> el cross-encoder devuelve logits (números en (-∞, +∞)). Aplicamos sigmoide para normalizar a [0, 1] y que el score sea comparable visualmente al del bi-encoder.
       </div>
       <div class="tradeoff">
-        <strong>Usamos la query ORIGINAL para re-rankear</strong> (no las reformulaciones). Queremos relevancia respecto a la intención real del usuario, no a nuestras variaciones.
+        <strong>🐛→✅ v6 — Re-rankear con la traducción fiel al inglés, no con la original.</strong> Desde v2 se re-rankeaba con la pregunta original en español, y ms-marco solo entiende inglés:
+        <table>
+          <tr><th>Query al cross-encoder</th><th>Chunk con la receta del Hopper</th><th>Chunk de otra receta</th></tr>
+          <tr><td><code>¿Cómo hago una tolva?</code></td><td>0.000</td><td>0.000</td></tr>
+          <tr><td><code>How do I craft a hopper?</code></td><td>0.999</td><td>0.001</td></tr>
+        </table>
+        Con español calificaba todo con ~0, y el orden lo decidía solo el title boost. Ahora se re-rankea con la traducción fiel del rewriter, que conserva la intención real sin las palabras que agregan las otras variantes. Ver <a href="eval-log.md">eval-log #003</a>.
+      </div>
+      <div class="tradeoff">
+        <strong>🆕 v6 — Boost sin recorte:</strong> antes era <code>min(1.0, score + TITLE_BOOST)</code>, y los 7 mejores chunks de un artículo empataban en 1.000. El top-5 se decidía por orden de llegada y la receta entraba o no al azar. Ahora el score queda en [0, 1.3] y el cross-encoder ordena dentro del artículo. Se midió contra quitar el boost (A/B): sin boost, la fuente citada se iba a artículos genéricos (<em>Crafting</em> en vez de <em>Crafting Table</em>). Ver <a href="eval-log.md">eval-log #007</a>.
       </div>
 
       <h4>Código real</h4>
-      <pre><code><span class="kw">def</span> <span class="fn">rerank</span>(query: <span class="ty">str</span>, hits: <span class="ty">list</span>[Hit], top_k: <span class="ty">int</span> = <span class="num">5</span>) -> <span class="ty">list</span>[Hit]:
+      <pre><code><span class="kw">def</span> <span class="fn">rerank</span>(query: <span class="ty">str</span>, hits: <span class="ty">list</span>[Hit], top_k: <span class="ty">int</span> = <span class="num">5</span>,
+           boost_queries: <span class="ty">list</span>[<span class="ty">str</span>] | <span class="kw">None</span> = <span class="kw">None</span>) -> <span class="ty">list</span>[Hit]:
+    <span class="cmt"># query = traducción fiel al inglés (v6); boost_queries = original + variantes</span>
     <span class="kw">if not</span> hits: <span class="kw">return</span> []
 
     reranker = <span class="fn">get_reranker</span>()  <span class="cmt"># @lru_cache — carga 1 sola vez</span>
+    scores = reranker.<span class="fn">predict</span>([(query, hit.text) <span class="kw">for</span> hit <span class="kw">in</span> hits])  <span class="cmt"># logits</span>
 
-    <span class="cmt"># El cross-encoder espera pares [(query, doc), ...]</span>
-    pairs = [(query, hit.text) <span class="kw">for</span> hit <span class="kw">in</span> hits]
-    scores = reranker.<span class="fn">predict</span>(pairs)  <span class="cmt"># devuelve logits</span>
+    boosted = []
+    <span class="kw">for</span> hit, logit <span class="kw">in</span> <span class="fn">zip</span>(hits, scores):
+        score = <span class="fn">_sigmoid</span>(<span class="fn">float</span>(logit))
+        matched, factor = <span class="fn">_title_matches_query</span>(hit.title, boost_queries <span class="kw">or</span> [query])
+        <span class="kw">if</span> matched:
+            score = score + TITLE_BOOST * factor  <span class="cmt"># v6: sin min(1.0, ...)</span>
+        boosted.<span class="fn">append</span>((hit, score))
 
-    <span class="cmt"># Ordena por score DESC, toma top_k, aplica sigmoide para [0,1]</span>
-    scored = <span class="fn">sorted</span>(<span class="fn">zip</span>(hits, scores), key=<span class="kw">lambda</span> p: p[<span class="num">1</span>], reverse=<span class="kw">True</span>)[:top_k]
-    <span class="kw">return</span> [
-        <span class="fn">Hit</span>(text=h.text, title=h.title, url=h.url,
-            category=h.category, score=<span class="fn">round</span>(<span class="fn">sigmoid</span>(s), <span class="num">3</span>))
-        <span class="kw">for</span> h, s <span class="kw">in</span> scored
-    ]</code></pre>
+    boosted.<span class="fn">sort</span>(key=<span class="kw">lambda</span> p: p[<span class="num">1</span>], reverse=<span class="kw">True</span>)
+    <span class="kw">return</span> [hit.<span class="fn">_replace</span>(score=<span class="fn">round</span>(s, <span class="num">3</span>)) <span class="kw">for</span> hit, s <span class="kw">in</span> boosted[:top_k]]</code></pre>
       <div class="file-link">📁 <a href="../src/reranker.py"><code>src/reranker.py</code></a></div>
 
       <h4>Ejemplo del impacto real</h4>
@@ -730,11 +773,14 @@ Reglas:
       </div>
 
       <h4>Código real</h4>
-      <pre><code><span class="kw">def</span> <span class="fn">answer_question</span>(question: <span class="ty">str</span>, k: <span class="ty">int</span> = TOP_K) -> PipelineResult:
+      <pre><code><span class="kw">def</span> <span class="fn">answer_question</span>(question: <span class="ty">str</span>, k: <span class="ty">int</span> = TOP_K, format=<span class="str">"full"</span>) -> PipelineResult:
     debug = {}
 
-    <span class="cmt"># 1. Query rewriting (opcional)</span>
-    queries = <span class="fn">rewrite_query</span>(question) <span class="kw">if</span> QUERY_REWRITE <span class="kw">else</span> [question]
+    <span class="cmt"># 1. Query rewriting (opcional) — v6: también devuelve la traducción fiel</span>
+    <span class="kw">if</span> QUERY_REWRITE:
+        queries, rerank_query = <span class="fn">rewrite_query</span>(question)
+    <span class="kw">else</span>:
+        queries, rerank_query = [question], question
     debug[<span class="str">"rewrites_used"</span>] = <span class="fn">len</span>(queries)
 
     <span class="cmt"># 2. Retrieval — top-N por cada query, dedup</span>
@@ -743,14 +789,18 @@ Reglas:
     candidates = <span class="fn">_merge_dedupe</span>(raw_lists)
     debug[<span class="str">"candidates_after_dedup"</span>] = <span class="fn">len</span>(candidates)
 
-    <span class="cmt"># 3. Re-ranking (opcional) — con query ORIGINAL, no las reformulaciones</span>
+    <span class="cmt"># 3. Re-ranking (opcional) — v6: con la traducción fiel (ms-marco solo entiende inglés)</span>
     <span class="kw">if</span> RERANK <span class="kw">and</span> candidates:
-        hits = <span class="fn">rerank</span>(question, candidates, top_k=k)
+        hits = <span class="fn">rerank</span>(rerank_query, candidates, top_k=k, boost_queries=queries)
     <span class="kw">else</span>:
         hits = candidates[:k]
 
+    <span class="cmt"># 3.5 Score floor (v5): si nada es relevante, respuesta honesta sin llamar al LLM</span>
+    <span class="kw">if</span> (hits[<span class="num">0</span>].score <span class="kw">if</span> hits <span class="kw">else</span> <span class="num">0.0</span>) < MIN_ACCEPTABLE_SCORE:
+        <span class="kw">return</span> <span class="fn">PipelineResult</span>(question=question, answer=LOW_CONFIDENCE_ANSWER, ...)
+
     <span class="cmt"># 4. Generation</span>
-    answer = <span class="fn">generate_answer</span>(question, hits)
+    answer = <span class="fn">generate_answer</span>(question, hits, format=format)
 
     <span class="kw">return</span> <span class="fn">PipelineResult</span>(
         question=question, answer=answer,
@@ -1012,6 +1062,66 @@ META_PATTERNS = [
       <tr><td>Ruido en top (Cactus/Language/Cake) sobre 19 queries reales</td><td>14/19</td><td><strong>0/19</strong></td></tr>
     </table>
 
+    <div class="tradeoff">
+      <strong>⚠️ Revisión en v6:</strong> este "ruido" era un síntoma. Los artículos tipo lista dominaban porque el bug del chunker les generaba miles de chunks casi idénticos (<a href="#capa-chunker">ver Chunker</a>), y los scores de 0.0-0.006 del cross-encoder venían de que estaba ciego al español (<a href="#capa-reranker">ver Re-ranker</a>). La tabla de arriba se midió con los dos bugs activos.
+      <ul>
+        <li>El <strong>score floor</strong> sigue siendo útil: las 3 preguntas negativas del eval se rechazan bien.</li>
+        <li>El <strong>title boost</strong> sigue, ya sin recorte.</li>
+        <li>La <strong>blocklist</strong> quedó como pendiente de limpiar: bloquea artículos legítimos (Cake, Cactus, Banner, Fluid, Cooking, Player) solo por culpa del bug viejo.</li>
+      </ul>
+    </div>
+
+    <!-- ================ EVALUACIÓN (v6) ================ -->
+    <h2 id="evaluacion">🔬 Evaluación + fixes de causa raíz (v6)</h2>
+
+    <p>El sistema ya tenía rewriting, re-ranking, blocklist y boosts, pero seguía fallando la mitad de las veces. En v6 se dejó de agregar capas y se empezó a <strong>medir cada una</strong>.</p>
+
+    <h3>Eval set</h3>
+    <p><code>data/eval/eval_set.json</code> tiene 30 preguntas en español etiquetadas a mano, con fuente esperada y términos esperados en la respuesta:</p>
+    <ul>
+      <li>9 de pociones</li>
+      <li>8 de qué hace cada componente de redstone</li>
+      <li>7 de crafteo de redstone</li>
+      <li>3 de crafteo general</li>
+      <li>3 <strong>negativas</strong>, fuera del corpus, donde lo correcto es abstenerse</li>
+    </ul>
+    <pre><code>python scripts/benchmark.py --eval-set data/eval/eval_set.json --version mi-corrida</code></pre>
+    <p>Métricas:</p>
+    <ul>
+      <li>Fuente correcta en top-1 y en top-5.</li>
+      <li>Términos esperados presentes en la respuesta.</li>
+      <li>Falsas abstenciones: dice "no lo encontré" y le faltan los términos esperados.</li>
+      <li>Abstención correcta en las negativas.</li>
+    </ul>
+
+    <h3>Lo que destapó la medición</h3>
+    <table>
+      <tr><th>#</th><th>Hallazgo</th><th>Fix</th></tr>
+      <tr><td>001</td><td>El chunker duplicaba párrafos ~110x (113K chunks para 3.9M chars)</td><td>Cortes solo en la 2.ª mitad de la ventana</td></tr>
+      <tr><td>002</td><td><code>{{Brewing|...|base=...}}</code> → recetas base de pociones perdidas</td><td>Leer <code>base=</code> + re-scrape dirigido</td></tr>
+      <tr><td>003</td><td>Cross-encoder (solo inglés) daba 0.000 a preguntas en español</td><td>Re-rank con traducción fiel</td></tr>
+      <tr><td>004/005</td><td>El boost premiaba artículos genéricos; Haiku inventaba ingredientes</td><td>Prompt sin hechos inventados</td></tr>
+      <tr><td>006</td><td>Ruido en la propia métrica (top-1 estricto, abstención mal detectada)</td><td>Agregar top-5; las preguntas no se tocaron</td></tr>
+      <tr><td>007</td><td><code>min(1.0, score + boost)</code> empataba los mejores chunks</td><td>Boost sin recorte (A/B contra sin boost)</td></tr>
+      <tr><td>008/009</td><td>Receta enterrada en un chunk de otro tema; "make" la bajaba al #10</td><td>Chunks de receta "How to make X: ..."</td></tr>
+      <tr><td>010</td><td>Glosario sin "soporte para pociones"</td><td>Entrada nueva</td></tr>
+    </table>
+
+    <h3>Resultado</h3>
+    <table>
+      <tr><th>Métrica</th><th>Baseline</th><th>v6 (2 corridas)</th></tr>
+      <tr><td>Fuente top-1 correcta</td><td>52%</td><td><strong>100% (27/27)</strong></td></tr>
+      <tr><td>Fuente en top-5</td><td>78%</td><td><strong>100%</strong></td></tr>
+      <tr><td>Términos esperados en la respuesta</td><td>0.59</td><td><strong>0.89 – 0.94</strong></td></tr>
+      <tr><td>Falsas abstenciones</td><td>7/27</td><td><strong>0/27</strong></td></tr>
+      <tr><td>Negativas bien rechazadas</td><td>3/3</td><td>3/3</td></tr>
+      <tr><td>Chunks / ingest</td><td>113,584 / ~15 min</td><td><strong>8,408 / ~3 min</strong></td></tr>
+      <tr><td>Latencia p50 (end-to-end)</td><td>6.4 s</td><td>6.4 – 6.8 s</td></tr>
+    </table>
+    <div class="note">
+      <strong>Honestidad del número:</strong> este set se usó para <em>encontrar</em> los bugs, así que no es un test independiente. Con preguntas nuevas hay que esperar números más bajos. La bitácora completa (síntoma → evidencia → causa → opciones → decisión → resultado) está en <a href="eval-log.md"><code>docs/eval-log.md</code></a>.
+    </div>
+
     <h2 id="decisiones">📋 Decisiones que tomamos</h2>
     <p>Registro histórico de <em>qué</em> elegimos y <em>por qué</em>. Vale como referencia futura y como material de portafolio.</p>
 
@@ -1025,7 +1135,7 @@ META_PATTERNS = [
       </tr>
       <tr>
         <td>Fuente de datos</td>
-        <td>Minecraft Wiki (CC-BY-SA)</td>
+        <td>Minecraft Wiki (CC BY-NC-SA 3.0)</td>
         <td>HP/Sapiens (piratas)</td>
         <td>Legal para portafolio público</td>
       </tr>
@@ -1131,6 +1241,36 @@ META_PATTERNS = [
         <td>Siempre llamar al LLM y dejarlo decir "no sé"</td>
         <td>Ahorra ~$0.005 + ~2s por query, mejor UX con hint de retry en inglés</td>
       </tr>
+      <tr>
+        <td>Cómo evaluar <strong>🆕 v6</strong></td>
+        <td>Eval set etiquetado (30 preguntas, con negativas) + top-1/top-5/abstención</td>
+        <td>Seguir con el backfill de 10 queries / Ragas</td>
+        <td>Barato, determinístico y suficiente para encontrar 5 causas raíz; Ragas añade un LLM-juez y más dependencias</td>
+      </tr>
+      <tr>
+        <td>Re-rank en español <strong>🆕 v6</strong></td>
+        <td>Traducción fiel al inglés (de la misma llamada a Haiku)</td>
+        <td>Cross-encoder multilingüe (mmarco-mMiniLMv2)</td>
+        <td>Costo ~0 vs ~470 MB extra y más latencia</td>
+      </tr>
+      <tr>
+        <td>Title boost <strong>🆕 v6</strong></td>
+        <td>Sin recorte (score en [0, 1.3])</td>
+        <td>Quitar el boost (medido en A/B)</td>
+        <td>Mismo rendimiento dentro del ruido, pero cita el artículo específico y no el genérico</td>
+      </tr>
+      <tr>
+        <td>Recetas enterradas <strong>🆕 v6</strong></td>
+        <td>Chunks de receta dedicados, redactados como respuesta</td>
+        <td>Encabezados contextuales en todos los chunks (re-scrape completo)</td>
+        <td>3 min de re-ingest vs ~25 min de re-scrape; ataca el foco del proyecto</td>
+      </tr>
+      <tr>
+        <td>Distribución del corpus <strong>🆕 v6</strong></td>
+        <td>Versionar <code>data/wiki/</code> (6.6 MB) en el repo</td>
+        <td>Que cada quien scrapee (~30 min)</td>
+        <td>Quien clona solo corre el ingest (~3 min); licencia CC BY-NC-SA con atribución</td>
+      </tr>
     </table>
 
     <h2 id="latencia">⚡ Latencia y costos por query</h2>
@@ -1145,12 +1285,21 @@ META_PATTERNS = [
     </table>
     <div class="note">
       <strong>96% del costo</strong> es la generation con Sonnet. Haiku es marginal. Los modelos locales (embeddings + reranker) son gratis pero suman ~700ms.
+      <br><strong>Medido en v6:</strong> la latencia end-to-end real (benchmark, CPU local) es de <strong>6.4 – 6.8 s en p50</strong> y ~8.7 – 9.3 s en p95. La tabla de arriba era una estimación optimista por paso.
     </div>
 
-    <h2 id="proximos">🔮 Qué sigue (Fase v4)</h2>
-    <p>Con este v3 el sistema es sólido para portafolio personal. Para llevarlo a "producción vendible a empresas" faltaría:</p>
+    <h2 id="proximos">🔮 Qué sigue</h2>
+    <p><strong>Pendientes inmediatos (post-v6):</strong></p>
     <ul>
-      <li><strong>Evaluación con Ragas</strong> — métricas objetivas (faithfulness, context recall, answer relevance). <em>Prioritario</em>.</li>
+      <li>Limpiar la blocklist: quitar Cake, Cactus, Banner, Fluid, Cooking y Player, agregar 2 preguntas al eval y volver a medir.</li>
+      <li>Pasar <code>ipykernel</code> a un <code>requirements-notebook.txt</code>: la app no lo usa y <code>debugpy</code> rompe <code>pip</code> en Windows con rutas largas.</li>
+      <li>Cambiar el ejemplo <code>curl</code> del README por uno sin acentos (da 400 desde Git Bash en Windows).</li>
+      <li>Armar un eval set <strong>independiente</strong> de ~20 preguntas que no se use para tunear.</li>
+      <li>Probar Docker de un comando, correr pytest en GitHub Actions y subir capturas del widget y del bot al README.</li>
+    </ul>
+    <p>Para llevarlo a "producción vendible a empresas" faltaría:</p>
+    <ul>
+      <li><strong>Evaluación con Ragas</strong> — faithfulness, context recall y answer relevance, como complemento del eval set de v6.</li>
       <li><strong>Hybrid retrieval</strong> (BM25 + vector) — para queries con nombres propios o siglas exactas.</li>
       <li><strong>Observability</strong> con Langfuse — trazas de cada request, latencias, costos, evolución.</li>
       <li><strong>Semantic caching</strong> — cachear respuestas de queries similares.</li>

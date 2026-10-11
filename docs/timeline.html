@@ -212,7 +212,7 @@
   <header>
     <a href="pipeline.html" class="back-link">← Volver al pipeline técnico</a>
     <h1>🕰️ Timeline del proyecto</h1>
-    <p class="sub">RAG sobre la Minecraft Wiki — 5 iteraciones de mejora dirigidas por evidencia real, no por checklist de features.</p>
+    <p class="sub">RAG sobre la Minecraft Wiki — 6 iteraciones de mejora dirigidas por evidencia real, no por checklist de features.</p>
   </header>
 
   <div class="container">
@@ -397,6 +397,80 @@
             <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>0/19 queries</strong> 🎯</td>
           </tr>
         </table>
+
+        <p style="margin-top: 14px;"><strong>⚠️ Revisión en v6:</strong> el "ruido" era un síntoma. La causa raíz fue un bug del chunker, que duplicaba párrafos ~110 veces: los artículos tipo lista (Language, Death messages) tenían miles de copias y por eso aparecían en cualquier búsqueda. La blocklist lo tapaba, y el 90% de esta tabla se midió con el bug activo. La conclusión "filtros de dominio &gt; más ML" estaba equivocada: era un bug de ingeniería básica.</p>
+      </div>
+
+      <!-- ============ v6 ============ -->
+      <div class="card">
+        <h2>v6 — Evaluación seria + fixes de causa raíz</h2>
+        <div class="meta">🎯 Objetivo: dejar el proyecto como entregable para el CV con métricas honestas, y entender por qué seguía fallando la mitad de las veces.</div>
+
+        <p><strong>Lo que salió:</strong></p>
+        <ul>
+          <li>Un eval set etiquetado de 30 preguntas (pociones, redstone, crafteo y 3 negativas) con métricas de top-1, top-5 y abstención correcta/falsa.</li>
+          <li>La bitácora <code>docs/eval-log.md</code>, con 10 hallazgos documentados.</li>
+          <li>Cinco fixes de causa raíz: chunker, template de brewing, re-rank con traducción fiel al inglés, boost sin recorte y chunks de receta redactados como respuesta.</li>
+          <li>El corpus quedó versionado, el README está en inglés y hay 11 tests. Todo se probó desde un clon limpio.</li>
+        </ul>
+
+        <h3><span class="section-label brain">🧠 Decisiones de orquestación</span></h3>
+        <ul>
+          <li><strong>Medir antes de tocar nada</strong>: el baseline se corrió con el índice con bug, así que la tabla antes/después es real y no una estimación.</li>
+          <li><strong>Un cambio a la vez, cada falla consultada</strong>: síntoma → evidencia → causa → opciones con costo/beneficio → decisión → resultado medido.</li>
+          <li><strong>A/B con datos</strong>: "boost sin recorte" contra "sin boost" se decidió con dos corridas, no por intuición.</li>
+          <li><strong>Traducción fiel para el cross-encoder</strong> en vez de un cross-encoder multilingüe, que pesaba ~470 MB y agregaba latencia.</li>
+          <li><strong>Chunks de receta dedicados</strong> en vez de re-scrapear todo con encabezados (~25 min y más riesgo antes del CV).</li>
+          <li><strong>No mover la vara</strong>: las preguntas y los términos esperados no se tocaron para inflar números; el ruido de etiquetado se reporta.</li>
+        </ul>
+
+        <h3><span class="section-label bug">🐛 Problemas que detecté midiendo</span></h3>
+        <ul>
+          <li><strong>Chunker</strong>: avanzaba 1 carácter por iteración y generaba 113,584 chunks para 3.9M caracteres (19x).</li>
+          <li><strong>Template <code>{{Brewing}}</code></strong>: el parámetro <code>base=</code> va con nombre, así que las recetas base de pociones nunca se guardaron (falla silenciosa).</li>
+          <li><strong>Cross-encoder ms-marco (solo inglés)</strong>: desde v2 puntuaba 0.000 todas las preguntas en español, y el orden lo decidía el title boost.</li>
+          <li><strong><code>min(1.0, score + boost)</code></strong>: empataba los mejores chunks, así que la receta entraba o no al top-5 al azar.</li>
+          <li><strong>Recetas enterradas</strong>: quedaban en un chunk de otro tema, y con "make" en vez de "craft" el cross-encoder las bajaba al #10.</li>
+          <li><strong>Haiku</strong>: inventaba ingredientes en las reformulaciones (Fermented Spider Eye para la poción de velocidad).</li>
+        </ul>
+
+        <h3><span class="section-label learn">📚 Lo que aprendí</span></h3>
+        <ul>
+          <li><strong>Antes de tunear retrieval, inspecciona los chunks</strong>: cuántos son, de qué tamaño y si se repiten.</li>
+          <li>Un guard que evita un crash (<code>max(..., start + 1)</code>) puede esconder el bug en vez de evitarlo.</li>
+          <li>Revisa en qué idioma se entrenó cada modelo del pipeline.</li>
+          <li>Un eval con preguntas negativas y top-k cuenta la historia completa. Uno usado para encontrar bugs no es un test independiente.</li>
+          <li>Medir cada capa le ganó a seguir agregando capas.</li>
+        </ul>
+
+        <h3><span class="section-label goal">📈 Impacto medido</span> <small>(30 preguntas; final = 2 corridas)</small></h3>
+        <table style="width:100%; border-collapse: collapse; margin-top: 10px;">
+          <tr style="background:#F5EBD8;">
+            <th style="padding: 6px; border: 1px solid #8B5A2B; text-align:left;">Métrica</th>
+            <th style="padding: 6px; border: 1px solid #8B5A2B;">Baseline</th>
+            <th style="padding: 6px; border: 1px solid #8B5A2B;">v6</th>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Fuente top-1 correcta</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">52%</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>100% (27/27)</strong></td>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Falsas abstenciones</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">7/27</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>0/27</strong></td>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Términos esperados en la respuesta</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">0.59</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>0.89 – 0.94</strong></td>
+          </tr>
+          <tr>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">Chunks en el índice / tiempo de ingest</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;">113,584 / ~15 min</td>
+            <td style="padding: 6px; border: 1px solid #8B5A2B;"><strong>8,408 / ~3 min</strong></td>
+          </tr>
+        </table>
       </div>
 
     </div>
@@ -439,11 +513,15 @@
         <span class="tag bug">Prompt CHAT demasiado defensivo</span>
         <span class="tag bug">Templates borrados por strip_code</span>
         <span class="tag bug">Language/Cactus dominando retrieval</span>
+        <span class="tag bug">Chunker duplicando párrafos 110x</span>
+        <span class="tag bug">Cross-encoder ciego al español</span>
+        <span class="tag brain">Eval set antes de tunear</span>
+        <span class="tag brain">Traducción fiel para el re-rank</span>
+        <span class="tag learn">Medir cada capa &gt; agregar capas</span>
         <span class="tag learn">Bi-encoder + cross-encoder pipeline</span>
         <span class="tag learn">Feature flags para A/B testing</span>
         <span class="tag learn">Anti-alucinación balanceada</span>
         <span class="tag learn">Observabilidad revela bugs invisibles</span>
-        <span class="tag learn">Filtros de dominio &gt; más ML</span>
       </div>
     </div>
 

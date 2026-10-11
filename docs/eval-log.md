@@ -274,3 +274,22 @@ Términos que aún faltan:
 - La única respuesta parcial real es la de la poción de debilidad, que no menciona la Golden Apple.
 
 **Sobreajuste.** Este eval set se usó para *encontrar* los bugs, así que no es un test independiente. Los fixes #001, #002, #003, #007, #008 y #009 son generales: arreglan mecanismos, no preguntas. El #010 (glosario) sí salió de una pregunta concreta. Con preguntas nuevas hay que esperar números más bajos. Siguiente paso recomendado: un segundo set de ~20 preguntas que no se use para tunear.
+
+---
+
+## Pendientes (actualizado 2026-10-11)
+
+Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo lo de v6. Docs actualizados a v6: `README.md`, este log, `docs/pipeline.html` y `docs/timeline.html`.
+
+1. **Visibilidad.** Confirmar que el repo está en **Public** (Settings → Danger Zone). Al hacerlo público, el email `argomezflores@gmail.com` queda visible en el User-Agent (`.env.example`, `src/config.py`, notebook). Opción: cambiarlo por la URL del repo, que la wiki también acepta como contacto.
+2. **`ipykernel` fuera de `requirements.txt`.** La app no lo usa (solo el notebook), y su dependencia `debugpy` tiene rutas tan largas que `pip install` falló en Windows al clonar en una carpeta anidada. Moverlo a `requirements-notebook.txt`.
+3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
+4. **Blocklist** ([src/corpus_filters.py](../src/corpus_filters.py)). Cake, Cactus, Banner, Fluid, Cooking y Player se bloquearon por el bug del chunker (#001), así que "¿cómo hago un pastel?" nunca encuentra Cake. Quitarlos, agregar 2 preguntas al eval y volver a medir.
+5. **Docs desactualizados.** `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
+6. **Capturas** del widget y del bot in-game → `docs/img/`, enlazadas desde el README (las toma Rogelio).
+7. **CV.** Los bullets con los números finales ya están. Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026.
+8. **Opcional, después del CV:**
+   - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
+   - Docker de un comando (el compose está corregido pero sin probar).
+   - pytest en GitHub Actions.
+   - Upgrade de modelos.
