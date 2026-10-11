@@ -427,15 +427,13 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
 4. ~~**Blocklist**~~ ✅ hecho, ver #012.
 5. **Docs desactualizados.** `pipeline.html` y `timeline.html` están en v6 pero no incluyen #011/#012 (ampliación de cobertura y blocklist). `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
-6. **Capturas** (las toma Rogelio). Al tenerlas, enlazarlas en el README, en la sección "Why I built this" o justo después:
-   - `docs/img/widget-bad-omen.png`: el widget respondiendo "Tomé una poción de Bad Omen y no pasó nada, ¿qué hace?". Es la misma pregunta de la historia del README.
+6. **Capturas** (las toma Rogelio). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
+   - `docs/img/widget-bad-omen.png`: el chat respondiendo "Tomé una poción de Bad Omen y no pasó nada, ¿qué hace?". Es un botón de ejemplo en la bienvenida.
    - `docs/img/ingame-bot.png`: el chat de Minecraft con `!rag <pregunta>` y la respuesta de MineRag.
-7. **CV.** Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026. Bullets actualizados (2026-10-11), con el re-ranking resaltado:
+7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión corta que cabe en el CV (2026-10-11):
    > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
-   > - Built a from-scratch RAG assistant (no LangChain) over 1,200+ Minecraft Wiki articles: Claude query rewriting, ChromaDB vector search and cross-encoder re-ranking, served via FastAPI to a web widget and an in-game bot.
-   > - Designed an evaluation harness that exposed five root-cause bugs. Re-ranking against a faithful English translation of Spanish queries raised top-1 retrieval accuracy from 67% to 93%, and the full set of fixes reached 100% on a 27-question dev set (5/6 on unseen questions) with zero false "not found" answers.
-
-   Versión de una línea: *Built a from-scratch RAG assistant over 1,200+ Minecraft Wiki articles (Claude query rewriting, ChromaDB, cross-encoder re-ranking); an evaluation harness exposed five root-cause bugs, and fixing them raised top-1 retrieval accuracy from 52% to 100% on a dev set.*
+   > - Built a RAG assistant over 1,200+ Minecraft Wiki articles (Claude, ChromaDB, cross-encoder re-ranking, FastAPI, in-game bot).
+   > - Eval harness exposed 5 root-cause bugs; fixing re-ranking for Spanish queries lifted top-1 accuracy from 67% to 93% (100% on dev set).
 
    En entrevista, decir que el 100% es sobre el dev set y que en preguntas independientes fue 5/6.
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).

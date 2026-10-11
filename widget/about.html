@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cómo funciona — Minecraft Wiki Assistant</title>
+  <link rel="icon" href="grass-block.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="chat-widget.css">
+</head>
+<body class="rag-page-body">
+  <header class="mc-header">
+    <a class="mc-brand" href="./">
+      <img src="grass-block.svg" alt="">
+      <h1>Minecraft Wiki Assistant</h1>
+    </a>
+    <nav class="mc-tabs" aria-label="Secciones">
+      <a class="mc-btn" href="./">Chat</a>
+      <a class="mc-btn is-active" href="about.html" aria-current="page">Cómo funciona</a>
+    </nav>
+  </header>
+
+  <main class="mc-doc">
+    <section class="mc-panel">
+      <h2>Por qué existe</h2>
+      <p>Mis hermanos y yo volvimos a Minecraft después de años sin jugar. El juego había cambiado mucho y se nos habían olvidado hasta las recetas. Un día tomamos una poción de <strong>Bad Omen</strong>, no pasó nada y nadie sabía qué hacía. Así nació este asistente: seguimos jugando el mismo mundo y, cuando surge una duda, se la preguntamos en español sin salir del juego.</p>
+    </section>
+
+    <section class="mc-panel">
+      <h2>Cómo responde una pregunta</h2>
+      <ol>
+        <li><strong>Reformula</strong> tu pregunta con Claude Haiku: una traducción fiel al inglés y dos variantes de búsqueda, más un glosario español→inglés (tolva → Hopper).</li>
+        <li><strong>Busca</strong> en unos 11,000 fragmentos de la wiki con embeddings locales (MiniLM + ChromaDB), 20 candidatos por variante.</li>
+        <li><strong>Re-rankea</strong> con un cross-encoder que compara cada fragmento contra la traducción fiel y se queda con los 5 mejores.</li>
+        <li>Si ninguno es relevante, <strong>te dice que no lo encontró</strong> en vez de inventar.</li>
+        <li><strong>Responde</strong> con Claude Sonnet usando solo esos fragmentos y cita la fuente de cada dato.</li>
+      </ol>
+    </section>
+
+    <section class="mc-panel">
+      <h2>Qué sabe</h2>
+      <p>1,242 artículos de la wiki: bloques, items, recetas de crafteo, hornos y pociones, encantamientos, redstone, mobs y jefes, estructuras, dimensiones y biomas.</p>
+      <p><strong>Lo que todavía le cuesta:</strong></p>
+      <ul>
+        <li>Preguntas que describen algo sin nombrarlo ("¿qué mob azul vuela y recoge items?").</li>
+        <li>Preguntas de varios pasos cuya respuesta está en varios artículos ("¿cómo llego al End?").</li>
+        <li>Algunos items y bloques todavía no están en el corpus.</li>
+      </ul>
+    </section>
+
+    <section class="mc-panel">
+      <h2>Úsalo dentro del juego</h2>
+      <ol>
+        <li>Con la API corriendo, abre tu mundo: <strong>ESC → Open to LAN</strong> y copia el puerto que sale en el chat.</li>
+        <li>En <code>minecraft_bot/</code>: <code>set MC_PORT=&lt;puerto&gt;</code> y luego <code>node bot.js</code>.</li>
+        <li>En el chat del juego: <code>!rag ¿cómo hago una poción de velocidad?</code></li>
+      </ol>
+    </section>
+
+    <section class="mc-panel">
+      <h2>Qué tan bien funciona</h2>
+      <table>
+        <tr><th>Métrica</th><th>Antes</th><th>Ahora</th></tr>
+        <tr><td>Fuente correcta en #1 (dev set)</td><td>52%</td><td>100%</td></tr>
+        <tr><td>Preguntas nuevas, no usadas para ajustar</td><td>1/6</td><td>5/6</td></tr>
+        <tr><td>"No lo encontré" teniendo la respuesta</td><td>7</td><td>0</td></tr>
+      </table>
+      <p>El detalle de cada bug y cada decisión está en el <a href="https://github.com/argomezflores/minecraft-rag/blob/main/docs/eval-log.md" target="_blank" rel="noopener">eval log</a> del <a href="https://github.com/argomezflores/minecraft-rag" target="_blank" rel="noopener">repo en GitHub</a>.</p>
+    </section>
+
+    <section class="mc-panel">
+      <p>Contenido de la <a href="https://minecraft.wiki" target="_blank" rel="noopener">Minecraft Wiki</a> (CC BY-NC-SA 3.0). Proyecto no oficial, sin relación con Mojang ni Microsoft.</p>
+    </section>
+  </main>
+</body>
+</html>
