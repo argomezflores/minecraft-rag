@@ -430,10 +430,11 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 6. **Capturas** (las toma Rogelio). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
    - ✅ `docs/img/demo.gif` (4.9 MB, acelerado 1.5×): grabación del chat web respondiendo la poción de resistencia al fuego y el repeater. Ya está enlazado arriba en el README.
    - `docs/img/ingame-bot.png`: el chat de Minecraft con `!rag <pregunta>` y la respuesta de MineRag.
-7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión corta que cabe en el CV (2026-10-11):
+7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión final (2026-10-11): 3 bullets de una línea cada uno, con el re-ranking resaltado:
    > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
-   > - Built a RAG assistant over 1,200+ Minecraft Wiki articles (Claude, ChromaDB, cross-encoder re-ranking, FastAPI, in-game bot).
-   > - Eval harness exposed 5 root-cause bugs; fixing re-ranking for Spanish queries lifted top-1 accuracy from 67% to 93% (100% on dev set).
+   > - Built a RAG assistant from scratch over 1,200+ Minecraft Wiki articles (Claude, ChromaDB, cross-encoder re-ranking).
+   > - Eval harness exposed 5 root-cause bugs; re-ranking fix took top-1 accuracy 67% → 93% (100% on dev set, 5/6 unseen).
+   > - Served via FastAPI to a Minecraft-styled web chat and an in-game bot; cut the vector index 10× (113K → 11K chunks).
 
    En entrevista, decir que el 100% es sobre el dev set y que en preguntas independientes fue 5/6.
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
