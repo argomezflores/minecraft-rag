@@ -83,10 +83,11 @@ def answer_question(
 
     # --- Paso 1: Query rewriting (opcional) ---
     if QUERY_REWRITE:
-        queries = rewrite_query(question)
+        queries, rerank_query = rewrite_query(question)
     else:
-        queries = [question]
+        queries, rerank_query = [question], question
     debug["rewrites_used"] = len(queries)
+    debug["rerank_query"] = rerank_query
 
     # --- Paso 2: Retrieval ---
     # 📚 Si vamos a re-rankear, casteamos red amplia (top-N por query).
@@ -98,11 +99,13 @@ def answer_question(
 
     # --- Paso 3: Re-ranking (opcional) ---
     if RERANK and candidates:
-        # 📚 Ojo: usamos la pregunta ORIGINAL para re-rankear, no las reformulaciones.
-        # Queremos relevancia respecto a la intención real del usuario.
+        # 📚 Re-rankeamos con la TRADUCCIÓN FIEL al inglés, no con la original:
+        # el cross-encoder (ms-marco) solo entiende inglés y con español
+        # puntuaba todo ~0 (docs/eval-log.md #003). La traducción fiel conserva
+        # la intención real sin los ingredientes que Haiku inventa en las otras variantes.
         # 📚 v5: pasamos también las reformulaciones al boost por título — así
         # queries en español activan el boost del artículo en inglés (via glosario).
-        hits = rerank(question, candidates, top_k=k, boost_queries=queries)
+        hits = rerank(rerank_query, candidates, top_k=k, boost_queries=queries)
     else:
         hits = candidates[:k]
     debug["final_hits"] = len(hits)

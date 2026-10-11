@@ -101,7 +101,9 @@ def rerank(
         score = _sigmoid(float(logit))
         matched, factor = _title_matches_query(hit.title, queries_for_boost)
         if matched:
-            score = min(1.0, score + TITLE_BOOST * factor)
+            # 📚 Sin recorte a 1.0: con min(1.0, ...) los mejores chunks de un
+            # artículo empataban y se perdía el orden fino (docs/eval-log.md #007).
+            score = score + TITLE_BOOST * factor
         boosted.append((hit, score))
 
     # 📚 Ordenamos por score final (sigmoide + boost) descendente.

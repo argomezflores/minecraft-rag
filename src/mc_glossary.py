@@ -34,6 +34,7 @@ MC_TERMS_ES_EN: dict[str, str] = {
     "mesa de encantamientos": "Enchanting Table",
     "mesa de encantamiento": "Enchanting Table",
     "soporte de pociones": "Brewing Stand",
+    "soporte para pociones": "Brewing Stand",  # nombre oficial en español (eval-log #010)
     "caldero": "Cauldron",
     "faro": "Beacon",
     "conducto": "Conduit",

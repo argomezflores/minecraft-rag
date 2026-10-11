@@ -48,15 +48,47 @@ def get_collection(reset: bool = False):
     )
 
 
+# 📚 Prefijos de las frases que generan los converters de recetas en scraper.py.
+_RECIPE_PREFIXES = ("Crafting recipe", "Smelting recipe", "Brewing recipe")
+
+
+def recipe_chunks(article: WikiArticle) -> list[str]:
+    """
+    Cada línea de receta del artículo como chunk propio, redactado como respuesta.
+
+    📚 El chunker corta por tamaño: la receta puede quedar enterrada en un chunk
+    sobre otro tema (ej. "Natural generation") y ninguna query de crafteo lo trae
+    (docs/eval-log.md #008). Duplicarla como chunk dedicado garantiza que exista
+    un vector que hable SOLO de la receta.
+
+    📚 Formato "How to make <producto> (<método>): ..." porque el cross-encoder
+    (ms-marco) puntúa mejor un pasaje con forma de respuesta que una lista seca
+    (#009). El producto sale de la receta (después de "→"), no del título: en la
+    página de Sugar, la receta produce Potion of Swiftness.
+    """
+    recipes = []
+    for ln in (ln.strip() for ln in article.text.splitlines()):
+        if not ln.startswith(_RECIPE_PREFIXES):
+            continue
+        output = ln.rsplit("→", 1)[-1].strip().rstrip(".") if "→" in ln else article.title
+        method = ln.split(" ", 1)[0].lower()
+        recipes.append(f"How to make {output} ({method}): {ln}")
+    return list(dict.fromkeys(recipes))  # dedup preservando orden
+
+
 def ingest_article(article: WikiArticle, collection) -> int:
     """Ingesta un artículo. Devuelve el número de chunks agregados."""
     chunks = split_text(article.text, CHUNK_SIZE, CHUNK_OVERLAP)
-    if not chunks:
+    recipes = recipe_chunks(article)
+    if not chunks and not recipes:
         return 0
 
     # 📚 ID único e idempotente: si re-ingestas el mismo artículo,
     # los chunks se sobrescriben en lugar de duplicarse.
-    ids = [f"{safe_filename(article.title)}_c{i}" for i in range(len(chunks))]
+    safe_title = safe_filename(article.title)
+    ids = [f"{safe_title}_c{i}" for i in range(len(chunks))]
+    ids += [f"{safe_title}_r{i}" for i in range(len(recipes))]
+    documents = chunks + recipes
 
     # 📚 Metadata útil para citar la fuente y filtrar por categoría.
     metas = [
@@ -65,20 +97,21 @@ def ingest_article(article: WikiArticle, collection) -> int:
             "category": article.category,
             "url": article.url,
             "chunk_index": i,
+            "kind": "text" if i < len(chunks) else "recipe",
         }
-        for i in range(len(chunks))
+        for i in range(len(documents))
     ]
 
-    embeddings = embed_texts(chunks)
+    embeddings = embed_texts(documents)
 
     # 📚 upsert = insert-or-update. Si el ID ya existe, lo reemplaza.
     collection.upsert(
         ids=ids,
-        documents=chunks,
+        documents=documents,
         embeddings=embeddings,
         metadatas=metas,
     )
-    return len(chunks)
+    return len(documents)
 
 
 def ingest_all(reset: bool = False) -> None:

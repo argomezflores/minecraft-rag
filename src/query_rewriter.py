@@ -19,7 +19,7 @@ Ejemplo:
   Output: [
     "cómo crafteo una tolva",                          # original
     "¿Cómo se craftea un Hopper y para qué sirve?",     # rewrite Haiku 1
-    "Hopper crafting recipe iron ingots",               # rewrite Haiku 2
+    "Hopper crafting recipe",                           # rewrite Haiku 2
     "cómo crafteo un Hopper",                           # 🆕 glosario ES→EN garantizado
   ]
 """
@@ -41,18 +41,19 @@ from src.mc_glossary import translate_es_terms
 _REWRITE_PROMPT = """Eres un asistente que reformula preguntas de jugadores de Minecraft para mejorar la búsqueda en la wiki oficial (en inglés).
 
 Tu tarea: dado una pregunta, genera exactamente 3 REFORMULACIONES ÚTILES:
-1. Una versión clara y directa (puede estar en español).
-2. Una versión TÉCNICA en INGLÉS que USE NOMBRES OFICIALES de Minecraft (ej. "Hopper" no "tolva", "Anvil" no "yunque", "Diamond Pickaxe" no "pico de diamante", "Redstone Repeater" no "repetidor").
-3. Una versión que enfatice un ángulo específico (mecánicas relacionadas, stats, crafting recipe), preferentemente en inglés.
+1. TRADUCCIÓN FIEL al inglés: la misma pregunta en inglés natural, con NOMBRES OFICIALES de Minecraft (ej. "Hopper" no "tolva", "Anvil" no "yunque", "Diamond Pickaxe" no "pico de diamante", "Potion of Swiftness" no "poción de velocidad"). Sin agregar nada que no esté en la pregunta.
+2. Una versión TÉCNICA en INGLÉS tipo búsqueda (keywords) con nombres oficiales.
+3. Una versión que enfatice un ángulo específico (mecánicas relacionadas, stats, crafting/brewing recipe), preferentemente en inglés.
 
 Reglas ESTRICTAS:
 - Devuelve SOLO un JSON array con 3 strings. Nada más. Sin explicaciones. Sin markdown.
 - USA nombres oficiales en INGLÉS de Minecraft (Diamond Pickaxe, Redstone Repeater, Nether Wart, Hopper, Anvil, etc.).
-- La variación #2 SIEMPRE en inglés puro con nombres oficiales.
+- La variación #1 SIEMPRE es la traducción fiel; la #2 SIEMPRE en inglés puro.
+- NUNCA agregues ingredientes, materiales, cantidades ni datos que no estén en la pregunta. No adivines la respuesta: la wiki la encontrará.
 - No repitas frases idénticas.
 
 Ejemplo entrada: "cómo crafteo una tolva"
-Ejemplo salida: ["¿Cómo se craftea un Hopper en Minecraft?", "Hopper crafting recipe Iron Ingots Chest", "How to make a Hopper for item transport"]"""
+Ejemplo salida: ["How do I craft a Hopper?", "Hopper crafting recipe", "How to make a Hopper for item transport"]"""
 
 
 def _extract_json_array(text: str) -> list[str] | None:
@@ -69,13 +70,16 @@ def _extract_json_array(text: str) -> list[str] | None:
     return None
 
 
-def rewrite_query(question: str, n: int = 3) -> list[str]:
+def rewrite_query(question: str, n: int = 3) -> tuple[list[str], str]:
     """
-    Devuelve una lista de queries: la original + reformulaciones + variación del glosario.
+    Devuelve (queries, english):
+    - `queries`: la original + reformulaciones + variación del glosario.
+    - `english`: traducción fiel al inglés, para el cross-encoder (que solo
+      entiende inglés — ver docs/eval-log.md #003). Fallback: glosario → original.
 
     Flujo:
     1. Query original (siempre incluida).
-    2. Variaciones de Claude Haiku (hasta N).
+    2. Variaciones de Claude Haiku (hasta N). La #1 es la traducción fiel.
     3. 🆕 Variación GARANTIZADA del glosario ES→EN si detectamos términos españoles.
 
     Si Haiku falla, seguimos teniendo original + glosario (fallback robusto).
@@ -83,6 +87,7 @@ def rewrite_query(question: str, n: int = 3) -> list[str]:
     # 📚 Siempre incluimos la original como primer elemento.
     seen = {question.lower().strip()}
     result = [question]
+    english = ""
 
     # --- Paso 1: variaciones dinámicas de Haiku ---
     if ANTHROPIC_API_KEY:
@@ -97,6 +102,7 @@ def rewrite_query(question: str, n: int = 3) -> list[str]:
             text = response.content[0].text.strip()
             rewrites = _extract_json_array(text)
             if rewrites:
+                english = rewrites[0].strip()
                 for r in rewrites[:n]:
                     key = r.lower().strip()
                     if key and key not in seen:
@@ -114,4 +120,7 @@ def rewrite_query(question: str, n: int = 3) -> list[str]:
         seen.add(translated.lower().strip())
         print(f"[query_rewriter] glosario aplicado: {', '.join(detected)}")
 
-    return result
+    if not english:
+        english = translated if detected else question
+
+    return result, english
