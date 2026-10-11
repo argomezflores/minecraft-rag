@@ -1,0 +1,31 @@
+TITLE: Mine Revisitor
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mine_Revisitor
+---
+The mine revisitor is a block only present in 25w14craftmine. It resembles a re-textured sculk shrieker.
+
+Obtaining
+The mine revisitor is unobtainable in Survival mode, however it generates at the hub upon creating a world and is in the Creative mode inventory.
+
+Usage
+Can be used to re-visit mines the player has already generated.
+Once used, the player will be put in Adventure mode and will be transported to the mine they want to re-visit.
+The player will also be given an eye of exit once transported to the mine they are re-visiting.
+
+Sounds
+
+Unique
+
+Data values
+ID
+:
+
+Issues
+
+Navigation
+
+it:Rivisitatore di miniere
+ja:Mine Revisitor
+pt:Edição Java 25w14craftmine/Mine Revisitor
+ru:Возвращатель шахт
+zh:矿境回访器

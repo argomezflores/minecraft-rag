@@ -1,0 +1,53 @@
+TITLE: Chiseled Nether Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Nether_Bricks
+---
+Chiseled Nether bricks are a decorative variant of Nether bricks, crafted from Nether brick slabs.
+
+Obtaining
+Breaking
+Chiseled Nether bricks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Nether Brick Slab, Nether Brick Slab arranged in the crafting grid → Chiseled Nether Bricks.
+
+Stonecutting
+
+Usage
+Chiseled nether bricks are a decorative block. The block has the face of a wither skeleton engraved on it. See also Easter eggs#Mobs on chiseled blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+
+de:Gemeißelte Netherziegel
+fr:Briques du Nether sculptées
+ja:模様入りのネザーレンガ
+ko:조각된 네더 벽돌
+pt:Tijolos do Nether Talhados
+uk:Різьблена незерська цегла
+zh:雕纹下界砖块

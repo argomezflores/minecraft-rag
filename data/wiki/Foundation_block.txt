@@ -1,0 +1,30 @@
+TITLE: Foundation block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Foundation_block
+---
+The foundation block is a block used to build large symmetrical buildings.
+
+Usage
+Foundation blocks measure distances to other foundation blocks.
+
+Behavior
+When equipped, measures distance to other foundation blocks in 3D dimensional space.
+Can only be used when in build modes where the player has outlined box shown.
+
+Availability
+Block can be found in Creative inventory. Only teachers can see this block in their inventory.
+Can also be given in the Teacher Menu "give" section.
+Can be distributed by console command or with a command block.
+
+Data values
+ID of this block is 3726.
+
+History
+
+Navigation
+
+Category:MinecraftEdu blocks
+
+es:Foundation block
+ja:Foundation block
+pt:Bloco de base

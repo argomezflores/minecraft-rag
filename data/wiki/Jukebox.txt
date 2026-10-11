@@ -1,0 +1,136 @@
+TITLE: Jukebox
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Jukebox
+---
+A jukebox is a block used to insert and play music discs. Playing a disc causes it to produce a redstone signal and allows nearby allays to duplicate when given amethyst shards.
+
+Obtaining
+Breaking
+A jukebox can be broken using any tool, but an axe is the fastest. Jukeboxes also drop all of their contents.
+
+Crafting
+
+Crafting recipe: Any Planks, Any Planks, Any Planks, Any Planks, Diamond, Any Planks, Any Planks, Any Planks, Any Planks arranged in the crafting grid → Jukebox.
+
+Usage
+Playback
+a music disc on a jukebox inserts the disc and plays music or other audio corresponding to the type of music disc used. Pressing  on the jukebox again ejects the disc and stops any music playing. Music discs play only once before they must be ejected and reinserted. Note particles emit out the top when sound is playing. Audio being played by a jukebox can be heard from up to 64 blocks away.
+
+Hoppers and droppers and crafters (via crafting disc fragments into music disc 5) can be used to insert discs into a jukebox.
+
+Tamed parrots and allays dance while in a 3 block radius from a jukebox that is playing a disc.
+
+Allay duplication
+thumb|An allay duplicating.
+If an amethyst shard is used on an allay dancing next to a playing jukebox, the allay splits in two (itself and a new allay) and the amethyst shard is consumed. Both allays have a 5-minute cooldown before they can be duplicated again.
+
+Redstone component
+
+A jukebox can act as a redstone power source. A redstone signal of strength 15 is emitted while music from a disc is playing, powering any adjacent redstone wire, redstone repeaters, and mechanism components. The signal turns off when the music track ends or if the disc is removed before the track ends. Being a power source, a jukebox redirects adjacent redstone wires to point to itself.
+
+A redstone comparator can read a jukebox to produce a signal that varies in strength based on which disc is inserted. The comparator emits power as long as the music disc is stored in the jukebox, even if it has stopped playing. The following table shows the redstone signal strength output for each disc.
+
+Disc Intensity(no disc) 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+Looping
+Jukeboxes disable adjacent hoppers while a music disc is playing inside them, due to them emitting a redstone signal even without using a comparator. When the song ends, the hopper placed below the jukebox is re-enabled, so the disc is automatically pulled out and stored in the hopper. To pull out the disc before the song ends, a minecart with hopper can be used, since it is not affected by the jukebox's redstone impulse.
+
+A system of hoppers and droppers can then be used to automatically re-insert the disc, causing it to loop. Multiple different discs can be inserted into a system to create music playlists.
+
+If a hopper under the jukebox is powered by anything else, it does not eject the disc, allowing systems to be paused once the current disc stops playing.
+
+Fuel
+Jukeboxes can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+Piston interactivity
+Jukeboxes cannot be pushed by pistons. They also cannot be pushed or pulled by sticky pistons.
+
+Sounds
+Music discs are not included here.
+
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+Block data
+A jukebox has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: The single item stack stored in this jukebox. Does not exist if the jukebox is empty. The item must have a jukebox_playable component in order to be placed into here by a player. Represents the container.0 (or contents) slot.
+
+: The number of ticks since the song started playing. Automatically stops the sound event of the song once it reaches the song's length in ticks, and controls when particles are created. Does not exist when there is no song playing or no item.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Trivia
+upright=0.4|thumb|C418's skin
+C418 has a Steve skin with a jukebox for a head, as a visual gag alluding to his role as lead musician at the time.
+In real life, a  can use a diamond-tipped stylus. Similarly, the jukebox uses a diamond as a crafting ingredient. It is unknown if this was a coincidence or a deliberate choice.
+
+Gallery
+Mojang screenshots
+
+In other media
+
+See also
+Music
+
+References
+
+External links
+Block of the Week: Jukebox – Minecraft.net on May 26, 2017
+
+Navigation
+
+Category:Manufactured blocks
+Category:Utility blocks
+Category:Storage
+Category:Block entities
+Category:Readable by comparators
+
+de:Plattenspieler
+el:Τζούκμποξ
+es:Tocadiscos
+fr:Jukebox
+hu:Zenegép
+it:Giradischi
+ja:ジュークボックス
+ko:주크박스
+nl:Jukebox
+pl:Szafa grająca
+pt:Toca-discos
+ru:Проигрыватель
+th:ตู้เพลง
+tr:Müzik Kutusu
+uk:Програвач
+zh:唱片机

@@ -1,0 +1,53 @@
+TITLE: Polished Blackstone Pressure Plate
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone_Pressure_Plate
+---
+A polished blackstone pressure plate is a polished blackstone variant of the pressure plate that can detect only players and mobs.
+
+Obtaining
+Breaking
+A polished blackstone pressure plate can be mined with anything, but pickaxes are the fastest. A polished blackstone pressure plate also breaks and drops itself if a piston extends or pushes a block into its location, or if the block under the pressure plate is moved or destroyed.
+
+Crafting
+
+Crafting recipe: Polished Blackstone, Polished Blackstone arranged in the crafting grid → Polished Blackstone Pressure Plate.
+
+Usage
+
+A polished blackstone pressure plate acts the same as a stone pressure plate, except for the lack of functionality as a crafting ingredient.
+
+Sounds
+Generic
+
+Unique
+
+Videos
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Non-solid blocks
+
+fr:Plaque de pression en pierre noire
+ja:磨かれたブラックストーンの感圧板
+ko:윤나는 흑암 압력판
+pt:Placa de Pressão de Pedra-Negra Polida
+uk:Натискна плита з полірованого чорнокаменю
+zh:磨制黑石压力板

@@ -1,0 +1,146 @@
+TITLE: Head
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Head
+---
+thumb|All heads and skulls.
+Heads (including skulls) are a group of 7  blocks based on the heads of players and 6 different mobs. All heads can be worn as helmets and serve as special note block instruments.
+
+Variants
+There are seven types of entity heads:
+
+Obtaining
+Mob loot
+The following heads drop when the corresponding mob is killed by a charged creeper's explosion:
+
+Dragon heads and player heads have corresponding mobs, but they don't drop when these mobs are killed by a charged creeper.
+
+If multiple mobs are killed by the explosion of a single charged creeper, only one head will drop from a mob randomly chosen from those killed in this explosion.
+
+A wither skeleton sometimes drops a wither skeleton skull when killed.
+
+Natural generation
+Skeleton skulls generate as part of ancient cities.
+A single dragon head generates at the front of End ships.
+
+Player head
+The player head is unobtainable in Survival, and can be obtained only by the Creative inventory, using  or executing commands.
+
+Usage
+Heads can be broken by fluids, dropping themselves unless destroyed by lava.
+Decoration
+Heads can be oriented in 16 different directions on top of a block, and 4 directions on the sides of blocks, similar to signs. They can be placed on top of or beside each other by shift-clicking.
+
+When placed and powered by redstone, the piglin and dragon heads play an animation. The piglin head flaps its ears (2 times per second for the right ear and 2.5 times per second for the left ear) while the dragon head opens and closes its mouth repeatedly (2 times per second). The same animation occurs when worn by a (horizontally) moving player, zombie, skeleton, or armor stand (note: the animation does not play if the NoGravity tag is set to 1).
+
+Wearing
+The player can wear heads, similarly to carved pumpkins or helmets. This overlays the second layer of the player's skin.
+
+Wearing the corresponding head reduces the detection range for skeletons (but not wither skeletons), creepers, zombies, and piglins to 50% of the normal range. This is similar to (and stacks with) the reductions in detection range from sneaking and from the Invisibility status effect.
+
+Wearing any head hides the player's waypoint on the locator bar. , wearing any head makes the player invisible to other players on a locator map.
+
+Dispensers
+A dispenser can equip a head on a player, mob, or armor stand with an empty helmet slot, within the block the dispenser is facing.
+
+Dispensers can place wither skeleton skulls to complete the construction of a wither unless the difficulty is set to peaceful.
+
+Crafting ingredient
+
+Enchantments
+Heads can receive the following enchantments, but only through an anvil.
++NameMax levelMethodCurse of BindingICurse of VanishingI
+
+Note blocks
+Placing a head above a note block causes the note block to play the corresponding mob's  sound when activated. The only exception is the creeper head; as creepers don't make  sounds, the note block plays the  (hissing) sound instead.
+
+The block below the note block does not affect the mob sound it creates.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Floor
+
+Wall
+
+:
+
+Block data
+A head has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: Optional. The custom name of the head or skull. Represents the  component.
+: Optional. If this block is a player head, this is the sound event produced by the note block that this head is placed on. Does nothing if present on any other head or skull type. Represents the  component.
+: Optional. The textures and/or player profile used to render a player head. If specified as a string, it corresponds to  and is always saved as a  compound. If omitted, a the wide Steve skin is used. Does nothing if present on any other head or skull type. Represents the  component.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Advancements
+
+History
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Heads do not have their own textures and take their textures from other objects.
+When breaking any head, the particle effect of breaking it is the same as soul sand.
+Despite there being a default Steve head, heads for the other default skins cannot be obtained without using custom names.
+, the skull variant for the item is stored under the  component, normally used for items with durability.
+
+Gallery
+Screenshots
+
+Development images
+
+In other media
+
+References
+
+Navigation
+
+Category:Mechanisms
+Category:Utility blocks
+Category:Block entities
+
+de:Kopf
+es:Cabeza
+fr:Tête
+hu:Mob fejek
+it:Testa
+ja:Mobの頭
+ko:몹 머리
+lzh:首
+nl:Wezenhoofd
+pl:Głowa
+pt:Cabeça
+ru:Голова
+uk:Голова
+zh:生物头颅

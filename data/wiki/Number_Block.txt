@@ -1,0 +1,23 @@
+TITLE: Number Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Number_Block
+---
+Number blocks were mathematical, decorative blocks in .
+
+Usage
+The number block was used to display algebra in a block texture, including integers, equations, inequalities, decimals, fractions and pi.
+
+Data values
+
+History
+
+Trivia
+There exists an unused texture for a Percent Symbol, but it is not a block ingame.
+
+Gallery
+
+Navigation
+
+ja:Number Block
+pt:Bloco numérico
+Category:MinecraftEdu blocks

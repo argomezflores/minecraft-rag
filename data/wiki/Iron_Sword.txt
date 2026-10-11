@@ -1,0 +1,114 @@
+TITLE: Iron Sword
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Iron_Sword
+---
+An iron sword is a variant of sword crafted from iron ingots. It is the third-highest tier of sword, dealing more damage and having more durability than stone and copper swords.
+
+Obtaining
+Crafting
+An iron sword is crafted using 1 stick and 2 iron ingots.
+
+Crafting recipe: Iron Ingot, Iron Ingot, Stick arranged in the crafting grid → Iron Sword.
+
+Generated loot
+
+Trading
+thumb|right|A weaponsmith trading an enchanted iron sword.
+
+Mob loot
+
+Zombies, husks and zombie villagers have a 0.67% (3.33% in Hard difficulty) chance of spawning with an iron sword. They have an 8.5% (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) chance of dropping that sword if they are killed by the player. The dropped sword is usually badly damaged, and may be enchanted: 0%–25% on Normal difficulty and 3.125%–25% on Hard difficulty, varying with regional difficulty, and enchanted as if on an enchanting table at level 5–22.
+
+A vex never drops its iron sword, because its main hand's  value is . This is not affected by the Looting enchantment.
+
+, pillagers and vindicators that spawn from raids have a 4.1% chance (or a 5.12% chance on Hard difficulty) of dropping a damaged iron sword. This sword has a 50% chance of being enchanted.
+
+Usage
+Breaking
+
+A sword can also be used to destroy certain blocks 50% quicker, sometimes much quicker than with fists. Using a sword to destroy any block that doesn't break instantly by hand decreases its durability by 2; this includes bamboo, despite that the sword is the fastest tool for breaking it.
+
+If a sword is enchanted with Silk Touch, either using Creative or commands, cobwebs the sword destroys drop the cobwebs themselves instead of the usual string. This is due to the sword being classified as the proper tool for cobwebs.
+
+Creative mode
+In Creative mode, swords are unable to break blocks. However, they can still break placed entities such as minecarts, paintings, item frames, and armor stands.
+
+Attacking
+
+An iron sword is used to deal damage to mobs and entities by  them. The iron sword has  base damage  and  base damage , and can be enchanted to deal more damage. The following tables show how the Sharpness enchantment affects the damage dealt by the sword.
+
+Extra damage of Sharpness enchantment
++Sharpness extra damageEditionIIIIIIIVV
+
+Total damage of sword with Sharpness
+The tables below assume that the attack is fully charged, the target is not wearing armor, and neither the attacker nor the target has any effects.
+
+Java Edition
++Iron sword Sharpness damageAttack typeBase damageSharpness ISharpness IISharpness IIISharpness IVSharpness VNormal Critical
+
+Bedrock Edition
++Iron sword Sharpness damageAttack typeBase damageSharpness ISharpness IISharpness IIISharpness IVSharpness VNormal Critical
+
+Repairing
+Combining
+
+Anvil repair
+
+An iron sword can be repaired in an anvil by adding iron ingots, with each repair material restoring 25% the sword's maximum durability, rounded down. Two iron swords can also be combined in an anvil. Both methods preserve the sword's enchantments.
+
+Enchantments
+An iron sword can receive the following enchantments:
+
++NameDescriptionMax levelMethodWeightSharpnessSharpness, Smite, and Bane of Arthropods are mutually exclusive.Increases the damage dealt.V10SmiteIncreases the damage dealt to undead.V5Bane of ArthropodsIncreases the damage dealt to arthropods.V5LootingIncreases the amount of drops when killing an entity with the sword.III2KnockbackIncreases the knockback dealt.II5Fire AspectIgnites any targets hit by the sword. , it also lights unlit candles, campfires, and blocks of TNT when used.II2Sweeping EdgeIncreases the sweeping damage dealt.III2UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the sword when obtaining experience.I2Curse of VanishingThe sword vanishes on death, not dropping as an item.I1
+
+Smelting ingredient
+An iron sword can be smelted into an iron nugget using a furnace or blast furnace.
+
+Smelting recipe: Iron Sword → Iron Nugget, XP: 0,1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+
+Before Minecraft
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The iron sword's original texture came from Notch's abandoned RPG, Legend of the Chambered. After the iron sword's texture was created, the other swords followed.
+
+Gallery
+
+Renders
+
+In other media
+
+References
+
+Navigation
+
+Category:Combat
+
+fr:Épée#Fer
+ko:철 검
+pt:Espada de Ferro

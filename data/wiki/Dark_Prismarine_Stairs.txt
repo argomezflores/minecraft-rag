@@ -1,0 +1,51 @@
+TITLE: Dark Prismarine Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Dark_Prismarine_Stairs
+---
+Dark prismarine stairs are a decorative stairs variant of dark prismarine that do not generate naturally and are used for building.
+
+Obtaining
+Breaking
+Dark prismarine stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Dark Prismarine, Dark Prismarine, Dark Prismarine, Dark Prismarine, Dark Prismarine, Dark Prismarine arranged in the crafting grid → Dark Prismarine Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Stairs
+
+fr:Escalier en prismarine sombre
+ja:ダークプリズマリンの階段
+ko:짙은 프리즈머린 계단
+pt:Escadas de Prismarinho Escuro
+th:บันไดพริสมารีนเข้ม
+uk:Сходи з темного призмарину
+zh:暗海晶石楼梯

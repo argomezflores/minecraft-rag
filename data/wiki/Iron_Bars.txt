@@ -1,0 +1,95 @@
+TITLE: Iron Bars
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Iron_Bars
+---
+Iron bars are the iron variant of bars.
+
+Obtaining
+Breaking
+Iron bars can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Iron bars can generate in strongholds, woodland mansions, savanna villages, desert villages, plains villages, snowy villages, igloo basements, Overworld ruined portals, and trail ruins.
+
+In the End, there are two End spikes that have iron bars around their End crystals.
+
+Crafting
+
+Crafting recipe: Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot arranged in the crafting grid → Iron Bars,16.
+
+Iron bars are not a source of iron. Once crafted, iron bars cannot be smelted into iron nuggets or ingots.
+
+Post-generation
+Iron bars regenerate on the end spikes whenever the ender dragon is respawned.
+
+Usage
+
+Curing
+Iron bars speed up the curing process of zombie villagers.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+, a 2×2 area made of iron bars can make a square-shaped hole big enough for the player and most mobs to fit through, but not rain, water, etc. that can be used as an easy entrance for an underwater house, and even an exit if pistons are used. Glass panes work in the same way.
+If a sign or a painting is placed on iron bars, it appears to float in the air.
+Despite apparently being thin enough to do so, iron bars do not let a ghast's explosion touch the block beneath them as long as the block is protected from other angles of the explosion affecting it.
+If an iron bar is connected to a block and a rail is placed on the block, the top texture of the iron bar disappears.
+While curing a zombie villager, iron bars placed nearby speed up the healing process. The same happens with beds, and both these things occur in the stereotypical prison cell.
+Arrows cannot be shot through iron bars in Bedrock Edition.
+Because iron bars are 1 block high, the player can normally jump over iron bars, unlike fences.
+
+Gallery
+Renders
+
+Screenshots
+
+References
+
+See also
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Natural blocks
+Category:transparent blocks
+cs:Železné mříže
+de:Eisengitter
+it:Sbarre di ferro
+es:Barrotes de hierro
+fr:Barreaux de fer
+ja:鉄格子
+ko:철 창살
+lzh:鐵檻
+nl:Tralies
+pl:Żelazne kraty
+pt:Barras de Ferro
+ru:Железная решётка
+uk:Залізні ґрати
+zh:铁栏杆

@@ -1,0 +1,79 @@
+TITLE: Music Disc 13
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_13
+---
+"13" (in-game) or Thirteen (soundtrack name) refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons, or from various structures, where it is commonly found in monster rooms, woodland mansions, or ancient cities.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "13".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Generated loot
+
+Track description
+
+File:13.ogg
+
+"13" is a somewhat unsettling, cave-themed ambient piece consisting mostly of echoed synthesized ambient sounds that closely resemble those that play in the game's caves, resonating metallic clinks, and quiet wind blowing. The entire track is wholly engulfed in reverb.
+
+At different points in the piece, muffled bow firings, a heavily reverbed hiss followed by a subsequent heavily reverbed explosion and echoed splashes can be heard in the background. The track goes silent for 8 seconds at the 1:30 mark.
+
+The album version of "13" continues into "Excuse".
+
+Usage
+Like all music discs,  the "13" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "13", it will emit a redstone signal of 1.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Thirteen" 13.ogg music_disc.13
+
+:
+
+Soundtrack Title File name Sound events "Thirteen" 13.ogg record.13
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The title "13" is a reference to the 13 cave ambience sounds that existed when the disc was added. Similar sounds can be heard throughout the track.
+Because "13" was created in 2010, it actually uses older sound effects from earlier versions of the game for bow firing, arrow impacts, explosions, and water splashing, which have since been replaced.
+The background noise also bears resemblance to a deeper version of the unused and removed cave chimes. Before the explosion, there was also the sound of a creeper fuse which is still used.
+C418 initially wanted the music disc to be found deep underground in a cave in-game, being played by some device.https://c418.org/albums/minecraft-volume-alpha/
+
+References
+
+Navigation
+
+Category:C418
+Category:Minecraft - Volume Alpha
+Category:Music discs
+
+fr:Disque 13
+ja:13 (レコード)
+ko:음반 13
+lzh:留聲盤十三
+pt:Disco Musical 13
+ru:Пластинка «13»
+uk:Платівка «13»
+zh:音乐唱片13

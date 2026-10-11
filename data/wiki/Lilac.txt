@@ -1,0 +1,89 @@
+TITLE: Lilac
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lilac
+---
+A lilac is a tall flower that can be crafted into magenta dye.
+
+Obtaining
+Breaking
+A lilac can be broken instantly with any item or by hand, dropping itself.
+
+A lilac also breaks if water or lava runs it over, if a piston extends or pushes a block or its head into it, or if the block under the plant is moved or destroyed.
+
+Natural generation
+
+Lilacs generate naturally on dirt and grass blocks in the biomes forest, flower forest, birch forest, old growth birch forest, and dark forest biomes as part of vegetation features. Lilacs can also generate as part of abandoned camps in birch forests, flower forests, and forests.
+
+Post-generation
+
+When bone meal is applied to a lilac, the flower duplicates.
+
+Usage
+
+Like other flowers, lilacs can be used as decoration and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, mud, or muddy mangrove roots. Like other tall flowers, lilacs cannot be placed inside flower pots.
+
+Crafting ingredient
+
+Bees
+Bees engage in a pollinating behavior with lilacs, increasing the honey level in beehives and bee nests by 1.
+
+Breeding
+Lilacs can be used to breed, grow, and lead bees.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of a lilac have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Composting
+Placing a lilac into a composter has a 65% chance of raising the compost level by 1. A stack of lilacs yields an average of 5.94 bone meal.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Mention
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Minecraft Education
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, a lilac is any member of the Syringa genus of flowering plants.
+
+Gallery
+Screenshots
+
+References
+
+External links
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Flowers
+Category:Double blocks
+
+fr:Lilas
+pt:Lilás
+zh:丁香

@@ -1,0 +1,31 @@
+TITLE: Expired Baked Potato Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Expired_Baked_Potato_Brick_Stairs
+---
+Expired baked potato brick stairs are an expired baked potato brick variant of the stairs, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Natural generation
+Expired baked potato brick stairs generate naturally in colesseums and ruined portatols.
+
+Crafting
+
+Crafting recipe: Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks arranged in the crafting grid → Expired Baked Potato Brick Stairs.
+
+Sounds
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Expired Baked Potato Brick Stairs
+ja:Expired_Baked_Potato_Brick_Stairs
+ko:상한 구운 감자 벽돌 계단
+zh:过期的烤马铃薯砖楼梯

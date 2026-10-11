@@ -1,0 +1,64 @@
+TITLE: Deepslate Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Bricks
+---
+Deepslate bricks are the brick variant of deepslate.
+
+Obtaining
+Breaking
+Deepslate bricks can be obtained only by mining them with any pickaxe. When mined using any other tool, they drop nothing.
+
+Natural generation
+Deepslate bricks generate naturally in ancient cities.
+
+Crafting
+
+Crafting recipe: Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate arranged in the crafting grid → Deepslate Bricks,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Deepslate Bricks → Cracked Deepslate Bricks, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Tiefenschieferziegel
+es:Ladrillos de pizarra profunda
+fr:Ardoise des abîmes taillée
+ja:深層岩レンガ
+ko:심층암 벽돌
+lzh:板石磚
+pl:Łupkowe cegły
+pt:Tijolos de Ardosiabissal
+ru:Глубинносланцевые кирпичи
+th:บล็อกอิฐหินชนวนลึก
+uk:Глибосланцева цегла
+zh:深板岩砖

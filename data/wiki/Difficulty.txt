@@ -1,0 +1,183 @@
+TITLE: Difficulty
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Difficulty
+---
+thumb|right|300px|Mobs in full armor are a common sight in higher difficulty levels.
+thumb|right|600px|A popup  describing how each difficulty works.
+
+Difficulty is an option in Minecraft that has a direct impact on the ease of gameplay, allowing the game's challenges to be tailored to the player's skill level.
+
+World settings
+thumb|right|The difficulty button .
+thumb|260px|The options menu available in the pause menu
+There are four difficulty levels in the game: Easy, Normal, Hard and Peaceful. These can be changed when creating a world, in the world options, as well as with the  command.
+
+While the difficulty settings modify the challenge in Survival mode, they also affect hostile mobs in Creative mode the same as in Survival; for example:
+
+Most hostile mobs cannot spawn naturally in Creative Peaceful.
+Zombies have the same difficulty-dependent chances as in Survival to convert villagers into zombie villagers (0% in Creative Easy, 50% in Creative Normal, 100% in Creative Hard).
+Hostile mobs killed by mob grinders in farms drop higher-value items in Creative Hard.
+
+Survival mode is affected by difficulty as described in the sections below.
+
+Peaceful
+No hostile mobs can spawn naturally, except for shulkers and the ender dragon, all of whom no longer deal any damage. No spiders, cave spiders, zombified piglins, endermen, drowned, skeleton horses, zombie horses,, or camel husks– neutral/passive rather than hostile mobs – can spawn naturally. , zombie nautiluses can only naturally spawn inside of ocean ruins, and their other spawning conditions are disabled.
+
+When any of these mobs attempt to spawn (whether naturally, through monster spawners, spawn eggs, or commands), they despawn instantaneously, with no visible spawning.
+
+All mobs that can spawn (such as shulkers, piglins, zombie nautiluses, polar bears, or wolves) are completely peaceful and unable to harm the player, with the exception of the ender dragon, which still targets players and deals knockback. Additionally, sculk shriekers do not give the Darkness effect because they can't spawn the warden, and most neutral mobs are passive.
+
+When the difficulty is switched from any other setting to Peaceful, all mobs that are not allowed to spawn on Peaceful despawn. Players regain health rapidly over time. Despite this, it is still possible to die if damage is received quickly enough. TNT deals no direct damage to the player, but it does give knockback still, meaning a player can be indirectly killed by it via fall damage if it launches them too far upward.
+
+The hunger bar never depletes; , players therefore cannot eat anything except golden apples, chorus fruits, milk buckets, honey bottles, and suspicious stew, unless the player switched to Peaceful when their hunger bar was below the maximum. Players can eat normally . Additionally, if the hunger bar is below the maximum, it regenerates quickly.
+
+Mob Despawns in Peaceful difficulty? Spawns naturally in Peaceful difficulty?
+
+The monsters that spawn naturally, which are ender dragons, piglins, shulkers, zombie nautiluses, hoglins, and killer bunnies, all become passive, with the exception of the ender dragon, which still attacks the player but deals no damage or knockback. Zombie horses also spawn naturally , due to a bug.
+
+If a player is in a village with Raid Omen and the effect ends, the raid is not triggered as raiders cannot spawn in peaceful difficulty.
+
+Because of the gameplay changes and the absence of many mob types, many blocks and items are unavailable to the player. A list can be found at Non-renewable resource#Peaceful difficulty. In addition, the player is unable to get many advancements and achievements.
+
+Dispensers are unable to place wither skeleton skulls even if the required blocks for summoning a wither are available.
+
+One major effect of the lack of certain resources is that it is impossible to acquire the resources required to craft eyes of ender, which are necessary to activate End portals.An eye of ender requires blaze powder to craft, which can be crafted only from blaze rods; but a blaze rod can be obtained only as a drop from a blaze, which is a hostile mob that cannot spawn in Peaceful. However, it is possible to switch to a non-Peaceful difficulty, let blazes and endermen spawn, kill enough for crafting eyes of ender, and switch back to Peaceful. It is also possible for an end portal to be activated by naturally generating with an eye of ender already embedded within all 12 end portal frames. For any given end portal, there is a 1 in a trillion chance of this happening.Since each end portal frame has a  chance of being filled, there is a ()12 =  chance of all 12 end portal frames being filled.
+However, because of the huge number of possible seeds, over 8 million seeds are known to generate such end portals.https://github.com/hube12/SSGOutput/releases/tag/1.1
+
+Easy
+Hostile mobs spawn, but they deal  of the damage they would on Normal difficulty plus  or the same damage they would on Normal difficulty, whichever is lower. The hunger bar can deplete, damaging the player until  remain if it drains completely. Cave spiders and bees cannot poison players on Easy difficulty, and the wither does not cause the Wither effect, although wither skeletons do. Lightning sets only the struck block on fire, not surrounding blocks. Zombies do not break down doors, and do not turn villagers into zombie villagers. Zombies and skeletons do not wear full sets of armor. Hostile mobs like zombies, skeletons, spiders, husks, and strays deal about  or  damage.
+
+If a player is in a village with Raid Omen and the effect ends, it triggers a raid that consists of 3 waves (4 waves if a player with a Raid Omen effect that is higher than one level enters a village.)
+
+Normal
+Hostile mobs spawn and deal standard damage. The hunger bar can deplete, damaging the player until  health remains if it drains completely. Zombies do not break down doors, but villagers killed by zombies have a 50% chance of turning into zombie villagers. Zombies and skeletons rarely wear sets of enchanted armor. Vindicators can break doors.
+
+If a player is in a village with Raid Omen and the effect ends, it triggers a raid that consists of 5 waves (6 waves if a player with a Raid Omen effect that is higher than one level enters a village.)
+
+Hard
+
+Hostile mobs deal approximately 1 times the damage they would deal on Normal difficulty, and in some cases drop higher-value items when killed. The hunger bar can deplete, not only damaging but also killing the player if it drains completely. Zombies and zombified piglins can break through wooden and copper doors and can spawn reinforcements when attacked. , spiders can spawn with a beneficial status effect (Speed, Strength, Regeneration, or Invisibility), with these effects having an infinite duration. Villagers killed by zombies always turn into zombie villagers. , if the world type isn't infinite, pillagers deal  damage, instead of .
+
+If a player is in a village with Raid Omen and the effect ends, it triggers a raid that consists of 7 waves (8 waves if a player with a Raid Omen effect that is higher than one level enters a village.)
+
+Hardcore mode
+
+While in the world creation screen, selecting Hardcore from among the game mode options causes the player to spawn in Hard difficulty, does not allow it to be changed, and allows the player only one life. In a single player world, a player who dies can choose to respawn in Spectator mode or return to the title screen. In multiplayer, upon death, the player's game mode is automatically set to Spectator mode.
+
+The only way to change the difficulty of Hardcore is to use an .NBT editor on the world's level.dat file.
+
+Moon phase
+The phase of the moon affects the spawning of slimes in swamp biomes, and also contributes to the calculation of regional difficulty. Fuller moon phases have a larger effect.
+
+The moon does not actually have to be visible in the sky for this effect to apply, since the moon phase exists during daytime and across dimensions.
+
+Moon phase Value Percentage  Full 1.0 100%   Gibbous 0.75 75%   Quarter 0.5 50%   Crescent 0.25 25%  New 0.0 0%
+
+For regional difficulty, the moon phase contribution is capped by the daytime contribution. In other words, the moon contributes min(MoonPhase × 0.25, DaytimeFactor),, the source code uses clamp function from 0.0 minimum, but both values are guaranteed to be >= 0.0. so before  even a full moon does not yet give its full bonus.
+
+Regional difficulty
+thumb|upright=2.0|Regional difficulty values shown on the debug screen
+
+Regional difficulty or local difficulty is a value between 0.00 and 6.75 that the game calculates by considering the world difficulty setting, the inhabited time of a chunk, the total daytime in the world, and the phase of the moon. This value is shown on the debug screen as the first value listed after the heading "Local Difficulty". This value determines several aspects of the difficulty of gameplay (see below).
+
+The inhabited time of a chunk increases for each tick a player spends with the chunk loaded. This is a cumulative measure of time—if 50 players spend a single hour in a chunk, it counts the same as if one player spent 50 hours there. The effect of inhabited time on regional difficulty is capped at 50 hours.
+
+The total daytime in the world is the value from  added to the "Day" on the F3 debug screen converted to ticks, i.e. daytime + (dayNumber * 24,000). This is not the same as the actual playtime in the world (the value from ). It affects the regional difficulty after the first 3 in-game days, and has no additional effect after 63 in-game days.
+
+In pseudocode, the calculation of regional difficulty is:
+
+# DaytimeFactor, ChunkFactor, MoonFactor, and RegionalDifficulty are floating-point variables
+# MoonPhase is as in the table above.
+
+if (difficulty is Peaceful) return 0
+
+if (TotalDaytime > 63 in-game days) DaytimeFactor = 0.25
+else if (TotalDaytime < 3 in-game days) DaytimeFactor = 0
+else DaytimeFactor = (TotalDaytimeInTicks − 72,000) / 5,760,000
+
+if (ChunkInhabitedTime > 50 hours) ChunkFactor = 1
+else ChunkFactor = ChunkInhabitedTimeInTicks / 3,600,000
+
+if (difficulty is Normal or Easy) multiply ChunkFactor by 0.75
+
+MoonFactor = min(MoonPhase × 0.25, DaytimeFactor)
+ChunkFactor += MoonFactor
+
+if (difficulty is Easy) multiply ChunkFactor by 0.5
+
+RegionalDifficulty = 0.75 + DaytimeFactor + ChunkFactor
+
+if (difficulty is Normal) multiply RegionalDifficulty by 2
+if (difficulty is Hard) multiply RegionalDifficulty by 3
+
+return RegionalDifficulty
+
+The raw regional difficulty therefore is always 0.0 on Peaceful and ranges from 0.75 to 1.5 on Easy, 1.5 to 4.0 on Normal, and 2.25 to 6.75 on Hard.
+
+Clamped regional difficulty
+thumb|325px|How clamped regional difficulty relates to regional difficulty
+The clamped regional difficulty (also known as special multiplier) is a value between 0.00 and 1.00 based on regional difficulty. This value is shown on the debug screen as the second value listed after the heading "Local Difficulty". This is yet another value that affects the difficulty of gameplay (see below).
+
+The regional difficulty value is clamped as follows:
+
+if (RegionalDifficulty < 2.0) value = 0.0;
+else if (RegionalDifficulty > 4.0) value = 1.0;
+else value = (RegionalDifficulty − 2.0) / 2.0;
+
+Thus, on Easy, where regional difficulty is never higher than 1.5, the clamped value is always zero. On Normal, where regional difficulty is between 1.5 and 4.0, the clamped value can be anywhere from 0.0 to 1.0. On Hard, where the regional difficulty is never lower than 2.25, the clamped value is always at least 0.125.
+
+On Normal, the clamped regional difficulty reaches its maximum value of 1.0 only after , in a fully inhabited chunk, during a full moon. On Hard, after 63 in-game days, the clamped regional difficulty reaches 1.0 in chunks inhabited for  hours during a full moon; on lower moon phases it reaches 1.0 later, and once a chunk has been inhabited for more than  hours it remains at 1.0 regardless of moon phase.
+
+Effects
+Mob damage
+
+Other effects
+Attribute Notes Condition World difficulty Regional difficulty (RD) Clamped regional difficulty (CRD) Moon phase only  Mobs and explosions do higher damage to players. Peaceful: No damageEasy:  of Normal damage + 1 (never higher than Normal damage)Hard:  times Normal damage         Guardians (both types) have higher laser magic damage. Hard: + , added before calculating the difficulty-scaled mob damage         Starvation more harshly affects health. Easy/Normal/Hard: starvation brings health down to 10/1/0 HP         Mobs that spawn with armor are more likely to have more armor. Easy & Normal: 75%/56%/42% of having 2/3/4 pieces;Hard: 90%/81%/73% of having 2/3/4 pieces         Zombies are more likely to spawn with weapons. 1% on Easy and Normal,5% on Hard         Zombies are able to spawn reinforcements. Hard only         Zombies are more likely to be able to break wooden doors. A zombie having the ability to break a door: (10×)%The door actually breaking: Hard only         Villagers killed by zombies have a greater chance of becoming zombie villagers. 0% on Easy,50% on Normal,100% on Hard         Zombified piglins spawn from nether portals in the Overworld more often.  per block tick on Easy, on Normal, on Hard         A skeleton or stray's cooldown between attacks is shortened Easy/Normal: 3s cooldownHard: 2s         A bogged or parched's cooldown between attacks is shortened Easy/Normal: 4.5/3.5s cooldownHard: 3.5/2.5s         A skeleton or stray is more accurate in ranged attacks with its bow. Easy/Normal/Hard "inaccuracy" value is 10/6/2         Damage from arrows slightly increases. Easy/Normal/Hard damage bonus = +0.11 / +0.22 / +0.33         Phantoms spawn more frequently. A spawn attempt succeeds if the local difficulty is greater than a random value between 0.0 and 3.0.         Phantoms spawn in larger groups. Easy: 1-2Normal: 1-3Hard: 1-4         Spiders can naturally spawn with status effects. Hard(10×)%         The Poison effect given by a cave spider lasts longer. Normal/Hard: 7s/15s         The Poison effect given by a bee lasts longer. Normal/Hard: 10s/18s         The Wither effect given by a wither skull lasts longer. Normal/Hard: 10s/40s         A wither shoots wither skulls when idle. Normal/Hard only         A wither spawns 3 wither skeletons when brought below half health. Normal/Hard only         Lightning can cause fires in the surrounding blocks, not just the block struck. Normal/Hard only         Fire lingers for a bit longer. The raw encouragement value of blocks surrounding fire gets a bonus of (Easy/Normal/Hard) +47 / +54 / +61, before being adjusted for fire age, humidity and rain.         Mobs are more willing to take fall damage when pursuing a target.Mobs accept fall damage if their health would not be reduced below 33% of their maximum health (rounded up to the nearest ), plus a constant reserve based on difficulty. This even applies to ground-based mobs immune to fall damage. Easy: 33% + Normal: 33% + Hard: 33%         Lightning strikes are more likely to spawn a skeleton trap horse. Chance = ()%(0.75–1.5% on Easy, 1.5–4% on Normal, 2.25–6.75% on Hard)         Burning zombies are more likely to set their target on fire, and the burn duration is longer. Chance = (30×)%Burn time = 2 ×  seconds         The Hunger effect caught from being attacked by a husk lasts longer. Effect time = 7 ×  seconds        s can cast blindness. If  > 2.         Skeletons and zombies are more likely to have the ability to pick up dropped items. Having the ability: (55×)%         Zombies are more likely to have a greater follow distance. If (random # in range 0–1.5) ×  is greater than 1, that becomes a bonus multiplier on the follow distance. Therefore, this is impossible when the  is less than 0.67This value is actually .; when the  is 1.0, there is only a  chance of it happening.         Zombies are more likely to be "leader zombies" (gaining a bonus to max HP, a bonus to the chance to spawn reinforcements, and the ability to break doors). Any given zombie being a "leader": (5×)%         Mobs are more likely to spawn with armor. Chance of getting any armor at all: (15×)%         Mobs that spawn with weapons are more likely to have enchantments. Chance for the main hand item = (25×)%         Mobs that spawn with armor are more likely to have enchantments. Chance per armor item = (50×)%         Mobs that spawn with enchanted equipment have higher levels of enchantments. Level = 5 + randInt(0,18)× where randInt(0,18) is a random integer between 0 and 17. So, the level is 5 when  is 0.0, and it can be as high as 22 when  is 1.0.          Slimes are more likely to be bigger. Small: ((33×(1-)/2)+16.5)%Medium: 34%Big: ((33×(1+)/2)+16.5)%in other words:Small/Medium/Big: 16.5%–33% / 34% / 33%–49.5%         Slimes are more likely to spawn in swamp biomes. See above         Raid has more waves Easy: 3 waves
+Normal: 5 waves
+Hard: 7 waves         Illager patrol size  + 1 illagers (rounded up)          Illager patrol can spawn on any light level Easy: Light level 0-7
+Normal and Hard: Any light level          and  spawn from raids having higher chance to drop special loot. Normal: 65% chance
+Hard: 80% chance         are able to break down  Wooden Door Peaceful and Easy: unable to break door
+Normal and Hard: can break door
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+
+Notes
+
+References
+
+See also
+Health
+Hunger
+Gameplay
+Tutorial:Gathering resources on Peaceful difficulty
+
+Navigation
+
+cs:Obtížnost
+de:Schwierigkeitsgrad
+es:Dificultad
+fr:Difficulté
+it:Difficoltà
+ja:難易度
+ko:난이도
+lzh:難易度
+nl:Niveau
+pl:Poziomy trudności
+pt:Dificuldade
+ru:Сложность
+th:ระดับความยาก
+uk:Складність
+zh:难度

@@ -1,0 +1,92 @@
+TITLE: Potion of Healing
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Healing
+---
+A potion of Healing is a potion that provides Instant Health when used.
+
+The potion effect heals all non-undead mobs and entities, for undead mobs it deals damage.
+
+Obtaining
+Brewing
+
+Brewing recipe: Glistering Melon Slice + Awkward Potion → Potion of Healing.
+
+Brewing recipe: Glowstone Dust + Potion of Healing → Potion of Healing Enhanced.
+
+Mob loot
+A witch has an 8.5% chance to drop a potion of Healing if it dies while drinking the potion.
+
+Generated loot
+the cauldron in a swamp hut has a 25% chance to contain a potion of Healing.
+
+Two Instant Health II potions can be found in the brewing stand on End ships in End cities.
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion 1Instant Restores  health. 2 Restores  health (doubles with every additional level).Splash Potion 1 Restores  health. 2 Restores  health (doubles with every additional level).Lingering Potion 1 Restores  health. 2 Restores  health (doubles with every additional level).
+Undead mobs
+
+The effect of potions of Healing are reversed on undead mobs. It deals damage instead of healing them.
+
+Base potion
+Potion of Healing is a base for brewing potions of Harming.
+
+Brewing recipe: Fermented Spider Eye + Potion of Healing → Potion of Harming.
+
+Brewing recipe: Fermented Spider Eye + Potion of Healing Enhanced → Potion of Harming Enhanced.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Healing; Lingering Potion of Healing Enhanced, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Healing, 8; Arrow of Healing Enhanced, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Enhanced Potion of Healing  21  22
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularLevel II Potion of Healing  healing  strong_healing
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de soin
+ko:치유의 물약
+pt:Poção de Cura
+zh:治疗药水

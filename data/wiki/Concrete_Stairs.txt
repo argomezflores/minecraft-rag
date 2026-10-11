@@ -1,0 +1,51 @@
+TITLE: Concrete Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Concrete_Stairs
+---
+Concrete stairs are a craftable stair variant of concrete. They come in 16 colors.
+
+Obtaining
+Breaking
+Concrete stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Matching Concrete, Matching Concrete, Matching Concrete, Matching Concrete, Matching Concrete, Matching Concrete arranged in the crafting grid → Matching Concrete Stairs,4.
+
+Stonecutting
+
+Usage
+
+Concrete stairs come in sixteen colors, which are white, light gray, gray, black, brown, red, orange, yellow, lime, green, cyan, light blue, blue, purple, magenta, and pink.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Pre-announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Betontreppe
+fr:Escalier en béton
+ja:Concrete Stairs
+lzh:砼階
+pt:Escadas de Concreto
+ru:Бетонные ступени
+uk:Сходи з бетону
+zh:混凝土楼梯

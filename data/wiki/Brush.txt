@@ -1,0 +1,85 @@
+TITLE: Brush
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Brush
+---
+A brush is a tool used in archaeology to excavate suspicious sand and suspicious gravel for different items. Brushes also can be used on armadillos to get armadillo scutes.
+
+Obtaining
+Crafting
+
+Crafting recipe: Feather, Copper Ingot, Stick arranged in the crafting grid → Brush.
+
+Usage
+Brushing
+the brush on any block (apart from suspicious blocks) displays a brushing animation, slowing down the player and creating breaking particles, but not actually damaging the block or brush.
+
+Suspicious blocks
+
+When continuously brushing suspicious sand or suspicious gravel, an item dependent on the structure's loot table slowly emerges from it until it drops out, and the block turns into regular sand or regular gravel, depleting 1 durability point on the brush. It takes 96 game ticks (4.8 seconds) to brush a single suspicious block.
+
+If the player stops brushing a suspicious block, the block remains in its half-excavated state for a few seconds, before gradually returning to its unexcavated state one stage at a time.
+
+Armadillos
+When  the brush on an armadillo, it drops a single armadillo scute. Brushing an armadillo removes 16 points of durability from the brush. A brush with full durability and no enchantments can brush an armadillo four times  or five times  before breaking.
+
+Repairing
+Combining
+
+Anvil repair
+
+A brush can be combined with another brush in an anvil, preserving the enchantments of both.
+
+Enchantments
+A brush can receive the following enchantments:
+Name Description Max Level Method Weight Unbreaking Grants a chance to negate durability consumption. III  5 Mending Repairs the brush when obtaining experience. I  2 Curse of Vanishing The brush vanishes on death, not dropping as an item. I  1
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+
+During animatics for the Trails & Tales trailer, Ari can be seen holding what appears to be the original design of the brush.
+
+Gallery
+Mojang images
+
+In other media
+
+External links
+
+References
+
+Navigation
+
+Category:Tools
+
+de:Pinsel
+es:Pincel
+fr:Pinceau
+it:Spazzola
+ja:ブラシ
+ko:솔
+pl:Pędzel
+pt:Pincel
+ru:Кисть
+uk:Щітка
+zh:刷子

@@ -1,0 +1,58 @@
+TITLE: Polished Blackstone Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone_Slab
+---
+A polished blackstone slab is a decorative slab variant of polished blackstone that generates in ruined portals and is used for building.
+
+Obtaining
+Breaking
+Polished blackstone slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished blackstone slabs generate as part of ruined portals in the Nether.
+
+Crafting
+
+Crafting recipe: Polished Blackstone, Polished Blackstone, Polished Blackstone arranged in the crafting grid → Polished Blackstone Slab,6.
+
+Stonecutting
+
+Usage
+
+Crafting ingredient
+
+Sounds
+, when a polished blackstone slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Roche noire
+ja:磨かれたブラックストーンのハーフブロック
+ko:윤나는 흑암 반 블록
+pt:Laje de pedra-negra polida
+zh:磨制黑石台阶

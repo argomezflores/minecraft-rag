@@ -1,0 +1,293 @@
+TITLE: Biome
+CATEGORY: Biomes
+URL: https://minecraft.wiki/w/Biome
+---
+350px|thumb|Minecraft contains many different biomes that can be traveled to. Some examples, from left to right, are forest, badlands, deep ocean, grove, cherry grove, and warped forest.
+A biome is a region in a world with distinct geographical features, plants, mobs, temperatures, humidity levels, colors, and more. Biomes separate every generated world into different environments, such as forests, deserts, and oceans.
+
+The biome of a location is determined during world generation rather than by the current environment, even if all blocks in a large area are altered to imitate the terrain of other biomes.
+
+Existing biomes can be located with the  command. The  command , or the "Biome Data Assignment" tool in Bedrock Editor can be used to change the biome in a selected area.
+
+List of biomes
+Biome types
+, there are 66 different biome types: 55 for the Overworld, 5 for the Nether, and 5 for the End, plus one used only for a superflat preset. , there are 88 biome types: 55 for the Overworld, 5 for the Nether, 1 for the End, and 27 unused.
+
+On this page, for convenience of description and reading, the biomes in Overworld are divided into 8 categories, which are not official.
+
+Overworld
+
+Offshore biomes
+These biomes are used for the generation of oceans and mushroom fields. They are large, open biomes made almost entirely of water going up to Y=63, with underwater relief on the sea floor, such as small mountains and plains, usually including gravel, dirt, and sand. Squid, fish and nautilus spawn frequently in the water, and dolphins spawn in non-frozen oceans. Regular hostile mobs can spawn at rare dry grounds, while drowned and sometimes zombie nautilus jockeys spawn underwater. Shipwrecks and underwater ruined portals are found in all ocean biomes, and ocean ruins may spawn with stone bricks in regular and colder oceans, or sandstone in lukewarm oceans.
+
+Biome name Description Screenshot OceanThe basic ocean biome, a vast body of water with occasional grassy islands. Like its colder variants, its floor is largely made up of gravel, covered with kelp and seagrass. However, small patches of dirt, sand and clay can also appear. Cod and salmon can spawn here alongside dolphins, squid, nautiluses, and zombie nautiluses. frameless Deep oceanIn deep ocean biomes, the ocean can exceed 30 blocks in depth, making it twice as deep as the normal ocean. The ground is mainly covered with gravel and kelp can grow much higher. Ocean monuments generate in deep oceans, where guardians, elder guardians, prismarine, and sponges can be found. frameless Warm oceanA variant of the ocean biome with light teal water at the surface. Like the lukewarm ocean, it has a floor made of sand and like all oceans, it is populated with seagrass, but without kelp. Pufferfish and tropical fish spawn here alongside dolphins, squid, and nautiluses, while cod and salmon do not spawn. Unlike other ocean biomes, warm oceans allow for the generation of coral reefs and sea pickles. It is the only ocean biome that does not have a deep equivalent, but the terrain in this biome can reach the same depth as deep oceans.  frameless Lukewarm oceanA variant of the ocean biome, with light blue water at the surface. Its floor is made of sand with an occasional patch of dirt or clay. Kelp and seagrass generates here. Unlike the warm ocean biome, cod and salmon can spawn here, together with pufferfish and tropical fish. Dolphins, squid, and nautiluses may also spawn. frameless Deep lukewarm oceanSimilar to the lukewarm ocean biome, but twice as deep. Because they are a deep ocean variant, they can generate ocean monuments. frameless Cold oceanA variant of the ocean biome, with dark blue water at the surface. Like regular oceans and frozen oceans, its floor is made up of gravel, though occasional patches of dirt can be found. Kelp and seagrass generates here. Salmon, cod and nautiluses can spawn in cold ocean biomes alongside squid and dolphins. frameless Deep cold oceanSimilar to the cold ocean biome, but twice as deep. Like other deep oceans, ocean monuments can generate here. frameless Frozen oceanA variant of the ocean biome with dark indigo water at the surface. Like the cold ocean, it has a gravel seabed and squid swimming about. However, the water's surface is frequently broken up by patches of ice and large icebergs, consisting of packed ice and blue ice, and occasionally topped with snow blocks and snow. Strays, polar bears, rabbits, and nautiluses can spawn here, but dolphins can't. Salmon and cod may also spawn here. frameless Deep frozen oceanLike the frozen ocean biome, but twice as deep. There are no patches of ice on the surface or low enough temperatures for snowfall, instead icebergs are floating standalone in the dark indigo water. Ocean monuments can generate here. frameless Mushroom fieldsThis rare biome consists of a mostly flat island and has mycelium as its surface. Mushroom fields are always adjacent to a deep ocean and isolated from other biomes, ranging in size from only tens of blocks to thousands. It is one of the few biomes where huge mushrooms can generate naturally, and where mushrooms can grow in full sunlight.
+
+No mobs other than mooshrooms, bats, and glow squid spawn naturally in this biome, including the usual night-time hostile mobs. This also applies to caves, mineshafts and other dark structures, meaning exploring underground is safe. However, mobs can still spawn through other means than the regular spawn cycle, such as monster spawners and wandering traders. Phantoms cannot spawn . frameless
+
+Highland biomes
+
+Highland biomes are biomes with a higher Y-level. Rugged terrain and snow-covered peaks appear above the snow line.
+
+Biome nameDescriptionScreenshot Jagged peaksOne of the three biomes that only generate in the peaks of a mountain. This biome is found in taller and more jagged and pointy peaks that often pass the clouds and can peak at Y=256. It is covered by a single layer of snow blocks with stone underneath often exposing ores such as coal, iron and emerald. Just like the snowy slopes, stone cliffs can generate in some sides of the mountain. Goats spawn in this biome. Polar bears and rabbits may also spawn here and strays appear at night or during thunderstorms. Pillager outposts can generate here with tall foundations. frameless Frozen peaksSimilar to the jagged peaks, but the snow block cover is varied with packed ice and occasional small blobs of ice. Like jagged peaks, mobs that spawn here include goats, polar bears, rabbits, and strays. This biome usually generates in smoother and less jagged mountains compared to the jagged peaks biome. Pillager outposts can generate here. frameless Stony peaksThe stony peaks are a warmer variation of peak biomes that generate in warmer regions, without snowfall. It is mainly covered by stone with large strips of calcite and exposed ores. No passive mobs spawn here, and pillager outposts can generate. frameless MeadowThe meadow is an elevated grassy biome found in plateaus near mountain ranges. It is filled with patches of almost every type of flower and turquoise-green short grass and tall grass. Rarely, a lone oak or birch tree can generate and always has a bee nest. Sheep, donkeys and rabbits are the only passive mobs that spawn in this biome. Pillager outposts and plains villages commonly generate here. frameless Cherry groveCherry groves are grassland plateaus with a lot of short grass, tall grass and, instead of the traditional dandelion and poppy flowers, the ground is covered with pink petals. The main environmental feature of the cherry grove are cherry trees identified by their striking pink color and leaf particles filling the atmosphere. The cherry trees may generate densely enough to create a cover of leaves. Sheep, pigs and rabbits are the only passive mobs that spawn in this biome. frameless GroveThe grove creates a forest of spruce trees beneath the colder mountain peaks when near a forested biome. It is quite reminiscent of the snowy taiga, but the surface is covered with snow blocks and patches of powder snow instead of grass blocks. Rabbits, wolves and foxes can spawn in this biome. frameless Snowy slopesThe snowy slopes generate beneath the colder mountain peaks and are covered with multiple layers of snow blocks and powder snow, with some sides also having stone cliffs. Goats spawn in this biome alongside rabbits and polar bears. Strays may also spawn here at night and during thunderstorms. This is the only mountain biome where igloos can generate. frameless Windswept hillsA highland biome with some steep hilltops and an occasional oak or spruce tree . The terrain is usually flat, but sometimes hilly and shattered. This is one of the few biomes where llamas can spawn naturally. Snowfall also occurs above certain heights, rarely creating snow layers on the top of the hills. Windswept hills are one of six biomes where emerald ore and infested stone can be found naturally. Cold animal variants may also spawn here. frameless Windswept gravelly hillsA variant of the windswept hills mostly or almost entirely covered in gravel with occasional patches of grass and stone blocks. In Java Edition, spruce and oak trees can generate here but due to the low amount of grass, the population is sparse. Cold animal variants and llamas may spawn on the rare grass blocks. frameless Windswept forestThis variant is found when windswept hills are located next to forested biomes. It does not generate stone patches, so the floor is entirely covered by grass blocks, and there are more spruce and oak trees, forming small forests with a lower tree density than other forest biomes. Cold animal variants and llamas may spawn here. frameless
+
+Woodland biomes
+Woodland biomes are rich in plants with a variety of trees, flowers and grasses.
+
+Biome nameDescriptionScreenshot ForestA common biome with many oak and birch trees and a fair amount of short grass, mushrooms and flowers. The ground beneath the trees is covered with leaf litter. Wolves can spawn in this biome. frameless Flower forestThis forest variant has fewer trees but contains nearly every type of flower and tall plant in the game. Wolves do not spawn in the flower forest, although rabbits spawn occasionally. Bee nests have a higher chance to generate in this biome. frameless TaigaA biome covered by a forest of spruce trees. Ferns, large ferns and sweet berry bushes grow commonly on the forest floor. One can find packs of wolves here, along with small groups of foxes, rabbits or cold animal variants. Pillager outposts, taiga villages, and trail ruins can generate here. frameless Old growth pine taigaA biome composed of spruce trees, much like the standard taiga biome. However, many trees are 2×2 thick and taller than normal, with few leaves at the top resembling pines. Mossy cobblestone boulders appear frequently, mushrooms are common, and podzol can be found on the forest floor. There are also patches of coarse dirt that do not grow grass, with some dead bushes.
+
+Wolves, foxes and cold animal variants can spawn here, as they do in normal taiga biomes. Rabbits may also spawn here. frameless Old growth spruce taigaAt first glance, this biome may look almost exactly the same as its pine tree counterpart. However, the most striking feature of this biome is its giant spruce trees, which are almost entirely covered with leaves unlike the trees in the old growth pine taiga which only have leaves at the top. Like the old growth pine taiga, wolves, foxes, cold animal variants, and rabbits spawn here. Trail ruins can generate here. frameless Snowy taigaA hybrid of the normal taiga and the snowy plains. Ferns and large ferns generate commonly, however sweet berry bushes generate more rarely than in the normal taiga. , taiga villages with snowy villagers and pillager outposts can generate here.
+
+Wolves, foxes, rabbits and cold animal variants can spawn here. One may also find an igloo nestled between the trees. frameless Birch forestA forest that is solely made of birch trees. The grass has an aqua color, and unlike the regular forest, no wolves spawn in this biome. Wildflowers cover the ground and give the biome a slight yellow tint. frameless Old growth birch forestBirch trees grow much taller than usual in this variant of the birch forest biome. Whereas normal birch trees grow up to 7 blocks tall, these trees can grow up to 13 blocks in height. It is one of the few biomes where trail ruins can generate.  frameless Dark forestThis biome is mainly composed of dark oak trees, which create a mostly closed roof of leaves. Oak trees, birch trees, and huge mushrooms can also be found occasionally, and the ground is covered with leaf litter. Trees in this forest are so densely packed that areas are dark enough for hostile mobs to spawn, even during the day. Woodland mansions can generate here. frameless Pale garden A rarer variation of the dark forest biome found on higher grounds, where the dark oak trees are replaced with pale oak trees, with lots of pale hanging moss. Patches of pale moss blocks and pale moss carpets cover much of the ground, and eyeblossoms dot the landscape. The sky, foliage, and water in this biome are gray and desaturated, and no music plays inside the biome. Gray fog with Vibrant Visuals is extremely dense and obstructs almost all view.
+
+Some of the pale oak trees may have a creaking heart hidden within them, which spawns a creaking at night. Like dark forests, hostile mobs can spawn even at day under the dark trees and woodland mansions generate here. frameless JungleA dense forested biome that includes many different plants and features. Jungle trees and mega jungle trees are common, with the mega trees having 2×2 thick trunks and possibly growing up to 31 blocks in height. Fancy oak trees are also common, and jungle bushes often cover much of the forest floor. Ferns and large ferns are found commonly, and vines are found growing and hanging on most types of blocks. Additionally, cocoa can also grow on the sides of jungle trees. Melons can generate here in patches, similar to pumpkins, although they are much more common. Single shoots of bamboo can be found scattered throughout the biome.
+
+The foliage in the jungle is a bright, lush green color. Ocelots, parrots, pandas, and warm animal variants can spawn in this biome. Jungle pyramids and trail ruins generate here. frameless Sparse jungleIn contrast to the wild and overgrown vegetation of the jungle biome, the sparse jungle consists of small jungle and oak trees, and jungle bushes that are spaced out and isolated, creating a much more open environment.
+
+Parrots, ocelots, and pandas can still spawn in the sparse jungle. Wolves can also spawn in this biome along with warm animal variants. frameless Bamboo jungleIn this jungle biome, large areas of the landscape are covered with massive amounts of bamboo. The ground consist of podzol underneath the densely packed bamboo. Additionally, mega jungle trees, fancy oak trees, and jungle bushes can also generate here.
+
+Pandas have a much higher chance to spawn here than the other jungle biomes, making this the best place to find them. Ocelots, parrots, and warm animal variants are also able to spawn. Jungle pyramids can generate here. frameless Dappled forest
+An autumnal forest vegetated by poplar trees with red, orange, and yellow-colored leaves, on an orange-brown grass tint with red shrubs. The biome also has various mushrooms, fallen trees, and coarse dirt. Foxes and rabbits spawn here alongside cold animals. frameless
+
+Wetland biomes
+Wetland biomes are rivers, swamps and beaches. They have a large amount of water resources. Rivers separate other biomes; beaches generate as a transition between the ocean and land.
+
+Biome nameDescriptionScreenshot RiverA biome that consists of water blocks that form an elongated, curving shape. Rivers cut through terrain or separate the main biomes. They attempt to join up with ocean biomes, but sometimes loop around to the same area of ocean. Rarely, they can have no connection to an ocean, instead forming a loop, or ending in a swamp or far inland.
+
+On the landside, or rare occasions where rivers generate entirely dry, the grass has a dull aqua tone, and trace amounts of oak trees and firefly bushes tend to generate there. Rivers are also a reliable source of clay and sand. Drowned, squid, cod, and salmon spawn underwater. , no other mobs can spawn through the spawn cycle, even common hostile mobs. frameless Frozen riverA river with a layer of ice covering its surface, generating when a river goes through snowy biomes. Salmon spawn underwater while rabbits and polar bears spawn on the surface. At night and during thunderstorms, drowned can spawn below the ice with strays and skeletons on the surface. , no other hostile mobs can spawn here. frameless SwampA biome characterized by a mix of flat areas around sea level, and shallow pools of green water with floating lily pads. Clay, sand, and dirt are commonly found at the bottom of these pools. Oak trees are covered with vines and can be found growing out from the water, and , huge mushrooms also generate. Mushrooms, firefly bushes, dead bushes, and sugar canes are abundant, and blue orchids grow exclusively here. Frogs of the temperate variant can spawn here as well.
+
+Swamp huts with a black cat and a witch generate exclusively in swamps, and fossils are rarely found underground. Slimes also spawn naturally at night and during thunderstorms, most commonly on full moons, and some skeletons are replaced by bogged. Green volumetric fog and underwater fog is much denser than in other biomes. frameless Mangrove swampA warmer variant of the swamp, characterized by a dense foliage, featuring plenty of mangrove trees of varying heights. The floor is mainly composed of mud blocks with occasional grass patches. The grass has the same color as in the normal swamp but leaves and vines have a unique light green tint and the water is teal rather than gray. Warm frogs often spawn in this biome. Slimes also spawn naturally at night and during thunderstorms, most commonly on full moons, and some skeletons are replaced by bogged. Fossils generate underground, but swamp huts do not. frameless BeachGenerated where oceans meet land biomes, beaches are primarily composed of sand. Buried treasures can be found under few blocks of sand, and an occasional shipwreck can also generate here. Passive mobs other than turtles do not spawn on beaches.  frameless Snowy beachLike a regular beach, one can find plenty of sand in this biome and buried treasures can be found underground in this snowy beach. However, sand is covered in a layer of snow. Snowy beaches are found when a snowy biome borders a frozen ocean biome. No passive mobs other than rabbits spawn in this biome, and shipwrecks occasionally generate on land. frameless Stony shoreThis stone-covered biome generates at shores with low erosion values, usually close to mountains. Depending on the height of the nearby land, stony shores may generate as medium slopes or huge cliffs, its tops tall enough to be covered by snow even when near warmer biomes. No passive mobs spawn here. Buried treasures can generate here. Strips of gravel can sometimes be found here. frameless
+
+Flatland biomes
+These biomes have a wide view because less trees spawn here and the terrain usually does not contain mountains or cliffs, although hills and plateaus are common. They also have a higher number of passive mob spawns.
+
+Biome nameDescriptionScreenshot PlainsA grassy biome with rolling hills and few oak trees, as well as many flowers and grasses. Villages and pillager outposts are common. Cave openings, lava lakes and waterfalls are easily identifiable due to the unobstructed terrain. Passive mobs are easily found in plains biomes; this biome is also one of the few biomes where horses and donkeys spawn naturally. Hostile zombie horses spawn rarely at night as zombie horsemen. frameless Sunflower plainsA fairly uncommon variation of the plains, this biome is the only place where sunflowers naturally generate. , plains villages and pillager outposts can generate here. frameless Snowy plainsA variant of plains entirely covered with snow, and freezing water. There are few spruce trees in this biome, and less grass and flowers generate compared to regular plains. No animal mobs other than rabbits and polar bears can spawn; however, it is one of the few biomes where strays and zombie horsemen spawn at night. , this biome does not spawn any other monsters except skeletons, strays, and zombie horsemen. Snowy villages, pillager outposts, and igloos can generate here. frameless Ice spikesA rare variation of the snowy plains biome that features large spikes and glaciers of packed ice. Usually, the spikes are 10 to 20 blocks tall, but some long, thin spikes can reach over 50 blocks in height. The floor in this biome is entirely covered in snow blocks instead of grass, and ice patches made of packed ice can generate on it. Like the regular snowy plains, no animal mobs other than rabbits and polar bears can spawn and strays appear at night or during thunderstorms.  frameless
+
+Arid-land biomes
+In these biomes, it neither rains nor snows. The surface is covered with sparse vegetation.
+
+Biome nameDescriptionScreenshot DesertA barren biome consisting mostly of sand dunes, dead bushes, dry grass, and cacti. Sandstone and sometimes fossils are found underneath the sand. The only passive mobs that spawn naturally in deserts are gold/creamy rabbits and camels. At night and during dry thunderstorms, husks, parched, and camel husk jockeys usually spawn in the place of normal zombies and skeletons. The biome is rich in structures, including desert villages, desert wells, desert pyramids, and pillager outposts. frameless SavannaA relatively flat and dry biome with a dull-brown grass color and acacia trees scattered around the biome, though oak trees may generate occasionally. Tall grass covers the landscape. Savanna villages can generate in this biome, constructed of acacia wood, and pillager outposts also generate. Horses, armadillos and warm animal variants can naturally spawn here, and it is one of the only biomes with rare zombie horsemen. Llamas may also spawn here. frameless Savanna plateauThis biome generates when a normal savanna biome spawns at high altitudes and near mountains. It is mostly indistinguishable from the standard savanna, with the main differences being the fact that llamas and wolves can spawn. Villages and pillager outpost do not generate. frameless Windswept SavannaIn contrast to the mostly flat and calm terrain of the savanna biome, this uncommon variant generates chaotic terrain, with gigantic mountains covered in coarse dirt and some patches of stone. The mountains in the windswept savanna are extremely steep, sometimes jutting out at 90-degree angles and there are floating islands and overhangs. On top of that, they can reach heights comparable to the mountain peak biomes, sometimes rising above the clouds. Massive waterfalls and lavafalls are quite common, and lakes can also generate.
+
+Horses, armadillos and warm animal variants can still spawn in the windswept savanna, as well as zombie horsemen and llamas. frameless BadlandsAn uncommon mountainous and desertic biome composed of layers of terracotta and stained terracotta on higher grounds. Red sand covers this in valleys, with occasional cacti, dead bushes, and dry grass. Armadillos are the only mobs that can be found here. Mineshafts generate at a higher altitude than normal, allowing them to be exposed to the surface, and have dark oak planks instead of oak planks. Gold ore also generates more frequently. frameless Wooded badlandsOn higher altitudes, the wooded badlands have layers of coarse dirt and grass blocks, and forests of small oak trees with leaf litter. The lower parts don't generate the oak forests, exposing terracotta and red sand to the sky. The color of the grass and leaves is a dull green-brown hue, giving it a dried and dead appearance. Armadillos can spawn here during the day, and wolves and warm animal variants can spawn on the wooded plateaus. frameless Eroded badlandsThis rare variant generates unique terrain features that are similar to the structures in Utah's Bryce Canyon. Tall and narrow spires of colorful terracotta rise out of the floor of the canyon, which like all other badlands variants, is covered in red sand. Armadillos are the only passive mobs that can be found here. frameless
+
+Cave biomes
+These biomes generate inside caves in the Overworld. They are mostly found underground but can sometimes leak out of cave entrances.
+
+Biome nameDescriptionScreenshot Deep darkA dimly lit cave biome that generates deep underground mostly within the deepslate layer under mountains. It is largely sculk blocks 1 block thick upon all surfaces, with frequent sculk sensors and occasional sculk shriekers, the latter of which can directly summon a warden. Large structures known as ancient cities can generate here, containing chests with unique loot. No mobs spawn here from the natural spawn cycle. frameless Dripstone cavesThese are caves filled with dripstone blocks and pointed dripstone both hanging as stalactites and growing from the ground as stalagmites and small water wells of 1×1 in the ground. Large dripstone clusters structures generate occasionally inside these caves. Copper ore blobs found in this biome are much bigger compared to other biomes. Drowned and rarely zombie nautiluses can spawn in aquifers. frameless Lush cavesLush caves are often found underground below azalea trees. These caves are covered by moss blocks, moss carpets, short grass and azalea bushes on the floors. On the ceiling, vines and cave vines with glow berries grow down and light up the caves, and spore blossoms grow and spore particles. There are also shallow lakes with clay where dripleaf plants grow out of them and axolotls spawn, making this the only biome where they can spawn. Tropical fish can also spawn inside the aquifers in a lush cave. frameless Sulfur cavesA biome composed of sulfur and cinnabar blocks, sulfur spikes, as well as potent sulfur in water pools that inflicts the Nausea effect. Sulfur cubes can spawn here. Cave spiders can spawn making it the only biome where they can spawn naturally. Sulfur springs generate at the surface, indicating there are sulfur caves below. frameless
+
+The Void
+Biome nameDescriptionScreenshot The Void Can be accessed only through Single Biome world selection or The Void superflat preset. In a single biome world, the landscape consists of stone, as well as water and bedrock depending on the generator type. In the superflat preset, the world is completely empty except for a stone start platform. No mobs from the regular spawn cycle spawn here, and it does not rain. frameless
+
+The Nether
+The Nether is considered a different dimension. All biomes in this dimension are hot and dry, and it is not possible to place water; ice can still be placed, though it does not turn into water upon melting. Lava oceans are generated as a feature and are therefore not considered a separate biome.
+
+Biome nameDescriptionScreenshot Nether wastesThe Nether wastes is the most common biome in the Nether. The terrain mainly consists of netherrack, with glowstone clusters growing and lava leaking from the ceiling and gravel and soul sand lining its shores. Most of the Nether’s mobs can spawn here, including ghasts, zombified piglins, magma cubes, striders, piglins, and the occasional endermen. frameless Soul sand valleyThe soul sand valley mainly consists of soul sand, basalt and soul soil. Notable features of the biome are exposed Nether fossils in various shapes and sizes, large amounts of lava, blue fog, large spires made of basalt, soul fire, and the occasional Nether fortress or bastion remnant. Ghasts and skeletons are common in this biome while endermen are rare. Striders can spawn here as well. This is the only place to find dried ghasts naturally. frameless Crimson forestThe crimson forest consists of many huge crimson fungi, which act as the "trees" of this biome. The huge fungi often generate with weeping vines hanging from them, and shroomlights which light up the landscape. The floor is mostly covered with crimson nylium, with occasional patches of bare netherrack or Nether wart blocks. Crimson roots, crimson fungus, and occasionally warped fungus grow on the ground. Small patches of Nether wart blocks and weeping vines can also be found growing on the ceiling.
+
+Hoglins, piglins, zombified piglins, and striders can spawn in this biome.  frameless Warped forestThe warped forest consists of many huge warped fungi, which act as the "trees" of this biome. The huge fungi often generate with shroomlights, which light up the landscape. Twisting vines grow throughout the biome in patches. The floor is mostly covered with warped nylium, with occasional patches of bare netherrack or warped wart blocks. Warped roots, warped fungus, Nether sprouts, and occasionally crimson fungus grow on the ground.
+
+Endermen and striders are the only mobs that spawn in this biome. The biome emits out a magenta-purple fog upon entry.  frameless Basalt deltasA gray biome, the basalt deltas are said to be the remnant of ancient volcanic eruptions. The ground consists of basalt and blackstone blocks, with small patches of netherrack and pools of lava. The shape of the terrain is chaotic and uneven, making it somewhat difficult to traverse and build on. Unlike the other biomes in the Nether, bastion remnants do not generate in basalt deltas. When this biome borders a lava ocean, clusters of basalt form near the coast. Fog is colored light-gray and particles of dust can be seen falling from the ceiling upon entry.
+
+Magma cubes have a high spawn rate in this biome, making the basalt deltas the best place to farm magma cream. This biome also contains a much higher abundance of blackstone compared to other Nether biomes. Ghasts and striders can spawn in this biome as well.  frameless
+
+The End
+The End is considered a different dimension. The terrain consists of end stone islands of varying sizes, floating in the void. They use five different biomes , or all use the End , with no terrain differences.
+
+Biome nameDescriptionScreenshot The EndThis biome is used to generate the circle of radius 1000 centered at the 0,0 coordinates in the End. The End central island is generated at the center of this circle, and it's surrounded by a complete vacuum all the way to the edge of the biome. Most of the End features are exclusive to that island, including the ender dragon, the obsidian pillars, the End crystals, the 5×5 spawn platform, the exit portal and the 20 central End gateways. Large amounts of endermen spawn in this biome. It does not rain or snow in this biome unlike the other low-temperature biomes. The outer islands in the End can be accessed using End gateways after the ender dragon has been defeated. , this biome is instead the biggest, as it is used to generate the whole dimension, and chorus trees generate there.
+
+If the biome is used for a superflat world, the sky appears nearly black and an ender dragon spawns at the 0,0 coordinates in the Overworld. Only endermen spawn at night. frameless Small End islandsGenerates as part of the outer islands of the End. This biome represents the empty expanse between the larger islands, populated by the smaller, circular islands. Large amounts of endermen spawn in this biome. frameless End midlandsGenerates as part of the outer islands of the End. This biome represents the gradual slope from the hilltops of each island down to the cliffs around the edge. End cities generate here, but chorus trees do not. Large amounts of endermen spawn in this biome. frameless End highlandsGenerates as part of the outer islands of the End. This biome represents the hilltops of each island, and is the only biome in the End where both chorus trees and End cities generate. Large amounts of endermen spawn in this biome.  frameless End barrensGenerates as part of the outer islands of the End. This biome represents the outer rims of each island, with steep cliffs below the edge. Neither End cities nor chorus trees generate in this biome. Large amounts of endermen spawn in this biome. frameless
+
+Unused biomes
+
+Many biomes, made redundant via Caves & Cliffs world generation changes, still exist  but have been removed from , and are documented on the page linked above.
+
+Removed biomes
+
+Joke biomes
+
+Tint
+All biomes use a set of colors for various environmental aspects such as the sky, water, fog, and some blocks. , biomes specify their colors in the client_biome JSON files in the vanilla resource packs. Some biomes specify their colors directly, while others use colormaps or separate JSON files which can also control other environmental effects.
+
+, all biome colors for blocks are also visible on maps.
+
+Plants
+thumb|Example of different grass colors for different biomes
+Biome grass and foliage colors are selected from three 256×256 colormap images: grass.png, foliage.png, and dry_foliage.png under  or  in the vanilla resource pack. The grass.png colormap sets the colors for grass blocks, short grass, tall grass, ferns, large ferns, ferns in flower pots, sugar canes, bushes and stems of pink petals and wildflowers. Meanwhile, the  colormap sets the colors for vines and tree leaves of oak, jungle, acacia, dark oak and mangrove. The  colormap sets the colors for leaf litter. Only the colors in the lower-left halfs of the images are used, even though the upper-right side of  and  is colored.
+
+The base temperature and downfall values are used when determining the biome color to select from the colormap. Treating the bottom-right corner of the colormap as 0 for both values, the temperature increases to 1.0 along the X-axis, and the downfall increases to 1.0 along the Y-axis. When a biome's temperature or downfall extends past the lower-left half, it will use the color on the closest edge of the image.
+
+Special plant tints
+In the following cases, the plants are not tinted exactly according to the default colormap.
+
+Swamps
+
+In swamps and mangrove swamps, the grass color is based on a noise on the XZ plane. When the value of this noise is less than -0.1, it uses the color , otherwise using . The foliage color is  in swamps and  in mangrove swamps. The dry foliage color in swamps and mangrove swamps is .
+
+, all swamp biomes use colormaps to determine these colors, similar to regular colormaps described above.
+Dark forest
+
+In dark forests, the grass color is the result of the bitwise AND between the color in the colormap and , and then averaging with . In vanilla, that is .
+
+Badlands
+
+In badlands, wooded badlands and eroded badlands, the grass color is  and the foliage color and dry foliage color is .
+
+Cherry grove
+
+The color for grass and foliage in cherry groves is always .
+
+Pale garden
+
+In the pale garden, the grass color is , the foliage color is , and the dry foliage color is .
+
+Sulfur caves
+
+In sulfur caves, the grass color is .
+
+Other leaves
+
+The color for spruce leaves is  and the color for birch leaves is . Both are not affected by the biome, but determined by biome colormaps .
+
+Environment
+The base color of the daytime sky in Overworld changes according to the basic temperature value of the biome. The basic temperature is first modified as T = clamp( Temperature / 3 , -1.0, 1.0 ). Then the triple (0.62222224-0.05T, 0.5+0.1T, 1) is the sky color.
+
+The color of the sky in the pale garden biome is , which is unaffected by the above formula. See  below for all sky colors.
+
+The colors and surface opacity of water are defined in the vanilla data pack or client biome JSON files in vanilla resource packs. Some biomes , or most biomes  have unique water colors. Swamps and warm oceans in Bedrock Edition have unique water surface opacities, 65% and 55% respectively.
+
+The color and density of water and sky fog is different for most biomes, defined by separate JSON files for each biome in Bedrock Edition. The underwater fog color is  with a few exceptions in Java Edition, or the same as the water surface color with some exceptions in Bedrock Edition. The sky fog color is  or  in all Overworld biomes, except pale gardens which use , and sulfur caves use . Nether biomes and the End have unique fog colors.
+
+Vibrant Visuals
+Vibrant Visuals ignores default colors for the sky, water, and fog, and adds new effects for each biome or a set of biome. Which environmental settings are used is determined by the biome JSON file, and all environmental settings are stored in separate directories in resource packs. In vanilla, the following effects are affected by the biome:
+
+Lighting, which includes directional lighting from the sun and moon and ambient lighting. These have a specified brightness and color, and constantly change with the daylight cycle. Certain biomes have unique sunlight or moonlight colors, and a few biomes have lower sunlight illuminances. The End has slightly brighter ambient light, and the Nether has much brighter ambient light. See  for a full overview.
+
+Atmospherics, which colors atmospherics, a replacement of the classic sky box created by distance fog. The sky color of a biome is defined at zenith and at the horizon, with specified heights where the colors are blended. It is further illuminated and tinted by directional lighting, rayleigh scattering, and mie scattering, and the atmosphere is constantly changing with the daylight cycle. Some biomes have unique zenith or horizon colors at daytime or nighttime, and a few have fully custom colors. The Nether and the End have static atmospherics that tint the distance fog with the classic colors. See  for a full overview.
+Volumetric fog is an additional layer of fog with large differences between biomes. There are 9 different fog effects, mainly depending on the biome's humidity, but some biomes like swamps and pale gardens have unique dense fog effects with different colors. The final strength and tint depends on atmospherics and directional lighting. See  for a full overview.
+Color grading is applied to the final image rendering. This rebalances saturation levels for RGB colors at different illumination levels, and changes the image's color temperature. Most Overworld biomes are identified by different color temperatures, while a few also change saturation or contrast. See  for a full overview.
+
+Water colors are not visible with Vibrant Visuals, but all non-air fog colors still apply asides from the volumetric fog. Vibrant Visuals effects are dynamically blended at biome transitions.
+
+Transition
+When plants or water are at the borders between or among biomes, the color is affected by the biome of the surrounding blocks at the same Y-level. , the range of the block involved in the calculation can be decreased with the biome blend radius in the options. It takes the plant color or water color of the biomes within a square centered on this block and with the side length being the biome blend radius, and calculates their average value to get the final color for this block.
+
+The sky color and the fog color use the color processed by  from colors of the biomes at each block in the range of 5×5×5 centered on the block the camera is in.
+
+Climate
+
+Temperature
+Each biome has a base temperature value (see ), but the actual temperature value at each location in the biome is also affected by the height of the location. Locations with Y≤80 use the base temperature as actual temperature. At Y=81, the actual temperature value randomly fluctuates up and down by -0.00875 — +0.01125 from the base temperature based on a noise on the XZ plane, and at Y≥81 the actual temperature decreases by 0.00125 () every block up.
+
+In frozen oceans and deep frozen oceans, it is also affected by a noise value on the XZ plane. In some regions according to the noise, the base temperature value is always regarded as 0.2. The actual temperature values for these regions are also calculated on this basis. This is detectable in frozen oceans, as its base temperature is low enough to freeze or snow, so that only these regions do not freeze or snow at sea level.
+
+The temperature affects at which height snowfall can occur, the sky and block colors, and whether sponges dry in the air.
+
+Downfall
+The downfall value is a number between 0.0 and 1.0 (see ) mainly used for block colors. When the downfall value is greater than 0.85, the biome is marked as humid, which is related only to the random extinction of fire.
+
+Additionally, the downfall controls whether a biome is arid ; if it is 0.0, no rain or snow occurs. Otherwise, a location is rainable when its temperature value is equal or greater than 0.15, and snowable otherwise.
+
+Precipitation
+, precipitation is separate from downfall, which can be "true" or "false".
+
+If the base temperature is less than 0.15, it's snowable at any Y level. If equal or greater than 0.15, it will still snow above a certain Y level, caused by temperature decrease above Y=81.
+
+BiomesMinimum height for snowfallSome regions of AnySome regions of  and 120±8160±8200±8Others356±8 (out of world)
+The exact minimum height for snowfall is randomized per block because the temperature slightly shifts, with a margin of up to 8 blocks. , this is a transition layer where both snow and rain particles are visible at the same time. This transition also appears when moving horizontally between snowy and rainy biomes, and the particle density decreases when moving to a dry biome.
+
+Snow accumulation
+
+The amount of snow layers generated on the surface is based on the snow accumulation value of the biome. The first value calculates how snow is randomly stacked – a value of 0 results in all blocks covered by 1 snow layer; a value of 0.125 results in some areas not being covered by snow, and snow gets stacked when next to a full block; a higher value adds random patches of higher piles which increase in size and height with the value.
+
+During snowfall, snow can stack infinitely on top of generated snow, unlike  where this is controlled by a snow accumulation game rule. The second value calculates how quickly snow accumulates during snowfall.
+
+List of biome climates
+
+Overworld
++Climate and environment colorsBiomesBase temperatureDownfallPrecipitationSnow accumulationGrass colorFoliage colorDry foliage colorSky color2.00.0FALSE0.0-0.125 2.01.22.01.01.00.3TRUE0.950.90.80.91.00.80.90.90.50.80.40.80.20.40.00.70.80.60.6    0.50.90.50.00.50.5FALSEN/ATRUE0.0-0.1250.50.30.80.30.250.20.30.0-0.250.050.125-0.250.0 0.50.25-1.00.51.00.5-1.5 -0.20.80.125-0.25 -0.30.90.125-0.5 -0.50.4 -0.70.90.125-0.25
+
++Water colorsBiomeWater color Water fog color Water color Water fog color 30 blocks distanceDecreased65% opacity30 blocks distanceDecreased100% opacity30 blocks distance55% opacityN/A
+
+The Nether
+BiomeBase temperatureDownfallPrecipitationGrass colorFoliage colorDry foliage colorSky colorWater colorWater fog colorFog color2.00.0FALSE15 blocks distance15 blocks distance
+
+The End
+BiomeBase temperatureDownfallPrecipitationGrass colorFoliage colorDry foliage colorSky colorWater colorWater fog colorFog color0.50.5FALSE15 blocks distance
+
+Generation
+
+Biome distribution
+
+Overworld
++ Overworld surface biomesBiomeSurface area cover12.288%10.627%7.158%6.208%4.506%4.359%3.899%3.813%3.344%2.897%2.473%2.422%2.413%2.327%2.301%2.280%2.179%2.043%2.041%2.032%2.026%1.404%1.189%1.187%1.123%1.071%0.876%0.822%0.782%0.690%0.685%0.668%0.648%0.642%0.619%0.517%0.398%0.359%0.332%0.298%0.290%0.285%0.249%0.218%0.186%0.173%0.157%0.156%0.135%0.107%0.098%
+
++Overworld cave biomesBiomeArea cover by altitudeVolume coverY = -55Y = -32Y = 0Y = 32Y = 64Y < 64Y < 320Surface biomes88.16%86.42%76.38%87.95%96.29%85.74%95.00%0.914%4.41%12.66%8.75%3.03%6.78%2.48%0.886%5.23%10.18%3.20%0.668%4.74%1.62%10.04%3.94%0.776%0.108%0.013%2.74%0.915%
+
+The Nether
+BiomeVolume cover36.30%22.22%17.08%15.86%8.54%
+
+The End
+This only applies to ,  the entire dimension is set to the End biome.
+BiomeArea cover45.81%25.70%17.66%10.82%This ignores the regions of End terrain that fail to generate due to , which entirely consist of End barrens.
+
+Biome IDs
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+The term biome is slightly similar to its scientific usage: in the real world, a biome is climatically and geographically defined by distinctive communities of plants, animals and soil organisms supported by similar climatic conditions. They are often referred to as s."Biome" on Wikipedia"biome" on Dictionary.com Minecraft biomes are defined by all of the blocks that compose them, not just the plants and animals found in them.
+A biome can sometimes generate with an area of only one block.
+
+Gallery
+Screenshots
+
+Historical screenshots
+
+Templates
+
+Mojang images
+
+See also
+Biome definition
+Overworld
+Structures
+Terrain Features
+Weather
+Large Biomes
+Amplified
+
+References
+
+External links
+All Biomes in Minecraft – Minecraft Help Center
+
+Navigation
+
+cs:Biom
+de:Biom
+es:Bioma
+fr:Biome
+hu:Biom
+it:Bioma
+ja:バイオーム
+ko:생물 군계
+lzh:生態域
+nl:Klimaat
+pl:Biom
+pt:Bioma
+ru:Биом
+th:ไบโอม
+uk:Біом
+zh:生物群系

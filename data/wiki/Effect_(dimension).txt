@@ -1,0 +1,61 @@
+TITLE: Effect (dimension)
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Effect_(dimension)
+---
+In custom dimensions, an effect was a set of rendering features utilised for defining a dimension's atmosphere and visuals.
+
+Elements
+The dimension effect governs the following things:
+
+Whether the dimension has ground
+The sky type to be used
+Whether to always use a bright lightmap
+Whether the ambient light level is constant
+Fog color
+
+Examples
+
+Note that as of Java Edition 1.16.5, all effect features are hardcoded, and new ones cannot be created without mods. Dimensions created using effects from existing modded dimensions tend to carry dimension effects to the respective dimension as expected.
+
+minecraft:overworld
+The Overworld has the following effect elements:
+
+Cloud level: 192
+Has ground:
+Sky type:  (sun, moon, stars etc.)
+Force bright lightmap:
+Constant ambient light level:
+No fog apart from view distance fog
+The fog color is affected by the time of day. The new color  can be calculated using the following formula, where  is the time of day and  is the existing color.
+
+minecraft:the_nether
+The Nether has the following effect elements:
+
+No clouds (cloud level: )
+Has ground:
+Sky type:  (no celestial bodies)
+Force bright lightmap:
+Constant ambient light level:
+Has fog
+
+The fog color is not affected by the time of day as the nether has no daylight cycle.
+
+minecraft:the_end
+The End has the following effect elements:
+
+No clouds (cloud level: )
+Has ground:
+Sky type:  (no celestial bodies, purple spotted sky texture)
+Force bright lightmap:
+Constant ambient light level:
+No fog apart from view distance fog
+The fog color is not affected by the time of day as the end has no daylight cycle, however each RGB component is multiplied by 0.15.
+
+Overview
+minecraft:overworldCelestial bodies; clouds; no extra fog; fog color depends on time of day minecraft:the_netherNo celestial bodies; extra fog; no clouds minecraft:the_endNo celestial bodies; no clouds; purple spotted sky texture
+
+History
+
+Navigation
+
+pt:Efeito (dimensão)

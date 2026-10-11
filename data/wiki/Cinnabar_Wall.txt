@@ -1,0 +1,47 @@
+TITLE: Cinnabar Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cinnabar_Wall
+---
+A cinnabar wall is a decorative wall variant of cinnabar used for building.
+
+Obtaining
+Breaking
+Cinnabar walls drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cinnabar, Cinnabar, Cinnabar, Cinnabar, Cinnabar, Cinnabar arranged in the crafting grid → Cinnabar Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+es:Muro de cinabrio
+fr:Muret de cinabre
+ja:辰砂の塀
+ko:진사 담장
+pt:Muro de Cinábrio
+ru:Киноварная ограда
+uk:Кіноварна стіна
+zh:朱砂墙

@@ -1,0 +1,86 @@
+TITLE: Coral Fan
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Coral_Fan
+---
+Coral fans are non-solid blocks that come in five variants: tube, brain, bubble, fire, and horn.
+
+Obtaining
+Breaking
+Coral fans can be mined instantly but can be obtained only when mined with a Silk Touch enchanted tool. Breaking coral fans without Silk Touch destroys the coral fan.
+
+Natural generation
+Coral fans naturally generate in coral reef structures.
+
+Post-generation
+Bone meal
+When bone meal is  in warm ocean biomes, it has a chance of generating coral fans. , coral wall fans also have a chance of generating on the sides of blocks.
+
+Coral wall fans
+Coral wall fans item form cannot be obtained through vanilla means  except through add-ons or inventory editing.
+
+Usage
+Coral fans can be used for building or as decoration blocks.
+
+Placement
+All coral fans can be placed on the four sides and the top surface of blocks; they cannot be placed on the bottom surface.
+
+Water
+In order for coral fans to stay alive, they must be placed in water. , coral fans can also be placed outside of water as long as one of the blocks surrounding it contains water. If placed outside of water, they transform into their respective dead coral fan immediately or after 3 to 4.95 seconds. Once a coral fan dies, it is not possible to turn a dead coral fan back into a live coral fan.
+
+Pushing with pistons
+Live coral fans cannot be pushed by pistons (attempting to do so results in the coral fan breaking).
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Floor
+
+Wall
+
+:
+Floor
+
+Wall
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+References
+
+Navigation
+
+Category:Animal blocks
+Category:Natural blocks
+Category:Non-solid blocks
+
+de:Korallenfächer
+es:Gorgonia
+fr:Gorgone de corail
+ja:ウチワサンゴ
+ko:부채형 산호
+pl:Wachlarz koralowca
+pt:Gorgônia
+ru:Веерный коралл
+zh:珊瑚扇

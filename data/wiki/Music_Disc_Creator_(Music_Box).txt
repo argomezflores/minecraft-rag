@@ -1,0 +1,58 @@
+TITLE: Music Disc Creator (Music Box)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_Creator_(Music_Box)
+---
+"Creator (Music Box)" refers to both a song composed by Lena Raine and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from trial chambers, as a rare drop from decorated pots.
+
+Obtaining
+Generated loot
+
+Track description
+
+File:Creator (Music Box Version).ogg
+
+The music box version of "Creator" plays the main melody of the song with only a  and none of the other accompanying instruments in the original track. It also lacks the key change present in the original.
+
+Usage
+Like all music discs,  the "Creator (Music Box)" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "Creator (Music Box)", it will emit a redstone signal of 11.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Creator (Music Box Version)" creator_music_box.ogg music_disc.creator_music_box
+
+:
+
+Soundtrack Title File name Sound events "Creator (Music Box Version)" creator_music_box.ogg record.creator_music_box
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The music disc of the standard version of “Creator” looks like it has a patina, whereas the music box version looks shiny and clean.
+
+Navigation
+
+Category:Lena Raine
+Category:Minecraft: Tricky Trials (Original Game Soundtrack)
+Category:Music discs
+
+es:Disco de música#Creator (caja de música)
+fr:Disque Creator (boîte à musique)
+ja:Creator（オルゴール）
+ko:음반 Creator (오르골)
+pt:Disco Musical Creator (caixa musical)
+ru:Пластинка «Creator (Музыкальная шкатулка)»
+uk:Платівка «Creator (музична скринька)»
+zh:音乐唱片Creator（八音盒）

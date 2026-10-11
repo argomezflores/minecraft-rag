@@ -1,0 +1,158 @@
+TITLE: Log
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Log
+---
+A log or stem is a naturally occurring block found in trees or huge fungi, primarily used as a building block and to create planks, a versatile crafting ingredient. There are currently nine types of logs: oak, spruce, birch, jungle, acacia, dark oak, mangrove, cherry, and pale oak; and two types of stems: crimson and warped. The upcoming third drop of 2026 introduces poplar as the tenth log type.
+
+Obtaining
+Breaking
+Logs and stems can be broken by hand, but using an axe is faster. Logs and stems drop themselves when broken with any tool.
+
+Natural generation
+All types of logs generate naturally as part of trees, although fallen trees can only contain oak, spruce, birch, jungle, or poplar. Azalea trees are generated with oak logs. Additionally, one jungle log generates for each jungle bush. Stems generate naturally as part of huge fungi.
+
+In addition to trees:
+
+Oak logs generate as part of:
+Plains villages
+Swamp huts
+Mineshafts
+Shipwrecks
+Trial chambers
+Abandoned camps in flower forests and forests
+
+Spruce logs generate as part of:
+Taiga and snowy plains villages
+Shipwrecks
+
+Jungle logs generate as part of shipwrecks.
+
+Acacia logs generate as part of savanna villages.
+
+Dark oak logs generate as part of:
+Pillager outposts
+Badlands mineshafts
+Woodland mansions
+Ancient cities
+Shipwrecks
+
+Mangrove logs generate as part of trial chambers.
+
+Birch logs generate as part of abandoned camps in birch forests, flower forests, and forests.
+
+Cherry logs generate as part of abandoned camps in cherry groves.
+
+Pale oak logs generate as part of abandoned camps in pale gardens.
+
+Poplar logs generate as part of abandoned camps in dappled forests.
+
+Generated loot
+
+Trading
+Wandering traders can sell 8 logs for one emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 8 available logs when killed while showing the item as trade offer, if the player holds an emerald.
+
+Post-generation
+Logs and stems
+Trees can be grown using saplings or azalea, and huge fungi can be grown using small Nether fungi.
+
+Usage
+Crafting ingredient
+
+Further crafting
+The following table presents the amount of logs or stems needed to produce an even multiple of a given item with no waste left over, and the quantity produced:
+
+Product Number of logs or stems needed so that there are no redundant planks/sticks/... after crafting Product amount after crafting Ratio between the product amount and the number of logs or stems needed   4 3 75%   1The stripping must be done with an axe, which is not counted. 1 100%   4 3 75%  15 8 53.33%   5 4 80%  13 4 30.76%  3 16 533.33%  1 4 400%  27 crafted, 8 cookedRequires the burning of wood into charcoal in a furnace, which needs 8 cobblestone and burning material. The cobblestone and fuel are ignored for the purpose of this conversion. 8 22.86%  0 crafted, 1 cookedAssumed to be crafted from logs rather than wood blocks. 1 100%  2 1 50%  21 12 57.14%  1 1 100%  21 24 114.28%  3 6 200%  5 12 240%  1 1 100%  7 24 342.86%  13 24 184.62%  6 6 100%  1 8 800%  1 crafted, 8 cooked 32 355.56%  1Assumed to be crafted from logs or stems rather than wood or hyphae blocks. 4 400%  2Because one plank cannot be crafted into two sticks, this crafting recipe requires two wood or hyphae for two units. 2 100%  3 4 133.33%  2 2 100%  1 2 200%  1 2 200%  1 2 200%  3 24 800%  3 8 266.67%  5 8 160%  3 4 133.33%
+
+Smelting ingredient
+
+Smelting recipe: {Any Log} → Charcoal, XP: 0,15.
+
+Stems cannot be smelted into charcoal.
+
+Fuel
+Logs, but not stems, can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+Stripping
+an axe on a log or stem strips it, turning it into a stripped log or a stripped stem, which act the same as regular logs or stems.
+
+Cocoa beans
+Cocoa beans can be placed on the side of jungle logs to grow a new cocoa pod.
+
+Sounds
+Other logs
+
+Cherry log
+
+Stems
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+In other media
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Flammable blocks
+
+cs:Kmen
+de:Stamm
+es:Tronco
+fr:Bûche
+hu:Nyersfa
+it:Tronco
+ja:原木
+ko:원목
+lzh:樁
+nl:Stam
+pl:Pień
+pt:Tronco
+ru:Бревно
+th:ท่อนไม้
+tr:Odun
+uk:Колода
+zh:原木

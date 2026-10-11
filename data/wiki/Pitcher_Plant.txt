@@ -1,0 +1,75 @@
+TITLE: Pitcher Plant
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Pitcher_Plant
+---
+A pitcher plant is a tall ancient https://www.youtube.com/watch?v=MPJ2dzVcOgg flower that grows from a pitcher pod.
+
+Obtaining
+Pitcher plants do not generate naturally and are obtained by growing a pitcher pod. Pitcher pods can be obtainted with a sniffer digging them up. Breaking a fully grown pitcher crop drops one pitcher plant. Unlike the other tall flowers, it is not possible to duplicate pitcher plants by applying bone meal on them.
+
+Breaking
+Pitcher plants can be broken instantly with any item or by hand.
+
+A pitcher plant also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Usage
+Like most flowers, pitcher plants can be used as decoration and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, mud, or muddy mangrove roots. Like other tall flowers, pitcher plants cannot be placed inside flower pots.
+
+Crafting ingredient
+
+Bees
+Bees see player-placed pitcher plants as flowers, but they ignore fully grown pitcher crops.
+
+Bees engage in a pollinating behavior with pitcher plants, increasing the honey level in beehives and bee nests by 1.
+
+Breeding
+Pitcher plants can be used to breed, grow, and lead bees.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of a pitcher plant have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Composting
+Placing a pitcher plant into a composter has an 85% chance of raising the compost level by 1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+While referred to by a generic name, the plant is meant to be a fictional species. They are loosely based on the real , but with more of the look of "an orchid or something more ornamental".
+In-universe, pitcher plants taste peppery, acidic, and like spoiled cotton candy.
+
+References
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Createable blocks
+Category:Flowers
+Category:Double blocks
+
+es:Planta odre
+ja:ウツボカズラ
+ko:벌레잡이풀
+lzh:小人蘭
+pt:Planta Ancestral
+ru:Кувшинница
+uk:Глечник
+zh:瓶子草

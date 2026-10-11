@@ -1,0 +1,56 @@
+TITLE: Chiseled Polished Blackstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Polished_Blackstone
+---
+Chiseled polished blackstone is the chiseled variation of polished blackstone. It has a piglin nose figure.
+
+Obtaining
+Breaking
+Chiseled polished blackstone needs to be broken using a pickaxe, otherwise the block drops nothing.
+
+Natural generation
+Chiseled polished blackstone can generate in bastion remnants and nether ruined portals.
+
+Crafting
+
+Crafting recipe: Polished Blackstone Slab, Polished Blackstone Slab arranged in the crafting grid → Chiseled Polished Blackstone.
+
+Stonecutting
+
+Usage
+Chiseled polished blackstone is a decorative block. It has a piglin's snout engraved on it. See also Easter eggs#Mobs on chiseled blocks.
+
+Sounds
+
+Data values
+ID
+Java Edition:
+
+Bedrock Edition:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Gemeißelter polierter Schwarzstein
+fr:Pierre noire sculptée
+ko:조각된 윤나는 흑암
+pt:Pedra-Negra Polida Talhada
+ru:Резной полированный чернокамень
+th:หินดำขัดสลัก
+uk:Різьблений полірований чорнокамінь
+zh:雕纹磨制黑石

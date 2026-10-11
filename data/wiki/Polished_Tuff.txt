@@ -1,0 +1,66 @@
+TITLE: Polished Tuff
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Tuff
+---
+Polished tuff is the polished version of tuff.
+
+Obtaining
+Breaking
+Polished tuff drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Polished tuff blocks generate naturally in trial chambers as the primary ceiling block of many rooms.
+
+Crafting
+
+Crafting recipe: Tuff, Tuff, Tuff, Tuff arranged in the crafting grid → Polished Tuff,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Polierter Tuffstein
+es:Toba pulida
+fr:Tuf poli
+ja:磨かれた凝灰岩
+ko:윤나는 응회암
+lzh:鎣積塊石
+pt:Tufo Polido
+ru:Полированный туф
+th:หินภูเขาไฟขัด
+uk:Полірований туф
+zh:磨制凝灰岩

@@ -1,0 +1,64 @@
+TITLE: Cyan Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cyan_Dye
+---
+Cyan dye is one of the sixteen available dyes.
+
+Obtaining
+Crafting
+
+Trading
+Wandering traders have a chance to trade 3 cyan dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 cyan dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Items
+Category:Dyes
+
+cs:Azurové barvivo
+de:Türkiser Farbstoff
+es:Tinte cian
+fr:Teinture cyan
+hu:Ciánkék festék
+ja:青緑色の染料
+ko:청록색 염료
+nl:Turquoise kleurstof
+pl:Błękitny barwnik
+pt:Corante Ciano
+ru:Бирюзовый краситель
+zh:青色染料

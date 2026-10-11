@@ -1,0 +1,54 @@
+TITLE: Cut Sandstone Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cut_Sandstone_Slab
+---
+A cut sandstone slab is a decorative slab variant of cut sandstone that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Cut sandstone slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cut Sandstone, Cut Sandstone, Cut Sandstone arranged in the crafting grid → Cut Sandstone Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a cut sandstone slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle de grès taillé
+ja:研がれた砂岩のハーフブロック
+ko:깎인 사암 반 블록
+pt:Laje de Arenito Lapidado
+zh:切制砂岩台阶

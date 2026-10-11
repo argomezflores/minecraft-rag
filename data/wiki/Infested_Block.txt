@@ -1,0 +1,104 @@
+TITLE: Infested Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Infested_Block
+---
+An infested block is a stone, stone variant or deepslate block inhabited by a silverfish, which can break out if it is mined or a nearby silverfish is attacked. Infested blocks break more quickly, do not drop as items and can be safely cleaned of infestation using Silk Touch.
+
+Obtaining
+Infested blocks are not obtainable by Silk Touch. They are available only through the Creative inventory or commands. However, they can be retained from worlds played in versions where they were legitimately obtainable.
+
+Breaking
+thumb|right|Breaking an infested block by hand. More silverfish appear when attacking the first one.
+
+When the block is broken, whether by a player or by an explosion, a silverfish spawns where it was broken unless the difficulty is Peaceful or the game rule doTileDrops is set to false (doMobSpawning is irrelevant).
+
+Infested blocks take less time to break than their normal counterparts. When breaking them with a pickaxe, they take half as much time to break as their normal counterparts.
+
+When mined with anything other than a Silk Touch-enchanted tool, an infested block drops nothing and spawns a silverfish that immediately attacks the player. If the player attacks a silverfish directly with a sword, bow, or potion of Harming, or when a silverfish takes Poison damage, nearby infested blocks break, spawning more aggressive silverfish. If the silverfish is killed in one hit, then nearby infested blocks do not break, and no silverfish spawn from them.
+
+When mined with a tool enchanted with Silk Touch, the equivalent non-infested block is dropped without spawning a silverfish. This may be any tool (including swords), meaning a pickaxe is not required to harvest the block.
+
+Natural generation
+Infested stone bricks are occasionally found in strongholds and igloo basements in place of normal stone bricks. Infested mossy and chiseled stone bricks also generate in igloo basements, but they do not generate naturally in strongholds.
+
+Infested cobblestone is found in the rarely generated "Fake End portal room" in woodland mansions.
+
+Infested stone and deepslate can generate in the Overworld in the form of blobs. Infested blocks attempt to generate 14 times per chunk in ore features of size 0-13/0-10, from altitudes -64 to 63  or 0 to 64 , within one of the following biomes, or within a chunk that is at least partially occupied by one of these biomes:
+
+Infested stone can replace stone, andesite, diorite, granite, tuff, and deepslate. If it replaces tuff or deepslate, it becomes infested deepslate.
+
+Post-generation
+Infested blocks are generated when a silverfish enters the respective normal block form.
+
+Usage
+When mined, an infested block spawns a silverfish that immediately attacks the player. If the player attacks a silverfish directly with a sword, bow, or potion of Harming, or when a silverfish takes poison damage, nearby infested blocks break, spawning more aggressive silverfish. If the silverfish is killed in one hit, then nearby infested blocks do not break, and no silverfish spawn from them.
+
+A silverfish does not spawn if the block is destroyed by the ender dragon.
+
+Identifying
+Note blocks placed on infested blocks produce flute sounds or harp sounds, while those placed on non-infested blocks produce bass drum sounds.
+
+A player can distinguish infested blocks from their non-infested counterparts by observing that an infested block breaks faster than the block it appears to be, with or without a pickaxe.
+
+, players can use the Identify key on blocks to see if it is an infested block.
+
+, using the debug screen, a player can identify whether or not a block is infested.
+
+Sounds
+Stone sounds
+
+Deepslate sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Infested Deepslate:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Despite silverfish being able to infest cobblestone, stone bricks, and mossy stone bricks, they cannot infest mossy cobblestone.
+
+References
+
+External links
+Block of the Month: Infested Block – Minecraft.net on January 26, 2023
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Animal blocks
+Category:Hazardous blocks
+
+cs:Blok rybenky
+de:Befallener Stein
+es:Bloque infestado
+fr:Bloc infesté
+hu:Kő ezüstmollyal
+it:Blocco infestato
+ja:虫食いブロック
+ko:벌레 먹은 블록
+nl:Geïnfecteerd blok
+pl:Zarobaczony blok
+pt:Bloco Infestado
+ru:Заражённый блок
+uk:Заражений блок
+zh:虫蚀方块

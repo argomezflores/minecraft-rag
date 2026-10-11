@@ -1,0 +1,53 @@
+TITLE: Nether Brick Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Brick_Wall
+---
+A Nether brick wall is a decorative wall variant of Nether bricks that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Nether brick walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Nether Bricks, Nether Bricks, Nether Bricks, Nether Bricks, Nether Bricks, Nether Bricks arranged in the crafting grid → Nether Brick Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Walls
+
+fr:Muret de briques du Nether
+ja:ネザーレンガの塀
+ko:네더 벽돌 담장
+pt:Muro de Tijolos do Nether
+uk:Стіна з незерської цегли
+zh:下界砖墙

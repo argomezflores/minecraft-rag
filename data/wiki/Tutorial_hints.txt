@@ -1,0 +1,59 @@
+TITLE: Tutorial hints
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Tutorial_hints
+---
+thumb|320px|Most of the hints available in Java Edition in order.
+thumb|An animation demonstrating the progress bar of the "Destroy the tree" hint.
+thumb|320px|A tutorial hint/game tip in .
+
+Tutorial hints (also known as game tips in ) are toasts on the player's HUD which show up when a player starts a world in Survival mode for the first time on a device. They are meant to guide new players on the game controls.
+
+Description
+When a Survival world is generated for the first time on a device, the first tutorial hint appears: the movement hint. Tutorial hints appear as a toasts in the top right of the screen (much like new recipes), or pointing to related HUD elements. Each hint consists of the hint title, a description of how to complete it, and an image to describe it, usually an animation of Alex performing the action with the required controls in Bedrock Edition. Once the tutorial hint has been completed (for example, when the player harvests a tree's log), that tutorial hint disappears. After a certain amount of time or when certain events happen, the next hint is shown automatically. , once the "craft wooden planks" hint is completed, tutorial hints never again appear in any world. , any tutorial hint is always shown 3 times before they never appear again, but the tutorial can be reset in the "General" settings tab, where it can also be disabled entirely. The  command can also be used to toggle them.
+
+Tutorial hints are obtained by simply completing the task given.  each hint, minus the "Open your inventory" and the "Craft wooden planks" hint, have a progress bar that shows the player's progress on the current hint and fills up as it is being completed. For example, for the "Destroy the tree" hint, the progress bar begins emptying and starts filling up as the player harvests a log, so that when the log is destroyed, the bar is complete and the hint disappears.
+
+In Creative mode, only the first two hints are displayed, or a different set of tutorial hints is used. Different tutorial hints also appear in Bedrock Edition when using different control modes.
+
+, when an open to LAN world or multiplayer server is first joined on a device, there is also a hint about the social interaction menu. It simply tells the player that they can press the  button on the keyboard to open the social interactions menu.
+
+options.txt
+, the gameplay stages of the tutorial is stored as tutorialStep: in the options.txt file in the game directory, except the Social interactions hint, which is stored as joinedFirstServer:, so they are kept per device and per directory (you can set up more profiles with different game directories in the launcher options). After the last guide is shown, the value none is saved. Changing TutorialStep to this value (the game must be closed beforehand) prevents the instructions from appearing.
+
+, each game tip has its own line in options.txt to track whether or not it's been completed.
+
+List of hints
+:
+Controls in bold display in-game as the actual key bind for that control (e.g., "W" by default for "Forwards").
+Image  In-game title and description  Actual requirements (if different)  options.txt name class=pixel-image  Move with , , , and   Jump with   Use  and  to move around.  movement class=pixel-image  Look around Use your mouse to turn  —  movementclass=pixel-imageFind a tree
+Punch it to collect woodfind_tree class=pixel-image  Destroy the tree Hold down    a log block until it breaks.  punch_tree class=pixel-image  Open your inventory Press   —  open_inventory class=pixel-image  Craft wooden planks The recipe book can help  Put wood in a crafting table or the inventory crafting.  craft_planks class=pixel-image  Social Interactions Press  to open  Open the social interactions menu  joinedFirstServer
+
+:
+
+Image  In-game title and description  Actual requirements (if different)  options.txt nameInput methodclass=pixel-imageLook around
+Use your mouse to turnMouseclass=pixel-imageTouch and drag the screen to look aroundTouchMove :tip_right_stick: to look aroundControllerclass=pixel-imageMove with , , , Mouseclass=pixel-imageclass=pixel-imageMove by using the joystickTouch (joystick)Move by using the arrow buttonsTouch (D-pad)Move  to move aroundControllerclass=pixel-imageDouble tap  to flyMouseclass=pixel-imageDouble tap jump to flyTouchclass=pixel-imagePress  to fly upMouseclass=pixel-imagePress  to fly downMouseclass=pixel-imageDouble tap  to stop flyingMouseclass=pixel-imageDouble tap fly down to stop flyingTouchclass=pixel-imageJump with Mouseclass=pixel-imagePress and hold  to swim upMouseclass=pixel-imagePress to swim upTouchclass=pixel-imageHold left click to break blocksMouseclass=pixel-imageTap and hold to break blocksTouch (joystick)Touch (D-pad)ControllerTap and hold :tip_virtual_button_action_attack_or_destroy:
+to break blocksTouch (crosshair)class=pixel-imageRight click to place blockMouseclass=pixel-imageTap to place blockTouch (default)Click on the ground to place blockControllerTap :tip_virtual_button_action_build_or_use: to place blockTouch (crosshair)File:Open-inventory-mouse.pngOpen your inventory
+Press MouseFile:Open-inventory-touch.pngOpen inventory to see crafting recipesTouchPress  to open your inventoryControllerclass=pixel-imageOpen your inventory
+Press Mouseclass=pixel-imageOpen inventory to see building blocksTouchPress  to open your inventoryControllerclass=pixel-imageHold  to sneak!
+Can't fall off edges nowMouseYou are sneaking! Can’t fall off edges nowMouseclass=pixel-imageYou're sneaking, so you can't fall off edgesTouchControllerclass=pixel-image—Touchclass=pixel-imagePlace your crafting table. Hold it and click to placeMouseclass=pixel-imagePlace your crafting table by tapping the groundTouchPlace your crafting table, hold it then tap the groundControllerclass=pixel-imageRight click on Crafting Table to useMouseclass=pixel-imageScroll or press %s to hold itemMouseclass=pixel-imageTap item in hotbar to hold itTouchclass=pixel-imagePress  to open chatMouseclass=pixel-imageTap to open chatTouchTap the chat button to open chatTouch (tts)class=pixel-imagePress or hold  to emoteMouseclass=pixel-imageTap to emoteTouchTap the emote button to emoteTouch (tts)
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+See also
+Loading tips
+
+References
+
+Navigation
+
+de:Anleitungs-Hinweise
+fr:Astuces
+ja:チュートリアルヒント
+pl:Podpowiedzi
+pt:Dicas de tutoriais
+zh:教学提示

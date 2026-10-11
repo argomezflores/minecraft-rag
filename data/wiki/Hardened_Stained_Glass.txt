@@ -1,0 +1,45 @@
+TITLE: Hardened Stained Glass
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Hardened_Stained_Glass
+---
+Hardened stained glass is the dyed type of hardened glass that has been chemically strengthened, crafted from stained glass.
+
+Obtaining
+Breaking
+Unlike normal stained glass, hardened stained glass drops as an item to be picked up again when broken with any tool or by hand. It also takes significantly longer to break.
+
+Crafting
+
+Crafting recipe: Aluminum Oxide, Aluminum Oxide, Aluminum Oxide, Matching Stained Glass, Matching Stained Glass, Matching Stained Glass, Boron Trioxide, Boron Trioxide, Boron Trioxide arranged in the crafting grid → Matching Hardened Stained Glass,3.
+
+Usage
+Most blocks that require placement on a solid block can be placed on hardened stained glass. Torches and redstone torches, which can be placed on top of the hardened stained glass blocks, can also be attached to the sides of them.
+
+Hardened stained glass blocks adjacent to other hardened stained glass blocks are invisible when viewed through the glass, but not when viewed through normal stained glass.
+
+The hardened stained glass also has much higher hardness than normal stained glass.
+
+Sounds
+
+Data values
+ID
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+See also
+
+Navigation
+
+Category:Manufactured blocks
+Category:Minecraft Education blocks
+
+fr:Verre trempé coloré
+ko:강화된 색유리
+pt:Vidro Temperado Tingido
+uk:Загартоване кольорове скло
+zh:染色强化玻璃

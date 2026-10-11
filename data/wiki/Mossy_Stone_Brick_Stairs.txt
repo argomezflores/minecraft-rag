@@ -1,0 +1,56 @@
+TITLE: Mossy Stone Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mossy_Stone_Brick_Stairs
+---
+Mossy stone brick stairs are a stairs variant of mossy stone bricks that generate in ruined portals and are used for building.
+
+Obtaining
+Breaking
+Mossy stone brick stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Mossy stone brick stairs generate as part of ruined portals in the Overworld.
+
+Crafting
+
+Crafting recipe: Mossy Stone Bricks, Mossy Stone Bricks, Mossy Stone Bricks, Mossy Stone Bricks, Mossy Stone Bricks, Mossy Stone Bricks arranged in the crafting grid → Mossy Stone Brick Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en pierre taillée moussue
+ja:苔むした石レンガの階段
+ko:이끼 낀 석재 벽돌 계단
+pt:Escadas de tijolos de pedra musgosos
+ru:Ступени из замшелого каменного кирпича
+th:บันไดอิฐหินมอสส์
+uk:Сходи з моховитої кам'яної цегли
+zh:苔石砖楼梯

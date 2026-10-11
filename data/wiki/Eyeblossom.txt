@@ -1,0 +1,116 @@
+TITLE: Eyeblossom
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Eyeblossom
+---
+An eyeblossom is a unique flower found in the pale garden biome. It changes state depending on the daylight cycle, closing during the day and opening at night. Its "eye", visible only when the flower is open, glows in the dark but does not emit light in its surroundings.
+
+Obtaining
+Breaking
+An eyeblossom can be broken instantly with any item or by hand, dropping itself in its current state.
+
+An eyeblossom also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Natural generation
+Eyeblossoms generate naturally on grass blocks or pale moss blocks in the pale garden biome, as well as variants of abandoned camps in said biome.
+
+Trading
+Wandering traders may sell an open eyeblossom for 1 emerald. Wandering traders do not sell closed eyeblossoms.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 open eyeblossom when killed while showing the item as trade offer, if the player holds an emerald.
+
+Post-generation
+When bone meal is applied to a grass block in a pale garden biome, eyeblossoms have a chance of generating on the targeted block and adjacent grass blocks in a 15×5×15 area , or a 7×5×7 area . , eyeblossoms generate closed or open depending on the time of day, while  they always generate closed, even during the night.
+
+, when bone meal is applied to an eyeblossom in any biome, more eyeblossoms appear on top of nearby grass blocks. The flowers can appear up to 3 blocks away from the original, forming a 7×7 square. These eyeblossoms are either open or closed depending on the state of the original eyeblossom.
+
+Usage
+Like other flowers, eyeblossoms can be used as decoration and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, pale moss blocks, mud, or muddy mangrove roots.
+
+Eyeblossoms can be placed in flower pots.
+
+The eye section remains at maximum brightness regardless of the surrounding light level. This affects placed and potted open eyeblossoms, however the item form of open eyeblossoms still appears at the surrounding brightness level.
+
+Opening and closing
+thumb|right|A field of eyeblossoms opening at night
+Eyeblossoms close during the day and open at night, emitting particles when they do so. Eyeblossoms communicate with other nearby eyeblossoms, telling them to open or close. Eyeblossoms never change their state when placed in the Nether or the End.
+
+When an eyeblossom receives a random tick, it checks if it has the correct state for the time of day. If the eyeblossom should change states from open to closed, or closed to open, it does so and checks for other eyeblossoms within a 7×5×7 block area centered on the eyeblossom (i.e. 3 blocks horizontally, and 2 blocks vertically). If other eyeblossoms are found, they receive a scheduled tick to perform the same process of checking their state and looking for nearby eyeblossoms.
+
+Potted eyeblossoms can change state, but do so only upon receiving a random tick; they cannot communicate with other eyeblossoms, whether potted or not.
+
+Eyeblossoms are detected by observers and sculk sensors when they open or close.
+
+this behavior can be controlled by the environment attribute .
+
+Crafting ingredient
+
+Suspicious stew
+
+Suspicious stew that is created using an open eyeblossom imparts the  effect for 11 seconds  or 7 seconds . Suspicious stew created with a closed eyeblossom imparts the  effect for 7 seconds. Suspicious stew can be crafted using an eyeblossom or produced by feeding an eyeblossom to a brown mooshroom and then milking it with a bowl.
+
+Bees
+When a bee touches an open eyeblossom on any difficulty other than Peaceful, it is inflicted with the Poison effect for . Despite this, bees can still pollinate open eyeblossoms as they do with other flowers.
+
+Open eyeblossoms can be used to lead bees, but cannot be used to breed them or grow baby bees. Feeding a bee an open eyeblossom inflicts it with the Poison effect for , without angering the bee.
+
+Bees do not interact with closed eyeblossoms. They are not attracted by closed eyeblossoms, do not get poisoned if they touch one, and cannot be fed one.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings planted within 2 blocks of an eyeblossom have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Composting
+Placing an eyeblossom into a composter has a 65% chance of raising the compost level by 1.
+
+Ambient sounds
+An open eyeblossom emits subtle eerie sounds when it is planted on a pale moss block.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+Mojang screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Flowers
+
+de:Augenblüte
+es:Miraflor
+fr:Oeilchidée
+ja:ヒトミソウ
+ko:눈망울꽃
+lzh:瞳榮
+pt:Olhoquídea
+ru:Глазоцвет
+uk:Окоцвіт
+zh:眼眸花

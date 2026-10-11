@@ -1,0 +1,133 @@
+TITLE: Flower Pot
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Flower_Pot
+---
+A flower pot is a decorative block that can contain flowers, bamboo, saplings, cacti, mushrooms, fungi, and other small plants.
+
+Obtaining
+Breaking
+Flower pots can be mined instantly using any tool or without a tool.
+
+A flower pot drops itself as an item (any plant or mushroom in it separately) when pushed by a piston or when water flows into its space. If lava flows into its space the flower pot is destroyed.
+
+Natural generation
+Flower pots naturally generate in witch huts where they contain a red mushroom, the basement of igloos where they contain a cactus, and in woodland mansions, where they contain birch saplings, dandelions, poppies, blue orchids, alliums, azure bluets, red and white tulips, and oxeye daisies.
+
+Flower pots containing a dandelion can be found in some plains and savanna village houses. Flower pots containing a cactus or a dead bush can be found in some desert village houses. Flower pots containing a spruce sapling can be found in taiga village mason houses. Flower pots containing a poppy can be found in taiga village churches.
+
+Flower pots either empty or containing a dead bush generate inside trial chambers.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Brick, Brick, Brick arranged in the crafting grid → Flower Pot.
+
+Usage
+An empty flower pot can be used to hold mushrooms, Nether fungi, and various plants. Plants that can be  in a pot include any one-block-high flowers, saplings, ferns, dead bushes, cacti, bamboo, azaleas, mangrove propagule, warped roots, and crimson roots.
+
+, flower pots can be placed on any block or over air.
+
+, they must be placed on top of a full-block top surface, or the top of a fence, stone wall, or hopper. They cannot be placed on slabs and stairs unless those blocks are upside-down. Pots may also be placed on an upward facing trapdoor, although the pot breaks if the trapdoor is opened.
+
+Flower pots are  of a block high and can be stepped on. It is not possible to walk from the top of a flower pot onto a full sized block without jumping. It is possible to jump from a flower pot onto a fence.
+
+The plant or fungus can be removed from the flower pot by pressing , unless the player is holding a plant or fungus that can be placed in the pot, in this case nothing happens. This places the item directly back into the player's inventory.
+
+They can be used to display cacti and wither roses without inheriting their damaging properties.
+
+Flower pots break falling blocks, similar to torches.
+
+Potted warped fungus can be used to repel hoglins.
+
+Potted eyeblossoms close during the day and open at night, but, unlike non-potted eyeblossoms, do so only upon receiving a random tick; they cannot communicate with other eyeblossoms, whether potted or not.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+, flower pots use the following block states:
+
+:
+
+Block data
+, flower pots have a block entity associated with them that holds additional data about the block.
+
+: The block entity's root tag.
+
+: (May not exist) The block in the pot.
+
+Achievements
+
+History
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Java Edition
+
+Legacy Console Edition
+
+Gallery
+Renders
+For all biome colors of potted ferns, see .
+
+For a full gallery of the incorrect potted blocks, see Flower Pot/1.8 development gallery.
+Flowers
+
+Saplings
+
+Mushrooms
+
+Roots and bushes
+
+Screenshots
+
+Merchandise
+
+Issues
+
+Trivia
+The flower pot is based on a suggestion from Reddit, like ender chests and item frames.
+If a plant that has been named is put in a flower pot, the plant loses its name.
+The inside of the flower pot in  uses the center 4×4 pixels of the dirt texture, while  uses the center 6×6.
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Storage
+Category:Generated structure blocks
+Category:Utility blocks
+
+cs:Květináč
+de:Blumentopf
+es:Maceta
+fr:Pot de fleurs
+hu:Virágcserép
+it:Vaso da fiori
+ja:植木鉢
+ko:화분
+lzh:盆
+nl:Bloempot
+pl:Doniczka
+pt:Vaso
+ru:Цветочный горшок
+uk:Квітковий горщик
+zh:花盆

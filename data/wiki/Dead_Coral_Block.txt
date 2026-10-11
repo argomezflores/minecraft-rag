@@ -1,0 +1,59 @@
+TITLE: Dead Coral Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Dead_Coral_Block
+---
+A dead coral block is a dead variant of a coral block. These blocks are always gray. There are five variants total: tube, brain, bubble, fire, and horn.
+
+Obtaining
+Breaking
+Dead coral blocks can be obtained with any type of pickaxe. They can also be obtained by mining the respective live variant of coral blocks without Silk Touch.
+
+Natural generation
+, dead coral blocks naturally generate in coral reef structures, which can be found in warm oceans. , dead coral blocks do not generate naturally.
+
+Post-generation
+If a live coral block is placed outside of water, it transforms into its respective dead coral block after a few seconds — a grayscale version of the coral block. A coral block still dies if the game rule randomTickSpeed is set to .
+
+Usage
+Dead coral blocks can be used for building or as decoration blocks. Unlike live coral blocks, dead coral blocks cannot be used for farming sea pickles. It is not possible to turn a dead coral block back into a live coral block.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Animal blocks
+Category:Natural blocks
+
+de:Korallenblock
+fr:Bloc de corail
+ja:サンゴブロック
+ko:죽은 산호 블록
+nl:Koraalblok
+pt:Bloco de coral morto
+ru:Коралловый блок
+zh:失活的珊瑚块

@@ -1,0 +1,62 @@
+TITLE: Nether Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Brick_Slab
+---
+A Nether brick slab is a decorative slab variant of Nether bricks that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Nether brick slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Nether Bricks, Nether Bricks, Nether Bricks arranged in the crafting grid → Nether Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Despite their appearance, top and double Nether brick slabs do not qualify as Nether brick blocks for the purposes of Nether fortress mob spawning in .
+
+Crafting ingredient
+
+Sounds
+, when a Nether brick slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Tweet
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+ja:ネザーレンガのハーフブロック
+ko:네더 벽돌 반 블록
+pt:Laje de Tijolos do Nether
+zh:下界砖台阶

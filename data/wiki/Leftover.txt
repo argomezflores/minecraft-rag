@@ -1,0 +1,35 @@
+TITLE: Leftover
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Leftover
+---
+The leftover is a joke block only present in Java Edition 20w14∞ that forms the "zones" in the "zones" dimension.
+
+Obtaining
+The leftover cannot be obtained as an item even by using the  command. The leftover can be placed using commands such as  or , and naturally generates in the "zones" dimension. It cannot be destroyed by tools or explosions.
+
+Natural generation
+Leftovers naturally generate in the "zones" in the "zones" dimension, forming areas of danger throughout the overworld-like environment. They mostly spawn covering small patches of the ground in any biome and are usually one block thick, occasionally there can be large areas of leftover blocks covering entire small biomes to a depth of several blocks.
+
+Usage
+The leftover is non-solid, and invisible apart from emitting "Composter" particles. An entity entering it is inflicted by Blindness II and Poison IV for 3 seconds each. It is not possible for other blocks to be placed inside of a leftover, nor can pistons move or destroy it. When an item is thrown into it, it affects the gravity of the item.
+
+Sounds
+
+Data values
+ID
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Joke blocks
+Category:Natural blocks
+Category:Non-solid blocks
+
+fr:Restes
+ja:Leftover
+pt:Edição Java 20w14∞/Leftover
+zh:剩余物

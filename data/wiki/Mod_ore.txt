@@ -1,0 +1,42 @@
+TITLE: Mod ore
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mod_ore
+---
+tile.mod_ore.0.name was a block used for developing ores, addons, or otherwise used for development purposes. It used the same texture as the block of gold.
+
+Obtaining
+tile.mod_ore.0.name can only be obtained via commands.
+
+Breaking
+
+The block takes about 2 seconds to mine by hand.
+
+When mined, tile.mod_ore.0.name does not drop anything, regardless of the tool used. The item can only be dropped by exploding it or by using the  command.
+
+Sounds
+
+Data values
+
+ID
+:
+
+History
+
+Features
+The "0" in the item's nickname "tile.mod_ore.0.name" can be changed depending on the data value.
+If the item's data value exceeds "32767 (short type)", it will continue to reset to "0".
+Using  and  does not affect the "0" in "tile.mod_ore.0.name".
+When placed in older versions, it may create a transparent black square with other blocks or with that block.
+When placing the block, the texture of a gold block will appear, but after 0.1 seconds, but after 0.1 seconds, it will change to the update_block texture. Using the  command with tile.mod_ore.0.name allows the gold block texture to be displayed. However, when the block is placed normally (not through modpc), the texture displayed is the update_block texture.
+When the block appears with the "unknown" texture and the player moves, the original movement speed is reduced. However, when the block appears with the "golden_block" texture and the player moves, the normal movement speed is not affected.
+
+References
+
+Navigation
+
+Category:Creative or commands only blocks
+
+ja:Mod ore
+ko:Mod ore (China Edition)
+pt:Mod ore (Edição China)
+ru:Mod_ore

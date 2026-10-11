@@ -1,0 +1,78 @@
+TITLE: Cooked Chicken
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cooked_Chicken
+---
+Cooked chicken is a food item that is obtained by cooking raw chicken.
+
+Obtaining
+
+Mob loot
+
+Generated loot
+
+Cooking
+
+Smelting recipe: Raw Chicken → Cooked Chicken, XP: 0,35.
+
+Trading
+
+Villager gifts
+Butcher villagers may give cooked chicken to players with the Hero of the Village effect.
+
+Usage
+Food
+
+To eat cooked chicken, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 7.2 hunger saturation.
+
+Wolves
+Cooked chicken can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+Videos
+
+History
+
+Data history
+
+Texture history
+Textureframeless|width=80x80frameless|width=80x80frameless|width=80x80frameless|width=80x80frameless|width=80x80 Edition shown shown since since since Java Edition July 19, 2011 July 21, 2011 Beta 1.8 pre-release Java Edition 1.4.2 (12w37a) Java Edition 1.14 (18w43a) September 9, 2011 September 9, 2012 October 24, 2018 Bedrock Edition – – v0.4.0 v0.8.0 build 1 beta 1.10.0.3 September 6, 2012 November 18, 2013 January 30, 2019 Xbox 360 Edition – – TU5 TU12 – November 16, 2012 July 23, 2013 Xbox One Edition – – – CU1 – September 5, 2014 PS3 Edition – – – 1.00 – December 17, 2013 PS4 Edition – – – 1.00 1.90 September 4, 2014 April 15, 2019 PS Vita Edition – – – 1.00 – October 14, 2014 Wii U Edition – – – Patch 1 – December 17, 2015 Nintendo Switch Edition – – – 1.0.1 – May 11, 2017 New Nintendo 3DS Editon – – – 0.1.0 – September 13, 2017
+
+Issues
+
+Gallery
+Mojang screenshots
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Food
+
+cs:Pečené kuře
+de:Gebratenes Hühnchen
+es:Pollo asado
+fr:Poulet rôti
+hu:Sültcsirke
+it:Pollo cotto
+ja:焼き鳥
+ko:익힌 닭고기
+lzh:雞炙
+nl:Gebraden kip
+pl:Pieczony kurczak
+pt:Frango Assado
+ru:Жареная курятина
+uk:Смажена курятина
+zh:熟鸡肉

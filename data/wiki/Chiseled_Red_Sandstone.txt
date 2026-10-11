@@ -1,0 +1,59 @@
+TITLE: Chiseled Red Sandstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Red_Sandstone
+---
+Chiseled red sandstone is the chiseled variant of red sandstone, crafted from red sandstone slabs.
+
+Obtaining
+Breaking
+Chiseled red sandstone can be mined with any pickaxe. If mined without a pickaxe, the block drops nothing.
+
+Crafting
+
+Crafting recipe: Red Sandstone Slab, Red Sandstone Slab arranged in the crafting grid → Chiseled Red Sandstone.
+
+Stonecutting
+
+Usage
+Unlike red sand, chiseled red sandstone is never affected by gravity.
+
+Chiseled red sandstone depicts a wither. See also Easter eggs#Mobs on chiseled blocks.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+The idea of the wither appearing on chiseled red sandstone was suggested by Reddit user ULiopleurodon.
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+
+fr:Grès rouge sculpté
+ko:조각된 붉은 사암
+lzh:雕赤砂
+pt:Arenito Vermelho Talhado
+uk:Різьблений червоний пісковик
+zh:雕纹红砂岩

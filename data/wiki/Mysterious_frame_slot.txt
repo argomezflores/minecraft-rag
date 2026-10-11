@@ -1,0 +1,32 @@
+TITLE: Mysterious frame slot
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mysterious_frame_slot
+---
+{{DISPLAYTITLE:mysterious_frame_slot}}
+
+mysterious_frame_slot was an unused block .
+
+Obtaining
+mysterious_frame_slot could only be obtained using third-party editors.
+
+Breaking
+
+mysterious_frame_slot dropped nothing when broken.
+
+Behavior
+mysterious_frame_slot had no behavior, and thus defaulted to the unknown block behavior. It broke instantly, and was able to be placed. Like ice, it had low friction.
+
+Data values
+ID
+
+History
+
+See also
+()
+
+Navigation
+
+Category:Removed blocks
+
+ja:Mysterious frame slot
+pt:mysterious frame slot

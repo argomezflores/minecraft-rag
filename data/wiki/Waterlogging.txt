@@ -1,0 +1,63 @@
+TITLE: Waterlogging
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Waterlogging
+---
+thumb|x150px|right|A waterlogged oak fence.
+
+Waterlogging is the mechanic that allows non-cube blocks (that is, blocks that do not completely fill their block volume, such as ladders, fences, and plants) to be filled with a water source block. Both the non-cube block and the water source block occupy the same space. If the non-cube block is destroyed, the water source block still remains in the original spot it came from.
+
+, generally all non-cube blocks can be waterlogged and none can be used to displace water source blocks, although they can still displace flowing water.
+
+Properties
+, certain blocks have a  block state that can be . If a waterlogged block is pushed by a piston or sticky piston, the waterlogged state of the block is typically removed. However, if a sticky piston gets powered by a short pulse so that the sticky piston spits out the block when pulling, the block retains its waterlogged state.
+
+, waterlogging is handled by the game's layers system. Through editing, any block can be waterlogged, as well as other features such as placing multiple slabs into a single block. In normal gameplay, a player cannot displace water source blocks using doors or other non-cube blocks to create breathing spaces underwater, like one can do . Only flowing water can be displaced .
+
+Like water source blocks, all waterlogged blocks are non-flammable and explosion-proof, even if said waterlogged block is flammable. Waterlogged blocks can also interact with lava to produce cobblestone or obsidian, although lava cannot convert waterlogged blocks to stone. Unlike water sources, waterlogged blocks are immune to freezing.
+
+Water can flow from a non-full face, so waterlogged stairs and trapdoors have no water flowing from their solid face. Despite this, interactions between it and lava are still possible.
+
+Behavior
+Blocks have different behavior between Java Edition and Bedrock Edition, as shown by the table below.
+
+Red background: This block cannot be placed in water. Attempting to do so replaces the space they are in with water, breaking and dropping them or their corresponding item.
+Dark red background: Water cannot be placed in this block at all. When this block is placed in water, it removes water.
+Green background: Water can be placed in this block, and this block does not remove the water source.
+Dark green background: This block can only exist in its waterlogged state.
+Blue background: Water can be placed in this block, this block does not remove the water source, and water can flow through this block.
+
+BlockCan be in water in JECan be in water in BEAdditional notes  Destroyed by flowing water in Bedrock Edition.      Placement in water completely fails .  Placement in water completely fails .  Destroyed by flowing water.  Placement in water completely fails.  Placement in water completely fails.    Can only be waterlogged by players in Creative mode, or through commands.     or  is required to sleep in waterlogged beds.  Placement in water completely fails .    Removes flowing water it is placed in.        by customizing the tag , it is possible to place the bubble in other fluids or prevent it from being placed in water.  Destroyed by flowing water.  Destroyed by flowing water .  Cannot be placed inside water , even though they can technically be waterlogged. If the block above is water, the cactus cannot grow further. Also destroyed by flowing water.  Destroyed by flowing water.    Cakes with candles unlight upon becoming waterlogged but can be lit using the .  Campfires unlight upon becoming waterlogged but can be lit using the .  Candles unlight upon becoming waterlogged. , candles cannot be placed underwater, but can be waterlogged manually.  Destroyed by flowing water.  Placement in water completely fails .  Calibrated sculk sensors are silent in water.  Waterlogged cauldrons fill up. If a cauldron contains a potion when it is underwater, the potion is replaced with water.  Placement in water completely fails .  Placement in water completely fails .  Removes flowing water it is placed in.      Placement in water completely fails .  Placement in water completely fails .  Destroyed by flowing water.  Placement in water completely fails .            As this is a full block, water will not flow from it.        Destroyed by flowing water .  Placement in water completely fails .  Placement in water completely fails .    Destroyed by flowing water.    Destroyed by flowing water .    Destroyed by flowing water .          Dyed candles unlight upon becoming waterlogged. , dyed candles cannot be placed underwater, but can be waterlogged manually.    Removes flowing water it is placed in.        Removes flowing water it is placed in.          Destroyed by flowing water.  Placement in water completely fails.  Destroyed by flowing water.  Destroyed by flowing water.  Destroyed by flowing water.  Destroyed by flowing water. Can still be waterlogged if it contains a plant.  Placement in water completely fails.  Not being waterlogged reveals water texture through transparent sides.      Handled only as a block .        Not being waterlogged reveals water texture through transparent sides.    Not being waterlogged reveals water texture through transparent sides.    Destroyed by flowing water.    Not being waterlogged reveals water texture through transparent sides.    Not being waterlogged reveals water texture through transparent sides.    Handled as a block only .      Removes flowing water it is placed in.      Destroyed by flowing water.  As this is a full block, water will not flow from it.  Destroyed by flowing water.    Removes flowing water it is placed in.  Removes flowing water it is placed in.    Placement in water completely fails.  Removes flowing water it is placed in.  Removes flowing water it is placed in.  As this is a full block, water will not flow from it.    Placement in water completely fails .  Only breaks if water is forced on the block instead of breaking in flowing water. Placement in water completely fails .  Placement in water completely fails .  Placement in water completely fails .  Placement in water completely fails .  Placement in water completely fails .  , piston heads extending into water do not become waterlogged, but can be waterlogged manually.  Placement in water completely fails .    Placement in water completely fails .  Able to drip lava in a waterlogged state.    Destroyed by flowing water.  Destroyed by flowing water.  Extinguishes when waterlogged.  Placement in water completely fails .        Destroyed by flowing water .    Destroyed by flowing water .  Removes flowing water it is placed in.  Placement in water completely fails .  Removes flowing water it is placed in.  Placement in water completely fails .    Destroyed by flowing water.    Sculk sensors are silent in water.  Sculk shriekers are silent in water.    Destroyed by flowing water. Only waterlogged sea pickles emit light.            Not being waterlogged reveals water texture through transparent sides.  Destroyed by flowing water, but will sometimes remain if placed in quick succession .    Placement in water completely fails .  Placement in water completely fails .  Not being waterlogged reveals water texture through transparent sides.          Placement in water completely fails .  Placement in water completely fails .  Destroyed by flowing water.  Destroyed by flowing water.    Not being waterlogged reveals water texture through transparent sides.  Placement in water completely fails .  Destroyed by flowing water .        Removes flowing water it is placed in.  Removes flowing water it is placed in.    Placement in water completely fails .  Placement in water completely fails .    Destroyed by flowing water.    Placement in water completely fails .  Placement in water completely fails .  Placement in water completely fails .  Destroyed by flowing water.  Placement in water completely fails .  Placement in water completely fails .All other blocks
+
+See  for more info on Java Edition.
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+, glass bottles can be filled up with water from waterlogged blocks, even if water is not accessible from the targeted area. , this is not possible because waterlogged blocks in general cannot be used to fill empty bottles.
+Waterlogging was the hardest feature to implement on Legacy Console Edition for 4J Studios.https://discord.com/channels/1212769882001776650/1220687775150637076/1230962628856250390
+, the interaction with sticky pistons can be used to move water sources with "flying machines", since dispensers cannot be pushed by pistons.
+
+See also
+Snowlogging
+
+References
+
+Navigation
+
+es:Sumergimiento
+fr:Engorgement d'eau
+ja:水没
+ko:침수
+pt:Inundação
+ru:Затопляемость
+zh:含水

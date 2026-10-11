@@ -1,0 +1,61 @@
+TITLE: Nether Reactor Core
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Reactor_Core
+---
+The Nether reactor core is an unused block that cannot be obtained within the creative mode inventory nor with the use of commands. They were formerly used to create Nether reactors in early versions of Pocket Edition before the addition of the Nether.
+
+Obtaining
+Nether reactor cores are currently unobtainable in new worlds except through inventory editing or add-ons. It is not available through commands or Creative. The block is, however, still usable for decoration in older worlds that had the block prior to it becoming unobtainable. In Survival mode, new Nether reactor cores cannot be crafted, including in worlds with the block, so once placed, the block would be lost if broken. In Creative mode it is still possible to use  control on existing Nether reactor cores to get the block into the inventory.
+
+Breaking
+Mining a Nether reactor core using a pickaxe enchanted with Silk Touch yields the same drop as an unenchanted pickaxe. They drop 3 diamonds and 6 iron ingots.
+
+Usage
+Prior to Pocket Edition v0.12.1 alpha, the Nether reactor core served as a placeholder to obtain items found in the Nether, such as glowstone and Nether quartz. The Nether reactor core was activated by placing it in a specific pattern using gold blocks and cobblestone, and then tapping it.
+
+Even though the Nether reactor core has been unobtainable since the addition of the Nether, it has not been removed, and breaking it still drops the diamonds and iron ingots that were used to craft it.
+
+Sounds
+
+Data values
+ID
+
+Block data
+See Bedrock Edition level format/Block entity format#Nether Reactor Core.
+
+History
+Bedrock Edition
+
+New Nintendo 3DS Edition
+
+Pi Edition
+
+Issues
+Nether reactor cores are an unsupported block and as such issues relating to them may not be fixed.
+
+Gallery
+
+See also
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Utility blocks
+Category:Block entities
+Category:Unused blocks
+Category:Bedrock Edition
+
+de:Netherreaktorkern
+es:Núcleo de reactor del Nether
+fr:Cœur du réacteur du Nether
+ja:ネザーリアクターコア
+ko:네더 반응기 코어
+lzh:焱璣核
+nl:Netherreactorkernel
+pl:Rdzeń reaktora Netheru
+pt:Núcleo do Reator do Nether
+ru:Ядро реактора Нижнего мира
+uk:Ядро незерського реактора
+zh:下界反应核

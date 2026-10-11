@@ -1,0 +1,32 @@
+TITLE: Charred Baked Potato Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Charred_Baked_Potato_Brick_Slab
+---
+A charred baked potato brick slab is a charred baked potato brick variant of a slab, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Natural generation
+Charred baked potato brick slabs generate naturally in hash wells, colosseums, and ruined portatols, as well as blacksmith houses in potato villages.
+
+Crafting
+
+Crafting recipe: Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks arranged in the crafting grid → Charred Baked Potato Brick Slab.
+
+Sounds
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Charred Baked Potato Brick Slab
+ja:Charred_Baked_Potato_Brick_Slab
+ko:태운 구운 감자 벽돌 반 블록
+zh:焦糊的烤马铃薯砖台阶

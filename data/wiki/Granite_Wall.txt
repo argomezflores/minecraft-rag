@@ -1,0 +1,62 @@
+TITLE: Granite Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Granite_Wall
+---
+A granite wall is a decorative wall variant of granite that generates in desert villages and is used for building.
+
+Obtaining
+Breaking
+Granite walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+thumb|An isometric render of a desert village armorer building.
+Each desert village armorer building generates with 2 granite walls as the top part of its chimney.
+
+Crafting
+
+Crafting recipe: Granite, Granite, Granite, Granite, Granite, Granite arranged in the crafting grid → Granite Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Walls
+
+fr:Muret de granite
+ja:花崗岩の塀
+ko:화강암 담장
+pt:Muro de Granito
+uk:Гранітна стіна
+zh:花岗岩墙

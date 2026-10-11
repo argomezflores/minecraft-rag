@@ -1,0 +1,93 @@
+TITLE: Diorite
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Diorite
+---
+Diorite is a block of igneous rock, found in large pockets underground.
+
+Obtaining
+Breaking
+Diorite can be mined using any pickaxe. If broken without a pickaxe, it drops nothing.
+
+Natural generation
+
+Diorite can generate in the Overworld in the form of ore blobs.
+
+, diorite attempts to generate in two batches in all biomes in the Overworld. The first batch generates 2 times per chunk in blobs of size 0-864, from elevations 0 to 60. The second batch has  chance to generate blobs of size 0-864, from elevation 64 to 128. , diorite can replace stone, andesite, granite, polished andesite, polished diorite, and polished granite. , diorite can replace stone, andesite, granite, tuff, and deepslate.
+
+Diorite generates in weaponsmith houses, tannery houses, and mason houses in snowy villages.
+
+, diorite generates in coral reefs, replacing some blocks of coral crust.
+
+Crafting
+
+Crafting recipe: Cobblestone, Nether Quartz, Nether Quartz, Cobblestone arranged in the crafting grid → Diorite,2.
+
+Usage
+Diorite has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Trading
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+In the real world,  comes from underground s that turned cold. Diorite usually has a salt & pepper appearance.
+is diorite's above-ground equivalent: The two rocks come from the same kind of , but andesite forms in s. Its fast cooling is what makes it look smoother than diorite.
+is another magma chamber rock, but it's made of more quartz crystals. That is why in Minecraft, granite can be crafted by combining diorite and nether quartz.
+In the real world, diorite is an extremely hard rock and is difficult to carve and work with.
+In Minecraft: Story Mode, Reuben's grave on Episode 4 is made out of diorite and a new stair variant of it which cannot be found in Minecraft until the Village & Pillage update, which was announced roughly 3 years after Episode 4. It is unknown whether diorite slabs are present.
+
+Gallery
+Screenshots
+
+See also
+
+References
+
+External links
+Block of the Week: Diorite – Minecraft.net on April 13, 2018
+
+Navigation
+
+Category:Natural blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+cs:Diorit
+de:Diorit
+es:Diorita
+fr:Diorite
+it:Diorite
+ja:閃緑岩
+ko:섬록암
+lzh:閃綠石
+nl:Dioriet
+pl:Dioryt
+pt:Diorito
+ru:Диорит
+uk:Діорит
+zh:闪长岩

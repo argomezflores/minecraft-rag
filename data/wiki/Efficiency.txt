@@ -1,0 +1,58 @@
+TITLE: Efficiency
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Efficiency
+---
+Efficiency is an enchantment applied to tools that increases mining efficiency.
+
+Obtaining
+Tools of any material except stone or diamond can receive up to Efficiency V through an enchanting table. Stone and diamond tools can only receive up to level IV through the enchanting table, but can be given Efficiency V by combining 2 items with Efficiency IV in an anvil. Diamond tools with Efficiency V can also be found in end city, ancient city, and bastion remnant chests.
+
+Enchanted books enchanted with a random level of Efficiency can be found in loot chests in the following structures: desert pyramids, strongholds, ocean ruins, ancient cities, woodland mansions, pillager outposts, mineshafts, monster rooms, jungle pyramids, and from vaults in trial chambers.
+
+Enchanted books and tools with a random Efficiency level can be obtained through trading with villagers.
+
+Usage
+
+Efficiency adds 2 mining efficiency for the first level, 5 for the second level, 10 for the third level, 17 for the fourth level, and 26 for the fifth level. The proper tool for a block must be used in order to receive the speed benefit, as the enchantment has no effect if the block is mined with the incorrect tool.
+
+Mining efficiency
+Each level above zero gives (Level^2)+1 Mining Efficiency, added on to the Base Mining Efficiency.
+
+These tables detail how much mining efficiency is gained based on the level of enchantment used.‌
+
++Efficiency extra mining efficiencyIIIIIIIVV25101726
+
++Mining efficiency valuesTierBase mining efficiencyEfficiency IEfficiency IIEfficiency IIIEfficiency IVEfficiency V16px16px16px16px Wooden24712192816px16px16px16px Stone46914213016px16px16px16px Copper571015223116px16px16px16px Iron681116233216px16px16px16px Diamond8101318253416px16px16px16px Netherite9111419263516px16px16px16px Golden12141722293816px Shears25 (on wool)15 (on cobwebs and leaves)47 (on wool)17 (on cobwebs and leaves)710 (on wool)20 (on cobwebs and leaves)1215 (on wool)25 (on cobwebs and leaves)1922 (on wool)32 (on cobwebs and leaves)2831 (on wool)41 (on cobwebs and leaves)
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+See also
+Instant mining for combining Efficiency with Haste to mine specific blocks instantly.
+
+References
+
+Navigation
+
+de:Effizienz
+es:Eficiencia
+fr:Efficacité
+ja:効率強化
+pt:Eficiência
+ru:Эффективность
+th:ประสิทธิภาพ
+zh:效率

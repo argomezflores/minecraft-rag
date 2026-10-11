@@ -1,0 +1,54 @@
+TITLE: Music Disc Relic
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_Relic
+---
+"Relic" refers to both a song composed by Aaron Cherof, and a music disc that plays the song when inserted in a jukebox. This music disc is obtained from brushing suspicious gravel in trail ruins.
+
+Obtaining
+Generated loot
+
+Track description
+
+File:Relic.ogg
+
+"Relic" begins with vinyl static and record grain before abruptly bursting out into an upbeat 8-bit tune of low audio quality. The song later uses the main melody of "A Time of Legends" and "The Well of Fate" from the original soundtrack of Minecraft Legends, played on the same 8-bit synthesizer. Later in the song, a bass is added to the noise. There is slight record grain and pitch warbling throughout the song.
+
+Usage
+Like all music discs,  the "Relic" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "Relic", it will emit a redstone signal of 14.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Relic" relic.ogg music_disc.relic
+
+:
+
+Soundtrack Title File name Sound events "Relic" relic.ogg record.relic
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Aaron Cherof
+Category:Minecraft: Trails & Tales (Original Game Soundtrack)
+Category:Music discs
+
+fr:Disque Relic
+ja:Relic
+ko:음반 Relic
+pt:Disco Musical Relic
+ru:Пластинка «Relic»
+uk:Платівка «Relic»
+zh:音乐唱片Relic

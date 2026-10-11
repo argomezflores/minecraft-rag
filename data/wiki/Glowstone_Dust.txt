@@ -1,0 +1,61 @@
+TITLE: Glowstone Dust
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Glowstone_Dust
+---
+Glowstone dust is an item obtained from mining glowstone, and it is mainly used to brew potions with increased strength and decreased duration.
+
+Obtaining
+Mining
+When broken using anything other than a Silk Touch-enchanted tool, a glowstone block drops 2-4 glowstone dust. A Fortune enchantment increases the chances of higher drops, with Fortune III allowing an average yield of 3.5 glowstone dust per block.
+
+Mob loot
+
+Usage
+Crafting ingredient
+
+Brewing ingredient
+
+Brewing recipe: Glowstone Dust + Water Bottle → Thick Potion.
+
+Brewing recipe: Glowstone Dust + Potion of Leaping;Potion of Swiftness;Potion of Slowness;Potion of the Turtle Master;Potion of Healing;Potion of Harming;Potion of Poison;Potion of Regeneration;Potion of Strength → Potion of Leaping Enhanced;Potion of Swiftness Enhanced;Potion of Slowness Enhanced;Potion of the Turtle Master Enhanced;Potion of Healing Enhanced;Potion of Harming Enhanced;Potion of Poison Enhanced;Potion of Regeneration Enhanced;Potion of Strength Enhanced.
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+In other media
+
+Navigation
+
+de:Leuchtsteinstaub
+es:Polvo de piedra luminosa
+fr:Poudre lumineuse
+hu:Izzókő-por
+ja:グロウストーンダスト
+ko:발광석 가루
+lzh:硄砂
+nl:Gloeisteenstof
+pl:Jasnopył
+pt:Pó de Pedra Luminosa
+ru:Светокаменная пыль
+th:ผงหินเรืองแสง
+uk:Світлокам'яний пил
+zh:荧石粉

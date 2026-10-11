@@ -1,0 +1,71 @@
+TITLE: Music Disc ward
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_ward
+---
+"ward" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is dropped by creepers when they are killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "ward".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:Ward.ogg
+
+"ward" starts off with an excerpt from Chopin's Funeral March played on a synth organ, but it is interrupted by vinyl static and switches to an electronic, upbeat tune with a dark undertone. The track then fades in vinyl static, before an uplifting electronic tune closes out the song.
+
+The album version of "ward" shortens the Chopin at the beginning.
+
+Usage
+Like all music discs,  the "ward" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "ward", it will emit a redstone signal of 10.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Ward" ward.ogg music_disc.ward
+
+:
+
+Soundtrack Title File name Sound events "Ward" ward.ogg record.ward
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:C418
+Category:Minecraft - Volume Beta
+Category:Music discs
+
+fr:Disque ward
+ja:ward
+ko:음반 ward
+pt:Disco Musical ward
+ru:Пластинка «ward»
+uk:Платівка «ward»
+zh:音乐唱片ward

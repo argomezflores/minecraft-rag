@@ -1,0 +1,69 @@
+TITLE: Music Disc far
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_far
+---
+"far" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "far".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:Far.ogg
+
+"far" is a calm, relaxing nature-like melody played on a watery echoing synth, accompanied by other synths playing chords. It also samples "Minecraft" from Volume Alpha.
+
+Usage
+Like all music discs,  the "far" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "far", it will emit a redstone signal of 5.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Far" far.ogg music_disc.far
+
+:
+
+Soundtrack Title File name Sound events "Far" far.ogg record.far
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Category:C418
+Category:Minecraft - Volume Beta
+Category:Music discs
+
+Navigation
+
+fr:Disque far
+ja:far
+ko:음반 far
+pt:Disco Musical far
+ru:Пластинка «far»
+uk:Платівка «far»
+zh:音乐唱片far

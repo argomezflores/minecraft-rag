@@ -1,0 +1,22 @@
+TITLE: Workstation
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Workstation
+---
+A workstation is any block that a player can use to produce items or that functions as job site block for a villager.
+
+Usage
+The table below describes each workstation, the way players can use it ("Player usage", if any), and its corresponding village profession (if any).
+
+Station  Player usage  Villager profession  Primary items  Description   Crafting  -  Most items  Crafting items into different items. The crafter is an automatic version of the crafting table, controlled by redstone.   Cutting slabs, stairs and more out of stone materials or copper blocks  ​  Stone-based and copper blocks  Cutting is instant and up to 1 stack of blocks can be cut at a time.   EmbroideringThis process has no in-game name.   Banners, Banner Patterns, and dyes  Adding patterns to banners, using a loom.   Cartography    Maps  Modifying a map using a cartography table.       SmeltingBlastingSmoking  -   Fuel, raw ores, and food  Using fuel to smelt items in a furnace, blast ores in a blast furnace, or smoke foods in a smoker.   Smithing    Smithing templates, materials, tools, andarmor  Upgrading diamond equipment to netherite, and adding armor trims to any tier of armor.   Applying enchantments, renaming, repairing, and combining (Anvil mechanics)  -  Tools and armor  Enchanting items using enchanted books, giving items custom names, repairing and combining tools and armor.   Enchanting  -  Tools, armor, books, and lapis lazuli  Enchanting tools, armor, and books with new enchantments. Can only enchant unenchanted items.   Grinding and disenchanting    Tools and armor  Removing the enchantments on equipment, and repairing equipment by combining pieces of the same type.   None – This block will be given a GUI and use for players in the future.    –  –   Storage    All items  The barrel is a storage container that stores up to 27 stacks (or slots) of items. It cannot produce, construct, or combine items – it simply stores them. Fishermen and other villagers do not use the barrel for storage, and a fisherman's trades are not affected by any items stored in the barrel it uses as its jobsite.   Reading books    Written books, and book and quills   –   CompostingThis block does not have a GUI.   Food, crops, and plant-based items  Converts some organic items to bonemeal.   Dyeing armorFilling and emptying bottles and buckets   Bottles, buckets, dyes, and some dyed items  , dyes can be  on a cauldron with water in it to dye the water. Then leather armor, leather horse armor, or wolf armor can be  on the cauldron to dye the armor. A cauldron with undyed water  or water  can be used to remove the dye from armor or shulker boxes, or to remove the top banner pattern from a banner.   Brewing potions    Water bottles, potions, blaze powder, and potion ingredients.  A potion ingredient can be placed into the top slot, blaze powder can be placed in the fuel slot, and 1 to 3 bottles or potions can be placed in the bottom 3 slots. If used correctly, the player can brew potions.
+
+Notes
+
+References
+category:Renewable resources
+category:Stackable resources
+
+Navigation
+
+Category:villager mechanics
+
+pt:Estação de trabalho

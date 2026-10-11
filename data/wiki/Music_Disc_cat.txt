@@ -1,0 +1,75 @@
+TITLE: Music Disc cat
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_cat
+---
+"cat" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons, or from various structures, where it is commonly found in monster rooms and woodland mansions.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "cat".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Generated loot
+
+Track description
+
+File:Cat.ogg
+
+"cat" is composed of an inquisitive, playful tune played on warm, bubbly synths, which are later joined by chiptune-like synths and soft synth percussion. The piece is very upbeat and hopeful compared to other tracks, but it has a wistful undertone. At 1:46, what sounds like an interpolation of part of the melody from the track Minecraft plays.
+
+The four-note pattern at 2:04 can also be heard at the beginning of "far" and "Dog".
+
+Exclusively on , "Dog" is appended to the "cat" music disc. Once "cat" is done playing and fades out, "Dog" begins playing for another two minutes or so, making the Legacy Console Edition version of "cat" the second longest music disc in the game, behind "blocks".
+
+Usage
+Like all music discs,  the "cat" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "cat", it will emit a redstone signal of 2.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Cat" cat.ogg music_disc.cat
+
+:
+
+Soundtrack Title File name Sound events "Cat" cat.ogg record.cat
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Notes
+
+References
+
+Navigation
+
+Category:C418
+Category:Minecraft - Volume Alpha
+Category:Music discs
+
+fr:Disque cat
+ja:cat (レコード)
+ko:음반 cat
+pt:Disco Musical cat
+ru:Пластинка «cat»
+uk:Платівка «cat»
+zh:音乐唱片cat

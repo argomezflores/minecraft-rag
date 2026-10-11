@@ -1,0 +1,75 @@
+TITLE: Block of Lapis Lazuli
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Lapis_Lazuli
+---
+A block of lapis lazuli, internally known as a lapis block, is a mineral block equivalent to nine pieces of lapis lazuli.
+
+Obtaining
+Breaking
+Blocks of lapis lazuli can be mined using a stone pickaxe or better.
+
+Crafting
+
+Natural generation
+Blocks of lapis lazuli generate as the center of "illager statues" in woodland mansions.
+
+Usage
+Blocks of lapis lazuli can be used as a form of storage for lapis lazuli.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+
+In real life, lapis lazuli is a blue gem that may be ground and processed into ultramarine pigment. Lapis lazuli pigment has been famously used in the production of illuminated manuscripts, stained glass, and cave paintings. It was also used by Egyptians for their jewelry and other valuable items.
+
+Gallery
+
+In other media
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Compacted blocks
+
+de:Lapislazuliblock
+es:Bloque de lapislázuli
+fr:Bloc de lapis-lazuli
+hu:Lazuritblokk
+it:Blocco di lapislazzuli
+ja:ラピスラズリブロック
+ko:청금석 블록
+lzh:群青塊
+nl:Lapislazuliblok
+pl:Blok lazurytu
+pt:Bloco de Lápis-Lazúli
+ru:Лазуритовый блок
+th:บล็อกลาพิสลาซูลี
+uk:Блок лазуриту
+zh:青金石块

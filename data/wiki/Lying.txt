@@ -1,0 +1,53 @@
+TITLE: Lying
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Lying
+---
+150px|rightLying is a position that happens to a player or certain mobs under different circumstances.
+
+Mechanics
+All mobs can be made to lie in beds using commands. In addition, multiple mobs can sleep as part of their natural behavior. Both player and mob hitboxes are reduced to 0.2 blocks when lying.
+
+Players
+Players lie down when sleeping in a bed. Currently, this is the only way that a player can adopt the lying position. Players cannot move or use items while doing so, unlike with sitting. Instead of moving their arms slightly forward and back like in the idle animation, they move their arms side to side slowly.
+
+Bedrock only: If a player is moving when getting into a bed, the player's legs will remain in the position they were in when the bed was interacted with.
+
+Villagers
+Villagers lie down when using a bed. They can be woken and removed from their bed by either breaking the bed, pushing them out of the bed, attacking them, or pressing  on the bed.
+
+Cats
+Cats lie, and sleep, on beds whenever their owner is sleeping on one. They purr every 5 ticks/once when doing so.
+
+Foxes
+Foxes occasionally lie down and sleep during the day, taking shelter beneath blocks when doing so. Shade is a necessity for sleeping; if a path for direct sunlight is created that lights up a sleeping fox, it immediately wakes and tries to sleep elsewhere. Foxes are currently the only mob to switch to a texture with their eyes shut upon entering their sleeping state.
+
+Pandas
+Lazy pandas occasionally lie on their backs. Unlike with other mobs, this is a passive action, which is unrelated to sleeping.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Players
+
+Villagers
+
+Tamed Cats
+
+Foxes
+
+Panda
+
+Navigation
+
+Category:Villager mechanics
+pt:Deitar
+es:Recostarse
+ja:横になる
+zh:躺

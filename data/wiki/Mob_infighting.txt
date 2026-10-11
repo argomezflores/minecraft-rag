@@ -1,0 +1,118 @@
+TITLE: Mob infighting
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Mob_infighting
+---
+Mob infighting is a mechanic in Minecraft in which certain mobs retaliate against other mobs, as part of their mob AI.
+
+Overview
+right|thumb|A skeleton and a spider jockey rider fighting each other.
+
+If a mob capable of attacking is directly attacked by a player or another mob, the damaged mob stops attacking its current target and attacks the mob or player that damaged it. This causes the mob that did the damage to retaliate in turn, and the two of them become locked into a duel until one of them dies. This is useful in combat as it distracts two monsters temporarily, kills one of them, and severely weakens the other.
+
+Once a mob has taken damage from a mob or player, that mob or player is set as the mob's permanent target. This means that even if another mob or player attacks an infighting mob, the infighting mob does not stop trying to attack its permanent target. A mob can refuse to infight with another monster if the player or a mob already attacked it, so the player or a mob was already set as the mob's permanent target. That mob does not infight with any other mob until the attacking player or mob dies. If the attacker goes beyond the mob's sight range, this resets the retaliating behavior and the mob either returns to neutral mode or searches for a new target.
+
+Specific mob behavior
+Retaliation
+Not all mobs have the same infighting behavior. Below is a list of how each mob reacts to being attacked by another.
+
+Mob Behavior
+
+only:
+
+only:
+Retaliates normally, as described above.
+
+only:
+
+These are pack mobs. When they retaliate, they call nearby mobs of the same type to help them if those mobs aren't already targeting another mob or player. Mobs that respond to the call set the victim as their permanent target. Additionally, piglins and piglin brutes retaliate in groups if a piglin/piglin brute is attacked by any mob including goats.  Bees are a pack mob (see above) but they attack back only once until they are made angry again.  Hoglins are a pack mob (see above) but only adults can alert others, when attacked. Babies cannot. only:  In , shulkers are a pack mob (see above) but they can retaliate against each other.  Adults only retaliate. Babies cannot.  Retaliates as a pack mob only when a baby polar bear is attacked.  Retaliates normally, but not against undead mobs.  Retaliates normally, but not against trial chambers mobs.
+
+Retaliates only if it is not already chasing the player.
+
+only:
+These are all the illager monsters. They retaliate against non-illager monsters. Additionally, evokers sometimes forget their target and focus back on the player. , ravagers are also a pack mob and call other ravagers when attacked. ,  Attacks back only once, although two llamas can alternate spitting at each other until one of them dies or is attacked by a different mob.  Aggressive pandas only retaliate. All other types try to attack back only once.
+
+only:
+
+only:
+
+Does not retaliate.
+
+Notes
+Endermen retaliate, but this rarely happens because they are immune to most projectiles. Endermen become hostile toward iron golems, the ender dragon, withers, zoglins and "Johnny" vindicators if damaged by any one of them. They also become hostile towards spear-wielding mobs like zombies or piglins when accidentally hit by by them with their charge attack.
+Witches don't usually fight one another, but when a battle between two witches begins, it does not end without outside interference, because they continually heal themselves with potions of Healing.
+Skeletons and witches can get into an eternal infighting battle. The witch's harming potions heal the skeleton, and the witch also drinks enough healing potions to counter the skeleton's arrows.
+Most mobs do not retaliate to being rammed by a goat, except for piglins, piglin brutes, hoglins, zoglins, vindicators named "Johnny," and wardens.
+In , mobs do not retaliate to being damaged by firework rockets.
+A creeper retaliates against a mob that attacks it, but only if the player is outside the creeper's sight range. If not, the creeper continues pursuing the player.
+Breaking gold, opening a chest, or failing to wear gold armor near a piglin causes the piglin to set the player as its permanent target. This means that a piglin does not infight with other mobs once it becomes angry at the player, even if the player never directly attacks the piglin.
+The warden prioritizes attacking players over mobs, meaning if a warden is targeting a player, it doesn't retaliate against other mobs until the player dies.
+The wither in Bedrock Edition can retaliate only against invisible mobs, because it would already attack non-undead mobs instantly.
+
+Hunting
+Some mobs fight others for other reasons than retaliation, such as hunting and fighting natural enemies.
+Predator Prey
+
+only:
+
+only:
+
+only:
+
+Randomly attack mobs (including armor stands and cameras) that remain stationary for too long.
+
+only:
+
+only:
+
+Every monster except camel husks, creepers, skeleton horses, sulfur cubes, zombie horses and zombie nautiluses.
+
+(occasionally hunted)
+
+(immediately if any of those golems attacks a piglin or a piglin brute)
+
+Defensively attack:
+
+All non-aquatic mobs
+only:
+
+Every monster except for the ghast and hoglin  Every mob that the owner attacks except for creepers, ghasts and other tamed wolves with the same owner.
+Any mob that attacks its wandering trader
+only:
+
+Any mob that attacks its trusted player except other trusting foxes and ghasts.
+
+Natural enemies  only:
+
+named "Johnny" Every mob except fellow illagers, ghasts, and agents.
+
+only:
+
+Every mob except other wardens.
+
+only:
+only:
+
+Only as part of a patrol  only:
+Every mob except undead mobs, ghasts, and agents.
+
+only:
+
+Every mob except creepers, ghasts, agents and other zoglins.
+
+only:
+
+Trivia
+Mob infighting is referenced in a splash text which reads "Monster infighting!", as monsters can infight
+
+See also
+Mob AI
+
+Mob fleeing
+
+References
+
+Navigation
+
+es:Pelea entre monstruos
+ja:報復
+pt:Luta de criaturas

@@ -1,0 +1,59 @@
+TITLE: Music Disc Bounce
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_Bounce
+---
+"Bounce" refers to both a song composed by fingerspit and a music disc that plays the song when inserted in a jukebox. The music disc can be found in mineshafts within sulfur caves.
+
+Obtaining
+Generated loot
+The music disc "Bounce" can be found in minecart with chests in mineshafts which are in sulfur caves.
+
+Track description
+
+File:Bounce.ogg
+
+"Bounce" is an energetic electronic track driven by bright, punchy synths that carry the main melody and bass harmony throughout. It features crisp synthetic percussion, with the drum pattern arranged in breakbeat style. The piece has a lively, rhythmic feel with a upbeat, optimistic tone.
+Usage
+Like all music discs,  the "Bounce" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "Bounce", it emits a redstone signal of 8.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Bounce" bounce.ogg music_disc.bounce
+
+:
+
+Soundtrack Title File name Sound events "Bounce" bounce.ogg record.bounce
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+In other media
+
+Navigation
+
+Category:Music discs
+Category:Fingerspit
+Category:Minecraft: Chaos Cubed (Original Game Soundtrack)
+
+fr:Disque Bounce
+ja:Bounce
+ko:음반 Bounce
+lzh:留聲盤Bounce
+pt:Disco Musical Bounce
+ru:Пластинка «Bounce»
+uk:Платівка «Bounce»
+zh:音乐唱片Bounce

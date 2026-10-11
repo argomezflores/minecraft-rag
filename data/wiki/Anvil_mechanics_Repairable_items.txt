@@ -1,0 +1,10 @@
+TITLE: Anvil mechanics/Repairable items
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Anvil_mechanics/Repairable_items
+---
+Anything not listed below does not have a unit repair item, and can be repaired only by consuming another instance of itself.
++Repairable items (Anvil) Item  Material
+Category:Gameplay
+
+ja:金床の仕組み/修理可能アイテム
+pt:Mecânica da bigorna/Itens reparáveis

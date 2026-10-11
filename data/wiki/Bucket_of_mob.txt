@@ -1,0 +1,86 @@
+TITLE: Bucket of mob
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bucket_of_mob
+---
+A bucket of mob is a small aquatic mob (a fish, axolotl, or tadpole) or a large sulfur cube inside of a water bucket or a bucket, obtained by  the bucket on the mob.
+
+Small aquatic mobs are stored inside of water buckets, while sulfur cubes are stored inside of (otherwise) empty buckets.
+
+Types
+There are seven types of bucket of mob:
+
+Obtaining
+A bucket of mob can be obtained by  a water bucket on an applicable aquatic mob or  a bucket on a large sulfur cube. Once a water bucket is used, the mob is picked up, along with the water source block for aquatic mobs. The mob bucket obtained corresponds to the mob picked up.
+
+Trading
+
+Usage
+Pressing  with a bucket of mob places a water source block (in the case of aquatic mobs), and spawns the mob itself back into the world, leaving an empty bucket in the player's inventory.
+
+The mob's details (such as size or name) are kept. Placing a bucket of aquatic mob in the Nether causes the same particles to appear that generate when a normal water bucket is placed in the Nether, and the fish is spawned alone.
+
+Mobs caught in buckets then released do not despawn, unlike mobs that spawn naturally in their aquatic environments.
+
+If a bucket of aquatic mob is inside a dispenser, the dispenser spawns the mob and water block (if applicable) in front of it upon activation, leaving an empty bucket inside. Dispensers cannot pick up aquatic mobs with water buckets (the bucket is emptied).
+
+Naming
+If a bucket of aquatic mob is named a certain name through an anvil, the mob inside displays that name as if it were named with a name tag, making fish, axolotls, and tadpoles the only mobs that can exist in item form, and be named without a name tag. Alternatively, if a named mob is captured with a bucket of water, the resulting mob bucket shares a name with the captured mob. If a named mob is captured , the item is called "Bucket of <Name>".
+
+Tropical fish have assigned names depending on their color after they are caught,  this name is displayed in smaller text under the main item name, whereas  the main item name displays "Bucket of <fish name>". Axolotls also have assigned names depending on their growth stage and color after they are caught.
+
+Sounds
+:
+
+:
+
+Data values
+Item data
+:
+
+: the item's components tag.
+
+The custom name of the fish.
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+When a bucket or water bucket is transformed into a bucket of mob, it actually pushes the bucket texture down one pixel. According to Dinnerbone, JAPPA says this is due to the "weight of the fish".
+
+Gallery
+Mojang screenshots
+
+References
+
+External links
+
+Navigation
+
+Category:Utilities
+
+de:Fischeimer
+es:Cubo con criatura acuática
+fr:Créature dans un seau
+it:Secchio con creatura
+ja:Mob入りバケツ
+ko:수중 몹이 담긴 양동이
+nl:Emmer vis
+pl:Wiadro z mobem wodnym
+pt:Balde com criatura
+ru:Ведро с водным мобом
+th:ถังปลา
+zh:生物桶

@@ -1,0 +1,85 @@
+TITLE: Friends List
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Friends_List
+---
+thumb|The Friends List screenThe friends list is a social menu . It allows users to add or remove friends and view their friends' statuses.
+
+Usage
+right|thumb|Prompt when first interacting with the feature
+The friends list can be accessed via the "Friends" button on the main menu or pause menu, or by using a keyboard shortcut (default ).
+
+The friends list is presented as an overlay, containing two tabs:
+
+Friends: Displays currently added friends. Friends can be removed here or friend requests can be sent by entering the player's profile name.
+Requests: Displays received friend requests (acceptable or rejectable) and sent friend requests (cancellable).
+
+The friends list updates every minute while it is open; otherwise it updates every five minutes.
+
+Enabling
+When the "Friends" button is interacted with for the first time, a confirmation dialog box will appear asking the player whether they agree to use the friends list.
+thumb|225px|right|Accessing the Online settings menu
+right|thumb|width=225x225|The friends list options present in the Online settings menu
+Some features must be enabled in the separate Online settings to allow friend requests. By default, the "Allow Requests" setting is disabled, which must be enabled to be able to receive friend requests.
+
+The player's Xbox account settings may also hinder the functionality of the friends list. These can also be accessed and changed from the in-game Online settings menu by selecting Xbox Settings. The friends list can be disabled and enabled as a whole using the "Friends List" setting. When disabled, the "Friends" button is hidden and the list cannot be opened. Trying to open the friends list when it is disabled shows a confirmation box, just like when interacting with the feature for the first time.
+
+Friends
+The player can send a friend request to another player by entering their  profile name into the search box in the "Friends" tab, which will also send a friend request on the Xbox network.
+thumb|The Requests tab showing a received friend request
+thumb|width=250x250|Friend request accepted toast
+A list of sent and received friend requests can be found in the "Requests" tab. Sent friend requests can be cancelled at any time. Received friend requests can be accepted or rejected, either in the Requests tab or on the Xbox network.
+
+If the other player has "Allow Requests" disabled, the friend request won't be sent and an error message will be displayed. The Friends button shows a notification badge with the number of incoming friend requests, up to 5.
+
+Friends added through the Xbox network that own Java Edition will be synchronized in-game, and vice versa.
+
+Friends can be seen in the "Friends" tab, displaying their skin's face, their profile name, and their online status. Players that have their chat settings set to "Friends Only" on their Xbox profile will only see chat messages from players if they are friends.
+
+Friends can be removed from the list in the "Friends" tab with the "Remove friend" button. This will also remove the friend from the Xbox friends list.
+
+Online status
+A friend's online status is displayed under their name, with there being four possible online statuses:
+
+Offline
+Online (in Java Edition)
+It can further specify into these statuses:
+Online (Realm)
+Online (Server)
+In a world
+
+The way the user's activity appears to their friends can be customized using the "Presence" setting in the Online settings menu, with three states:
+All: Friends will see when the user is online and what they are doing (such as if they are actively playing in a world).
+Limited: Friends will see when the user is online, but will not see what they are doing.
+None: The user will appear as offline to their friends even when they are online, and their activity will not be shared.
+
+Notifications
+Changes in the friends list while the game is open will be notified via a toast notification:
+
+Friend request sent
+Friend request received
+Another player accepted the friend request sent by the player
+
+The toast notification will also display the face of the other player's skin if it is available.
+
+Multiplayer functionality
+
+thumb|width=225x225|Receiving invite to friend's world toast
+Players that are in-game friends could join each other's online multiplayer worlds via Peer-to-Peer. Friends that are online could be invited to join to a world through the "Invite to game" button displayed next to their profile in the "Friends" tab and the Friends could accept or deny the invite.
+
+The player could also request to join a friend's online world and the friend could accept or deny the request in the "Friends" tab.
+
+History
+
+Gallery
+
+Development screenshots
+
+References
+
+Navigation
+
+es:Lista de amigos
+fr:Liste d'amis
+ja:フレンドリスト
+pt:Lista de Amigos
+zh:好友列表

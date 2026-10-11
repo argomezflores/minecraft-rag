@@ -1,0 +1,49 @@
+TITLE: Iron Nautilus Armor
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Iron_Nautilus_Armor
+---
+Iron nautilus armor is a type of nautilus armor that can be equipped by a nautilus that reduces the damage received to the nautilus. It is the fourth-strongest tier of nautilus armor, having higher armor points than copper nautilus armor.
+
+Obtaining
+Generated loot
+
+Usage
+Equipping
+Iron nautilus armor can be equipped on a tamed nautilus by holding the nautilus armor and using the  on a nautilus. It is also able to be equipped manually by putting it into the nautilus armor slot through mounting the nautilus and using its  control, or by  and then  or pressing the "open inventory" button.
+
+Baby nautiluses are unable to equip nautilus armor as they are not rideable.
+
+Protection
+When equipped, iron nautilus armor gives  armor points.
+
+Smelting
+
+Smelting recipe: Iron Nautilus Armor → Iron Nugget, XP: 0,1.
+
+Sounds
+
+Data values
+
+:
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Textures
+
+Mojang images
+
+Navigation
+
+fr:Armure pour nautile#Fer
+it:Armatura per nautili di ferro
+ko:철 앵무조개 갑옷
+pt:Armadura de Ferro para Náutilo
+uk:Залізні обладунки навтилуса

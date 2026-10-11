@@ -1,0 +1,70 @@
+TITLE: Dragon's Breath
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Dragon's_Breath
+---
+The dragon's breath is a brewing item that is used solely to brew lingering potions.
+
+Obtaining
+Harvesting
+Dragon's breath can be obtained by  empty glass bottles on the ender dragon's breath attack while perched, or on the purple effect clouds caused by dragon fireballs.
+
+Usage
+Brewing ingredient
+Dragon's breath may be added to any splash potion to upgrade it to a lingering potion, which can be used to create a lasting area effect cloud, or to craft tipped arrows.
+
+Brewing recipe: Dragon's Breath + Matching Splash Potion → Matching Lingering Potion.
+
+With two or more dragon's breath in the brewing stand, after the brewing process, a glass bottle drops as an entity.
+
+Sounds
+
+:
+
+Achievements
+
+Advancements
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Trivia
+If the dragon's breath is used in a crafting recipe (using a mod or a data pack), it becomes an empty bottle instead of being entirely consumed.
+
+References
+
+External links
+
+Navigation
+
+de:Drachenatem
+es:Aliento de dragón
+fr:Souffle de dragon
+it:Soffio di drago
+ja:ドラゴンブレス
+ko:드래곤의 숨결
+lzh:龍涎
+nl:Drakenadem
+pl:Oddech smoka
+pt:Bafo do Dragão
+ru:Драконье дыхание
+th:ลมหายใจมังกร
+uk:Дихання дракона
+zh:龙息

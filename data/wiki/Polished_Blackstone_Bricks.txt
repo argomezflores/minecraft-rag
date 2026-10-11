@@ -1,0 +1,73 @@
+TITLE: Polished Blackstone Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone_Bricks
+---
+Polished blackstone bricks are a decorative version of polished blackstone.
+
+Obtaining
+Breaking
+
+Natural generation
+Polished blackstone bricks generate as part of bastion remnants and Nether ruined portals.
+
+Crafting
+
+Crafting recipe: Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone arranged in the crafting grid → Polished Blackstone Bricks,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Polished Blackstone Bricks → Cracked Polished Blackstone Bricks, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The texture of polished blackstone bricks features a very subtle skull pattern. This is intentional.
+
+Gallery
+
+Mojang screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Polierte Schwarzsteinziegel
+es:Ladrillos de piedra negra pulida
+fr:Pierre noire taillée
+it:Mattoni di pietranera levigata
+ja:磨かれたブラックストーンレンガ
+ko:윤나는 흑암 벽돌
+pl:Wypolerowane czernitowe cegły
+pt:Tijolos de Pedra-Negra Polida
+ru:Полированные чернокаменные кирпичи
+th:บล็อกอิฐหินดำขัด
+uk:Полірована чорнокам'яна цегла
+zh:磨制黑石砖

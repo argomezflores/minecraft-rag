@@ -1,0 +1,66 @@
+TITLE: Locator Bar
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Locator_Bar
+---
+thumb|class=pixel-image|Locator bar in Survival mode, showing orange and blue waypoints.
+The locator bar is a UI element on the player's HUD which shows the position of other players in multiplayer.
+
+Usage
+The locator bar shows the position of other players in multiplayer as colored indicators, known as waypoints. It takes the place of the experience bar on the player HUD, except when gaining or losing XP, or the anvil or enchanting table GUI is opened, in which the locator bar will be hidden for  after the XP is updated, or the GUI is closed. It can be toggled in Java Edition with the   game rule; in Bedrock Edition with the "Player waypoints" () setting which can be set to "Everyone" (default) or "Off".
+
+Each target is assigned a waypoint, and appears on the locator bar horizontally within 120 degrees of the camera's view. If the waypoint is above or below the player's camera pitch angle, a visual pointer appears on the indicator, showing the target's vertical direction from the camera's view. , the color of a waypoint is assigned to an entity based on its UUID; it may also be assigned by their team color, or using the  command. , the color is randomly assigned to the player at every session.
+
+Players can prevent their positions from being shown in the locator bar by sneaking, wearing a mob head or carved pumpkin, or being under the Invisibility effect. Additionally, players in Spectator mode are only visible to other spectators in the locator bar.
+
+The waypoint's icon changes based on the player's distance to its location. The further the player is from the waypoint, the smaller the icon visually shown on the locator bar. Several sprites of the icon can be observed based on the distance: class=pixel-image|16px square (0–179 blocks), class=pixel-image|16px circle (179–230 blocks), class=pixel-image|16px small square (230–281 blocks), and class=pixel-image|16px small circle (281+ blocks). , these sprites can be changed by setting the waypoint's style using the  command; multiple waypoint styles can be defined in a resource pack.
+
+, the waypoint's visibility range is controlled by the  and  attributes; transmission range can be used for players and entities, while receive range applies only to players. A player with a receive range set to zero will not receive any waypoint information. An entity which can transmit a waypoint is called a waypoint transmitter; only living entities, which are armor stands, mobs, and players, can transmit waypoints.The implementation is from  interface in the game's source code. Additionally,  implements this interface. (Mojang mapping)
+
+Entities' waypoints are tracked by the game when their transmission range is set to greater than zero. They can also be tracked when setting their waypoints' color using  command, but they don't appear on the locator bar, removed when the entity is despawned by the game, or when the player exits the world. , only players are tracked in multiplayer mode, other entities are not tracked by the game.
+
+NBT format
+
+The following NBT data are stored on living entities' data about the waypoint's icon visual information:
+The root tag.
+
+** : The waypoint's icon visual data in the locator bar.
+: The waypoint's color stored as 32-bit signed integer using , assuming the color is fully opaque. static class sets color from  enum. (Mojang mapping)
+: The waypoint's style name from  directory in a resource pack.
+
+History
+Java Edition
+
+Bedrock Edition
+
+See also
+Banner markers can be used for marking locations on a map using a placed-down banner.
+
+Issues
+
+Trivia
+There exists a secret waypoint icon class=pixel-image|16px  in the game's texture files. It can be enabled by using command .
+The "Locator Bar" experimental toggle on Java Edition is the shortest-lived experimental toggle in any Minecraft version, being removed just 14 days after it was added, existing only in snapshot versions and never released.
+
+Gallery
+Mojang screenshots
+
+External links
+Locator Bar Neighbor Finder by melncat, a tool for showing a Java Edition player's waypoint color, as well as players that are assigned the same color. Data set is as of September 1, 2025.
+
+References
+
+Navigation
+
+Category:UI
+
+de:Ortungsleiste
+es:Barra localizadora
+fr:Barre de localisation
+it:Barra localizzatrice
+ja:方向バー
+lzh:尋蹤欄
+pl:Pasek nawigacyjny
+pt:Barra Localizadora
+ru:Локатор игроков
+uk:Панель локатора
+zh:定位栏

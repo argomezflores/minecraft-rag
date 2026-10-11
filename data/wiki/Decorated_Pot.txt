@@ -1,0 +1,164 @@
+TITLE: Decorated Pot
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Decorated_Pot
+---
+A decorated pot is a storage block crafted from bricks and/or pottery sherds, with the items used individually affecting the appearance of its four side faces. It can store a single inventory slot's worth of items, which cannot be seen or retrieved by hand without breaking the pot.
+
+Obtaining
+Breaking
+Decorated pots can be broken with any tool and are mined instantly, even when under the Mining Fatigue effect. A decorated pot drops the four pottery sherds or bricks used to craft it, when mined with a pickaxe, axe, shovel, hoe, sword, mace, or trident not enchanted with Silk Touch. It drops itself when mined with anything else, including tools listed above enchanted with Silk Touch. In either case, the tool does not lose durability.
+
+A decorated pot breaks when hit by one of the following projectiles, causing it to shatter into sherds or bricks:
+Arrow
+Tipped Arrow
+Spectral Arrow
+Trident
+Firework Rocket
+Snowball
+Egg
+Fireball
+Small Fireball
+Dragon Fireball
+Wither Skull
+Wind Charge
+A decorated pot also shatters if a player collides with it while flying using elytra boosted by a firework rocket.
+
+A decorated pot drops itself if pushed by a piston. It also always drops itself when destroyed by an explosion, similar to other precious blocks such as beacons and shulker boxes.
+
+Stored items are dropped when the decorated pot is broken, regardless of whether the pot shatters into sherds or drops itself. Breaking a pot is the only way to access the stored items without using a hopper.
+
+, if the cracked block state is set to true, a decorated pot always drops sherds or bricks regardless of the breaking method.
+
+Crafting
+
+Crafting recipe: Any Pottery Sherd;Brick, Any Pottery Sherd;Brick;Brick, Brick;Any Pottery Sherd;Brick, Brick;Brick;Any Pottery Sherd arranged in the crafting grid → Decorated Pot.
+
+Crafting recipe: Brick, Brick, Brick, Brick arranged in the crafting grid → Decorated Pot.
+
+The decorated pot's side textures correspond to the item used in the crafting. If a pottery sherd is used, that side bears the texture of that pottery sherd, if a brick is used, that side bears the default texture. The face items retain their data, such as custom names and other components.
+Simple decorated pot has default brick on all sides.
+
+Natural generation
+Decorated pots naturally generate in trial chambers, with loot inside. Decorated pots in the trial chambers are composed of either four bricks ( chance) or three bricks and either one flow, guster, or scrape pottery sherd (each of those has  chance).
+
+Usage
+
+Decorated pots can be used for decoration. Due to the top part of the decorated pot having no collision, other blocks can be placed on top of them, including other decorated pots and regular flower pots, which are required to place a flower in the decorated pot.
+
+Pressing the  control on a decorated pot causes it to play a wobble animation, triggering a vibration frequency of 11.
+
+Decorated pots crafted without sherds can also serve as a temporary building block, similar to scaffolding and slime blocks, because they are easy to craft, stack to 64, and can be broken instantly by hand.
+
+Storage
+A decorated pot can store up to a stack of a single type of item. However, it fills instantly if an unstackable item like a sword, a filled bucket, or potions are stored in it. Unlike other containers, decorated pots have no GUI; items are inserted by  with the pot or by using droppers, hoppers or crafters. The only way to retrieve stored items is by breaking the pot or by using hoppers or minecarts with hoppers.
+
+Decorated pots crafted without sherds can also serve as compact storage for bricks, as they are stackable; each can be crafted from four bricks and can be broken down into four bricks.
+
+A redstone comparator can be used to measure the number of stored items.
+
+Sounds
+Generic
+Decorated pots switch to the shattered sounds immediately before breaking when destroyed by a non-Silk Touch tool.
+
+Popped
+
+Shattered
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Item data
+:
+
+: the item's components tag.
+
+Block states
+
+:
+
+:
+
+Block data
+A decorated pot has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: The single item stack stored in this container. Does not exist if the decorated pot is empty. Represents the  component. The item is implicitly in slot 0, despite not using the  tag. The component is still present on the block entity, even if the tag does not exist (due to a loot table existing instead).
+
+: List of sherds on this decorated pot. Represents the  component.
+: Item ID of this face. Each value defaults to bricks's ID, and can be either a brick or any sherd.
+: A map for face to the item stacks. Represents the  component. Item stacks with the  component define the face texture.
+: The item stack in the left side.
+
+: The item stack in the back side.
+
+: The item stack in the right side.
+
+: The item stack in the front side.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Advancements
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Decorated pots were originally planned to generate in ancient cities, but the idea was scrapped.
+If an item that is not a brick or pottery sherd is applied to the side of a decorated pot using commands, it renders the same pattern as a brick.
+There are a total of  unique decorated pots that can be created, because each of the 4 slots used to craft a pot can be any one of the 23 pottery sherds or a brick, and each pot has 4 symmetric rotations, making each pot equivalent to 4, 2, or 1 pots. Although the total number of items is , because items that differ by only one rotation are not considered equal.
+The developers consider the decorated pots as a sort of  because recovering any items stored in it requires breaking the decorated pot.https://youtu.be/0yXEhvqwoH4?t=95
+
+Gallery
+Renders
+
+Screenshots
+
+Promotional images
+
+Concept artwork
+
+In other media
+
+References
+
+External links
+Block of the Month: Decorated Pot- Minecraft.net on February 19, 2024
+
+Navigation
+
+Category:Manufactured blocks
+Category:Block entities
+Category:Redstone
+Category:Storage
+Category:Readable by comparators
+Category:Generated structure blocks
+
+de:Verzierter Krug
+es:Vasija decorada
+fr:Vase décoré
+ja:飾り壺
+ko:장식된 도자기
+pl:Dekorowany garniec
+pt:Vaso Decorado
+ru:Узорчатая ваза
+uk:Оздоблений горщик
+zh:饰纹陶罐

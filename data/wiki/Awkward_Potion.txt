@@ -1,0 +1,69 @@
+TITLE: Awkward Potion
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Awkward_Potion
+---
+An awkward potion is a potion that provides no effects. It is used as the basis for brewing most other potions.
+
+Obtaining
+Brewing
+
+Brewing recipe: Nether Wart + Water Bottle → Awkward Potion.
+
+Brewing recipe: Gunpowder + Awkward Potion → Awkward Splash Potion.
+
+Brewing recipe: Dragon's Breath + Awkward Splash Potion → Awkward Lingering Potion.
+
+Usage
+Base potions
+Awkward potion is a base potion. It has no effect when the player drinks it, but is necessary as the basis for other potions.
+
+Lingering potion
+, a lingering awkward potion acts similar to the lingering water bottle, being able to extinguish burning entities and damage endermen, blazes, and snow golems, but without the ability to put out fires.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Awkward Lingering Potion, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Tipped Arrow, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular Awkward Potion  4
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Awkward Potion  awkward
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion étrange
+ko:어색한 물약
+zh:粗制的药水

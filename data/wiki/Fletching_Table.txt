@@ -1,0 +1,81 @@
+TITLE: Fletching Table
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Fletching_Table
+---
+The fletching table is a fletcher's job site block that can generate naturally in villages. It is used to turn an unemployed villager into a fletcher.
+
+Obtaining
+Breaking
+Fletching tables can be broken by hand, but using an axe is faster.
+Fletching tables drop themselves when broken with any tool.
+Natural generation
+Fletching tables can generate naturally inside fletcher houses in villages.
+
+Crafting
+
+Crafting recipe: Flint, Flint, Any Planks, Any Planks, Any Planks, Any Planks arranged in the crafting grid → Fletching Table.
+
+Usage
+The fletching table currently has no right-click functionality or GUI; Its functionality was intended to be added in upcoming updates as of 2019.
+
+Placement
+Regardless of the player's position during placement, the different textures of the block are always facing in the same position (the textures with the target are facing west and east, while the one with the knife and feather is facing up).
+
+Profession
+
+If a fletching table has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to fletcher and claim the fletching table as their job site block.
+
+Fuel
+Fletching tables can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+
+Although the fletching table has no player interaction in the base game, in the "Farmer's Market" expansion to the board game "Minecraft: Builders & Biomes", it allows the player to reveal an additional weapon when fighting a mob.
+
+References
+
+External links
+Block of the Month: Fletching Table – Minecraft.net on November 3, 2022
+
+Navigation
+
+Category:Job blocks
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+cs:Stůl na výrobu šípů
+de:Bognertisch
+es:Mesa de flechas
+fr:Table d'archerie
+ja:矢細工台
+ko:화살 작업대
+lzh:製箭案
+pl:Stół łuczarski
+pt:Bancada de Arco e Flecha
+ru:Стол лучника
+th:โต๊ะทำธนู
+uk:Стіл лучника
+zh:制箭台

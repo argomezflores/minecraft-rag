@@ -1,0 +1,66 @@
+TITLE: Mud Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mud_Bricks
+---
+Mud bricks are a block obtained by crafting 4 packed mud.
+
+Obtaining
+Breaking
+Mud bricks can be obtained by mining it with any pickaxe. When mined using any other tool, it drops nothing.
+
+Natural generation
+Mud bricks can be found in trail ruins.
+
+Crafting
+
+Crafting recipe: Packed Mud, Packed Mud, Packed Mud, Packed Mud arranged in the crafting grid → Mud Bricks,4.
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, mud bricks are made with mud mixed together with straw, similar to packed mud in Minecraft, and then heated to increase their toughness. They have a long history of being used as building materials, dating back at least 5,000 years.
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Schlammziegel
+es:Ladrillos de adobe
+fr:Briques de terre crue
+ja:泥レンガ
+ko:진흙 벽돌
+lzh:泥磚
+pl:Błotne cegły
+pt:Tijolos de Barro
+ru:Саманные кирпичи
+th:บล็อกอิฐโคลน
+uk:Лимпач
+zh:泥砖

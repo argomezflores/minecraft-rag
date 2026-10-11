@@ -1,0 +1,66 @@
+TITLE: Dark Prismarine
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Dark_Prismarine
+---
+Dark prismarine is a variant of prismarine that has a dark cyan color with a tight grid pattern. It is one of the building blocks of ocean monuments along with other prismarine variants.
+
+Obtaining
+Breaking
+Dark prismarine only drops itself when mined with a pickaxe. If mined by any other tool, it drops nothing.
+
+Natural generation
+Dark prismarine naturally generates as one of the main blocks that make up ocean monuments. Dark prismarine encases the 8 gold blocks in the treasure chamber, and appears in some decorative features, less plentiful than the other variants of prismarine.
+
+Crafting
+
+Crafting recipe: Prismarine Shard, Prismarine Shard, Prismarine Shard, Prismarine Shard, Black Dye, Prismarine Shard, Prismarine Shard, Prismarine Shard, Prismarine Shard arranged in the crafting grid → Dark Prismarine.
+
+Crafting recipe: Prismarine Shard, Prismarine Shard, Prismarine Shard, Prismarine Shard, Ink Sac, Prismarine Shard, Prismarine Shard, Prismarine Shard, Prismarine Shard arranged in the crafting grid → Dark Prismarine.
+
+Usage
+Conduit power
+
+Dark prismarine can be used to activate a conduit by building a structure around it. By doing this, the conduit emits the Conduit Power effect in a certain radius, depending on how many blocks are used to power it. The other two variants of prismarine and sea lanterns can also be used for this purpose.
+
+Crafting ingredient
+
+Stonecutting
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+es:Prismarina oscura
+fr:Prismarine sombre
+ko:짙은 프리즈머린
+lzh:黯海磷
+pt:Prismarinho Escuro
+ru:Тёмный призмарин
+uk:Темний призмарин
+zh:暗海晶石

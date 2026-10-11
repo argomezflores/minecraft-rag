@@ -1,0 +1,172 @@
+TITLE: Campfire
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Campfire
+---
+A campfire is a block that can be used to cook food, pacify bees, or act as a spread-proof light source, a smoke signal, or a damaging trap.
+
+Obtaining
+Breaking
+Campfires can be mined with any tool or by hand, but axes are the fastest. When mined regularly, a campfire drops 2 charcoal. If mined with a tool enchanted with Silk Touch, the campfire instead drops itself as an item.
+
+, a campfire can also be broken by pushing it with a piston or sticky piston. Pistons cannot move or break campfires .
+
+Natural generation
+Campfires can generate in taiga and snowy taiga villages.
+
+Campfires can generate in camps inside ancient cities, beneath a pile of blue, light blue and cyan wool blocks.
+
+Campfires can generate in trail ruins and abandoned camps.
+
+Crafting
+
+Crafting recipe: Stick, Stick, Coal; Charcoal, Stick, {Any Log or Stem}; {Any Stripped Log or Stem}; {Any Wood or Hyphae}; {Any Stripped Wood or Hyphae}, {Any Log or Stem}; {Any Stripped Log or Stem}; {Any Wood or Hyphae}; {Any Stripped Wood or Hyphae}, {Any Log or Stem}; {Any Stripped Log or Stem}; {Any Wood or Hyphae}; {Any Stripped Wood or Hyphae} arranged in the crafting grid → Campfire.
+
+Note that crimson and warped stems are valid campfire ingredients even though they are not themselves flammable as items.
+
+Trading
+
+Usage
+Lit campfires emit a light level of 15. Unlike regular fire, a campfire's fire does not spread under any circumstances.
+
+Campfires are lit by default when placed. A campfire can be manually lit by  flint and steel on it (either by player or by dispenser),  a fire charge on it, shooting it with a flaming arrow, or using or dispensing fire charges, blaze fireballs, and ghast fireballs when  is true. , campfires can also be lit by  an item enchanted with Fire Aspect, or stepping on it while burning.
+
+A campfire can be extinguished by waterlogging it (placing water in the same block space), throwing a splash water bottle on it, or  a shovel on it. Campfires cannot be extinguished from their bottom face. , campfires can also be extinguished by placing a water source or allowing water to flow in the space above the campfire. As with torches, rain does not extinguish campfires.
+
+Using flint and steel on the side of a waterlogged or lit campfire sets the adjacent air block on fire instead.
+
+, if a campfire item is named in an anvil, it will display the name above the campfire block on hover.
+
+Particles and smoke signals
+thumb|A campfire emitting smoke
+Campfires produce smoke particles that float up around 10 blocks before disappearing. If a hay bale is placed below, the campfire becomes a signal fire and the smoke floats up 24 blocks instead. At 198 campfires within render distance, the height of a smoke signal produced by a campfire with a hay bale placed below reduces by 1 block. Further campfires reduce this number down to the minimum height of 1 block above each campfire.
+
+Campfire smoke particles can partially pass through a block directly above it, but do not pass through blocks any higher than that.
+
+Although a trapdoor is thinner than a slab, a trapdoor can block the smoke completely, preventing the smoke from floating up.
+
+Campfires emit extra smoke particles during rain, similar to lava.
+
+Campfires also occasionally emit ember particles, similar to lava.
+
+Damage
+If lit, campfires damage mobs standing on top of them, even if underwater (with exceptions such as shulkers, zombified piglins, or guardians). Campfires deal  every tick (although damage immunity reduces this to once every half-second). Campfires do not cause lasting burning or destroy items. Because campfires do not set mobs on fire, mobs that die to them drop raw food instead of cooked food. Damage taken is considered fire damage, so armor itself does not reduce damage caused by campfire; to do so, the player needs the Resistance potion effect, or the Protection or Fire Protection enchantments. The player can avoid being damaged at all, either by using a potion of Fire Resistance or wearing Frost Walker boots.
+
+Regardless of height, all blocks prevent damage done to mobs or players above campfires. The campfire deals damage only to entities occupying its block.
+
+Cooking
+thumb|Some food being cooked on a campfire
+The player can place any of the following food items on a lit campfire by  the food item on it.
+
+Up to four food items can be placed on a campfire, which cooks the items simultaneously. Unlike other blocks that can cook food, campfires do not require any kind of fuel. On a campfire, food produces small smoke particles, indicating they are being cooked. Food items take 30 seconds (600 ticks) to cook, compared to 10 seconds for furnaces or 5 seconds for smokers. Assuming that one uses all four slots to cook at once, campfires are more efficient than furnaces but less efficient than smokers, and must be watched so as to pick up the food and refill it once it is done. Once finished cooking, items pop off the campfire. If the campfire is extinguished while cooking food, the remaining cooking time quickly counts back up. Food items can be placed on an unlit campfire. Any items cooking on a campfire always drop when the campfire block is broken.
+
+Other items can be placed on campfires using external editors, mods, or add-ons.
+
+Hoppers
+Campfires do not have an external inventory. Raw food cannot be loaded into the campfire with a hopper.
+
+A hopper placed directly underneath a campfire pulls through any items dropped into the campfire. Any drops from a mob that dies in the campfire get pulled into the hopper.
+
+Bees
+Placing a campfire within five blocks of a beehive or bee nest allows honey bottles and honeycomb to be harvested without provoking the bees.
+
+There must be unobstructed air between the campfire and the beehive or bee nest. Copper grates and carpets are an exception.
+
+Light source
+Standard lit campfires emit a light level of 15. Like most other sources of light, campfires melt nearby snow and ice.
+
+Piston interactivity
+, pushing a campfire with a piston or sticky piston breaks it, dropping two charcoal. Campfires cannot be pulled by sticky pistons.
+
+, pistons do not interact with campfires. Campfires neither move nor break when pushed or pulled by pistons.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A campfire has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: List of items in this container. Represents the  component.
+: An item, including the slot tag. Campfire slots are numbered 0-3, with 0 starting in the bottom right corner based on the rotation the campfire was placed in, and the rest moving around clockwise.
+
+: How long each item has been cooking, first index is slot 0, etc.
+: How long each item has to cook, first index is slot 0, etc.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Advancements
+
+History
+
+Announcement and biome vote
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+Trivia
+An early campfire design can be seen in the Legacy Console Edition Minigames when the Player's being a "Camper".
+
+References
+
+External links
+Taking Inventory: Campfire – Minecraft.net on March 19, 2020
+
+Navigation
+
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Block entities
+Category:Storage
+Category:Light sources
+Category:Hazardous blocks
+
+de:Lagerfeuer
+es:Hoguera
+fr:Feu de camp
+ja:焚き火
+ko:모닥불
+lzh:營火
+pl:Ognisko
+pt:Fogueira
+ru:Костёр
+th:แคมป์ไฟ
+uk:Багаття
+zh:营火

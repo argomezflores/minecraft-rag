@@ -1,0 +1,130 @@
+TITLE: Smelting
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Smelting
+---
+frame|The furnace interface. Note how the spaces are displayed.
+Smelting is the process of obtaining refined goods from raw materials by heating them in a furnace, blast furnace, or smoker. When items are smelted in either type of furnace, some experience is dropped. Like crafting, smelting uses recipes to determine what item is produced.
+
+Methods
+Furnace
+
+The furnace interface contains three item slots: the upper left slot for the item that needs to be smelted, the lower left slot for fuel, and the right slot where output items accumulate and can be retrieved by the player. Flames above the fuel slot act as a gauge showing the amount of fuel left of the current fuel item. An arrow in the middle shows the progress of smelting the current item.
+
+The furnace takes 10 seconds (200 in-game ticks) to smelt an item. It begins to smelt if both input item and fuel are placed into the corresponding slots, and there is space in the output slot.
+
+When starting, a fuel item is consumed immediately, filling the fuel gauge. Different fuels will fuel the furnace for different amounts of time. The fuel gauge indicates how much of that fuel's burn time remains, and gradually decreases even if the input slot becomes empty. When a fuel item is fully consumed and the input slot is not empty, another one is taken from the fuel slot, and the gauge resets.
+
+The furnace processes one input item at a time, which remains in the input slot during the 10-second process. So if multiple types of items or more than one stack of item need to be smelted, the player needs to move in the item manually or using hoppers.
+
+The arrow indicates the progress on how much the input has been smelted and how much more it needs to be smelted. When the arrow is full, the input item is removed from the input stack and an output item is added to the output stack. Smelting of the next input item then begins immediately.
+
+Furnaces stop smelting under any of four conditions:
+
+When the furnace runs out of smeltable items: The input slot becomes empty or contains item that cannot be smelted.
+The furnace runs out of fuel: The fuel input slot is empty, and the current fuel item is fully consumed (that is, the fuel gauge becomes empty).
+The output slot becomes full: Either the slot has a full stack of the output, or the output contains the wrong output item for the current input item (for example, if the output contains iron ingots, but the input contains raw beef). In this case, smelting (but not fuel consumption) is paused until the output slot becomes available (usually because items were removed by either a player or a hopper). If a fuel item burns out in this condition, a new one is not used until the output slot is again available.
+The furnace is broken: The contents of all the slots, any accumulated experience, and the furnace itself are dropped. The currently-burning fuel item is lost since it is removed from the fuel slot before burning begins. The furnace block itself may not be dropped if it was destroyed by an explosion.
+
+If smelting stops while a fuel item is still burning, the furnace continues to run visually, but no more input items are processed. If the fuel has been exhausted when an item has been partly smelted, the smelting progress is undone at double speed, and the item remains in the input stack.
+
+Smelting is suspended if the chunk the furnace is in becomes unloaded. It resumes when the chunk is loaded again.
+
+Smoker and blast furnace
+Smokers and blast furnaces use the same GUI interface as regular furnaces and function similarly to regular furnaces. They smelt twice as quickly as furnaces, requiring only 5 seconds (100 game ticks) to smelt 1 item; they consume the same amount of fuel as regular furnaces per item smelted. Blast furnaces can only smelt ores, while smokers can only cook food; any other item can be smelted only in regular furnaces.
+
+Recipes
+All smelting recipes can be used in the furnace, but only subsets are available in the blast furnace and smoker.
+
+The furnace, blast furnace and smoker keep track of experience for each item as smelting is completed for them, accumulating it in a hidden counter. The counter remembers the total earned experience even if a hopper is used to remove the items from the output slot. Experience is awarded to the player who uses the interface to remove items manually, after which the counter is reset. If the player takes some of the output but leaves some in the slot, the experience corresponding to items left in the furnace is retained and not awarded to the player. For fractional experience values, first multiply this value by the number of smelted items removed from the furnace, then award the player the integer part, and if there is a fractional part remaining, this represents the chance of an additional experience point.
+
+For example, when smelting 1 coal ore and removing the coal, the value is 0.1, so every ten coal removed grants one experience point on average.
+When smelting 6 sea pickles and removing all 6 lime dye, the value is 0.2×6 = 1.2, so this grants 1 point, plus a 20% chance of another 1 point.
+The fractional experience stays within the furnace when the final total is not an integer, so the leftover experience is attributed to the next round of smelting.
+
+Food
+
+All food recipes can be used in a furnace or smoker. Food can alternatively be cooked on a campfire.
+Product Ingredient Exp UsageBaked PotatoPotato 0.35 Fills , while raw fills .Dried KelpKelp 0.1 Fills  and can be eaten faster than other foods; while uncooked kelp is inedible. Can also be used to craft dried kelp block.SteakRaw Beef 0.35 Fills , while raw fills .Cooked PorkchopRaw Porkchop 0.35 Fills , while raw fills .Cooked MuttonRaw Mutton 0.35 Fills , while raw fills .Cooked ChickenRaw Chicken 0.35 Fills , while raw fills  and has a 30% chance to give the Hunger status effect.Cooked RabbitRaw Rabbit 0.35 Fills , while raw fills .Cooked CodRaw Cod 0.35 Fills , while raw fills .Cooked SalmonRaw Salmon 0.35 Fills , while raw fills .
+
+Ores
+All ore recipes can be used in a furnace or blast furnace.
+Product Ingredient Exp UsageIron IngotRaw Iron0.7 Used to craft various items, including blast furnaces, anvils, iron blocks, iron nuggets, rails, buckets, cauldrons, iron chains, compasses, crossbows, flint and steels, heavy weighted pressure plates, hoppers, iron trapdoors, minecarts, pistons, shears, shields, iron armor, iron tools, stonecutters, tripwire hooks, and lodestones.Copper IngotRaw Copper0.7 Used to craft various items, including spyglasses, copper nuggets, copper chests, lightning rods, copper armor, copper tools, copper doors, copper trapdoors, copper chains, brushes, and blocks of copper. Gold IngotRaw Gold  or Nether Gold Ore1 Used to craft various items, including netherite ingots, gold blocks, golden apples, gold nuggets, clocks, golden armor, golden tools, powered rails, and light weighted pressure plates. Also used as a currency for bartering.Netherite ScrapAncient Debris2 Used to craft netherite ingots, which can be used to upgrade diamond gear and craft netherite blocks.
+
+The following additional ores can be smelted, but it's more efficient to mine them with an appropriate pickaxe. In most cases mining them saves fuel and yields more product and experience, especially if the pickaxe has a Fortune enchantment. Smelting them, though, allows obtaining them from an automatic device. The ore blocks themselves can be obtained only with the Silk Touch enchantment.
+
+Product IngredientExp UsageRedstone DustRedstone Ore0.7 Used to craft various items and redstone blocks, brewing, or placed as redstone wire. When normally mined drops 4–5 redstone and .CoalCoal Ore0.1 Used as a fuel, and to craft torches, campfires and blocks of coal.When normally mined drops 1 coal and .EmeraldEmerald Ore1 Used for trading, and to craft blocks of emerald.When normally mined drops 1 emerald and .Lapis LazuliLapis Lazuli Ore0.2 Used for enchanting and for crafting blue dyes and blocks of lapis lazuli.When normally mined drops 4–9 lapis lazuli and .DiamondDiamond Ore1 Used to craft various items, enchanting tables, jukeboxes, and blocks of diamond.When normally mined drops 1 diamond and .Nether QuartzNether Quartz Ore0.2 Used to craft various items and quartz blocks.When normally mined drops 1 Nether quartz and .Iron IngotIron Ore0.7 Used to craft various items. Copper IngotCopper Ore0.7 Used to craft various items. Gold IngotGold Ore1 Used to craft various items, and as a currency for bartering with piglins.
+
+Gear
+These recipes can be used in a furnace or blast furnace to recycle unneeded gear (tools, weapons, armor, horse armor and nautilus armor).
+ProductIngredientExpUsageIron NuggetTools, weapons, armor and mob armor made from iron, chainmail armor0.1Can be crafted into lanterns, iron chains, or iron ingots.Gold NuggetTools, weapons, armor and mob armor made from gold0.1Can be crafted into golden carrots, glistering melons, or gold ingots.Copper NuggetTools, weapons, armor and mob armor made from copper0.1Can be crafted into copper chains, copper lanterns, or copper ingots.
+
+Furnace-only
+These recipes are exclusive to the furnace.
+Product Ingredient Exp UsageStoneCobblestone0.1Used as a building material. Also used for crafting stone pressure plates, stone buttons, stone bricks, stone stairs, grindstones, stonecutters, redstone repeaters and comparators. Can be smelted into smooth stone. Smooth StoneStone0.1Used as a building material. Also used for crafting smooth stone slabs, armor stands, and blast furnaces.Cracked Stone BricksStone Bricks0.1Decoration block.DeepslateCobbled Deepslate0.1Decoration block.Cracked Deepslate BricksDeepslate Bricks0.1Decoration block.Cracked Deepslate TilesDeepslate Tiles0.1Decoration block.Smooth SandstoneSandstone0.1Used as a building material. Also used for crafting smooth sandstone slabs and stairs.Smooth Red SandstoneRed Sandstone0.1Used as a building material. Also used for crafting smooth red sandstone slabs and stairs.Cracked Nether BricksNether Bricks0.1Decoration block.Smooth BasaltBasalt0.1Decoration block.Cracked Polished Blackstone BricksPolished Blackstone Bricks0.1Decoration block.Smooth QuartzBlock of Quartz0.1Used as a building material. Also used for crafting smooth quartz slabs and stairs.TerracottaClay0.35 Decoration block. Also used for crafting stained terracotta. Can be smelted into glazed terracotta.Glazed TerracottaStained Terracotta0.1Decoration block. Can be pushed by pistons but does not stick.GlassSand0.1Used to make transparent structures. Also used to craft glass panes, glass bottles, stained glass, tinted glass, harnesses, End crystals, daylight detectors, and beacons. SpongeWet Sponge0.15Used to soak up water. Drying a sponge allows it to be reused. If an empty bucket is in the fuel slot when smelting finishes, it becomes a water bucket. Wet sponges can also be instantly dried when placed in the Nether.CharcoalLogWoodStripped LogStripped Wood0.15Used to craft torches, soul torches, campfires and fire charges, and as fuel for smelting or for a minecart with furnace. Input must be an Overworld log or wood, not sticks, planks, or stems.Popped Chorus FruitChorus Fruit0.1Used to make purpur blocks and End rods. Cannot be eaten.Lime DyeSea Pickle:0.1:0.2Used as a dye.Green DyeCactus:1:0.2Used as a dye.BrickClay Ball0.3 Used to make bricks, decorated pots, and flower pots.Nether BrickNetherrack0.1Used to make Nether bricks, Nether brick fences, and red Nether bricks.Resin BrickResin Clump0.1Used to make resin bricks.Leaf LitterLeaves0.1Can be used as fuel for smelting.
+
+Fuel
+
+There are multiple fuels that can be used to smelt items.
+
+A single lava bucket or a block of coal can smelt more items than can fit in the furnace, a lava bucket being able to smelt 100 blocks and a block of coal being able to smelt 80 —both input and output are limited to a maximum of a stack.
+
+This is the specific table for all the fuels:
+
+Hopper automation
+
+thumb|width=236x236|In-game Automated furnace schematic
+
+The smelting process can be automated with hoppers on the top and bottom of the furnace. For larger smelting jobs, a third hopper on the side of the furnace can feed in fuel and, in case of lava being used as fuel, any empty buckets come out of the bottom hopper. This automatically feeds and empties the furnace so that different materials can be smelted in the same batch with no loss.
+
+Whenever a hopper or minecart with hopper removes items from a furnace, any experience earned from cooking or smelting the removed items is saved in the furnace and awarded to the next player who either breaks the furnace or manually removes an item from the furnace's output slot. This saved experience is in addition to that earned for the manually removed item(s).
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+A wooden tool burns the same regardless of its remaining durability. A used-up tool is just as effective as fuel as a new tool.
+"Smelting" is a broad term in the context of Minecraft while in the real world, smelting has a more precise definition.
+
+Gallery
+Screenshots
+
+See also
+
+Smelting on Wikipedia
+Brewing
+Cooked food
+Crafting
+Enchanting
+Furnace
+
+References
+
+Navigation
+
+cs:Tavba
+de:Erhitzen
+es:Fundición
+fr:Cuisson
+hu:Olvasztás
+it:Cottura
+ja:製錬
+ko:제련
+lzh:煉
+nl:Smelten
+pl:Przetapianie
+pt:Fundição
+ru:Плавка
+th:การเผา
+tr:Eritme
+uk:Витоплення
+zh:烧炼

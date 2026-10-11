@@ -1,0 +1,103 @@
+TITLE: Mangrove Propagule
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mangrove_Propagule
+---
+A mangrove propagule is an amphibious sapling that can grow into a mangrove tree. They grow hanging from mangrove leaves when the leaves are bone mealed or when a tree is first created, but can only be obtained as items if fully grown.
+
+Obtaining
+Breaking
+Mangrove propagules can be broken instantly with any tool or by hand. Only blocks with block states hanging=false or with age=4 drop themselves.
+
+Natural generation
+Hanging mangrove propagules generate under leaf blocks of mangrove trees that spawn in mangrove swamps.
+
+Trading
+Wandering traders may sell 1 mangrove propagule for 5 emeralds.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 mangrove propagule when killed while showing the item as trade offer, if the player holds an emerald.
+
+Post-generation
+Applying bone meal to a block of mangrove leaves with a space underneath produces a hanging mangrove propagule with age=0. Bone meal can then be applied to the propagule itself to increase its age by 1.
+
+Usage
+Growing trees
+
+A hanging mangrove propagule cannot grow into a tree.
+
+Like saplings, non-hanging mangrove propagules have two growth stages (with no visible difference between them) before growing into trees. When a tree is to be grown, a height is chosen and then the ground and space are checked; if the ground is bad or there is not space for the chosen height, the tree does not grow. Bone meal can be used to speed up the growth of the propagule, even to grow the tree without sufficient light.
+
+Also like saplings, mangrove propagules can grow only if a player is within a certain radius, even in loaded chunks.
+
+Mangrove propagules can be placed on all variants of dirt (except dirt paths), moss blocks, mud, and clay. A mangrove also requires at least 6 empty spaces above the propagule. The height of the tree depends on how far the roots can spread horizontally. The roots can spread up to 5 blocks away from the propagule. It requires at least one solid block within the 9×9×9 cube centered on and directly underneath the propagule outside the column where the sapling is, and solid blocks for the bottoms of the roots to land on within 11 blocks below the sapling in a 9×9 area. The farther the solid blocks are below the propagule, the more attempts it takes to generate a suitable tree shape. Mud does not count as a solid block.
+
+Dirt blocks in the space above the propagule are an exception. Dirt blocks do not stop the tree from growing. The dirt remains in place and the rest of the tree generates normally around it (it is possible to grow a tree that contains only one log block at the original propagule location, with a column of dirt above where the rest of the trunk should be and leaves spreading out from it). , all types of log block and wood block and their stripped versions are also treated like dirt blocks (they don't stop growth). , log and wood blocks are treated like other block types and stop the tree from growing if they are above it.
+
+When a propagule on a grass block grows into a tree, the grass block becomes a dirt block.
+
+When a mangrove grows from a propagule, it has a 1% chance of generating a bee nest containing 2-3 bees. Unlike other tree types, this does not require the propagule to be placed next to flowers.
+
+Mangrove propagules can also be placed and grown underwater.
+
+Bees
+Bees engage in a pollinating behavior with mangrove propagules, increasing the honey level in beehives and bee nests by 1.
+
+Breeding
+Mangrove propagules can be fed to bees for breeding, and reduce the remaining growth duration of baby bees by 10%. Bees also follow a player holding a mangrove propagule.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of a mangrove propagule have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Decoration
+Mangrove propagules can be placed in a flower pot.
+
+Fuel
+Mangrove propagules can be used as a fuel in furnaces, smelting 0.5 items per propagule.
+
+Composting
+Placing a mangrove propagule into a composter has a 30% chance of raising the compost level by 1. A stack of saplings yields an average of 2.74 bone meal.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+See also
+
+Gallery
+Renders
+
+References
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Natural blocks
+
+es:Propágulo de mangle
+ko:맹그로브나무 주아
+lzh:沒潮木胚
+pt:Propágulo de Mangue
+uk:Мангровий живець
+zh:红树胎生苗

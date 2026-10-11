@@ -1,0 +1,55 @@
+TITLE: Fire Aspect
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Fire_Aspect
+---
+Fire Aspect is an enchantment applied to swords, maces, and spears that ignites entities hit with melee attacks.
+
+Obtaining
+Fire Aspect can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, librarian villagers, and in the following structure loot chests: desert pyramids, strongholds, ocean ruins, ancient cities, mansions, pillager outposts, mineshafts, monster rooms, jungle pyramids, and from vaults in trial chambers.
+
+Usage
+Fire Aspect adds 80 fire-ticks (4 seconds of burning) per level to the target. Because the first hit is caused by the item with this enchantment, the first second of fire damage is not recognized. Targets receive  and  damage with level I and II respectively. Formula to calculate the fire damage, expressed in : damage = (level × 4) – 1
+
+When a mob that normally drops raw meat is killed while it is burning, or if a mob is killed directly by the enchanted weapon, even if it is in water, it drops cooked meat. When a sulfur cube that has absorbed TNT is hit with an enchanted item, it ignites and explodes.
+
+,  an item enchanted with Fire Aspect on an unlit candle or campfire lights it. Additionally, doing this on a block of TNT or minecart with TNT causes it to ignite.
+
+Spear charge attacks done using a spear in the offhand do not apply Fire Aspect.
+
+Specific cases
+If Fire Aspect is applied to a trident by use of commands or an anvil in Creative, the enchantment does not cause the weapon's thrown projectile to set targets on fire or ignite TNT, TNT minecarts, candles, and campfires. Instead, Flame has the igniting effects, but doesn't set targets on fire either.
+
+Immune mobs
+Both Fire Aspect and Flame are nullified on all Nether exclusive mobs other than piglins, piglin brutes, and hoglins due to fire and lava immunity. Ender dragons, withers, and wardens are also immune. Normal skeletons and endermen are not immune even in the Nether.
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Java Edition Combat Tests
+
+Issues
+
+References
+
+Navigation
+
+de:Verbrennung
+es:Aspecto ígneo
+fr:Aura de feu
+ja:火属性
+lzh:附焰
+pt:Aspecto Flamejante
+ru:Заговор огня
+zh:火焰附加

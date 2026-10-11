@@ -1,0 +1,49 @@
+TITLE: Chiseled Resin Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Resin_Bricks
+---
+Chiseled resin bricks are a variant of resin bricks, crafted from resin brick slabs.
+
+Obtaining
+Breaking
+Chiseled resin bricks can be mined using a pickaxe. When mined without a pickaxe, it drops nothing.
+
+Crafting
+
+Crafting recipe: Resin Brick Slab, Resin Brick Slab arranged in the crafting grid → Chiseled Resin Bricks.
+
+Stonecutting
+
+Usage
+Chiseled resin bricks are used for decoration. The block has the face of a creaking engraved on it. See also Easter eggs#Mobs on chiseled blocks.
+
+Sounds
+
+Data values
+ID
+Java Edition:
+
+Bedrock Edition:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+de:Gemeißelte Harzziegel
+es:Ladrillos de resina cincelados
+fr:Briques de résine sculptées
+ja:模様入りの樹脂レンガ
+ko:조각된 수지 벽돌
+lzh:雕樹香磚
+pt:Tijolos de Resina Talhados
+ru:Резные смоляные кирпичи
+th:บล็อกอิฐยางไม้สลัก
+uk:Різьблена смоляна цегла
+zh:雕纹树脂砖块

@@ -1,0 +1,54 @@
+TITLE: Deepslate Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Brick_Stairs
+---
+Deepslate brick stairs are a decorative stairs variant of deepslate bricks that generate in ancient cities and are used for building.
+
+Obtaining
+Breaking
+Deepslate brick stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Deepslate brick stairs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Deepslate Bricks, Deepslate Bricks, Deepslate Bricks, Deepslate Bricks, Deepslate Bricks, Deepslate Bricks arranged in the crafting grid → Deepslate Brick Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en ardoise des abîmes taillée
+ja:深層岩レンガの階段
+ko:심층암 벽돌 계단
+pt:Escadas de tijolos de ardósia
+ru:Ступени из глубинносланцевого кирпича
+th:บันไดอิฐหินชนวนลึก
+uk:Сходи з глибосланцевої цегли
+zh:深板岩砖楼梯

@@ -1,0 +1,46 @@
+TITLE: Mob Trophy
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mob_Trophy
+---
+Mob trophy is a joke block only present in 25w14craftmine.
+
+Obtaining
+Any mob has a 10% chance to drop its corresponding trophy when killed by a player. A shiny netherite grade llama spit mob trophy can also be found in the stairs room, which requires multiple +1 jump Player Unlocks to access. Also, in the labyrinth room, there is a chest filled with 18 diamond grade lightning mob trophies.
+
+Trophies can also be obtained with the give command, using components to display specific mobs. Below is an example command to spawn a shiny, netherite grade ender dragon mob trophy:
+
+The tag shiny:1b gives the trophy the 'shiny' trait. Replace with shiny:0b to remove shininess.
+
+The tag {grade:"netherite"} makes the trophy netherite-grade.
+
+The tag type:"ender_dragon" sets the trophy's mob to an ender dragon.
+
+Usage
+Right-clicking a mob trophy plays a random sound from its corresponding mob and a very rare chance to summon a passive version of the corresponding mob.
+
+Grades
+Every mob trophy has a grade when it drops. The probabilities of the different grades are:
+≈ 55.2% chance of grass grade
+≈ 27.6% chance of stone grade
+≈ 13.8% chance of gold grade
+≈ 2.8% chance of diamond grade
+≈ 0.6% chance of netherite grade
+Additionally, there is a 1% () chance for a mob trophy to be shiny. The rarest mob trophy, a shiny netherite grade mob trophy, has only a  ≈ 0.0006% chance of dropping from any mob kill.
+
+Sounds
+
+Data values
+ID
+:
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+Navigation
+
+ja:Mob Trophy
+zh:生物奖杯

@@ -1,0 +1,82 @@
+TITLE: Golden Boots
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Golden_Boots
+---
+Golden boots are a variant of boots crafted from gold ingots. They are the sixth-highest tier of boots, having the same armor points as leather boots but with higher durability and enchantability. Like all golden armor, piglins are attracted to golden boots, and do not attack any player wearing them.
+
+Obtaining
+Crafting
+
+Crafting recipe: Gold Ingot, Gold Ingot, Gold Ingot, Gold Ingot arranged in the crafting grid → Golden Boots.
+
+Generated loot
+
+Mob loot
+Zombies, husks, zombie villagers, skeletons, strays, bogged, parched, and piglins have a chance to spawn wearing armor, which may include golden boots. There is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop the boots they're wearing upon death unless they are spawned from an ominous trial spawner. The dropped boots are usually badly damaged, and may be enchanted with enchantment levels 5-19.
+
+Usage
+When worn, golden boots provide  armor point.
+
+Piglins
+As with other pieces of gold armor, piglins do not attack players wearing golden boots unless provoked or attacked.
+
+Piglins are also attracted towards golden boots on the ground and equip them after inspecting them.
+
+Smelting
+
+Smelting recipe: Golden Boots → Gold Nugget, XP: 0,1.
+
+Repairing
+Combining
+
+Unit repair
+
+Boots can be repaired in an anvil by adding units of the tiers' repair material, with each repair material restoring 25% the boots' maximum durability, rounded down. Two boots of the same tier can also be combined in an anvil. Both methods preserve the boots' enchantments.
+
+Enchantments
+Boots can receive the following enchantments:
++NameDescriptionMax LevelMethodWeightProtectionProtection, Projectile Protection, Blast Protection, and Fire Protection are mutually exclusive.Increases overall damage reduction.IV10Projectile ProtectionIncreases damage reduction against projectiles.IV5Blast ProtectionIncreases damage reduction against explosions.IV2Fire ProtectionIncreases damage reduction against fire.IV5Feather FallingReduces fall damage.IV5ThornsDeals returning damage to attackers.III1Depth StriderFrost Walker and Depth Strider are mutually exclusive.Increases underwater movement speed.III2Frost WalkerLeaves a trail of ice when walking over water.II1Soul SpeedIncreases movement speed on soul sand.III1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the boots when obtaining experience.I2Curse of VanishingThe boots vanish on death, not dropping as an item.	I1Curse of BindingRemoves the ability to de-equip the boots.I1
+
+Armor trimming
+It is possible to upgrade armor with trims. This requires a smithing template, boots, and an ingot or crystal (iron ingot, copper ingot, gold ingot, netherite ingot, emerald, redstone dust, lapis lazuli, amethyst shard, nether quartz, diamond, or resin brick).
+
+These trims have no effect on the gameplay or strength of the armor.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Renders
+
+References
+
+Navigation
+
+Category:Armor
+Category:Combat
+
+fr:Bottes#Or
+pt:Botas de Ouro

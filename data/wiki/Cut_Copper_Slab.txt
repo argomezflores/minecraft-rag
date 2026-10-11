@@ -1,0 +1,75 @@
+TITLE: Cut Copper Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cut_Copper_Slab
+---
+A cut copper slab is a decorative slab variant of cut copper that generates in trial chambers and is used for building. Unlike other types of slabs, cut copper slabs can oxidize over time.
+
+Obtaining
+Breaking
+Cut copper slabs can be broken with stone pickaxes or higher. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Waxed cut copper slabs generate naturally in trial chambers.
+
+Crafting
+
+Crafting recipe: Matching Unwaxed Cut Copper; Matching Waxed Cut Copper, Matching Unwaxed Cut Copper; Matching Waxed Cut Copper, Matching Unwaxed Cut Copper; Matching Waxed Cut Copper arranged in the crafting grid → Matching Unwaxed Cut Copper Slab,6; Matching Waxed Cut Copper Slab,6.
+
+Stonecutting
+
+Usage
+
+Crafting ingredient
+
+Oxidation
+
+Non-waxed cut copper slabs have four stages of oxidation (including the initial normal state). Lightning bolts and axes can remove the oxidation on cut copper slabs. They can be waxed with a honeycomb to prevent it from oxidizing.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+Sounds
+, when a cut copper slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle de cuivre taillé
+ja:切り込み入りの銅のハーフブロック
+ko:깎인 구리 반 블록
+lzh:割銅版
+pt:Laje de Cobre Lapidado
+zh:切制铜台阶

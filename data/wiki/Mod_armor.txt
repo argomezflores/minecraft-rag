@@ -1,0 +1,26 @@
+TITLE: Mod armor
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Mod_armor
+---
+Mod armor was an item exclusive to China Edition, previously used for add-on development. It has now become obsolete.
+
+Obtaining
+The item could be obtained through the use of addons and modifying NBT data, but it could not be obtained through the  command.
+
+Usage
+In the early versions of China Edition, mod_armor was used for custom equipment and an item frame that allows customization and modification of equipment settings (only for the equipment slot area).
+
+When worn, mod_armor provided  armor points. The item was not worn on the head, but on the feet. It had 0 armor toughness by default.
+
+The item used the old golden_helmet texture, and did not have a translated name; erroneously displaying the translation key ("item.mod_armor.name") in-game instead.
+
+Data values
+ID
+:
+
+History
+
+Gallery
+Screenshots
+
+Navigation

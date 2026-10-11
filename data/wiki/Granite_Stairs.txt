@@ -1,0 +1,59 @@
+TITLE: Granite Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Granite_Stairs
+---
+Granite stairs are a decorative stairs variant of granite that generate in desert villages and are used for building.
+
+Obtaining
+Breaking
+Granite stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Granite stairs generate as part of desert villages.
+
+Crafting
+
+Crafting recipe: Granite, Granite, Granite, Granite, Granite, Granite arranged in the crafting grid → Granite Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en granite
+ja:花崗岩の階段
+ko:화강암 계단
+lzh:花崗石階
+pt:Escadas de Granito
+ru:Гранитные ступени
+th:บันไดหินแกรนิต
+uk:Гранітні сходи
+zh:花岗岩楼梯

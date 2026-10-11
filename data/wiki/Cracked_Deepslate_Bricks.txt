@@ -1,0 +1,48 @@
+TITLE: Cracked Deepslate Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cracked_Deepslate_Bricks
+---
+Cracked deepslate bricks are the cracked variant of deepslate bricks.
+
+Obtaining
+Breaking
+Cracked deepslate bricks can be obtained only by mining them with any pickaxe. When mined using any other tool, they drop nothing.
+
+Natural generation
+Cracked deepslate bricks generate naturally in ancient cities.
+
+Smelting
+
+Smelting recipe: Deepslate Bricks → Cracked Deepslate Bricks, XP: 0.1.
+
+Usage
+Cracked deepslate bricks are a decorative block.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Ardoise des abîmes taillée craquelée
+ko:금 간 심층암 벽돌
+lzh:裂板石磚
+pt:Tijolos de Ardosiabissal Rachados
+ru:Потрескавшиеся глубинносланцевые кирпичи
+th:บล็อกอิฐหินชนวนลึกร้าว
+uk:Тріснута глибосланцева цегла
+zh:裂纹深板岩砖

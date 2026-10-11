@@ -1,0 +1,79 @@
+TITLE: Interactable blocks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Interactable_blocks
+---
+Interactable blocks are blocks with functionalities accessed with pressing  while looking at it.
+
+Mechanics of use on block
+
+When a player is pressing  and is looking at an interaction box of a block within its interaction range, and there are no mob hitboxes in between, then they attempt to interact with the block.
+
+There are three types of interaction. The first two are defined by the block (although the item in hand can influence the first) and the last is defined by the item (although the interacted block can influence it). In order of attempted interaction:
+
+Use item on block (focused on the block)
+Use block without item
+Use item on block (focused on the item)
+
+If the player  and has an item in hand, the first two uses of the blocks are ignored and the attempt directly goes to the last one. Otherwise, the player attempts use one; if successful, the interaction ends. Otherwise, depending on the result of the use one, they may have to perform use two or skip straight to use three. If they attempt use two, and fail, they will attempt use three, otherwise if successful, the interaction ends.
+
+Only some blocks have a specific effect for use with an item (1) or use without items (2), and only some items have use on blocks (3). If a block does not have a specific interaction for using an item on it (1), using an item on it will simply attempt to use the block without an item (2). For (2) and (3), if a block or item does not have a specific use, attempting to use it will fail.
+
+The swing animation is only applied when there is some success (in any of the use).
+
+Using a block without an item does not necessarily mean the player has no item in hand; instead it simply means using the block without considering the item. Similarly, it is possible to use an item on a block even when the hand is empty.
+
+, when the first or third attempt is successful, the advancement trigger  is activated, and if the second case is a success, trigger  is activated. Subsequently, in any successful case, the  trigger is activated.
+
+Interactable blocks without items
+
+Blocks with GUI
+
+Blocks with GUI show a menu that can be used to interact with it. These interactions include crafting, smelting, storing, brewing, smithing, enchanting, and other functions.
+
+Chests only open if there is no redstone conductor block above them or a cat sitting on top of them, in the case of a double chest, the same condition is necessary for a connected chest. Shulker boxes only open if their opening (0.5 blocks towards the top) does not have any collision with the collision box of another block. Ender chests only open if there is no redstone conductor block above them.
+
+These, and only these, blocks can be integrated in spectator mode, except for the blocked chests and ender chests.
+
+Open a barrel, any chest (incluid ender chest), or a shulker box also anger nearby piglins. , interacting with these blocks also increases the associated status, exect the crafting table and the enchanting table.
+
+Blocks whose GUI depends on the block entity
+
+Blocks whose GUI depends on the player
+
+Other
+
+Other
+
+Interacting blocks without item that don't open a menu. Blocks like signs, command blocks, and structure blocks set a new screen, but these are not considered menus. Unlike menus, they are opened by the local player and not the server player.
+
+(level )
+
+⋯ All Potted Plants/Fungi
+
+()
+()
+
+Trapdoors (except iron)
+
+(practically never)
+
+Interactable blocks with item
+Blocks that can be interacted with while holding an item, and the behavior is defined by the block.
+
+Some blocks use a certain item, it doesn't create a specific block behavior, but rather blocks or allows another interaction. For example, using the plant/fungi in a pot already prevents the plant/fungi from being removed from the pot, or uses a block in a redstone ore,  could try placing it beyond the usual interaction (using other items, like a bucket of water, doesn't attempt use 3).
+
+⋯ All Potted Plants/Fungi
+
+()
+()
+
+Items that can be used in blocks
+
+An item that can be interacted with blocks, and whose behavior is determined by the item.
+
+Notes
+
+Navigation
+__DISAMBIG__
+ko:상호작용할 수 있는 블록
+pt:Blocos interativos

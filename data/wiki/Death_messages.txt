@@ -1,0 +1,653 @@
+TITLE: Death messages
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Death_messages
+---
+thumb|right|"Steve was killed" message on the death screen
+Death messages are messages shown on the death screen and sent in the chat to either all players or a specific player to announce the death of a player or pet. These messages communicate how the entity died, and some are intended to be humorous. Some death messages are harder to get than others, and are therefore sought after by players.
+
+Upon the death of a player, a death message is broadcast to everyone on a server. Upon the death of a pet wolf, cat, parrot, nautilus or zombie nautilus the message is broadcast to the pet's owner  or to all players in the world . In Bedrock Edition, death messages are also produced upon the death of a pet horse, zombie horse, donkey, mule, llama, or trader llama.
+
+, death messages are automatically recorded in the game's logs. The death of a villager or a renamed mob is recorded in the game's logs, but not broadcast in chat.
+
+Death messages can be made not to appear in chat (and therefore broadcast to other players) with the game rule . This also affects the notification of a pet's death. This does not affect whether death messages for villagers and renamed mobs appear in the game's logs.
+
+Java Edition
+Cactus
+<player> was pricked to death
+death.attack.cactus
+Appears when the player is killed because they were touching a cactus.
+<player> walked into a cactus while trying to escape <player/mob>
+death.attack.cactus.player
+Appears when the player is hurt by a player or mob, then killed by touching a cactus.
+
+Drowning
+<player> drowned
+death.attack.drown
+Appears when the player runs out of air underwater and is killed from drowning damage.
+Also appears in the game's log when a named blaze, enderman, strider, snow golem or bee takes lethal damage from being in water, and when a named fish, squid, glow squid or tadpole takes lethal damage from being out of water.
+<player> drowned while trying to escape <player/mob>
+death.attack.drown.player
+Appears when the player is hurt by a player or mob then dies from drowning.
+Also appears in the game's log when one of the aforementioned mobs is hurt by a player or mob, then dies from drowning.
+
+Drying out
+<entity> died from dehydration
+death.attack.dryout
+Appears when a tamed nautilus dies to being out of water.
+Also appears in the game's log when a named dolphin or axolotl dies to being out of water.
+<entity> died from dehydration while trying to escape <player/mob>
+death.attack.dryout.player
+Appears when a tamed nautilus is hurt by a player, then dies to being out of water.
+Also appears in the game's log when one of the aforementioned mobs is hurt by a player or mob, then dies to being out of water.
+
+Elytra
+<player> experienced kinetic energy
+death.attack.flyIntoWall
+Appears when the player is killed by hitting a wall while flying with elytra on.
+<player> experienced kinetic energy while trying to escape <player/mob>
+death.attack.flyIntoWall.player
+Appears when the player is hurt by a player or mob, then hits a wall while flying with elytra on.
+
+Explosions
+<player> blew up
+death.attack.explosion
+Appears when the player is killed by TNT activated by redstone mechanisms, fire, dispensed out from a dispenser, by an end crystal triggered by the ender dragon re-summoning sequence finishing, by a minecart with TNT that wasn't triggered by a player or mob, or by the explosion of a fireball or wither skull summoned with .
+<player> was blown up by <player/mob>
+death.attack.explosion.player
+Appears when the player is killed by a mob that exploded (e.g. creeper), including TNT inside a sulfur cube, by TNT activated by a player or mob, either by using flint and steel or a fire charge on the block or shooting it with an arrow that is on fire, by the explosion of an end crystal triggered by any entity, by the explosion of a minecart with TNT triggered by a player shooting it with an arrow that is on fire, or by the explosion of a fireball or wither skull shot by a player or mob.
+<player> was blown up by <player/mob> using <item>
+death.attack.explosion.player.item
+Appears in any of the cases for the previous death message, when the killer player or mob (if any) is holding a renamed item.
+<player> was killed by Made up of two translation strings: death.attack.badRespawnPoint.message and death.attack.badRespawnPoint.link.
+Appears when the player is killed by a bed exploding in the Nether or the End, or by a charged respawn anchor exploding in the Overworld or the End.
+Includes a click-event link to .
+
+Falling
+<player> hit the ground too hard
+death.attack.fall
+Appears when the player is killed by a less than 5 block fall, ender pearl damage, or falling while riding an entity that died due to fall damage.
+<player> hit the ground too hard while trying to escape <player/mob>
+death.attack.fall.player
+Appears when the player is hurt by a player or mob then killed by either a fall from less than 5 blocks, ender pearl damage, or when riding an entity that died due to fall damage.
+<player> fell from a high place
+death.fell.accident.generic
+Appears when the player is killed by a greater than 5 block fall.
+<player> fell off a ladder
+death.fell.accident.ladder
+Appears when the player is killed by falling after being on a ladder.
+<player> fell off some vines
+death.fell.accident.vines
+Appears when the player is killed by falling after being on a vine.
+<player> fell off some weeping vines
+death.fell.accident.weeping_vines
+Appears when the player is killed by falling after being on a weeping vine.
+<player> fell off some twisting vines
+death.fell.accident.twisting_vines
+Appears when the player is killed by falling after being on a twisting vine.
+<player> fell off scaffolding
+death.fell.accident.scaffolding
+Appears when the player is killed by falling after traversing up or down through scaffolding.
+If the player falls from scaffolding that doesn't have scaffolding below it, it just counts as a greater than 5 block fall ("fell from a high place").
+<player> fell while climbing
+death.fell.accident.other_climbable
+Appears when the player is killed by falling after being on a climbable block that is not one of the aforementioned ones.
+Only cave vines fall into this category in the vanilla game, however one can make more blocks climbable using data packs.
+Also appears when the player falls from any climbable block, changes dimension before dying, and then dies to fall damage.
+This assumes there being no climbable block in the exact same position in the dimension the player teleported to, as the climbable block the player fell from. For instance, if a player falls off a ladder at x=0, y=100, z=0 in the overworld and they teleport to the End before they die, it must be the case that the block at x=0, y=100, z=0 in the End is not climbable, for this death message to appear.
+If that block is climbable, then the death message for that block appears instead. In this example, if the block at those coordinates in the End is a vine (instead of a ladder), the death message <player> fell off some vines appears instead of <player> fell off a ladder.
+death.fell.accident.water before 1.16 was <player> fell out of water
+Appears when the player dies to fall damage in water, which is ordinarily impossible because water cancels all fall damage.
+Currently replicable  by:
+taking fall damage on a waterlogged slab in a minecart,
+using an ender pearl to leave a water body then taking fall damage,
+or by having a trident enchanted with an insanely high level of Riptide, then trying to use it inside deep water bodies.
+This death message is untranslated due to .
+Before 1.16, this message was translated as <player> fell out of the water.
+<player> was doomed to fall
+death.fell.killer
+Appears when the player takes any environmental damage (i.e. damage not caused by entities) other than void damage, then dies to a greater than 5 block fall.
+<player> was doomed to fall by <player/mob>
+death.fell.assist
+Appears when the player takes any damage caused by an entity, then dies to a greater than 5 block fall.
+This includes all entities, including non-mob entities, which means that, apart from a player or mob, <player/mob> in this case can also be any of the following, if the entity does not have a player or mob as its owner (if shot by a dispenser or summoned with ): arrow, spectral arrow, trident, fireball, small fireball, firework rocket, primed TNT, minecart with TNT, falling block (appears as "Falling <block name>").
+Lightning bolts would be included in the list if they didn't deal environmental damage.
+Thrown snowballs, eggs and ender pearls could theoretically also be included in the list, but they currently don't deal damage.
+Wither skulls could theoretically also be included in the list, but they deal environmental damage when they don't have an owner.
+Shulker bullets, thrown splash potions of harming and area effect clouds could theoretically also be included in the list, but strangely, the death message for dying to fall damage after being hit by one of those entities if they don't have an owner is <player> was doomed to fall.
+Llama spits could theoretically also be included in the list, but they do not deal damage when they don't have an owner.
+<player> was doomed to fall by <player/mob> using <item>
+death.fell.assist.item
+Appears when the player takes any damage caused directly or indirectly by a player or mob holding a renamed item, then dies to a greater than 5 block fall.
+<player> was impaled on a stalagmite
+death.attack.stalagmite
+Appears when the player falls on a pointed dripstone stalagmite and dies.
+<player> was impaled on a stalagmite while fighting <player/mob>
+death.attack.stalagmite.player
+Appears when the player is hurt by a player or mob, then falls on a stalagmite and dies.
+
+Falling blocks
+<player> was squashed by a falling anvil
+death.attack.anvil
+Appears when the player is killed by an anvil falling on their head.
+<player> was squashed by a falling block
+death.attack.fallingBlock
+Appears when the player is killed by a falling block (other than an anvil or pointed dripstone) modified to inflict damage.
+Is unobtainable in regular vanilla survival gameplay.
+<player> was skewered by a falling stalactite
+death.attack.fallingStalactite
+Appears when the player is killed by a falling stalactite.
+
+Fire
+<player> went up in flames
+death.attack.inFire
+Appears when the player is killed because they were in a fire source block.
+<player> walked into fire while fighting <player/mob>
+death.attack.inFire.player
+Appears when the player is hurt by a player or mob, then dies from being in a fire source block.
+<player> burned to death
+death.attack.onFire
+Appears when the player is killed because they were on fire, but not in a fire source block.
+Also appears in the game's log when a named snow golem dies because of being in a hot biome.
+<player> was burned to a crisp while fighting <player/mob>
+death.attack.onFire.player
+Appears when the player is hurt by a player or mob then killed because they were on fire.
+Also appears in the game's log when a named snow golem is hurt by a player or mob, then dies to the heat in a hot biome.
+
+Firework rockets
+<player> went off with a bang
+death.attack.fireworks
+Appears when the player is killed by the explosion of a firework rocket.
+<player> went off with a bang due to a firework fired from <item> by <player/mob>
+death.attack.fireworks.item
+Appears when the player is killed by the explosion of a firework rocket shot by a player or mob holding a renamed item.
+
+Lava
+<player> tried to swim in lava
+death.attack.lava
+Appears when the player is killed because they were in lava.
+<player> tried to swim in lava to escape <player/mob>
+death.attack.lava.player
+Appears when the player is hurt by a player or mob, then enters lava and dies from it.
+
+Lightning
+<player> was struck by lightning
+death.attack.lightningBolt
+Appears when the player is killed by a lightning bolt.
+<player> was struck by lightning while fighting <player/mob>
+death.attack.lightningBolt.player
+Appears when the player is hurt by a player or mob, then killed by a lightning bolt.
+
+Magma block
+<player> discovered the floor was lava
+death.attack.hotFloor
+Appears when the player is killed because they were standing on a magma block.
+<player> walked into the danger zone due to <player/mob>
+death.attack.hotFloor.player
+Appears when the player is hurt by a player or mob, then killed by magma block damage.
+<player> died because not just the floor is lava
+death.attack.sulfurCubeHot
+Appears when the player is killed by touching a sulfur cube with a magma block inside.
+<player/mob> showed <player> that not just the floor is lava
+death.attack.sulfurCubeHot.player
+Appears when the player is hurt by a player or mob, then killed by touching a sulfur cube with a magma block inside.
+<player/mob> showed <player> that not just the floor is lava using <item>
+death.attack.sulfurCubeHot.item
+Appears when the player is killed by touching a sulfur cube with a magma block inside holding a renamed item.
+
+Magic (instant damage, evoker fangs, guardian laser)
+<player> was killed by magic
+death.attack.magic
+Appears when the player is killed by Instant Damage given with , by an evoker fang summoned with  or by an arrow of harming shot from a dispenser or summoned with .
+Also appears in the game's log when a named hostile mob dies to magic damage dealt by an active conduit.
+<player> was killed by magic while trying to escape <player/mob>
+death.attack.magic.player
+Appears when the player is hurt by a player or mob, then killed by Instant Damage or an evoker fang that didn't originate from a player or mob.
+Also appears in the game's log when a named hostile mob is hurt by a player, then killed to magic damage dealt by an active conduit.
+<player> was killed by <player/mob> using magic
+death.attack.indirectMagic
+Appears when the player is killed by a potion or arrow of Harming shot by a player or mob, by an evoker fang summoned by an evoker or by the extra damage from a guardian's or elder guardian's laser.
+If the player was killed by a splash potion of Harming shot from a dispenser or summoned with , the death message is <player> was killed by Potion using magic.
+If the player was killed by the cloud created by a lingering potion of Harming shot from a dispenser or summoned with , the death message is <player> was killed by Area Effect Cloud using magic.
+<player> was killed by <player/mob> using <item>
+death.attack.indirectMagic.item
+Appears when the player is killed by one of the aforementioned ways but the player or mob is holding a renamed item during the player's death.
+
+Powder snow
+<player> froze to death
+death.attack.freeze
+Appears when the player is killed because they were in powder snow for too long.
+<player> was frozen to death by <player/mob>
+death.attack.freeze.player
+Appears when the player is hurt by a player or mob, then dies from freezing damage.
+
+Players and mobs
+<player> was slain by <player/mob>
+death.attack.mob / death.attack.player
+Appears when the player or mob is hurt by a player or mob and killed.
+This death message is actually two different death messages: <player> was slain by <mob> and <player> was slain by <player>.
+This means they can be customized completely independently of each other using resource packs.
+<player> was slain by <player> also appears when a parrot is fed a cookie.
+If the parrot was named, the message appears in the game's log. If it was tamed, the message is sent to its owner.
+<player> was slain by <mob> also appears when the player is killed by a shulker using a shulker bullet, a llama using its llama spit or a breeze using a wind charge.
+If the player was killed by a shulker bullet summoned with , the death message is <player> was slain by Shulker Bullet. This doesn't work with llama spits, since they don't deal damage when they don't have an owner.
+If the player was killed by a wind charge fired from a dispenser or summoned with , the death message is <player> was slain by Wind Charge.
+<player> was slain by <player/mob> using <item>
+death.attack.mob.item / death.attack.player.item
+Appears when the player is hurt by a player or mob holding a renamed item and killed.
+This death message is actually two different death messages: <player> was slain by <mob> using <item> and <player> was slain by <player> using <item>.
+This means they can be customized completely independently of each other using resource packs.
+<player> was slain by <player> using <item> also appears when a parrot is fed a cookie by a player holding a named item in their main hand.
+<player> was slain by <mob> using <item> also appears when the player is killed by a shulker holding a renamed item using a shulker bullet, a llama holding a renamed item using its llama spit or a breeze holding a renamed item using a wind charge.
+<player> was stung to death
+death.attack.sting
+Appears when the player is killed by a bee.
+<player> was stung to death by <player/mob> using <item>
+death.attack.sting.item
+Appears when the player is killed by a bee that was holding a renamed item during the player's death.
+<player> was obliterated by a sonically-charged shriek
+death.attack.sonic_boom
+Appears when the player is killed by a warden using its sonic boom.
+<player> was obliterated by a sonically-charged shriek while trying to escape <player/mob> wielding <item>
+death.attack.sonic_boom.item
+Appears when the player is killed by a warden holding a renamed item using its sonic boom.
+<player> was smashed by <player/mob>
+death.attack.mace_smash
+Appears when a player is killed by a mace smash attack.
+<player> was smashed by <player/mob> with <item>
+death.attack.mace_smash.item
+Appears when a player is killed by a renamed mace performing a smash attack.
+<player> was speared by <player/mob>
+death.attack.spear
+Appears when a player is killed by a player or mob using a spear.
+<player> was speared by <player/mob> using <item>
+death.attack.spear.item
+Appears when a player is killed by a player or mob using a renamed spear.
+
+Projectiles
+<player> was shot by <player/mob>
+death.attack.arrow
+Appears when the player is killed by an arrow shot by a player or mob using a bow or crossbow.
+When the player is killed by an arrow shot from a dispenser or summoned with , the death message is <player> was shot by Arrow/Spectral Arrow.
+<player> was shot by <player/mob> using <item>
+death.attack.arrow.item
+Appears when the player is killed by an arrow shot by a player or mob using a renamed bow or crossbow.
+<player> was pummeled by <player/mob>
+death.attack.thrown
+Is coded to appear when the player is killed by a snowball, egg or ender pearl shot by a player or mob. This is practically impossible, as these projectiles do not deal damage.
+Blazes take damage from snowballs, which means that naming a blaze and killing it with snowballs sends this message to the game's log.
+Theoretically, when the player is killed by a snowball or egg shot from a dispenser or summoned with , or an ender pearl summoned with , the death message is <player> was pummeled by Snowball/Thrown Egg/Thrown Ender Pearl.
+<player> was pummeled by <player/mob> using <item>
+death.attack.thrown.item
+Is coded to appear when the player is killed by a snowball, egg or ender pearl shot by a player or mob that is holding a renamed item during the player's death. This is impossible, as these projectiles do not deal damage. However, as stated above, blazes take damage from snowballs. If the killer in each case is holding a renamed item, this message appears instead.
+<player> was fireballed by <player/mob>
+death.attack.fireball
+Appears when the player is killed by a fireball shot by a player or mob.
+When the player is killed by a fireball shot from a dispenser or summoned with , the death message is <player> burned to death.
+<player> was fireballed by <player/mob> using <item>
+death.attack.fireball.item
+Appears when the player is killed by a fireball shot by a player or mob that was holding a renamed item during the player's death.
+<player> was shot by a skull from <player/mob>
+death.attack.witherSkull
+Appears when the player is killed by a wither skull shot by a player or mob (only possible with the wither).
+When the player is killed by a wither skull summoned with , the death message is <player> was killed by magic.
+<player> was shot by a skull from <player/mob> using <item>
+death.attack.witherSkull.item
+Appears when the player is killed by a wither skull shot by a player or mob that is holding a renamed item during the player's death.
+
+Starving
+<player> starved to death
+death.attack.starve
+Appears when the player plays in Hard or Hardcore and is killed by hunger damage because their hunger bar was at 0.
+Also appears in the game's log when a named vex takes damage after 30-119 seconds from when it was spawned and dies from it.
+<player> starved to death while fighting <player/mob>
+death.attack.starve.player
+Appears when the player plays in Hard or Hardcore and is hurt by a player or mob, then killed by hunger damage.
+Also appears in the game's log when a named vex dies to starvation after being hurt by a player or mob.
+
+Suffocation
+<player> suffocated in a wall
+death.attack.inWall
+Appears when the player is killed because they were inside of a non-transparent block.
+<player> suffocated in a wall while fighting <player/mob>
+death.attack.inWall.player
+Appears when the player is hurt by a player or mob, then killed by suffocation damage.
+<player> was squished too much
+death.attack.cramming
+Appears when the player is killed by the maxEntityCramming gamerule.
+<player> was squashed by <player/mob>
+death.attack.cramming.player
+Appears when the player is hurt by a player or mob, then killed by the maxEntityCramming gamerule.
+<player> left the confines of this world
+death.attack.outsideBorder
+Appears when the player is killed because they were outside the world border.
+<player> left the confines of this world while fighting <player/mob>
+death.attack.outsideBorder.player
+Appears when the player is hurt by a player or mob, then killed by world border damage.
+
+Sweet berry bushes
+<player> was poked to death by a sweet berry bush
+death.attack.sweetBerryBush
+Appears when the player is killed because they were in a sweet berry bush.
+<player> was poked to death by a sweet berry bush while trying to escape <player/mob>
+death.attack.sweetBerryBush.player
+Appears when the player is hurt by a player or mob, then enters a sweet berry bush and dies from it.
+
+Thorns enchantment
+<player> was killed while trying to hurt <player/mob>
+death.attack.thorns
+Appears when the player is killed because they hurt a guardian, elder guardian, or a player or mob wearing armor enchanted with Thorns.
+<player> was killed by <item> while trying to hurt <player/mob>
+death.attack.thorns.item
+Appears when the player is killed because they hurt a guardian, elder guardian, or a player or mob wearing armor enchanted with Thorns and holding a renamed item.
+
+Trident
+<player> was impaled by <player/mob>
+death.attack.trident
+Appears when the player is killed by a trident shot by a player or mob.
+When the player is killed by a trident shot from a dispenser or summoned with , the death message is <player> was impaled by Trident.
+<player> was impaled by <player/mob> with <item>
+death.attack.trident.item
+Appears when the player is killed by a trident shot by a player or mob that was holding a renamed item during the player's death.
+
+Void
+<player> fell out of the world
+death.attack.outOfWorld
+Appears when the player is killed by being 64 blocks below the lowest point where blocks can be placed.
+<player> didn't want to live in the same world as <player/mob>
+death.attack.outOfWorld.player
+Appears when the player is hurt by a player or mob, then killed by the void.
+
+Wither effect
+<player> withered away
+death.attack.wither
+Appears when the player is killed by the Wither status effect.
+<player> withered away while fighting <player/mob>
+death.attack.wither.player
+Appears when the player is hurt by a player or mob, then killed by the Wither status effect.
+
+Generic death
+<player> died
+death.attack.generic
+Is coded to appear only when the player achieves a death that is not assigned to a damage type (magic, cactus etc.) or is assigned to the generic damage type. Currently replicable in 1.17.1+ by naming a bee with a name tag, letting it sting a player, waiting for it to die and looking at the game's log.
+<player> died because of <player/mob>
+death.attack.generic.player
+Is coded to appear only when the player is hurt by a player or mob then achieves a death that is not assigned to a damage type or is assigned to the generic damage type. Currently replicable in 1.17.1+ by naming a bee with a name tag, letting it sting a player, punching it while waiting for it to die naturally and looking at the game's log.
+<player> was killed
+death.attack.genericKill
+Appears when the player is killed using .
+<player> was killed while fighting <player/mob>
+death.attack.genericKill.player
+Appears when the player is hurt by a player or mob, then killed using .
+
+Crash prevention
+<player> was killed by even more magic
+death.attack.even_more_magic
+Has a hover event, with text Actually, message was too long to deliver fully. Sorry! Here's a stripped version: <message>
+Appears when the regular death message is too large to send. This appears only on multiplayer servers and cannot appear in regular gameplay as it requires any variable of the death message (attacker, victim or item held) to exceed more than roughly 150,000 characters. It also cannot appear in chat, but only on the client side death screen message under the "You Died!" title.
+
+Full list, including unsendable death messages
+
+There are four types of context in which death messages can appear:
+The base environmental message, which appears when the damage is dealt without any entity being involved. Damage types whose base message contains the  variable don't fill in any of the variables, resulting in the messages containing "%1$s" and "%2$s".
+The base entity message, which appears when the damage is dealt directly by a player or mob. The translation for this message is always the same as the base environmental message. Damage types whose base message contains the  variable now fill in all variables, while base messages that don't contain that variable are completely indistinguishable from base environmental messages, though they are considered different messages and should not be confused with the base environmental messages.
+The  message, which appears when the damage is dealt without any entity in mind, right after damage by a player or mob was dealt to the victim.
+The  message, which appears in place of the base entity message when the attacker was holding a renamed item during the victim's death.
+The  damage type shows a different set of messages if the height the victim fell from was greater than 5 blocks. Those messages are documented above.
+The  damage type is excluded from the table, as it shows the exact same death message in every context without changing any variables.
+
+The following table contains all death messages that can appear. Death messages in regular font are documented above, while messages in italics can be achieved only with  or the damage_type data component, and thus are considered unsendable.
+Damage type  Base message (environmental)  Base message (by entities)   message   message   %1$s was shot by %2$s  <player> was shot by <player/mob>  <player> was shot by <player/mob> while trying to escape <player/mob> <player> was shot by <player/mob> using <item>   %1$s was pricked to death  <player> was pricked to death  <player> walked into a cactus while trying to escape <player/mob>  <player> was walked into a cactus while trying to escape <player/mob> using <item>   <player> went up in flames  <player> went up in flames  <player> walked into fire while fighting <player/mob>  <player> was  went up in flames by <player/mob> using <item>   <player> was squished too much  <player> was squished too much  <player> was squashed by <player/mob>  death.attack.cramming.item   <player> was roasted in dragon's breath  <player> was roasted in dragon's breath  <player> was roasted in dragon's breath by <player/mob>  death.attack.dragonBreath.item   <player> drowned  <player> drowned  <player> drowned while trying to escape <player/mob>  death.attack.drown.item   <player> died from dehydration  <player> died from dehydration  <player> died from dehydration while trying to escape <player/mob>  death.attack.dryout.item   <player> hit the ground too hard  <player> hit the ground too hard  <player> hit the ground too hard while trying to escape <player/mob>  death.attack.fall.item   <player> blew up  <player> blew up  <player> was blown up by <player/mob>  death.attack.explosion.item   <player> hit the ground too hard  <player> hit the ground too hard  <player> hit the ground too hard while trying to escape <player/mob>  death.attack.fall.item   <player> was squashed by a falling anvil  <player> was squashed by a falling anvil  <player> was squashed by a falling anvil while fighting <player/mob>  death.attack.anvil.item   <player> was squashed by a falling block  <player> was squashed by a falling block  <player> was squashed by a falling block while fighting <player/mob>  death.attack.fallingBlock.item   <player> was skewered by a falling stalactite  <player> was skewered by a falling stalactite  <player> was skewered by a falling stalactite while fighting <player/mob>  death.attack.fallingStalactite.item   %1$s was fireballed by %2$s  <player> was fireballed by <player/mob>  death.attack.fireball.item  <player> was fireballed by <player/mob> using <item>   <player> went off with a bang  <player> went off with a bang  <player> went off with a bang while fighting <player/mob>  <player> went off with a bang due to a firework fired from <item> by <player/mob>   <player> experienced kinetic energy  <player> experienced kinetic energy  <player> experienced kinetic energy while trying to escape <player/mob>  death.attack.flyIntoWall.item   <player> froze to death  <player> froze to death  <player> was frozen to death by <player/mob>  death.attack.freeze.item   <player> died  <player> died  <player> died because of <player/mob>  death.attack.generic.item   <player> was killed  <player> was killed  <player> was killed while fighting <player/mob>  death.attack.genericKill.item   <player> discovered the floor was lava  <player> discovered the floor was lava  <player> walked into the danger zone due to <player/mob>  death.attack.hotFloor.item   <player> went up in flames  <player> went up in flames  <player> walked into fire while fighting <player/mob>  death.attack.inFire.item   <player> suffocated in a wall  <player> suffocated in a wall  <player> suffocated in a wall while fighting <player/mob>  death.attack.inWall.item   %1$s was killed by %2$s using magic  <player> was killed by <player/mob> using magic  death.attack.indirectMagic.player  <player> was killed by <player/mob> using <item>   <player> tried to swim in lava  <player> tried to swim in lava  <player> tried to swim in lava to escape <player/mob>  death.attack.lava.item   <player> was struck by lightning  <player> was struck by lightning  <player> was struck by lightning while fighting <player/mob>  death.attack.lightningBolt.item   %1$s was smashed by %2$s  <player> was smashed by <player/mob>  death.attack.mace_smash.player  <player> was smashed by <player/mob> with <item>   <player> was killed by magic  <player> was killed by magic  <player> was killed by magic while trying to escape <player/mob>  death.attack.magic.item   %1$s was slain by %2$s  <player> was slain by <player/mob>  death.attack.mob.player  <player> was slain by <player/mob> using <item>   %1$s was slain by %2$s  <player> was slain by <player/mob>  death.attack.mob.player  <player> was slain by <player/mob> using <item>   %1$s was slain by %2$s  <player> was slain by <player/mob>  death.attack.mob.player  <player> was slain by <player/mob> using <item>   <player> burned to death  <player> burned to death  <player> was burned to a crisp while fighting <player/mob>  <player> was burned to a crisp while fighting <player/mob> wielding <item>   <player> fell out of the world  <player> fell out of the world  <player> didn't want to live in the same world as <player/mob>  death.attack.outOfWorld.item   <player> left the confines of this world  <player> left the confines of this world  <player> left the confines of this world while fighting <player/mob>  death.attack.outsideBorder.item   %1$s was slain by %2$s  <player> was slain by <player/mob>  death.attack.player.player  <player> was slain by <player/mob> using <item>   %1$s was blown up by %2$s  <player> was blown up by <player/mob>  death.attack.explosion.player.player  <player> was blown up by <player/mob> using <item>   <player> was obliterated by a sonically-charged shriek  <player> was obliterated by a sonically-charged shriek  <player> was obliterated by a sonically-charged shriek while trying to escape <player/mob>  <player> was obliterated by a sonically-charged shriek while trying to escape <player/mob> wielding <item>   %1$s was speared by %2$s  <player> was speared by <player/mob>  death.attack.spear.player  <player> was speared by <player/mob> using <item>   %1$s was slain by %2$s  <player> was slain by <player/mob>  death.attack.mob.player  <player> was slain by <player/mob> using <item>   <player> was impaled on a stalagmite  <player> was impaled on a stalagmite  <player> was impaled on a stalagmite while fighting <player/mob>  death.attack.stalagmite.item   <player> starved to death  <player> starved to death  <player> starved to death while fighting <player/mob>  death.attack.starve.item   <player> was stung to death  <player> was stung to death  <player> was stung to death by <player/mob>  <player> was stung to death by <player/mob> using <item>   <player> died because not just the floor is lava  <player> died because not just the floor is lava  <player/mob> showed <player> that not just the floor is lava  <player/mob> showed <player> that not just the floor is lava using <item>   <player> was poked to death by a sweet berry bush  <player> was poked to death by a sweet berry bush  <player> was poked to death by a sweet berry bush while trying to escape <player/mob>  death.attack.sweetBerryBush.item   %1$s was killed while trying to hurt %2$s  <player> was killed while trying to hurt <player/mob>  death.attack.thorns.player  <player> was killed by <item> while trying to hurt <player/mob>   %1$s was pummeled by %2$s  <player> was pummeled by <player/mob>  death.attack.thrown.player  <player> was pummeled by <player/mob> using <item>   %1$s was impaled by %2$s  <player> was impaled by <player/mob>  death.attack.trident.player  <player> was impaled by <player/mob> with <item>   <player> burned to death  <player> burned to death  <player> was burned to a crisp while fighting <player/mob>  <player> was burned to a crisp while fighting <player/mob> wielding <item>   %1$s was slain by %2$s  <player> was slain by <player/mob>  death.attack.mob.player  <player> was slain by <player/mob> using <item>   <player> withered away  <player> withered away  <player> withered away while fighting <player/mob>  death.attack.wither.item   %1$s was shot by a skull from %2$s  <player> was shot by a skull from <player/mob>  death.attack.witherSkull.player  <player> was shot by a skull from <player/mob> using <item>
+
+There are also a few other death messages which are unsendable:
+<player> fell too far and was finished by <player/mob>
+death.fell.finish
+Appears when the player takes damage that isn't fall or void damage, falls at least 5 blocks then takes fall damage dealt directly by a player or mob, which is only possible through the use of .
+<player> fell too far and was finished by <player/mob> using <item>
+death.fell.finish.item
+Appears in the same situation as the previous message but instead when the player or mob that deals the fall damage is holding a renamed item.
+
+Bedrock Edition
+<player> was slain by Arrow
+Appears when the player is killed by an arrow shot from a dispenser or summoned with .
+<player> was shot by <player/mob>
+Appears when the player is killed by an arrow shot by a player or mob.
+<player> was shot by <player> using <item>
+Appears when the player is killed by an arrow shot by a player holding a renamed item.
+<player> was pricked to death
+Appears when the player is killed because they were touching a cactus.
+<player> walked into a cactus whilst trying to escape <player/mob>
+Appears when the player is hurt by a player or mob then killed by touching a cactus.
+<player> drowned
+Appears when the player runs out of air underwater and is killed from drowning damage.
+<player> drowned whilst trying to escape <player/mob>
+Appears when the player is hurt by a player or mob then dies from drowning.
+<player> experienced kinetic energy
+Appears when the player is killed by hitting a wall while flying with elytra on.
+<player> experienced kinetic energy whilst trying to escape <player/mob>
+Appears when the player is hurt by a player or mob then hits a wall while flying with elytra on.
+<player> blew up
+Appears when the player is killed by an end crystal, a bed exploding in the Nether or the End, or by a charged respawn anchor exploding in the Overworld or the End.
+<player> was blown up by Block of TNT
+Appears when the player is killed by TNT activated by redstone mechanisms, fire, or dispensed out from a dispenser.
+<player> was blown up by <player/mob>
+Appears when the player is killed by an entity that exploded, a ravager's roar, or by TNT activated by a player or mob.
+<player> was blown up by <player> using <item>
+Appears when the player is killed by an entity that exploded, or by TNT activated by a player holding a renamed item.
+<player> was poked to death by a sweet berry bush
+Appears when the player is killed because they were in a sweet berry bush.
+<player> was poked to death by a sweet berry bush whilst trying to escape <player/mob>
+Appears when the player is hurt by a player or mob, then enters a sweet berry bush.
+<player> hit the ground too hard
+Appears when the player is killed by a less than 5 block fall, ender pearl damage, or falling while riding an entity that died due to fall damage.
+<player> hit the ground too hard whilst trying to escape <player/mob>
+Appears when the player is hurt by a player or mob then killed by either a fall from less than 5 blocks, ender pearl damage, or when riding an entity that died due to fall damage.
+<player> fell from a high place
+Appears when the player is killed by a greater than 5 block fall.
+<player> fell off a ladder
+Appears when the player is killed by falling after being on a ladder.
+<player> fell off some vines
+Appears when the player is killed by falling after being on a vine.
+<player> fell off some weeping vines
+Appears when the player is killed by falling after being on a weeping vine.
+<player> fell off some twisting vines Appears when the player is killed by falling after being on a twisting vine.<player> fell off scaffolding Appears when the player is killed by falling after traversing up or down through scaffolding.<player> fell while climbing Appears when the player is killed by falling after being on a climbable block that is not one of the aforementioned ones.<player> was doomed to fall Appears when the player takes any environmental damage (i.e. damage not caused by entities) other than void damage, then dies to a greater than 5 block fall.<player> was doomed to fall by <player/mob> Appears when the player takes any damage caused by an entity then dies to a greater than 5 block fall.<player> was doomed to fall by <player> using <item>
+Appears when the player takes any damage caused directly or indirectly by a player holding a renamed item, then dies to a greater than 5 block fall.
+<player> was squashed by a falling anvil
+Appears when the player is killed by an anvil falling on their head.
+<player> was squashed by a falling block
+Appears when the player is killed by a falling block (other than an anvil) modified to inflict damage.
+<player> went up in flames
+Appears when the player is killed because they were in a fire source block.
+<player> walked into fire whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob, then enters a fire source block.
+<player> burned to death
+Appears when the player is killed because they were on fire, but not in a fire source block.
+<player> was burnt to a crisp whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob, then killed because they were on fire.
+<player> went off with a bang
+Appears when the player is killed by the explosion of a firework rocket.
+<player> went off with a bang due to a firework fired from <item> by <player>
+Appears when the player is killed by the explosion of a firework rocket shot by a player holding a renamed item.
+<player> tried to swim in lava
+Appears when the player is killed because they were in lava.
+<player> tried to swim in lava to escape <player/mob>
+Appears when the player is hurt by a player or mob, then enters lava.
+<player> was struck by lightning
+Appears when the player is killed by a lightning bolt.
+<player> was struck by lightning whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob, then killed by a lightning bolt.
+<player> discovered the floor was lava
+Appears when the player is killed because they were standing on a magma block.
+<player> walked into the danger zone due to <player/mob>
+Appears when the player is hurt by a player or mob, then killed by magma block damage.
+<player> was killed by magic
+Appears when the player is killed by a potion of Harming shot from a dispenser, by Instant Damage given with  or by an evoker fang summoned with .
+<player> was killed by magic whilst trying to escape <player/mob>
+Appears when the player is hurt by a player or mob then killed by Instant Damage that didn't originate from a player or mob.
+<player> was killed by <player/mob> using magic
+Appears when the player is killed by a potion or arrow of Harming shot by a player or mob, or by an evoker fang summoned by an evoker.
+<player> was killed by <player> using <item>
+Appears when the player is killed by a potion or arrow of Harming shot by a player holding a renamed item.
+<player> was slain by <player/mob>
+Appears when the player is hurt by a player or mob and killed.
+This death message is actually two different death messages: <player> was slain by <mob> and <player> was slain by <player>.
+<player> was slain by <player> using <item>
+Appears when the player is hurt by a player holding a renamed item and killed.
+<player> was slain by Small Fireball
+Appears when the player is killed by a fireball shot from a dispenser.
+<player> starved to death
+Appears when the player plays on Hard difficulty and is killed by hunger damage because their hunger bar was at 0.
+<player> starved to death whilst fighting <player/mob>
+Appears when the player plays on Hard difficulty and is hurt by a player or mob then killed by hunger damage.
+<player> suffocated in a wall
+Appears when the player is killed because they were inside of a non-transparent block.
+<player> suffocated in a wall whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob then killed by suffocation damage.
+<player> was killed trying to hurt <player/mob>
+Appears when the player is killed because they hurt a guardian, elder guardian, or a player or mob wearing armor enchanted with Thorns.
+<player> was killed by <item> trying to hurt <player>
+Appears when the player is killed because they hurt a player wearing armor enchanted with Thorns holding a renamed item.
+<player> was impaled to death by <player/mob>
+Appears when the player is killed by a trident shot by a player or mob, or from a dispenser or summoned with .
+<player> was impaled to death by <player> with <item>
+Appears when the player is killed by a trident shot by a player holding a renamed item.
+<player> fell out of the world
+Appears when the player is killed by being more than 18 blocks below the bottom of the build-able world.
+<player> didn't want to live in the same world as <player/mob>
+Appears when the player is hurt by a player or mob then killed by the void.
+<player> withered away
+Appears when the player is killed by the wither status effect.
+<player> withered away whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob, then killed by the wither status effect.
+<player> died
+Is coded to appear only when the player achieves a death that is not assigned to a damage type (magic, cactus etc.) or is assigned to the generic damage type.
+<player> died because of <player/mob>
+Is coded to appear only when the player is hurt by a player or mob then achieves a death that is not assigned to a damage type or is assigned to the generic damage type.
+<player> was killed
+Appears when the player is killed by .
+<player> was killed whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob, then killed by .
+<player> was fireballed by <player/mob>
+Appears when the player is killed by a fireball shot by a player or mob.
+<player> was sniped by <player/mob>
+Appears when the player is killed by a shulker bullet shot by a shulker
+<player> was spitballed by <player/mob>
+Appears when the player is killed by a llama spit shot by a llama.
+<player> froze to death
+Appears when the player is killed because they were in powder snow for too long.
+<player> was frozen to death by <player/mob>
+Appears when the player is hurt by a player or mob, then dies from freezing damage.
+<player> was skewered by a falling stalactite
+Appears when the player is killed by falling stalactite.
+<player> was impaled on a stalagmite
+Appears when the player falls on a stalagmite and dies.
+<player> was impaled on a stalagmite whilst fighting <player/mob>
+Appears when the player is hurt by a player or mob, then falls on a pointed dripstone and dies.
+<player> was obliterated by a sonically-charged shriek
+Appears when the player is killed by a warden using its sonic boom.
+<player> was obliterated by a sonically-charged shriek whilst trying to escape <player/mob>
+Appears when the player is killed by a warden using its sonic boom after being hurt by a player or mob.
+
+<player> was obliterated by a sonically-charged shriek whilst trying to escape <player/mob> wielding <item>
+Appears when the player is killed by a warden holding a renamed item using its sonic boom after being hurt by a player or mob.
+
+Drying out
+<entity> died from dehydration
+death.attack.dryout
+Appears when a tamed nautilus dies to being out of water.
+Also appears in the game's log when a named dolphin or axolotl dies to being out of water.
+
+Miscellaneous
+
+Death messages that are not included in the current versions of the game.
+
+April Fools' versions
+These death messages existed only in April Fools' versions of the game.
+
+3D Shareware v1.34
+<player> was too soft for this world
+Appeared when the player was in "Obligatory nightmare mode" and was killed by the constant damage they took there.
+<player> was too soft for this world (<player/mob> helped)
+Appeared when the player was in "Obligatory nightmare mode", was hurt by a player or mob and was killed by the constant damage they took there.
+
+23w13a_or_b
+Asphyxiation
+<player> experienced the dark side of the moon
+Appeared when the player ran out of air on the moon and died of asphyxiation.
+death.attack.onMoon.player
+Appeared when the player was hurt by a player or mob then died of asphyxiation on the moon.
+As with all other damage types on the table above, this damage type () also had the death message death.attack.onMoon.item, which could only appear when using the  command.
+<player> was turned into gold
+Appeared when the player was turned into gold by another player while the rule  was approved.
+The damage type that caused this death message was special, meaning it didn't have any variants of the death message and thus it appeared no matter what attacked the player before they died.
+
+24w14potato
+<player> held the hot potato for too long.
+Appeared when the player died from holding a hot potato.
+<player> held the hot potato for too long while trying to escape <player/mob>
+Appeared when the player was hurt by a player or mob then died from holding a hot potato.
+As with all other damage types on the table above, this damage type () also had the death message death.attack.potato_heat.item, which could only appear when using the  command.
+<player> was killed by a bad-tempered potato
+Appeared when the player stood on a potato battery for too long, was shot by a vicious potato or tried to hurt a Mega Spud while it had its forcefield around it.
+<player> was killed by a bad-tempered potato while trying to escape <player/mob>
+Appeared when the player was hurt by a player or mob then died to a potato battery, or a vicious potato, or a Mega Spud's forcefield.
+As with all other damage types on the table above, this damage type () also had the death message death.attack.potato_magic.item, which could only appear when using the  command.
+
+25w14craftmine
+<player> was devoured
+Appeared when the player was eaten by a frog when the "Wednesday Frogs" mine ingredient is active.
+<player> was devoured by <player/mob> using <item>
+Appeared when the player was eaten by a frog holding a renamed item when the "Wednesday Frogs" mine ingredient is active.
+As with all other damage types on the table above, this damage type () also had the death message <player> was devoured by <player/mob> ( message), which could only appear when using the  command.
+
+Scrapped system
+snapshots 13w02a through 13w04a, a complicated system existed to show death messages for when the player fell to their death or fell and was killed by something else.
+
+There were two types of messages:
+"<player> <first>",
+"<player> <first> and <last>".
+
+<first> could be:
+fell (off a ladder|off some vines|out of the water|from a high place)
+was (shot|pummeled|blown|fireballed|knocked) (off a ladder|off some vines|out of the water|from a high place)
+was (shot|pummeled|blown|fireballed|knocked) (off a ladder|off some vines|out of the water|from a high place) by <player/mob>
+
+<last> could be:
+into a pool of lava
+fell out of the world
+into a patch of fire
+into a patch of cacti
+got finished off by <player/mob>
+got finished off by <player/mob> using <item>
+got finished off using <item>
+
+There were 352 different death messages (416 in the en_US.lang file, because the verb "blown" existed twice).
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Death messages obtained through PvE means are generally grammatically incorrect due to the lack of a preceding "a" before the name of the killer.
+
+Gallery
+
+Notes
+
+References
+
+Navigation
+
+Category:Gameplay
+
+es:Mensajes de muerte
+ja:死亡メッセージ
+lzh:訃
+nl:Overlijdensbericht
+pt:Mensagens de morte
+zh:死亡消息

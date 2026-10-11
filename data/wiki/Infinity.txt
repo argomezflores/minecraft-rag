@@ -1,0 +1,47 @@
+TITLE: Infinity
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Infinity
+---
+Infinity is an enchantment applied to bows that prevents consumption of arrows, except for spectral arrows or tipped arrows.
+
+Obtaining
+Infinity can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagersIf Villager Trade Rebalance is turned on, only desert librarian villagers can trade this enchantment., and non-village structure loot.
+
+Usage
+A bow enchanted with Infinity can be used to shoot unlimited arrows as long as the player's inventory contains at least one arrow. Fired arrows cannot be retrieved except in Creative mode (in which they are erased instead of added to the player's inventory).
+
+Infinity has no effect on tipped and spectral arrows; they are still consumed as usual.
+
+Specific cases
+If Infinity is applied to a crossbow by use of commands or an anvil in Creative, the enchantment functions when firing arrows but not when firing firework rockets. If Infinity is applied to a trident by use of commands or an anvil in Creative, the enchantment does not function.
+
+Incompatibilities
+Mending and Infinity are mutually exclusive. However, if combined with commands, both enchantments function as normal.
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+de:Unendlichkeit
+es:Infinidad
+fr:Infinité
+ja:無限
+pt:Infinidade
+ru:Бесконечность
+th:ไม่จำกัด
+zh:无限

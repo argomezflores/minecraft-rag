@@ -1,0 +1,460 @@
+TITLE: Shader
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Shader
+---
+Shaders are used to define the game's rendering of certain elements.
+
+Java Edition
+, two distinct kinds of shaders are used: core shaders and post-processing shaders. Core shaders are used to render fundamental parts of the game such as entities and terrain, while post-processing shaders are used to apply visual effects to the screen after core shaders have ran.
+
+Examples of post-processing shaders include the menu background blur, certain mob vision types as seen in spectator, the Fabulous! graphics setting's fixed handling of translucent object, and the glowing status effect.
+
+Shaders are written in the OpenGL Shading Language (GLSL). Each shader program comes in two parts, the vertex and fragment shader. Vertex shaders define the positions of individual vertices, whereas fragment shaders define the final color of a single render fragment. For example, vertex shaders are often used to create waving foliage and water, and fragment shaders can be used to add effects like bloom, god rays, and blur. In Minecraft, vertex shaders must use the extension , and fragment shaders .
+
+Shader programs are stored in the  directory of client.jar, and can be replaced with a resource pack. Note that if any error occurs when loading the shaders, the resource pack is disabled and fabulous graphics mode is turned off.
+
+Core shaders
+
+Core shaders are used to render almost everything in the game, including terrain, entities, GUI elements, etc. The shader programs for core shaders are located in the assets/<namespace>/shaders/core directory of a resource pack.
+
+Some objects are not drawn using shaders, this includes:
+The sky in the nether and bottom half of the overworld. These are the OpenGL clear color which is set to the same value as the FogColor uniform
+
+List of core shaders
+A list of all core shaders can be found by expanding the header below, listing descriptions of what each shader is responsible for, as well as what uniforms, samplers, and define directives are available to each shader.
+
+Name Used for Sample images Available uniforms blocks Available samplers.
+All samplers are of type sampler2d unless otherwise specified Define directivesanimate_sprite_blitRenders non-interpolated texture animations, as well as any non-animated sprite to a texture atlas.
+Uses the core/animate_sprite.vsh vertex program.SpriteAnimationInfoSprite - The next animation frameNone present.animate_sprite_interpolateRenders interpolated texture animations to a texture atlas.
+Uses the core/animate_sprite.vsh vertex program.SpriteAnimationInfoCurrentSprite - The current animation frame
+
+NextSprite - The next animation frameNone present.blit_screenCopies one buffer to another. Used for the Glowing effect.
+Uses the core/screenquad.vsh vertex program.None present.Sampler0 - The buffer to copy from.None present.blockRenders blocks that aren't part of chunk meshes such as falling sand, blocks being moved by a piston, or pistons while moving a block. thumbDynamicTransforms
+
+Fog
+
+ProjectionSampler0 - The blocks atlas.
+
+Sampler2 - The lightmap.ALPHA_CUTOUT - Minimum opacity before pixels are discarded, if not defined no pixels get discarded. This is defined as 0.5 for cutout textures, 0.1 for translucent textures, and not defined for solid textures.debug_pointUsed for some debug renderers
+Uses the core/position_color.fsh fragment program.DynamicTransforms
+
+ProjectionNone present.None present.entityRenders most entities including but not limited to:
+Mobs
+End crystal beams
+Block entities that use special rendering such as banners and chests, both in the world and in guis
+Equipment and other overlays such as the charged creeper energy swirls
+Experience orbsthumbDynamicTransforms
+
+Fog
+
+Lighting
+
+ProjectionSampler0 - The base texture of the entity.
+
+Sampler1 - The red damage indicator overlay.
+
+Sampler2 - The lightmap.
+
+DissolveMaskSampler - An alpha mask to use when the DISSOLVE define is set.ALPHA_CUTOUT - Minimum opacity before pixels are discarded, if not defined no pixels get discarded. This is defined as 0.1 for cutout and translucent textures, and not defined for solid textures.
+
+APPLY_TEXTURE_MATRIX - Whether or not the uv should be offset by the TextureMat uniform.
+
+EMISSIVE - Whether or not lighting should be applied to the entity.
+
+NO_CARDINAL_LIGHTING - Whether or not directional shading should be applied.
+
+NO_OVERLAY - Whether or not the red damage tint should be applied.
+
+PER_FACE_LIGHTING - Whether or not lighting should be calculated seperately for the front and back quad faces.
+
+DISSOLVE - Whether or not the DissolveMaskSampler should be used as an alpha mask.glintRenders the enchantment glint on items, equipment, etc.thumbDynamicTransforms
+
+Fog
+
+Globals
+
+ProjectionSampler0 - The enchantment glint texture.None present.guiRenders flat colored gui elements including but not limited to:
+Chat and F3 screen text background
+Advancement screen lines and background darken effect
+Background of resource/datapack screen items
+Background of selected world/server in world/server screens
+Loading screen background
+Selected language in language menu
+Selected statistic in statistics menu
+Inventory screen backgrounds
+World loading progress
+Text background on "Saving world" and similar screensthumb
+thumbDynamicTransforms
+
+ProjectionNone present.None present.itemRenders item models in various contexts, such as when dropped on the ground, held in an entities hand, in a display entity, etcthumbDynamicTransforms
+
+Fog
+
+Lighting
+
+ProjectionSampler0 - The items or blocks atlas depending on the model currently being rendered.
+
+Sampler2 - The lightmap.ALPHA_CUTOUT - Minimum opacity before pixels are discarded, if not defined no pixels get discarded. This is defined as 0.1 for cutout and translucent textures, and not defined for solid textures.lightmapRenders the lightmap which is used by other shaders to determine how bright or dark parts of the world should be.
+Uses the core/screenquad.vsh vertex program.thumb|In this image the lightmap shader outputs a horizontal gradient from black to red
+thumb|Here the lightmap has been modified to output a gradient from black to red horizontally, and black to green vertically. A mod has been used to display the output of this shader to the top left of the screen for a clearer visualisationLightmapInfoNone present.None present.oit_composite Responsible for composisiting OIT coefficients when Improved Transparency is enabled.
+
+Uses the core/screenquad.vsh vertex program.ProjectionSampler0
+
+Sampler2
+
+DepthBoundsSamplerNone present.panoramaRenders the title screen panorama cubemap.thumbDynamicTransforms
+
+ProjectionSampler0 (samplerCube) - A cubemap sampler containing all 6 panorama images.None present.particleRenders all particle effects. Also renders the rain and snow weather effects.thumbDynamicTransforms
+
+Fog
+
+ProjectionSampler0 - The particles or blocks atlas, depending on the particle that is being rendered. If rendering a weather effect then this is the corresponding texture for that effect.
+
+Sampler2 - The lightmap.None present.position_colorRenders the lower half of the sky at sunrise and sunset. Also renders the F3 debug pie and chunk borders.thumb
+thumbDynamicTransforms
+
+ProjectionNone present.None present.position_tex_colorRenders some miscellaneous textured things including but not limited to:
+The end skybox
+GUI buttons, backgrounds, tooltips, icons etc
+Pre-rendered items and entities in GUIs (see the Render process section for more information)
+World icons, server icons, resourcepack icons, datapack icons, etc
+HUD elements such as the hotbar, crosshair, health hearts, tab list heads, etc
+The Mojang and Minecraft logos
+Fire overlay
+Camera overlay effects such as the vignette, pumpkin blur, freezing effect, etcthumb
+thumb|In this image, the square to the right is a prerendered item being drawn onto a quadDynamicTransforms
+
+ProjectionSampler0 - For most gui widgets and icons, this is the gui atlas. For world, resourcepack, etc icons, mojang logo, camera overlays, or other non-gui things this is the texture of the object being rendered.None present.position_texRenders celestial bodies including the sun, moon, and end flashes.DynamicTransforms
+
+ProjectionSampler0 - The celestials atlasNone present.positionHandles depth for the ender dragon's death rays.DynamicTransforms
+
+Fog
+
+ProjectionNone present.None present.rendertype_beacon_beamRenders the beacon and end gateway beams.thumbDynamicTransforms
+
+Fog
+
+ProjectionSampler0 - The texture of the current part of the beam being rendered.None present.rendertype_clouds (renamed to clouds )Renders the clouds.thumbCloudInfo
+
+DynamicTransforms
+
+Fog
+
+ProjectionCloudFaces (isamplerBuffer) - Data about cloud facesNone present.rendertype_crumblingRenders the block breaking animation.thumbDynamicTransforms
+
+Fog - Although not explicitly defined in the code this can be used
+
+ProjectionSampler0 - The texture for current stage of the block breaking animation.None presentrendertype_end_portalRenders starfield objectsthumbDynamicTransforms
+
+Fog
+
+Globals
+
+ProjectionSampler0 - The end sky texture textures/environment/end_sky.png.
+
+Sampler1 - The end portal stars texture textures/entity/end_portal.png.PORTAL_LAYERS - The amount of star layers to render.rendertype_entity_shadowRenders the shadow that appears under most entities.thumb|Highlighted in orange is where the shadow is normally visible in vanillaDynamicTransforms
+
+Fog
+
+ProjectionSampler0 - The shadow texture textures/misc/shadow.png.None present.rendertype_leashRenders leads that are attached to entities in the world.thumbDynamicTransforms
+
+Fog
+
+ProjectionSampler2 - The lightmap.None present.rendertype_lightningRenders lightning bolts and the ender dragon's death rays.thumb
+thumbDynamicTransforms
+
+Fog
+
+ProjectionNone present.None present.rendertype_linesRenders all types of lines including:
+The block outline
+Entity debug hitboxes
+The F3 screen crosshair
+Structure and test block bounding boxesthumbDynamicTransforms
+
+Fog
+
+Globals
+
+ProjectionNone present.None present.rendertype_outlineRenders a flat colored outline of entities which have the glowing effect.
+The color of this is based on the team the entity is in, or the glow color override for display entities, which is passed to the shader via the Color vertex attribute.
+
+The output of this shader is saved to a buffer and then later used in the entity_outline post effect to create the full glowing effect.thumb|In this image, the entity_outline post effect has been disabled to clearly show what this shader outputsDynamicTransforms
+
+ProjectionSampler0 - The base texture of the object being rendered.None present.rendertype_text_background_see_throughRenders the background of text display entities that are set to render through blocks.thumbDynamicTransforms
+
+ProjectionNone present.None present.rendertype_text_backgroundRenders the background of text display entities that are not set to render through blocks.thumbDynamicTransforms
+
+Fog
+
+ProjectionNone present.None present.rendertype_text_see_through
+
+rendertype_text_intensity_see_throughRenders text that is visible through blocks. Also renders the background of player and entity nameplates.
+
+Note: rendertype_text_intensity_see_through is identical, however it is only used to render ttf fonts.thumbDynamicTransforms
+
+ProjectionSampler0 - An automatically generated 256x256 atlas which contains the current character that is being rendered.None present.rendertype_text
+
+rendertype_text_intensityRenders text in the world and in GUIs. Also renders maps in item frames or when held in first person.
+
+Note: rendertype_text_intensity is identical, however it is only used to render ttf fonts.thumb
+thumbDynamicTransforms
+
+Fog
+
+ProjectionSampler0 - An automatically generated 256x256 atlas which contains the current character that is being rendered. For maps, this is the map background texture, map_decorations atlas, or the map itself depending on which part is currently being rendered.
+Sampler2 - The lightmap.None present.rendertype_water_maskA mask used to hide water inside boats.thumb|In this image the shader has been edited to discard all pixels on the right half of the screenDynamicTransforms
+
+ProjectionNone present.None present.rendertype_world_border (renamed to world_border )Renders the world border.thumbDynamicTransforms
+
+ProjectionSampler0 - The world border texture textures/misc/forcefield.png.None present.skyRenders the upper half of the overworld skybox.thumbDynamicTransforms
+
+Fog
+
+ProjectionNone present.None present.starsRenders the stars in the overworld sky at night.thumbDynamicTransforms
+
+ProjectionNone present.None present.terrainRenders all blocks and fluids in the world.thumbChunkSection
+
+Fog
+
+ProjectionSampler0 - The blocks atlas.
+
+Sampler2 - The lightmap.ALPHA_CUTOUT - Minimum opacity before pixels are discarded, if not defined no pixels get discarded. This is defined as 0.5 for cutout textures, 0.1 for translucent textures, and not defined for solid textures.text_backgroundRenders text background, for example those seen on entity nameplates or text display entities.DynamicTransforms
+
+Fog
+
+ProjectionSampler2 - The lightmapIS_SEE_THROUGH - Defined if the shader has no depth test and can be seen through other objects.textRenders text in the world and in GUIs. Also renders maps in item frames or when held in first person.DynamicTransforms
+
+Fog (only when IS_GUI is not defined)
+
+ProjectionSampler0 - An automatically generated 256x256 atlas which contains the current character that is being rendered. For maps, this is the map background texture, map_decorations atlas, or the map itself depending on which part is currently being rendered.
+Sampler2 - The lightmap (only when IS_GUI is not defined)IS_GRAYSCALE - Defined if the shader should treat the font texture as an intensity texture for TTF font rendering.
+
+IS_SEE_THROUGH - Defined if the shader has no depth test and can be seen through other objects.
+
+IS_GUI - Defined if the shader handles text for the gui.
+
+Include shaders
+Include shaders (stored in assets/<namespace>/shaders/include) contain helper functions and variables that can be used in multiple shader programs. These must have the .glsl, .vsh, or .fsh file extensions.
+
+, to import an include shader add one of the following import directives anywhere in a vertex or fragment shader program
+#moj_import <filepath.glsl> imports a file from assets/minecraft/shaders/include/<filepath>.glsl
+#moj_import <namespace:path.glsl> imports a file from assets/<namespace>/shaders/include/<path>.glsl
+#moj_import "filepath.glsl" imports a file from assets/minecraft/shaders/core/<filepath>.glsl
+
+, to import an include shader you can use the #include directive with an identifier pointing to a shader. For example:
+#include <filepath.glsl> imports a file from assets/minecraft/shaders/include/<filepath>.glsl
+#include <namespace:path.glsl> imports a file from assets/<namespace>/shaders/include/<path>.glsl
+#include "filepath.glsl" imports a file from assets/minecraft/shaders/core/<filepath>.glsl
+
+When importing an include shader, the game replaces the import directive with the contents of the include shader. The imported file needs to end with an empty line, otherwise the shader does not load.
+
+Vanilla include shaders
+The following include shaders are used throughout the vanilla resource pack
+Name Description fog.glsl Contains the linear_fog function to calculate the color based on the vertex distance. Contains a definition of the Fog uniform block light.glsl Contains the minecraft_mix_light function, used to calculate face lighting in entity shaders. Contains a definition of the Lighting uniform block matrix.glsl Contains the mat2_rotate_z function that returns the rotation matrix for a vec2 around the z-axis. projection.glsl Contains the projection_from_position function. Contains a definition of the Projection uniform block globals.glsl Contains a definition of the Globals uniform block. dynamictransforms.glsl Contains a definition of the DynamicTransforms uniform block. chunksection.glsl  Contains a definition of the ChunkSection uniform block. animation_sprite.glsl  Contains a definition of the SpriteAnimationInfo uniform block. sample_lightmap.glsl Contains the sample_lightmap function, used by various shaders to sample the lightmap texture. oit.glsl   oit_add_transmittance.glsl   oit_common.glsl   oit_depth_bounds.glsl   oit_depth_sample.glsl   oit_sample.glsl
+
+Post-processing effects
+As mentioned previously, post-processing effects are used in menu backgrounds, when spectating certain mobs to create vision effects, the Improved Transparency graphics setting, and when rendering the glowing effect. Custom post effects can also be defined and displayed using the /posteffect command.
+
+Post-effect file format
+Post-processing effects are made up of multiple passes and render targets. A target is a buffer that can be read from and written to. The game provides some built-in targets that contain certain parts of the game world (particles, water, etc), and you can define your own to read and write data to. A pass can have multiple inputs from png textures or render targets.
+
+Post-processing effects are defined in assets/<namespace>/post_effect/<post effect>.json. Note that post-processing effects are applied before the HUD and GUI elements are rendered
+
+: The root tag
+: Custom render targets to be used by render passes
+: The key is the name of the target
+: Defaults to the current viewport width. The width of the target
+: Defaults to the current viewport height. The height of the target
+: Defaults to false. If true, this target is not cleared between frames. It is still cleared when the game window is resized, however.
+Defaults to [0, 0, 0, 0]. The color this target is filled with when it is created or cleared. Supports two formats. A list of floats in 0-1 range [R, G, B, A], or a color in decimal format calculated from the red, green and blue components using this formula:(Alpha << 24) + (Red << 16) + (Green << 8) + Blue
+: Render passes
+: A render pass
+: The namespaced id of a vertex shader to use for this pass, relative to the shaders folder. minecraft:post/blit resolves to assets/minecraft/shaders/post/blit.vsh
+: The namespaced id of a fragment shader to use for this pass, relative to the shaders folder. minecraft:post/box_blur resolves to assets/minecraft/shaders/post/box_blur.fsh
+: A list of render target inputs and / or texture inputs
+
+: The name of the sampler uniform
+Setting this to MainDepth, for example, makes a sampler2D uniform called MainDepthSampler available to the shader program for this pass. This also provides an additional vec2 to the SamplerInfo uniform block called <sampler_name>Size, for example MainDepthSize
+: Default: false. If set to true, the sampler uses bilinear filtering instead of nearest neighbor
+: The name of the target. Can either be a custom target as specified in targets above, or one of the following built in targets: minecraft:main, minecraft:translucent, minecraft:item_entity, minecraft:particles, minecraft:weather, minecraft:clouds, or minecraft:entity_outline
+: Default: false. If set to true, it samples from the depth texture instead of the color texture.
+
+: The name of the sampler uniform
+Setting this to MyTexture, for example, makes a sampler2D uniform called MyTextureSampler available to the shader program for this pass. This also provides an additional vec2 to the SamplerInfo uniform block called <sampler_name>Size, for example MyTextureSize
+: Default: false. If set to true, the sampler uses bilinear filtering instead of nearest neighbor
+: The resource location of the texture. my_namespace:post_texture resolves to assets/my_namespace/textures/effect/post_texture.png
+: The width of the texture in pixels
+: The height of the texture in pixels
+: The target to output to. Can either be a custom target as specified in targets above or minecraft:main. Note: you cannot read and write to the same target in the same pass
+: An object of uniform blocks to pass to the vertex and fragment shaders. For example, uniforms: { "UniformBlockName": [ { "type": "vec2", "value": [...] } ] }
+: The key is what this uniform block is called when referenced in a shader
+
+: The name of the uniform. This is unused by the game, however it is recommended to set it for organizational purposes
+: The type of the uniform, can be any of: int, float, ivec3, vec2, vec3, vec4, and matrix4x4
+: Uniform values. The amount and format of this depends on what the type field is set to
+int requires a single int
+float requires a single float
+ivec3 requires list of 3 ints
+vec2 requires list of 2 floats
+vec3 requires list of 3 floats
+vec4 requires list of 4 floats
+matrix4x4 requires 16 floats
+
+List of post-processing effects
+There are currently six post-processing effects used in the game:
+
+Name Used for Sample images blur Used for the blur effect in the background of most menus in-game and on the title screen. This post effect is not used when the "Menu Background Blur" accessibility setting is set to 0.
+left|thumbleft|thumb creeper Adds a green filter over the screen and give the appearance of a reduced resolution. Used when spectating a creeper.
+left|thumb entity_outline Applies a blur over a solid color silhouette of an entity. Used when an entity with the glowing effect is on-screen.
+left|thumb|Left side is the "minecraft:entity_outline" target before the post effect is applied, right side is the final image with the post effect applied invert Inverts the colors of the screen. Used when spectating an enderman.
+left|thumb spider Renders a blurred version of the screen with 5 additional copies overlapped on top with blurred edges. Used when spectating a spider.
+left|thumb transparency  Combines multiple passes (targets) of different objects in the world. Used when the "Improved Transparency" video setting is enabled.
+left|thumb|"minecraft:main" targetleft|thumb|"minecraft:translucent" target
+left|thumb|"minecraft:item_entity" targetleft|thumb|"minecraft:particles" target
+left|thumb|"minecraft:clouds" targetleft|thumb|"minecraft:weather" target
+left|thumb|Final image end_of_frame Runs after the world is rendered and before the gui and other post effects . By default this post effect is unused, however a resourcepack can define it in which case it cannot be disabled in any way besides removing the resourcepack again.
+
+Render process
+
+General game rendering
+Each frame is rendered in the following order
+The world, including entities, blocks, the sky, items, etc is rendered (by core shaders)
+Any Post effects are applied as necessary
+The GUI and HUD elements are rendered (by core shaders)
+
+GUI item and entity rendering
+When the game draws an item or entity in a GUI the following process occurs:
+The item or entity is pre-rendered to an internal texture. For items, this may be an atlas of all currently visible items ("GUI items atlas") or a single texture for that item. This depends on if the oversized_in_gui field is set to true or false in the items model definition. For entities, each one always has a unique texture that it gets rendered to
+For each item or entity, a quad is drawn to the screen which samples from either the GUI items atlas or individual texture for the corresponding item or entity
+The game can skip rendering an item when necessary and uses whatever was drawn on the previous frame. An item is only re-rendered if one of the following conditions is met:
+The item has an animated texture somewhere on its model
+The item has an enchantment glint
+The GUI items atlas fills up, in this case it is cleared and all currently visible GUI items are redrawn
+The GUI scale is changed, in this case the GUI items atlas is cleared and all currently visible GUI items are redrawn
+The item data is changed in a way that would cause a visual update. This includes but is not limited to: changing the item_model, custom_model_data, or profile data components
+
+Vanilla uniform blocks
+
+Uniforms blocks use the std140 layout. All uniforms must be specified and in the correct order and with the correct type, otherwise weird and undefined behavior occurs. For convenience, some uniform blocks are pre-defined in include shaders, see the include shaders section for more information.
+
+Some shaders may not use all uniforms in a given uniform block, in this case the unused uniforms have a 'default' value. For example, while the rendertype_lines core shader has the proper value for the LineWidth uniform, other shaders have a "default value" that is unlikely to be useful.
+
+Common blocks
+The following uniform blocks are available in both post-processing and core shaders.
+
+Globals
+This uniform block is always bound and has proper values in all shaders.
+(ivec3) CameraBlockPos Block position of the camera in world-space coordinates.
+(vec3) CameraOffset Fractional position of the camera in world-space coordinates.
+(vec2) ScreenSize The width and height of the current framebuffer in pixels.
+(float) GlintAlpha The value of the Glint Strength accessibility setting in a 0-1 range.
+(float) GameTime A value that constantly increases from 0-1 over the span of roughly 20 minutes, then resets to 0. The exact formula for this is (<age of the world> modulo 24000) / 24000.
+(int) MenuBlurRadius The value of the Menu Background Blur accessibility setting in a 0-10 range.
+(int) UseRgss A "boolean" value. Value is 1 if the texture filtering video setting is set to RGSS, otherwise 0.
+
+Core blocks
+The following uniform blocks are only available in core shaders.
+
+Fog
+This uniform block is always bound, however may not have proper values if used outside shaders which support it.
+(vec4) FogColor Color of the fog.
+(float) FogEnvironmentalStart Starting distance of environmental fog.
+(float) FogEnvironmentalEnd Ending distance of environmental fog.
+(float) FogRenderDistanceStart Starting distance of render distance fog.
+(float) FogRenderDistanceEnd Ending distance of render distance fog.
+(float) FogSkyEnd Ending distance of fog for the upper portion of the sky.
+(float) FogCloudsEnd Ending distance for clouds fog.
+
+DynamicTransforms
+(mat4) ModelViewMat The model-view matrix.
+(vec4) ColorModulator A color multiplier that can be set in game code to modify the final color of objects.
+(vec3) ModelOffset The offset of the model being rendered.
+(mat4) TextureMat A 4D matrix used to transform UV's for some animated effects, such as the enchantment glint, breeze and wind charge wind, world border, etc.
+
+Lighting
+This uniform block is always bound, however may not have proper values if used outside shaders which support it.
+(vec3) Light0_Direction First light direction. Used to calculate directional entity shading.
+(vec3) Light1_Direction Second light direction. Used to calculate directional entity shading.
+
+Projection
+This uniform block is always bound, however may not have proper values if used outside shaders which support it.
+(mat4) ProjMat The projection matrix
+
+LightmapInfo
+(float) SkyFactor A value that specifies how much to brighten the lightmap by when the sky flashes, typically when a lightning strike occurs. This value comes from the minecraft:visual/sky_light_factor environment attribute.
+(float) BlockFactor A value that fluctuates randomly, used in the vanilla shader for block light flickering.
+(float) NightVisionFactor A value in a 0-1 range that specifies how much the Night Vision  status effect should brighten the lightmap by.
+(float) DarknessScale A value in a 0-1 range that specifies how much the Darkness  status effect should darken the lightmap by.
+(float) BossOverlayWorldDarkeningFactor A value that specifies how much to darken the lightmap by when a bossbar is visible. This is seemingly only used in the ender dragon fight .
+(float) BrightnessFactor The value of the brightness video setting in a 0-1 range.
+(vec3) BlockLightTint The color of block light. This value comes from the minecraft:visual/block_light_tint environment attribute.
+(vec3) SkyLightColor The color of sky light. This value comes from the minecraft:visual/sky_light_color environment attribute.
+(vec3) AmbientColor The ambient light color. This value comes from the minecraft:visual/ambient_light_color environment attribute.
+(vec3) NightVisionColor The color of the Night Vision  status effect. This value comes from the minecraft:visual/night_vision_color environment attribute.
+
+CloudInfo
+(vec4) CloudColor The color of the clouds.
+(vec3) CloudOffset Offset of the clouds .
+(vec3) CellSize Size of each individual cloud .
+
+ChunkSection
+(mat4) ModelViewMat The model-view matrix.
+(float) ChunkVisibility Value that increments from 0 to 1 once a chunk section has been displayed. The amount of time this takes is dependent on the "Chunk Fade" video setting
+(ivec2) TextureSize
+(ivec3) ChunkPosition
+
+SpriteAnimationInfo
+(mat4) ProjectionMatrix The projection matrix
+(mat4) SpriteMatrix
+(float) UPadding
+(float) VPadding
+(int) MipMapLevel
+
+Post-processing blocks
+The following uniform blocks are only available in post-processing shaders.
+
+SamplerInfo
+(vec2) OutSize The width and height of the output buffer in pixels.
+(vec2) All other inputs specified in the same order as the  post-effect definition. These are named as <sampler_name>Size, for example, MainSize for an input with a name of "Main"
+
+Bedrock Edition
+
+Since Bedrock Edition 1.18.30, third-party shader in resource packs are no longer supported on all devices due to the implementation of RenderDragon.
+
+Deferred rendering pipeline
+
+The deferred rendering pipeline is an alternative rendering pipeline which can be customized via resource packs and is used in the vanilla game for the Vibrant Visuals graphics mode.
+
+Although it doesn't directly support custom shaders, it offers ways to define properties about light, fog, atmosphere, and PBR texture materials. This can be used to create lighting effects similar to those seen in Java Edition's shader packs.
+
+History
+
+Gallery
+
+Issues
+
+Notes
+
+References
+
+External links
+Vanilla Shaders Wiki
+Minecraft Vanilla Shaders Guide
+OpenGL Shading Language on the OpenGL Wiki
+The Book of Shaders
+Learn OpenGL
+Minecraft Post-Processing Shaders Guide
+Bedrock Edition Deferred Rendering Pipeline Documentation
+
+Navigation
+
+Category:Gameplay
+
+de:Shaderdaten
+es:Sombreador
+fr:Filtres
+ja:シェーダー
+pl:Shadery
+pt:Shader
+ru:Шейдеры
+zh:着色器

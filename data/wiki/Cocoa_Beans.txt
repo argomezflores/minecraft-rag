@@ -1,0 +1,141 @@
+TITLE: Cocoa Beans
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cocoa_Beans
+---
+Cocoa beans are items obtained from cocoa pods, and are used to plant more of them as well as to craft brown dye and cookies.
+
+Cocoa pods are plant blocks that can only be placed on jungle log sides and grow cocoa beans. They can be found naturally in jungles.
+
+Obtaining
+, cocoa beans are only obtained through the natural generation of cocoa pods, while , they can also be found in bonus chests and from fishing inside the jungle, bamboo jungle and sparse jungle biomes.
+
+The block itself can be obtained by inventory editing or add-ons .
+
+Natural generation
+Cocoa beans come from cocoa pods, which are found on naturally-generated jungle logs in jungle and sparse jungle biomes. Cocoa pods do not generate on jungle trees grown from saplings.
+
+Cocoa also generates in abandoned camps.
+
+Breaking
+Cocoa pods can be mined with any item, but axes are the quickest. Fully grown cocoa pods drop 3 cocoa beans. Using a tool enchanted with Fortune does not increase the amount of cocoa beans dropped.
+
+Generated loot
+1-2 cocoa beans can be found in 40% of bonus chests .
+
+Fishing
+Cocoa beans can be obtained from fishing in a jungle .
+
+Usage
+Farming
+thumb|A somewhat efficient cocoa pod farm, minimizing space and wood use.
+
+Placing cocoa beans on the side of a jungle log plants a new cocoa pod. The log does not need to be attached to a tree. A cocoa pod can be placed on jungle logs, jungle wood, stripped jungle logs and stripped jungle wood.
+
+Cocoa has three stages of growth. During its first stage, the pod is small and green. In the second stage, the plant is bigger and colored tan. In its last stage, the pod is even larger and orange. The cocoa block has a 20% chance to grow a stage when receiving a random tick, giving it an average time of 5 minutes and 41 seconds per stage. When destroyed in the first two stages, the pod yields only one cocoa bean. When destroyed in the third stage, it gives 3 cocoa beans. Bone meal can be used to force the cocoa pod forward by one growth stage. Cocoa pods burst and drop their beans when struck by flowing water, pushed by a piston or if their log or wood are removed by any means.
+
+Composting
+Placing cocoa beans into a composter has a 65% chance of raising the compost level by 1.
+
+Crafting ingredient
+
+Crafting recipe: Cocoa Beans arranged in the crafting grid → Brown Dye.
+
+Crafting recipe: Wheat, Cocoa Beans, Wheat arranged in the crafting grid → Cookie,8.
+
+Bedrock Edition and Minecraft Education only
+, cocoa beans are accepted as a direct substitute of brown dye in many recipes.
+
+Crafting recipe: Latex, Cocoa Beans, Latex, Latex, Helium, Latex, Latex, Lead, Latex arranged in the crafting grid → Brown Balloon.
+
+Crafting recipe: Any Bed, Cocoa Beans arranged in the crafting grid → Brown Bed.
+
+Crafting recipe: White Carpet, White Carpet, White Carpet, White Carpet, Cocoa Beans, White Carpet, White Carpet, White Carpet, White Carpet arranged in the crafting grid → Brown Carpet.
+
+Crafting recipe: Cocoa Beans, Sand, Sand, Sand, Sand, Gravel, Gravel, Gravel, Gravel arranged in the crafting grid → Brown Concrete Powder,8.
+
+Crafting recipe: White Firework Star; Blue Firework Star; Brown Firework Star; Black Firework Star, Cocoa Beans arranged in the crafting grid → Brown Firework Star.
+
+Crafting recipe: Gunpowder, Cocoa Beans, Head; Gold Nugget; Feather; Fire Charge, Glowstone Dust, Diamond arranged in the crafting grid → Brown Firework Star.
+
+Crafting recipe: Polyethylene, Hydrogen Peroxide, Polyethylene, Polyethylene, Cocoa Beans, Polyethylene, Polyethylene, Luminol, Polyethylene arranged in the crafting grid → Brown Glow Stick.
+
+Crafting recipe: {Any Shulker Box}, Cocoa Beans arranged in the crafting grid → Brown Shulker Box.
+
+Crafting recipe: Glass Pane, Glass Pane, Glass Pane, Glass Pane, Cocoa Beans, Glass Pane, Glass Pane, Glass Pane, Glass Pane arranged in the crafting grid → Brown Stained Glass Pane,8.
+
+Crafting recipe: Glass, Glass, Glass, Glass, Cocoa Beans, Glass, Glass, Glass, Glass arranged in the crafting grid → Brown Stained Glass,8.
+
+Crafting recipe: Terracotta, Terracotta, Terracotta, Terracotta, Cocoa Beans, Terracotta, Terracotta, Terracotta, Terracotta arranged in the crafting grid → Brown Terracotta,8.
+
+Crafting recipe: {Any Wool}, Cocoa Beans arranged in the crafting grid → Brown Wool.
+
+, cocoa beans can be also used in banner patterns:
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life,  are the seeds of the , which grows pods that contain 20 to 60 beans each.
+Cocoa pods have a different hitbox for each size; however, the top is always 0.25 blocks below the top of the log it is on.
+If a cocoa pod grows while the player is standing next to it, the player is forced into the appropriate form of suffocation prevention depending on available space.
+, the pixels on top of the fully grown pod are 8/7 the size of those on the side.
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Dyes
+Category:Plants
+Category:Natural blocks
+
+cs:Kakaové boby
+de:Kakaobohnen
+es:Semillas de cacao
+fr:Fèves de cacao
+hu:Kakaóbab
+it:Fave di cacao
+ja:カカオの実
+ko:코코아
+nl:Cacao
+pl:Roślina kakao
+pt:Sementes de Cacau
+ru:Плод какао
+th:เมล็ดโกโก้
+uk:Какао-боби
+zh:可可豆

@@ -1,0 +1,120 @@
+TITLE: Poppy
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Poppy
+---
+A poppy is a red flower that can be crafted into red dye and suspicious stew with the Night Vision effect.
+
+Obtaining
+Breaking
+A poppy can be broken instantly with any item or by hand, dropping itself.
+
+A poppy also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Natural generation
+Poppies generate naturally on dirt and grass blocks as part of vegetation features next to dandelions. This is most common in grassy biomes like plains and windswept hills, but they can also generate on dirt. They can generate in any Overworld biome, except:In jungles, bamboo jungles, sparse jungles, savannas and savanna plateaus, poppies are twice as common as in other biomes. In flower forests, meadows, and plains, poppies generate as part of gradients.
+
+Natural poppies are found in abandoned camps in meadows, in addition to plains, savanna, and taiga villages, as well as snowy villages . Potted poppies can also generate in woodland mansions.
+
+Post-generation
+
+When bone meal is applied to a grass block in one of the biomes listed above (except those marked as ), poppies have a chance of generating on the targeted block and adjacent grass blocks in a 15×5×15 area. In meadows and flower forests, poppies can generate only in specific locations depending on the flower gradient. In plains, sunflower plains, dripstone caves, and the deep dark, poppies cannot generate in tulip-only areas.
+
+When bone meal is applied to a grass block in any biome except forest, birch forest, old growth birch forest, dark forest, swamp, and pale garden, poppies have a chance of generating on the targeted block and adjacent grass blocks in a 7×5×7 area. In flower forests, poppies can generate only in specific locations depending on the flower gradient. Unlike , bone meal can generate poppies anywhere within a meadow biome. In plains and sunflower plains; poppies cannot generate in tulip-only areas.
+
+When bone meal is applied to a poppy in any biome, more poppies appear on top of nearby grass blocks. Dandelions can also occasionally appear, and poppies can occasionally appear when bone meal is applied to dandelions. The flowers can appear up to 3 blocks away from the original, forming a 7×7 square.
+
+Mob loot
+Iron golems drop 0-2 poppies upon death. This is unaffected by the Looting enchantment.
+
+Endermen can pick up poppies, like any other one-block-tall flower, and drop it if killed while holding it.
+
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 poppy when killed while showing the item as trade offer, if the player holds an emerald.
+
+Iron golems sometimes plant a decorative poppy onto a nearby copper golem, which is removed when the copper golem turns into a copper golem statue or when the copper golem is sheared.
+
+, baby villagers may give a poppy to players with the Hero of the Village effect.
+
+Generated loot
+
+Trading
+Wandering traders may sell a poppy for 1 emerald.
+
+Usage
+
+Like other flowers, poppies can be used as decoration and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, mud, or muddy mangrove roots.
+
+Poppies can also be placed in flower pots.
+
+Crafting ingredient
+
+Suspicious stew
+
+Suspicious stew that is created using a poppy imparts the  effect for 5 seconds. It can be crafted using a poppy or produced by feeding a poppy to a brown mooshroom and then milking it with a bowl.
+
+Bees
+Bees engage in a pollinating behavior with poppies, increasing the honey level in beehives and bee nests by 1.
+
+Breeding
+Poppies can be used to breed, grow, and lead bees.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of a poppy have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Composting
+Placing a poppy into a composter has a 65% chance of raising the compost level by 1. A stack of poppies (64) yields an average of 5.94 bone meal.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Minecraft Education
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, poppies belong to a subfamily of flowering plants known as Papaveroideae.
+The cyan rose texture is still present in Bedrock Edition's default resource pack.
+
+Gallery
+Screenshots
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Flowers
+
+es:Amapola
+fr:Coquelicot
+ko:양귀비
+pt:Papoula
+uk:Мак
+zh:虞美人

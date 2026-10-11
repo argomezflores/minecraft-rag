@@ -1,0 +1,63 @@
+TITLE: Nether Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Brick_Stairs
+---
+Nether brick stairs are a decorative stairs variant of Nether bricks that generate in Nether fortress staircases and are used for building.
+
+Obtaining
+Breaking
+Nether brick stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Nether brick stairs generate as part of Nether fortresses.
+
+Crafting
+
+Crafting recipe: Nether Bricks, Nether Bricks, Nether Bricks, Nether Bricks, Nether Bricks, Nether Bricks arranged in the crafting grid → Nether Brick Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en briques du Nether
+ja:ネザーレンガの階段
+ko:네더 벽돌 계단
+pt:Escadas de Tijolos do Nether
+th:บันไดอิฐเนเธอร์
+uk:Сходи з незерської цегли
+zh:下界砖楼梯

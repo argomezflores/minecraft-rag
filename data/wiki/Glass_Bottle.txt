@@ -1,0 +1,98 @@
+TITLE: Glass Bottle
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Glass_Bottle
+---
+A glass bottle is an item that can hold water, potions, honey, or dragon's breath.
+
+Obtaining
+Glass bottles can be obtained by crafting, drinking from bottles, or from witch drops.
+
+Mob loot
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Glass, Glass, Glass arranged in the crafting grid → Glass Bottle,3.
+
+Drinking
+Drinking a potion or honey bottle returns the empty glass bottle. Throwing a splash potion or a lingering potion does not return a glass bottle, but brewing a lingering potion gives back a glass bottle.
+
+Mud
+a water bottle, splash water bottle or lingering water bottle on dirt, coarse dirt, or rooted dirt transform it into a mud block, at the same time leaving the player with an empty glass bottle.
+
+Cauldrons
+a water bottle (or, , a potion, splash potion, or lingering potion) on a cauldron that is not yet full adds that liquid to the cauldron, leaving the player with an empty glass bottle.
+
+Usage
+Glass bottles can be filled to make water bottles, which can then be brewed into potions in a brewing stand.
+
+Collecting liquids
+Water
+A bottle may be filled with water by holding it in the hand and  it on a water source block or a cauldron that has water in it. It can also be filled using a waterlogged block.
+
+Also, a bottle may be filled by powering a dispenser containing a bottle and pointed at a water source block. This does not work with cauldrons.
+
+If filled via a water source, the water is unaffected. If filled via a cauldron,  of the water in the cauldron is removed. Therefore, using a cauldron to fill water bottles is inefficient, except in the Nether where it is normally the only way to fill bottles.
+
+Potion
+, a bottle may be filled with potion by  it on a cauldron containing potion. When the bottle is filled,  of the cauldron's potion is removed.
+
+Honey
+If a bee nest or beehive is full, the player can  a glass bottle on the block, or may power a dispenser that contains a bottle and is pointed at the block, which empties the block and creates a honey bottle. Honey bottles can also be emptied by using them in crafting recipes (such as sugar or honey block). However, a lingering potion use on tipped arrow recipe does not give the bottle back.
+
+Dragon's breath
+a glass bottle in cloud emitted when the ender dragon breathes or shoots a dragon fireball fills the bottle with dragon's breath.
+
+When putting dragon's breath in the brewing stand, after the brewing process, a glass bottle drops as an entity.
+
+Trading
+
+Crafting ingredient
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+cs:Lahvička
+de:Glasflasche
+es:Frasco de cristal
+fr:Fiole
+hu:Üvegpalack
+it:Ampolla
+ja:ガラス瓶
+ko:유리병
+lzh:琉璃甁
+nl:Glazen fles
+pl:Szklana butelka
+pt:Frasco de Vidro
+ru:Пузырёк
+uk:Скляна пляшка
+zh:玻璃瓶

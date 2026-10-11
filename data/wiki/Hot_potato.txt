@@ -1,0 +1,52 @@
+TITLE: Hot potato
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Hot_potato
+---
+A hot potato is an item which damages players who hold it, only present in 24w14potato.
+
+Obtaining
+Throwing a potato, poisonous potato, or a baked potato into lava turns it into a hot potato, which is then ejected from lava in a random direction. The hot potato retains data from the original potato, such as its custom name, or how many times it has been lubricated.
+
+Crafting
+
+Crafting recipe: Baked Potato, Lava Bucket arranged in the crafting grid → Hot potato.
+
+Usage
+Damage
+Each hot potato stores a heat value. This value starts from 0 and goes up by 1 every tick it is in a player's inventory to a maximum of 200. Once the heat value reaches 20 and the potato is in a player's inventory, the player begins taking damage. Based on the heat value, a player takes between  and  damage each tick. However, due to damage immunity, the player only actually takes damage every .
+
+Fire Resistance does not prevent the player from taking damage from happening. If there are multiple hot potatoes in a player's inventory, the effect is the same as if there was only one. Hot potatoes do not damage other entities if they hold the item.
+
+Food
+Eating a hot potato restores  hunger and 6 saturation. When a hot potato is consumed, the player is set on fire for . This value exceeds the range of the short integer type, so only the last 16 bits modulo 215 (32768) will be saved to the player's  data.
+
+Unlike most foods, hot potatoes can be eaten even if the hunger bar is full.
+
+Burning immunity
+thumb|300px
+Hot potato can't be burned in fire or lava, like netherite items.
+
+Hot potato item jumps in lava.
+
+Crafting ingredient
+
+Crafting recipe: Poisonous Potato, Poisonous Potato, Poisonous Potato, Floatato, Hot potato, Floatato, Floatato, Floatato, Floatato arranged in the crafting grid → Floatater.
+
+Composting
+Placing a hot potato into a composter has a 85% () chance of raising the compost level by 1.
+
+Sounds
+
+Data values
+ID
+:
+
+Issues
+
+Navigation
+
+Category:Joke items
+Category:Food
+
+ja:Hot potato
+zh:烫手洋芋

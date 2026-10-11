@@ -1,0 +1,64 @@
+TITLE: Honeycomb Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Honeycomb_Block
+---
+Honeycomb blocks are decorative blocks crafted from honeycombs.
+
+Obtaining
+Breaking
+Honeycomb blocks can be broken using any tool, and always drop as an item. Breaking time is unaffected by tool type or enchantments.
+
+Crafting
+
+Crafting recipe: Honeycomb, Honeycomb, Honeycomb, Honeycomb arranged in the crafting grid → Honeycomb Block.
+
+Usage
+Honeycomb blocks can be used for decoration. Honeycomb blocks cannot be turned back into honeycomb.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+While real-life honeycombs are based on a hexagonal tiling, the honeycomb block uses a square tiling.
+
+Gallery
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Manufactured blocks
+
+cs:Blok medových pláství
+de:Honigwabenblock
+es:Bloque de panal
+fr:Bloc de rayon de miel
+ja:ハニカムブロック
+ko:벌집 조각 블록
+lzh:蜜脾塊
+pl:Blok plastra miodu
+pt:Bloco de Favo de Mel
+ru:Блок пчелиных сот
+th:บล็อกรวงผึ้ง
+uk:Блок медових стільників
+zh:蜜脾块

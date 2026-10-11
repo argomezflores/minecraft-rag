@@ -1,0 +1,55 @@
+TITLE: Cheese
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cheese
+---
+Cheese is a joke block and a food that can be eaten by the player. It generates on The Moon as the main ground block, referencing a common joke about the moon being made of cheese. It is only present in the 23w13a_or_b snapshot.
+
+Obtaining
+Breaking
+Cheese drops itself if it has not been bitten. Once the cheese is bitten, it cannot be recollected, even with the use of Silk Touch.
+
+Mob loot
+Upon death, moon cows drop 0-2 cheese. The maximum amount is increased by 1 per level of Looting, for a maximum of 5 cheese blocks with Looting III.
+
+Milk bucket
+If the minecraft:instacheese vote is active, using a milk bucket on the ground places cheese, similarly to powder snow. It cannot be picked up into the bucket again.
+
+Usage
+Similarly to cakes, cheese can be eaten when placed in the world. However, unlike cakes, the cheese block is divided into 8 smaller cubes. Clicking on one of them eats only the selected part, unlike cakes, where slices cannot be chosen.
+
+Eating cheese restores both hunger and oxygen, allowing the player to survive on the Moon.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+Block states
+
+Issues
+
+Trivia
+Cheese uses a darker and desaturated version of the end stone texture.
+
+Gallery
+Renders
+
+Screenshots
+
+Navigation
+
+Category:Food
+Category:Utility blocks
+Category:Joke blocks
+Category:The Moon (joke dimension)
+
+es:Queso
+fr:Fromage
+ja:Cheese
+lzh:酪酥
+pt:Edição Java 23w13a or b/Cheese
+zh:芝士

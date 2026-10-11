@@ -1,0 +1,59 @@
+TITLE: Potato Sign
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Sign
+---
+A potato sign is a variant of a sign made of potato planks, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Crafting
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Stick arranged in the crafting grid → Potato Sign,3.
+
+Usage
+
+Sounds
+Generic
+
+Unique
+
+Data values
+
+Block states
+
+Standing
+
+Wall
+
+Block data
+A potato sign has a block entity associated with it that holds additional data about the block.
+
+Block entity data
+
+: 1 or 0 (true/false) - true if the text is locked with honeycomb.
+: A compound that discribes front text.
+: 1 or 0 (true/false) - true if the sign has been dyed with a glow ink sac.
+: The color that has been used to dye the sign. The default value is  One of .
+: Only in Realms. The lines of text shown to players with the profanity filter turned on instead of the regular lines. This tag is automatically set to  for lines containing blocked words and to the line's normal contents for the other lines when a player with the profanity filter turned off edits the sign, so players with the filter on cannot see the blocked words. If a player with the filter on tries to use blocked words in one or more lines, the line(s) in  containing blocked words are set to , which makes them render completely blank, and this tag is also given the same contents. If multiple lines have been edited before the sign editing GUI is closed, only the lines containing blocked words are blanked.
+: A list of text for each line.
+: Text for each line. Must be Raw JSON text format. The character limit for the Text tags depends on the width of the characters.
+: A compound that discribes back text.
+The same structure as .
+
+Issues
+
+Trivia
+Potato signs have a maximum stack size of 23, and are the first item in any version of the game to have this maximum stack size.
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Blocks with GUI
+Category:Utility blocks
+Category:Block entities
+Category:Non-solid blocks
+
+ja:Potato Sign
+zh:马铃薯木告示牌

@@ -1,0 +1,62 @@
+TITLE: Potion of Slow Falling
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Slow_Falling
+---
+A potion of Slow Falling is a potion that provides Slow Falling when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Phantom Membrane + Awkward Potion → Potion of Slow Falling.
+
+Brewing recipe: Redstone Dust + Potion of Slow Falling → Potion of Slow Falling Extended.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 Regular: 1:30Extended: 4:00Fall speed and acceleration is significantly reduced and fall damage is completely negated. Splash potion 1 Regular: 1:30Extended: 4:00 Lingering potion 1 Regular: 0:22Extended: 1:00
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Slow Falling; Lingering Potion of Slow Falling Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Slow Falling, 8; Arrow of Slow Falling Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Extended Potion of Slow Falling  40  41
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularExtended Potion of Slow Falling  slow_falling  long_slow_falling
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion de chute lente
+pt:Poção de Queda Lenta
+zh:缓降药水

@@ -1,0 +1,29 @@
+TITLE: Le Tricolore
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Le_Tricolore
+---
+Le tricolore (French for The Tricolor) is a joke item exclusive to Java Edition 23w13a_or_b. It is the French national flag in item form, and has no in-game use.
+
+Obtaining
+One tricolore and one baguette is given to all players when French mode gets activated. Deactivating the mode removes le Tricolore from the player's inventory (but not la baguette; containers such as chests are not affected).
+
+Le Tricolore is not available in the Creative inventory, but can be obtained by using the  command.
+
+Data values
+
+ID
+
+Issues
+
+Navigation
+
+Category:Joke items
+Category:Items with no use
+
+fr:Le Tricolore
+ja:Le Tricolore
+lzh:三彩旌
+pt:Edição Java 23w13a or b/Le Tricolore
+th:ธงไตรรงค์
+uk:Le Tricolore
+zh:三色旗

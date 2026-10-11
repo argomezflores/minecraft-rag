@@ -1,0 +1,18 @@
+TITLE: Enchantment/Levels
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Enchantment/Levels
+---
+These are the base cost levels of the vanilla enchantments, used when calculating which enchantments to choose. In Java Edition, the minimum and maximum values are controlled by the min_cost and max_cost fields of the enchantment definition and can be modified with a data pack.
+
+Enchantment Modified enchantment level I II III IV V
+
+Very low modified enchantment levels can fall outside the ranges of all valid enchantments for certain items. If this happens, the item is left unenchanted, but the player is not charged any experience levels and can try enchanting it again.
+
+Category:Gameplay
+
+es:Encantamiento/Niveles
+ja:エンチャント/レベル
+pt:Encantamento/Níveis
+ru:Зачаровывание/Уровни
+th:การร่ายมนตร์/ระดับ
+uk:Зачарування/Рівні

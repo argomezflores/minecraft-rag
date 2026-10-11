@@ -1,0 +1,190 @@
+TITLE: Piston
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Piston
+---
+A piston is a block capable of pushing most entities and blocks when given a redstone signal.
+
+Some blocks cannot be moved, break when pushed or have other interactions with pistons. A piston can move up to twelve blocks at once.
+
+Obtaining
+Breaking
+A piston can be broken using any tool with equal efficiency, and always drops itself.
+It is faster to break them with a pickaxe. The pickaxe is also the preferred tool for breaking the head when extended.
+
+Crafting
+
+Crafting recipe: Any Planks, Any Planks, Any Planks, Cobblestone, Iron Ingot, Cobblestone, Cobblestone, Redstone Dust, Cobblestone arranged in the crafting grid → Piston.
+
+Usage
+
+Crafting ingredient
+
+Redstone component
+Pistons are always placed facing toward the player. When powered, the piston's wooden surface (the "head") tries to start extending after a start delay. The extension takes  to finish. When it extends, it pushes at most 12 blocks. The piston makes a sound that can be heard within a 31×31×31 cube centered on the activating piston. Any entities in the path of an extending piston (or any block it might be moving) are pushed along, when possible. If the entities cannot be moved, the block is pushed inside them, suffocating mobs when pushed into their eye height (assuming said block is solid).
+
+When a piston loses power, its head retracts. Like the extension, the retraction starts after a start delay and takes  to finish.
+
+, a piston that is de-powered during the extension process aborts its extension and starts to retract (assuming it can detect the signal change). Any block which was being pushed by that piston continues to move as if the piston was still pushing it.
+
+A piston that pushes a slime block bounces any entity that it displaces in the direction the piston is facing. Entities on top of a moving honey block, or any other moving block, will also move with it. In addition, when a slime block or a honey block is moved by a piston, any movable block adjacent (not diagonally) to it also moves. See § Sticky blocks for more details.
+
+, blocks that require a support (such as levers) can be placed on the back or sides of a piston without being destroyed when that piston extends. , on the other hand, the majority of blocks that require a support are only safe to place on the back of pistons.
+
+, comparators can read the fullness of containers through pistons, despite them not being conductive.
+
+Powering pistons
+alt=|thumb|200px|Pistons powered by one line of redstone
+
+Pistons can be activated from any side, excluding from the head.
+
+, redstone dust gets automatically redirected toward pistons if placed next to them (except for the head's side).
+
+Start delay
+A piston won't extend or retract immediately when it is activated: this phenomenon is known as "start delay".
+
+Edition  Start delay  Notes Java 0 or 1 game tick 0 ticks if powered during the scheduled tick, random tick or block event phase; 1 tick if powered during the entity or block entity phase, or during player input handling. Bedrock Fixed 2 game ticks Activation occurs only on a consume tick (C-tick).
+
+, the start delay can be 0 (activation in the same tick) or  (activation in the next tick) depending on the game process in which the piston is powered:
+If the piston is powered and updated in the scheduled tick phase, random tick phase or block event phase, the piston activates in this game tick's block event phase, which means the start delay in this case is 0.
+If the piston is powered and updated during the entity phase or the block entity phase, or by player actions, the piston activates in the next game tick's block event phase, which means the start delay in this case is 1 tick. Notably, because blocks pushed by pistons arrive during the block entity phase (except when dropped by a sticky piston), in a chain of pistons each pushing a redstone block to activate the next, successive activations will happen 3 ticks apart.
+
+, the start delay is fixed at , meaning that the piston starts to extend or retract 2 game ticks after it is activated. Pistons can only activate on the input/consumer redstone tick (C-tick).
+
+Quasi-Connectivity
+
+Pistons can be powered from one block above compared to most redstone components: this property is called quasi-connectivity (QC). With quasi-connectivity, a piston facing up can also be powered from the head's direction, which is otherwise impossible. Due to quasi-connectivity, a piston facing up that has a block of redstone on top of itself can extend but not retract: this happens because after the piston extends, it keeps receiving power from the redstone block.
+
+Quasi-connectivity can be used to make a BUD switch, taking advantage of the fact that a piston powered through QC doesn't always get immediately updated.
+
+Soft inversion
+
+When a piston that has a redstone torch attached to it is powered, the redstone torch turns off, and when said piston is depowered, the redstone torch turns back on: this property is called soft inversion."Explaining soft inversion: the Minecraft Bedrock Redstone bug that won't get fixed" – https://www.youtube.com/watch?v=zUgKXTsLOA0 Since soft inversion works even if the piston is being powered indirectly through a block, it can be used to toggle the state of a redstone torch from farther away compared to other powering methods. It's still possible to take advantage of soft inversion even if the piston cannot extend or retract.
+
+Sticky blocks
+
+Slime and honey blocks are sticky: when either block is moved by a piston, adjacent (non-diagonal) blocks stick to and move with it. For example, a slime block sitting on the ground attempts to move the ground block underneath itself, which in turn has to push additional ground blocks in the direction of motion just as if they were being pushed directly by a piston. The same occurs when a sticky block is moved by another adjacent sticky block of the same kind. For example, a 2×2×2 cube of honey blocks may be pushed as a single unit by a piston acting on any of the blocks in the cube. Any block that cannot be moved or can be broken by a piston does not stick to sticky blocks. However, if an adjacent block could be moved but is prevented from being moved by the presence of an immovable block, the sticky block is prevented from moving as well, and the piston does not extend.
+
+Slime and honey blocks do not stick to each other. This allows redstone contraptions to use alternating slime and honey blocks side by side without interfering with each other.
+
+Slime and honey blocks' stickiness is unilateral. They can't be pulled by a non-sticky piston, and they are not moved if an adjacent (non-sticky) block is moved by a piston. The maximum of 12 blocks moved by a piston still applies. For example, a 2×2×3 structure of slime blocks may be pushed by a piston as long as no other movable block is adjacent to it. A piston cannot move itself via a "hook" constructed of sticky blocks, but flying machines can be created with multiple pistons.
+
+Glazed terracotta and the heavy core do not stick to adjacent slime or honey blocks, even though they can be pushed by pistons.
+
+Sculk detection
+Pistons emit vibrations detectable by sculk sensors. A calibrated sculk sensor tuned to signal strength 10 detects piston retraction; strength 11 detects extension; strength 12 detects a block broken by a piston.
+
+Limitations
+
+Pistons cannot push:
+Blocks listed as such in the table below.
+Blocks into the void or above the build limit.
+More than 12 blocks at once.
+, blocks beyond the world border.
+
+If the requirements for a block to be pushed are not met, the piston will not extend.
+
+Technical components
+
+Pistons have 2 technical blocks that cannot be obtained. These include the piston head and moving piston blocks.
+
+Sounds
+Generic
+:
+
+(piston):
+
+(arm):
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+The piston block uses following block states:
+
+:
+
+:
+
+Block data
+
+, a piston has a block entity associated with it that holds additional data about the block.
+
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Videos
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Mojang stated that the 12-block push limit for pistons would not be changed, because "the current limitations are by design".
+Carpets can be placed on top of moving blocks.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Concept artwork
+
+In other media
+
+See also
+Slime block
+Redstone
+Tutorial:Piston uses
+Tutorial:Headless pistons
+Mechanics/Redstone/Piston circuits
+
+Notes
+
+References
+
+External links
+
+Navigation
+
+Category:Block entities
+Category:Mechanisms
+Category:Manufactured blocks
+
+de:Kolben
+es:Pistón
+fr:Piston
+hu:Dugattyú
+it:Pistone
+ja:ピストン
+ko:피스톤
+nl:Zuiger
+pl:Tłok
+pt:Pistão
+ru:Поршень
+th:ลูกสูบ
+uk:Поршень
+zh:活塞

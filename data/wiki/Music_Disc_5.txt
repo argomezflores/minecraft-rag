@@ -1,0 +1,61 @@
+TITLE: Music Disc 5
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_5
+---
+"5" refers to both a song composed by Samuel Åberg, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from crafting with disc fragments.
+
+Obtaining
+Crafting
+
+Crafting recipe: Disc Fragment 5, Disc Fragment 5, Disc Fragment 5, Disc Fragment 5, Disc Fragment 5, Disc Fragment 5, Disc Fragment 5, Disc Fragment 5, Disc Fragment 5 arranged in the crafting grid → Music Disc 5.
+
+Track description
+
+File:Five.ogg
+
+"5" begins with static and a warped noise. After a moment of silence, there is the sound of a flint and steel lighting, fire, a bat, and then walking. The walking becomes heavier and metallic. The sound stops with sounds of breathing followed by an Endersent's roar, which warps into soft, relaxing music. The music soon transitions back to the sound of footsteps, followed by lava bubbling and amethyst. A warped noise and a sculk shrieker can be heard activating, and a silverfish hissing. There is then a coughing sound, some metallic and stone and sand sounds, and another warped noise.
+
+Then, after a moment of silence, a heartbeat begins with rising static in the background. There are then sounds of deepslate, along with strange noises building up and abruptly stopping. A crescendo of overlapping warped sounds is followed then dies down. The footsteps begin again, but much quieter than before. A sculk sensor then clicks, and a warden roars. The warden's roar warps and slows down, and then the disc ends.
+
+Usage
+Like all music discs,  the "5" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "5", it will emit a redstone signal of 15.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Five" 5.ogg music_disc.5
+
+:
+
+Soundtrack Title File name Sound events "Five" 5.ogg record.5
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In music disc "5", there are some sounds taken from Minecraft Dungeons of the Endersent , the Vengeful Heart of Ender, and relating to an enderman .
+
+Navigation
+
+Category:Samuel Åberg
+Category:Minecraft: The Wild Update (Original Game Soundtrack)
+Category:Music discs
+
+fr:Disque 5
+ja:5 (レコード)
+ko:음반 5
+pt:Disco Musical 5
+ru:Пластинка «5»
+uk:Платівка «5»
+zh:音乐唱片5

@@ -1,0 +1,66 @@
+TITLE: Magenta Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Magenta_Dye
+---
+Magenta dye is one of the sixteen available dyes.
+
+Obtaining
+
+Crafting
+
+Trading
+Wandering traders have a chance to trade 3 magenta dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 magenta dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Dyes
+
+cs:Purpurové barvivo
+de:Magenta Farbstoff
+es:Tinte magenta
+fr:Teinture magenta
+hu:Bíborvörös festék
+ja:赤紫色の染料
+ko:자홍색 염료
+nl:Magenta kleurstof
+pl:Karmazynowy barwnik
+pt:Corante magenta
+ru:Сиреневый краситель
+zh:品红色染料

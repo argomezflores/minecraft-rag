@@ -1,0 +1,55 @@
+TITLE: Deepslate Tile Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Tile_Slab
+---
+A deepslate tile slab is a decorative slab variant of deepslate tiles that generates in ancient cities and is used for building.
+
+Obtaining
+Breaking
+Deepslate tile slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Deepslate tile slabs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Deepslate Tiles, Deepslate Tiles, Deepslate Tiles arranged in the crafting grid → Deepslate Tile Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a deepslate tile slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle d'ardoise des abîmes carrelée
+ja:深層岩タイルのハーフブロック
+ko:심층암 타일 반 블록
+lzh:板石瓦版
+pt:Laje de Ladrilhos de Ardosiabissal
+zh:深板岩瓦台阶

@@ -1,0 +1,54 @@
+TITLE: Baked Potato Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Baked_Potato_Bricks
+---
+Baked potato bricks are a type of bricks crafted from baked potatoes, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Crafting
+
+Crafting recipe: Baked Potato, Baked Potato, Baked Potato, Baked Potato arranged in the crafting grid → Baked Potato Bricks.
+
+Smelting
+
+Smelting recipe: Terre de Pomme → Baked Potato Bricks.
+
+Natural generation
+Baked potato bricks naturally generate in colosseums and ruined portatols.
+
+Usage
+Crafting ingredient
+
+Crafting recipe: Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks arranged in the crafting grid → Baked Potato Brick Slab.
+
+Crafting recipe: Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks arranged in the crafting grid → Baked Potato Brick Stairs.
+
+Crafting recipe: Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks arranged in the crafting grid → Baked Potato Brick Wall.
+
+Crafting recipe: Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks arranged in the crafting grid → Potato Refinery.
+
+Smelting ingredient
+
+Smelting recipe: Baked Potato Bricks → Charred Baked Potato Bricks.
+
+Sounds
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Joke features
+Category:Poisonous Potato Dimension (joke dimension)
+es:Ladrillos de patata cocida
+fr:Baked Potato Bricks
+ja:Baked Potato Bricks
+ko:구운 감자 벽돌
+zh:烤马铃薯砖

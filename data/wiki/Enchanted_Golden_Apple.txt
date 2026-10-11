@@ -1,0 +1,78 @@
+TITLE: Enchanted Golden Apple
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Enchanted_Golden_Apple
+---
+An enchanted golden apple is an uncraftable food item that, upon consumption, grants much more powerful effects than a regular golden apple. Despite its name and enchantment glint, enchanted golden apples do not actually have any enchantments.
+
+Obtaining
+
+Generated loot
+
+Usage
+Food
+
+To eat an enchanted golden apple, press and hold  while it is selected in the hotbar. It restores  points of hunger and 9.6 saturation.
+
+The enchanted golden apple provides:
+Absorption IV for 2 minutes (providing )
+Regeneration level II for 20 seconds  (long enough to heal ) or 30 seconds  (long enough to heal )
+Fire Resistance I for 5 minutes
+Resistance I (20% reduced damage from all sources except the void and starvation) for 5 minutes
+
+Horses
+Enchanted golden apples can be used for improving the chances of taming a horse by 10%, for breeding and leading horses, and for speeding up the growth of baby horses by 4 minutes. , due to a bug, skeleton horses (in their hostile state; being ridden by skeletons) can also be fed enchanted golden apples.
+
+Crafting ingredient
+
+Piglins
+Piglins run toward any enchanted golden apple item on the ground and inspect it for 6 seconds  or 8 seconds  before putting it in their inventory. However, piglins do not eat enchanted golden apples (or any food).
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+The damage tag of an enchanted golden apple obtained  is 1, although setting it to 0 makes no difference.
+, if a regular golden apple is enchanted using an anvil in Creative mode, it has a glint like an enchanted golden apple, but the effect when consumed remains the same as that of a regular golden apple.
+Continuously eating enchanted golden apples allows the player to survive in the void until all of the apples are consumed.
+
+Gallery
+Screenshots
+
+Notes
+
+References
+
+Navigation
+
+Category:Food
+
+de:Verzauberter goldener Apfel
+es:Manzana dorada encantada
+fr:Pomme dorée enchantée
+ja:エンチャントされた金のリンゴ
+lzh:淬靈金林檎
+pt:Maçã dourada encantada
+ru:Зачарованное золотое яблоко
+th:แอปเปิ้ลทองร่ายมนตร์
+uk:Зачароване золоте яблуко
+zh:附魔金苹果

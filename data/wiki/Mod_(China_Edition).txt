@@ -1,0 +1,24 @@
+TITLE: Mod (China Edition)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Mod_(China_Edition)
+---
+The mod is an exclusive item in China Edition.
+
+Obtaining
+This item cannot be obtained using the  command. It can only be obtained via editing the NBT data present within one's save file.
+
+Usage
+In older versions
+In the early versions of China Edition, before adding custom items within addons was officially supported, custom items were instead created by modifying the "mod" data values present within this one; a technique which crudely enabled the addition of custom items.
+
+The item used the old apple texture, could not be eaten, and did not have a translated name; erroneously displaying the translation key ("item.mod.name") in-game instead.
+
+Data values
+ID
+
+History
+
+Gallery
+Screenshots
+
+Navigation

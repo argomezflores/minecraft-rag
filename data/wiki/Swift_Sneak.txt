@@ -1,0 +1,45 @@
+TITLE: Swift Sneak
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Swift_Sneak
+---
+Swift Sneak is an enchantment applied to leggings that lessens the movement speed reduction that occurs when sneaking.
+
+Obtaining
+Loot chest
+Swift Sneak can be obtained only from loot chests in ancient cities, making it non-renewable and dangerous to get. The chests can contain enchanted books with any level of Swift Sneak.
+
+Usage
+Speed
+Swift Sneak increases the player's sneaking speed by 15% of their walking speed per level. At Swift Sneak level 3, the player's crouch speed equals 75% of their normal walking speed. Swift Sneak 4 and 5 can further improve crouching speed, but the crouching speed can never be faster than the player's walking speed. Past Swift Sneak 4, the player can also sprint while they are already sneaking, even without the use of . The player can sprint while sneaking with Swift Sneak 3 by pressing .
+
+This enchantment also increases the player's movement speed while they are crawling.
+
+It also has an effect in water, but is still slower movement than regularly walking underwater. This holds true even when combined with depth strider, another enchantment upon boots for swimming which further increases underwater walking speed.
++Player's crouching speed compared to walking speedEnchantment levelPercent of walking speedNo Swift Sneak30%Swift Sneak I45%Swift Sneak II60%Swift Sneak III75%Swift Sneak IVExclusive to commands.90%Swift Sneak V+100%
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Transport
+
+de:Huschen
+es:Sigilo veloz
+fr:Furtivité rapide
+it:Passo felpato
+ja:スニーク速度上昇
+lzh:迅伏
+pt:Passos Furtivos
+ru:Проворство
+zh:迅捷潜行

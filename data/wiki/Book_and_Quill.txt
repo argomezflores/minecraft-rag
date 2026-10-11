@@ -1,0 +1,132 @@
+TITLE: Book and Quill
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Book_and_Quill
+---
+A book and quill is an item that can be  to write and edit text, with up to 100 pages available. Signing it allows it to be named for free and prevents further edits. It can also be displayed on a lectern.
+
+Obtaining
+
+Crafting
+
+Usage
+Crafting ingredient
+
+Writing
+thumb|The width of a line of text is determined by the number of pixels, not characters. The first line depicts 61 pixels made up by apostrophes and commas (one pixel each) as well as 60 pixels of gap in between to add up to 121 pixels. Changing the final apostrophe to a lowercase L (2 pixels, adding up to 122 pixels) cause the line to create a new line underneath it.
+
+By pressing  or long tapping screen anywhere while holding a book and quill in their hand, the player can open a text editor GUI. This shows one or two pages with a text box. The top of each page indicates its number and the total number of pages, and buttons at the bottom allow to flip through pages.
+
+, the player can write a single book up to 100 pages, with up to 1023 characters per page, and up to 102,300 characters inside the entire book. No page may be longer than 14 lines, and each line can have a width of 114 pixels.
+
+, the player can write a single book up to 50 pages long, with up to 256 characters per page, and up to 12,800 characters inside the entire book. No page may be longer than 14 lines and may have a width of up to 121 pixels each. Formatting codes apply to the character limit but do not apply to the pixel limit.
+
+The player has the ability to copy and paste into books. However, the paste does not work if the text being pasted is longer than a single page. Most Unicode characters are available in books, and they may be pasted in without issue.
+
+In singleplayer, the world pauses while a book is being edited.
+
+Pressing the "next" button on the last page automatically creates the page and increases the page count. , the edit button allows to swap the page with the previous or next page, delete the page, or insert a new page before the selected page.
+
+, the book writing interface must be closed by pressing the Done button. Any other way of closing it (such as by pressing the Escape key) causes all work from the session to be lost. , the player can use the exit keybinds or X button like any other GUI.
+
+Lecterns
+A book and quill (as well as a written book) can be placed on an empty lectern.
+
+The lectern then emits a redstone signal depending on the displayed page in the book. On the last page, the lectern emits a signal strength of 15.
+
+Formatting codes
+
+Text in a book can be styled using codes starting with the § character (section sign).
+§k creates randomly changing characters.
+§l creates bold text.
+§o creates italic text.
+Most other numbers and letters create colored text.
+§r resets any of the previous styles so text after it appears normally.
+
+If the player uses multiple codes, and continue typing past the end of a line, the next line exhibits only the last formatting code used.
+
+Signing
+thumb|Signing a book
+Books can be signed by pressing the "Sign" button while in the interface. , when signed, a book bears the name of the player who wrote it and a title chosen upon signing. , the book doesn't display the name of the player as the author; instead, the author can be any text the player wants. After it has been signed, it cannot be edited again – it has turned into a written book.
+
+Special characters can be used in the title, although alt codes do not work and text cannot be pasted . Also, on Linux, using the compose key to produce special characters does work. The title and author can be formatted in-game with the § character .
+
+The title of the book and author can be up to 15/16 characters long. If a custom name is removed from a written book, it reverts to the title it was given during the signing process.
+
+Chiseled bookshelf
+the chiseled bookshelf while having a book and quill in the main hand puts the book inside the chiseled bookshelf.
+
+Trading
+
+Inserting screenshots
+
+Screenshots in the portfolio can be inserted into book and quill.https://aka.ms/MEEBookAndQuill This can be done by clicking the pencil button on the bottom of the page, and clicking the photo button (shown as an icon that looks like a photo with a plus next to it).
+
+The photo button brings up the portfolio menu, where players can select which screenshot to be inserted into the book and quill page. Each screenshot takes up one page.
+
+Players can export their books and quills photos and written texts as a  file. The default name for the file is formatted "(Book Name) (Author Name)".
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Trivia
+The in-game restrictions on books are not hard limits. Third party editors or commands can make books have more than 100 pages (2,147,483,639 pages), more than 256 characters per page (32,767 characters per page), can change author names, and can have colored titles, among other things. These books still function properly in vanilla Minecraft, meaning the player may encounter such books on adventure maps or multiplayer servers.http://www.minecraftforum.net/topic/1189266-hacking-books
+If the player renames a book and quill in an anvil before signing it, it retains the name from the anvil instead of taking the name from signing.
+
+Gallery
+Screenshots
+
+References
+
+External links
+Bookshop - Book Sharing And Editing Tool
+Full-Width Text Generator
+Small Caps Text Generator
+Revise - External Book Editor
+
+See also
+
+Navigation
+
+cs:Rozepsaná kniha s brkem
+de:Buch und Feder
+el:Βιβλίο και Πένα
+es:Libro y pluma
+fr:Livre et plume
+hu:Könyv és toll
+it:Libro e penna
+ja:本と羽根ペン
+ko:책과 깃펜
+nl:Boek en veer
+pl:Książka z piórem
+pt:Livro e Pena
+ru:Книга с пером
+th:หนังสือกับปากกาขนนก
+uk:Книга й перо
+zh:书与笔

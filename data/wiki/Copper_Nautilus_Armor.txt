@@ -1,0 +1,51 @@
+TITLE: Copper Nautilus Armor
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Copper_Nautilus_Armor
+---
+Copper nautilus armor is a type of nautilus armor that can be equipped by a nautilus that reduces the damage received to the nautilus. It is the fifth-strongest tier of nautilus armor, having the lowest armor points with no armor toughness.
+
+Obtaining
+Generated loot
+
+Usage
+Equipping
+Copper nautilus armor can be equipped on a tamed nautilus by holding the nautilus armor and using the  on a nautilus. It is also able to be equipped manually by putting it into the nautilus armor slot through mounting the nautilus and using its  control, or by  and then  or pressing the "open inventory" button.
+
+Baby nautiluses are unable to equip nautilus armor as they are not rideable.
+
+Protection
+When equipped, copper nautilus armor gives  armor points.
+
+Smelting
+
+Smelting recipe: Copper Nautilus Armor → Copper Nugget, XP: 0,1.
+
+Sounds
+
+Data values
+
+:
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Textures
+
+Mojang images
+
+Screenshots
+
+Navigation
+
+fr:Armure pour nautile#Cuivre
+it:Armatura di rame per nautili
+ko:구리 앵무조개 갑옷
+pt:Armadura de Cobre para Náutilo
+uk:Мідні обладунки навтилуса

@@ -1,0 +1,98 @@
+TITLE: Potion of Poison
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Poison
+---
+A potion of Poison is a potion that provides Poison when used.
+
+Obtaining
+Generated loot
+
+In Bedrock Edition, the cauldron in a swamp hut has a 25% chance of containing a potion of Poison.
+
+Brewing
+
+Brewing recipe: Spider Eye + Awkward Potion → Potion of Poison.
+
+Brewing recipe: Redstone Dust + Potion of Poison → Potion of Poison Extended.
+
+Brewing recipe: Glowstone Dust + Potion of Poison → Potion of Poison Enhanced.
+
+Brewing recipe: Gunpowder + Potion of Poison Extended → Splash Potion of Poison Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Poison Extended → Lingering Potion of Poison Extended.
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion 1 Regular: 0:45
+
+Extended: 1:302:00 Regular: Causes up to  damage over time at a rate of 1 every 50 ticks, but does not reduce health below .
+
+Extended: Causes up to  or  damage over time, but does not reduce health below  2 0:21.60:22.5 Causes up to  damage over time, but does not reduce health below .Splash Potion 1Regular: 0:45
+
+Extended: 1:302:00 Regular: Causes up to  damage over time at a rate of 1 every 50 ticks, but does not reduce health below .
+
+Extended: Causes up to  or  damage over time, but does not reduce health below  2 0:21.60:22.5 Causes up to  damage over time, but does not reduce health below .Lingering Potion 1Regular: 0:11
+
+Extended: 0:22 Regular: Causes up to  damage over time at a rate of 1 every 50 ticks, but does not reduce health below .
+
+Extended: Causes up to  or  damage over time, but does not reduce health below  2 0:05 Causes up to  damage over time, but does not reduce health below .
+
+Base potion
+Potion of Poison is a base for brewing potions of Harming.
+
+Brewing recipe: Fermented Spider Eye + Potion of Poison → Potion of Harming.
+
+Brewing recipe: Fermented Spider Eye + Potion of Poison Enhanced → Potion of Harming Enhanced.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Poison; Lingering Potion of Poison Enhanced; Lingering Potion of Poison Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Poison, 8; Arrow of Poison Enhanced, 8; Arrow of Poison Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Extended  Enhanced Potion of Poison  25  26  27
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularExtendedLevel II Potion of Poison  poison  long_poison  strong_poison
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+See also
+
+Trivia
+A potion of Poison II lasts for 22.5 seconds, but it is displayed as 22 seconds because the item hover display shows truncated integer values.
+
+Navigation
+
+Category:Potions
+
+fr:Potion de poison
+pt:Poção de Veneno
+zh:剧毒药水

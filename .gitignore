@@ -6,7 +6,7 @@ venv/
 node_modules/
 data/pdfs/*.pdf
 data/chroma/
-data/wiki/*.txt
+.claude/
 # 📚 v4: no ignoramos data/logs/ ni data/benchmarks/ — son parte del portafolio.
 # Si prefieres no versionarlos, descomenta:
 # data/logs/

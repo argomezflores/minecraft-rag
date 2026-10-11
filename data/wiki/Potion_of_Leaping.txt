@@ -1,0 +1,85 @@
+TITLE: Potion of Leaping
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Leaping
+---
+A potion of Leaping is a potion that provides Jump Boost when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Rabbit's Foot + Awkward Potion → Potion of Leaping.
+
+Brewing recipe: Redstone Dust + Potion of Leaping → Potion of Leaping Extended.
+
+Brewing recipe: Glowstone Dust + Potion of Leaping → Potion of Leaping Enhanced.
+
+Brewing recipe: Gunpowder + Potion of Leaping Extended → Splash Potion of Leaping Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Leaping Extended → Lingering Potion of Leaping Extended.
+
+Generated loot
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion 1 Regular: 3:00  Extended: 8:00 Increases the jump height to 1.83 blocks and reduces fall damage by one block. 2 1:30 Further increases jump height to 2.51 blocks and reduces fall damage by two blocks.Splash Potion 1 Regular: 3:00  Extended: 8:00 Increases the jump height to 1.83 blocks and reduces fall damage by one block. 2 1:30 Further increases jump height to 2.51 blocks and reduces fall damage by two blocks.Lingering Potion 1 Regular: 0:45  Extended: 3:00 Increases the jump height to 1.83 blocks and reduces fall damage by one block. 2 0:22 Further increases jump height to 2.51 blocks and reduces fall damage by two blocks.
+
+Base potion
+Potion of Leaping is a base for brewing potions of Slowness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Leaping → Potion of Slowness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Leaping Extended → Potion of Slowness Extended.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Leaping; Lingering Potion of Leaping Enhanced; Lingering Potion of Leaping Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Leaping, 8; Arrow of Leaping Enhanced, 8; Arrow of Leaping Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended  Enhanced Potion of Leaping  9  10  11
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularLevel IIExtended Potion of Leaping  leaping  strong_leapinglong_leaping
+
+:
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+{{Issue list|Potion of Leaping}}
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de saut
+ko:도약의 물약
+pt:Poção de Salto
+zh:跳跃药水

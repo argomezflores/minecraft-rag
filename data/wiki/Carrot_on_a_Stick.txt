@@ -1,0 +1,95 @@
+TITLE: Carrot on a Stick
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Carrot_on_a_Stick
+---
+A carrot on a stick is a tool that can be used to control saddled pigs.
+
+Obtaining
+Crafting
+
+Crafting recipe: Fishing Rod; Damaged Fishing Rod, Carrot arranged in the crafting grid → Carrot on a Stick.
+
+Usage
+Riding a pig
+To use a carrot on a stick, the player must first saddle a pig, and ride it while holding the carrot on a stick. The pig then moves in the direction of the carrot. Also, if the player holds a carrot on a stick, all nearby pigs (but not rabbits) follow the player, but they can't breed using a carrot on a stick.
+
+To make the pig run faster, the player can press  while holding the carrot on a stick. This is called "boosting". Each boost costs 7 durability , or 2 durability . If the carrot on a stick's durability is depleted, it turns back into a fishing rod.
+
+The speed of a mounted pig is 2.42 m/s. Boosting a pig causes its speed to slowly ramp up until it reaches 2.15 times its normal speed, 5.20 m/s. Then speed slowly declines until the pig reaches normal speed again. The boost lasts between 140 and 980 game ticks (7 seconds and 49 seconds respectively), chosen randomly. No matter how many ticks the boost lasts, the average speed of pig during a full boost cycle is roughly 4.19 m/s. These boosted speeds are applied only while holding the carrot on a stick. These speeds are affected by the speed effect.
+
+Repairing
+Combining
+
+Unit repair
+
+A carrot on a stick can be combined with another carrot on a stick in an anvil, preserving the enchantments of both.
+
+Enchantments
+A carrot on a stick can receive the following enchantments:
+
++NameDescriptionMax LevelMethodWeightUnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the carrot on a stick when obtaining experience.I2Curse of VanishingThe carrot on a stick vanishes on death, not dropping as an item.	I1
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The name of this item may be derived from the English idiom carrot and stick, referring to the use of reward and threat as simultaneous motivators.
+
+Gallery
+Mojang images
+
+Sprites
+
+In other media
+
+See also
+
+References
+
+Navigation
+
+Category:Tools
+
+cs:Mrkev na prutu
+de:Karottenrute
+es:Caña con zanahoria
+fr:Carotte sur un bâton
+hu:Répa horgászboton
+it:Bastone e carota
+ja:ニンジン付きの棒
+ko:당근 낚싯대
+lzh:胡蘆菔釣竿
+nl:Wortel aan een stok
+pl:Marchewka na patyku
+pt:Vara com Cenoura
+ru:Удочка с морковью
+th:แคร์รอตติดเบ็ด
+uk:Морква на паличці
+zh:胡萝卜钓竿

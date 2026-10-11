@@ -1,0 +1,90 @@
+TITLE: Peony
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Peony
+---
+A peony is a tall flower that can be crafted into pink dye.
+
+Obtaining
+Breaking
+A peony can be broken instantly with any item or by hand, dropping itself.
+
+A peony also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Natural generation
+
+Peonies generate naturally on dirt and grass blocks in forests, flower forests, birch forests, old growth birch forests, and dark forests biomes as part of vegetation features. Peonies can also generate as part of abandoned camps in birch forests and forests.
+
+Post-generation
+
+When bone meal is applied to a peony, the flower drops a copy of itself.
+
+Usage
+
+Like other flowers, peonies can be used as decoration and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, mud, or muddy mangrove roots. Like other tall flowers, peonies cannot be placed inside flower pots.
+
+Crafting ingredient
+
+Bees
+Bees engage in a pollinating behavior with peonies, increasing the honey level in beehives and bee nests by 1.
+
+Breeding
+Peonies can be used to breed, grow, and lead bees.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of a peony have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Composting
+Placing a peony into a composter has a 65% chance of raising the compost level by 1. A stack of peonies yields an average of 5.94 bone meal.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Minecraft Education
+
+Historical gallery
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, a peony is any member of the Paeonia genus of flowering plants.
+Peonies were used at Jeb's wedding.http://instagram.com/p/dE8ljlJMLb/
+
+References
+
+External links
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Flowers
+Category:Double blocks
+
+fr:Pivoine
+ko:모란
+pt:Peônia
+zh:牡丹

@@ -1,0 +1,63 @@
+TITLE: Diamond Horse Armor
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Diamond_Horse_Armor
+---
+Diamond horse armor is the second-strongest tier of horse armor. Unlike other diamond items, it cannot be crafted and is only obtainable from chest loot in various structures.
+
+Obtaining
+Generated Loot
+
+Usage
+Only adult horses and zombie horses can wear diamond horse armor; baby horses, donkeys, mules and skeleton horses cannot be equipped with armor.
+
+Equipping
+Diamond horse armor can be equipped to a horse either by manually placing it in its respective slot () in the horse’s inventory, or by pressing Use on the horse while holding it.
+
+The diamond horse armor can be removed either by manually removing it from the armor slot or by using shears on the horse.
+
+Protection
+When equipped, diamond horse armor gives  armor points and 2 armor toughness.
+
+Horse armor protects zombie horses from burning in sunlight.
+
+If a horse dies while equipped with diamond horse armor, it drops its normal loot, a saddle (if it had one), and the horse armor.
+
+Upgrading
+
+Durability
+Unlike player armor or wolf armor, horse armor does not have durability. This means a single diamond horse armor can be used infinitely unless it is destroyed through other means.
+
+Enchanting
+Unlike player armor, horse armor cannot be enchanted in Survival mode. However,  Creative mode, horse armor can be used with an anvil to enchant with Thorns, Feather Falling, Protection, Fire Protection, Projectile Protection, Blast Protection, Curse of Binding, and Curse of Vanishing. Other enchantments can be applied, but they have no effect.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Combat
+Category:Armor
+
+fr:Armure pour cheval#Diamant
+pt:Armadura de Diamante para Cavalo

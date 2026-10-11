@@ -1,0 +1,62 @@
+TITLE: Heavy Core
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Heavy_Core
+---
+A heavy core is a rare block that can only be obtained from ominous vaults found in trial chambers. It can be combined with a breeze rod to craft a mace.
+
+Obtaining
+Generated loot
+
+Breaking
+A heavy core can be mined with any tool or by hand, but a pickaxe is the most effective. It always drops itself when mined.
+
+Usage
+Crafting ingredient
+
+Piston interactivity
+, just like glazed terracotta, heavy cores can be pushed by pistons but can't be pulled by sticky pistons. They also don't stick to slime blocks and honey blocks. , they can be both pushed and pulled by pistons. They also stick to slime blocks and honey blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+History
+Teaser
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The block is described by Mojang as 'dense' and 'mysterious'.
+
+Gallery
+
+References
+
+Navigation
+
+de:Schwerer Kern
+es:Núcleo pesado
+fr:Noyau lourd
+ja:ヘビーコア
+ko:무거운 코어
+lzh:重核
+pl:Ciężki rdzeń
+pt:Núcleo Pesado
+ru:Навершие булавы
+th:แกนหนัก
+uk:Важке ядро
+zh:沉重核心

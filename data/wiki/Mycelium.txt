@@ -1,0 +1,101 @@
+TITLE: Mycelium
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mycelium
+---
+Mycelium is a particularly rare variant of dirt that is only found naturally in mushroom fields biomes. It has a particle effect that resembles tiny spores being released constantly from the surface.
+
+Obtaining
+Breaking
+Mycelium can be obtained by mining it using a tool with the Silk Touch enchantment. If mined with any other tool or by hand, it drops dirt. A shovel is the fastest tool to collect it.
+
+Natural generation
+Mycelium generates in mushroom fields biomes in abundance.
+
+Mob loot
+Endermen can pick up mycelium blocks, and drop the block they are holding if killed.
+
+Usage
+Spread
+Mycelium can spread to any dirt block within one space above, one sideways, or three down. Mycelium needs at least light level 9 above it, while dirt needs at least light level 4 above it and must not be covered by any light-impeding block or any opaque block. Mycelium reverts to dirt when covered by a light-impeding block above, and the light level at that block is below 4. The death and spread behaviors are checked when a random tick lands on the block.
+
+If there is a plant on a dirt block when mycelium spreads to it, the plant pops out and drops as an item.
+
+Dirt path
+Mycelium can be turned into a dirt path by  any type of shovel on it.
+
+Effect on plants and mobs
+Mushrooms and Nether fungi can remain on mycelium blocks in any light level, unlike on other blocks, where mushrooms are broken (dropping as items) during block updates in high light.
+Huge mushrooms can grow on mycelium, just as they can grow on dirt, grass blocks, or podzol.
+Mycelium cannot be directly tilled with a hoe to make farmland.
+However, it can first be converted to dirt path using a shovel, then tilled with a hoe to create farmland.
+Sniffers cannot dig on mycelium.
+
+Death
+Mycelium dies and changes to dirt a random time (when a random tick lands on the block) after it has been covered by any opaque blocks. Transparent blocks can kill mycelium in a similar manner if they cause the light level above the mycelium to be four or below (like water does) and the surrounding area is not otherwise sufficiently illuminated.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+In real life,  is the part of a  that gathers nutrients. Mycelium consists of web-like threads known as . Mycelium can be considered the roots of a fungus, whereas the mushrooms can be considered the fruits. Mycelium itself does not produce spores, although its particle effect in Minecraft may look like spores.
+
+Gallery
+Screenshots
+
+See also
+Mycelium on Wikipedia
+
+References
+The only creatures that spawn other than the mooshrooms are bats, though sometimes you’ll find wandering traders passing through.
+
+External links
+Block of the Week: Mycelium – Minecraft.net on November 28, 2016
+
+Navigation
+
+Category:Natural blocks
+Category:Fungi
+
+cs:Podhoubí
+de:Myzel
+es:Micelio
+fr:Mycélium
+hu:Gombafonal
+it:Micelio
+ja:菌糸
+ko:균사체
+lzh:盤菌土
+nl:Zwamvlok
+pl:Grzybnia
+pt:Micélio
+ru:Мицелий
+uk:Грибниця
+zh:菌丝体

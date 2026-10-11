@@ -1,0 +1,46 @@
+TITLE: Power
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Power
+---
+Power is an enchantment applied to bows that increases arrow damage.
+
+Obtaining
+Power can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, trading with librarians, and non-village structure loot.
+
+Usage
+Power increases arrow damage by 25% × (level + 1), rounded up to the nearest half-heart.
+
++ Maximum bow damage by Power level and bow charge Level Increase No charge Medium charge Full charge Critical charge Not enchanted +0% (2.0)     to  randomly I +50% (3.0)     to  randomly II +75% (3.5)     to  randomly III +100% (4.0)     to  randomly IV +125% (4.5)     to  randomly V +150% (5.0)     to  randomly
+
+Specific cases
+If Power is applied to a crossbow by use of commands or an anvil in Creative, the enchantment boosts the weapon's projectile damage when using arrows as ammo, but not when using firework rockets as ammo. If Power is applied to a trident by use of commands or an anvil in Creative, the enchantment does not boost the weapon's projectile damage, and instead Sharpness has this effect.
+
+Data values
+
+ID
+
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+de:Stärke
+es:Poder
+fr:Puissance
+ja:射撃ダメージ増加
+pt:Força (encantamento)
+th:พลังยิง
+uk:Сила
+zh:力量（魔咒）

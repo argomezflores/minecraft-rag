@@ -1,0 +1,101 @@
+TITLE: Ominous Trial
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Ominous_Trial
+---
+thumb|Trial chambers during an ominous trial
+
+An ominous trial is an ominous event in which trial chambers become more challenging.
+
+Behavior
+Initiation
+When a player with Bad Omen is seen by a (non-ominous) trial spawner, the player's Bad Omen is replaced with Trial Omen. The duration of the Trial Omen is always 15 minutes multiplied by the level of Bad Omen, regardless of the remaining duration on the Bad Omen effect. If the player already has the Trial Omen effect, with T minutes remaining, and also has Bad Omen level X (with any amount of time remaining), and is seen by a trial spawner, the player loses the Bad Omen effect (regardless of the values of T and X), and the time remaining on the Trial Omen is set to max(T, 15*X). If T > 15*X, then the Bad Omen is effectively wasted. Notice that the player cannot stack lower levels of Bad Omen to increase the time remaining.
+
+When a trial spawner sees a player with Trial Omen or Bad Omen, it becomes ominous.
+
+Time and place
+The ominous trial is controlled by the ominous trial spawners. The challenge is provided by the mobs and projectiles spawned by the spawners (more info in ). Therefore, the ominous trial is located where the ominous trial spawners are, and the duration of the trial is the duration of time that the spawners are both active and ominous. Non-ominous trial spawners also become part of the trial if a player with Bad Omen or Trial Omen is nearby, since the spawners become active and ominous when they see the player.
+
+In summary, an ominous trial
+Lasts as long as either:
+There are active ominous trial spawners in the location.
+There is a player with Trial Omen and there are trial spawners in the location.
+Takes place in:
+Any location where there are active ominous trial spawners nearby.
+
+Spawner conversion
+
+When an active trial spawner becomes ominous, it despawns its current mobs and resets its total mobs spawned counter. An inactive trial spawner can also become ominous if it was not previously ominous before going on cooldown, in which case it skips the rest of its cooldown period and immediately becomes active again.
+
+The Trial Omen effect is not removed upon a trial spawner becoming ominous. Therefore, the ominous trial lasts until the effect runs out or is cleared.
+
+Challenge
+
+An ominous trial spawner spawns more difficult mobs and also hazardous projectiles.
+
+Mobs
+Ominous trial spawners converted from trial spawners that generate naturally in trial chambers spawn applicable mobs with (better) weapons and wearing armor.
+
+Each armor set consists of a chestplate and helmet, with each piece having a 50% chance of being missing. All armor is enchanted with Fire Protection IV, Projectile Protection IV, and Protection IV. , mobs don't drop the armor on death or upon conversion to a drowned. The armor is selected from:
+with  in  (4 in 7)
+with  in  (2 in 7)
+with  in  (1 in 7).
+
+Melee mobs spawn with a weapon selected from:
+(4 in 7)
+with Sharpness I (1 in 7)
+with Knockback I (1 in 7)
+(1 in 7).
+
+Ranged mobs spawn with a  with:
+no enchantment (2 in 4)
+Power I (1 in 4)
+Punch I (1 in 4).
+
+Ominous trial spawners with mobs that are unable to wear equipment, such as spiders or silverfish, spawn double the total mob count over the course of the challenge. These spawners also allow an additional mob to be all out at once during their challenge.
+
+Projectile spawning
+When at least one player is within the activation range of an ominous trial spawner, every 8 seconds it spawns ominous item spawners above any player or any mob that was spawned by the ominous trial spawner within 14 blocks. The location where it should spawn is determined by first performing a raycast from the feet of the entity to a random height between 2 and 6 blocks above the entity. If it hits a block, this block is used, otherwise the end of the line is used. Which block can be hit is determined by the same algorithm as the 3rd person camera. The item spawns in the center of the block below it, unless the block has a collision box. The ominous item spawner displays a projectile for 3 to 6 seconds before shooting that projectile downward.
+
+Each ominous trial spawner has a set of 2 projectiles it spawns, one of which is a lingering potion. The lingering potion effect is selected randomly from one of the following (all with equal chance):
+
+The second projectile is randomly selected from one of the following (again, all with equal chance):
+
+with  (0:45)
+with  IV (0:20)
+
+The potions and projectiles chosen do not change between trials and are based on location, so it is likely that spawners close to each other have the same projectiles.
+
+Rewards
+
+Like its non-ominous variant, an ominous trial spawner ejects loot when it has spawned the total amount of mobs it is able to spawn during a period of activity, and all of those mobs have been defeated. The ominous trial spawner uses a different loot table and gives better loot than a non-ominous trial spawner would. The ominous trial spawner's loot table includes items such as ominous trial keys. This is currently the only method of obtaining ominous trial keys.
+
+The ominous trial keys can then be used at any time to open ominous vaults. Each ominous vault can be opened once by each player. A player can open an ominous vault by  an ominous trial key on it.
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Mojang screenshots
+
+See also
+Raid
+
+References
+
+Navigation
+
+Category:Gameplay
+
+de:Unheilvolle Prüfung
+es:Desafío ominoso
+fr:Épreuve funeste
+ja:不吉な試練
+pt:Desafio sombrio
+ru:Зловещее испытание
+uk:Зловісне випробування

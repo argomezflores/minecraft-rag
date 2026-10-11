@@ -1,0 +1,96 @@
+TITLE: Stonecutter
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Stonecutter
+---
+A stonecutter is a block used to easily craft many stone and copper blocks, and is cheaper than normal crafting for stairs and copper variants. It is also a job site block for mason villagers.
+
+Obtaining
+Breaking
+A stonecutter can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Crafting
+
+Crafting recipe: Iron Ingot, Stone, Stone, Stone arranged in the crafting grid → Stonecutter.
+
+Natural generation
+Stonecutters can generate inside mason houses in villages.
+
+Usage
+Cutting
+thumb|right|Interface for the stonecutter , cutting a stone into two stone slabs
+
+The stonecutter can be used as an alternative to the crafting table to craft most stone-related blocks. All of its recipes require just one ingredient and produce one product (in varying quantities). It allows skipping steps to craft certain blocks; for example, a stone block can be directly turned into chiseled stone bricks, something that requires multiple steps when crafting. It can also be used to cut brick related blocks, such as resin bricks.
+thumb|Interface for the stonecutter on Bedrock Edition, cutting Stone into Cobblestone
+Unique to the stonecutter is the ability to cut stone into cobblestone and its slab, stairs, and wall variants, and deepslate into cobbled deepslate, polished deepslate, deepslate bricks, deepslate tiles, and their slab, stairs, and wall variants.
+
+Stonecutting is also more efficient than crafting for certain recipes. Crafting stairs is more efficient with a stonecutter than a crafting table, as 6 full blocks are crafted into 4 stairs, while stonecutter yields 1 stair per full block. The recipe for cut copper is even more efficient: with stonecutting, 1 block of copper turns into 4 blocks of cut copper, allowing the amount of copper blocks to be quadrupled.
+
+The GUI contains a block selection menu that is empty. The menu is populated with blocks that can be crafted from that particular material, only if a block is inserted into its input.
+
+Profession
+
+If a stonecutter has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to a mason and claim the stonecutter as their job site block.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+Even though the iron blade appears to be spinning rapidly, it deals no damage and has no hitbox.
+The stonecutter was most likely based on the old stonecutter from Bedrock Edition, as it has similar functionality.
+
+Gallery
+
+External links
+Block of the Week: Stonecutter – Minecraft.net on February 18, 2021
+
+Navigation
+
+Category:Job blocks
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Blocks with GUI
+
+de:Steinsäge
+es:Cortapiedras
+fr:Tailleur de pierre
+it:Tagliapietre
+ja:石切台
+ko:석재 절단기
+lzh:鑿石器
+nl:Steenzaag
+pl:Przecinarka
+pt:Cortador de Pedras
+ru:Камнерез
+th:เครื่องตัดหิน
+uk:Каменеріз
+zh:切石机

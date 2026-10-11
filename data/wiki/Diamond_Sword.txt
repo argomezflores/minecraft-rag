@@ -1,0 +1,105 @@
+TITLE: Diamond Sword
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Diamond_Sword
+---
+A diamond sword is a variant of sword that is crafted from diamonds. It is the second-highest tier of sword, dealing more damage than an iron sword and having higher durability. It can be upgraded into a netherite sword using a netherite ingot and netherite upgrade at a smithing table.
+
+Obtaining
+Generated loot
+
+Crafting
+A diamond sword is crafted using 1 stick and 2 diamonds.
+
+Crafting recipe: Diamond, Diamond, Stick arranged in the crafting grid → Diamond Sword.
+
+Trading
+thumb|right|The diamond sword trade of a weaponsmith.
+
+Usage
+Breaking
+
+A sword can also be used to destroy certain blocks 50% quicker, sometimes much quicker than with fists. Using a sword to destroy any block that doesn't break instantly by hand decreases its durability by 2; this includes bamboo, despite that the sword is the fastest tool for breaking it.
+
+If a sword is enchanted with Silk Touch, either using Creative or commands, cobwebs the sword destroys drop the cobwebs themselves instead of the usual string. This is due to the sword being classified as the proper tool for cobwebs.
+
+Creative mode
+In Creative mode, swords are unable to break blocks. However, they can still break placed entities such as minecarts, paintings, item frames, and armor stands.
+
+Attacking
+
+A diamond sword is used to deal damage to mobs and entities by  them. The diamond sword has  base damage  and  base damage , and can be enchanted to deal more damage. The following tables show how the Sharpness enchantment affects the damage dealt by the sword.
+
+Extra damage of Sharpness enchantment
++Sharpness extra damageEditionIIIIIIIVV
+
+Total damage of sword with Sharpness
+The tables below assume that the attack is fully charged, the target is not wearing armor, and neither the attacker nor the target has any effects.
+
+Java Edition
++Diamond sword Sharpness damageAttack typeBase damageSharpness ISharpness IISharpness IIISharpness IVSharpness VNormal Critical
+
+Bedrock Edition
++Diamond sword Sharpness damageAttack typeBase damageSharpness ISharpness IISharpness IIISharpness IVSharpness VNormal Critical
+
+Repairing
+Combining
+
+Anvil repair
+
+A diamond sword can be repaired in an anvil by adding diamonds, with each repair diamond restoring 25% the sword's maximum durability, rounded down. Two diamond swords can also be combined in an anvil. Both methods preserve the diamond sword's enchantments.
+
+Enchantments
+A diamond sword can receive the following enchantments:
+
++NameDescriptionMax levelMethodWeightSharpnessSharpness, Smite, and Bane of Arthropods are mutually exclusive.Increases the damage dealt.V10SmiteIncreases the damage dealt to undead.V5Bane of ArthropodsIncreases the damage dealt to arthropods.V5LootingIncreases the amount of drops when killing an entity with the sword.III2KnockbackIncreases the knockback dealt.II5Fire AspectIgnites any targets hit by the sword. , it also lights unlit candles, campfires, and blocks of TNT when used.II2Sweeping EdgeIncreases the sweeping damage dealt.III2UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the sword when obtaining experience.I2Curse of VanishingThe sword vanishes on death, not dropping as an item.I1
+
+Upgrading
+Like other diamond items, a diamond sword can be upgraded to a netherite sword, increasing its durability and attack damage, as well as granting resistance to fire and lava when dropped as an item.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The diamond sword's original texture is a blue version of the sword from Notch's abandoned RPG, Legend of the Chambered, in which the sword looks like the old iron sword texture.
+Plastic diamond and enchanted swords were once official Minecraft merchandise. However, they can no longer be purchased.https://shop.minecraft.net/products/minecraft-sword?_pos=1&_psq=sword&_ss=e&_v=1.0https://shop.minecraft.net/products/minecraft-enchanted-purple-sword?_pos=4&_psq=sword&_ss=e&_v=1.0
+In the game Transformice, a diamond sword can be found in the shop.
+
+Gallery
+
+Renders
+
+In other media
+
+References
+
+See also
+
+Navigation
+
+Category:Combat
+
+fr:Épée#Diamant
+ko:다이아몬드 검
+pt:Espada de Diamante

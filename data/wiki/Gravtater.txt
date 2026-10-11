@@ -1,0 +1,46 @@
+TITLE: Gravtater
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Gravtater
+---
+A gravtater is a joke block only present in 24w14potato. It generates naturally in the Potato dimension and is essentially a potato variant of Gravel.
+
+Obtaining
+Breaking
+
+Natural generation
+Gravtater covers most of the surface of the hash biome. It also generates in blobs throughout the entire Potato dimension, similarly to how gravel generates in Overworld.
+
+Usage
+Gravtater can replace sand for most purposes.
+
+It is affected by gravity, and if the block generates floating, it produces falling dust particles. Gravtater can be used to craft TNT and be smelted into glass (as shown below), however it cannot be used to craft sandstone or concrete powder. Cactus and bamboo can grow on gravtater, and sugar cane can also grow if the block is adjacent to water. Turtles can lay their eggs on gravtater. Sculk catalysts can replace gravtater with sculk blocks.
+
+Unlike sand, this block supports growing potatoes, like farmland.
+
+Crafting ingredient
+
+Crafting recipe: Gunpowder, Gravtater, Gunpowder, Gravtater, Gunpowder, Gravtater, Gunpowder, Gravtater, Gunpowder arranged in the crafting grid → TNT.
+
+Crafting recipe: Gravtater, Gravtater, Gravtater, Gravtater, Wither Skeleton Skull, Gravtater, Gravtater, Gravtater, Gravtater arranged in the crafting grid → Vicious Potato.
+
+Smelting ingredient
+
+Smelting recipe: Gravtater → Glass, XP: 0.1.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Natural blocks
+Category:Blocks
+Category:Joke blocks
+Category:Joke features
+Category:Poisonous Potato Dimension (joke dimension)
+
+ja:Gravtater
+ru:Гравтофель
+zh:马铃砂

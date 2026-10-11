@@ -1,0 +1,84 @@
+TITLE: Iron Chain
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Iron_Chain
+---
+Iron chains are metal decoration blocks and the iron variant of the chain.
+
+Obtaining
+Breaking
+Iron chains can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Iron Nugget, Iron Ingot, Iron Nugget arranged in the crafting grid → Iron Chain.
+
+Natural generation
+Iron chains can generate in treasure room bastion remnants and sometimes in ruined portals that generate in the Nether. They always generate above magma cube spawners, also found in treasure room bastions.
+
+Iron chains can also generate in mineshafts. They generate on the sides of a wooden bridge (a mid-air corridor) when the distance between the bridge and the highest solid block below it is higher than the distance to the lowest solid block above it. Iron chains here generate vertically in a pillar between the bridge and the ceiling. The lowest block of the pillar, connecting the chain to the bridge, is always an oak fence.
+
+In addition, iron chains can also generate in trial chambers making up various hanging platforms in certain rooms.
+
+Generated loot
+
+Usage
+
+Iron chains share several common block placement functionalities with copper chains.
+
+, iron chains are not conductive, but the comparator can work in being separated from the measured block by a chain.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+A vertical iron chain, being a solid, but not a full block, allows for many sizes of mobs and players to pass alongside each piece horizontally.
+Despite its name, it cannot be crafted into chainmail armor.
+Iron chains do not stick together when moved by pistons, regardless of orientation.
+
+Gallery
+Renders
+
+Mojang screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Nether blocks
+
+de:Eisenkette
+es:Cadena de hierro
+fr:Chaîne en fer
+it:Catena di ferro
+ja:鉄の鎖
+ko:철 사슬
+lzh:鐵鏈
+pl:Łańcuch
+pt:Corrente de Ferro
+ru:Железная цепь
+uk:Залізний ланцюг
+zh:铁链

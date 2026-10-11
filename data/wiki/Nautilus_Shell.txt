@@ -1,0 +1,66 @@
+TITLE: Nautilus Shell
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Nautilus_Shell
+---
+A nautilus shell is an item that is rarely dropped by killed nautiluses, always dropped by drowned that  hold them, and it can be fished out of water. Nautilus shells, along with hearts of the sea, are required to craft conduits.
+
+Obtaining
+Mob loot
+Drowned have a 3% or 8% chance to spawn with a nautilus shell in their off-hand, and they always drop that nautilus shell upon death. , this also includes zombies converted into drowned.
+
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 nautilus shell when killed while showing the item as trade offer, if the player holds an emerald.
+
+Fishing
+
+Nautilus shells are obtainable through fishing as a treasure item, with a 0.8% chance to obtain one, per catch, without Luck of the Sea. Like other treasure items, this chance is then increased to 1.2% with Luck of the Sea I, 1.5% with Luck of the Sea II, and 1.9% with Luck of the Sea III.
+
+Trading
+Wandering traders may sell 1 nautilus shell for 5 emeralds.
+
+Usage
+, a nautilus shell is one of the few items that can be held in the off-hand.
+
+Crafting ingredient
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Prior to the addition of the nautilus mob to the game, in a Taking Inventory article on minecraft.net, Duncan Geere stated that nautiluses may have once existed in the Minecraft world, but became extinct.
+
+Gallery
+
+In other media
+
+See also
+
+References
+
+Navigation
+
+de:Nautilusschale
+es:Caparazón de nautilo
+fr:Coquille de nautile
+it:Conchiglia di nautilo
+ja:オウムガイの殻
+ko:앵무조개 껍데기
+lzh:鸚鵡螺殼
+nl:Nautilusschelp
+pl:Muszla łodzika
+pt:Concha de Náutilo
+ru:Раковина наутилуса
+th:เปลือกหอยงวงช้าง
+uk:Мушля навтилуса
+zh:鹦鹉螺壳

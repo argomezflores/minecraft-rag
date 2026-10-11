@@ -1,0 +1,34 @@
+TITLE: Corrupted Potato Peels
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Corrupted_Potato_Peels
+---
+Corrupted potato peels are a joke item only present in 24w14potato. They are a special variant of potato peels.
+
+Obtaining
+Corrupted potato peels drop when using the potato peeler on a corrupted peelgrass block, or when the mega spud is damaged enough to activate its next phase. Unlike normal peels, corrupted ones can't drop from using the potato peeler on their respective peel block.
+
+Crafting
+
+Crafting recipe: Block of Corrupted Potato Peels arranged in the crafting grid → Corrupted Potato Peels,9.
+
+Usage
+Corrupted peelgrass
+corrupted potato peels on a terre de pomme block turns it into corrupted peelgrass block.
+
+Crafting ingredient
+
+Crafting recipe: Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels, Corrupted Potato Peels arranged in the crafting grid → Block of Corrupted Potato Peels.
+
+Advancements
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke items
+Category:Renewable resources
+
+ja:Corrupted Potato Peels
+zh:腐败的马铃薯皮

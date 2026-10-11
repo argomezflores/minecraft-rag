@@ -1,0 +1,97 @@
+TITLE: Leather Cap
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Leather_Cap
+---
+A leather cap is a variant of helmet that is crafted from leather. It is the eighth-highest tier of helmet, having the lowest armor points and durability. Like all leather armor, it can be dyed and protects the wearer from freezing.
+
+Obtaining
+Crafting
+
+Crafting recipe: Leather, Leather, Leather, Leather, Leather arranged in the crafting grid → Leather Cap.
+
+Generated loot
+
+Mob loot
+Zombies, husks, zombie villagers, skeletons, strays, bogged, and parched have a small chance to spawn wearing armor, which may include a leather cap. There is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop the cap they're wearing upon death. The dropped cap is usually badly damaged, and may be enchanted with enchantment levels 5-19.
+
+Trading
+
+Usage
+When worn, a leather cap provides  armor point.
+
+Powder snow
+As with all pieces of leather armor, wearing a leather cap protects the player from freezing in powder snow.
+
+Repairing
+Combining
+
+Unit repair
+
+A leather cap can be repaired in an anvil by adding leather, with each leather restoring 25% the cap's maximum durability, rounded down. Two helmets of the same tier can also be combined in an anvil. Both methods preserve the cap's enchantments.
+
+Enchantments
+A leather cap can receive the following enchantments.
++NameDescriptionMax LevelMethodWeightProtectionProtection, Projectile Protection, Blast Protection, and Fire Protection are mutually exclusive.Increases overall damage reduction.IV10Projectile ProtectionIncreases damage reduction against projectiles.IV5Blast ProtectionIncreases damage reduction against explosions.IV2Fire ProtectionIncreases damage reduction against fire.IV5ThornsDeals returning damage to attackers.III1RespirationExtends breathing time underwater.III2Aqua AffinityIncreases underwater mining speed.I2UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the helmet when obtaining experience.I2Curse of VanishingThe helmet vanishes on death, not dropping as an item.I1Curse of BindingRemoves the ability to de-equip the helmet.I1
+
+Armor trimming
+It is possible to upgrade armor with trims. This requires a smithing template, a leather cap, and an ingot or crystal (iron ingot, copper ingot, gold ingot, netherite ingot, emerald, redstone dust, lapis lazuli, amethyst shard, nether quartz, diamond, or resin brick).
+
+These trims have no effect on the gameplay or strength of the armor.
+
+Dyeing
+
+Leather caps can be dyed by combining it with dye(s) through crafting , or by  it on a cauldron containing dyed water .  dyed leather caps on a cauldron containing ordinary water removes any dye from it.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Achievements
+
+History
+
+Before Minecraft
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Armor durability from Indev until late Beta
+Leather Golden Chainmail Iron Diamond 33 66 66 132 264
+
+Data history
+
+Issues
+
+Gallery
+Renders
+
+Notes
+
+References
+
+External links
+Taking Inventory: Helmet – Minecraft.net on February 20, 2020
+
+Navigation
+
+fr:Casque#Cuir
+uk:Шкіряна шапка

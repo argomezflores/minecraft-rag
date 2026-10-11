@@ -1,0 +1,69 @@
+TITLE: Music Disc mall
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_mall
+---
+"mall" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "mall".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:Mall.ogg
+
+"mall" Starts as a calm, underwater-like piece of serene music being played on a soft, chiming keyboard synth sound. Then it changes into an electronic song before ending as it started.
+
+Usage
+Like all music discs,  the "mall" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "mall", it will emit a redstone signal of 6.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Mall" mall.ogg music_disc.mall
+
+:
+
+Soundtrack Title File name Sound events "Mall" mall.ogg record.mall
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:C418
+Category:Minecraft - Volume Beta
+Category:Music discs
+
+fr:Disque mall
+ja:mall
+ko:음반 mall
+pt:Disco Musical mall
+ru:Пластинка «mall»
+uk:Платівка «mall»
+zh:音乐唱片mall

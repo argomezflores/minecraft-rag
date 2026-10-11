@@ -1,0 +1,54 @@
+TITLE: Eye Armor Trim
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Eye_Armor_Trim
+---
+An eye armor trim is a type of smithing template used in smithing tables to add a trim to armor. It is consumed when used, but can be duplicated using an existing template, end stone, and seven diamonds.
+
+Obtaining
+This item is found in strongholds. Once obtained, it can be duplicated using the crafting recipe below.
+
+Cloning
+
+Crafting recipe: Diamond, Eye Armor Trim, Diamond, Diamond, End Stone, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Eye Armor Trim Smithing Template,2.
+
+Chest loot
+
+Usage
+It is an ingredient in its own recipe, making it possible to craft more after the initial item is found.
+
+Crafting ingredient
+
+Crafting recipe: Diamond, Eye Armor Trim, Diamond, Diamond, End Stone, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Eye Armor Trim Smithing Template,2.
+
+Smithing ingredient
+
+Using the smithing table, the eye armor trim can be applied to any armor piece, using any trim material.
+
+Data values
+
+ID
+:
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+Category:Smithing templates
+
+fr:Ornement de l'oeil
+ko:눈 갑옷 장식
+pt:Enfeite de Olho
+ru:Отделка «Око»
+th:ลายแต่งเกราะดวงตา
+zh:眼眸盔甲纹饰

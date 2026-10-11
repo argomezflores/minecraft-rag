@@ -1,0 +1,62 @@
+TITLE: Polished Diorite
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Diorite
+---
+Polished diorite is the polished version of diorite.
+
+Obtaining
+Breaking
+Polished diorite can be mined using any pickaxe. If broken without a pickaxe, it drops nothing.
+
+Natural generation
+Polished diorite can generate in warm ocean ruins.
+
+Crafting
+
+Crafting recipe: Diorite, Diorite, Diorite, Diorite arranged in the crafting grid → Polished Diorite,4.
+
+Stonecutting
+
+Trading
+
+Usage
+Polished diorite is currently used only for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+Screenshots
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+it:diorite levigata
+ko:윤나는 섬록암
+lzh:鎣閃綠石
+pt:Diorito Polido
+uk:Полірований діорит
+zh:磨制闪长岩

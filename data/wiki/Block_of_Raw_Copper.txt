@@ -1,0 +1,54 @@
+TITLE: Block of Raw Copper
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Raw_Copper
+---
+A block of raw copper, internally known as a raw copper block, is a raw metal block equivalent to nine raw copper.
+
+Obtaining
+Breaking
+Blocks of raw copper can be mined only with a stone pickaxe or better.
+
+Natural generation
+Blocks of raw copper can be found rarely inside of copper ore veins above Y=0, with a 2% chance of replacing any given copper ore. They cannot replace copper ore in regular ore blobs.
+
+Crafting
+
+Usage
+Blocks of raw copper are a compact way to store raw copper. They cannot be smelted into a block of copper.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Ore
+Category:Compacted blocks
+Category:Natural blocks
+Category:Manufactured blocks
+
+de:Rohkupferblock
+es:Bloque de cobre en bruto
+fr:Bloc de cuivre brut
+it:Blocco di rame grezzo
+ja:銅の原石ブロック
+ko:구리 원석 블록
+lzh:銅石塊
+pl:Blok rudy miedzi
+pt:Bloco de Cobre Bruto
+ru:Блок необработанной меди
+uk:Блок необробленої міді
+zh:粗铜块

@@ -1,0 +1,72 @@
+TITLE: Nether Brick Fence
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Brick_Fence
+---
+A Nether brick fence is a Nether brick variant of fences used to form Nether fortresses in the Nether.
+
+Obtaining
+Breaking
+Nether brick fences can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+
+Natural generation
+Nether brick fences generate as part of Nether fortresses, where they form window bars, balcony fencing, and portcullises.
+
+Crafting
+
+Crafting recipe: Nether Bricks, Nether Brick, Nether Bricks, Nether Bricks, Nether Brick, Nether Bricks arranged in the crafting grid → Nether Brick Fence,6.
+
+Usage
+
+Nether brick fences are non-flammable and have the same blast resistance as most stone blocks. Nether brick fences have the same usages as regular fences to form barriers and attaching mobs with a lead.
+
+Barrier
+Nether brick fences connect to most blocks, including wooden fence gates, but not wooden fences.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Nether bricks are the only block to have both a fence variant and a wall variant.
+It is the only type of fence which does not have a fence gate counterpart
+
+Gallery
+
+See also
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+
+fr:Barrière en briques du Nether
+ja:ネザーレンガのフェンス
+ko:네더 벽돌 울타리
+pl:Netherowy płot
+pt:Cerca de Tijolos do Nether
+ru:Забор из кирпичей Нижнего мира
+uk:Паркан із незерської цегли
+zh:下界砖栅栏

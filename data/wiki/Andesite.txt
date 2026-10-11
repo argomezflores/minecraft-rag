@@ -1,0 +1,82 @@
+TITLE: Andesite
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Andesite
+---
+Andesite is a block of igneous rock, most often found in large pockets in the ground.
+
+Obtaining
+Breaking
+Andesite can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+
+Andesite can generate in the Overworld in the form of ore blobs. Andesite attempts to generate in two batches. The first batch generate 2 times per chunk in blobs of size 0-864, from elevations 0 to 60, in all biomes. The second batch has  chance to generate blobs of size 0-864, from elevation 64 to 128. , andesite can replace stone, diorite, granite, polished andesite, polished diorite and polished granite. , andesite can replace stone, diorite, granite, tuff and deepslate.
+
+, andesite generates naturally in coral reefs, replacing some coral as part of coral crusts.
+
+Crafting
+
+Usage
+Andesite has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Trading
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+In the real world,  rock comes from above-ground s. Finding andesite underground means the world's surface used to be lower, and the lava flow was buried.
+is andesite's below-ground equivalent: The two rocks come from the same kind of , but diorite rocks are formed from solidifying underground s. The long, slow cool makes it look coarser than andesite.
+
+Gallery
+Screenshots
+
+In other media
+
+See also
+
+References
+
+External links
+
+Navigation
+
+Category:Natural blocks
+
+cs:Andezit
+de:Andesit
+es:Andesita
+fr:Andésite
+it:Andesite
+ja:安山岩
+ko:안산암
+lzh:安山石
+nl:Andesiet
+pl:Andezyt
+pt:Andesito
+ru:Андезит
+th:หินแอนดีไซต์
+uk:Андезит
+zh:安山岩

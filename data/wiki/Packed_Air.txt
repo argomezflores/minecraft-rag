@@ -1,0 +1,39 @@
+TITLE: Packed Air
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Packed_Air
+---
+Packed air is a joke block only present in Java Edition 23w13a_or_b.
+
+Obtaining
+Packed air can be obtained only after voting for the rule air_blocks. Just like air, it cannot be targeted, but can be placed with  command.
+
+Crafting
+
+Crafting recipe: Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke), Air (April Fools' joke) arranged in the crafting grid → Packed Air.
+
+Usage
+Packed air can permanently fill the player's breath bar when standing in it.
+
+It can exist only in closed rooms on the Moon, otherwise it disappears like water in the Nether when placing it in an open space on the Moon, anywhere in another dimension or when the closed room is opened. There is a maximum size of room that can be filled with packed air, which is 127 blocks. However, the room can be expanded after placing packed air down, and packed air keeps filling new space if no more than 126 empty blocks are added at once to the room.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+Issues
+
+Navigation
+
+Category:Light sources
+Category:Manufactured blocks
+Category:Joke blocks
+
+es:Aire compacto
+fr:Air compactée
+ja:Packed Air
+zh:压缩空气

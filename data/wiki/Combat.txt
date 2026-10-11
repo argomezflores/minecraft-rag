@@ -1,0 +1,63 @@
+TITLE: Combat
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Combat
+---
+thumb|Steve and Alex engaging in combat.
+
+Combat represents the act of fighting mobs and other players.
+
+Mechanics
+Melee attack
+Attack damage
+Attack cooldown
+Attack range
+Attack knockback
+Hitbox margin
+Special attack
+Critical hit
+Sprint-knockback attack
+Sweep attack
+Crushing blow
+Smash attack
+Charge attack
+Ranged attack
+Projectile damage
+Charge time
+Inaccuracy
+Armor
+Armor points
+Armor toughness
+Knockback resistance
+Food
+Hunger
+Natural regeneration
+Starvation
+Saturation
+Saturation boost
+Eating
+Consumption time
+Exhaustion
+Energy-intensive actions
+
+Combat system
+The combat system is different between  and , and is one of the biggest differences between the two editions.
+
+Differences between Java and Bedrock
+thumb|The attack cooldown triggering from attacking in .
+thumb|Saturation boost triggering from reaching full hunger in .
+Attack cooldown Java Edition  Bedrock EditionThe attack cooldown exists, where attacking before the meter is full results in less damage, and attacking before 84.8% prevents critical hits and sprint-knockback attacks. Switching items also causes the attack cooldown to trigger.The attack cooldown does not exist.Weapons have differing attack speeds which affect how long their attack cooldowns are, with axes having higher attack damages than swords but with lower attack speeds.Axes have lower attack damages than swords due to the absence of the attack cooldown.Spear jab attacks have a version of the attack cooldown where attacking is not possible until reaching 100% charge.Spear jab attacks have a use cooldown instead of an attack cooldown, mimicking the forced cooldown behavior.Offhand functionality Java Edition  Bedrock EditionAny block or item can be placed in the offhand. This allows things with right click functions to be used while in the offhand, such as blocks, food, shields, bows, tridents, crossbows, or spears.Offhand functionality is limited only to shields, arrows, firework rocketsFor the purpose of loading them into a crossbow., totems of undying, maps, and nautilus shells.For the purpose of being held by drownedSaturation boost Java Edition  Bedrock EditionSaturation boost exists, which heals  by consuming  saturation when at full hunger, and activates every 0.5 seconds (10 ticks).Saturation boost does not exist, which drastically slows the rate of health regeneration and makes saturation only relevant for lessening the frequency of needing to eat.Critical hits and sprint-knockback attacks Java Edition  Bedrock EditionCritical hits and sprint-knockback attacks cannot be performed simultaniously, as the sprint-knockback attack takes priority.Critical hits and sprint-knockback attacks can be performed simultaniously.Airborne vertical knockback Java Edition  Bedrock EditionEntities that are already in the air do not take additional vertical knockback when attacked.Entities that are already in the air are knocked further into the air when attacked.Item attack damage values Java Edition  Bedrock EditionThe attack damage of weapons and tools displayed in the tooltip is their actual value.The barehand damage of  is added to the damage of the weapon used, causing all weapons and tools aside from tridents and maces to deal  more damage than in Java Edition.Tridents and maces are an exception because their base damage is 1 lower than in Java Edition, which causes the added 1 base damage to make their total equal to Javas.Sweep attack Java Edition  Bedrock EditionSweep attacks exist, where if a sword-wielding player is grounded, is not performing a sprint-knockback attack, and has an attack cooldown charge of 84.8% or greater, they perform a sweep. Sweep attacks hit surrounding entities for  and knock them back.Sweep attacks do not exist.The Sweeping Edge enchantment increases sweep attack damage to surrounding mobs from  to 50% of the base damage at level 1, 67% at level 2, and 75% at level 3.The Sweeping Edge enchantment does not exist.Shield functionality Java Edition  Bedrock EditionShields are activated using right click, preventing their use if the player is holding an item in the mainhand that has right click functionality, such as a spear, trident, bow, crossbow, or food.Shields are activated by sneaking, allowing for them to be used even while holding an item in the mainhand that has right click functionality.Shields do not deal knockback to attackers.Shields deal knockback to attackers, even if the attack was from an axe which stunned the shield.Shields can be activated at any time, even if an attack was just performed.Shields cannot be activated if an attack was recently performed.Shields are not lowered if the user attacks while shielding.Shields are lowered if the user attacks while shielding.When a player's shield is disabled, that player becomes immune to knockback for 10 ticks, due to the invulnerability timer triggering despite no damage being taken.When a player's shield is disabled, that player does not become immune to knockback for 10 ticks, as the invulnerability timer does not trigger.Crossbow behavior Java Edition  Bedrock EditionCrossbows do random damage between  and .Crossbows always do a consistent .Firework rockets explode on impact with blocks and entities.Firework rockets do not explode on impact with blocks or entities, instead sliding across the ground.Continuing to hold  after firing a crossbow causes it to begin recharging again.Continuing to hold  after firing a crossbow does not cause it to begin recharging, as the input must be released and then inputed again.Crossbows do not have a firing delay after becoming fully charged, and do not have a recharging delay after firing.Crossbows have a several tick delay after becoming fully charged where they cannot be fired, and a similar delay after firing where they cannot be recharged again, effectively giving them a lower fire rate than Java Edition.Sharpness damage Java Edition  Bedrock EditionSharpness increases damage by  for the first level and by  for each subsequent level.Sharpness adds  damage per level rounded down, giving it increased effectiveness compared to Java Edition. This narrows the damage increase gap between Sharpness and its counterparts Smite and Bane of Arthropods, making the latter two less valuable in Bedrock Edition.Impaling activation Java Edition  Bedrock EditionImpaling applies its damage increase against aquatic mobs.Impaling applies its damage increase against mobs and players in contact with water or rain.Damage enchantments with critical hits Java Edition  Bedrock EditionSharpness, Smite, Bane of Arthropods, and Impaling have their damage added after critical hits and Strength.Sharpness, Smite, Bane of Arthropods, and Impaling have their damage added before critical hits and Strength, giving them increased effectiveness compared to Java Edition when doing critical hits.Projectile behavior Java Edition  Bedrock EditionThe movement of the player influences the flight of fired projectiles. Sprinting forward when firing an arrow from a bow or crossbow, or when throwing a throwable item like an ender pearl, causes it to fly further. Similarly, firing while falling causes projectiles to fly downwards more, and firing them while ascending gives them a further distance increase.Fired projectiles are unaffected by player movement.Projectiles are launched the same tick that they are fired.Projectiles are launched several ticks after they are fired, causing a desync.Durability Java Edition  Bedrock EditionAll items have the durability they are programmed with.All items have 1 more durability than they are programmed with.Attacking invulnerable entities does not cause durability damage.Attacking invulnerable entities causes durability damage, causing high CPS to break items fast.Spear behavior Java Edition  Bedrock EditionSwitching to a spear causes the attack cooldown to trigger, preventing the spear's jab attack from being used until the cooldown is complete due to the spear's forced attack cooldown.Switching to a spear does not cause the use cooldown to trigger, allowing for a jab attack to be executed immediately upon switching to a spear.A charge attack can be initiated instantly after doing a jab attack.There is a several tick delay after doing a jab attack where a charge attack cannot be initiated.Charge attacks do not display critical hit particles when connecting.Charge attacks display critical hit particles when connecting, despite not actually being critical hits.Melee attack sounds Java Edition  Bedrock EditionDoing a normal attack with sufficient attack cooldown (above 84.8%) plays the strong attack sound, and doing a normal attack without sufficient attack cooldown (below 84.8%) plays the weak attack sound. Missing a normal attack (attacking the air) plays no sound.Connecting a normal attack plays the strong attack sound, and missing a normal attack (attacking the air) plays the weak attack sound.Doing a sprint-knockback attack plays a unique sound.Doing a sprint-knockback attack does not play a unique sound.Smite and Bane of Arthropods damage Java Edition  Bedrock EditionThe  damage per level of Smite and Bane of Arthropods is not rounded down.The  damage per level of Smite and Bane of Arthropods is rounded down, making level I, III, and V weaker than Java Edition.Snowballs and eggs against players Java Edition  Bedrock EditionSnowballs and eggs do not affect players, dealing no knockback.Snowballs and eggs affect players, dealing knockback.Spear hit registration Java Edition  Bedrock EditionSpear hit registration requires significant distance between the user and the target, especially when using charge attacks at lower movement speeds.Spear hit registration is much more lenient, allowing for repeated charge attack connections despite minimal distance and low movement speed.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Notes
+
+References
+
+Navigation

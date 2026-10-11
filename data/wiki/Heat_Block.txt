@@ -1,0 +1,52 @@
+TITLE: Heat Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Heat_Block
+---
+Heat block is a block that can melt snow and ice like a torch, but it does not give off light.
+
+Obtaining
+Breaking
+The suitable tool to break heat block is pickaxe. Heat block needs to be broken using a pickaxe, otherwise the breaking time will increase and the block drops nothing.
+
+Heat block drops itself when it's destroyed.
+
+Lab table
+Result Materials neededHeat Block Iron, Water, Charcoal, Salt
+
+Usage
+Heat blocks melt snow layers and ice within 2 blocks (taxicab distance). It is unique in that it is the only block that melts objects without giving off light.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+The ingredients of the heat block corresponds to the contents of hand warmers. A hand warmer generates heat due to the same electrochemistry that rusts iron in seawater, but with powdered iron the effect becomes more appreciable.
+
+Navigation
+
+Category:Utility blocks
+Category:Minecraft Education blocks
+
+de:Hitzeblock
+es:Bloque de calor
+fr:Bloc chauffant
+ja:熱ブロック
+ko:열 블록
+lzh:炘塊
+pl:Blok ciepła
+pt:Bloco de Calor
+ru:Тепловой блок
+th:บล็อกความร้อน
+zh:加热块

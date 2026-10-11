@@ -1,0 +1,27 @@
+TITLE: Poisonous Potato Head Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Poisonous_Potato_Head_Block
+---
+A poisonous potato head block is a joke block only present in 24w14potato.
+
+Obtaining
+Poisonous potato head blocks do not generate naturally and are only available in the Creative inventory.
+
+Breaking
+A poisonous potato head block can be mined using any item and drops itself when broken.
+
+Piston interactivity
+If a poisonous potato head block is pushed by a piston, it breaks off as an item. It can't be pulled by sticky pistons.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+
+ja:Poisonous Potato Head Block
+zh:毒马铃薯头块

@@ -1,0 +1,46 @@
+TITLE: Cinnabar Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cinnabar_Brick_Slab
+---
+A cinnabar brick slab is a decorative slab variant of cinnabar bricks.
+
+Obtaining
+Breaking
+Cinnabar brick slabs drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cinnabar Bricks, Cinnabar Bricks, Cinnabar Bricks arranged in the crafting grid → Cinnabar Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+es:Losa de ladrillos de cinabrio
+fr:Dalle de cinabre taillé
+ja:辰砂レンガのハーフブロック
+pt:Laje de Tijolos de Cinábrio
+ru:Плита из киноварного кирпича
+uk:Плита з кіноварної цегли
+zh:朱砂砖台阶

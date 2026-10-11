@@ -1,0 +1,55 @@
+TITLE: Andesite Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Andesite_Stairs
+---
+Andesite stairs are a decorative stairs variant of andesite used for building.
+
+Obtaining
+Breaking
+Andesite stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Andesite, Andesite, Andesite, Andesite, Andesite, Andesite arranged in the crafting grid → Andesite Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Stairs
+
+fr:Escalier en andésite
+ja:安山岩の階段
+ko:안산암 계단
+lzh:安山石階
+pt:Escadas de Andesito
+ru:Андезитовые ступени
+th:บันไดหินแอนดีไซต์
+uk:Андезитові сходи
+zh:安山岩楼梯

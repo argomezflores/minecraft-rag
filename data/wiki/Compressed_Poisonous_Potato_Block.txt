@@ -1,0 +1,38 @@
+TITLE: Compressed Poisonous Potato Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Compressed_Poisonous_Potato_Block
+---
+A compressed poisonous potato block is a compacted block made of poisonous potato blocks, only present in 24w14potato.
+
+Obtaining
+Breaking
+A compressed poisonous potato block can be broken using anything, but a pickaxe is the fastest. Compressed poisonous potato blocks always drop themselves when mined.
+
+Crafting
+
+Crafting recipe: Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block arranged in the crafting grid → Compressed Poisonous Potato Block.
+
+Usage
+Crafting ingredient
+
+Crafting recipe: Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block arranged in the crafting grid → Double Compressed Poisonous Potato Block.
+
+Crafting recipe: Compressed Poisonous Potato Block arranged in the crafting grid → Poisonous Potato Block,9.
+
+Sounds
+
+Data values
+:
+
+Trivia
+The hardness of the compressed poisonous potato block is 9 times more than the hardness of the poisonous potato block as 9 poisonous potato blocks make up one compressed poisonous potato block.
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Compacted blocks
+
+ja:Compressed Poisonous Potato Block

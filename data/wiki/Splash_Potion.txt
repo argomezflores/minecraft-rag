@@ -1,0 +1,175 @@
+TITLE: Splash Potion
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Splash_Potion
+---
+Splash potions are types of potions that can be thrown as projectiles to affect entities within their range. They are also used as base for lingering potions in brewing.
+
+Variants
+Base potions
+
+Effect potions
+
+Obtaining
+Natural generation
+One splash potion of Weakness can be found in a brewing stand inside an igloo basement.
+
+Generated loot
+
+Brewing
+
+Brewing recipe: Gunpowder + Matching Potion → Matching Splash Potion.
+
+Splash potions are brewed by adding gunpowder to a normal potion, including uncraftable potions of luck and decay.
+
+Bartering
+Piglins have a 1.74% chance of bartering a splash potion of Fire Resistance when given a gold ingot.
+
+Filling bottles
+Using a glass bottle on a cauldron that contains splash potion turns it into a bottle of that splash potion, this also removes  of the cauldron's content.
+
+Usage
+Brewing
+
+Brewing recipe: Dragon's Breath + Matching Splash Potion → Matching Lingering Potion.
+
+Lingering potions are brewed by adding dragon's breath to a splash potion.
+
+Using
+Splash potions are thrown by  them. On impact they splash, applying status effects to nearby entities. When thrown by the player, they have a range of 8 blocks if thrown at the best angle. The bottle is lost, unlike drinkable potions. Entities within an 8.25×8.25×4.25 cuboid centered on the thrown potion at impact and within 4 blocks euclidean distance of the thrown potionSpecifically its lower-north-west corner; the potion entity like most thrown entities is 0.25×0.25×0.25 blocks. at impact are affected.
+
+Splash and drinkable forms have the same duration.
+
+If the potion directly collides with an entity, the entity gets the full duration and potency of the effect. Otherwise, the farther away the entity is from the center of the impact, the less the effect. For instant effects (i.e., Healing and Harming), the potency of the effect reduces linearly from 100% on a direct hit to 0% at 4 blocks' distance. For other effects, the potency is unchanged, but the duration decreases linearly on the same scale (rounded to the nearest  second), with no effect being applied if the duration would be 1 second or less.
+
+The entity's distance from the potion's impact point is based on the closest point of the hitbox rather than its center.
+
+Splash water bottles
+Splash water bottles have no effect on almost all entities, but they extinguish fire in the block hit and the four blocks horizontally surrounding it.
+
+A splash water bottle deals  damage to endermen, striders, snow golems, and blazes; however, endermen have a chance of teleporting away if hit with one. Splash water bottles will also restore  of air to an axolotl.
+
+Splash water bottles can extinguish burning entities.
+
+Mud
+Splash water bottles can be  on dirt, coarse dirt, or rooted dirt to turn it into mud.
+
+Filling cauldrons
+, using a splash potion on a cauldron adds one level of that potion to the cauldron. Attempting to add a splash potion to a cauldron with water, dyed water or a non-matching potion empties the cauldron and creates an explosion sound (but no actual explosion).
+
+Uncraftable splash potion
+, the uncraftable splash potion is a splash potion with no effect that is unobtainable in survival mode. It is also available in potion and lingering potion forms, as well as for tipped arrows.
+
+It can be obtained using the following command: . It is also obtained when a splash potion has invalid or missing potion effect tags, and thus serves as a placeholder.
+
+Behavior
+
+Motion
+
+Thrown by player
+
+When thrown by a player, a  has an initial speed of about 0.5 blocks/tick with a slight initial pitch angle deflection of –20°. Its movement follows the ticking order of acceleration, drag, and position, which can be simulated to predict the overall trajectory. Below is a calculator to predict the initial conditions in order to hit a desired coordinate:
+
+Shot by dispenser
+s shot by dispensers behave in the exact manner as when they were thrown by a player, with the only difference in their initial conditions. The initial position of s when shot by a dispenser offsets exactly 0.7 blocks forward and 0.1 blocks higher from the center of the block. Their initial speed is slightly randomized, which averages to about 1.375 block/tick.
+
+Collisions
+
+Thrown s collide with blocks according to their collision box. They also collide with entities, but with the entities' collision box inflated to about 0.3 blocks in every direction. They collide with all living entities, including minecarts, boats, end crystals, falling blocks, and TNT.
+
+Custom effects
+
+, splash potions can be obtained with any status effect using  and the potion_contents data component.
+
+Sounds
+:
+Splash potions use the Friendly Mobs sound category for entity-dependent sound events.
+
+:
+
+Data values
+ID
+:
+
+:
+
+Metadata
+, splash potions use the following item data values to indicate the kind of potion:
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Entity
+ID
+:
+
+:
+
+Entity data
+
+Splash potions when thrown have entity data that define various properties of the entity.
+
+Entity data
+
+: The item to render as.
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+If an enderman is targeted directly by a splash potion, it teleports away before the potion can affect it. However, if an enderman is caught in the splash radius of a potion not aimed at it, it takes damage from the potion.
+If killed by a splash potion of harming, the death message would be: <player> was killed by <attacker> using magic
+A thrown splash potion faces toward the player in first-person view, while it appears rotated horizontally in third-person view. This is the case for all throwable items (ender pearls, eggs, snowballs, and all throwable potions).
+
+Unused splash potions
+Bedrock Edition has unused splash potion textures for several effects, along with their normal variants. These effects are: Absorption, Blindness, Haste, Health Boost, Hunger, Mining Fatigue, Nausea, Resistance, Saturation, and Levitation, as well as the Luck potion textures also present in Java Edition. These unused textures were added along with the other potion textures in Pocket Edition v0.12.1 alpha, except for the potion of Levitation, which was added in Pocket Edition 1.0.0. The textures were changed along with the other potion textures during the texture update in Bedrock Edition 1.10.0.
+
+Gallery
+Renders
+
+Screenshots
+
+See also
+Brewing
+
+Notes
+
+References
+
+Navigation
+
+Category:Combat
+Category:Projectiles
+
+cs:Vrhací lektvar
+de:Wurftrank
+es:Poción arrojadiza
+fr:Potion jetable
+it:Pozione da lancio
+ja:スプラッシュポーション
+ko:투척용 물약
+nl:Spattende dranken
+pl:Mikstury miotane
+pt:Poção Arremessável
+ru:Взрывные зелья
+uk:Вибухове зілля
+zh:喷溅药水

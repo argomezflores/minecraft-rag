@@ -1,0 +1,87 @@
+TITLE: Nautilus Armor
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Nautilus_Armor
+---
+Nautilus armor is a type of armor that can be equipped on a tamed adult nautilus or zombie nautilus to reduce the damage it receives. There are five tiers of nautilus armor; netherite armor can only be smithed, and the rest must be found from generated loot.
+
+In , due to a bug, zombies, as well as husks, zombie villagers, and drowned can also pick up and equip nautilus armor.
+
+Variants
+
+Obtaining
+Nautilus armor cannot be crafted.
+
+Generated loot
+
+Upgrading
+
+Usage
+Like horse armor, nautilus armor does not have durability.
+
+Equipping
+Nautilus armor can be equipped on a tamed nautilus or zombie nautilus by holding the nautilus armor and using the  on the nautilus.
+
+The nautilus armor can be removed from a nautilus by  shears on it.
+
+Baby nautiluses are unable to equip nautilus armor.
+
+Protection
+There is a gradual increase in protection for the nautilus from wearing different increasing tiers of nautilus armor.
+
++TypeArmorArmor toughnessKnockback resistance Copper0 Iron0 Gold0 Diamond0 Netherite1
+
+Smelting
+
+Smelting recipe: Copper Nautilus Armor; Iron Nautilus Armor; Golden Nautilus Armor → Copper Nugget; Iron Nugget; Gold Nugget, XP: 0,1.
+
+Piglins
+Piglins are attracted to golden nautilus armor and can pick it up.
+
+Enchanting
+Nautilus armor cannot be enchanted in Survival mode without commands. However,  Creative mode, an anvil can be used to enchant nautilus armor with Thorns, Feather Falling, Protection, Fire Protection, Projectile Protection, Blast Protection, Curse of Binding, and Curse of Vanishing. Other enchantments can be applied, but they have no effect.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Renders
+
+Mojang Images
+
+Textures
+
+References
+
+Navigation
+
+de:Nautiluspanzer
+es:Armadura para nautilo
+fr:Armure pour nautile
+it:Armatura per nautili
+ja:オウムガイの鎧
+ko:앵무조개 갑옷
+lzh:鸚鵡螺甲
+pl:Zbroja łodzika
+pt:Armadura de Náutilo
+ru:Броня наутилуса
+th:เกราะหอยงวงช้าง
+uk:Обладунки навтилуса
+zh:鹦鹉螺铠

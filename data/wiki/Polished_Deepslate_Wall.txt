@@ -1,0 +1,51 @@
+TITLE: Polished Deepslate Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Deepslate_Wall
+---
+A polished deepslate wall is a decorative wall variant of polished deepslate that generates in ancient cities and is used for building.
+
+Obtaining
+Breaking
+Polished deepslate walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished deepslate walls generate naturally within ancient cities.
+
+Crafting
+
+Crafting recipe: Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate arranged in the crafting grid → Polished Deepslate Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Walls
+
+fr:Muret d'ardoise des abîmes polie
+ja:磨かれた深層岩の塀
+ko:윤나는 심층암 담장
+pt:Muro de Ardosiabissal Polida
+uk:Стіна з полірованого глибосланцю
+zh:磨制深板岩墙

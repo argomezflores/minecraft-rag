@@ -1,0 +1,144 @@
+TITLE: Tipped Arrow
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Tipped_Arrow
+---
+A tipped arrow is a type of arrow that can inflict a status effect on hit in addition to dealing damage, with the inflicted status effect matching the potion used to create it.
+
+Obtaining
+Picking up arrows
+
+Similarly to other arrows, players have the ability to pick up tipped arrows that have been shot by dispensers, or other players in Survival or Adventure mode. Unlike other arrows, however, tipped arrows shot by an Infinity-enchanted bow can be picked up, as they are not affected by the enchantment.
+
+Generated loot
+
+Mob loot
+Arrow of Poison
+
+Arrow of Slowness
+
+Arrow of Weakness
+
+Crafting
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Matching Lingering Potion, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Matching Tipped Arrow,8.
+
+Trading
+
+Villager gifts
+, most tipped arrows can be obtained as a reward item from fletcher villagers when the player has the Hero of the Village status effect. Exceptions include arrows of Luck, Slow Falling, and Turtle Master. All gifted arrows are not extended and are at level I.
+
+Cauldrons
+
+, tipped arrows can also be obtained by using arrows on cauldrons that contain potions. The number of tipped arrows created depends on the amount of potion inside a cauldron, which is measured in levels equivalent to  of its maximum capacity, or half of what a bottle can hold. For every quantity of up to 16 arrows tipped, the amount of potion remaining is reduced by 1 level. However, any potion in the bottom half of a cauldron is only counted as a single level for the purposes of tipping arrows. This means that a maximum of 64 arrows can be tipped from a full cauldron, either at once or in parts. This is more efficient than crafting tipped arrows using lingering potions, as up to 21.33 arrows can be tipped per potion when using cauldrons.
+
+Usage
+
+Tipped arrows share many of the same projectile characteristics as regular arrows.
+
+After 600 ticks (30 seconds) of a fired tipped arrow becoming stationary, a tipped arrow loses its potion effect and becomes a normal arrow.
+
+Special properties
+
+Tipped arrows are arrows that imbue a potion effect when hitting a mob or player. The duration of the effect is  that of the corresponding potion, if applicable, and is not affected by the speed or power of the arrow projectile. The applied status effect is the same as the regular-power effect for the potion. Tipped arrows are not affected by the Infinity enchantment; if a bow is enchanted with Infinity, tipped arrows are still consumed.
+
+The types of arrows are:
+
+(5 seconds)
+(22 seconds)
+(22 seconds)
+(Instantaneous)
+(22 seconds)
+(22 seconds)
+(22 seconds)
+(22 seconds)
+(5 seconds)
+(11 seconds)
+(11 seconds)
+(Instantaneous)
+(22 seconds)
+(37 seconds)
+(5 seconds)
+(2 seconds)
+(11 seconds)
+(22 seconds)
+(22 seconds)
+(22 seconds)
+(22 seconds)
+
+Arrows of Harming (and arrows of Healing when used against undead mobs) do not add a static amount of damage to the arrow. Due to the invulnerability timer preventing more than one instance of damage from occurring within 10 ticks, the actual damage of an Arrow of Harming is the higher of the arrow's damage and the Harming effect's damage. In the case of using a bow enchanted with Power at full charge, from Power level I to level III, this causes the Harming effect to only sometimes improve the arrow's damage against unarmored targets, and Power level IV and higher prevents the Harming effect from having any tangible effect against unarmored targets. Armored targets may have differing levels of resistances to the arrows and the Harming effect, leading Harming to having more of an effect against such targets.
+
+No-effect tipped arrows
+, it is possible to craft tipped arrows using lingering water bottles as well as Awkward, Thick, and Mundane lingering potions. If crafted with a water bottle, the arrow is called an arrow of Splashing. If crafted with Mundane, Awkward, or Thick potions, it is simply called a tipped arrow. Tipped arrows crafted from different potions do not stack, as resultant tipped arrows all have different potion tags.
+
+, all four kinds as well as the long mundane tipped arrow aren't obtainable either in Creative, by cauldrons, by crafting, or by commands.
+
+All four kinds generate blue particles in flight and upon landing, but otherwise behave like regular arrows. In particular, arrows of Splashing have no effect on fire and campfires and when shot from a bow with the Flame enchantment, can light candles, campfires and TNT just like regular arrows on fire.
+
+Icon Name  Arrow of Splashing  Tipped Arrow
+
+Uncraftable tipped arrows
+, the uncraftable tipped arrow is a tipped arrow with no effect that is unobtainable in regular gameplay. It is obtainable using this command:
+
+Uncraftable tipped arrows behave identically to regular arrows when used as a projectile.
+
+Icon Name  Uncraftable Tipped Arrow
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+, arrows use the following item data values:
+
+Entity data
+Tipped arrows have entity data that define various properties of the entity.
+
+:
+
+:
+See Bedrock Edition level format/Entity format.
+
+Advancements
+
+History
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Java Edition Combat Tests
+
+Data history
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+References
+
+External links
+
+Navigation
+
+Category:Combat
+Category:Projectiles
+
+de:Getränkter Pfeil
+es:Flecha con efecto
+fr:Flèche à effet
+pt:Flecha com Efeito
+uk:Оброблена стріла
+zh:药箭

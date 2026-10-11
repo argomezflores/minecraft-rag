@@ -1,0 +1,62 @@
+TITLE: Potion of Wind Charging
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Wind_Charging
+---
+A potion of Wind Charging is a potion that provides Wind Charged when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Breeze Rod + Awkward Potion → Potion of Wind Charging.
+
+Brewing recipe: Gunpowder + Potion of Wind Charging → Splash Potion of Wind Charging.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Wind Charging → Lingering Potion of Wind Charging.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 3:00Emits a wind burst when killed Splash potion 1 3:00 Lingering potion 1 0:45
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Wind Charging, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Wind Charging, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular Potion of Wind Charging  43
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionValue Potion of Wind Charging  wind_charged
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion de souffle
+pt:Poção de Ventania
+zh:蓄风药水

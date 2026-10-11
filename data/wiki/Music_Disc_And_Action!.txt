@@ -1,0 +1,37 @@
+TITLE: Music Disc And Action!
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_And_Action!
+---
+"And Action!" refers to both a song composed by Tone Deaf Rebellion, and a music disc that plays the song when inserted in a jukebox. The music disc was included in 25w14craftmine on Java Edition.
+
+Obtaining
+Two And Action! discs can be obtained from the structure placed in Mines with the "Warden Boss Fight" mine ingredient or the Warden special event.
+
+It can additionally be obtained from a barrel in the "Relax Room" of the Hub.
+
+Track description
+
+File:And Action 25w14craftmine.ogg
+
+"And Action!" is a retro video game style song, using the Microsoft GS Wavetable Synth.
+
+Usage
+Like all music discs,  the "And Action!" music disc on a jukebox causes the jukebox to play the song.
+
+If the player places a redstone comparator besides a jukebox playing "And Action!", it will emit a redstone signal of 15.
+
+Data values
+ID
+
+Soundtrack Title File name Sound events "And Action!" and_action.ogg nothingtoseehere:and_action
+
+Issues
+
+References
+
+Navigation
+
+ja:And Action!
+ko:음반 And Action!
+pt:Edição Java 25w14craftmine/Music Disc And Action!
+zh:音乐唱片And Action!

@@ -1,0 +1,69 @@
+TITLE: Copper Ingot
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Copper_Ingot
+---
+Copper ingots are metal ingots obtained from smelting raw copper and from killing drowned or copper golems.
+
+Obtaining
+Crafting
+
+Crafting recipe: Copper Nugget, Copper Nugget, Copper Nugget, Copper Nugget, Copper Nugget, Copper Nugget, Copper Nugget, Copper Nugget, Copper Nugget arranged in the crafting grid → Copper Ingot.
+
+Smelting
+Copper ingots can be obtained by smelting raw copper in a furnace or blast furnace, as well as the ore itself if mined using Silk Touch.
+
+Smelting recipe: Raw Copper → Copper Ingot, XP: 0.7.
+
+Smelting recipe: Copper Ore; Deepslate Copper Ore → Copper Ingot, XP: 0.7.
+
+Mob loot
+
+When killed by a player or a tamed wolf, a drowned has a 11% () chance of dropping a copper ingot. With the Looting enchantment, the chance can be increased to 13% () with Looting I, 15% () with Looting II, and 17% () with Looting III. Copper golems also drop 1-3 copper ingots when killed, which is unaffected by Looting .
+
+Generated loot
+
+Usage
+Crafting ingredient
+
+Smithing ingredient
+
+Trim color palette
+The following color palette is shown on the designs on trimmed armor:
+
+(a darker color palette is used when a copper armor piece is trimmed using a copper ingot).
+
+Repairing
+Copper ingots are the repair items for the copper tier and thus can be used to repair the following items using an anvil:
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+External links
+Taking Inventory：Copper Ingot – Minecraft.net on December 22, 2022
+
+Navigation
+
+de:Kupferbarren
+es:Lingote de cobre
+fr:Lingot de cuivre
+it:Lingotto di rame
+ja:銅インゴット
+ko:구리 주괴
+lzh:銅錠
+pl:Sztabka miedzi
+pt:Lingote de Cobre
+ru:Медный слиток
+uk:Мідний злиток
+zh:铜锭

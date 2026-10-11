@@ -1,0 +1,24 @@
+TITLE: Longer String
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Longer_String
+---
+Longer string is a joke item only present in Java Edition 23w13a_or_b.
+
+Obtaining
+Crafting
+Its crafting recipe must be unlocked by voting minecraft:special_recipe.
+
+Crafting recipe: String, String arranged in the crafting grid → Longer String.
+
+Data values
+ID
+:
+Issues
+
+Navigation
+
+Category:Joke items
+
+ja:Longer String
+pt:Edição Java 23w13a or b/Longer String
+zh:更长的线

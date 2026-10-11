@@ -1,0 +1,39 @@
+TITLE: Snowlogging
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Snowlogging
+---
+300px|thumb|Ferns, short grass, a poppy, a dandelion, and an allium snowlogged under various layering.
+Snowlogging is a mechanic  that allows (small) vegetation to be filled with layers of snow.
+
+Properties
+Vegetation can become snowlogged through most means of placing snow. This includes placement during terrain generation or by the player, aggregation during snowfall, or falling snow landing atop it. However, blocks cannot be snowlogged by snow golems. Placing vegetation in existing snow layers replaces them, including the Wither creating Wither Roses, and neither snow layers nor vegetation can be placed in the same location as the other via commands.
+
+Snow can be piled anywhere from a single layer to a full block's height or more, potentially burying the vegetation within entirely. A snowlogged block cannot be selected or destroyed without first destroying the encompassing snow layers, even if the majority of its model is above the snow's surface. This prevents interactions with vegetation such as those involving bone meal or shears, even with the use of dispensers. Bees also ignore snowlogged flowers.
+
+Snowlogged firefly bushes do not emit particles or ambient sounds.
+
+Removing snowlogging from vegetation if the snow is piled higher than a single block leaves excess snow in place, fully supported by the vegetation.
+
+Behavior
+The following short vegetation blocks can be snowlogged.
+
+History
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+Waterlogging
+
+References
+
+Navigation
+
+es:Acumulación
+fr:Engorgement de neige
+ja:雪没
+pt:Corte de neve
+ru:Заснеженность
+zh:含雪

@@ -1,0 +1,54 @@
+TITLE: Polished Granite Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Granite_Slab
+---
+A polished granite slab is a decorative slab variant of polished granite that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Polished granite slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Granite, Polished Granite, Polished Granite arranged in the crafting grid → Polished Granite Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a polished granite slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle de granite poli
+ja:磨かれた花崗岩のハーフブロック
+ko:윤나는 화강암 반 블록
+pt:Laje de Granito Polido
+zh:磨制花岗岩台阶

@@ -1,0 +1,109 @@
+TITLE: Flint and Steel
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Flint_and_Steel
+---
+Flint and steel is a tool used to create fire or to ignite certain blocks, structures and mobs.
+
+Obtaining
+Generated loot
+
+Crafting
+
+Usage
+Igniting
+When  on the space above any solid top surface, on any side of any flammable block or any side of any obsidian block within a valid unlit Nether portal frame regardless of if there is a solid top surface available, the flint and steel places a fire there.
+
+Flint and steel can be used to light unlit campfires, candles and cakes with candles.
+
+Flint and steel can be used to light Nether portals, as any fire existing within an appropriate obsidian frame is instantly replaced with Nether portal blocks that occupy the entirety of the frame. Flint and steel cannot light End portals.
+
+Using flint and steel on TNT ignites it. The explosion damage dealt by TNT ignited with flint and steel in this specific way counts as the player's attack. If the player is , a fire is instead placed on the side of the TNT the flint and steel was used on.
+
+A flint and steel can be used on a creeper or charged creeper to force it to explode. Explosions initiated in this way cannot be cancelled.
+
+When powered, a dispenser containing flint and steel can place fires or ignite relevant blocks such as TNT or campfires in the space directly in front of it. This reduces the flint and steel's durability. A dispenser containing a flint and steel cannot detonate creepers.
+
+Breaking tool
+
+The flint and steel is considered as a breaking tool; It loses 2 durability points when it is used to break a block with a value of hardness more than 0.
+
+Repairing
+Combining
+
+Anvil repair
+
+A flint and steel can be combined with another flint and steel in an anvil, preserving the enchantments of both.
+
+Enchantments
+Flint and steel can receive the following enchantments:
++NameDescriptionMax levelMethodWeightUnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the flint and steel when obtaining experience.I2Curse of VanishingThe flint and steel vanishes on death, not dropping as an item.I1
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Historical sounds
+Sound From to Pitch  ?  12w38a 1.0
+
+Data history
+
+Texture history
+Textureframeless|width=80x80frameless|width=80x80frameless|width=80x80frameless|width=80x80EditionsincesincesincesinceJava EditionIndev 0.31 20100110Indev 0.31 20100129-1447Indev 201002191.14 18w43a2010-10-102010-01-292010-02-192018-10-24Pocket/Bedrock Edition––v0.4.0beta 1.10.0.32012-09-062019-01-30Xbox 360 Edition––TU1–2012-05-12Xbox One Edition––CU1–2014-09-05PS3 Edition––1.00–2013-12-17PS4 Edition––1.001.902014-09-042019-04-15PS Vita Edition––1.00–2014-10-14Wii U Edition––Patch 1–2015-12-17Nintendo Switch Edition––1.0.1–2017-05-11New Nintendo 3DS Editon––0.1.0–2017-09-13
+
+Issues
+
+Trivia
+The name "Flint and Steel" may be misleading as there is a lack of steel in the game and is instead crafted with iron.
+In real life, the steel piece is called a . Before the invention of steel, iron minerals were also used as material for the fire striker, though it was less effective.
+In Adventure mode, flint and steel cannot light fires, nor can it ignite nether portals (unless it has the tag CanPlaceOn:obsidian). However, it can still ignite TNT and creepers.
+
+Gallery
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Tools
+
+cs:Křesadlo
+de:Feuerzeug
+es:Mechero
+fr:Briquet
+hu:Kovakő acéllal
+it:Acciarino
+ja:火打石と打ち金
+ko:부싯돌과 부시
+lzh:燧鐮
+nl:Vuursteen en staal
+pl:Krzesiwo
+pt:Pederneira
+ru:Огниво
+uk:Кресало
+zh:打火石

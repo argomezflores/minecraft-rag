@@ -1,0 +1,43 @@
+TITLE: Friend Pottery Sherd
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Friend_Pottery_Sherd
+---
+A friend pottery sherd is a pottery sherd that depicts the unibrow and nose of a villager or iron golem. The design features a unibrow spanning the entire forehead and lacks a mouth, making the icon particularly similar to the facial features of an iron golem. However, this is difficult to determine with certainty. It can be found in trail ruins.
+
+Obtaining
+Breaking
+Breaking a decorated pot causes it to drop all of the bricks and pottery sherds used to craft it, meaning it drops each of the friend pottery sherds that were used to craft it.
+
+Generated loot
+
+Usage
+Crafting ingredient
+Friend pottery sherds can be used to craft decorated pots.
+
+Crafting recipe: Friend Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; Friend Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; Friend Pottery Sherd; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}; Friend Pottery Sherd arranged in the crafting grid → Decorated Pot.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Pottery sherds
+
+pt:Óstraco de Amigo
+ru:Глиняный черепок «Друг»
+th:เศษเครื่องปั้นดินเผาลายเพื่อน
+zh:挚友纹样陶片

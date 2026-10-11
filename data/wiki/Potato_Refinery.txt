@@ -1,0 +1,73 @@
+TITLE: Potato Refinery
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Refinery
+---
+A potato refinery is a block used for extracting oil from potatoes and poisonous potatoes as well as lubricating items. It is only present in 24w14potato.
+
+Obtaining
+Breaking
+Potato refineries have no assigned tool and never drop as an item, even with Silk Touch.
+
+Crafting
+
+Crafting recipe: Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks arranged in the crafting grid → Potato Refinery.
+
+Usage
+Refining
+thumb|alt=A interface with 4 slots and a title "Potato Refinery" at the top, one in the top right has a bottle icon. Above the icon in the bottom left there are lines depicting heat.|The interface in-game
+A potato refinery has four slots: a fuel slot, two item slots, and an output slot. In the fuel slot, up to a stack of any fuel can be placed. The two item slots can hold up to a stack of any item.
+
+Like furnaces, different types of fuel smelt a different number of items. If the refinery is not currently using a piece of fuel and is ready to refine, a new piece of fuel is used.
+
+Oil extraction
+If the refinery has fuel, nothing in the output slot, a potato in the first item slot, and at least one empty glass bottle in the second item slot, the refining process begins. After , a potato and glass bottle are used, and a bottle of potato oil is produced. If a poisonous potato was used in the first item slot, a bottle of poisonous potato oil is created.
+
+Lubrication
+If the refinery has fuel, nothing in the output slot, a bottle of regular (non-poisonous) potato oil in the first item slot, and any item in the second item slot, the refinery is activated. After , the bottle of potato oil and the item are used. The output is an item with a lubrication factor. The higher the lubrication factor, the more the item slides around when on the ground. An item can be lubricated multiple times, but with diminishing returns.
+
+Piston interactivity
+Potato refineries cannot be pushed or pulled by pistons.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Block data
+A potato refinery has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: Number of ticks left before the current fuel runs out.
+: Number of ticks the item has been refining for. An item being lubricated finishes when CookTime reaches 20 ticks (1 second), while oil extraction takes 100 ticks (5 seconds). Is reset to 0 if BurnTime reaches 0.
+: Number of ticks It takes for the item to be cooked.
+
+: List of items in this container.
+: An item in the potato refinery, including the slot tag:Slot 0: The item(s) in the top left slot.Slot 1: The item(s) to use as the next fuel source.Slot 2: The item(s) in the top right slot.Slot 3: The item(s) in the output slot.
+
+Advancements
+
+Issues
+Potato refinery is an unsupported block due to being an April Fools' joke; therefore, related issues are not expected to be fixed.
+
+Trivia
+Despite being made out of baked potato bricks, potato refineries use the stone sound type intead of the potone sound type.
+
+Navigation
+
+Category:Joke blocks
+Category:Blocks with GUI
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Light sources
+Category:Readable by comparators
+
+ja:Potato Refinery
+zh:马铃薯精炼炉

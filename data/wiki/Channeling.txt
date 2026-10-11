@@ -1,0 +1,76 @@
+TITLE: Channeling
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Channeling
+---
+Channeling is an enchantment applied to tridents that causes a lightning strike when thrown at an entity or lightning rod during a thunderstorm or at a lightning rod during any type of rain.
+
+Obtaining
+Channeling on enchanted books can be obtained from enchanting tables, drops from mobs spawned in a raid, fishing, librarian villagers, and in the following structures' loot chests: desert pyramid, stronghold, ocean ruins, woodland mansion, pillager outpost, ancient city, mineshaft, dungeon, jungle pyramids, and from vaults in trial chambers.
+
+Usage
+Channeling summons a lightning bolt when an entity or lightning rod is hit by a thrown trident, if there is currently a thunderstorm occurring, including in dry biomes. This applies to most entities that the trident can collide with: mobs, players, armor stands, boats, minecarts, end crystals, item frames, paintings, leash knots, and even shulker bullets. It does not apply to ghast fireballs and wind charges, and to entities that the trident can't collide with (small fireballs, arrows, experience orbs, thrown item entities, primed TNT, falling blocks, wither projectiles, and so on).
+
+Channeling effectively increases projectile damage through its lightning bolt damage. Due to a bug regarding the duration of the lightning damage hitbox, the lightning from Channeling will occasionally not deal damage after the initial projectile hits.
+TypeBase damageChanneling Ranged
+
+For the enchantment to work, there must not be opaque or partially transparent blocks at any position above the target entity. This enchantment allows the player to transform some mobs into different mobs.
+
+Mobs struck by lightning summoned by this enchantment react in the same way as they would if struck by lightning normally. The following mobs transform into another mob when hit:
+into
+into
+into
+into
+
+As with a regular lightning strike, turtles are instantly killed and drop a bowl.
+
+, Channeling doesn't affect mobs in some circumstances. A mob cannot be: in water, lava, powder snow, cobweb, on soul sand, honey block, mud, or snow (if snow layer is 8) while being hit with this enchantment. Humanoid mobs in a minecart or in a boat which have the "riding" posture (see ) also can't be struck with lightning, but other mobs in vehicles can be struck.
+
+However, it should be noted that in the circumstances stated above, even though lightning cannot be summoned if the mob itself is hit by a Channeling trident, they are still affected by the lightning if it strikes nearby. For instance, if a Channeling trident hits an armor stand next to a creeper in water, the lightning is summoned as normal, and the creeper becomes charged from being in the affected radius of the lightning.
+
+, Channeling tridents thrown at lightning rods during rain create lightning without the need for a thunderstorm.
+
+Lightning bolts summoned by Channeling tridents are not redirected by lightning rods.
+
+Lightning from a Channeling trident never spawns a skeleton trap.
+
+Incompatibilities
+Channeling and Riptide are mutually exclusive. If combined using commands, Riptide supersedes Channeling.
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+The Very Very Frightening achievement title is a reference to the song .
+
+Notes
+
+References
+
+Navigation
+
+de:Entladung
+es:Conductividad
+fr:Canalisation
+ja:召雷
+pt:Condutividade
+ru:Громовержец
+th:สายฟ้าพิฆาต
+zh:引雷

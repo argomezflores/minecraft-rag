@@ -1,0 +1,44 @@
+TITLE: Amber Gem
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Amber_Gem
+---
+An amber gem is an item obtained from fletching toxic resin, only present in 24w14potato.
+
+Obtaining
+Toxic resin of "jewel" clarity can be turned into amber gems at a fletching table.
+
+Crafting
+
+Crafting recipe: Block of Amber arranged in the crafting grid → Amber Gem,9.
+
+Usage
+Trading
+In 24w14potato, amber gems replace emeralds as the primary trading currency. All villagers, including potato villagers, sell items only for amber gems (although they buy items only for poisonous potatoes).
+
+Beacons
+Amber gems can be used to select powers from a beacon. The player must select one of the available powers, and then insert a gem into the item slot.
+
+An amber gem can be substituted for an iron ingot, gold ingot or netherite ingot, an emerald, or a diamond.
+
+Smithing ingredient
+
+Trim color palette
+The following color palette is shown on the designs on trimmed armor:
+
+Data values
+ID
+
+Trivia
+Real amber is fossilized resin.
+The texture is a recolored version of the ruby.
+Resin, which has a similar color, was later added as part of The Garden Awakens.
+
+Issues
+
+Navigation
+
+Category:Joke items
+Category:Poisonous Potato Dimension (joke dimension)
+es:Gema de ámbar
+ja:Amber Gem
+zh:琥珀宝石

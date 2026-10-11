@@ -1,0 +1,61 @@
+TITLE: Music Disc Tears
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_Tears
+---
+"Tears" refers to both a song composed by Amos Roddy, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained by killing ghasts by a player-deflected ghast fireball.
+
+Obtaining
+Mob loot
+The music disc "Tears" is dropped by ghasts when killed by a player-deflected fireball.
+
+Track description
+
+File:Tears.ogg
+
+The entire track features ghast sounds remixed over a funky beat.
+
+Usage
+Like all music discs,  the "Tears" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "Tears", it will emit a redstone signal of 10.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Tears" tears.ogg music_disc.tears
+
+:
+
+Soundtrack Title File name Sound events "Tears" tears.ogg record.tears
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Mojang screenshots
+
+In other media
+
+Navigation
+
+Category:Amos Roddy
+Category:Minecraft: Chase the Skies (Original Game Soundtrack)
+Category:Music discs
+
+fr:Disque Tears
+ja:Tears
+ko:음반 Tears
+lzh:留聲盤淚
+pt:Disco Musical Tears
+ru:Пластинка «Tears»
+uk:Платівка «Tears»
+zh:音乐唱片Tears

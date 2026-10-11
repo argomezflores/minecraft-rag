@@ -1,0 +1,26 @@
+TITLE: Hash Browns
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Hash_Browns
+---
+Hash browns are a food item obtained by frying potato peels and restores 2 hunger when consumed, only present in 24w14potato.
+
+Obtaining
+potato peels of any color on a frying table cooks them into hash browns. This process takes 30 seconds and can be done only on the frying table. Corrupted potato peels can't be fried.
+
+Usage
+To eat hash browns, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 2.4 saturation.
+
+Sounds
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Joke items
+Category:Food
+
+ja:Hash Browns
+zh:薯饼

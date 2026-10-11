@@ -1,0 +1,42 @@
+TITLE: Aqua Affinity
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Aqua_Affinity
+---
+Aqua Affinity is an enchantment applied to helmets that removes the mining speed reduction that occurs when underwater.
+
+Obtaining
+Aqua Affinity can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, librarian villagers, and in the following structure loot chests: desert pyramids, strongholds, ocean ruins, ancient cities, mansions, pillager outposts, mineshafts, monster rooms, jungle pyramids, and from vaults in trial chambers.
+
+Usage
+Usually when the player's head is underwater, mining blocks takes 5 times as long as mining while out of water. Wearing armor with Aqua Affinity grants 400% submerged mining speed, negating this penalty.
+
+The related but distinct speed decrease for mining while floating also results in a 5 times decrease in mining speed. The penalty for floating is not affected by Aqua Affinity. Mining without Aqua Affinity while underwater and floating takes 25 times as long as mining while out of water and standing on the ground.
+
+Although unobtainable in Survival mode,  levels higher than 1 increase the submerged mining speed by 400% per level, while  all levels have the same effect.
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+de:Wasseraffinität
+es:Afinidad acuática
+fr:Affinité aquatique
+ja:水中採掘
+pt:Afinidade Aquática
+th:ขุดเร็วใต้น้ำ
+zh:水下速掘

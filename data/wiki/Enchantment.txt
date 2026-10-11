@@ -1,0 +1,182 @@
+TITLE: Enchantment
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Enchantment
+---
+thumb|The glint animation applied to an enchanted diamond sword.
+
+Enchantments modify the behavior of tools, weapons, and armor, granting additional abilities or strengthening existing ones. A glint animation appears on items to indicate that they are enchanted.
+
+Obtaining
+
+thumb|An enchanting table surrounded by bookshelves.
+thumb|right|176px|Enchanting table interface.
+
+An enchanting table can be used to enchant unenchanted items at the cost of lapis lazuli and experience levels, or for free in Creative.
+
+Only one of the three random offered enchantments can be selected, however there is a chance for additional enchantments to also be applied. The quality of the enchantments increase with their experience cost and the number of nearby bookshelves.
+
+Anvil
+
+An anvil can be used to combine two items and their enchantments, which can be two items of the same type, or an item and an enchanted book. This combines the list of enchantments, keeping the higher level of duplicate enchantments, or upgrading duplicte enchantments of the same level to the next higher.
+
+Combining items in an anvil costs experience levels; the amount depends on the enchantments of the sacrificed item, and the number of times the items have been used in an anvil, except for Creative, where anvils are free.
+
+Trading
+
+Some villagers sell enchanted equipment or books. Armorer, fisherman, fletcher, toolsmith, and weaponsmith villagers sell enchanted tools, weapons, or armor with non-treasure enchantments. Librarian villagers sell enchanted books that can have almost any enchantment, including most treasure enchantments, but excluding the Soul Speed, Swift Sneak, and Wind Burst enchantments.
+
+Bartering
+
+Piglins can trade enchanted books or iron boots with a random level of Soul Speed when given gold ingots.
+
+Fishing
+
+Enchanted books, bows, and fishing rods can be obtained from fishing up treasure loot.
+
+Mob drops
+
+Some mobs can spawn with enchanted weapons or armor, which have a chance of 8.5%/25% + 1% per level of Looting to drop if the mob is killed by a player or tamed wolf.
+
+Generated loot
+
+Most structures that contain loot chests have a chance of generating enchanted books or items.
+
+Creative
+
+Enchanted books for all levels of all enchantments can be found in the Creative inventory.
+
+Commands
+
+Commands such as /give can give a player enchanted items, and /enchant can directly apply enchantments to the item held in the main hand.
+
+Behavior
+Effects
+The effects of enchantments vary significantly. Some enchantments increase protection against specific types of damage, others increase damage dealt to certain classes of mobs. Some enchantments grant unique abilities such as summoning a lightning bolt or turning water into ice blocks. See .
+
+Level
+Many enchantments have multiple levels. Generally, the higher the level, the more potent the enchantment's effects are. Levels are stylized as Roman numerals (I, II, III, ...). The minimum level of any enchantment is I; the maximum level depends on the enchantment. Commands such as  can be used to ignore the normal limit and obtain enchantments with levels 0–255, though the effectiveness of levels higher than the intended one varies by enchantment. See .
+
+Incompatibilities
+Some enchantments are incompatible with one another. This means that it is not possible for the player to apply both conflicting enchantments to the same item using standard methods, including , although  can force conflicting enchantments onto the same item with varying results to their effects. Enchanting tables and generated loot do not produce items with conflicting enchantments, and attempting to combine conflicting enchantments in an anvil results in the sacrificed item's incompatible enchantment being lost.
+
+Conflicting enchantments
+Sword: Sharpness, Smite, and Bane of Arthropods
+Tool: Fortune and Silk Touch
+Armor: Protection, Fire Protection, Blast Protection, and Projectile Protection
+Boots: Depth Strider and Frost Walker
+Bow: Infinity and Mending
+Crossbow: Multishot and Piercing
+Trident: Loyalty and Riptide or Channeling and Riptide
+Mace: Density, Breach, Smite, and Bane of Arthropods.
+Books: Sharpness, Density, and Breach. All of the above restrictions also apply.
+
+Some enchantments are incompatible with certain items. For example, Protection, which decreases damage, cannot be applied to swords or axes, and Sharpness, which increases attack damage cannot be applied to armor.
+
+Primary and secondary items
+
+An enchantment's primary items are the set of items that can receive the enchantment from an enchanting table. Some items that cannot receive a particular enchantment from an enchanting table can still have the enchantment applied to them by combining the item with an enchanted book in an anvil; these are the enchantment's secondary items.
+
+Treasure enchantments cannot be obtained through an enchanting table, and are never found on natural equipment worn by mobs or on enchanted equipment traded by villagers. Most treasure enchantments, however, can be generated on enchanted books sold by librarians. If a treasure enchantment is tradable, it has double the price (before capping to 64 emeralds) compared to a non-treasure enchantment of the same level.
+
+Some treasure enchantments, such as Soul Speed, Swift Sneak, and Wind Burst, can only be obtained in specific structures or through a specific game mechanic.
+
+Curse enchantments apply negative modifiers to items and cannot be removed once applied. Attempting to disenchant an item with curse enchantments removes all other enchantments, except for the curse enchantments.
+
+Disenchanting
+Enchantments can be removed from an item by combining it with another item in the grindstone or in the crafting grid. These methods of disenchanting items do not remove curse enchantments from items.
+
+List of enchantments
+Descriptions
+Max Level: Maximum level that can be obtained without commands.
+Primary Items: The items that can receive the enchantment from an enchanting table. Items of any material can be enchanted, though some more easily than others.
+Secondary Items: Items that cannot receive the enchantment from an enchanting table but can from an enchanted book with an anvil.
+
+Name Identifier Summary IncompatibleWith MaxLevelPrimaryItemsSecondaryItems Aqua Affinity  Removes the mining speed reduction that occurs when underwater. I Bane of Arthropods  Increases damage against arthropod mobs (spiders, cave spiders, silverfish, endermites and bees) and applies Slowness IV to them. Smite, Sharpness, Breach, DensityV Blast Protection  Reduces explosion damage and knockback. Fire Protection, Protection, Projectile ProtectionIV Breach  Reduces the effectiveness of armor on the target, including innate armor points. Density, Bane of Arthropods, Smite, SharpnessIV Channeling  During thunderstorms, a thrown trident summons a lightning bolt on the target upon hit. RiptideI Curse of Binding  Items cannot be removed from armor slots.I Curse of Vanishing  Item disappears on death.I Density  Increases the damage of a mace's smash attack. Breach, Bane of Arthropods, Smite, SharpnessV Depth Strider  Lessens the movement speed reduction that occurs when in water. Frost WalkerIII Efficiency Increases mining efficiency.V Feather Falling Reduces fall damage. IV Fire Aspect Sets naturally flammable mobs on fire. II Fire Protection  Reduces fire damage and burning time. Blast Protection, Protection, Projectile Protection IV Flame  Fired arrows burn, set targets on fire, and light TNT and campfires.I Fortune  Chance to receive more item drops from certain blocks. Silk TouchIII Frost Walker  Turns water into frosted ice beneath the wearer's feet, and provides immunity to campfire and magma block damage. Depth Strider II Impaling , increases damage against aquatic mobs. , increases damage against mobs in water or rain.V Infinity  Prevents consumption of arrows, but not spectral arrows or tipped arrows. MendingI Knockback  Increases melee knockback. II Looting  Chance to receive more item drops from most mobs.III Loyalty  Returns the trident to its owner upon landing after being thrown. RiptideIII Luck of the Sea  Increases the rate of treasure items from fishing.III Lunge  Launches the player horizontally when using a spear's jab attack, at the cost of consuming saturation and hunger points as well as 1 durability.III Lure  Decreases time for bites when fishing.III Mending  Repairs the item using experience. InfinityI Multishot Adds 2 arrows to the sides of the center arrow, at the cost of increasing incurred durability damage. PiercingI Piercing  Causes fired arrows to pierce entities, allowing for a single arrow to hit multiple mobs, and allows arrows to be picked up again after hitting a target. Multishot IV Power  Increases arrow damage.V Projectile Protection  Reduces damage from projectiles. Protection, Blast Protection, Fire Protection IV Protection  Reduces most forms of damage. Blast Protection, Fire Protection, Projectile Protection IV Punch  Increases arrow knockback. II Quick Charge  Increases crossbow charging speed.III Respiration Extends underwater breathing time.III Riptide  Trident when used launches the wielder while in water or rain, replacing its ability to be thrown as a projectile. Channeling, LoyaltyIII Sharpness  Increases melee damage. Bane of Arthropods, Smite, Breach, DensityV Silk Touch  Certain blocks that would otherwise drop different items or nothing will drop themselves instead. FortuneI Smite  Increases damage dealt against undead mobs. Bane of Arthropods, Sharpness, Breach, DensityV Soul Speed  Movement speed on soul sand is increased instead of decreased, and movement speed on soul soil is increased.III Sweeping Edge  Increases the damage of a sword sweep attack. This increase applies to nearby entities that are close to the attacked entity, but does not apply to the attacked entity itself.III Swift Sneak  Lessens the movement speed reduction that occurs when sneaking.III Thorns  Random chance to damage entities that attack the user, at the cost of increasing incurred durability damage.III Unbreaking  Gives a chance for items to ignore durability loss, effectively increasing their durability.III Wind Burst  Causes a burst of wind upon executing a mace smash attack that launches the attacker upward.III  Cleaving   Increases the damage and shield stun time of an axe. Sharpness, Bane of Arthropods, SmiteIII
+
+Summary of enchantments by item
+The table below shows which enchantments can be applied to particular items.
+
+Item Any combination ofOnly one from each column  Mending, , , , , ,  , , ,    Mending, , , ,   Mending, , , , ,   Mending, , , , , ,  ,   Mending, , , , , ,   , ,   Mending, , , , , ,  , ,   Mending, , , ,  , , ,   Mending, , ,  ,  , , ,      , , , Flame,  Infinity, Mending  Mending, , , ,   Mending, , ,  Channeling,  ,   Mending, , ,  , Multishot  Mending, , , ,   Mending, , ,   Mending, ,          ,
+
+The tables below show which enchantments can be obtained through an enchanting table, and which can only be applied through an anvil.
+
+indicates the item can receive the enchantment from an enchanting table.
+indicates the item cannot receive the enchantment from an enchanting table, but can receive the enchantment by using an anvil to combine the item with an enchanted book or another enchanted item.
+
++ Enchantments for hand slot items Enchantment             Bane of Arthropods data-sort-value="A" rowspan="2"  data-sort-value="A" rowspan="2"  data-sort-value="B"   data-sort-value="B" rowspan="2"  data-sort-value="A"  Breach data-sort-value="A"  Channeling data-sort-value="A"  Cleaving data-sort-value="B"  Curse of Vanishing data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  Density data-sort-value="A"  Efficiency data-sort-value="A"  data-sort-value="A"  data-sort-value="B"  Fire Aspect data-sort-value="A"  data-sort-value="A"  data-sort-value="A"  Flame data-sort-value="A"  Fortune data-sort-value="A"  data-sort-value="A"  Impaling data-sort-value="A"  Infinity data-sort-value="A"  Knockback data-sort-value="A"  data-sort-value="A"  Looting data-sort-value="A"  data-sort-value="A"  Loyalty data-sort-value="A"  Luck of the Sea data-sort-value="A"  Lunge data-sort-value="A"  Lure data-sort-value="A"  Mending data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  Multishot data-sort-value="A"  Piercing data-sort-value="A"  Power data-sort-value="A"  Punch data-sort-value="A"  Quick Charge data-sort-value="A"  Riptide data-sort-value="A"  Sharpness data-sort-value="A" rowspan="2"  data-sort-value="A" rowspan="2"  data-sort-value="B"  data-sort-value="A"  Silk Touch data-sort-value="A"  data-sort-value="A"  data-sort-value="C"  Smite data-sort-value="A" rowspan="2"  data-sort-value="A" rowspan="2"  data-sort-value="B"  data-sort-value="B" rowspan="2"  data-sort-value="A"  Sweeping Edge data-sort-value="A"  Unbreaking data-sort-value="A"  data-sort-value="A"  data-sort-value="A"  data-sort-value="A"  data-sort-value="B"  data-sort-value="A"  data-sort-value="A"  data-sort-value="B"  data-sort-value="A"  data-sort-value="B"  data-sort-value="A"  Wind Burst data-sort-value="B"
+
++ Enchantments for armor slot items Enchantment       Aqua Affinity data-sort-value="A"  Blast Protection data-sort-value="A"   data-sort-value="A"   data-sort-value="A"   data-sort-value="A"  Curse of Binding data-sort-value="B"   data-sort-value="B"  data-sort-value="B"   data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  Curse of Vanishing data-sort-value="B"   data-sort-value="B"  data-sort-value="B"   data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  Depth Strider data-sort-value="A"   Feather Falling data-sort-value="A"   Fire Protection data-sort-value="A"   data-sort-value="A"   data-sort-value="A"   data-sort-value="A"  Frost Walker data-sort-value="B"   Mending data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  data-sort-value="B"  Projectile Protection data-sort-value="A"   data-sort-value="A"   data-sort-value="A"   data-sort-value="A"  Protection data-sort-value="A"   data-sort-value="A"   data-sort-value="A"   data-sort-value="A"  Respiration data-sort-value="A"  Soul Speed data-sort-value="B"  Swift Sneak data-sort-value="B"  Thorns data-sort-value="B"  data-sort-value="A" rowspan="2"  data-sort-value="B"  data-sort-value="B"  data-sort-value="A"  data-sort-value="A"  data-sort-value="A"  Unbreaking data-sort-value="A"  data-sort-value="A"  data-sort-value="A"  data-sort-value="A"  data-sort-value="B"
+
+Maximum effective values for enchantments
+Using commands such as , items can be enchanted with levels 0–255, though the effectiveness of levels higher than the intended one varies by enchantment.
+
+All enchantments have some effective range in which they scale normally, and for enchantments where that is not the entire 0–255 range, all levels outside it are treted as the closest level in the range.
+
+Enchantment  Effective range Aqua Affinity  1–1 Bane of Arthropods  0–255 Blast Protection  1–10 Breach  0–255 Channeling  1–1 Curse of Binding  1–1 Curse of Vanishing  1–1 Density  0–255 Depth Strider  1–3 Efficiency  1–255 Feather Falling  1–7 Fire Aspect  1–255 Fire Protection  1–10 Flame  1–1 Fortune  1–255 Frost Walker  1–14 Impaling  0–255 Infinity  1–1 Knockback  1–255 Looting  1–255 Loyalty  1–127 (higher levels are treated as 0) Luck of the Sea  1–255 Lure  1–5 Mending  1–1 Multishot  1–255 Piercing  1–127 (higher levels are treated as 0) Power  1–255 Projectile Protection  1–10 Protection  1–20 Punch  1–255 Quick Charge  1–5 (higher levels prevent charging the crossbow) Respiration  1–255 Riptide  1–255 Sharpness  0–255 Silk Touch  1–1 Smite  0–255 Soul Speed  1–255 Sweeping Edge  1–255 Swift Sneak  1–5 Thorns  1–255 Unbreaking  1–255 Wind Burst  1–255
+
+Data values
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Sounds
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+Trivia
+Enchantments on items are always listed in the same order on their tooltips, that being: Curse of Binding, Curse of Vanishing, Riptide, Channeling, Wind Burst, Frost Walker, Sharpness, Smite, Bane of Arthropods, Impaling, Power, Density, Breach, Piercing, Sweeping Edge, Multishot, Fire Aspect, Flame, Knockback, Punch, Protection, Blast Protection, Fire Protection, Projectile Protection, Feather Falling, Fortune, Looting, Silk Touch, Luck of the Sea, Efficiency, Quick Charge, Lure, Respiration, Aqua Affinity, Soul Speed, Swift Sneak, Depth Strider, Thorns, Loyalty, Unbreaking, Infinity, and Mending.
+
+See also
+
+References
+
+External links
+Getting Started with Enchantments in Minecraft – Minecraft Help Center
+All Enchantments in Minecraft – Minecraft Help Center
+
+Navigation
+
+Category:Enchantments
+
+cs:Očarování
+de:Verzauberung
+es:Encantamiento
+fr:Enchantement
+it:Incantamento
+ja:エンチャント
+ko:마법 부여
+lzh:淬靈
+nl:Betoveren
+pl:Zaklinanie
+pt:Encantamento
+ru:Зачаровывание
+th:การร่ายมนตร์
+uk:Зачарування
+zh:魔咒

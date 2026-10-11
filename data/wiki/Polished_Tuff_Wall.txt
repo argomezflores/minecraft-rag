@@ -1,0 +1,50 @@
+TITLE: Polished Tuff Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Tuff_Wall
+---
+A polished tuff wall is a decorative wall variant of polished tuff that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Polished tuff walls drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Tuff, Polished Tuff, Polished Tuff, Polished Tuff, Polished Tuff, Polished Tuff arranged in the crafting grid → Polished Tuff Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Walls
+
+fr:Muret de tuf poli
+ja:磨かれた凝灰岩の塀
+ko:윤나는 응회암 담장
+pt:Muro de Tufo Polido
+uk:Стіна з полірованого туфу
+zh:磨制凝灰岩墙

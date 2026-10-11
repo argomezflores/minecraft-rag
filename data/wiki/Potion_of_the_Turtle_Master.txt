@@ -1,0 +1,81 @@
+TITLE: Potion of the Turtle Master
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_the_Turtle_Master
+---
+A potion of the Turtle Master is a potion that provides Slowness and Resistance when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Turtle Shell + Awkward Potion → Potion of the Turtle Master.
+
+Brewing recipe: Redstone Dust + Potion of the Turtle Master → Potion of the Turtle Master Extended.
+
+Brewing recipe: Glowstone Dust + Potion of the Turtle Master → Potion of the Turtle Master Enhanced.
+
+Brewing recipe: Gunpowder + Potion of the Turtle Master Extended → Splash Potion of the Turtle Master Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of the Turtle Master Extended → Lingering Potion of the Turtle Master Extended.
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion1 Regular: 0:20 IV IIISlows players and mobs by 60% and reduces damage taken by 60% Extended: 0:40 2 0:20  VI  IVSlows players and mobs by 90% and reduces damage taken by 80%Splash Potion1 Regular: 0:20 IV IIISlows players and mobs by 60% and reduces damage taken by 60% Extended: 0:40 2 0:20  VI  IVSlows players and mobs by 90% and reduces damage taken by 80%Lingering Potion1 Regular: 0:05 IV IIISlows players and mobs by 60% and reduces damage taken by 60% Extended: 0:10 2 0:05  VI  IVSlows players and mobs by 90% and reduces damage taken by 80%
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of the Turtle Master; Lingering Potion of the Turtle Master Enhanced; Lingering Potion of the Turtle Master Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of the Turtle Master, 8; Arrow of the Turtle Master Enhanced, 8; Arrow of the Turtle Master Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended  Enhanced Potion of the Turtle Master  37  38  39
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularLevel IIExtended Potion of the Turtle Master  turtle_master  strong_turtle_masterlong_turtle_master
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+The lingering potion of the Turtle Master has the longest item name , at 37 characters long with spaces, or 32 without. It's also composed of 6 words, more than any other item in the game other than items and books named through an anvil.
+The longest item names  and  are "Hardened Light Blue Stained Glass Pane" and "Hardened Light Gray Stained Glass Pane", both having 38 characters including spaces and 33 without. However, these items are only available when enabling the "Minecraft Education features" cheat setting when outside of .
+
+Gallery
+Renders
+
+See also
+
+Protection
+
+Navigation
+
+Category:Potions
+
+fr:Potion du Maître Tortue
+ko:거북 도사의 물약
+pt:Poção do Mestre-Tartaruga
+zh:神龟药水

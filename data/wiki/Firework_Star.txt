@@ -1,0 +1,81 @@
+TITLE: Firework Star
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Firework_Star
+---
+A firework star is a crafting ingredient used to create explosive firework rockets, which deal damage based on the number of stars added. Firework stars can be crafted using various combinations of dyes and other items, which affect the appearance, colors, and visual effects of the resulting explosions.
+
+Obtaining
+In Survival mode, firework stars are obtainable only through crafting. In Creative mode, the generic version or all 16 color variants can be found in the Creative inventory.
+
+Crafting
+
+Additionally,  only, a single unit of bone meal, lapis lazuli, cocoa beans, or ink sacs can be used to set the base color of a firework star. They cannot be mixed with any other ingredient (whether color or effect ingredients), nor used to add a "fade to color" effect.
+
+Usage
+The only usage of firework stars is to create firework rockets. Firework stars crafted with rockets trigger damaging explosions after their duration ends, including when used to propel the player while using elytra.
+
+Crafting ingredient
+
+Effects
+Shape effects
+A firework star can have only one shape effect.
+
++ Shape effects Type Ingredient Effect Sample animation 0 None Small ball explosion (default) 200px 1  Large ball explosion and heavy sound. 200px 2  Star-shaped explosion 200px 3  (any) Creeper-shaped (creeper face) explosion 200px 4  Burst explosion 200px
+
+Additional effects
+In addition to the shape effects, any combination of these additional effects may be added to a firework star.
+
++ Additional effects Ingredient Effect Sample animation None Default 200px  Twinkle (Crackle effect and sounds after the explosion) 200px  Trail effect after the explosion 200px    Twinkle + trail effect after the explosion 200px
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+There are 29,617,272,422,916,505,236 (29.6 quintillion) unique firework stars.
+
+Gallery
+Screenshots
+
+Navigation
+
+de:Feuerwerksstern
+es:Estrella de fuegos artificiales
+fr:Étoile de feu d'artifice
+it:Stella pirotecnica
+ja:花火の星
+ko:폭죽 탄약
+nl:Vuurwerkster
+pl:Gwiazdka pirotechniczna
+pt:Estrela de Fogo de Artifício
+ru:Пиротехническая звезда
+th:ดาวดอกไม้ไฟ
+uk:Феєрверкова зірка
+zh:烟火之星

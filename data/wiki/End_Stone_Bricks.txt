@@ -1,0 +1,75 @@
+TITLE: End Stone Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/End_Stone_Bricks
+---
+End stone bricks are decorative building blocks made of End stone that generate in End cities.
+
+Obtaining
+Breaking
+End stone bricks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+End stone bricks can be found naturally as part of the structure of End cities and End ships.
+
+Crafting
+
+Crafting recipe: End Stone, End Stone, End Stone, End Stone arranged in the crafting grid → End Stone Bricks,4.
+
+Stonecutting
+
+Usage
+End stone bricks are primarily decorative blocks, similarly to other brick-type blocks.
+
+Like raw End stone, End stone bricks have a blast resistance stronger than most other stone variants, except bedrock and obsidian. However, unlike End stone, End stone bricks can be destroyed by the ender dragon.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:End blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Endsteinziegel
+es:Ladrillos de piedra del End
+fr:Pierre taillée de l'End
+ja:エンドストーンレンガ
+ko:엔드 석재 벽돌
+lzh:終界石磚
+nl:Endblokstenen
+pl:Endowe kamienne cegły
+pt:Tijolos de Pedra do End
+ru:Каменный кирпич Края
+th:บล็อกอิฐหินเอนด์
+uk:Цегла з каменю Енду
+zh:末地石砖

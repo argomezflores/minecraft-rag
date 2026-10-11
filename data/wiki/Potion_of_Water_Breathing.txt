@@ -1,0 +1,80 @@
+TITLE: Potion of Water Breathing
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Water_Breathing
+---
+A potion of Water Breathing is a potion that provides Water Breathing when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Pufferfish + Awkward Potion → Potion of Water Breathing.
+
+Brewing recipe: Redstone Dust + Potion of Water Breathing → Potion of Water Breathing Extended.
+
+Mob loot
+A witch has an 8.5% chance to drop a potion of Water Breathing if it dies while drinking the potion.
+
+Generated loot
+
+, the cauldron in a swamp hut has a 10% chance to contain a potion of Water Breathing.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 Regular: 3:00Extended: 8:00Prevents the oxygen bar from depleting when underwater. Splash potion 1 Regular: 3:00Extended: 8:00 Lingering potion 1 Regular: 0:45Extended: 2:00
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Water Breathing; Lingering Potion of Water Breathing Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Water Breathing, 8; Arrow of Water Breathing Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Extended Potion of Water Breathing  19  20
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularExtended Potion of Water Breathing  water_breathing  long_water_breathing
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+Mojang screenshots
+
+Other media
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de respiration aquatique
+ko:수중 호흡의 물약
+pt:Poção de Respiração Aquática
+zh:水肺药水

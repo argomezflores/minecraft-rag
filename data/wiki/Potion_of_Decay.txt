@@ -1,0 +1,54 @@
+TITLE: Potion of Decay
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Decay
+---
+A potion of Decay is a potion that provides the Wither effect when used.
+
+Obtaining
+Potions of Decay‌ can be obtained via commands, and are also available in the Creative inventory, obtained as a tipped arrow rarely in fletcher trades in chances of 0.1%[1]
+
+Brewing
+While the base potion of Decay cannot be obtained via brewing, it can still be brewed into a splash potion or a lingering potion.
+
+Brewing recipe: Gunpowder + Potion of Decay → Splash Potion of Decay.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Decay → Lingering Potion of Decay.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 20:40Damages  every second, making a total of  damage. Splash Potion 2 Lingering Potion 2 0:10Damages  every second, making a total of  damage.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Decay, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Decay, 8.
+
+Sounds
+
+Data values
+ID
+
+:
+
+Metadata
+Potion  Regular Potion of Decay  36
+
+Item data
+
+Achievements
+
+History
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion de flétrissure
+pt:Poção da Decomposição
+zh:衰变药水

@@ -1,0 +1,38 @@
+TITLE: Block of Coal (April Fools' joke)
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Coal_(April_Fools'_joke)
+---
+A block of coal is a block in Java Edition 2.0. It was later added as an authentic block in 1.6.
+
+Obtaining
+Breaking
+Blocks of coal can be mined using any pickaxe, in which case it drops itself. If mined without a pickaxe, it drops nothing.
+
+Crafting
+Similar to other mineral blocks, it is crafted with 9 coal.
+
+Crafting recipe: Coal, Coal, Coal, Coal, Coal, Coal, Coal, Coal, Coal arranged in the crafting grid → [Block of Coal]Block of Coal (April Fools' joke).
+
+Usage
+Blocks of coal can be crafted back into coal but the coal will not be stackable with normal coal.The coal does not stack with other coal due to having a data value of .
+
+Crafting ingredient
+
+Crafting recipe: [Block of Coal]Block of Coal (April Fools' joke) arranged in the crafting grid → Coal.
+
+Fuel
+Blocks of coal can be used as fuel in a furnace. One block of coal lasts 800 seconds (16000 ticks), which smelts 80 items.
+
+Sounds
+
+Data values
+
+Issues
+
+Gallery
+
+References
+
+Navigation
+
+zh:煤炭块（Minecraft 2.0）

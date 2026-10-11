@@ -1,0 +1,97 @@
+TITLE: Transportation
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Transportation
+---
+thumb|300px|A minecart, which is a method of transportation
+thumb|199px|right|A player riding a minecart
+Transportation is how players move around the world or between dimensions (the Overworld, the Nether, and the End).
+Methods
+
+These speeds assume that the form of transportation is not under the effect of the Speed or Slowness status effects if they can be, unless mentioned. , there is a speed limit of 320 m/s, or 16 blocks per tick.
+
+Note: As 1 block is 1 m3, 1 m/s is equal to 1 block per second. Thus for convenience, all speeds are shown in SI units. 1 m/s equals 3.28 ft/s and 1 km/h equals 0.621 mph.
+
+MethodConditionsRunning start effective?Average speed in m/s (blocks per second)Average speed in km/h (1000 blocks per hour)Works in the Nether? WalkingFlat terrain 4.317 m/s15.54 km/hDiagonally 4.405 m/s15.858 km/hSoul Speed I6.066 m/s21.84 km/hSoul Speed II6.519 m/s23.47 km/hSoul Speed III6.972 m/s25.1 km/h SprintingFlat terrain5.612 m/s20.2 km/hSoul Speed I7.885 m/s28.39 km/hSoul Speed II8.475 m/s30.51 km/hSoul Speed III9.064 m/s32.63 km/h Sprint-jumpingFlat terrain7.127 m/s25.66 km/hElevation momentum (+1 block)7.508 m/s27.03 km/h2-block-high passage9.732 m/s35.04 km/h SneakingFlat terrain1.3 m/s4.68 km/h +/- 45 angle1.83 m/s6.59 km/hSwift Sneak I1.94 m/s6.98 km/hSwift Sneak II2.59 m/s9.32 km/hSwift Sneak III3.24 m/s11.66 km/hSwift Sneak III and +/- 45 angle4.41 m/s15.88 km/hSoul Speed I1.819 m/s6.55 km/hSoul Speed II1.949 m/s7.02 km/hSoul Speed III2.92 m/s10.51 km/hSwift Sneak III and Soul Speed III5.23 m/s18.83 km/hSwift Sneak III and Soul Speed III and +/- 45 angle7.11 m/s25.6 km/h Powered Track8.0 m/s28.8 km/h slope track 7.1 m/s25.56 km/h 4.0 m/s14.4 km/hBoat acceleration takes 9.4 seconds—the difference in time between a running start and not, is halved, or 4.7 seconds. slope rapids7.3 m/s26.28 km/h slope rapids7.0 m/s25.2 km/h  40.0 m/s144.0 km/h72.73 m/s261.82 km/h8.0 m/s28.8 km/h, reverse1.01 m/s3.636 km/hFlat land2.00 m/s7.20 km/hFlat land, reverse0.24 m/s0.864 km/h1.18 m/s4.25 km/h1.06 m/s3.81 km/hFlat terrain2.42 m/s3.712 km/hFlat terrain, average speed using 4.19 m/s15.08 km/hFlat land, without boost1.78 m/s6.41 km/hFlat lava surface, without boost4.24 m/s15.26 km/hFlat lava surface, average speed with boost7.34 m/s26.42 km/hFlat terrain, walking3.794 m/s13.66 km/hFlat terrain, sprinting8.0 m/s28.8 km/hHorses vary in speed. They are the fastest method of land transportation on open but unprepared terrain.Flat terrain (average horse speed)9.49 m/s34.15 km/hFlat terrain, fastest possible horse breed14.57 m/s52.45 km/hFlat terrain7.38 m/s26.56 km/hFlat terrain8.43 m/s30.35 km/hUnderwater6.5 m/s23.4 km/hOn land0.88 m/s3.17 km/hUnderwater7.15 m/s25.74 km/hOn land0.97 m/s3.49 km/h SwimmingStill water, surfaceThe swimming speeds are not affected by Swiftness potions. The surface speed refers to "skimming" across the top of the water by holding .2.20 m/s7.92 km/hStill water, underwaterUnderwater refers to any part of the body submerged in water and walking on flat terrain. The Player travels the same speed regardless of if the water is 1 block deep or 2 (in observed cases).1.97 m/s7.09 km/hUpstream, underwater0.39 m/s1.40 km/hDownstream, underwater1.81 m/s6.52 km/hWhile diving0.39 m/s1.40 km/hDownstream, underwater, standing1.37 m/s4.93 km/hSprint-swimming3.918 m/s14.1 km/hSprint-swimming with Depth Strider III5.305 m/s19.1 km/hDolphin's Grace status effect9.800 m/s28.8 km/hDolphin's Grace status effect with Depth Strider III48.0 m/s172.8 km/hDolphin's Grace status effect with Depth Strider III and Soul Speed III on a layer of soul soil underwater Data based on https://youtu.be/PuXX2zkEs48?t=178.75.0 m/s270 km/hDolphin's Grace status effect with Depth Strider III, Soul Speed III on a layer of soul soil, and Speed II status effect underwater Data based on https://youtu.be/nNm5mOeH4pE.144 m/s518.4 km/hDolphin's Grace status effect with Depth Strider III and Soul Speed III on a layer of soul soil, and Speed II status effect underwater, aligned at a +/-45 degree angle depending on travel direction, and holding forward/sideways/sprint keys Data based on https://youtu.be/ySREkWjks6A.146.965 m/s529.074 km/h Flying (horizontal)Flying speed can be varied. Creative mode11.0 m/s39.6 km/h Creative modeSprint-flying22.0 m/s79.2 km/h Spectator modeMaximum speed43.556 m/s156.8016 km/h Spectator modeMaximum speedSprint-flying87.111 m/s313.5996 km/hThrown 15° above horizontal~23.0 m/s~82.8 km/h Flying at 0° pitch3.611 m/s13 km/hGliding at 0° pitch30.0 m/s108.0 km/hContinuous rocket boost33.5 m/s120.6 km/hGliding at 52° pitch down67.3 m/s242.3 km/hGliding at 90° pitch down78.4 m/s282.2 km/hTrident with Riptide III ~375 m/s1,350 km/h (Mach 1.13)Trident with Riptide III (perfect timing)632.0 m/s 2,275.2 km/h (Mach 1.85)
+
+Notes
+
+Potions
+Using effects from potions or beacons, walking and sprinting speeds become competitive with other methods of transportation.
+
+Each additional level of  allows the player to walk at nearly the sprinting speed of the previous level, and sprinting with Speed II is only slightly slower than a minecart at full speed or a boosted pig. With adequate food and potion supplies, sprinting may be more cost-effective than building high-speed transportation systems.
+
+Effect levelWalking speed (m/s)Sprinting speed (m/s)none4.317 m/s5.612 m/s5.181 m/s6.735 m/s II6.044 m/s7.857 m/s
+
+Commands
+Using the  command, extremely high or low speeds become reachable. At exceedingly high levels (100+), the player moves faster than the chunks can load.
+
+Effect levelSneaking speed (m/s)Walking speed (m/s)Sprinting speed (m/s) 5014.25 m/s47.49 m/s61.74 m/s 12734.19 m/s113.97 m/s148.17 m/s 25567.61 m/s225.36 m/s292.96 m/s
+
+Vertical transportation
+
+There are some examples of purely vertical transportation methods:
+
+MethodConditionsAverage speed (m/s) JumpingThe player can jump up a distance of  blocks. With Jump Boost I, that increases to  blocks, and with Jump Boost II, that increases to  blocks.Climbing slope without stairs, pillar jumping, etc.2.0 m/sAscending3.2 m/sDescending3.6 m/s#climbable (e.g. ladders, vines...)Ascending2.35 m/sDescending3.0 m/sAscending in water14.0 m/sDescending in water6.0 m/sNo adjacent blocks2.0 m/sAscending, with adjacent blocks0.6 m/sDescending, with adjacent blocks3.4 m/s (measured in Java Edition)Ascending, by holding 2.23 m/sSprint-swimming upward while holding 6.98 m/sUsing a Potion of Fire Resistance0.8 m/sLevel 10.9 m/s Flying Creative Spectator7.49 m/s FallingPlayer, terminal velocity78.39992374 m/sItem, terminal velocity40.0 m/s, terminal velocity100.0 m/sFalling block, terminal velocity40.0 m/s Swimming0.39 m/s (measured )Ascending1.2 m/sDescending2.94 m/s (measured )Ascending2.352 m/sDescending3.000 m/s (measured )Ascending1.75 m/sDescending3.5 m/s
+
+Falling speed is more complex: Every tick ( second), non-flying players and mobs have their vertical speed decremented (less upward motion, more downward motion) by 0.08 blocks per tick (1.6 m/s), then multiplied by 0.98.Horses have their vertical speed multiplied by 0.98 a second time in the same tick. This may or may not apply to some other mobs. This can be described as a formula:
+
+Where is the speed (in blocks/second) at the -th tick.  corresponds to the initial speed of the jump:  where  is the level of the jump boost. Because "Speed" (in Minecraft) is defined as the Y coordinate difference between the current tick and the previous tick, the initial speed is  instead of .
+
+This would produce a terminal velocity of 3.92 blocks per tick or 78.4 m/s. However, the sky isn't quite high enough for that: Falling from layer 320 to bedrock takes around 8 seconds, with impact at 3.70925 blocks per tick (74.185 m/s). It is possible to fly higher in Creative mode, or by flying with an elytra and then removing it, reaching terminal velocity by falling from "above the sky".
+
+By solving the recurrence relation, it is possible to get an exact function to calculate the vertical speed of a falling player:
+
+Where the velocity  is in blocks (meters) per tick, the time  is in ticks and downward motion is negative. Note that if the initial velocity is zero, the function can be simplified to .
+
+An exact function to calculate the displacement of the player is the following:
+
+Where the displacement  is in blocks (meters), the time  is in ticks,  is the initial displacement and downward displacement is negative. If the initial velocity and displacement is zero, it can be written as:
+
+An approximate function to calculate the time it takes to fall from some height is the following:
+
+Where the height  is in blocks (meters), the time  is in ticks, initial velocity and displacement is zero, downward displacement is negative and  is the Lambert W function.
+
+Other modes of transportation
+Players are also able to use pistons for transport.
+It is possible to construct complex flying machines using pistons, blocks of redstone, slime blocks, and honey blocks.
+Dying is an instant mode of transportation to the player's bed or spawn point, but at the cost of all items and XP (if the keepInventory gamerule is disabled) and the world (on Hardcore).
+If the player has already defeated the ender dragon, and is near a stronghold/end portal, they can enter and exit the End to instantly be transported to their bed or spawn point without dying.
+Explosion knockback can send an adjacent player flying for a short distance, depending on the strength of the explosion. This is not recommended in Survival mode without strong armor and/or a totem of undying.
+It is possible to position boats in a line with each boat being 4-5 blocks (inclusive) from each other. By rapidly pressing the  button. This also works with saddled pigs (provided they stay in position. (placed on posts)) and minecarts, however those are much more expensive.
+
+Calculator
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Sprinting with Soul Speed 3 on soul sand while having Speed 2 is almost as fast as the fastest possible horse breed (12.6896 m/sec).
+
+References
+
+Navigation
+
+cs:Doprava
+de:Fortbewegungsmittel
+es:Transporte
+fr:Transport
+ja:運送
+ko:수송
+nl:Transport
+pl:Transport
+pt:Transporte
+ru:Способы передвижения
+th:การขนส่ง
+zh:移动

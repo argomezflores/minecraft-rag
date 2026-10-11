@@ -1,0 +1,77 @@
+TITLE: Cooked Porkchop
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cooked_Porkchop
+---
+A cooked porkchop is a food item obtained by cooking a raw porkchop. Cooked porkchops and steak restore the most hunger out of all stackable foods.
+
+Obtaining
+
+Mob loot
+
+Generated loot
+
+Cooking
+Raw porkchop can be cooked in a furnace, smoker, or campfire. Each piece of cooked porkchop removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+Smelting recipe: Raw Porkchop → Cooked Porkchop, XP: 0,35.
+
+Trading
+
+Villager gifts
+Butcher villagers may give cooked porkchop to players with the Hero of the Village effect.
+
+Usage
+Food
+
+To eat cooked porkchop, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 12.8 saturation.
+
+Wolves
+Cooked porkchops can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+Piglins
+Piglins pick up any cooked porkchops in their item form. However, they do not eat it.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+External links
+
+Navigation
+
+Category:Food
+
+cs:Pečená kotleta
+de:Gebratenes Schweinefleisch
+es:Chuleta de cerdo cocinada
+fr:Côtelette de porc cuite
+hu:Sült sertésszelet
+it:Costoletta di maiale cotta
+ja:焼き豚
+ko:익힌 돼지고기
+lzh:豕炙
+nl:Gebraden varkensvlees
+pl:Pieczona wieprzowina
+pt:Costeleta de Porco Assada
+ru:Жареная свинина
+uk:Смажена свинина
+zh:熟猪排

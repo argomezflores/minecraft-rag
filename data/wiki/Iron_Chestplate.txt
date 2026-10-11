@@ -1,0 +1,88 @@
+TITLE: Iron Chestplate
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Iron_Chestplate
+---
+An iron chestplate is a variant of chestplate that is crafted from iron ingots. It is the third-highest tier of chestplate, having higher armor points than golden and chainmail chestplates.
+
+Obtaining
+Crafting
+
+Crafting recipe: Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot arranged in the crafting grid → Iron Chestplate.
+
+Natural generation
+Two armor stands are found in each taiga village outdoor armory, one of them equipped with an iron chestplate.
+
+Generated loot
+
+Mob loot
+Zombies, husks, zombie villagers, skeletons, strays, bogged, and parched have a small chance to spawn wearing armor, which may include an iron chestplate. There is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop the chestplate they're wearing upon death unless they are spawned from an ominous trial spawner. The dropped chestplate is usually badly damaged, and may be enchanted with enchantment levels 5-19.
+
+, vindicators and pillagers spawning in raids have a 4.16% chance (5.128% on hard difficulty) to drop an iron chestplate. The dropped chestplate is usually badly damaged, and has a 50% chance of being enchanted with a random enchantment.
+
+Trading
+
+Usage
+When worn, an iron chestplate provides  armor points.
+Repairing
+Two damaged iron chestplates can be combined through crafting or using the grindstone. The durability of the used iron chestplates are added together, plus an extra 5% durability. Both the crafting table and grindstone methods do not keep the enchantments of either chestplate.
+
+Unit repair
+
+An iron chestplate can also be repaired in an anvil by adding iron ingots, with each ingot restoring 25% the chestplates' maximum durability, rounded down. Two chestplates of the same tier can also be combined in an anvil. Both methods using the anvil preserves the chestplate's enchantments.
+
+Enchantments
+An iron chestplate can receive the following enchantments:
+
++NameDescriptionMax levelMethodWeightProtectionProtection, Projectile Protection, Blast Protection, and Fire Protection are mutually exclusive.Increases overall damage reduction.IV10Projectile ProtectionIncreases damage reduction against projectiles.IV5Blast ProtectionIncreases damage reduction against explosions.IV2Fire ProtectionIncreases damage reduction against fire.IV5ThornsDeals returning damage to attackers.III1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the chestplate when obtaining experience.I2Curse of VanishingThe chestplate vanishes on death, not dropping as an item.	I1Curse of BindingRemoves the ability to de-equip the chestplate.I1
+
+Armor trimming
+It is possible to upgrade armor with trims. This requires a smithing template, a chestplate, and an ingot or crystal (iron ingot, copper ingot, gold ingot, netherite ingot, emerald, redstone dust, lapis lazuli, amethyst shard, nether quartz, diamond, or resin brick).
+
+These trims have no effect on the gameplay or strength of the armor.
+
+Smelting
+
+Smelting recipe: Iron Chestplate → Iron Nugget, XP: 0,1.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+
+Before Minecraft
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Renders
+
+Navigation
+
+Category:Armor
+Category:Combat
+
+fr:Plastron#Fer
+pt:Peitoral de Ferro

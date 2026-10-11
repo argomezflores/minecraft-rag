@@ -1,0 +1,55 @@
+TITLE: Compound Creator
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Compound_Creator
+---
+The compound creator is a block used in chemistry. It allows over 30 compounds to be created by combining elements. This includes certain items which are available in the game normally.
+
+Obtaining
+Compound creators can be obtained from the Creative inventory. They cannot be obtained in Survival without commands. , the world must also have the "Education Edition" setting enabled.
+
+Breaking
+A compound creator can be mined with any tool, but pickaxes are faster.
+
+Usage
+thumb|right|The interface of an compound creator
+
+the compound creator opens up a 3×3 grid, where elements can be inserted to create compounds. By inputting the appropriate type and number of elements, the creator outputs the component in the slot to the right of the grid. All compound recipes are shapeless, and unlike the crafting table, the stack sizes are taken into consideration. Also, unlike with most blocks with an interface, the elements are not consumed.
+
+Sounds
+
+Data values
+ID
+
+Block states
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+Renders
+
+Other
+
+Navigation
+
+Category:Utility blocks
+Category:Block entities
+Category:Minecraft Education blocks
+Category:Blocks with GUI
+
+de:Verbindungserzeuger
+es:Creador de compuestos
+fr:Créateur de corps composés
+it:Creatore composti
+ja:化合物作成器
+ko:화합물 생성기
+nl:Verbindingsmaker
+pl:Syntezator związków
+pt:Criador de compostos
+ru:Создатель соединений
+uk:Конструктор сполук
+zh:化合物创建器

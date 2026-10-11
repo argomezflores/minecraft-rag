@@ -1,0 +1,116 @@
+TITLE: End Gateway (block)
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/End_Gateway_(block)
+---
+The End gateway is a block that forms a part of End gateways, which teleport the player between the central island and the outer islands in the End.
+
+It is one of two blocks that use the starfield effect.
+
+Obtaining
+thumb|The command used to get an End gateway
+
+The End gateway block cannot be obtained as an item even by using the  command. The item form doesn't exist , but it can be obtained through add-ons or external editors or by using bugs .
+
+The End gateway block can be placed using commands such as  or  . It cannot be placed by such commands  but it can be placed using structure blocks.
+
+Natural generation
+More naturally generated gateways that transport the player back to the End platform can be found throughout the outer End islands. They will not create new gateways on the central island.
+
+Post-generation
+thumb|150px|An End gateway
+End gateway blocks form the functional part of End gateways. Each time the ender dragon is defeated, one End gateway spawns around the central island in the End, up to 20 times. Activating each of them spawns one additional gateway in the outer islands.
+
+Usage
+End gateway blocks in their original form can be used to teleport to the outer islands of the End. End gateway blocks can be used as a custom teleporter using NBT tags.
+
+exit_portal tag holds a set of X/Y/Z coordinates to determine the general location the player can be "safely" teleported to when entering.
+Setting ExactTeleport to 1 teleports entities to the specified coordinates exactly instead of at a safer location around those coordinates.
+Age determines how long the gateway has existed. This is used to determine when the beam is rendered.
+Example:
+
+When created in a dimension other than the End without exit_portal NBT data, it does not teleport entities but still activates its beam effect when an entity enters.
+
+, the gateway  by the player in the End teleports entities to (0, 0, 0), below the main island. In the Overworld or Nether, it acts as a solid block and cannot teleport entities.
+
+Beam
+When generated (either naturally as part of an End gateway or through commands), the block emits a  beam of light vertically from its top and bottom, lasting for  while fading in and out.
+
+An End gateway block also emits a  beam of light vertically from the top and bottom when an entity enters it. During the  this beam is visible, no additional entities can be teleported.
+
+It also emits the  teleport beam every . This beam also lasts  and disables teleportation of the gateway while it's visible.
+
+The creation beam extends from around Y=0 through the block up to Y=256; the teleport beam goes 50 blocks above and below the gateway block. The beam is visible from roughly the same distance as a single ordinary stack of blocks. If a render distance of 16 chunks is set, the beam of light is visible from up to 255 blocks away. Unlike the beam of a beacon, this beam does not change color if the player puts stained glass over it.
+
+It is not possible to disable either of the beams entirely. However, it is possible to edit the age of the block to a negative value, effectively delaying the beam-emitting properties of the End gateway. The age of the block can be changed by entering the command, for example, as follows: /setblock ~ ~ ~ minecraft:end_gateway{Age:-9223372036854775808L}. This will last for 14,993,257,186 years, effectively disabling the beam.
+
+Piston interactivity
+An End gateway block cannot be pushed or pulled by pistons or sticky pistons.
+
+Sounds
+Generic
+
+Unique
+
+: None
+
+Data values
+
+ID
+:
+
+:
+
+Block data
+An End gateway block has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: Age of the portal, in ticks. This is used to determine when the beam is rendered.
+: 1 or 0 (true/false) - Teleports entities directly to the exit_portal coordinates instead of near them.
+: Location entities are teleported to when entering the portal. Stored as 3 ints. Is not preserved when removed.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Trivia
+, if one manages to place an End gateway at the center of the End platform, it teleports the player before the platform regenerates. As a result, the platform appears in a different location than it should, like below the central island.
+
+References
+
+Navigation
+
+Category:End blocks
+Category:Block entities
+Category:Non-solid blocks
+Category:Utility blocks
+Category:Light sources
+Category:Createable blocks
+Category:Blocks with no item form
+es:Nexo del End (bloque)
+fr:Passerelle de l'End (bloc)
+ja:エンドゲートウェイ (ブロック)
+ko:엔드 관문 (블록)
+pl:Blok portalu bramy Endu
+pt:Passagem do End (bloco)
+ru:Блок врат Края
+zh:末地折跃门（方块）

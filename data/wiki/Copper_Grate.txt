@@ -1,0 +1,87 @@
+TITLE: Copper Grate
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Grate
+---
+Copper grates are a variant of copper blocks that have perforations that can be seen through.
+
+Obtaining
+Breaking
+Copper grates can be mined with a stone pickaxe or better. If a copper grate is broken without a pickaxe, it drops nothing.
+
+Natural generation
+Waxed copper grates of various oxidization stages generate naturally within the corridors of trial chambers, mostly serving as wall-mounted walkways between different rooms. They are also featured on some walls and floors and can form dead ends within the halls, mostly with a chest in front.
+
+Crafting
+
+Crafting recipe: Matching Unwaxed Block of Copper; Matching Waxed Block of Copper, Matching Unwaxed Block of Copper; Matching Waxed Block of Copper, Matching Unwaxed Block of Copper; Matching Waxed Block of Copper, Matching Unwaxed Block of Copper; Matching Waxed Block of Copper arranged in the crafting grid → Matching Unwaxed Copper Grate, 4; Matching Waxed Copper Grate, 4.
+
+Stonecutting
+
+Usage
+Copper grates are decorative transparent blocks that can oxidize. Copper grates do not conduct redstone, and mobs cannot spawn on top of them. They can also be waterlogged.
+
+Copper grates adjacent to other copper grates are invisible when viewed through a copper grate that is identical in states of oxidation and wax.
+
+Oxidation
+
+Non-waxed copper grates have four stages of oxidation (including the initial normal state). Lightning bolts and axes can remove the oxidation on copper grates. Using a honeycomb on a copper grate prevents it from oxidizing.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Copper grates were mainly inspired by chain link fences.@CagilMartin Two different blocks! The grates were more inspired by chain link fences etc. although the spleaves are cool too! 💖🙌 this was archived incorrectly but you can still see the contents in page's source.
+In Java Edition 23w13a_or_b, a block called "copper spleaves" was added, having a very similar appearance to the copper grates. Nevertheless, the two blocks are unrelated.
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:transparent blocks
+de:Kupferrost
+es:Rejilla de cobre
+fr:Grille en cuivre
+ja:銅の金網
+ko:구리 격자
+lzh:銅柵網
+pl:Miedziana krata
+pt:Grade de Cobre
+ru:Медная решётка
+uk:Мідна решітка
+zh:铜格栅

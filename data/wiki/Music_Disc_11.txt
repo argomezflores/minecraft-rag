@@ -1,0 +1,81 @@
+TITLE: Music Disc 11
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_11
+---
+"11" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "11".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block with a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:11.ogg
+
+"11" begins with vinyl static, followed by the sounds of someone walking on or breaking stone blocks, heavy breathing, and rustling. Haunting background noises are heard throughout the recording, resembling the ambient sound effects that play in the game's caves (and by extension, the sounds of the disc "13"). After the background noises quiet down for a moment, metallic clicking or scraping noises can be heard, followed by coughing, an enderman, sounds of page-turning, then more clicking or scraping.
+
+The background noises resume more loudly, and the sounds of faster footsteps or breaking stone blocks can be heard, which accelerate until they are replaced with dirt sounds as the background noises approach. A loud, distorted noise is heard roughly just as the recording abruptly stops. At this point, one hears only quiet beeping, vinyl static, and a hissing noise, and the track ends.
+
+"11" plays for exactly 1 minute, 11 seconds, and 111 milliseconds, making it the shortest music disc.
+
+Usage
+Like all music discs,  the "11" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "11", it emits a redstone signal of 11.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "11" 11.ogg music_disc.11
+
+:
+
+Soundtrack Title File name Sound events "11" 11.ogg record.11
+
+Achievements
+
+Advancements
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Within the disc are sounds, in order of appearance, of stone and dirt or gravel. At the time disc "11" was made, footstep sounds, placing sounds, and breaking sounds were the same for the respective block. It is unknown exactly what the character was doing when these sounds were played.
+If the .ogg file for "11" is turned into a  in an audio editor, the static at the end displays an image of a face (presumably Steve's) and the numbers 12418, a visual signature of "C418", where "C" is hexadecimal for "12".
+There is a track that is exclusive to the album Minecraft - Volume Beta called "Eleven", which has the same length of 1:11 and begins with the same vinyl static sound before being abruptly interrupted by a record scratching sound and switching to a new, calm piano piece.
+C418 once imagined that the "monster" chasing the person in "11" is himself "being a weird monster that occasionally records songs from strangers and then dies in '11.'"
+Brandon Pearce stated that the warden mob is based on the "monster" heard at the end of "11".
+Before Java Edition 1.13, the data value of "11" was 11.
+
+Gallery
+
+References
+
+Navigation
+
+Category:C418
+Category:Music discs
+
+fr:Disque 11
+ja:11 (レコード)
+ko:음반 11
+pt:Disco Musical 11
+ru:Пластинка «11»
+uk:Платівка «11»
+zh:音乐唱片11

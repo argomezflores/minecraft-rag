@@ -1,0 +1,285 @@
+TITLE: Font
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Font
+---
+thumb|The Mojangles font
+Fonts are used for rendering text in Minecraft. Several fonts are used in the game; the primary font used is known as Mojangles.
+
+Multiple fonts can be defined and referenced with resource packs.
+
+Fonts available
+Java Edition
+In Java Edition, there are 4 default fonts.
+Mojangles – Minecrafts pixelated font for most in-game text.
+Standard Galactic Alphabet – The glyphs in the enchanting table GUI.
+GNU Unifont – Replaces Mojangles if the text contains unsupported characters.
+Illageralt – Unused, but text can be formatted with it through commands
+
+Bedrock Edition
+In Bedrock Edition, there are 6 default fonts. In the chat settings, the font for all text in chat messages (including closed captions) can be changed between Mojangles and Noto Sans.
+
+Mojangles – Minecrafts pixelated font for most in-game text.
+Noto Sans – Used in some large text bodies like Marketplace content.
+Minecraft Ten – Used for various header texts in menus.
+GNU Unifont – Replaces Mojangles if the text contains unsupported characters.
+Standard Galactic Alphabet – The glyphs in the enchanting table GUI.
+smooth/ – Unknown.
+
+Legacy Console Edition
+In Legacy Console Edition, there are 2 default fonts.
+
+Mojangles – Minecrafts pixelated font for most in-game text.
+Mojangles 11 – Used in various GUIs.
+
+Other sources
+Some sources, like the Minecraft website, contains different fonts in different pages.
+
+Minecraft Ten – Used mainly for top-level headers.
+Mojangles – Used mainly for mid-level headers.
+Minecraft Five – Used mainly for top-level headers in the Dungeons page.
+Noto Sans – Used for main content and descriptions.
+Minecraft Sixteen – Used mainly for top-level headers in the Dungeons II page.
+
+Display modifications
+
+Formatting
+
+Any font can be formatted with the § sign in-game (deprecated in ), or the text component format in commands.
+
+A color code can change the color of the foreground text and the shadow (see below). There are 29 color codes, or both of these allow any HEX color.
+
+Bold text (§l) is rendered by drawing each character twice: once at its normal position and again one pixel to the right. This technique creates the appearance of thicker, bolder text without modifying the font itself.
+Text can also be italicized (§o), underlined (§n), and striked (§m). "Obfuscated" (§k) constantly replaces each character with a random character of the same width.
+
+Experience bar text
+The text on the experience bar is bright green Mojangles with a black outline in Java Edition. This is done by drawing the text in black () offset by one scaled unit in each orthogonal direction, then drawing the text in green () at the original position. Experience bar text has no unique effect in Bedrock Edition, only the green color.
+
+Shadow
+In most places text is rendered, a shadow appears beneath every character.
+This shadow is a copy of the character's glyph, with the red, green, and blue values divided by 4 and positioned 12.5% south-east of the character, relative to its spacing.
+Regardless of the resolution of the character's texture, the shadow is always moved by 12.5%.
+In the default font (), the shadow position is moved 1 pixel down and to the right.
+
+For pixels where the glyph overlaps with the shadow, the above glyph's channels have 1 subtracted from them. For example, in areas where a white () glyph's pixel overlaps a shadow's, the white pixel becomes .
+
+Glowing text
+thumb|Comparison of all the dyed glowing texts|width=325x325
+
+Glow ink sac applied on a sign causes a character to create eight copies of itself in all eight directions. This results in the font appearing to have a thick outline. Glowing text always renders with an emissive texture, so it appears bright in darkness. The text takes priority over the outline; outlines appear below a character's pixels if they conflict.  However, it is a rendering effect that does not actually emit any light. The player can  a black ink sac on the sign to remove the glow.
+
+In a sign's block data,  or 's  controls whether the text glows.
+
+Emoji support
+thumb|The Mojangles emoji in
+Minecraft has included support for a number of emoji. The game does not support modifiers, such as skin tone, joining, or emoji presentation. The skin tone modifiers , , , , and  () do not apply colored skin tones to their applicable emoji, and instead show tones as their Unifont glyphs. Joining multiple emoji via  to create 1 single emoji is not supported; multi-sequence emoji such as  instead show as  with dotted boxes showing  between them. Variation selectors, which control presentation, are displayed as dotted boxes with .
+
+For characters supported in the default font, as opposed to the fallback fonts, see .
+
+Bedrock Edition does not support any character above , which includes many modern emoji. It does not include any textures for emoji below that either; only those provided by GNU Unifont below  are included and visible.
+
+Private-area emoji
+
+thumb|Emoji in a book
+Instead of emoji in font files, Bedrock Edition has several hard-coded  that it automatically converts to emoji-like symbols in any font, which can also be entered with a shortcode (:heart:). These are used by the game in How to Play and controller hints, but can also be used by the player anywhere where normal letters can, such as in signs, books, item names, chat, resource packs, etc. Emoji are not displayed by Ore UI menu screens.
+
+There exist 2 Private Use Area sheets: .  contains glyphs for control icons, such as  and .  contains glyphs for miscellaneous icons, including the Minecoin and Agent icon. E0 characters are categorized in .https://github.com/TwistedAsylumMC/bedrock-unicode-characters
+
+Blocks & items
+ShortcodeCharacterUnicodePreview:wood_pickaxe:U+E108File:Wooden_Pickaxe_emoji.png:wood_sword:U+E109File:Wooden_Sword_emoji.png:crafting_table:U+E10AFile:Crafting_Table_emoji.png:furnace:U+E10BFile:Furnace_emoji.png
+
+HUD
+ShortcodeCharacterUnicodePreview:armor:U+E101File:Armor_emoji.png:tip_crosshair:U+E017File:Crosshair_emoji.png:shank:U+E100File:Shank_emoji.png:heart:U+E10CFile:Heart_emoji.png
+
+Marketplace
+ShortcodeCharacterUnicodePreview:minecoin:
+:token:U+E102File:Minecoin_emoji.png:minecoin:
+:token:U+E105File:Token_emoji.png
+
+On non-PlayStation devices, both :minecoin: and :token: will display the Minecoin emoji.
+
+Recipe book
+ShortcodeCharacterUnicodePreview:craftable_toggle_on:U+E0A0File:Craftable_Toggle_On_emoji.png:craftable_toggle_off:U+E0A1File:Craftable_Toggle_Off_emoji.png
+
+Controls
+
+Mouse
+ShortcodeCharacterUnicodePreview:mouse_left_button:U+E060File:Left_Button_emoji.png:mouse_right_button:U+E061File:Right_Button_emoji.png:mouse_middle_button:U+E062File:Middle_Button_emoji.png:mouse_button:U+E063File:Button_emoji.png:light_mouse_left_button:U+E070File:Light_Left_Button_emoji.png:light_mouse_right_button:U+E071File:Light_Right_Button_emoji.png:light_mouse_middle_button:U+E072File:Light_Middle_Button_emoji.png:light_mouse_button:U+E073File:Light_Button_emoji.png
+
+Touch
+ShortcodeCharacterUnicodePreview:touch_forward:U+E080File:Forward_emoji.png:touch_left:U+E081File:Left_emoji.png:touch_back:U+E082File:Back_emoji.png:touch_right:U+E083File:Right_emoji.png:touch_jump:U+E084File:Jump_emoji.png:touch_sneak:U+E085File:Sneak_emoji.png?U+E089File:Emote_emoji.png:touch_chat:U+E08AFile:Chat_emoji.png?U+E08BFile:Pause_emoji.png:touch_sprint_double_tap:U+E064File:Sprint_Double_Tap_emoji.png:tip_virtual_button_jump:U+E014File:Jump_emoji.png:tip_virtual_button_action_attack_or_destroy:U+E015File:Attack_emoji.png:tip_virtual_joystick:U+E016File:Joystick_emoji.png:touch_virtual_joystick_forward:U+E08CFile:Joystick_Forward_emoji.png:touch_virtual_joystick_left:U+E08DFile:Joystick_Left_emoji.png:touch_virtual_joystick_back:U+E08EFile:Joystick_Back_emoji.png:touch_virtual_joystick_right:U+E08FFile:Joystick_Right_emoji.png:tip_virtual_button_action_build_or_use:U+E018File:Place_emoji.png:tip_virtual_button_sneak:U+E019File:Sneak_emoji.png:tip_virtual_button_sprint:
+:touch_sprint:U+E01AFile:Sprint_emoji.png:tip_virtual_button_fly_up:U+E01BFile:Fly_Up_emoji.png:tip_virtual_button_fly_down:U+E01CFile:Fly_Down_emoji.png:tip_virtual_button_dismount:U+E01DFile:Dismount_emoji.png:touch_fly_up:U+E086File:Fly_Up_Old_emoji.png:touch_fly_down:U+E087File:Fly_Down_Old_emoji.png:touch_stop_flying:U+E088File:Stop_Flying_emoji.png:tip_touch_sneak:U+E05AFile:Small_Sneak_emoji.png:tip_touch_jump:U+E059File:Small_Jump_emoji.png:tip_touch_inventory:U+E05BFile:Small_Inventory_emoji.png:tip_touch_fly_up:U+E05CFile:Small_Fly_Up_emoji.png:tip_touch_fly_down:U+E05DFile:Small_Fly_Down_emoji.png:tip_touch_forward:U+E055File:Small_Up_Arrow_emoji.png:tip_touch_left:U+E056File:Small_Left_Arrow_emoji.png:tip_touch_back:U+E057File:Small_Down_Arrow_emoji.png:tip_touch_right:U+E058File:Small_Right_Arrow_emoji.png
+
+Controller
+ShortcodeCharacterUnicodePreview:ps4_left_stick_up:
+:switch_left_stick_up:
+:xbox_left_stick_up:U+E0D0File:Ps4 left stick up.png:ps4_left_stick_left:
+:switch_left_stick_left:
+:xbox_left_stick_left:U+E0D1File:Ps4 left stick left.png:ps4_left_stick_down:
+:switch_left_stick_down:
+:xbox_left_stick_down:U+E0D2File:Ps4 left stick down.png:ps4_left_stick_right:
+:switch_left_stick_right:
+:xbox_left_stick_right:U+E0D3File:Ps4 left stick right.png:ps4_right_stick_up:
+:switch_right_stick_up:
+:xbox_right_stick_up:U+E0D0(/assets/images/text/emojis/controller/right_stick_up.png):ps4_right_stick_left:
+:switch_right_stick_left:
+:xbox_right_stick_left:U+E0D1(/assets/images/text/emojis/controller/right_stick_left.png):ps4_right_stick_down:
+:switch_right_stick_down:
+:xbox_right_stick_down:U+E0D2(/assets/images/text/emojis/controller/right_stick_down.png):ps4_right_stick_right:
+:switch_right_stick_right:
+:xbox_right_stick_right:U+E0D3(/assets/images/text/emojis/controller/right_stick_right.png)
+
+Nintendo Switch
+ShortcodeCharacterUnicodePreview:switch_face_button_down:U+E040File:Switch face button right.png:switch_face_button_right:U+E041File:Switch face button down.png:switch_face_button_left:U+E042File:Switch face button up.png:switch_face_button_up:U+E043File:Switch face button left.png:switch_bumper_left:U+E044File:Switch bumper left.png:switch_bumper_right:U+E045File:Switch bumper right.png:switch_trigger_left:U+E046File:Switch left trigger.png:switch_trigger_right:U+E047File:Switch right trigger.png:switch_select:U+E048File:Switch select button.png:switch_start:U+E049File:Switch start button.png:switch_stick_left:U+E04AFile:Switch stick left.png:switch_stick_right:U+E04BFile:Switch stick right.png:switch_dpad_up:U+E04CFile:Switch dpad up.png:switch_dpad_left:U+E04DFile:Switch dpad left.png:switch_dpad_down:U+E04EFile:Switch dpad down.png:switch_dpad_right:U+E04FFile:Switch dpad right.png
+
+PlayStation 4
+ShortcodeCharacterUnicodePreview:ps4_face_button_down:U+E020File:Ps4 face button down.png:ps4_face_button_right:U+E021File:Ps4 face button right.png:ps4_face_button_left:U+E022File:Ps4 face button left.png:ps4_face_button_up:U+E023File:Ps4 face button up.png:ps4_bumper_left:U+E024File:Ps4 bumper left.png:ps4_bumper_right:U+E025File:Ps4 bumper right.png:ps4_trigger_left:U+E026File:Ps4 left trigger.png:ps4_trigger_right:U+E027File:Ps4 right trigger.png:ps4_select:U+E028File:Ps4 select button.png:ps4_start:U+E029File:Ps4 start button.png:ps4_stick_left:U+E02AFile:Ps4 stick left.png:ps4_stick_right:U+E02BFile:Ps4 stick right.png:ps4_dpad_up:U+E02CFile:Ps4 dpad up.png:ps4_dpad_left:U+E02DFile:Ps4 dpad left.png:ps4_dpad_down:U+E02EFile:Ps4 dpad down.png:ps4_dpad_right:U+E02FFile:Ps4 dpad right.png
+
+Oculus (Rift/Rift S)
+NameCharacterUnicodePreview0U+E0E0![](/assets/images/text/emojis/oculus/0_button.png)BU+E0E2![](/assets/images/text/emojis/oculus/b_button.png)AU+E0E1![](/assets/images/text/emojis/oculus/a_button.png)YU+E0EA![](/assets/images/text/emojis/oculus/y_button.png)XU+E0E9![](/assets/images/text/emojis/oculus/x_button.png)Left GripU+E0E3![](/assets/images/text/emojis/oculus/left_grip.png)Right GripU+E0E4![](/assets/images/text/emojis/oculus/right_grip.png)Left TriggerU+E0E7![](/assets/images/text/emojis/oculus/left_trigger.png)Right TriggerU+E0E8![](/assets/images/text/emojis/oculus/right_trigger.png)Left StickU+E0E5![](/assets/images/text/emojis/oculus/left_stick.png)Right StickU+E0E6![](/assets/images/text/emojis/oculus/right_stick.png)
+
+Windows MR (Mixed Reality)
+NameCharacterUnicodePreviewMenuU+E0C2![](/assets/images/text/emojis/windowsMR/menu.png)WindowsU+E0CD![](/assets/images/text/emojis/windowsMR/windows.png)Left TouchpadU+E0C5![](/assets/images/text/emojis/windowsMR/left_touchpad.png)Left Horizontal TouchpadU+E0C6![](/assets/images/text/emojis/windowsMR/left_touchpad_horizontal.png)Left Vertical TouchpadU+E0C7![](/assets/images/text/emojis/windowsMR/left_touchpad_vertical.png)Right TouchpadU+E0C8![](/assets/images/text/emojis/windowsMR/right_touchpad.png)Right Horizontal TouchpadU+E0C9![](/assets/images/text/emojis/windowsMR/right_touchpad_horizontal.png)Right Vertical TouchpadU+E0CA![](/assets/images/text/emojis/windowsMR/right_touchpad_vertical.png)Left TriggerU+E0CB![](/assets/images/text/emojis/windowsMR/left_trigger.png)Right TriggerU+E0CC![](/assets/images/text/emojis/windowsMR/right_trigger.png)Left GrabU+E0C0![](/assets/images/text/emojis/windowsMR/left_grab.png)Right GrabU+E0C1![](/assets/images/text/emojis/windowsMR/right_grab.png)Left StickU+E0C3![](/assets/images/text/emojis/windowsMR/left_stick.png)Right StickU+E0C4![](/assets/images/text/emojis/windowsMR/right_stick.png)
+
+Xbox
+ShortcodeCharacterUnicodePreview:xbox_face_button_down:U+E000File:Xbox face button down.png:xbox_face_button_right:U+E001File:Xbox face button right.png:xbox_face_button_left:U+E002File:Xbox face button left.png:xbox_face_button_up:U+E003File:Xbox face button up.png:xbox_bumper_left:U+E004File:Xbox bumper left.png:xbox_bumper_right:U+E005File:Xbox bumper right.png:xbox_trigger_left:U+E006File:Xbox left trigger.png:xbox_trigger_right:U+E007File:Xbox right trigger.png:xbox_select:U+E008File:Xbox select button.png:xbox_start:U+E009File:Xbox start button.png:xbox_stick_left:U+E00AFile:Xbox stick left.png:xbox_stick_right:U+E00BFile:Xbox stick right.png:xbox_dpad_up:U+E00CFile:Xbox dpad up.png:xbox_dpad_left:U+E00DFile:Xbox dpad left.png:xbox_dpad_down:U+E00EFile:Xbox dpad down.png:xbox_dpad_right:U+E00FFile:Xbox dpad right.png
+
+Other
+NameShortcodeCharacterUnicodePreviewNon-Breaking Space:nbsp:U+E0FFAgent:code_builder_button:U+E103![](/assets/images/text/emojis/other/agent.png)Immersive Reader:immersive_reader_button:U+E104![](/assets/images/text/emojis/other/immersive_reader.png)Hollow Star:hollow_star:U+E106![](/assets/images/text/emojis/other/hollow_star.png)Solid Star:solid_star:U+E107![](/assets/images/text/emojis/other/solid_star.png)Camera:camera:U+E10D![](/assets/images/text/emojis/other/camera.png)
+
+Special characters
+
+, there are 2 characters that are accessible only through technical means:
+The first is , which appears when either the U+FFFD character is typed, or there is an invalid UTF-8 multi-byte sequence.
+The second is the "notdef" character, seen when a character that has no texture in the currently-used font is typed. It is hardcoded and cannot be modified through resource packs. It is sometimes called "tofu" in the typographical community because of it resembles a block of . More information on this character can be found at Missing textures and models#Missing font character.
+, a character with no texture data appears as a blank space. The  shown belongs to GNU Unifont.
+
+Providers
+
+A font is constructed from a list of providers, sources that provide characters to use. Different providers use different formats and methods of constructing characters. The default font uses all except for ttf.
+
+A font file uses the following format:
+: The root object.
+: A list of providers.
+: A provider. Each type of provider is elaborated below.
+: The type of provider.
+: Options in Language -> Font Settings that must be in the given state for the provider to be used. Right now, these buttons are hardcoded, preventing the extension of these font filtering capabilities beyond the preset options provided.
+: Optional. The value that the "Force Uniform" option must be for this font provider to be enabled.
+: Optional. The value that the "Japanese Glyph Variants" option must be for this font provider to be enabled.
+
+Bitmap provider
+The bitmap provider defines simple bitmap glyphs – glyphs from textures.
+
+: The provider.
+: bitmap.
+: The amount of vertical shifting is applied to the glyph. In typography, the ascent is the distance above the baseline to the cap height (top of glyph). The baseline in a glyph is the line where the descender begins. For example, in the lowercase letter , the bottom end of the  extends past the baseline. In Vanilla, when the height is 8, the ascent is most often 7, as the descender is 1.
+: The characters associated with each glyph in the texture file. The characters inside each string entry inside this list are mapped to the corresponding positions in the referenced file. The texture is divided evenly according to the number of strings in the list, and the length of the longest string in that list.
+: One line of characters.
+: The PNG file used for the characters of this provider. Textures may be any size, and glyphs may be any color. White glyphs can be colored any other color in-game. Other colors retain that tint when re-colored. Black glyphs always appear black. The glyphs' widths are automatically determined based on the last right-most column of pixels containing any alpha value above 0. Glyphs themselves must not be larger than 256×256 pixels.
+: The scale of the resulting glyph. This scale should generally match the glyph's individual height, or be a power of it. While heights outside of this recommended range are allowed and are valid, the resulting glyphs declared inside the provider appears warped when rendered in-game. The height field is optional. When not defined, it defaults to 8, regardless of the underlying texture resolution.
+
+UTF-16 codepoints encoded in UTF-8 sequences can be used by use of surrogate pairs. To convert a character into a surrogate pair, one can use the following equations, where C is the codepoint in decimal:
+
+High Surrogate (first codepoint):
+Low Surrogate (second codepoint):
+
+When the length of either chars or its strings is not a divisor of the resource's dimensions, it can result in an unexpected division of glyphs. The Unicode escape  can be used to add padding in the list. Padding acts as a "dummy character", so that the glyph data at that corresponding position in the file is not assigned a character.
+
+Space provider
+The space provider defines the width of a character's glyph.
+
+: The provider.
+: space.
+: Object that specifies the width of each character. The keys are the characters. The keys must be only 1 grapheme long (multi-byte character still count as one character, like , which is encoded as 0xF0 0x9F 0x94 0xA5). Although it is intended to be used for whitespace characters (characters that have "WSpace=Y" in Unicode), it can be used for any character, as long as there is no prior definition of that character's glyph.
+: The width of the character specified by the key. Values must be an integer. Negative values are forced to 0 when typed in chat.
+
+By default, the game has two widths defined:
+
+U+0020 <SPACE> SPACE is 4
+U+200C <ZWNJ> ZERO WIDTH NON-JOINER is 0
+
+TTF provider
+The ttf provider embeds already-compiled TrueType and OpenType fonts. The font files added using this method are stripped from any font properties other than the glyphs themselves (like kerning or ligatures).
+
+: The provider.
+: ttf.
+: A resource location to a file ending in .ttf. Path is relative to the  directory.
+: The resolution to render at. Values that don't match the glyph's native em sizing division or DPI cause it to be anti-aliased.
+: An array of two integers. It defines how much each glyph contained in this TrueType font is to be moved horizontally and vertically.
+: The horizontal shifting (positive is leftward, negative is rightward).
+: The vertical shifting (positive is downward, negative is upward).
+: This field is similar to a bitmap provider's height field. This is a divisor by which the em-size of the font's glyphs are to be divided and then fitted into the bitmap grid. This value can vary greatly across different fonts.
+: A list of strings or a string of the characters to which this font has no assignment. If it is a list of strings, the strings are concatenated together and then act as if it were originally a string. This allows the same input as a bitmap provider's chars.
+
+Unihex provider
+The unihex provider is a replacement for the Legacy Unicode provider. It uses the GNU Unifont .hex format. It references a ZIP archive that contains a number of .hex files.
+
+: The provider.
+: unihex.
+: A resource location to a .ZIP archive file. It must be openable by Java's ZipFile. Inside, there must be at least 1 .hex file at the root of the archive. Subdirectories are not walked through and filenames with an extension different from .hex are ignored. Filenames must follow normal file resource name rules.
+: Each .hex file in the .ZIP archive contains one or more glyph definitions. Each line has one glyph definition, and follows the format <codepoint>:<data>. <codepoint> is the Unicode codepoint, without the U+ or 0x. It must have four, five, or six digits. The <data> is a hexadecimal number that encodes the glyph data. Glyphs are always sixteen pixels high. Glyphs can be eight, sixteen, 24, or 32 pixels wide.
+: Defines custom widths for a range of characters.
+: One range.
+: The starting character for the range at which this size override applies to.
+: The ending character for this range. Both from and to must be one character.
+: The position of the left-most column of glyphs in range.
+: The position of the right-most column of glyphs in range. Both left and right must be between 0 and 32, inclusive.
+
+Reference provider
+The reference provider serves one purpose: to include another provider only once. It can be used to include providers from other fonts in other resource packs.
+
+Referenced providers are guaranteed to be loaded only once, no matter how many times they are included.
+
+: The provider.
+: reference.
+: A resource location to another font file.
+
+Legacy Unicode provider
+
+The legacy_unicode provider is similar to the bitmap provider in that it loads glyphs from only textures. This format is deprecated, and is prioritized only when the "Force Unicode Font" option is turned on. It acts as a "fallback" for glyphs that no other provider has defined a texture for.
+
+: The provider.
+: legacy_unicode.
+: A reference to a set of files. The string %s must be included in this field. %s is replaced with every valid page number, in hexadecimal.
+: A reference to a binary resource that contains the widths of each glyph. Most often, this file is called glyph_sizes.bin; this is its default name.
+
+Templates, specified by the template field, are name-based, and are all PNG files. Each template file must have equal width and height. The template numbering scheme works based off of the Unicode BMP. The number used is equal to a BMP codepoint's high byte. These template textures are called "pages". Template page "22" must cover characters  to . Page numbers go from 00 to FF. Characters beyond  cannot be changed through this provider. By default, each glyph is 16×16 pixels wide, so each individual template page is 256×256 pixels (16 glyphs on each line, 16 lines). Its default textures are an outdated version of GNU Unifont.
+
+The file referenced by the sizes field must have the following format. Each character width is one byte large. The high nibble records the starting position, while the lower nibble records the ending position in the 16×16 glyph grid. For this reason, the file must be 0xFFFF bytes long (65535 in decimal).
+
+A specific character's width is determined by finding its codepoints byte. The character 'A' has a codepoint of , so byte offset  (65 in decimal) would be addressed. A square character occupying the entire grid (pixel width #1 [0, 0x0] through #16 [15, 0xF]) would have a value of 0x0F (15 in decimal).
+
+Widths cannot extend past 16 pixels, and characters whose codepoints are greater than  are not handled. Some codepoints are invalid on their own. These are the surrogate pairs; they are used to encode codepoints higher than  in UTF-16. This means that the template pages  are invalid and cannot be used.
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Although not in the changelog or specification, the default copy of the  provider also includes a  field in the  entries of . It is a list of strings, being the Unicode block names of the applying range.
+The New Nintendo 3DS Edition's font is a combination of the pre-1.12 JE font and some select characters from GNU Unifont. In addition, the  sign was changed.
+
+Gallery
+
+See also
+Language
+Sign
+
+Notes
+
+References
+
+External links
+GNU Unifont
+
+Navigation
+
+de:Schriftdaten
+ja:フォント
+ru:Шрифт
+zh:字体

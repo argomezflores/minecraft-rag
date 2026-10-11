@@ -1,0 +1,65 @@
+TITLE: Polished Granite
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Granite
+---
+Polished granite is a processed and polished decorative form of granite.
+
+Obtaining
+Breaking
+Polished granite can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Polished granite generates in many ocean ruin variants.
+
+Crafting
+
+Crafting recipe: Granite, Granite, Granite, Granite arranged in the crafting grid → Polished Granite,4.
+
+Stonecutting
+
+Trading
+
+Usage
+Polished granite is currently used only for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+External links
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Granite poli
+ko:윤나는 화강암
+lzh:鎣花崗石
+pt:Granito Polido
+uk:Полірований граніт
+zh:磨制花岗岩

@@ -1,0 +1,54 @@
+TITLE: Cinnabar
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cinnabar
+---
+Cinnabar is a decorative stone variant block that naturally generates in sulfur caves alongside sulfur, and as part of sulfur springs.
+
+Obtaining
+Breaking
+Cinnabar drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Cinnabar generates throughout sulfur caves and as part of sulfur springs.
+
+Usage
+Crafting ingredient
+Cinnabar can be crafted into several decorative variants.
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life,  is a toxic red ore of  and , historically used as a primary ore for mercury and as a red pigment.
+
+Navigation
+
+de:Zinnober
+es:Cinabrio
+fr:Cinabre
+it:Cinabro
+ja:辰砂
+ko:진사
+lzh:朱砂
+nl:Cinnaber
+pt:Cinábrio
+ru:Киноварь
+th:ซินนาบาร์
+uk:Кіновар
+zh:朱砂

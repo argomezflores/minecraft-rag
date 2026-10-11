@@ -1,0 +1,71 @@
+TITLE: Bane of Arthropods
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Bane_of_Arthropods
+---
+Bane of Arthropods is an enchantment applied to swords, axes, spears, and maces that substantially increases melee damage against arthropod mobs and applies Slowness IV to them.
+
+Obtaining
+Bane of Arthropods can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, librarian villagers, and in the following structure loot chests: desert pyramids, strongholds, ocean ruins, ancient cities, mansions, pillager outposts, mineshafts, monster rooms, jungle pyramids, and from vaults in trial chambers.
+
+Usage
+Each level on a sword, axe, spear, or mace adds  extra damage against arthropods mobs, and inflicts Slowness IV to them with a random duration between 1 and 1.5 seconds at level I, increasing the maximum duration by 0.5 seconds at each level, up to 3.5 seconds with Bane of Arthropods V. Bane of Arthropods applies against the following mobs:
+
+, the damage is rounded down. Spear charge attacks done using a spear in the offhand do not apply Bane of Arthropods.
+
+Damage per hit
+These tables detail how much damage is done per attack based on the level of enchantment used, assuming the target is not wearing armor and the attack is fully charged. While both Java Edition and Bedrock Edition add  per level, Bedrock Edition rounds down to the nearest whole number which makes Bane of Arthropods I, Bane of Arthropods III, and Bane of Arthropods V weaker than Java Edition.
+
++Bane of Arthropods extra damageEditionIIIIIIIVV
+
+Java Edition
+SwordsWeaponBase damageBane of Arthropods IBane of Arthropods IIBane of Arthropods IIIBane of Arthropods IVBane of Arthropods V (critical) (critical) (critical) (critical) (critical)AxesWeaponBase damageBane of Arthropods IBane of Arthropods IIBane of Arthropods IIIBane of Arthropods IVBane of Arthropods V (critical) (critical) (critical)MaceWeaponBase damageBane of Arthropods IBane of Arthropods IIBane of Arthropods IIIBane of Arthropods IVBane of Arthropods V (critical)
+
+Bedrock Edition
+SwordsWeaponBase damageBane of Arthropods IBane of Arthropods IIBane of Arthropods IIIBane of Arthropods IVBane of Arthropods V (critical) (critical) (critical) (critical) (critical)AxesWeaponBase damageBane of Arthropods IBane of Arthropods IIBane of Arthropods IIIBane of Arthropods IVBane of Arthropods V (critical) (critical) (critical) (critical) (critical)MaceWeaponBase damageBane of Arthropods IBane of Arthropods IIBane of Arthropods IIIBane of Arthropods IVBane of Arthropods V (critical)
+
+Specific cases
+If Bane of Arthropods is applied to a trident by use of commands or an anvil in Creative, the enchantment affects the weapon's thrown projectile. If Bane of Arthropods is applied to a bow by use of commands or an anvil in Creative, the enchantment affects the weapon's arrows. If Bane of Arthropods is applied to a crossbow by use of commands or an anvil in Creative, the enchantment affects weapon's arrows but not its firework rockets.
+
+Incompatibilities
+Bane of Arthropods is incompatible with Sharpness, Smite, Density, Breach, and Cleaving. It is also incompatible with Impaling, however in Survival this incompatibility cannot be encountered, as no weapon types have access to both Bane of Arthropods and Impaling. If commands are used to have two or more of these enchantments on the same item, their effects stack.
+
+Data values
+
+ID
+
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Java Edition Combat Tests
+
+Issues
+
+Trivia
+Any primary or secondary item with Bane of Arthropods V can kill any arthropods in one hit.
+
+Notes
+
+References
+
+Navigation
+
+de:Nemesis der Gliederfüßer
+es:Perdición de los artrópodos
+fr:Fléau des arthropodes
+ja:虫特効
+lzh:剋蟲
+pt:Ruína dos Artrópodes
+ru:Бич членистоногих
+th:สังหารอาร์โทรพอด
+zh:节肢杀手

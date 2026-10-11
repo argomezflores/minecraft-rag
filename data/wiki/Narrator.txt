@@ -1,0 +1,37 @@
+TITLE: Narrator
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Narrator
+---
+thumb|320px|right|The different narrator settings.
+
+The narrator or text to speech is a text-to-speech engine that automatically reads chat messages and other text elements in the user interface, such as titles and selected buttons.
+
+Usage
+It can be toggled on in the accessibility settings or by pressing  (or  on Mac). The narrator can be toggled between the following settings:
+
+Off: The narrator is inactive.
+All: The narrator reads chat and system messages.
+Chat: The narrator reads only messages produced by players.
+System: The narrator reads only messages produced by the system (UI text, command outputs, notifications, etc.).
+
+The keyboard shortcut for toggling the narrator can be disabled in the accessibility settings.
+
+The language of the narrator is defined in host system and cannot be changed from within the game (although it can be forced in Windows by editing the Windows Registry).
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Gameplay
+
+de:Sprachausgabe
+fr:Narrateur
+ja:音声読み上げ
+pt:Narração

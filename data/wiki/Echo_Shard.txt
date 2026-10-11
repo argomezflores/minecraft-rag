@@ -1,0 +1,44 @@
+TITLE: Echo Shard
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Echo_Shard
+---
+An echo shard is an item found only in ancient cities, which is used solely to craft recovery compasses.
+
+Obtaining
+Generated loot
+
+Usage
+Crafting ingredient
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Quotes
+
+References
+
+Navigation
+
+de:Echoscherbe
+es:Fragmento resonante
+fr:Éclat d'écho
+it:Scheggia di risonanza
+ja:残響の欠片
+ko:메아리 조각
+lzh:回音殘片
+pl:Odłamek echa
+pt:Fragmento de Eco
+ru:Осколок эха
+th:เศษเอ็กโค
+uk:Уламок відлуння
+zh:回响碎片

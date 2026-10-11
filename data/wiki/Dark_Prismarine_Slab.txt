@@ -1,0 +1,54 @@
+TITLE: Dark Prismarine Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Dark_Prismarine_Slab
+---
+A dark prismarine slab is a decorative slab variant of dark prismarine that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Dark prismarine slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Dark Prismarine, Dark Prismarine, Dark Prismarine arranged in the crafting grid → Dark Prismarine Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a dark prismarine slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle de prismarine sombre
+ja:ダークプリズマリンのハーフブロック
+ko:짙은 프리즈머린 반 블록
+pt:Laje de Prismarinho Escuro
+zh:暗海晶石台阶

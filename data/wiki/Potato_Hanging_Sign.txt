@@ -1,0 +1,47 @@
+TITLE: Potato Hanging Sign
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Hanging_Sign
+---
+A potato hanging sign is a variant of a hanging sign made of potato planks, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Crafting
+
+Crafting recipe: Chain, Chain, Potato Stem, Potato Stem, Potato Stem, Potato Stem, Potato Stem, Potato Stem arranged in the crafting grid → Potato Hanging Sign.
+
+Usage
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Hanging
+
+Wall
+
+Block data
+A potato hanging sign has a block entity associated with it that holds additional data about the block.
+
+Issues
+
+Trivia
+Potato hanging signs have a maximum stack size of 13, and are the first item in any version of the game to have this maximum stack size.
+
+Navigation
+
+Category:Joke blocks
+Category:Blocks with GUI
+Category:Manufactured blocks
+Category:Block entities
+Category:Utility blocks
+
+ja:Potato Hanging Sign
+zh:悬挂式马铃薯木告示牌

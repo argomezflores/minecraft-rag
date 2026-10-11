@@ -1,0 +1,75 @@
+TITLE: Toasts
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Toasts
+---
+thumb|A music toast when playing Blind Spots by C418.
+Toasts are informational text boxes shown on the screen. They typically show up when the player unlocks new crafting recipes, grants advancements, or a song starts playing, and there are informational messages which can be of any type.
+
+Tutorial hints are also specific toasts that serve to teach the player how to play the game.
+
+Description
+thumb|A recipe toast in Java Edition.
+thumb|A recipe toast in Bedrock Edition.There are various situations where a toast is shown, each has different appearances or positions:
+
+Gameplay:
+
+When the player unlocks crafting (or smelting) recipes in Survival, if recipe unlocking is enabled. The toast cycles through the inventory icons of all unlocked recipes until it disappears.
+Tutorial hints.
+When obtaining an advancement.
+When joining a server without chat reporting.
+When joining a server that has a required resource pack to show download progress.
+When a song starts playing, or plays (can be adjusted in the options).
+When changing narrator mode.
+When the game, in controller or touch mode, receives no input for 15 minutes and darkens the screen, an animated toast appears on the action bar prompting to press any button.
+When performing a command macro that fails to execute, a toast appears showing the entered command.
+When obtaining an achievement on devices that do not support Xbox notifications.
+
+Menu:
+
+When the disk storage is almost full, or completely full.
+When a pack has a critical error.
+While importing an add-on, world, or world template.
+When purchasing, updating or downloading Marketplace content.
+After capturing, or attempting to capture a screenshot.
+After submitting a rate to a Marketplace pack or adding/removing one to the wishlist.
+After changing, creating, removing, or switching a skin in the Dressing Room.
+When a friend joins a singleplayer game and the game unpauses. This toast has a "Play" button resuming the game.
+Certain news messages sent by Mojang Studios, like Marketplace offers. Mostly replaced by pop-ups and Inbox messages.
+After copying the build information in the legacy General settings to the clipboard.
+When receiving a party invite. This toast has a button to open the Party tab in the social drawer.
+When a joined party moves to a world or the main menu. This toast has a countdown bar, and a decline button.thumb|A party moving toast
+When a friend action is performed.
+
+, menu toasts can be opened by pressing /tapping on it, which redirects to the settings tab or resource pack with the problem, opens the pack's technical details menu allowing to fix the problem, or opens the party invite/declines moving with a party. The duration of menu toast messages can be adjusted in the accessibility settings. Toasts can be completely disabled in the Editor.
+
+Ore UI menu screens have a variant of toasts that are small, simple black boxes that pop up on the bottom of the screen with a Noto Sans text.
+
+Sounds
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Java Edition
+Gameplay
+
+Informational
+
+Bedrock Edition
+
+Navigation
+
+de:Toast
+ja:トースト
+lzh:幕
+pt:Balões
+uk:Тости
+zh:弹窗

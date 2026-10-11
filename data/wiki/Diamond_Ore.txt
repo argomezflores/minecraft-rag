@@ -1,0 +1,105 @@
+TITLE: Diamond Ore
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Diamond_Ore
+---
+Diamond ore is a rare ore that generates deep underground, and drops diamonds when mined.
+
+Deepslate diamond ore is a variant of diamond ore that can generate in deepslate and tuff blobs, and is more common than its regular variant.
+
+Obtaining
+Breaking
+The diamond ore block itself (rather than its diamond drops) can be obtained by mining it with an iron pickaxe or better, with the Silk Touch enchantment. When mined without Silk Touch, diamond ore drops a single diamond and . The maximum number of diamonds dropped from a diamond ore block can be increased with Fortune. Fortune I gives a  chance for 2 diamonds, averaging 1.33 diamonds, Fortune II gives a 25% chance (each) to give 2 or 3 diamonds, averaging 1.75 diamonds, and Fortune III gives a 20% chance (each) to give 2, 3, or 4 diamonds, averaging 2.2 diamonds.
+
+Natural generation
+
+alt=Ore feature of diamond ores|thumb|right|Ore feature of diamond ore.
+Diamond ore generates in the Overworld in the form of ore features, and is more common as the altitude decreases. Diamond ore blocks have a chance to not generate if they are exposed to air; however, they do not have a reduced chance to generate if exposed to water or lava, making them appear more commonly on the walls of aquifers.
+
+Diamond ore generation occurs in four batches:
+
+7 blobs of 1-5 ores per chunk, from Y=16 to Y=-63. There is a 50% chance to not generate an ore block if it is next to air.
+1 blob of 1-23 ores every  chunks, from Y=16 to Y=-63. There is a 70% chance to not generate an ore block if it is next to air.
+4 blobs of 1-10 ores per chunk, from Y=16 to Y=-63. Ore blocks do not generate if they are next to air.
+2 blobs of 1-10 ores per chunk, from Y=-4 to Y=-63. There is a 50% chance to not generate an ore block if it is next to air.
+
+Diamond ore can replace stone, andesite, diorite, granite, tuff, and deepslate. Diamond ore that replaces tuff or deepslate becomes deepslate diamond ore, which is more common than its regular variant because diamond ore is more likely to generate at lower altitudes.
+
+Deepslate diamond ore also generates as part of fossils that generate below Y=0, replacing some of the bone blocks.
+
+Deepslate diamond ore is most commonly found at Y=-58 and Y=-59.
+
+Usage
+The primary usage of diamond ore is to mine it for diamonds.
+Smelting ingredient
+
+Smelting recipe: Diamond Ore; Deepslate Diamond Ore → Diamond, XP: 1.
+
+Sounds
+Diamond ore
+
+Deepslate diamond ore
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+In some blob formations, ores connect diagonally.
+After the Caves & Cliffs update, diamond ore is the only type of Overworld ore that largely keeps the classic ore texture, with only some minor tweaks to coloration.
+The Minecraft mechanic that diamond ore replaces coal ore in fossils that generate in deepslate layers, is in accordance with the common misconception in real life that s form from highly compressed .
+In fact, diamonds mostly form from carbon that comes from s,How do diamonds form? They don't form from coal! – Geology.com in 2012 and are completely unrelated to coal which forms from dead plants.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+
+Tutorials/Diamonds
+
+References
+
+External links
+Block of the Week: Diamond Ore – Minecraft.net on October 20, 2017
+
+Navigation
+
+Category:Ore
+Category:Natural blocks
+
+de:Diamanterz
+es:Mena de diamante
+fr:Minerai de diamant
+hu:Gyémántérc
+it:Minerale di diamante
+ja:ダイヤモンド鉱石
+ko:다이아몬드 광석
+lzh:金剛石礦
+nl:Diamanterts
+pl:Złoże diamentu
+pt:Minério de Diamante
+ru:Алмазная руда
+th:แร่เพชร
+tr:Elmas Cevheri
+uk:Діамантова руда
+zh:钻石矿石

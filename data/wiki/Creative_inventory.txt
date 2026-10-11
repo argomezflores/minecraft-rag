@@ -1,0 +1,102 @@
+TITLE: Creative inventory
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Creative_inventory
+---
+The Creative inventory is an interface in Creative mode that contains unlimited amounts of all blocks and items in the game, some of which are not available in Survival mode. Players can search for the items they want to use with the search bar at the top or in several tabs.
+
+Java Edition
+thumb|Creative mode item selection screen  (opened to the search tab)
+A single item can be grabbed using left-click, increasing with continued left-clicks on that item. Left or right-clicking with an item or stack of items while hovering over any item other than the one held gets rid of the held item. Right-clicking an item also picks up one item, but the second click then puts it back down as opposed to picking up more. Shift-clicking an item grabs a full stack of items. Pressing a number key while hovering over an item instantly places one full stack of that item into the hotbar slot that corresponds with the number.
+
+The Creative inventory screen is sorted into 11 sections: Building Blocks, Colored Blocks, Natural Blocks, Functional Blocks, Redstone Blocks, Tools & Utilities, Combat, Food & Drinks, Ingredients, Spawn Eggs, and Operator Utilities. The latter tab is available only if cheats are enabled and the "Operator Items Tab" option in the controls menu is turned on. Blocks are grouped by material and the same item can appear in multiple tabs, which the latter are indicated with an asterisk (*) below. In the case of the search tab, those that appear in multiple tabs are listed only once in the first section. There are also  Search Items,  Saved Hotbars and  Survival Inventory tabs. Wither and ender dragon spawn eggs, petrified oak slab, knowledge book, uncraftable potions and uncraftable tipped arrow are not obtainable in the Creative inventory.
+
+Using the search tab, one can access enchanted books of any level, whereas only books of the maximum levels can be found in the Ingredients section.
+
+Exclusive features in Java Edition
+
+Bedrock Edition
+thumb|Creative mode item selection screen with Classic UI Profile
+thumb|Creative mode item selection screen with Pocket UI Profile
+
+The Creative inventory screen in Bedrock Edition includes three buttons at the top of the screen (along the left with Pocket UI enabled) that can be used to show the regular Creative inventory, the regular Survival inventory, or both, with the Survival inventory on the right and the Creative inventory on the left. The Survival inventory contains the same features as the regular inventory in Survival, with the armor slots, crafting grid, and player doll. The recipe book is absent in Creative mode.
+
+Taking items from the Creative inventory will always take a stack of items. Shift-clicking an item or tapping an item on mobile devices will send a stack of items to the first free slot in the hotbar or the Survival inventory when it is opened. Right-clicking an item will take only one item. Pressing a hotbar key while hovering over an item sends a stack to the respective hotbar slot, replacing any items inside.
+
+When using a controller, all items in the hotbar can be instantly cleared by pressing / in the Creative inventory. This feature can be disabled in the "Controller" settings tab.
+
+The Creative inventory screen is sorted into 4 sections: Construction, Equipment, Items, and Nature. These 4 tabs appear along the top right of the inventory (along the right side with Pocket UI enabled).
+
+There is also an All tab, which shows all of the items and blocks in the game and an input box that allows filtering them. Sorted items added through add-ons are always listed at the end of the page, they're also available as well at the end of the All tab.
+
+Some items in the Creative inventory are grouped together in sub-sections with other similar items. These sub-sections can be opened by selecting the item with a + icon next to it. Selecting the sub-section with a - icon closes the subsection. These sub-sections exclusively appear in the individual 4 categories and do not appear in the All tab.
+
+30px|class=pixel-image Construction
+
+30px|class=pixel-image Equipment
+
+30px|class=pixel-image Items
+
+30px|class=pixel-image Nature
+
+Exclusive items
+There are 40 items exclusive to the Bedrock Edition Creative inventory, as follows:
+
+Decay effect , , , and
+, , and
+
+, all colors
+, all colors and one additional preset
+
+Unavailable blocks and items
+There are several blocks and a couple of items that do not appear in the Creative inventory. They can be obtained with the  command and can be manually placed using  command, using the IDs provided in the table below. Additionally, using  on these blocks also gives them, except where noted. Technical blocks, such as portals and off-state redstone torches, do not have corresponding inventory items at all  and cannot be obtained without external help , and thus cannot be legitimately obtained.
+
+NameCan be obtained with ?Inventory availabilityIdentifier        Only if cheats are enabled and the "Operator Items Tab" option is turned on.                                 Only applies to the "empty" versions of the item without tags. Otherwise, it is available in Survival.       Only can be obtained though /give.           Only applies to the paintings "Earth", "Fire", "Water" and "Wind".      petrified_oak_slab Generic spawn egg with no functionality                            Only can be obtained though /give.   Only can be obtained though /give.
+
+Creative inventory exclusives
+
+Several blocks and items found in the Creative inventory are not normally available as items through vanilla Survival gameplay.
+
+Some of these, however, were obtainable using glitches or by exploiting quirks in certain historical versions; more information can be found in the Minecraft Discontinued Features Wiki.
+
+Data values
+:
+Name ID
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+The Search Items tab's compass icon spins wildly in the Nether and the End dimensions, acting just like normal compasses and clocks.
+The recipe book used for 2×2 and 3×3 crafting on , uses the same categories/tabs as the Creative inventory.
+
+Gallery
+Java Edition
+
+Java Edition 1.19.3 developer screenshots
+
+Bedrock Edition
+
+See also
+Inventory
+Recipe Book
+
+References
+
+Navigation
+
+Category:UI
+
+fr:Inventaire#Inventaire en mode Créatif
+ko:크리에이티브 보관함
+lzh:創囊
+pt:Inventário do Criativo
+zh:创造模式物品栏

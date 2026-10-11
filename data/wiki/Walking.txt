@@ -1,0 +1,61 @@
+TITLE: Walking
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Walking
+---
+150px|rightWalking is one of the fundamental methods of transportation in Minecraft, allowing for a reasonable movement speed while avoiding the hunger impact of sprinting, but without the fall safety of sneaking.
+
+Performing
+Walking is possible regardless of hunger level. A walking player can be obstructed by colliding with the hitbox of most blocks and entities. A sufficiently high level of Slowness can prevent walking. Walking is not possible in Spectator mode.
+
+Keyboard
+On a keyboard, pressing the assigned keys to move , , , or  (W, S, A, and D, respectively) causes the player to walk. Two adjacent keys can be pressed simultaneously to walk in a diagonal direction, but opposite keys cancel out.
+
+Controller
+
+On a controller, walking is accomplished by moving the joystick in the appropriate direction. The player walks at an angle equal to the angle of the joystick relative to the direction the camera is facing. A D-pad can also be used for keyboard movement.
+
+Touchscreen
+
+On a touchscreen, a virtual touch-based D-pad or joystick can be used. There is a setting in Settings > Controls > Touch to change this.
+
+Usage
+Walking is the most accessible form of transportation in the game. The player should try to only walk when there is no food available, since walking does not expend hunger points. However, the player can still lose hunger points when jumping. When the player has six or less hunger points, the player can no longer sprint and can only walk, if traveling on land.
+Speed
+The default walking speed is 4.317 blocks per second, and , this can be directly changed by the  attribute (in which the default base value is 0.1). However, the speed can also be affected by several factors, such as blocks, effects, using an item and enchantments. The speed can be increased by pressing two movement keys while facing a 45-degree angle.
+
++List of blocks that modify walking speed Walking on / inBlock at head-levelat max freezingblocks/secblocks/secblocks/secblocks/secWalking on4.3171.9600.7840.8824.3761.9600.7840.8824.1571.9600.7840.8823.0401.9600.7840.8822.5080.5760.4901.254Moving along horizontally (not climbing)3.001.960 0.784 0.882Moving through1.5680.3140.3140.7840.4900.0980.0980.245 1.960 (water overrides the lower speeds of lava and powder snow) 0.784 -0.784 -0.8820.353  -0.882
+
+By mob
+The majority of land-based mobs move via walking.
+
+Walking mobs Non-walking mobs
+
+(visually)
+
+(immobile)
+
+(immobile)
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Transport
+
+es:Caminar
+fr:Marcher
+ja:歩行
+pt:Caminhar
+ru:Ходьба
+uk:Ходьба

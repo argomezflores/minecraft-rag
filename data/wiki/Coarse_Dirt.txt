@@ -1,0 +1,91 @@
+TITLE: Coarse Dirt
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Coarse_Dirt
+---
+Coarse dirt is a variant of dirt which grass blocks cannot spread to.
+
+Obtaining
+Breaking
+Coarse dirt drops itself as an item when mined using any tool or by hand, but shovels are the quickest.
+
+Natural generation
+thumb|Coarse dirt found in a savanna biome.
+Coarse dirt can be found as large patches in the windswept savanna, wooded badlands, and old growth taiga biomes.
+
+It also generates in mushroom farm rooms in woodland mansions, in trail ruins and in abandoned camps.
+
+Mob loot
+An enderman holding coarse dirt drops the block upon death.
+
+Crafting
+
+Crafting recipe: Dirt, Gravel, Gravel, Dirt arranged in the crafting grid → Coarse Dirt,4.
+
+Usage
+Coarse dirt has the ability to grow saplings, sugar canes, mushrooms, bamboo, flowers, and sweet berries, which can be planted directly under appropriate conditions.
+
+Neither mycelium nor grass can spread onto coarse dirt.
+
+Dirt renewability
+Coarse dirt can be tilled using a hoe to become normal dirt. There must be an empty space above the coarse dirt for it to be tilled.
+
+any type of shovel on coarse dirt turns it into a dirt path.
+
+Tilling coarse dirt or turning it into a dirt path is a renewable way to get dirt.
+
+Mud
+a water bottle, splash water bottle or lingering water bottle converts the coarse dirt into mud.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+In other media
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Manufactured blocks
+
+cs:Hrubá hlína
+de:Grobe Erde
+es:Tierra estéril
+fr:Terre stérile
+hu:Terméketlen föld
+it:Terra brulla
+ja:粗い土
+ko:거친 흙
+pl:Twarda ziemia
+pt:Terra infértil
+ru:Каменистая земля
+uk:Загрубілий ґрунт
+zh:砂土

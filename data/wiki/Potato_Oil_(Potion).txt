@@ -1,0 +1,41 @@
+TITLE: Potato Oil (Potion)
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potato_Oil_(Potion)
+---
+Potato oil is a joke potion that provides It's very slippery when used.
+
+Obtaining
+Potato oil can be obtained via commands, and is also available in the Creative inventory.
+
+Brewing
+While the base potato oil cannot be obtained via brewing, it can still be brewed into a splash potion or a lingering potion.
+
+Brewing recipe: Gunpowder + Potato Oil (Potion) → Splash Potato Oil.
+
+Brewing recipe: Dragon's Breath + Splash Potato Oil → Lingering Potato Oil.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion1InstantDoesn't do anything. Splash Potion Lingering Potion
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potato Oil, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Oilyness, 8.
+
+Sounds
+
+Data values
+ID
+
+Item data
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Potato Oil  potato_oil
+
+Advancements
+
+Issues
+
+Navigation
+
+Category:Potions

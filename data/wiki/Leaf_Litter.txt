@@ -1,0 +1,91 @@
+TITLE: Leaf Litter
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Leaf_Litter
+---
+Leaf litter is a thin decorative block resembling fallen leaves. Up to four can be placed in the same block space.
+
+Obtaining
+Breaking
+Leaf litter can be mined using any tool or without a tool.
+
+A leaf litter is also removed and drops as an item if:
+its attachment block is moved, removed, or destroyed.
+water or lava flows into its space.
+a piston tries to push it or moves a block into its space.
+
+The amount of leaf litter items dropped is equal to how many were present in the block space beforehand (i.e. a leaf litter block with 3 placed drops 3 leaf litter items when destroyed).
+
+Natural generation
+alt=A Dark forest biome with Leaf Litter on the ground.|thumb|Leaf litter in a dark forest.
+Leaf litter generates naturally in forests, dark forests,  dappled forests and wooded badlands and their variants, covering the ground around any type of tree.
+
+Leaf litter also generates in abandoned camps within dappled forests.
+
+Smelting
+
+Leaf litter can be created by smelting any type of leaves block.
+
+Smelting recipe: Any leaves → Leaf Litter, XP: 0.1.
+
+Usage
+Placement
+Leaf litter can be placed on blocks that have a full solid top surface. Up to four pieces of leaf litter can be placed in a single block space. When placed, a leaf litter faces the location of the player placing it.
+
+Fuel
+Leaf litter can be used as fuel for smelting. It burns for 5 seconds, smelting  of an item. 1 stack of leaf litter smelts 32 items.
+
+Composting
+Using leaf litter on a composter has a 30% chance to raise the compost level by 1. A stack of leaf litter yields an average of 2.74 bone meal.
+
+Color
+thumb|128px|right|dry_foliage.png colormap
+Leaf litter takes on a different color depending on the biome it is placed in. It is colored with different shades of brown in most biomes or gray in pale gardens. The color applied in most biomes is determined by the dry_foliage.png colormap.
+
+BiomeColorBlock 32px 32px 32px 32px 32px 32px 32px 32px32px 32px 32px 32px32px 32px32px32px 32px 32px 32px 32px32px
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Mojang screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Non-solid blocks
+Category:Flammable blocks
+
+de:Laubhaufen
+es:Hojas secas
+fr:Tas de feuilles
+ja:落ち葉
+ko:낙엽
+lzh:枯葉
+pl:Ściółka
+pt:Serrapilheira
+ru:Сухие листья
+uk:Опале листя
+zh:枯叶堆

@@ -1,0 +1,33 @@
+TITLE: 2×2 grid
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/2×2_grid
+---
+The 2×2 crafting grid is used for basic crafting, using a subset of the possible crafting recipes. The 2×2 grid is accessed inside the player's inventory (opened by pressing  by default).
+
+There is a limited number of recipes that can be made in the 2×2 grid. Therefore, it is typically used to craft logs into planks and then turn those planks into a crafting table. It can also be used to combine damaged tools into a repaired tool. The crafting table (and by extension the crafter) offers a far greater variety of recipes with its 3×3 crafting grid, so it is usually used instead.
+
+This page contains a list of blocks and items that can be crafted using the 2×2 crafting grid.
+
+The list below is ordered based on the order of items in  as of Bedrock Edition 26.3. , there is no fixed order of blocks and items in the recipe book crafting menu.
+
+List
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Notes
+
+Navigation
+
+Category:Gameplay
+
+ja:2×2のクラフトグリッド
+pt:Grade 2×2
+uk:Сітка 2×2

@@ -1,0 +1,82 @@
+TITLE: Netherite Sword
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Netherite_Sword
+---
+A netherite sword is a late-game variant of sword obtained by upgrading a diamond sword using a netherite ingot and netherite upgrade at a smithing table. It is the highest tier of sword, dealing more damage than a diamond sword and having higher durability.
+
+Obtaining
+Upgrading
+Like other diamond items, a diamond sword can be upgraded to a netherite sword, increasing its durability and attack damage, as well as granting resistance to fire and lava when dropped as an item.
+
+Usage
+Breaking
+
+A sword can also be used to destroy certain blocks 50% quicker, sometimes much quicker than with fists. Using a sword to destroy any block that doesn't break instantly by hand decreases its durability by 2; this includes bamboo, despite the sword being the fastest tool for breaking it.
+
+If a sword is enchanted with Silk Touch, either using Creative or commands, cobwebs hit by the sword drop the cobwebs themselves instead of the usual string, because a sword is classified as the proper tool for cobwebs.
+
+Creative mode
+In Creative mode, swords are unable to break blocks. However, they can still break placed entities such as minecarts, paintings, item frames, and armor stands.
+
+Attacking
+
+A netherite sword is used to deal damage to mobs and entities by  them. The netherite sword has  base damage  and  base damage , and can be enchanted to deal more damage. The following tables show how the Sharpness enchantment affects the damage dealt by the sword.
+Extra damage of Sharpness enchantment
+
++Sharpness extra damageEditionIIIIIIIVV
+
+Total damage of sword with Sharpness
+The tables below assume that the attack is fully charged, the target is not wearing armor, and neither the attacker nor the target has any status effects.
+Java Edition
++Netherite Sword Sharpness DamageAttack typeBase damageSharpness ISharpness IISharpness IIISharpness IVSharpness VNormal Critical
+
+Bedrock Edition
++Netherite Sword Sharpness DamageAttack typeBase damageSharpness ISharpness IISharpness IIISharpness IVSharpness VNormal Critical
+
+Repairing
+Combining
+
+Anvil repair
+
+A netherite sword can be repaired in an anvil by adding netherite ingots with each ingot restoring 25% the sword's maximum durability, rounded down. Two netherite swords can also be combined in an anvil. Both methods preserve the netherite sword's enchantments.
+
+Enchantments
+A netherite sword can receive the following enchantments:
+
+NameDescriptionMax LevelMethodWeightSharpnessSharpness, Smite, and Bane of Arthropods are mutually exclusive.Increases the damage dealt.V10SmiteIncreases the damage dealt to undead.V5Bane of ArthropodsIncreases the damage dealt to arthropods.V5LootingIncreases the amount of drops when killing an entity with the sword.III2KnockbackIncreases the knockback dealt.II5Fire AspectIgnites any targets hit by the sword. , it also lights unlit candles, campfires, and blocks of TNT when used.II2Sweeping EdgeIncreases the sweeping damage dealt.III2UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the sword when obtaining experience.I2Curse of VanishingThe sword vanishes on death, not dropping as an item.	I1
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+Early texture
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Renders
+
+In other media
+
+References
+
+Navigation
+
+Category:Combat
+
+fr:Épée#Netherite
+pt:Espada de Netherita

@@ -1,0 +1,123 @@
+TITLE: Name Tag
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Name_Tag
+---
+A name tag is an item  to give a name to a mob after writing one on the tag using an anvil. Most named mobs do not despawn or count toward the mob cap.
+
+Obtaining
+Crafting
+
+Crafting recipe: Any Nugget, Paper arranged in the crafting grid → Name Tag.
+
+Generated loot
+
+Fishing
+
+Name tags are obtainable through fishing, with a 0.8% chance per attempt. See fishing for more details.
+
+Trading
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 name tag when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+To use a name tag, it must first be renamed with an anvil, costing 1 experience level. A stack of up to 64 name tags can be renamed at once, and the cost is still 1 experience level per stack.
+
+If it is not renamed, it has no effect when used on a mob. After the name tag is renamed, the player can  it on a mob to give it the name given to the name tag from the anvil. Mobs and name tags can be renamed any number of times. Name tags with the same name are stackable.
+
+Once a mob is named, it keeps its name, and the name tag is consumed.
+
+When a mob is named, it becomes persistent and is excluded from the mob cap count.
+
+Effects on various mobs:
+A named silverfish that goes into a block appears to lose its name because it is replaced by a newly generated unnamed silverfish when the block is broken.
+A creaking spawned by a creaking heart can survive during the day if named.
+A baby (animal or villager) keeps its name when becoming an adult.
+A named villager keeps its name when transformed into a zombie villager. Once transformed, the zombie villager can despawn naturally unless it was transformed by a named zombie.
+A named zombie villager keeps its name when cured.
+Wandering traders still despawn even if they are named, or in a minecart or boat.
+Naming a wither (or ender dragon with commands) displays the name in the boss bar instead of the respective mob's name.
+Slimes, magma cubes, and sulfur cubes transfer their name when splitting.
+
+Limitations
+Any mob can be named except for the ender dragon and the agents. Players also cannot be named.
+
+A name tag can be renamed with an anvil using up to 50 characters or 30 characters.
+
+A name tag can rename an armor stand, though it does not show the nameplate above its head until CustomNameVisible:1b is set as an extra step.
+
+a name tag on a villager or wandering trader renames the mob instead of opening the trading interface. A rideable mob is renamed instead of being ridden.
+
+Once a name tag is used on a mob, it is impossible to remove the name of that mob without the use of commands or external modifications.
+
+A mob cannot be named "Name Tag" unless the player gives the tag a new name and then renames it back to "Name Tag" or changes to a language, where the name tag is not called "Name Tag" and then renames it to "Name Tag".
+
+Behavior
+Renamed mobs have their name displayed over their head in the same fashion as a mob named through a renamed spawn egg. Their names can be seen only if they are aimed at from 3 or fewer blocks away in Survival, Adventure, and Spectator mode or from 5 or fewer blocks away in Creative mode.
+
+Mobs that are named using the name tag never despawn in the world, similar to tamed mobs. The exceptions are wandering traders or if the mob is hostile and the difficulty is switched to "Peaceful", causing any hostile mobs or any named hostile mobs to despawn immediately.
+
+If a renamed mob kills a player, the custom name is used in the death message in place of the mob type name. For instance, if a vindicator named "Johnny" kills a player, the death message is "Player was slain by Johnny".
+
+A renamed wither also has a renamed health bar.
+
+The name of a renamed entity is stored in the NBT tag CustomName; editing the string component of the tag is equivalent to renaming the entity via a name tag.
+
+Easter eggs
+Any mob that receives the name "Dinnerbone" or "Grumm" is rendered upside down. This even includes the player  if the username is set to either of these and the user is not signed into their Microsoft account.
+Naming a sheep "jeb_" causes its wool to fade between the dye colors, producing a rainbow effect. The wool that drops when the sheep is sheared or killed is the original color of the sheep before the sheep was named. A rainbow sheep can never be upside-down as described above, because a mob cannot have multiple names.
+Naming a rabbit "Toast" causes it to have a special memorial skin of user xyzen420's girlfriend's missing rabbit.
+Naming a vindicator "Johnny" causes it to be aggressive and attack all mobs including the wither (except ghasts and other illagers). The hostility even extends to ravagers , as the "Johnny" vindicator can also attack the ravager while riding it.
+Each of these effects are case sensitive (e.g. renaming a rabbit to "toast" will not affect its texture)
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Name tags were added at the request of Paulsoaresjr.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+Spawn Egg
+
+References
+
+External links
+
+Navigation
+
+de:Namensschild
+es:Etiqueta
+fr:Étiquette
+it:Targhetta
+ja:名札
+ko:이름표
+lzh:名刺
+nl:Naamkaartje
+pl:Znacznik
+pt:Etiqueta
+ru:Бирка
+uk:Ярлик
+zh:命名牌

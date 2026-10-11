@@ -1,0 +1,87 @@
+TITLE: Potion of Slowness
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Slowness
+---
+A potion of Slowness is a potion that provides Slowness when used.
+
+Obtaining
+, the cauldron in a swamp hut has a 10% chance of containing a potion of Slowness.
+
+Brewing
+
+Brewing recipe: Fermented Spider Eye + Potion of Swiftness → Potion of Slowness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Leaping → Potion of Slowness.
+
+Brewing recipe: Redstone Dust + Potion of Slowness → Potion of Slowness Extended.
+
+Brewing recipe: Glowstone Dust + Potion of Slowness → Potion of Slowness Enhanced.
+
+Brewing recipe: Gunpowder + Potion of Slowness Extended → Splash Potion of Slowness Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Slowness Extended → Lingering Potion of Slowness Extended.
+
+Usage
+Effect
+Slowness reduces movement speed. Movement includes walking, sprinting, sneaking, crawling, and swimming. If the a player or mob is riding another mob, Slowness only reduces the speed of the ridden mob if that mob has the effect. The speed of the rider does not matter.
+Potion type Tier Duration Effect DescriptionPotion 1 Regular: 1:30
+
+Extended: 4:00 Slows players and mobs by 15%. 4 0:21.60:22.5 Slows players and mobs by 60%.Splash Potion 1 Regular: 1:30
+
+Extended: 4:00 Slows players and mobs by 15%. 4 0:21.60:22.5 Slows players and mobs by 60%.Lingering Potion 1Regular: 0:22
+
+Extended: 1:00 Slows players and mobs by 15%. 4 0:05 Slows players and mobs by 60%.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Slowness; Lingering Potion of Slowness Extended; Lingering Potion of Slowness Enhanced, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Slowness, 8; Arrow of Slowness Extended, 8; Arrow of Slowness Enhanced, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Extended  Enhanced Potion of Slowness  17  18  42
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularExtendedLevel II Potion of Slowness  slowness  long_slowness  strong_slowness
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+See also
+
+Sneaking
+Crawling
+
+Navigation
+
+Category:Potions
+
+fr:Potion de lenteur
+ko:감속의 물약
+pt:Poção de Lentidão
+zh:迟缓药水

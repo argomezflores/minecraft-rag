@@ -1,0 +1,98 @@
+TITLE: Mushroom Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mushroom_Block
+---
+A mushroom block is a solid block that makes up a huge mushroom, which consists of a mushroom stem and brown mushroom blocks or red mushroom blocks, depending on the color of the huge mushroom.
+
+Obtaining
+Breaking
+Mushroom blocks are most quickly broken with an axe, with a 77.77% chance of dropping 0, an 11.11% chance of dropping 1, and an 11.11% chance of dropping 2 mushrooms of the corresponding type. When mining a naturally generated huge mushroom structure, only the cap blocks drop mushroom items; the stem blocks drop nothing. Fortune does not affect the drop rate of mushrooms in any form.
+
+The blocks themselves can be retrieved only by using a tool enchanted with Silk Touch. Mining the mushroom cap or stem yields a block with the cap or stem texture, respectively, on all faces.
+
+Additionally, , if two similar mushroom blocks are placed next to each other and one of them is broken, the side of the other block that it was facing reveals the pore texture. This is because the side of these blocks change texture if they touch another block of the same type.
+
+Mushroom blocks can be moved and are not broken by pistons.
+
+Natural generation
+
+Mushroom blocks generate as part of huge mushroom  features and in swamp abandoned camps.
+
+Post-generation
+Huge mushroom can be grown using red mushrooms or brown mushroom.
+
+Creative inventory
+
+The brown and red mushroom blocks (with the cap texture on all faces) as well as the mushroom stem are available in the Creative inventory.
+
+Commands
+
+, commands can be used to obtain legacy variants of brown and red mushroom blocks with additional texture arrangements, including a block with the pore texture on all sides and 9 blocks with the cap texture on top, one or two cap textures on (adjacent) sides, and the pore texture on the remaining sides and bottom. The all-pores blocks, of which there are 4 distinct variants for each color, all look identical but retain the color and variant number distinctions internally (hence they do not stack together). If broken with a Silk Touch tool, all these variants drop cap blocks of the appropriate color. Otherwise, they have a chance of dropping mushroom items of the appropriate color.
+
+Usage
+Composting
+Mushroom blocks can be used in the composter with an 85% chance to make a new layer.
+
+Mushroom stems can be used in the composter with a 65% chance to make a new layer.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Renders
+Mushroom
+
+Brown mushroom
+
+Red mushroom
+
+Mushroom stem
+
+References
+
+External links
+Block of the Week: Mushroom – Minecraft.net on July 7, 2017
+Block of the Month: Red Mushroom – Minecraft.net on May 8, 2025
+
+Navigation
+
+Category:Fungi
+Category:Natural blocks
+
+de:Pilzblock
+es:Bloque de champiñón
+fr:Bloc de champignon
+hu:Óriásgombák
+it:Blocco di fungo
+ja:キノコブロック
+ko:버섯 블록
+pl:Grzyb (blok)
+pt:Bloco de cogumelo
+ru:Грибной блок
+zh:蘑菇方块

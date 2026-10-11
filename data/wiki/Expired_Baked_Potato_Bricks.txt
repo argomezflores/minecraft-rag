@@ -1,0 +1,42 @@
+TITLE: Expired Baked Potato Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Expired_Baked_Potato_Bricks
+---
+Expired baked potato bricks are a type of bricks crafted from baked potatoes and poisonous potatoes, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Crafting
+
+Crafting recipe: Baked Potato, Poisonous Potato, Poisonous Potato, Baked Potato arranged in the crafting grid → Expired Baked Potato Bricks.
+
+Natural generation
+Expired baked potato bricks naturally generate in colosseums and potato villages.
+
+Usage
+
+Crafting recipe: Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks arranged in the crafting grid → Expired Baked Potato Brick Slab.
+
+Crafting recipe: Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks arranged in the crafting grid → Expired Baked Potato Brick Stairs.
+
+Crafting recipe: Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks arranged in the crafting grid → Expired Baked Potato Brick Wall.
+
+Data values
+
+ID
+
+Sounds
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Expired Baked Potato Bricks
+ja:Expired Baked Potato Bricks
+ko:상한 구운 감자 벽돌
+zh:过期的烤马铃薯砖

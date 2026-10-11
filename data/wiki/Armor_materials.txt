@@ -1,0 +1,37 @@
+TITLE: Armor materials
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Armor_materials
+---
+Armor materials refer to the material that an armor item uses.
+
+Materials
+There are currently nine armor materials in the game: leather, copper, chainmail, iron, gold, diamond, netherite, turtle, and armadillo scute. The armor material of an item determines its durability multiplier, armor values, enchantability, sound events, toughness, knockback resistance, repair items, and equipament asset.
+
+Material NameDurabilityThe durability multiplier multiplies each item slot's base durability. The base values are: 11 for head, 16 for chest, 15 for legs, 13 for feet. The durability of the item is the durability multiplier for its material times the base value for the armor slot it goes in.Defense PointsEnchantabilityToughnessKRKnockback resistanceRepair ItemSound Event & SoundsEquipment AssetThe resource location of the equipment model to use when equipped. The directory this refers to is HeadChestLegsFeetBodyLeather5132131500Copper1124324800ChainmailReferred to as both "chain" and "chainmail" in the code. Not used in the slot body15254141200Iron1526525900TurtleAlthough the turtle material is currently used only by turtle shells, it has unused protection values for other armor slots.2526525900Gold7253172500Diamond333863111020Netherite373863191530.1Armadillo ScuteAlthough the armadillo scute material is currently used only by wolf armors, it has unused protection values for other armor slots.43863111000
+
+Usage
+
+Armor materials are used to define certain properties of armor items. Which properties are defined by the materials depends of the mobs that use this armor. Only the humanoid armor has a variable slot; all other armors are only defined by the slot .
+
+ArmorMaterial propertiesOther propertiesDurabilityAttributesEnchantableEquip SoundAsset IdRepair IngredientAllowed EntitiesCan Be ShearedShearing SoundDamage On HurtEquip On InteractHumanoid ArmorDefined by the materialDefined by the materialDefined by the materialDefined by the materialDefined by the materialDefined by the materialAll entitiesFalseNoneTrueFalseWolf ArmorDefined by the materialDefined by the materialNone Defined by the materialDefined by the materialDefined by the materialTrueTrueFalseHorse ArmorNoneDefined by the materialNone Defined by the materialNoneTrueFalseFalseNautilus ArmorNoneDefined by the materialNone Defined by the materialNoneTrueFalseTrue
+
+Other equipable items do not use armor material.
+ItemsEquipable propertiesOther propertiesSlotEquip SoundAsset IdAllowed EntitiesSwappableDamage On HurtEquipe On InteractCamera OverlayCan Be ShearedShearing SoundAttributesDurabilityRepair IngredientGliderHand NoneAll entitiesFalseTrueFalseFalseNoneHidden waypointNoneNoneFalseBodyTrueTrueFalseNoneTrueNoneNoneNoneFalseSaddleTrueTrueTrueNoneTrueNoneNoneNoneFalseBodyTrueTrueTrueNoneTrueNoneNoneNoneFalseChestAll entitiesTrueFalseFalseNoneFalseNoneNone432TrueHeadNoneAll entitiesFalseTrueFalseNoneFalseNoneHidden waypointNoneNoneFalseOffhandNoneAll entitiesFalseTrueFalseNoneFalseNoneNone336False
+
+Pseudo-equipments:
+– When interacting with donkey, mule, lamma, or trader llama, the animal transforms into a chested animal; however, the item is not actually equipped on it. Chests do not have the component , but it has a hardcoded interaction property.
+
+Affected items
+MaterialItems by slotHumanoid slotsBodyHeadChestLegsFeetNoneTurtleNoneNoneNoneNoneArmadillo ScuteNoneNoneNoneNone
+
+See also
+Tiers
+Materials
+
+Navigation
+
+ja:防具材料
+pt:Materiais de armadura
+ru:Материалы брони
+uk:Матеріали обладунків
+zh:盔甲材料

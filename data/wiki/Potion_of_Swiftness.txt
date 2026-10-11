@@ -1,0 +1,94 @@
+TITLE: Potion of Swiftness
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Swiftness
+---
+A potion of Swiftness is a potion that provides Speed when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Sugar + Awkward Potion → Potion of Swiftness.
+
+Brewing recipe: Redstone Dust + Potion of Swiftness → Potion of Swiftness Extended.
+
+Brewing recipe: Glowstone Dust + Potion of Swiftness → Potion of Swiftness Enhanced.
+
+Brewing recipe: Gunpowder + Potion of Swiftness Extended → Splash Potion of Swiftness Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Swiftness Extended → Lingering Potion of Swiftness Extended.
+
+Mob loot
+A witch has an 8.5% chance to drop a potion of Swiftness if it dies while drinking the potion.
+
+Generated loot
+, the cauldron in a swamp hut contains a random potion, with a 25% chance for it to be Swiftness.
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion 1 Regular: 3:00  Extended: 8:00 Increases speed, jump distance, and FOV by 20% (6.73 meters per second sprinting). 2 1:30 Increases speed, jump distance, and FOV by 40% (7.85) meters per second sprinting).Splash Potion 1 Regular: 3:00  Extended: 8:00 Increases speed, jump distance, and FOV by 20% (6.73 meters per second sprinting). 2 1:30 Increases speed, jump distance, and FOV by 40% (7.85) meters per second sprinting).Lingering Potion 1 Regular: 0:45  Extended: 3:00 Increases speed, jump distance, and FOV by 20% (6.73 meters per second sprinting). 2 0:22 Increases speed, jump distance, and FOV by 40% (7.85) meters per second sprinting).
+
+Base potion
+Potion of Swiftness is a base for brewing potions of Slowness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Swiftness → Potion of Slowness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Swiftness Extended → Potion of Slowness Extended.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended  Level II Potion of Swiftness  14  15  16
+
+Item data
+
+:
+
+Regular, splash, and lingering potions all use a "" tag inside "" component to indicate the potion type.
+PotionRegularLevel IIExtended Potion of Swiftness  swiftness  strong_swiftness  long_swiftness
+
+:
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+See also
+
+Speed boost
+
+External links
+Minecraft Potions - A Visual Guide (version 1.9)
+
+Navigation
+
+Category:Potions
+
+fr:Potion de rapidité
+ko:신속의 물약
+pt:Poção de Agilidade
+zh:迅捷药水

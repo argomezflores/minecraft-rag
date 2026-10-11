@@ -1,0 +1,63 @@
+TITLE: Polished Blackstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone
+---
+Polished blackstone is the stone-like polished variation of blackstone.
+
+Obtaining
+Breaking
+Polished blackstone needs to be broken using a pickaxe, otherwise the block drops nothing.
+
+Polished blackstone has a slightly higher hardness (thus takes slightly longer to break) than its chiseled variant.
+
+Natural generation
+Polished blackstone can generate as part of ruined portals in the Nether.
+
+Crafting
+
+Crafting recipe: Blackstone, Blackstone, Blackstone, Blackstone arranged in the crafting grid → Polished Blackstone,4.
+
+Usage
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Polierter Schwarzstein
+es:Piedra negra pulida
+fr:Pierre noire
+it:Pietranera levigata
+ja:磨かれたブラックストーン
+ko:윤나는 흑암
+pt:Pedra-negra polida
+th:หินดำขัด
+uk:Полірований чорнокамінь
+zh:磨制黑石

@@ -1,0 +1,57 @@
+TITLE: Dune Armor Trim
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Dune_Armor_Trim
+---
+Dune armor trim is a type of smithing template used in smithing tables to add a trim to armor. It is consumed when used, but can be duplicated using an existing template, sandstone, and seven diamonds.
+
+Obtaining
+Dune armor trims are found in desert pyramids. Once obtained, they can be duplicated using the crafting recipe.
+
+Cloning
+
+Crafting recipe: Diamond, Dune Armor Trim, Diamond, Diamond, Sandstone, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Dune Armor Trim Smithing Template,2.
+
+Generated loot
+
+Usage
+It is an ingredient in its own recipe, making it possible to craft more after the initial item is found.
+
+Crafting ingredient
+
+Crafting recipe: Diamond, Dune Armor Trim, Diamond, Diamond, Sandstone, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Dune Armor Trim Smithing Template,2.
+
+, dune armor trims can be duplicated with more blocks than . In addition to the normal sandstone, it can also be duplicated with smooth, cut, or chiseled sandstone.
+
+Smithing ingredient
+
+Using a smithing table, the dune armor trim can be applied to any armor piece, using any trim material.
+
+Data values
+
+ID
+:
+
+:
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Smithing templates
+
+fr:Ornement des dunes
+lzh:沙墩甲紋
+pt:Enfeite de Dunas
+ru:Отделка «Дюна»
+th:ลายแต่งเกราะเนินทราย
+zh:沙丘盔甲纹饰

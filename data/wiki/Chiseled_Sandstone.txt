@@ -1,0 +1,62 @@
+TITLE: Chiseled Sandstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Sandstone
+---
+Chiseled sandstone is a decorative variant of sandstone, crafted from sandstone slabs.
+
+Obtaining
+Breaking
+Chiseled sandstone can be mined with any pickaxe. If mined without a pickaxe, the block drops nothing.
+
+Natural generation
+Chiseled sandstone can generate in desert pyramids, warm ocean ruins and trial chambers.
+
+Crafting
+
+Crafting recipe: Sandstone Slab, Sandstone Slab arranged in the crafting grid → Chiseled Sandstone.
+
+Stonecutting
+
+Usage
+Chiseled sandstone is a decorative block. It has the face of a creeper engraved on it. See also Easter eggs#Mobs on chiseled blocks.
+
+Unlike sand, chiseled sandstone is never affected by gravity.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+es:Arenisca cincelada
+fr:Grès sculpté
+ko:조각된 사암
+pt:Arenito Talhado
+uk:Різьблений пісковик
+zh:雕纹砂岩

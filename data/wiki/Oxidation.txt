@@ -1,0 +1,84 @@
+TITLE: Oxidation
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Oxidation
+---
+thumb|Some blocks that are affected by oxidation
+
+Oxidation (also known as oxidization or oxidisation) is a mechanic that causes many blocks and mobs made from copper to oxidize over time, changing their appearance and, in a few cases, their functionality.
+
+All objects that oxidize can be 'locked' in their current oxidation state by being waxed with honeycombs, and can gradually be scraped of their wax and/or oxidation using an axe.
+
+Mechanics
+
+Blocks
+Non-waxed blocks made from copper can oxidize over time, gaining a verdigris appearance over four stages:
+Unoxidized
+Exposed
+Weathered
+Oxidized
+
+Lightning bolts and axes can remove the oxidation on copper blocks.
+
+As the block begins to oxidize (exposed copper), it gets discolored and green spots begin to appear. As the oxidation continues (weathered copper), the block is a green color with brown spots. In the last stage (oxidized copper), the block is teal with several green spots.
+
+Oxidation is a purely visual mechanic in most cases, but there are behavioral differences on some blocks, such as the fact only unoxidized copper blocks can be crafted back into copper ingots. Another one is that the light level of copper bulbs depends on the oxidation level. Normal copper bulbs have a light level of 15, exposed copper bulbs have a light level of 12, weathered copper bulbs have a light level of 8, and oxidized copper bulbs have a light level of 4.
+
+Oxidation of copper blocks relies only on random ticks. Unlike the real-world phenomenon, rain or water does not accelerate oxidation, and covering copper blocks with other blocks does not prevent oxidation.
+
+, groups of non-waxed copper blocks oxidize far more slowly than single copper blocks that are spaced at least 4 blocks apart. This is because a block in a group being at the same or lower oxidation level than the others slows down the oxidation process for all other blocks within 4 blocks of taxicab distance. Oxidation speed for a group of copper blocks can be increased by placing oxidized copper blocks around less oxidized copper blocks, but this does not offer a speed improvement over placing the blocks 4 apart. The calculations for the oxidation behavior are as follows:
+
+, when a random tick is given, a copper block has a  chance to enter a state called pre-oxidation. This means a copper block has approximately a 5% chance per minute to enter pre-oxidation at least once, and enters pre-oxidation after roughly 20 minutes on average.
+
+In pre-oxidation, the copper block checks all non-waxed copper blocks within a distance of 4 blocks taxicab distance in order to determine whether it should oxidize.
+
+If there is any copper block that has a lower oxidation level, then the copper block does not oxidize, and pre-oxidation ends.
+
+Otherwise, the chance of oxidation is determined by the proportion of nearby unwaxed copper blocks that are at the same or higher oxidation level. Let a be the number of all nearby non-waxed copper blocks, and b be the number of nearby non-waxed copper blocks that have a higher oxidation level. Calculate a proportion value c from this equation: c = . Additionally, let a modifying factor m be 0.75 if the copper block has no oxidation, or 1 if the copper block is exposed or weathered."21w05a Code Review" Then the final oxidation probability is  mc2.
+
+For example, an unweathered copper block surrounded by 6 unweathered copper blocks and 6 exposed copper blocks has a 21.7% chance to oxidize if it enters the pre-oxidation state. In this case, a = 12, b = 6, and m = 0.75.
+
+The resulting behavior for groups of copper blocks is that oxidation typically begins at corners or edges, and spreads evenly from there, with an entire region needing to reach a minimum oxidation level before advancing to the next.
+
+Copper golem
+
+A non-waxed copper golem takes between 7 hours and 7 hours and 40 minutes to oxidize to the next stage. Since the timer is based on gametime, it advances even if the golem is not located in a loaded chunk. Once fully oxidized, a copper golem has a 0.58% chance per tick to become a copper golem statue and take a random pose, provided it is not waxed and is fully located in air.
+
+Waxing
+
+a honeycomb on a non-waxed copper block (or crafting them together) turns it into its waxed variant, which prevents the block from oxidizing entirely. Using an axe on a waxed copper block turns it into the respective non-waxed copper block, the honeycomb used to wax the copper block is not returned. Waxed blocks have the same texture as unwaxed ones.
+
+Deoxidation
+Using an axe on an exposed, weathered, or oxidized copper block removes one layer of oxidation, making it become a regular, exposed, or weathered copper block respectively. The axe removes wax first, then oxidation layers. If using on an unoxidized copper golem statue, scraping it with an axe reanimates it into an unoxidized copper golem.
+
+Lightning can also remove oxidation from copper blocks. A lightning bolt striking a non-waxed copper block removes all oxidation from the block, and may also deoxidize randomly selected copper blocks nearby.. , these additional blocks are chosen by random walks as follows: The position of the struck copper block is set as the start point. Then, the game performs 3 to 5 walks. In the beginning of each walk, a judgment point is set at the start point. For each step of the walk, the game randomly selects 10 blocks from a 3×3×3 volume centered on the judgment point. If a non-waxed copper block is found among these 10 blocks, the judgment point is transferred to the first such block found, and 1 oxidation layer of that block is removed (if the block is still unoxidized, the block stays as it is). The number of steps in a walk is between 1 and 8 (inclusive), chosen randomly for each walk. This means that one single lightning strike can deoxidize up to 41 blocks (1 block initially struck by lightning + 5 max walks*8 max steps in every walk)."21w11a Code Review"
+
+Affected features
+The following blocks and mobs are affected by oxidation:
+
+FeatureUnoxidizedExposedWeatheredOxidized   64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px  64px 64px 64px 64px
+
+Achievements
+
+Advancements
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+es:Oxidación
+fr:Oxydation
+ja:酸化
+ko:산화
+pt:Oxidação
+ru:Окисление
+uk:Окиснення
+zh:氧化

@@ -1,0 +1,104 @@
+TITLE: Minecart with Furnace
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Minecart_with_Furnace
+---
+A minecart with furnace is a furnace inside a minecart. It can be powered with exclusively coal or charcoal to propel it across a rail line for a limited time, which can be used to move other minecarts.
+
+Obtaining
+Crafting
+
+Similarly to other forms of minecart, minecarts with furnaces can be destroyed by attacking them, and doing so drops them as an item. Despite the appearance of the relevant particles, critical hits are not applied to them.
+
+Usage
+Minecarts with furnaces are placed in the same way as other minecarts. They do not have a GUI, unlike a furnace. Also unlike a furnace, furnace minecarts can only be powered with coal and charcoal. Other fuel sources, such as blocks of coal or blaze rods, cannot be used.
+
+Minecarts with furnaces can be powered, done by feeding fuel into the furnace minecart with the  button. It cannot be powered by a dispenser. The fuel is consumed immediately and it starts to move in the same direction the player clicked toward. Pressing  while not holding coal or charcoal plays the hand animationThe case of this happening when the minecart is not on a rail is tracked in . and is supposed to turn it to that direction, but a bug prevents this from happening. Adding fuel increases the duration by an additional 3600 ticks (equal to 180 seconds or 3 minutes). The upper limit is 32767 ticks, approximately 27 minutes.
+
+When powered, minecarts with furnaces cover 240m per minute (about 4 m/s, slightly slower than walking speed) or 720m per piece of fuel. They do not accelerate beyond this speed when going downhill or on active powered rails, and as long as they remain powered, they do not slow down when going uphill, on inactive powered rails, or when pushing or pulling other minecarts.
+
+If a powered furnace minecart is derailed and then pushed back onto a rail, it starts moving again in the direction it came from, so they are not easily turned around in this state unless a player is nearby to redirect it with .
+
+When a minecart with furnace bumps into another minecart or multiple minecarts, the other minecarts are pushed forward with great speed. The furnace minecart continues on with its own speed. Because of this speed difference, some of the minecarts may end up inside unloaded chunks on straight tracks.
+
+Train mechanics
+
+thumb|right|A minecart train powered by a furnace minecart
+A furnace minecart can be made to pull up to four other minecarts. All minecarts in this train move at the constant speed of the furnace minecart. Trains are formed when a minecart is pushed into the back of a powered furnace minecart or a short-enough train. These shunts are fragile at best and easily come undone, but some methods are stronger than others. For example, pushing a minecart into a furnace minecart and then powering the furnace gives a weaker shunt than pushing the furnace minecart into the other minecart against a wall, and then powering the furnace in the other direction.
+
+Minecarts with furnaces can climb up steep inclines while pushing other minecarts as long as they have fuel. If a minecart with furnace reaches a slope while pulling another minecart, the pulled minecart is switched to the forward position so that it can be pushed along the slope instead of pulled.
+
+A high-speed minecart running into the back of a furnace minecart going in the same direction automatically creates a weak shunt with it, pulling it along.
+
+Pulling a minecart with TNT causes it to explode.
+
++Pulled minecart/Shunt behaviorConditionResultFurnace loses power/speedShunt comes undoneEntity bumping besides those part of the trainJettisoned forwardUpward sloped trackJettisoned forwardDownward sloped trackJettisoned forward (strong shunt) or shunt comes undone (weak shunt)90° turn in trackJettisoned backwardTurn toward north/south or east/west that is not the direction the train was shunted inTrain derails
+
+When a train comes to a turn, the shunt comes undone with the pulled minecart jettisoned backward. The correct way to make such a turn is having the shunt undone before a turn, and then make the two rejoin on a straight rail later by having the pulled cart catch up with the minecart with furnace.
+
+Since the train runs slower on a fully powered track than a normal minecart (~5 m/s compared to 8m/s), a train pulled by an unpowered furnace minecart is ideal for AFK farms involving breaking or placing blocks like nether wart.
+
+Corralling many minecarts
+Unlike other carts, minecart with furnace does not get pushed backwards nor forwards because of any collision mechanics. This means they can be useful to move longer "trains" of carts forward, even in conjunction with powered rails. See  for more details.
+
+Tutorial:Minecart trains brings up multiple use-cases where this gives the player more effective control over a train.
+
+Properties
+Fuel is not stored as an item in the entity, but in the object data in the fuel property as a time in ticks. Fuel is a short value, i.e. a maximum of 32767 ticks, which is about 27 minutes. However,  alone doesn't make it go since it doesn't have a direction. It can be right-clicked on a track to give it a direction, or it can be summoned with the properties PushX and PushZ set, which are responsible for the direction. The Motion property of every entity allows for movement of the minecart, but it does not direct the minecart to move on its own.
+
+Sounds
+:
+Minecarts with furnaces use the Friendly Creatures sound category for entity-dependent sound events.
+
+Data values
+ID
+:
+
+(unused):
+
+Entity data
+Minecarts with furnace have entity data associated with them that contain various properties of the entity.
+
+:
+
+Entity data
+
+: The number of ticks until the minecart runs out of fuel.
+: Force along X axis, used for smooth acceleration/deceleration.
+: Force along Z axis, used for smooth acceleration/deceleration.
+
+History
+Java Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Trivia
+The minecart with furnace was excluded from  on purpose. In a tweet, Jeb considered removing it from .
+When converting a Legacy Console Edition world to a Bedrock Edition world, any present minecarts with furnaces are converted into a normal minecart.
+Despite the above-described poor standing of the minecart, it was most recently briefly featured in an animation in the Minecraft Live 2022, where one was depicted as moving a train of about 20 minecarts at a higher than normal speed.
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Vehicles
+
+cs:Parní vozík
+de:Antriebslore
+es:Vagoneta con horno
+fr:Wagonnet motorisé
+hu:Gőzmeghajtású csille
+ja:かまど付きのトロッコ
+ko:화로가 실린 광산 수레
+nl:Mijnkar met oven
+pt:Carrinho de mina com fornalha
+pl:Napędzany wagonik
+ru:Вагонетка с печью
+uk:Вагонетка з піччю
+zh:动力矿车

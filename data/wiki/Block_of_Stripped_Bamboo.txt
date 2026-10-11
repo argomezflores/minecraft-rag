@@ -1,0 +1,59 @@
+TITLE: Block of Stripped Bamboo
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Stripped_Bamboo
+---
+A block of stripped bamboo is a variant of the block of bamboo made by  an axe on a block of bamboo.
+
+Obtaining
+Breaking
+Blocks of stripped bamboo can be broken by hand, but using an axe speeds up the process.
+
+Stripping
+an axe on a block of bamboo turns it into a block of stripped bamboo.
+
+Usage
+Crafting ingredient
+
+Fuel
+Blocks of stripped bamboo can be used as fuel in furnaces, smelting 1.5 items per block.
+
+Unlike logs, blocks of bamboo cannot be smelted into charcoal.
+
+Sounds
+
+Data values
+ID
+Java Edition:
+
+Bedrock Edition:
+
+Block states
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+Block of the Week: Bamboo – Minecraft.net on July 27, 2023
+
+Navigation
+
+Category:Manufactured blocks
+Category:Flammable blocks
+
+de:Geschälter Bambusblock
+it:Blocco di bambù scortecciato
+ko:껍질 벗긴 대나무 블록
+pt:Bloco de Bambu Descascado
+th:บล็อกไม้ไผ่ลอกเปลือก
+zh:去皮竹块

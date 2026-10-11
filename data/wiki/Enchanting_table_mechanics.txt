@@ -1,0 +1,147 @@
+TITLE: Enchanting table mechanics
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Enchanting_table_mechanics
+---
+thumb|Enchanting interface
+thumb|Enchanting interface
+
+This article is about the mechanics of enchanting with enchanting tables.
+
+Bookshelf placement
+Nearby bookshelves raise the experience cost, which increases the value of the offered enchantments. The maximum number of active bookshelves is 15, and further bookshelves are ignored.
+
+In order to have an effect, the bookshelves must be placed exactly two blocks from the enchanting table along one horizontal axis, up to two blocks along the other, and on the same height as the table or one block higher. Additionally, the bookshelf must not be blocked, the exact definition of which differs between the .
+
+Bedrock Edition
+The 2-high space between the bookshelf and table must be air (even a torch, snow cover or carpet blocks the effect), where "between" is as shown in the following diagrams (the blank spaces are air, and the  do not matter):
+
+Like this from the top:or  and like this from the side: or
+
+Java Edition
+The space between the bookshelf and table at the height of the bookshelf must be a block in the tag  like air, snow and short grass. For corner bookshelves, the space between is 1 block diagonal from the enchanting table; for all other bookshelves, the gap must be to the side of the enchanting table. This is illustrated in the following diagrams (the blank spaces are air, and the  do not matter):
+
+Like this from the top:orand like this from the side:or
+
+The glyph particles, which fly from bookshelves, follow different rules and may appear even if the bookshelves are not enhancing the table.
+
+There are many possible bookshelf arrangements that can reach the enchantment limit. A simple method is to surround the enchanting table with a 1-block high square of bookshelves with an empty space anywhere on the perimeter:
+
+Another alternative that is now available is to build a 'library corner' where each bookshelf is two blocks high, as in the plan below. This arrangement gives space for 16 shelves, which is one more than needed, so if the corner bookshelf column cannot be seen, removing one of the two bookshelves in that does not have any effect, either technically or visually.
+
+With a data pack, it's possible to replace the bookshelf with a block in the tag .
+
+Requirements
+For an item to be enchantable, it must fulfill these conditions:
+It is enchantable, meaning  it has the components  and .
+It has no enchantments, meaning  the component  must be empty.
+
+If the item meets the conditions but has no available enchantments, it will be possible to select the slot at the enchanting table, but nothing will happen.
+
+Experience cost
+When an item is placed in an enchanting table, the experience cost of each enchantment slot is selected depending on the slot and the number of nearby bookshelves, which is capped at 15.
+
+For each slot, a base experience cost is calculated as:
+
+where  generates a random integer in range  to  (both included).
+
+The final experience cost is then calculated depending on the slot:
+Top slot:
+Middle slot:
+Bottom slot:
+
+Bookshelves  0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15 Experience cost of top slot 1–2  1–3  1–3  1–4  1–4  1–5  1–5  1–6  1–6  1–7  2–7  2–8  2–8  2–9  2–9  2–10 Experience cost of middle slot 1–6  1–7  2–8  2–9  3–10  3–11  3–12  3–13  4–14  4–15  5–16  5–17  5–18  5–19  6–20  6–21 Experience cost of bottom slot 1–8  2–9  4–11  6–12  8–14  10–15  12–17  14–18  16–20  18–21  20–23  22–24  24–26  26–27  28–29  30
+
+Enchantment selection
+This section describes how enchantments for an item are selected for a given experience cost.
+
+This process is used by various mechanics:
+When enchanting with an enchanting table.
+when generating items with the item modifier , which is used in villager trade definitions for traded equipments and loot tables for generated loot and fishing.
+when generating traded equipments, generated loot, and fishing.
+when generating items with the enchantment providers  or , which is used for gearing mobs.
+when gearing mobs.
+
+Enchantment cost
+For each slot, the enchantment cost, which is not shown in game, is calculated depending on the item's enchantability and the experience cost:
+
+where  generates a random integer in range  to  (both included)
+and  generates a random number in range  (included) to  (excluded) with :
+
+where  generates a random number in range  (included) to  (excluded).
+
+, an item's enchantability is stored in the  item component.
+
+Item Enchantability   25 6  22 5    15 3  14 3  13 3  12 3  10 2  9 2  8 2  5 1  1 0
+
+Candidates
+, the initial candidates are:
+
+the enchanting table's list of enchantments are stored in the tag .
+
+the item modifier  can overwrite that list of enchantments with its field , which default is used by the tags .
+
+enchantment providers use the field , which default to the tag .
+
+In vanilla, this means that all non-treasure enchantments are initially candidates, and that for generated loot and fishing, Curse of Binding, Curse of Vanishing, Frost Walker, and Mending are also initial candidates.
+
+If the item to enchant is not a book, all enchantments to which the item is not a primary item are removed.
+
+Finally, the level for each enchantment is determined. The enchantment's highest level for which the enchantment cost falls within its cost range is the candidate, and if the cost is not within any of its ranges, the enchantment is removed.
+
+, enchantments, including which other enchantments they're exclusive with, what items are primary to them, and the cost ranges of their levels are defined in enchantment definition. Books being primary to all enchantments is hardcoded.
+
+Selection
+
+The selection uses repetition, in which it selects one of the candidate enchantments and has a chance to repeat and add additional enchantments. The change of the enchantment cost in this final stage does not retroactively change the set of candidate.
+
+A random candidate is selected based on weights, meaning the chance of a candidate being selected is its weight divided by the total weight of the current candidates.
+The selected candidate and incompatible ones are removed from the set of candidates, and if no candidates remain, the selection ends.
+If a chance of  is fails, the enchantment selection ends.
+The enchantment cost () is divided by two and rounded down, and the process returns to step 1.
+
+Finally after the loop, if the item is a book, an enchanting table is used, and multiple enchantments were selected, a random one is removed.
+
+Storing enchantments
+If the item being enchanted is a book, it will be turned into an enchanted book and  the enchantments are stored in the  component.
+
+, for all other items, the enchantments are stored in the  component.
+
+Enchanting seed
+The enchantments that enchanting tables offer are determined using the enchanting seed that is stored under  in each player's data. After enchanting an item, the player's seed is regenerated, resulting in different enchantments.
+
+This means enchanting tables with the same number of nearby bookshelves will offer the same enchantments for all items with the same enchantability and the same possible enchantments (same item-type or one of pickaxes, shovels or hoes) until an item is enchanted.
+
+Initial seed
+
+When joining a world for the first time, the seed is initialized to , however when joining a world with an already present enchanting seed of , it will be regenerated.
+
+This meaning leaving and rejoining a world for the first time gives new enchantments without enchanting an item, and the first enchantment before ever leaving a world will always give the same enchantment for the same item-bookshelves-combination, such as Looting III and Unbreaking III for a Netherite Sword with 15 bookshelves.
+
+Receivable enchantments
+The given cost-ranges are the effective ranges.In the game's code, there are overlaps between some ranges and some other ranges have negative sizes, however in cases of overlaps the higher level always wins, and negative ranges make the level impossible to receive, so the overlaps and negative ranges have been removed for simplicity, which does not affect outcomes in any way.
+
+Item Enchantment Compatibility Weight Level Icost Level IIcost Level IIIcost Level IVcost Level Vcost  Aqua Affinity   2  1–41     Respiration   2  10–19  20–29  30–60   Thorns   1  10–29  30–49  50–100   Unbreaking   5  5–12  13–20  21–71   Blast Protection    2  5–12  13–20  21–28  29–37  Fire Protection  5  10–17  18–25  26–33  34–42  Projectile Protection  5  3–8  9–14  15–20  21–27  Protection  10  5–12  13–20  21–28  29–37   Thorns   1  10–29  30–49  50–100   Unbreaking   5  5–12  13–20  21–71   Blast Protection    2  5–12  13–20  21–28  29–37  Fire Protection  5  10–17  18–25  26–33  34–42  Projectile Protection  5  3–8  9–14  15–20  21–27  Protection  10  5–12  13–20  21–28  29–37   Thorns   1  10–29  30–49  50–100   Unbreaking   5  5–12  13–20  21–71   Blast Protection    2  5–12  13–20  21–28  29–37  Fire Protection  5  10–17  18–25  26–33  34–42  Projectile Protection  5  3–8  9–14  15–20  21–27  Protection  10  5–12  13–20  21–28  29–37   Feather Falling   5  5–10  11–16  17–22  23–29  Thorns   1  10–29  30–49  50–100   Unbreaking   5  5–12  13–20  21–71   Blast Protection    2  5–12  13–20  21–28  29–37  Fire Protection  5  10–17  18–25  26–33  34–42  Projectile Protection  5  3–8  9–14  15–20  21–27  Protection  10  5–12  13–20  21–28  29–37  Depth Strider    2  10–19  20–29  30–45    Fire Aspect   2  10–19  20–80    Knockback   5  5–24  25–75    Looting   2  15–23  24–32  33–83   Sweeping Edge    2  5–13  14–22  23–38   Unbreaking   5  5–12  13–20  21–71   Bane of Arthropods    5  5–12  13–20  21–28  29–36  37–57 Sharpness  10  1–11  12–22  23–33  34–44  45–65 Smite  5  5–12  13–20  21–28  29–36  37–57  Fire Aspect   2  10–19  20–80    Knockback   5  5–24  25–75    Looting   2  15–23  24–32  33–83   Lunge   5  5–12  13–20  21–41   Unbreaking   5  5–12  13–20  21–71   Bane of Arthropods    5  5–12  13–20  21–28  29–36  37–57 Sharpness  10  1–11  12–22  23–33  34–44  45–65 Smite  5  5–12  13–20  21–28  29–36  37–57  Cleaving   2  5–24  25–44  45–65   Efficiency   10  1–10  11–20  21–30  31–40  41–91 Unbreaking   5  5–12  13–20  21–71   Fortune    2  15–23  24–32  33–83   Silk Touch  1  15–65     Bane of Arthropods    5  5–12  13–20  21–28  29–36  37–57 Sharpness  10  1–11  12–22  23–33  34–44  45–65 Smite  5  5–12  13–20  21–28  29–36  37–57  Efficiency   10  1–10  11–20  21–30  31–40  41–91 Unbreaking   5  5–12  13–20  21–71   Fortune    2  15–23  24–32  33–83   Silk Touch  1  15–65      Flame   2  20–50     Power   10  1–10  11–20  21–30  31–40  41–56 Punch   2  12–31  32–57    Unbreaking   5  5–12  13–20  21–71   Infinity    1  20–50      Quick Charge   5  12–31  32–50    Unbreaking   5  5–12  13–20  21–71   Multishot    2  20–50     Piercing  10  1–10  11–20  21–30  31–50   Luck of the Sea   2  15–23  24–32  33–83   Lure   2  15–23  24–32  33–83   Unbreaking   5  5–12  13–20  21–71    Impaling   2  1–8  9–16  17–24  25–32  33–53 Unbreaking   5  5–12  13–20  21–71   Channeling    1  25–50     Loyalty  5  12–18  19–25  26–50   Riptide    2  17–23  24–30  31–50    Fire Aspect   2  10–19  20–80    Unbreaking   5  5–12  13–20  21–71   Breach    2  15–23  24–32  33–41  42–92  Density  5  5–12  13–20  21–28  29–36  37–57 Bane of Arthropods  5  5–12  13–20  21–28  29–36  37–57 Smite  5  5–12  13–20  21–28  29–36  37–57   Aqua Affinity   2  1–41     Efficiency   10  1–10  11–20  21–30  31–40  41–91 Feather Falling   5  5–10  11–16  17–22  23–29  Fire Aspect   2  10–19  20–80    Flame   2  20–50     Impaling   2  1–8  9–16  17–24  25–32  33–53 Knockback   5  5–24  25–75    Looting   2  15–23  24–32  33–83   Luck of the Sea   2  15–23  24–32  33–83   Lunge   5  5–12  13–20  21–41   Lure   2  15–23  24–32  33–83   Power   10  1–10  11–20  21–30  31–40  41–56 Punch   2  12–31  32–57    Quick Charge   5  12–31  32–50    Respiration   2  10–19  20–29  30–60   Sweeping Edge    2  5–13  14–22  23–38   Thorns   1  10–29  30–49  50–100   Unbreaking   5  5–12  13–20  21–71   Bane of Arthropods    5  5–12  13–20  21–28  29–36  37–57 Breach  2  15–23  24–32  33–41  42–92  Cleaving  2  5–24  25–44  45–65   Density  5  5–12  13–20  21–28  29–36  37–57 Sharpness  10  1–11  12–22  23–33  34–44  45–65 Smite  5  5–12  13–20  21–28  29–36  37–57 Blast Protection    2  5–12  13–20  21–28  29–37  Fire Protection  5  10–17  18–25  26–33  34–42  Projectile Protection  5  3–8  9–14  15–20  21–27  Protection  10  5–12  13–20  21–28  29–37  Channeling    1  25–50     Loyalty  5  12–18  19–25  26–50   Riptide    2  17–23  24–30  31–50   Depth Strider    2  10–19  20–29  30–45   Fortune    2  15–23  24–32  33–83   Silk Touch  1  15–65     Infinity    1  20–50     Multishot    2  20–50     Piercing  10  1–10  11–20  21–30  31–50
+
+History
+
+References
+
+External links
+https://github.com/SeeYou-Man/Minecraft-Enchantment-Probabilities – A GitHub project to simulate the probability to get specific enchantments in 1.21.
+https://web.archive.org/web/20181019012113/http://minecraftenchantmentcalculator.com/rev6/ (archived) – Tests enchantments by simulating probability of getting specific enchantments on a tool based on level and (optionally) the "clue" shown
+https://minecraft.tools/en/enchant.php – Provides some ability to test enchantments, although its interface is significantly less verbose on the specifics
+https://github.com/Earthcomputer/EnchantmentCracker – Cracks the XP seed and lets you choose the exact enchantments you want, though the process is highly tedious and error-prone. Deprecated in favor of clientcommands
+
+Navigation
+
+Category:Gameplay
+
+cs:Princip očarování
+es:Mecánicas de encantamiento
+it:Meccaniche del tavolo per incantesimi
+ja:エンチャントの仕組み
+ko:마법 작동 원리
+lzh:淬靈
+pt:Mecânica de encantamento
+th:กลไกการร่ายมนตร์
+zh:附魔（物品修饰）

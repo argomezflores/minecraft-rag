@@ -1,0 +1,48 @@
+TITLE: Polished Cinnabar Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Cinnabar_Wall
+---
+A polished cinnabar wall is a decorative wall variant of polished cinnabar.
+
+Obtaining
+Breaking
+Polished cinnabar walls drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Cinnabar, Polished Cinnabar, Polished Cinnabar, Polished Cinnabar, Polished Cinnabar, Polished Cinnabar arranged in the crafting grid → Polished Cinnabar Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+es:Muro de cinabrio pulido
+fr:Muret de cinabre poli
+ja:磨かれた辰砂の塀
+pt:Muro de Cinábrio Polido
+ru:Ограда из полированной киновари
+uk:Стіна з полірованого кіновару
+zh:磨制朱砂墙

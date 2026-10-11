@@ -1,0 +1,27 @@
+TITLE: Craft (item)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Craft_(item)
+---
+Craft is a joke item only present in 26w14a.
+
+Obtaining
+It is automatically obtained and appears in the hotbar when the player starts up a world. It also appears in the hotbar after the player dies.
+
+Usage
+Using it spawns an entity of a 2×2 crafting grid if there is enough flat space.
+
+Data values
+ID
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Joke items
+
+ja:Craft (アイテム)
+pt:Edição Java 26w14a/Craft
+zh:合成（物品）

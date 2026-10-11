@@ -1,0 +1,51 @@
+TITLE: Potato Battery
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Battery
+---
+A potato battery is a toggleable block that emits a redstone signal and damages entities above it when activated. It is only present in 24w14potato.
+
+Obtaining
+Breaking
+A potato battery can be broken using any tool with equal efficiency, and always drops itself.
+
+Crafting
+
+Crafting recipe: Iron Ingot, Copper Ingot, Poisonous Potato, Redstone Dust, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato arranged in the crafting grid → Potato Battery.
+
+Usage
+Redstone signal
+When , a potato battery toggles its state. When active, it emits a redstone signal of 15.
+
+Damage
+If an entity is on top of it while it is active, the entity is damaged by  per tick. However, due to damage immunity, the entity actually receives damage only every half a second.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+The potato_battery block uses following block states:
+
+Issues
+
+Trivia
+In real life,  are a type of electrochemical battery often created for educational purposes. These batteries employ reactions between copper and zinc electrodes and the acidic electrolytes inside the potato to produce power.
+
+Gallery
+
+Navigation
+
+Category:Joke blocks
+Category:Utility blocks
+Category:Redstone
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Light sources
+
+ja:Potato Battery
+zh:马铃薯电池

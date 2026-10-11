@@ -1,0 +1,72 @@
+TITLE: Music Disc chirp
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_chirp
+---
+"chirp" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "chirp".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:Chirp.ogg
+
+"chirp" is a retro tune with a sample from the 1970 MATTEL Bossa Nova Style Program Disc playing in the background, along with a version of "mall".
+
+Usage
+Like all music discs,  the "chirp" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "chirp", it emits a redstone signal of 4.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Chirp" chirp.ogg music_disc.chirp
+
+:
+
+Soundtrack Title File name Sound events "Chirp" chirp.ogg record.chirp
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+"chirp" uses the same accompaniment samples as "The Orb of Dreamers" from the LittleBigPlanet series. The samples come from the  disc "Bossa Nova Style". C418 stated that it was coincidental.
+The texture used for the music disc "chirp" was previously used for the camera tripod texture prior to Pocket Edition v0.9.0 alpha.
+
+References
+
+Navigation
+
+Category:C418
+Category:Minecraft - Volume Beta
+Category:Music discs
+
+fr:Disque chirp
+ja:chirp
+pt:Disco Musical chirp
+ru:Пластинка «chirp»
+uk:Платівка «chirp»
+zh:音乐唱片chirp

@@ -1,0 +1,23 @@
+TITLE: Block variant
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_variant
+---
+A block variant refers to a group of blocks with similar purposes and properties. These can be thought of as different variants of blocks. Some of these block groups are blocks that share many features in common, while others are simply blocks that are similar or share a certain word in their name.
+
+Block states also allow some blocks to have variants.
+
+Variants
+Shapes
+
+Other
+
+See also
+Mineral
+Material (disambiguation)
+Variant
+
+Navigation
+
+es:Variante de bloque
+ko:블록 변종
+uk:Варіанти блока

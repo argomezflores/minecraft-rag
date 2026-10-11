@@ -1,0 +1,157 @@
+TITLE: Axe
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Axe
+---
+An axe is a tiered tool that can quickly break wood and plant blocks, and a melee weapon with high attack damage but low attack speed. It has the special ability to perform crushing blows, which disable the use of a target's shield.
+
+Variants
+There are seven axe variants:
+
+Obtaining
+Wooden, golden, stone, copper, iron, and diamond axes are crafted using 2 sticks and 3 identical units of tool material. This recipe can be flipped horizontally.
+
+Crafting
+
+Crafting recipe: {Any Planks}; Gold Ingot; {Any stone-tier block}; Copper Ingot; Iron Ingot; Diamond, {Any Planks}; Gold Ingot; {Any stone-tier block}; Copper Ingot; Iron Ingot; Diamond, {Any Planks}; Gold Ingot; {Any stone-tier block}; Copper Ingot; Iron Ingot; Diamond, Stick, Stick arranged in the crafting grid → Wooden Axe; Golden Axe; Stone Axe; Copper Axe; Iron Axe; Diamond Axe.
+
+Smithing
+
+Generated loot
+
+Villager gifts
+
+Toolsmith villagers occasionally throw stone axes at players with the Hero of the Village status effect.
+
+Weaponsmith villagers occasionally throw either stone, gold, or iron axes at players with the Hero of the Village status effect.
+
+Usage
+Breaking
+An axe is used to break logs, blocks derived from wood and some other blocks faster than by using other tools. An axe uses 1 durability to break 1 block. For blocks that break instantly, it uses 0 durability.
+
+Speed
+The following table summarizes the speed at which axes of different qualities perform.
+
+Attacking
+Pressing  while holding an axe inflicts damage on both mobs and other players. Upon damaging a mob or player, the axe's durability decreases by 2.
+
+Attacking a boat or a minecart with any axe tier instantly destroys it, without decreasing the axe's durability.
+
+Crushing blow
+thumb|Performing a crushing blow.
+thumb|Being hit by a crushing blow.
+Axes have the special ability to do crushing blows, which disable the use of the target's shield for 5 seconds. Crushing blows are triggered only against targets that are actively holding their shield up.
+
+Crushing blows affect all of the target's shields, rather than affecting only the one that was being used. Crushing blows do not trigger against targets whose shields are not yet past their 250ms activation delay. Crushing blows are triggered regardless of attack cooldown percentage and, unlike sweep attacks, they can be triggered at the same time as critical hits and sprint-knockback attacks.
+
+Crushing blows work by inflicting a 5 second use cooldown. When a shield is stunned, it cannot be used by right clicking or sneaking. Performing a crushing blow does not consume durability from the axe, in the same way that other attacks do not consume durability when they're blocked by a shield.
+
+, a player whose shield is stunned becomes immune to knockback for several ticks.
+
+Mobs that wield axes, such as vindicators or piglin brutes, perform crushing blows should they hit a player's shield. The melee attack of a warden also performs a crushing blow should it connect against a player's shield.
+
+In the Java Edition Combat Tests, the stun duration from crushing blows is lengthened by the Cleaving enchantment, at an additional 0.5 seconds per level with a maximum level of III.
+
+Statistics
+Java Edition
+, wooden, stone, and copper axes have an attack speed of 0.8 (1.25 seconds), iron axes have an attack speed of 0.9 (1.111 seconds), and golden, diamond, and netherite axes have an attack speed of 1 (1 second). They have the following statistics:
+
+UnenchantedTypeMining efficiencyAttack damageAttack speedDPSAttack rangeHitbox marginDurabilityLifetime damage inflictedThe formula to find the total lifetime damage is ceil(durability ÷ 2) × damage per hit. The durability is halved then ceiled because axes take double durability when used as a weapon, and the last 1 durability can also deal damage. The formula also ignores enchantments, and assumes each attack is performed at maximum charge.Enchantability20.8 (1.25 seconds)5.63 (3 blocks)05915 (critical)8.4121 (1 second)73222 (critical)10.540.8 (1.25 seconds)7.21315 (critical)10.850.8 (1.25 seconds)7.219013 (critical)10.860.9 (1.111 seconds)8.125014 (critical)12.1581 (1 second)9156110 (critical)13.591 (1 second)10203115 (critical)15
+
+EnchantedTypeBase mining efficiencyEfficiency IEfficiency IIEfficiency IIIEfficiency IVEfficiency V247121928469142130571015223168111623328101318253491114192635121417222938TypeBase attack damageSharpness ISharpness IISharpness IIISharpness IVSharpness V (critical) (critical) (critical)TypeBase attack damageSmite / BoA ISmite / BoA IISmite / BoA IIISmite / BoA IVSmite / BoA V (critical) (critical) (critical)
+
+Bedrock Edition
+
+, axes have no attack cooldown, and have the following statistics:
+
+Type  Damage  DPS  Wooden    8  Golden  Stone    10  Copper  Iron  12  Diamond  14  Netherite  16
+
+Stripping and scraping
+an axe on a log, wood, or a block of bamboo causes it to become stripped, creating a stripped log, stripped wood, or a stripped block of bamboo. This is also true for stems and hyphae found in the Nether.
+
+Axes can also be used to scrape wax and oxidation off of copper blocks and golems and to turn copper golem statues into copper golems.
+
+Both stripping and scraping consume one point of durability.
+
+, if the player is holding a shield in their off-hand and attempts to strip/scrape a block with an axe, they will block using the shield instead of stripping or scraping. If the player sneaks, they are able to  the axe as normal.
+
+Repairing
+Combining
+
+Anvil repair
+
+An axe can be repaired in an anvil by adding units of the tiers' repair material, with each repair material restoring 25% the axe's maximum durability, rounded down. Two axes of the same tier can also be combined in an anvil. Both methods preserve the axe's enchantments, unlike by crafting to repair.
+
+Enchantments
+An axe can receive the following enchantments:
+
++NameDescriptionMax LevelMethodWeightEfficiencyIncreases the mining speed.V10FortuneSilk Touch and Fortune are mutually exclusive.Increases the amount of drops when mining.III2Silk TouchCauses blocks to drop themselves when mined.I1SharpnessSharpness, Smite, and Bane of Arthropods are mutually exclusive with Cleaving.Increases the damage dealt.V10SmiteIncreases the damage dealt to undead.V5Bane of ArthropodsIncreases the damage dealt to arthropods.V5CleavingIncreases the damage and shield cooldown time dealt.IIILootingFire Aspect, Looting, Knockback, and Sweeping Edge currently exist, but they cannot be applied to axes.Increases the amount of drops when killing an entity with the axe.III2KnockbackIncreases the knockback dealt.II5Fire AspectIgnites any targets hit by the axe and lights unlit candles, campfires, and Block of TNT when .II2Sweeping EdgeIncreases the sweeping damage dealt.III2UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the axe when obtaining experience.I2Curse of VanishingThe axe vanishes on death, not dropping as an item.I1
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Java Edition Combat Tests
+
+Issues
+
+Trivia
+Before Java Edition 1.13, in the language files, axes were referred to as Hatchets.1.8/assets/minecraft/lang/en_US.lang, line 915: item.hatchetIron.name= Iron Axe
+Weaponsmith villagers gifting stone, iron and golden axes is a reference to the story The Honest Woodcutter, where a woodcutter dropped his axe into a river, and is successively provided a silver and a golden axe by the river god.
+
+Gallery
+Renders
+
+Super Duper Graphics Pack
+
+Other
+
+See also
+
+Notes
+
+References
+
+External links
+
+Navigation
+
+Category:Combat
+Category:Tools
+
+cs:Sekera
+de:Axt
+es:Hacha
+fr:Hache
+hu:Balta
+it:Ascia
+ja:斧
+ko:도끼
+lzh:斧
+nl:Bijl
+pl:Siekiera
+pt:Machado
+ru:Топор
+th:ขวาน
+uk:Сокира
+zh:斧

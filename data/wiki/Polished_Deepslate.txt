@@ -1,0 +1,66 @@
+TITLE: Polished Deepslate
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Deepslate
+---
+Polished deepslate is the stone-like polished version of deepslate.
+
+Obtaining
+Breaking
+Polished deepslate can be obtained by mining it with a pickaxe. When mined using any other tool, it drops nothing.
+
+Natural generation
+Polished deepslate generates naturally in ancient cities.
+
+Crafting
+
+Crafting recipe: Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate arranged in the crafting grid → Polished Deepslate,4.
+
+Stonecutting
+
+Usage
+
+Using a stonecutter instead of a crafting table can produce all the derivative deepslate blocks directly. All of the blocks below, including polished deepslate, can also be obtained directly from cobbled deepslate.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+Category:Manufactured blocks
+
+de:Polierter Tiefenschiefer
+es:Pizarra profunda pulida
+fr:Ardoise des abîmes polie
+it:Ardesia profonda levigata
+ja:磨かれた深層岩
+ko:윤나는 심층암
+lzh:鎣板石
+pl:Wypolerowany łupek
+pt:Ardosiabissal Polida
+ru:Полированный глубинный сланец
+th:หินชนวนลึกขัด
+uk:Полірований глибосланець
+zh:磨制深板岩

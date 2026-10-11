@@ -1,0 +1,56 @@
+TITLE: Mud Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mud_Brick_Slab
+---
+A mud brick slab is a decorative slab variant of mud bricks that generates in trail ruins and is used for building.
+
+Obtaining
+Breaking
+Mud brick slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Mud brick slabs generate as part of trail ruins.
+
+Crafting
+
+Crafting recipe: Mud Bricks, Mud Bricks, Mud Bricks arranged in the crafting grid → Mud Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a slab is combined into a double slab, the block's step sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+ja:泥レンガのハーフブロック
+ko:진흙 벽돌 반 블록
+pt:Laje de Tijolos de Barro
+uk:Плита з лимпачу
+zh:泥砖台阶

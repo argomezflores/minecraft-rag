@@ -1,0 +1,40 @@
+TITLE: Action bar
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Action_bar
+---
+thumb|The message "You may not rest now; the bed is too far away" is shown on the action bar.
+
+The action bar is a space just above the player's hotbar where text can be displayed. Some gameplay elements, such as beds, use this to give contextual hints to the player. Text can also be displayed here using the  command.
+
+Behavior
+The action bar is displayed above where item names are shown when an item is selected in your hotbar, so an item name and action bar text can be shown on the screen at the same time.
+
+When text is displayed here, it instantly appears and remains on the screen for approximately 1.5 seconds before fading out. If another action bar message is sent, it instantly replaces the previous text without any transition/animation and remains there for the usual 1.5 seconds it normally would if it was not replacing anything.
+
+, the opacity of the black background on the action bar can be adjusted in the accessibility settings.
+
+Gameplay uses
+, certain messages are shown in the chat instead of the action bar.
+Displayed text Cause Now Playing: %s When a music disc starts playing nearby. Press %1$s to Dismount When the player starts riding a vehicle or animal. This bed is occupied When another entity is already in a bed. You can sleep only at night or during thunderstorms When a player tries to sleep during the day and without a thunderstorm. You may not rest now; the bed is too far away When a player tries to sleep in a bed that is too far away. This bed is obstructed When a player tries to sleep in a bed that has suffocating blocks directly above. You may not rest now; there are monsters nearby When a player tries to sleep in a bed while there are hostile mobs within a 17×11×17 box centered around the bed. %s/%s players sleeping When a player starts sleeping but not enough players are sleeping to skip the night. Announced to all players. Sleeping through this night When enough players are sleeping to skip the night. Announced to all players. No amount of rest can pass this night When a player starts sleeping but the  game rule is set above 100. %s is locked! When a player attempts to open a chest that is locked. Unable to open. Loot not generated yet. When a player in Spectator tries to open a chest with loot that hasn't been opened yet. Item hotbar saved (restore with %1$s+%2$s) After saving a creative hotbar. Height limit for building is 319 Attempting to build past Y=319. Social Interactions are only available in Multiplayer worlds Attempting to open the social interactions screen in a Singleplayer world. Chat disabled in client options. Attempting to open the chat when it is disabled in the options. Chat disabled by launcher option. Cannot send message. Attempting to open the chat when it is disabled from the launcher. Chat not allowed by account settings. Press '%s' again for more information. Attempting to open the chat when it is disabled from the account. Chat not allowed by account settings. Cannot send or view messages. After pressing the chat keybind to get more information. TNT explosions are disabled When attempting to ignite a block of TNT while the  game rule is set to false.
+
+Commands
+
+A custom text message can be displayed on the action bar using the  command:
+: title <targets> actionbar <title>
+: title <player: target> actionbar <titleText: message>
+
+History
+
+Issues
+
+See also
+Chat
+Commands/title
+
+Navigation
+
+Category:UI
+
+ja:アクションバー
+pt:Barra de ação
+zh:动作栏

@@ -1,0 +1,76 @@
+TITLE: Swimming
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Swimming
+---
+right|150px right|150px
+Swimming is a form of transportation that allows the player to move in water faster.
+
+Control
+thumb|right|upright|Entering swim mode.
+thumb|right|upright|Exiting swim mode.
+Swimming is activated by pressing  while in water.
+
+Sprint-swimming can also be activated. To do this, the player can press  for 1 block gap while moving, or double tap . The player cannot sprint-swim if the hunger bar is at  or below, or when affected by Blindness.
+
+Sneaking when swimming allows the player to sink faster.
+
+Usage
+When swimming on the surface of still water, the player moves at 2.20 blocks per second. If the player is partially submerged in water, the player moves at 1.97 blocks per second. The player moves at 1.81 blocks per second when swimming downstream underwater, and moves at a slower 0.39 blocks per second while swimming upstream underwater.
+
+Sprint-swimming
+An animation showing the player sprint-swimming|thumb|250px
+Sprint-swimming allows the player to move at around 3.918 meters/second, which is 10 percent slower than the normal walking speed of around 4.317 m/s. The player can turn while sprint-swimming at a slightly reduced speed. Eating, blocking with a shield or drawing a bow also slows the player down, but doesn't stop the player from sprint-swimming.
+
+while sprint-swimming allows the player to descend faster, and  allows the player to ascend faster. Therefore, the fastest way to descend underwater is to look directly downward, sprint-swim and sneak at the same time, and the fastest way to ascend underwater is to look directly upward, sprint-swim and jump at the same time. While swimming vertically, actions such as eating, blocking or drawing a bow do not slow the player down, unlike when swimming horizontally.
+
+Depth Strider increases the player's speed while sprint-swimming. With Depth Strider III, the player can sprint-swim at 5.305 meters/second, which is 35% faster than the regular sprint-swimming speed.
+
+Sprint-swimming allows the player to fit through one-block gaps, in a similar method to crawling.
+
+By maneuvering the angle of swimming, it is possible to sprint-swim at the surface of a body of water, while still being able to breathe.
+
+Sprint-swimming reduces the player's saturation, and upon reaching zero it depletes the hunger bar at a rate of  every 40 meters, or 7 seconds.
+
+When a player attacks any mob (excluding squid) while sprint-swimming, the mob suffers a larger knockback than usual.
+
+Sprint-swimming, unlike normal sprinting, doesn't end when the player collides with a solid block, but it does end when the player attacks a mob. Additionally, sprint-swimming also ends if the hunger bar decreases to  or below.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+Trivia
+Sprinting and jumping while under a 1 block gap high ceiling causes a player to move at a speed almost twice as fast as regular sprinting speed, but it consumes a hunger point every second.
+This can be sped up even more by decreasing the ceiling height using water source or by sprinting on ice.
+A similar effect occurs if the player sprints and rapidly hits  at the same time on a set of fish mobs.
+When affected by Dolphin's Grace, a player's speed is increased significantly while swimming.
+
+References
+
+See also
+
+Navigation
+
+pl:Pływanie
+
+Category:Transport
+
+de:Schwimmen
+es:Nadar
+fr:Nager
+ja:水泳
+ko:수영
+pt:Nadar
+ru:Плавание
+uk:Плавання
+zh:游泳

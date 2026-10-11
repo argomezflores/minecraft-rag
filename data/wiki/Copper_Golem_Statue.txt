@@ -1,0 +1,124 @@
+TITLE: Copper Golem Statue
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Golem_Statue
+---
+A copper golem statue is the result of a copper golem fully oxidizing and petrifying into a block. It can be  in four different ways, or it can be reanimated by  with an axe enough times.
+
+Obtaining
+Breaking
+Copper golem statues can be broken by hand, but using a pickaxe is the fastest. A copper golem statue retains its pose when broken.
+thumb|200px|All the copper golem statue poses in the inventory
+
+Natural generation
+
+An oxidized copper golem statue generates in abandoned camps.
+
+Post-generation
+Once fully oxidized, a copper golem has a 0.58% chance per tick to become a copper golem statue and take a random pose, provided it is not waxed and is fully located in air (that is, a copper golem cannot turn into a statue while underwater or standing on a partial block such as a slab, as part of its hitbox is not located within an air block). This process takes on average 8.62 seconds. During the transformation, any items held by the copper golem are dropped.
+
+Usage
+Posing
+with a copper golem statue changes its pose, cycling through four poses: standing, sitting, running, and star. , the player's hand must be empty in order to cycle through poses.
+
+Oxidation
+Unwaxed copper golem statues have four stages of oxidation, including the initial normal state. Lightning bolts and axes can remove the oxidation on copper golems statues. Using a honeycomb on a copper golem statue prevents it from oxidizing.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+Reanimation
+Using an axe on an unoxidized unwaxed copper golem statue reanimates it into an unoxidized unwaxed copper golem.
+
+Piston interactivity
+Copper golem statues break when pushed by pistons, cannot be pulled by them and they don't stick to slime blocks or honey blocks.
+
+Redstone component
+A redstone comparator can read the state of a copper golem statue and emit a signal strength based on its pose.
+
+Pose Intensity Default  Sitting  Running  Star
+
+Crafting
+
+Sounds
+
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A copper golem statue has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Advancements
+
+History
+Reveal and mob vote
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+"Waxed Weathered Copper Golem Statue" is the longest name of a block currently in , at 35 characters including spaces and 31 without, surpassing the previously tied record holders of polished blackstone pressure plate and cracked polished blackstone bricks by a single space.
+The longest block names  are "Hardened Light Blue Stained Glass Pane" and "Hardened Light Gray Stained Glass Pane", both having 38 characters including spaces and 33 without. However, these blocks are only available when enabling the "Minecraft Education features" cheat setting when outside of .
+The all-time record  is currently held by "Waxed Lightly Weathered Cut Copper Stairs", at 41 characters including spaces and 36 without, though the block has been renamed since.
+There was a block in April Fools' snapshot 24w14potato with a longer block name, "Quadruple Compressed Poisonous Potato Block", at 43 characters including spaces and 39 without.
+The longest name of any item  is "Lingering Potion of the Turtle Master", sitting at 37 characters including spaces and 32 without.
+
+Gallery
+Renders
+Unoxidized
+
+Exposed
+
+Weathered
+
+Oxidized
+
+Mojang screenshots
+
+Screenshots
+
+In other media
+
+Notes
+
+Navigation
+
+de:Kupfergolemstatue
+es:Estatua de gólem de cobre
+fr:Statue de golem de cuivre
+ja:カッパーゴーレムの像
+ko:구리 골렘 동상
+lzh:銅傀儡俑
+pl:Posąg miedzianego golema
+pt:Estátua de Golem de Cobre
+ru:Статуя медного голема
+uk:Статуя мідного ґолема
+zh:铜傀儡像

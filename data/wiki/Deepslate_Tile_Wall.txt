@@ -1,0 +1,51 @@
+TITLE: Deepslate Tile Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Tile_Wall
+---
+A deepslate tile wall is a decorative wall variant of deepslate tiles that generates in ancient cities and is used for building.
+
+Obtaining
+Breaking
+Deepslate tile walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Deepslate tile walls generate naturally within ancient cities.
+
+Crafting
+
+Crafting recipe: Deepslate Tiles, Deepslate Tiles, Deepslate Tiles, Deepslate Tiles, Deepslate Tiles, Deepslate Tiles arranged in the crafting grid → Deepslate Tile Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Walls
+
+fr:Muret d'ardoise des abîmes carrelée
+ja:深層岩タイルの塀
+ko:심층암 타일 담장
+pt:Muro de ladrilhos de ardósia
+uk:Стіна з глибосланцевих кахлів
+zh:深板岩瓦墙

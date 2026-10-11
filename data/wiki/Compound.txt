@@ -1,0 +1,89 @@
+TITLE: Compound
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Compound
+---
+Compounds are a type of item used in chemistry, which are created from combinations of various elements.
+
+Obtaining
+Compounds can be obtained from the Creative inventory or by creating them in the compound creator. This is done by inserting a certain number of elements corresponding to the compound's chemical formula.
+
+An invalid compound entry will output garbage instead of a functional compound.
+
+List of compounds
+IconCompound nameCompound recipeDescriptionUsesIs only brown when dug up from the Earth and contaminated; actually white when pure. Can be electrolyzed to make aluminum metal. Also the main chemical in corundum crystals, such as rubies and sapphires.Used to craft hardened glass. A colorless highly irritating gas with a sharp suffocating odor. It dissolves easily in water to form ammonium hydroxide solution which can cause irritation and burns. Ammonia gas is easily compressed and forms a clear, colorless liquid under pressure. It is usually shipped as a compressed liquid in steel cylinders. Ammonia is not highly flammable, but containers of ammonia may explode when exposed to high heat.Used to create super fertilizer.Barium sulfate is a metal sulfate with formula BaSO4. Virtually insoluble in water at room temperature, it is mostly used as a component in oil well drilling fluid. It occurs naturally as the mineral barite. It has a role as a radioopaque medium. It is a barium salt, a metal sulfate and an inorganic barium salt.Benzene is an organic chemical compound with the molecular formula C6H6, characterized as a colorless liquid with a sweet odor. It evaporates into the air very quickly and dissolves slightly in water. It is highly flammable and is formed from both natural processes and human activities. Benzene is widely used in the United States; it ranks in the top 20 chemicals for production volume. Some industries use benzene to make other chemicals which are used to make plastics, resins, and nylon and synthetic fibers. Benzene is also used to make some types of rubbers, lubricants, dyes, detergents, drugs, and pesticides. Natural sources of benzene include volcanoes and forest fires. Benzene is also a natural part of crude oil, gasoline, and cigarette smoke.Boron trioxide is the oxide of boron with the formula B2O3. It is a colorless transparent solid, almost always glassy (amorphous), which can be crystallized only with great difficulty. It is also called boric oxide or boria. It has many important industrial applications, chiefly in ceramics as a flux for glazes and enamels and in the production of glasses.Used to craft hardened glass.Calcium bromide is a chemical compound of calcium and bromine. It can be found in drilling fluids, neuroses medication, freezing mixtures, food preservatives, photography and fire retardants.C9H20 is the chemical formula for nonane. Nonane appears as a clear colorless liquid with a sharp odor. Flash point 86 °F. Insoluble in water and less dense than water. Contact may irritate eyes and possibly injure the cornea. May irritate skin. Vapor inhalation may cause irritation. Prolonged inhalation may lead to breathing difficulty. Ingestion causes abdominal discomfort, nausea and diarrhea.C5H5NO2 (Cyanoacrylate) is the chemical formula for methyl cyanoacrylate, one of the cyanoacrylate glues ("superglue"); its condensed formula is CH2=C(CN)COOCH3.Hydrogen peroxide is a chemical compound with the formula H2O2. In its pure form, it is a very pale blue liquid that is slightly more viscous than water. It is used as an oxidizer, bleaching agent, and antiseptic, usually as a dilute solution in water for consumer use and in higher concentrations for industrial use. Used to craft glow sticks.In chemistry, hypochlorite, or chloroxide is an anion with the chemical formula ClO⁻. It combines with a number of cations to form hypochlorite salts. Common examples include sodium hypochlorite and calcium hypochlorite. The Cl-O distance in ClO⁻ is 1.69 Å.Iron(II) sulfide or ferrous sulfide is one of a family of chemical compounds and minerals with the approximate formula FeS. Iron sulfides are often iron-deficient non-stoichiometric. All are black, water-insoluble solids.C5H8 (Cyclopentene) is the chemical formula for isoprene, which polymers are the main components of natural rubber; its condensed formula is CH2=C(CH3)−CH=CH2.Used to craft balloons.Lithium hydride is an inorganic compound with the formula LiH. This alkali metal hydride is a colorless solid, although commercial samples are grey. Characteristic of a salt-like hydride, it has a high melting point, and it is not soluble but reactive with all protic organic solvents.Luminol (C8H7N3O2) is a chemical that exhibits chemiluminescence, with a blue glow, when mixed with an appropriate oxidizing agent. Luminol is a white-to-pale-yellow crystalline solid that is soluble in most polar organic solvents, but insoluble in water. Forensic investigators use luminol to detect trace amounts of blood at crime scenes, as it reacts with the iron in hemoglobin. Biologists use it in cellular assays to detect copper, iron, cyanides, as well as specific proteins via western blotting. When luminol is sprayed evenly across an area, trace amounts of an activating oxidant make the luminol emit a blue glow that can be seen in a darkened room. The glow only lasts about 30 seconds, but can be documented photographically. The glow is stronger in areas receiving more spray; the intensity of the glow does not indicate the amount of blood or other activator present. Used to craft glow sticks.Lye is an alkali metal sodium hydroxide. It was obtained by using rainwater to leach wood ashes, which are strongly alkaline and highly soluble in water, of their potassium hydroxide, producing lye water, a caustic basic solution. Historically, it was used to make cleaning products for health and safety—such as soap, detergent, degreaser, water treatment. It also bleached pulp in paper production, and was used to dissolve animal carcasses. It was used in food preperation to cure, preserve, and tenderize food, and beauty products involving the skin and hair relaxing. Magnesium nitrate refers to inorganic compounds with the formula Mg(NO3)2x, where x = 6, 2, and 0. All are white solids. The anhydrous material is hygroscopic, quickly forming the hexahydrate upon standing in air. All of the salts are very soluble in both water and ethanol.Magnesium oxide is used for relief of heartburn and indigestion, as an antacid, magnesium supplement, and as a short-term laxative. It is also used to improve symptoms of indigestion. Side effects of magnesium oxide may include nausea and cramping.Polyethylene terephthalate is the most common thermoplastic polymer resin of the polyester family and is used in fibres for clothing, containers for liquids and foods, and thermoforming for manufacturing, and in combination with glass fibre for engineering resins.Used to craft glow sticks.Potassium iodide (KI) is a type of iodine that is not radioactive. It can be used to help block one type of radioactive material, radioactive iodine, from being absorbed by the thyroid. In some radiation emergencies, radioactive iodine may be released into the environment and enter the body through breathing or eating.C18H35NaO2 is the chemical formula of sodium stearate, the most common soap. Sodium stearate is the most common fatty acid salt in today's soaps. Common sources of the starting material, stearic acid, are vegetable triglycerides obtained from coconut and palm oils and animal triglycerides from tallow. The names stearic and stearate are derived from stéar, the Greek word for tallow.Sodium Acetate is chemically designated CH3COONa, a hygroscopic powder very soluble in water. Sodium acetate may be used as an additive in food, industry, concrete manufacture, heating pads and in buffer solutions. Medically, sodium acetate is important component as an electrolyte replenisher when given intravenously.Used to create ice bomb.Sodium fluoride is an inorganic compound with the formula NaF. It is a colorless or white solid that is readily soluble in water. It is used in trace amounts in the fluoridation of drinking water to prevent tooth decay, and in toothpastes and topical pharmaceuticals for the same purpose.Sodium hydride is the chemical compound with the empirical formula NaH. This alkali metal hydride is primarily used as a strong yet combustible base in organic synthesis. NaH is a saline hydride, composed of Na⁺ and H⁻ ions, in contrast to molecular hydrides such as borane, silane, germane, ammonia, and methane. Sodium hypochlorite is an alkaline inorganic chemical compound with the formula NaOCl. It is commonly known in a dilute aqueous solution as bleach or chlorine bleach. It is the sodium salt of hypochlorous acid, consisting of sodium cations and hypochlorite anions.Used to create bleach.Sodium oxide is a chemical compound with the formula Na2O. It is used in ceramics and glasses. It is a white solid but the compound is rarely encountered.Sulfate is a sulfur oxoanion obtained by deprotonation of both OH groups of sulfuric acid. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite and a cofactor. It is a sulfur oxoanion, a sulfur oxide, an inorganic anion and a divalent inorganic anion. It is a conjugate base of a hydrogensulfate.H2O (water) is an oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms. It has a role as an amphiprotic solvent, a member of greenhouse gas, a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is an oxygen hydride, a mononuclear parent hydride and an inorganic hydroxy compound. It is a conjugate base of an oxonium. It is a conjugate acid of a hydroxide.
+
+Chlorides
+All chlorides (except salt) are used for crafting colored torches and sparklers.
+IconCompoundChemical formulaNotesUsesSodium chloride, commonly known as edible salt, is an ionic compound with the chemical formula NaCl, representing a 1:1 ratio of sodium and chlorine ions. It is transparent or translucent, brittle, hygroscopic, and occurs as the mineral halite. Used to create heat block.Calcium chloride is an inorganic compound, a salt with the chemical formula CaCl2. It is a white crystalline solid at room temperature, and it is highly soluble in water. It can be created by neutralising hydrochloric acid with calcium hydroxide.Used to craft orange sparkler.Cerium(III) chloride, also known as cerous chloride or cerium trichloride, is a compound of cerium and chlorine. It is a white hygroscopic salt; it rapidly absorbs water on exposure to moist air to form a hydrate, which appears to be of variable composition, though the heptahydrate CeCl3·7H2O is known.Used to craft blue torch and blue sparkler.Mercury(II) chloride, historically also known as sulema or corrosive sublimate, is the inorganic chemical compound of mercury and chlorine with the formula HgCl2, used as a laboratory reagent. It is a white crystalline solid and a molecular compound that is very toxic to humans.Used to craft red torch and red sparkler.Potassium chloride is a medication used in the management and treatment of hypokalemia. It is in the electrolyte supplement class of medications. This activity outlines the indications, action, and contraindications for potassium chloride as a valuable agent in the management and treatment of hypokalemia.Used to craft purple torch and purple sparkler.Tungsten hexachloride is an inorganic chemical compound of tungsten and chlorine with the chemical formula WCl6. This dark violet-blue compound exists as volatile crystals under standard conditions. It is an important starting reagent in the preparation of tungsten compounds.Used to craft green torch and green sparkler.
+
+Natural compounds
+These are compounds which can be obtained naturally in Minecraft.
+
++IconCompoundChemical formula Natural sourceMethodNotesCharcoalLogs or woodSmeltingThe chemical formula C7H4O is sometimes used to describe the approximate composition of charcoal.Ink SacSquidsKilling squids FeSO4 is the chemical formula of iron(II) sulfate or , normally found as a hydrated salt with the formula FeSO4·xH2O, and has been used in the manufacture of various inks for centuries. Its blue-green color approximates glow squid ink. Actual squid ink (and other cephalopod inks) is composed mainly of  and mucus, with other compounds in a variety of concentrations dependent on the species.SugarSugar canes or honey bottlesHarvesting and craftingC6H12O6 is the chemical formula of glucose and fructose, as well as a number of other simple sugars (common table sugar is instead sucrose, a complex sugar made of glucose and fructose with the chemical formula C12H22O11).
+
+Garbage
+Garbage is considered a "compound", but the only way to produce it is to activate the lab table when its inputs are an invalid recipe. It has no uses.
+
+Usage
+Certain compounds are used as ingredients in crafting or lab table experiments. Natural compounds have uses outside of chemistry, detailed in their respective articles.
+
+Crafting ingredient
+
+Chloride coloring
+
+Lab table ingredients
+ResultMaterials neededBleachWater ×3, Sodium Hypochlorite ×3Heat BlockIron, Water, Charcoal, SaltIce BombSodium Acetate ×4Super FertilizerAmmonia, PhosphorusMagnesium SaltsMagnesium, Salt
+Elephant Toothpaste
+Result Materials neededElephant ToothpasteSoap, Potassium iodide, Hydrogen peroxide
+When combining Soap, Potassium Iodide and Hydrogen Peroxide, elephant toothpaste particles and the garbage item are created.
+thumb|center|Lab table erupting elephant toothpaste
+
+Sounds
+Sounds are produced when a lab table creates garbage.
+
+Data values
+ID
+
+Item data
+
+Compounds uses the following data values:
+
+Data values 769~806 result in a transparent existing compound item. Cannot be obtained via .
+Data values 39~768/807+ become transparent unused compounds. Cannot be obtained via .
+Data values 11, 12, 34 are assigned to unused compounds but can be obtained via .
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Unused compound textures
+In the chemistry resource pack folder, there are numerous compound textures which are not used in the game. Note: a compound item with a data value of 38 has the blue_flask texture and is called "item.compound..name". On realms the salt compound is called "Ivory Tusk".
+
+Gallery
+Screenshots
+
+See also
+
+Crafting
+
+Brewing
+
+Navigation
+
+Category:Minecraft Education items
+
+de:Verbindung
+es:Compuestos químicos
+fr:Corps composé
+it:Composto
+ja:化合物
+ko:화합물
+pl:Związki chemiczne
+pt:Composto
+ru:Соединение
+th:สารประกอบ
+uk:Складова
+zh:化合物

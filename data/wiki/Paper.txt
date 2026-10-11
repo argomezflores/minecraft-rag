@@ -1,0 +1,73 @@
+TITLE: Paper
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Paper
+---
+Paper is an item crafted from sugar cane, required for crafting books, maps, cartography tables, firework rockets, name tags, and banner patterns.
+
+Obtaining
+Generated loot
+
+Crafting
+
+Crafting recipe: Sugar Cane, Sugar Cane, Sugar Cane arranged in the crafting grid → Paper,3.
+
+Villager gifts
+, cartographer villagers may give paper to players with the Hero of the Village effect.
+
+Usage
+Crafting ingredient
+
+Cartography table usage
+Paper can be used to zoom out a map by one level in a cartography table. This method of zooming out map is 8 times more efficient than using a crafting table. , it can also be used to create an empty map or an empty locator map. This is also cheaper than the equivalent crafting recipes.
+
+Trading
+
+Anvil usage
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The Taking Inventory article on paper cites  as the inspiration for the crafting recipe.
+
+Gallery
+Mojang screenshots
+
+In other media
+
+External links
+
+Navigation
+
+cs:Papír
+de:Papier
+es:Papel
+fr:Papier
+hu:Papír
+it:Carta
+ja:紙
+ko:종이
+lzh:紙
+nl:Papier
+pl:Papier
+pt:Papel
+ru:Бумага
+th:กระดาษ
+uk:Папір
+zh:纸

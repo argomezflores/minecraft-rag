@@ -1,0 +1,87 @@
+TITLE: Apple
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Apple
+---
+Apples are food items that rarely drop from certain leaves and can be eaten by the player or crafted into golden apples.
+
+Obtaining
+Block loot
+
+Oak and dark oak leaves have a 0.5% () chance of dropping an apple when decayed or broken, but not if burned. Breaking leaves with a tool enchanted with the Fortune enchantment increases the chances of dropping an apple: 0.556% () with Fortune I, 0.625% () with Fortune II, and 0.833% () with Fortune III.
+
+Generated loot
+
+Trading
+
+Usage
+
+To eat an apple, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 2.4 saturation.
+
+Unlike most foods, apples can be eaten with a full hunger bar .
+
+Apples can be used to heal, grow, and increase temper of horses, donkeys, and mules. , due to a bug, skeleton horses (in their hostile state; being ridden by skeletons) can also be fed apples.
+
+Crafting ingredient
+
+Composting
+Placing an apple into a composter has a 65% () chance of raising the compost level by 1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+History
+
+Before Minecraft
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Prior to the texture update in Java Edition 1.4.2, the sprite of the apple was the same one used in Notch's game Legend of the Chambered.
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Plants
+Category:Food
+
+cs:Jablko
+de:Apfel
+es:Manzana
+fr:Pomme
+hu:Alma
+it:Mela
+ja:リンゴ
+ko:사과
+lzh:林檎
+nl:Appel
+pl:Jabłko
+pt:Maçã
+ru:Яблоко
+th:แอปเปิ้ล
+uk:Яблуко
+zh:苹果

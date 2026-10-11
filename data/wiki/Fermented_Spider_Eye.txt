@@ -1,0 +1,70 @@
+TITLE: Fermented Spider Eye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Fermented_Spider_Eye
+---
+A fermented spider eye is an item used to corrupt the effects of certain potions via brewing, and it is required to brew potions of Weakness.
+
+Obtaining
+Crafting
+
+Usage
+Fermented spider eyes can be used to brew potions with negative effects, as well as potions of Invisibility. As a general rule, it inverts the effect of the potion (e.g. Speed to Slowness, Instant Health to Instant Damage).
+
+Brewing ingredient
+
+Brewing recipe: Fermented Spider Eye + Water Bottle → Potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Strength;Awkward Potion;Mundane Potion;Thick Potion → Potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Poison;Potion of Healing → Potion of Harming.
+
+Brewing recipe: Fermented Spider Eye + Potion of Swiftness;Potion of Leaping → Potion of Slowness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Night Vision → Potion of Invisibility.
+
+Brewing recipe: Fermented Spider Eye + Long Mundane Potion → Potion of Weakness Extended.
+
+Trading
+Wandering traders occasionally purchase a fermented spider eye for 3 emeralds.
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Gallery
+In other media
+
+Issues
+
+Navigation
+
+cs:Zkvašené pavoučí oko
+de:Fermentiertes Spinnenauge
+es:Ojo de araña fermentado
+fr:Oeil d'araignée fermenté
+it:Occhio di ragno fermentato
+ja:発酵したクモの目
+ko:발효된 거미 눈
+lzh:酵化蛛目
+nl:Gefermenteerd spinnenoog
+pl:Sfermentowane oko pająka
+pt:Olho de Aranha Fermentado
+ru:Приготовленный паучий глаз
+th:ตาแมงมุมดอง
+uk:Оброблене павуче око
+zh:发酵蛛眼

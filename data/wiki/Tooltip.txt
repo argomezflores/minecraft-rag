@@ -1,0 +1,135 @@
+TITLE: Tooltip
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Tooltip
+---
+thumb|An example of an item tooltip with enchantments and attributes
+A tooltip is extra information that appears when hovering over or focusing on items or certain UI elements.
+
+Types of tooltips
+
+Item tooltips
+When hovering over an item with the cursor while in the inventory or a container screen, a tooltip with the item’s name appears next to the cursor. When playing with touch controls, tapping an item displays its tooltip on the bottom of the screen. Some items display extra information on their tooltips, such as enchantments and shulker box contents. , basic item tooltips are also visible in the "Items" section of the statistics menu when hovering over a block or item on the left side of the screen.
+
+, advanced tooltips, including item IDs and the exact remaining durability of tools, can be displayed by pressing the debug hotkey .
+
+Description of item tooltip lines
+
+Java Edition
+The table below describes all possible tooltip lines , including these shown when advanced tooltips are enabled. Note that table preserves the order of these lines too.
+
+In "Content" column, cells with yellow background means the exact text displayed. Additionally, cells marked "[...]" means that this field has variable lines count.
+
++ All available information displayed on tooltips Order Content Description  0 Item name The item name.Some data components are able to alter the default item name (note that minecraft:custom_name component has highest priority and overrides any other alterations).  1  Graphical representation of the bundle's contents and its fullness bar. Shown only on bundle items.If bundle is empty, the description text will be printed, otherwise bundle contents stored in minecraft:bundle_contents will be shown.This is the only case where information is presented in other form than text.  Bundle contents Bundle fullness bar 2 Creative inventory section Section name to which the item belongs.Shown when player is in Creative mode, and only in Search Items, Survival Inventory and Saved Hotbars tabs.Note that in most cases this text will not appear if item has additional data components .  3  Description of smithing template, shown only on smithing template items.    Applicable items  Ingredients 4 Painting's name Painting description, shown when item ID is minecraft:painting and have valid minecraft:painting/variant component.  Painting's author Painting's dimensions 5  Disc fragment description, shown when item ID is   6 Tropical fish's pattern The pattern of tropical fish, defined by minecraft:tropical_fish/pattern component.  Tropical fish's base and pattern color The base and pattern colors of tropical fish, defined by minecraft:tropical_fish/base_color and minecraft:tropical_fish/pattern_color components.  7 Goat horn's instrument Goat Horn instrument, defined by minecraft:instrument component.  8  Shown when item has minecraft:map_id component pointing to a unknown map data.  Map ID Shown when item has valid minecraft:map_id component, but it has neither the  nor the  component.   This line appears only if map with specified  locked or  is 0 (LOCK).See this article for more information.  Map scaling Additional information about map scaling and level.  Map level 9 Number of bees The number of bees (entities) hiding inside, defined by minecraft:bees component. Displayed naturally on beehives and bee nests.  10  Indicates that this item has minecraft:container_loot component.  11 1st item name + amount Item names "held" in first five slots of this item, defined by minecraft:container component.When item count is 6 or higher, the line with remaining items will be shown.  2nd item name + amount 3rd item name + amount 4th item name + amount 5th item name + amount Count of the rest items (not their total amount) 12 1st banner pattern Six first banner patterns, defined by minecraft:banner_patterns component.Note that banners with more than 6 patterns are uncraftable, and can be obtained only with commands.  2nd banner pattern 3rd banner pattern 4th banner pattern 5th banner pattern 6th banner pattern 13  Materials used to craft this decorated pot, defined by minecraft:pot_decorations component.  Front side material Left side material Right side material Rear side material 14 Book's author Shown when minecraft:written_book_content component is present. Meant for written books.   Book's generation 15 Projectile name A section describing charged projectile, defined by minecraft:charged_projectiles component. Meant to be used with crossbows.Note that this section may appear multiple times, if the item contains multiple projectiles loaded.  Projectile's tooltip lines [...] 16 Flight duration Shown when item has flight_duration tag in minecraft:fireworks component.  Firework effects[...] All firework effects applied with firework stars.  17  Shown when item has minecraft:potion_contents component, but is empty.  Effect name A single primary effect to be applied. Shown when item has filled potion tag in minecraft:potion_contents component.  Custom effects[...] List of custom effects to be applied. Shown when item has entries in custom_effects list in minecraft:potion_contents component.   A section describing how item will affect on player's attributes when consumed.   Attributes[...] 18 Music disc name Shown when item has minecraft:jukebox_playable component with valid value.  19  Armor trim upgrade, defined by minecraft:trim component.  Trim pattern Trim material 20 Stored enchantments[...] Enchantments stored in minecraft:stored_enchantments component. Meant to be used for enchanted books.  21 Applied enchantments[...] Enchantments applied on this item, stored in minecraft:enchantments component.  22  Shown when item has minecraft:dyed_color component.  Color A hexadecimal color code. Replaces text above, if advanced tooltips are enabled.  23 Lore[...] Custom text shown in tooltip, defined by minecraft:lore component.By default it has "dark_purple" color and is italicized.  24  Attribute modifiers applied when this item is held or equipped, defined in minecraft:attribute_modifiers component.Note that this section may appear multiple times, if the component above contains many modifiers with different slot tags.  "When (...)" field  Attributes[...] 25  Shown when item is unbreakable, using minecraft:unbreakable component.  26   Shown when item has minecraft:suspicious_stew_effects component, but is empty.  Effects[...] List of effects passed in minecraft:suspicious_stew_effects list.   A section describing how item will affect on player's attributes when consumed.   Attributes[...] 27 Honey amount Shown when item has honey_level tag in minecraft:block_state component. Displayed naturally on beehives and bee nests.  28  Shown in Peaceful mode when item has id tag in minecraft:entity_data component, pointing to a mob which is not allowed in Peaceful.See this article for more information.  29  Shown when item ID is minecraft:spawner or minecraft:trial_spawner.    Spawner entity name Shown when item ID is minecraft:spawner or minecraft:trial_spawner and has SpawnData or spawn_data tag respectively in minecraft:block_entity_data component.  30  Shows a list of blocks defined in minecraft:can_break component that can be mined with this item.   Block names[...] 31  Shows a list of blocks defined in minecraft:can_place_on component on which this block can be placed.   Block names[...] 32 Durability Remaining and total durability of the tool item. Hidden if item contains minecraft:unbreakable component.  33 Item ID Internal item ID.  34 Number of components Total number of data components.  35  Usage warning, shown on block items with id tag in minecraft:block_entity_data component.This is the only section that cannot be hidden using minecraft:tooltip_display component.
+
+Bedrock Edition
+tooltips display the following information. They are formatted with § to make them show different colors or italics.
+
+Text in bold is directly shown as such on the tooltip.
+
+Item name
+Depending on the rarity, this uses a color code.
+Custom names created by the player, such as by renaming in an anvil or signing a book, are in italics (§o). These can override formatting codes.
+The item name can be variable, such as for buckets of tropical fish and filled maps.
+Bundle contents (not in Creative inventory/recipe book):
+When empty, displays "§8 Can hold a mixed stack of items".
+With items, displays the first 12 item types in slots that can be scrolled over, displaying a second tooltip containing only the selected item name above the bundle tooltip. With 13 item types or more, displays the first 11 items and an unselectable counter of the remaining item quantity.
+Below, always shows the progress bar.
+Map information:
+Level 0/4 (or any other available level)
+Locked (only when the map is locked)
+§9 Item category from the Creative inventory or recipe book, only shown when the "All" tab of the menu is opened.
+Can be "Construction", "Equipment", "Items", or "Nature". Not shown when any of the above elements are displayed.
+§9 Item description:
+
+Smithing template description:
+§7 Smithing Template
+line break
+§7 Applies to:
+§9 Armor (on armor trims) / Diamond Equipment (on netherite upgrades)
+§7 Ingredients:
+§9 Ingots & Cristals (on armor trims) / Netherite Ingot (on netherite upgrades)
+§7 Goat horn instrument (e.g. Ponder)
+§7 Shulker box contents:
+Displays the item names of the first 5 items in the shulker box followed by the stack size (e.g. String x64).
+Displayes the amount of stacks not shown (e.g. and 6 more...)
+Banner patterns:
+Displays all banner patterns preceded by their color.
+§7 Decorated pot configuration:
+line break
+Displays all items the decorated pot has been crafted with, either pottery sherds or bricks. The order is front, left, right, rear.
+§7 Written book information:
+Author, can be chosen in the book and quill. This can override formatting codes in the tooltip.
+Generation (Original, Copy of original, or Copy of a copy)
+Firework information:
+Flight duration (e.g. Flight Duration: 3)
+All firework star effects, also shown per firework star. Each firework star effect is shown as follows, multiple can be on one firework rocket:
+Shape (Small Ball, Large Ball, Burst, Star-shaped, or Creeper-shaped)
+All colors (e.g. Black, Light Blue, Gray, Gray, Lime, Pink)
+Trail, if applied
+Twinkle, if applied
+Effect information, shown on potions and suspicious stew in Creative):
+§7 Effect name, level (if higher than 1), and duration (e.g. Slowness IV (0:20)). When the effect is negative, shown in red (§c). There can be multiple effects.
+line break
+§5 When Applied:
+Attribute information, e.g. (+2.99 Attack Damage). When positive, color coded blue (§9), when negative color coded red (§c). Can only show Speed and Attack Damage.
+§7 Music disc name (e.g. C418 - strad)
+Armor trim information:
+§7 Upgrade:
+Armor trim name (e.g. Tide Armor Trim)
+Material (e.g. Diamond Material)
+Material and armor trim name (e.g. Diamond Tide Trim)
+These are color coded depending on the material used with unique colors.
+§7 Enchantments (e.g. Feather Falling IV), can have multiple. Curses are color coded red (§c).
+Attribute modifiers:
+line break
+§7 Required armor slot (e.g. When on Head:)
+§9 Attribute modifier (e.g. +11 Armor). Only shows Armor, Armor Toughness, Knockback Resistance, Attack Damage, Chop Efficiency, Mining Efficiency, and Dig Efficicency.
+Dyed, shown on dyed leather armor and wolf armor. Preceded by a line break.
+NBT components:
+can_place_on:
+can_destroy:
+lock_in_inventory: ☆ Can't Drop Items can't be:
+- dropped
+- removed
+- crafted with
+lock_in_slot: ★ Can't Move Items can't be:
+- moved
+- dropped
+- removed
+- crafted with
+keep_on_death: This item is not lost on death
+§o§5 (+DATA)
+Shown on items obtained using , making them contain data (such as a command block with commands).
+
+Effect tooltips
+
+thumb|An effect tooltip.
+When effects in the inventory are displayed in the compact style, hovering over an effect icon displays more information about that effect.
+
+Option tooltips
+thumb|An option tooltip.
+, when certain buttons, text fields, and sliders are hovered over, or focused on when navigating with , they show a description in the form of a tooltip. The “Key Binds” options menu also has tooltips to provide details on conflicts between keys.
+
+, most options have descriptions that are always visible instead of tooltips. Menu tooltips are only used in the game menu for the small buttons on the bottom, and a message with the tooltip texture appears in the chat if there are unread messages below.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Examples
+
+Notes
+
+References
+
+Navigation
+
+ja:ツールチップ
+pt:Descrição
+zh:提示框

@@ -1,0 +1,87 @@
+TITLE: Potion of Regeneration
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Regeneration
+---
+A potion of Regeneration is a potion that provides Regeneration when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Ghast Tear + Awkward Potion → Potion of Regeneration.
+
+Brewing recipe: Redstone Dust + Potion of Regeneration → Potion of Regeneration Extended.
+
+Brewing recipe: Glowstone Dust + Potion of Regeneration → Potion of Regeneration Enhanced.
+
+Brewing recipe: Gunpowder + Potion of Regeneration Extended → Splash Potion of Regeneration Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Regeneration Extended → Lingering Potion of Regeneration Extended.
+
+Mob loot
+A witch has an 8.5% chance to drop a potion of Regeneration if it dies while drinking the potion.
+
+Generated loot
+Each trial chambers supply chest can generate with 2 potions of Regeneration  in it. Each ancient city
+
+supply chest can generate with 1-3 potions of regeneration in it.
++ Exact chances # of potions  Chance-->
+0         2         4         6         8  1 in  10  1 in
+
+Usage
+Potions of Renegeration allow the player to quickly regenerate health. Splash and lingering potions of Regeneration work on most mobs and heal those mobs just as much as they heal players.
+
+Effect
+Potion type Tier Duration Effect DescriptionPotion1 0:45 Restores  health over time,  every 50 ticks (2.5 seconds). 1:302:00 Restores  or  health over time,  every 50 ticks (2.5 seconds). 2 0:22 Restores  health over time,  every 25 ticks (1.25 seconds).Splash Potion1 0:45 Restores  health over time,  every 50 ticks (2.5 seconds). 1:302:00 Restores  or  health over time,  every 50 ticks (2.5 seconds). 2 0:22 Restores  health over time,  every 25 ticks (1.25 seconds).Lingering Potion1 0:11The amount of health regenerated depends how long the entity is in the cloud. 0:220:30 2 0:05
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Regeneration; Lingering Potion of Regeneration Enhanced; Lingering Potion of Regeneration Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Regeneration, 8; Arrow of Regeneration Enhanced, 8; Arrow of Regeneration Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended  Level II Potion of Regeneration  14  15  16
+
+Item data
+
+:
+
+Regular, splash, and lingering potions all use a "" tag inside "" component to indicate the potion type.
+PotionRegularLevel IIExtended Potion of Regeneration  regeneration  strong_regeneration  long_regeneration
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+External links
+Taking Inventory: Potion – Minecraft.net on May 11, 2022
+Minecraft Potions - A Visual Guide (version 1.9)
+
+Navigation
+
+Category:Potions
+
+fr:Potion de régénération
+pt:Poção de Regeneração
+zh:再生药水

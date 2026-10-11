@@ -1,0 +1,47 @@
+TITLE: Cinnabar Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cinnabar_Stairs
+---
+Cinnabar stairs are a decorative stairs variant of cinnabar used for building.
+
+Obtaining
+Breaking
+Cinnabar stairs drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cinnabar, Cinnabar, Cinnabar, Cinnabar, Cinnabar, Cinnabar arranged in the crafting grid → Cinnabar Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+es:Escaleras de cinabrio
+fr:Escalier en cinabre
+ja:辰砂の階段
+ko:진사 계단
+pt:Escadas de Cinábrio
+ru:Киноварные ступени
+uk:Кіноварні сходи
+zh:朱砂楼梯

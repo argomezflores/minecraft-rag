@@ -1,0 +1,61 @@
+TITLE: Cobblestone Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cobblestone_Slab
+---
+A cobblestone slab is a decorative slab variant of cobblestone that generates in overworld structures and is used for building.
+
+Obtaining
+Breaking
+Cobblestone slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Cobblestone slabs generate as part of plains villages, pillager outposts, and woodland mansions.
+
+Crafting
+
+Crafting recipe: Cobblestone, Cobblestone, Cobblestone arranged in the crafting grid → Cobblestone Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a cobblestone slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle de pierres
+ja:丸石のハーフブロック
+ko:조약돌 반 블록
+pt:Laje de Pedregulho
+uk:Плита з кругляку
+zh:圆石台阶

@@ -1,0 +1,66 @@
+TITLE: Beetroot Soup
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Beetroot_Soup
+---
+Beetroot soup is an unstackable food item.
+
+Obtaining
+Chest Loot
+
+Crafting
+
+Usage
+
+Beetroot soup can be eaten to restore  hunger points and 7.2 saturation, the same as cooked chicken and mushroom stew. After eating, the empty bowl remains, similarly to mushroom stew, suspicious stew, and rabbit stew.
+
+Sounds
+
+Data values
+
+ID
+:
+
+:
+
+Advancements
+
+History
+Tweet
+
+Bedrock Edition
+
+Java Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Food
+
+de:Borschtsch
+es:Estofado de remolacha
+fr:Soupe de betteraves
+it:Zuppa di barbabietole
+ja:ビートルートスープ
+ko:비트 수프
+lzh:甘藜羹
+nl:Bietensoep
+pl:Barszcz czerwony
+pt:Ensopado de Beterraba
+ru:Свекольный суп
+th:ซุปบีตรูต
+uk:Борщ
+zh:甜菜汤

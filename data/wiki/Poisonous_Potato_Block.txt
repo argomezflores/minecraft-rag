@@ -1,0 +1,41 @@
+TITLE: Poisonous Potato Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Poisonous_Potato_Block
+---
+A poisonous potato block is a compacted block made of poisonous potatoes, only present in 24w14potato.
+
+Obtaining
+Breaking
+A poisonous potato block can be broken using anything, but a pickaxe is the fastest. Poisonous potato blocks always drop themselves when mined.
+
+Note: No version exists with both copper tools and this block, but the breaking time can be calculated from the block's hardness.
+
+Natural generation
+Poisonous potato blocks generate naturally as part of potato geodes.
+
+Crafting
+
+Crafting recipe: Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato arranged in the crafting grid → Poisonous Potato Block.
+
+Usage
+Crafting ingredient
+
+Crafting recipe: Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block, Poisonous Potato Block arranged in the crafting grid → Compressed Poisonous Potato Block.
+
+Crafting recipe: Poisonous Potato Block arranged in the crafting grid → Poisonous Potato,9.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Compacted blocks
+Category:Natural blocks
+
+ja:Poisonous Potato Block
+zh:毒马铃薯块

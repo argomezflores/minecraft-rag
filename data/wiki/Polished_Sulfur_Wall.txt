@@ -1,0 +1,48 @@
+TITLE: Polished Sulfur Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Sulfur_Wall
+---
+A polished sulfur wall is a decorative wall variant of polished sulfur.
+
+Obtaining
+Breaking
+Polished sulfur walls drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Sulfur, Polished Sulfur, Polished Sulfur, Polished Sulfur, Polished Sulfur, Polished Sulfur arranged in the crafting grid → Polished Sulfur Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+es:Muro de azufre pulido
+fr:Muret de soufre poli
+ja:磨かれた硫黄の塀
+pt:Muro de Enxofre Polido
+ru:Ограда из полированной серы
+uk:Стіна з полірованої сірки
+zh:磨制硫黄墙

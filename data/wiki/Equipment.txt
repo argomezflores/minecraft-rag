@@ -1,0 +1,33 @@
+TITLE: Equipment
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Equipment
+---
+Equipment refers to items that can be inserted into a specialized slot in a mob's inventory in order to change certain aspects of its behavior and appearance. Equipment objects typically do not flash red when the mob takes damage and remain visible if the mob has the Invisibility effect.
+
+Specification
+Custom equipment can be defined and referenced by the equippable item component.
+
+Equipment definitions are stored in the assets/<namespace>/equipment directory of a resource pack.
+
+: The root tag.
+: Layer types for this equipment model. If a layer is omitted, the armor piece does not render when in the respective slot (with the exception of the head slot, where the regular item model is rendered instead).
+: The layers for this layer type.
+: A namespaced id pointing to a texture for this layer. namespace:path resolves to assets/<namespace>/textures/entity/equipment/<layer_type>/<path>.png.
+: (optional) Specifies how this layer behaves when the item is dyed. An item is considered as "dyed" when it has the dyed_color data component.
+: (optional) An rgb int in decimal representation. The color to tint this layer if the item is undyeable or not dyed. If this is not present and the item is not dyed, the layer is hidden.
+: (optional, default: false) If set to true, the layer texture is overridden by a texture given by the player. This is currently used only for the wings layer type, where the player's cape texture is used instead if this is set to true.
+
+Equipment Layer Types
+Equipment layer types are used for the following inventory slots:
+
+Equipment model layer type Inventory slots  A wolf's  slot.  A horse's or zombie horse's  slot.  A llama's or trader llama's  slot.  A humanoid's  or  or  slot.  A humanoid's  slot.  A humanoid's  slot if the equipment has the glider data component.  A pig's  slot.  A strider's  slot.  A camel's  slot.  A horse's  slot.  A donkey's  slot.  A mule's  slot.  A skeleton horse's  slot.  A zombie horse's  slot.  A happy ghast's  slot.A nautilus or zombie nautilus's  slot.A nautilus or zombie nautilus's  slot.A camel husk's  slot. A baby humanoid's  or  or  or  slot.
+
+History
+
+Navigation
+
+Category:Gameplay
+
+de:Ausrüstungsplatz
+pt:Equipamento
+zh:装备资产

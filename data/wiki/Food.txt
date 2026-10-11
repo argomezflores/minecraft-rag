@@ -1,0 +1,194 @@
+TITLE: Food
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Food
+---
+thumb|A player eating a cooked porkchop in third-person view. Animation is available in Bedrock Edition only, does not appear in Java Edition.
+thumb|A player eating bread  (first-person view)
+
+Food refers to consumable items that, when eaten, restore hunger and saturation points, sometimes giving status effects.
+
+Eating
+thumb|The consumption time difference between a honey bottle (2 seconds), bread (1.6 seconds), and dried kelp (0.8 seconds)
+Eating is the process of consuming food items. Eating a food item requires holding , and takes an amount of time dependent on the food's consumption time value.
+
+Consumption time
+Eating (or drinking) a consumable takes , with exceptions: Dried kelp takes half the time (), and honey bottles take 25% longer (). Cake is a block and thus cannot be eaten in the hand, requiring the player to place it down and then  it.
+
+Eating while at full hunger
+In Survival, food cannot be eaten while already at full hunger, with the exception of chorus fruit, golden apples, enchanted golden apples, honey bottles, and suspicious stew. This also applies to potions, water bottles, and milk buckets. In Creative mode and Peaceful difficulty, any food can be consumed at any time.
+
+Hunger
+thumb|350px|The hunger bar is shown above the hotbar to the right of the health bar.
+
+Hunger is a value that determines healing, whether or not the player can sprint, and whether or not the player is starving. Hunger is restored by eating food items. Hunger is lost by healing or by performing energy-intensive actions that exhaust the player, and is the second value to be consumed by it, after saturation.
+
+The player's current hunger value is represented by the hunger bar (), which displays above the hotbar on the right side, opposite of the health bar. Each hunger point is represented by half a hunger icon (), and the maximum hunger value is 20. Hunger points can also be restored by applying the Saturation status effect. The hunger value does not drain on Peaceful difficulty, and always remains at the maximum value of 20.
+
+Natural regeneration
+thumb|Gaining natural regeneration by being at  or above
+If the hunger value is at 18 () or above, or the saturation value is non-zero, the player's health naturally regenerates every 4 seconds (80 ticks). Saturation is used first, and then once fully drained, hunger is used instead. When the hunger value drops to 17 () or below, natural regeneration stops.
+
+Sprinting
+
+If the hunger value is at 6 () or below, the player loses the ability to sprint until the hunger value exceeds 7 .
+
+Starvation
+thumb|Taking starvation damage due to being at
+If the hunger value reaches 0 (), the player begins to lose health due to starvation. Starvation damages the player by  every 4 seconds (80 ticks). Starvation damage ignores armor and armor toughness, the Protection enchantment, and the Resistance effect. Starvation damage stops taking effect when reaching certain health thresholds on certain difficulties.
+On Easy difficulty, starvation damage stops when the player's health is at  or below.
+On Normal difficulty, starvation damage stops when the player's health is at  or below.
+On Hard difficulty, starvation damage does not stop at any health threshold.
+
+Food hunger values
+Hunger valuesFood typeHunger restored (all slices together) ( effect) (single slice)
+
+Saturation
+
+Saturation is a value that determines healing, as well as the time until hunger begins to deplete. Saturation is lost by healing or performing energy-intensive actions that exhaust the player, and is the first value to be consumed by it, before hunger.
+
+The player's current saturation value is not visually displayed as a bar, unlike the hunger value. Instead, when saturation reaches zero, the hunger bar starts to shake or jitter periodically.
+
+Saturation boost
+thumb|Gaining saturation boost from reaching full hunger, consuming the saturation gained from the cooked porkchop to heal
+
+Saturation boost, also known as saturation healing, is a mechanic exclusive to  that regenerates health when the player's hunger bar is full (). Saturation boost heals  by consuming  saturation, and activates every 0.5 seconds (10 ticks) when at full hunger. While the saturation mechanic as a whole is in both  and , saturation boost is only in Java Edition.
+
+Food saturation values
+Saturation valuesFood typeSaturation restoredSaturation boostHealth restoredDuration ( effect)7.067 seconds (141 ticks)4.8 seconds (96 ticks)4.267 seconds (85 ticks)4 seconds (80 ticks)3.2 seconds (64 ticks)2.4 seconds (48 ticks)2 seconds (40 ticks)1.6 seconds (32 ticks)1.2 seconds (24 ticks)1.067 seconds (21 ticks) (all slices together)0.933 seconds (19 ticks)0.8 seconds (16 ticks)0.6 seconds (12 ticks)0.4 seconds (8 ticks)0.267 seconds (5 ticks)0.2 seconds (4 ticks) (single slice)0.133 seconds (3 ticks)0.067 seconds (2 ticks)
+
+Exhaustion
+Exhaustion is incurred from doing certain energy-intensive actions, and certain actions exhaust the player more than others. Exhaustion first reduces saturation, and then reduces hunger.
+
+Once the exhaustion level reaches 4.0, it resets to 0.0 and reduces the saturation by  if there is any saturation remaining. If the saturation is 0, it reduces the hunger by  instead.
+
+Energy-intensive actions
+ActionExhaustionlevel increaseUnitsSwimming0.01per meterBreaking a block0.005per block brokenSprinting0.1per meterJumping0.05per jumpAttacking an entity0.1per attack landedAttacking with a spear enchanted with Lunge4.0 × (level)per lunge attack, regardless whether it hitsTaking damage that is normally protected by armor0.1per distinct instance of damage being received0.005per tick, per Hunger status effect levelJumping while sprinting0.2per jumpNatural regeneration (requires  or higher and having the gamerule naturalRegeneration set to true)6.0per  healed from raw chicken, rotten flesh, or taking damage from husks.3.0full 0:30 duration of Hunger I, at 0.1 per second from pufferfish4.5full 0:15 duration of Hunger III, at 0.3 per secondGetting pushed by other means (except flowing water, which counts as swimming) - -
+
+Effects
+thumb|right|Getting the Hunger effect from eating rotten flesh
+Certain foods provide additional effects when eaten, both helpful and harmful. This can come in the form of gaining status effects, clearing status effects, or teleportation.
+
+Food effects
+EffectsFood typeApplied effectsTeleports the user randomly0:20  II0:30  II2:00  IV5:00  I5:00 0:05  II2:00  IClears Clears all status effects0:05  (60% chance)0:15  III0:15 1:00  II0:30  I (30% chance)0:30  I (80% chance)0:05  I0:03  ()
+
+0:11  ( / )0:07  ( / )
+
+0.35s  ( /  / )0.3s  ( /  / )
+
+0:07  ()
+
+0:05  ()
+
+0:11  ()
+
+0:07  ()
+
+0:05  ( / )
+
+0:07  ( /  /  / )
+
+0:07  ()
+
+Hunger effect
+
+The Hunger effect removes  hunger or  saturation point every  seconds, and turns the hunger bar to a green color (). It is inflicted by being attacked by a husk, or by eating pufferfish, rotten flesh, or raw chicken.
+
+Saturation effect
+
+The Saturation effect replenishes  hunger point and  saturation points every 0.05 seconds (1 tick) per level. It is applied exclusively through suspicious stew crafted with a blue orchid or dandelion.
+
+Food sources
+SourcesFood typeFood sourceDestroyed/despawned oak or dark oak leavesStronghold altar and storeroom, village weaponsmith and plains house, igloo and bonus chestsReceive 4 for 1 emerald at apprentice-level trade of farmer villagerTrial Spawners and  ominous trial spawners in Trial ChambersAncient city ice box and trial chambers supply chestsTrial chambers intersection barrelsCooking a potatoHarvesting beetroot cropsFarmer villager who drop beetroot after harvesting beetroot cropCrafting a bowl together with beetrootsSnowy village house chestsCrafting from wheatMonster room, stronghold altar and storeroom, village, mineshaft, woodland mansion and bonus chestsReceive 6 for 1 emerald at novice-level trade of farmer villagerFarmer villager who drop bread after harvesting wheatRaid gift from farmer villagerTrial spawners in trial chambers.Crafting from wheat, eggs, sugar, and milkReceive 1 for 1 emerald at expert-level trade of farmer villagerBuried treasure chestTrial chamber intersection chestsKilling zombiesHarvesting carrot cropspillager outpost and Shipwreck supply chestbonus chestFarmer villagers who drop carrots after harvesting a carrot cropBreaking chorus plants in The EndCooking a raw chickenKilling chickens with fireReceive 8 for 1 emerald at novice-level trade from Butcher villagerRaid gift from butcher villagerTrial spawners in trial chambersCooking a raw codKilling cod with fireKilling dolphin with fireRare drop from guardians and elder guardians when killed with fireReceive 6 for 1 emerald + 6 raw cod at novice-level trade from fisherman villagerBuried treasure chestsCooking raw muttonKilling sheep with fireRaid gift from butcher villagerCooking a raw porkchopKilling pigs or hoglins with fireReceive 5 for 1 emerald at apprentice-level trade from butcher villagerRaid gift from butcher villagerBastion remnant chestsCooking raw rabbitKilling rabbits with fireRaid gift from butcher villager Cooking a raw salmonKilling salmon with fireburied treasure chestReceive 6 for 1 emerald + 1 raw salmon at apprentice-level trade from fisherman villagerCrafting from wheat and cocoa beansReceive 18 for 3 emerald at journeyman-level trade from farmer villagerRaid gift from farmer villager Cooking kelp in a furnace, smoker, or campfireCrafting from dried kelp blockRaid gift from farmer villager Desert pyramid, monster room, woodland mansion, mineshaft, ruined portal and ancient city chestsOminous vaults in trial chambersCrafting from an apple and gold ingots.Desert pyramid, monster room, mineshaft, stronghold altar, woodland mansion, igloo, big ocean ruins, ruined portal and ancient city center chestsOminous vaults in trial chambersCollected from cave vinesMineshaft, ancient city and trial chambers supply chestsCrafting a carrot with gold nuggetsReceive 3 for 3 emerald at master-level trade from farmer villagerBastion remnant,  ruined portal and  ancient city ice box chestsVaults in trial chambersOminous trial spawners in trial chambersCrafting from honey blockCollecting from beehives or bee nestsVaults in trial chambersHarvesting a melon blockCrafting with a bowl and one of each mushroom a bowl on a mooshroomHarvesting potato cropsShipwreck supply chestKilling zombiesHarvesting potato cropsFarmer villager who drop potato after harvesting potato cropbonus chest Plains and taiga village, pillager outpost, and shipwreck supply chestFishingKilling pufferfishRare drop from guardians and elder guardianCrafting with a pumpkin, an egg, and sugarReceive 4 for 1 emerald at apprentice-level trade from farmer villagervillage taiga house chestRaid gift from farmer villager Crafting with a bowl, carrot, baked potato, mushroom, and cooked rabbitReceive 1 for 1 emerald at novice-level trade from butcher villager Killing cows, red mooshrooms, and brown mooshroomvillage butcher chest Killing chickensCat giftFishingKilling cod, guardians, elder guardians, dolphins, polar bearsRare drop from guardians and elder guardiansvillage fisher barrelRaid gift from fisherman villagerKilling sheepvillage butcher chestKilling pigs or hoglinsVillage butcher and bastion remnant stable chestsKilling rabbitsFishingKilling salmon and polar bearsRare drop from guardians and elder guardiansRaid gift from fisherman villagervillage fisher barrelbonus chest Killing zombies, zombified piglins, zombie villagers, husks, drowned, and zombie horsesmonster room, igloo, woodland mansion, small ocean ruins, village temple, shipwreck supply, desert, and jungle pyramid chestsCaught as junk from fishingCat giftKilling spiders, cave spiders and witches.Desert pyramid chests.Cooking raw beefKilling cows, red mooshrooms, or brown mooshrooms with fireRaid gift from butcher villagerOminous trial spawners in trial chambers.Crafting with a bowl, red mushroom, brown mushroom, and any flowerFeed brown mooshroom any flower then  a bowl on brown mooshroomReceive 1 for 1 emerald at expert-level trade of farmer villager, excluding Fire Resistance, Regeneration, and Wither Ancient city ice box chests.The stew always grants either 5-7 seconds of Blindness, or 7-10 seconds of Night VisionBreaking sweet berry bushesPicking ripe berries from sweet berry bushes (right-click)Taiga village house chests.FishingKilling tropical fishRare drop from guardians and elder guardians
+
+Ingredients
+The following items cannot be eaten on their own. Instead, they are used to craft consumable food items.
+
+Ingredient(s) Used to make Source(s)
+
+Crafting from planks
+Fishing
+Turtle killed by lightning
+Eating food made with them   Breaking cocoa plants
+Laid by chickens
+Found in village fletcher chests   Milking a cow, mooshroom or a goat
+Killing a wandering trader drinking it  or
+
+Breaking naturally generated mushrooms in:
+Dark/shady areas
+Swamp and mushroom fields biomes
+The Nether
+Breaking huge brown or red mushrooms
+Using shears on a brown mooshroom or red mushroom
+Bought from wandering trader   Breaking naturally generated flowers
+Using bone meal on a grass block
+Bought from wandering trader
+Killing iron golem (poppy)   Harvesting mature pumpkins grown from pumpkin seeds
+Naturally occurring pumpkins
+Taiga and snowy taiga villages
+Bought from wandering trader
+Crafting from sugar cane or honey bottle
+Dropped by witches
+Creating from its base elements
+
+Harvesting mature wheat seeds
+Found in monster room, woodland mansion, shipwreck, igloo, village, ocean ruins, and pillager outpost chest
+Crafting from hay bales   Crafting from gold ingots
+Dropped by zombified piglins
+Found in shipwreck, igloo, village, and ocean ruins chest
+Smelting golden armor or tools
+Mining nether gold ore without Silk Touch   Crafting from gold blocks or gold nuggets
+Rarely dropped by zombified piglins
+Smelting gold ore or nether gold ore
+Found in shipwreck, jungle pyramid, monster room, woodland mansion, nether fortress, end city, mineshaft, village, stronghold, buried treasure and desert pyramid chest   Crafting from honey bottles
+
+Internal variables
+Food uses four variables, the values of which are stored in the player.dat format. Variables can be queried in-game with the following command: .
+foodLevel: The player's current hunger level, shown on the hunger bar. Its initial value on world creation or respawn is .
+foodSaturationLevel: The player's current saturation level, which determines how fast foodLevel depletes and is controlled by the kinds of food the player has eaten. Its maximum value always equals foodLevel's value and decreases with foodLevel. Its initial value on world creation or respawn is 5.
+foodTickTimer: This variable is used when foodLevel either exceeds 17 (), or is at zero. It increases on every tick, and whenever it reaches 80 (4 seconds), it resets to zero and  is added or deducted, depending on whether the player is saturated or starving. If the player has a full ,  of  times the player's foodSaturationLevel is restored, up to a maximum of , when foodTickTimer reaches 10 ( second), and foodTickTimer is reset to zero.
+foodExhaustionLevel: The player's current exhaustion level, which determines how fast the foodSaturationLevel depletes. Its value is increased by the player's actions (see Exhaustion level increase for specific values). The initial value is zero. When it reaches a value of at least 4, the total value is decreased by 4 and one point is subtracted from foodSaturationLevel, or foodLevel if foodSaturationLevel is at zero.
+
+Sounds
+
+Achievements
+
+Advancements
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Java Edition Combat Tests
+
+Issues
+
+Gallery
+Mojang screenshots
+
+Notes
+
+References
+
+Navigation
+
+cs:Potraviny
+de:Hunger
+es:Comida
+fr:Nourriture
+hu:Étel
+it:Cibo
+ja:食料
+ko:식료품
+lzh:食
+nl:Voedsel
+pl:Jedzenie
+pt:Alimento
+ru:Еда
+th:อาหาร
+uk:Їжа
+zh:食物

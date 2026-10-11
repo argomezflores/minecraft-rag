@@ -1,0 +1,97 @@
+TITLE: Netherrack
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Netherrack
+---
+Netherrack is a frail stone block found abundantly in the Nether. Fire lit on top of netherrack burns indefinitely and cannot be extinguished by rain.
+
+Obtaining
+Breaking
+The suitable tool to break netherrack is pickaxe. Netherrack needs to be broken using a pickaxe, otherwise the breaking time will be higher and the block will drop nothing.
+
+Netherrack drops itself when it's destroyed.
+
+Natural generation
+Netherrack makes up most of the Nether's terrain, and also generates as part of ruined portals in the Overworld and the Nether.
+
+Netherrack generates as part of bridge and treasure room bastion remnants.
+
+Nylium
+Nylium drops a netherrack block when destroyed using a pickaxe that is not enchanted with Silk Touch.
+
+Post-generation
+Crimson or warped nylium transforms into netherrack if a solid, opaque block is directly above it, or when it is covered by snow.
+
+, netherrack generates as part of Nether portals spawned floating, making netherrack renewable.
+
+Usage
+Netherrack can be used as a cheap building block. Because of its abundance and softness, it can be used to construct temporary structures that can be used for scaffolding, blockage, or other purposes.
+
+When netherrack's top is lit on fire, the fire burns indefinitely and isn't put out by rain. This fire can spread to flammable blocks adjacent to the netherrack.
+
+bone meal on netherrack placed next to warped nylium or crimson nylium transforms the netherrack into more warped or crimson nylium.
+
+Crafting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Netherrack → Nether Brick, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The "blood" on the old netherrack texture was originally intended to be red moss. Moreover, Notch was stating that Minecraft will remain blood-free shortly before the Halloween Update release, when the block was added.Many of the tweets Notch replied to have been deleted. Some additional context can be found in this Minecraft Forum thread: https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/116353-minecraft-facts-big-list-of-what-notch-has
+Prior to the addition of item tooltips in Java Edition Beta 1.0, netherrack was first officially referred to as "netherstone". A Minecraft.net article falsely claims "bloodstone" was the original name, which was only a common fan alias.
+A material reducer reveals netherrack to be a volcanic silicate rock rich in mercury.
+When inquired about the meaning of "rack" in "netherrack" in an email exchange, Jens Bergensten stated that "rack" doesn't mean anything and "netherrack" is just the name of the rock."The "rack" in Netherrack doesn't mean anything. Netherrack is just a name of the rock." – 1pxJens Bergensten via email, March 14, 2014
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Nether blocks
+Category:Natural blocks
+Category:Generated structure blocks
+
+de:Netherrack
+es:Netherrack
+fr:Netherrack
+it:Netherrack
+ja:ネザーラック
+ko:네더랙
+lzh:焱界石
+nl:Netherrack
+pl:Netherrack
+pt:Netherrack
+ru:Адский камень
+th:หินเนเธอร์
+uk:Незерак
+zh:下界岩

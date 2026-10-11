@@ -1,0 +1,170 @@
+TITLE: Lingering Potion
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Lingering_Potion
+---
+Lingering potions are variants of splash potions that can be thrown to leave clouds with status effects that linger on the ground in an area.
+
+Variants
+Base potions
+
+Effect potions
+
+Obtaining
+Brewing
+
+Brewing recipe: Dragon's Breath + Matching Splash Potion → Matching Lingering Potion.
+
+Generated loot
+
+Natural occurrence
+
+During ominous trials, each ominous trial spawner has an equal chance to randomly dispense one of these lingering potions on top of either a player or a mob it spawns:
+
+These lingering potions are directly dispensed into the world and cannot be obtained in the inventory.
+
+Usage
+Creating area effect clouds
+
+Lingering potions are thrown, like splash potions, by  them. On impact they break, and after a second they create a lingering cloud with their effect. The cloud is made of the potion particles corresponding to the potion that was thrown. Unlike splash potions, lingering potions do not activate their effect immediately on impact.
+
+The cloud starts with a radius of 3 blocks, decreasing to 0 over the course of 30 seconds. During the cloud's existence, any player or mob that walks into it after the first second gets the corresponding status effect; this decreases the radius by a  block immediately, reducing the cloud's lifespan by 5 seconds.
+
+For effects with duration, the duration applied by the cloud is  that of the corresponding potion. For effects without duration such as healing or harming, the potency of the effect is  that of the corresponding potion.
+
+The effect may be applied consecutively if the player or mob remains in the cloud. For example, a player throwing the Lingering Potion of Healing II straight down consumes the cloud within a few seconds while being healed 5 times for a total of  health. As far as healing is concerned, this makes the lingering potion much more powerful than the regular or splash potion, provided that the player is away from other mobs or players.
+
+Lingering potions can also be thrown out of dispensers like splash potions.
+
+In Java Edition, creepers with potion effects will explode with their effect dropped as if a lingering potion was thrown.
+
+Lingering water bottle
+Like the splash water bottle, a lingering water bottle puts out fire, damages endermen, blazes, striders, and snow golems by , and restores  of air to axolotls. , it creates no effect cloud, while  it creates an effect cloud that extinguishes burning entities that walk into it. , a lingering awkward, mundane, or thick potion acts similar to the lingering water bottle, being able to extinguish burning entities and damage endermen, blazes, and snow golems, but without the ability to put out fires.
+
+Mud
+Lingering water bottles can be  on dirt, coarse dirt, or rooted dirt to turn it into mud.
+
+Crafting ingredient
+
+Filling cauldrons
+, using a lingering potion on a cauldron adds one level of that potion to the cauldron. Attempting to add a lingering potion to a cauldron with water, dyed water or a non-matching potion empties the cauldron and creates an explosion sound (but no actual explosion).
+
+Uncraftable lingering potion
+In Java Edition, the uncraftable lingering potion is a lingering potion with no effect that is unobtainable in survival mode. It is also available in potion and splash potion forms, as well as for tipped arrows.
+
+It can be obtained using the following command: /give @s minecraft:lingering_potion. It is also obtained when a lingering potion has invalid or missing potion effect tags, and thus serves as a placeholder.
+
+Behavior
+
+Custom effects
+
+, lingering potions can be obtained with any status effect using  and the potion_contents data component.
+
+Sounds
+:
+Lingering potions use the Friendly Creatures sound category for entity-dependent sound events.
+
+:
+
+Data values
+ID
+:
+
+:
+
+Metadata
+, lingering potions use the following item data values to indicate the kind of potion:
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Thrown potion
+ID
+:
+
+:
+
+Entity data
+
+Lingering potions when thrown have entity data that define various properties of the entity.
+
+Area effect cloud
+ID
+:
+
+:
+
+Entity data
+
+The cloud that is created when: lingering potions are thrown; creepers with potion effects explode; dragon fireballs hit the ground, is an entity, which has entity data that defines the properties of the entity.
+
+Entity data
+
+: Age of the field. Increases by 1 every tick. When this is bigger than Duration + WaitTime the area effect cloud dissipates.
+: The color of the displayed particle. Uses the same format as the color tag from Display Properties.
+: The maximum age of the field after WaitTime.
+: The amount the duration of the field changes upon applying the effect.
+: The potion and custom effects contained in this area effect cloud. Represents the  component. If set to a string, it is converted to a compound, with the string corresponding to .
+
+: The UUID of the entity who created the cloud, stored as four ints. Is not preserved when removed.
+: The particle displayed by the field.
+: The id of the particle type, see particles for valid options.
+Additional fields based on the type, see Particle format.
+: The duration of the potion effect applied is scaled by this factor. (defaults to 1.0). Area Effect Clouds created by Lingering Potions will have a scale of 0.25. Represents the  component.
+: The field's radius.
+: The amount the radius changes upon applying the effect. Normally negative.
+: The amount the radius changes per tick. Normally negative.
+: The number of ticks before reapplying the effect.
+: The time before deploying the field. The Radius is ignored, meaning that any specified effects is not applied and specified particles appear only at the center of the field, until Age hits this number.
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+A thrown lingering potion faces toward the player in first-person view while it appears rotated horizontally in third-person view. This is the case for all throwable items (ender pearls, eggs, snowballs, and all throwable potions).
+The Lingering Potion of the Turtle Master has the longest item name in the game.
+It's also composed of 6 words, more than any other item in the game other than items and books named through an anvil.
+"Polished Blackstone Pressure Plate" is the current longest name for a block tied with "Cracked Polished Blackstone Bricks" (34 characters with spaces, 31 without).
+The record holders in Minecraft Education are "Hardened Light Blue Stained Glass Pane" and "Hardened Light Gray Stained Glass Pane" (both at 38 with spaces, 33 without).
+Throughout Minecraft's history, the longest named block is the Quadruple Compressed Poisonous Potato Block in the Java Edition 24w14potato snapshot with a length of 43 characters with spaces and 39 without.
+
+Gallery
+Renders
+
+Screenshots
+
+See also
+Brewing
+
+References
+
+Navigation
+
+Category:Combat
+Category:Projectiles
+
+de:Verweiltrank
+es:Poción persistente
+fr:Potion persistante
+ja:残留ポーション
+ko:잔류형 물약
+pl:Trwałe miotane mikstury
+pt:Poção Prolongada
+ru:Оседающие зелья
+uk:Осідальне зілля
+zh:滞留药水

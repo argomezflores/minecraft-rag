@@ -1,0 +1,200 @@
+TITLE: Leaves
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Leaves
+---
+Leaves are transparent blocks that generate as part of trees and are sources of their respective saplings. They dissipate over time when not attached to logs, but persist when placed by players. Falling-leaf particles occasionally drop from leaves.
+
+Obtaining
+Breaking
+Hoes are the default tools for breaking leaves, but leaves can be obtained only with shears or tools enchanted with Silk Touch.
+
+Drop Source No Fortune Fortune I Fortune II Fortune III   Jungle Leaves 2.5% () 2.78% () 3.125% () 4.17% ()  or other   Azalea Leaves or other  Leaves 5% () 6.25% () 8.33% ( 10% () 1-2   All Leaves 2% () 2.22% () 2.5% () 3.33% ()   Oak and  Dark Oak Leaves 0.5% () 0.556% () 0.625% () 0.833% ()
+
+Natural generation
+Each type of leaves occurs naturally on their respective type of trees throughout the Overworld. In addition to this:
+
+Oak leaves generate as part of:
+Jungle bushes
+Plains villages
+Trial chambers
+Abandoned camps
+
+Dark oak leaves generate as part of woodland mansions.
+
+Birch leaves generate as part of abandoned camps in birch forests, flower forests and forests.
+
+Jungle leaves generate as part of abandoned camps in bamboo jungles.
+
+Mangrove leaves generate as part of trial chambers.
+
+Cherry leaves generate as part of abandoned camps in cherry groves.
+
+Pale oak leaves generate as part of abandoned camps in pale gardens.
+
+Poplar leaves generate as part of abandoned camps in dappled forests.
+
+Post-generation
+
+Leaves generate as part of trees grown from saplings, azaleas, or mangrove propagules.
+
+Usage
+Leaves from trees spontaneously decay (disappear) when they receive a block tick if they are not connected to any log or wood blocks, stripped or otherwise, either directly or via other leaf blocks, with a maximum distance of 6 blocks or 4 blocks. , this is determined using the  block tag, whereas , the list of blocks is hardcoded. The distance is taxicab distance, but can cross corners. Leaves placed by players never decay. Bamboo does not count as a log for this purpose.
+
+Leaves that decay, or are destroyed without using Silk Touch or shears, yield saplings 5% () of the time, sticks 2% of the time, and otherwise nothing. Jungle leaves drop saplings 2.5% () of the time. Oak and dark oak leaves also have a separate but additional 0.5% () chance of dropping an apple, making it extremely rare but possible for a single leaf to drop a sapling, a stick and an apple at the same time. Rates are increased by the Fortune enchantment. Leaves that are burned do not yield saplings or apples.
+
+Oak, jungle, acacia, dark oak, and mangrove leaves take on a different shade of green depending on the biome in which they are placed.
+
+Leaves are always transparent to light but cannot be seen through when the graphics is set to "Fast" or fancy leaves are turned off; the transparent regions are instead dark green. Leaves that are entirely surrounded by full blocks also render opaque in Bedrock Edition. They diffuse sky light, causing the shadows they cast under trees.
+
+Leaf blocks can be waterlogged although they are full blocks. Water does not spread out, and waterlogged leaves follow the same rules as any other waterlogged block. When concrete powder is placed on any side of the waterlogged leaves it turns into concrete, and the leaf block remains waterlogged.
+
+Although leaves behave as solid blocks by preventing entities from moving through them, they also behave as non-solid, in that leaves do not prevent chests from opening.
+
+Applying bone meal to mangrove leaves with a space beneath produces a hanging mangrove propagule with age=0.
+
+Smelting ingredient
+
+Smelting recipe: Any leaves → Leaf Litter, XP: 0.1.
+
+Redstone component
+
+The state of a leaves block—including a player-placed block—changes after 1 game tick (half a redstone tick) when the distance to the nearest log or wood block changes, up to 6 blocks of leaves away. Observers facing away from the leaves detect this change and transmit a redstone signal in the same game tick, making leaves useful for redstone signal transmission. This has been called "Leafstone" by the Minecraft community.
+
+Piston interactivity
+Leaves are destroyed when pushed by pistons. They do not stick to sticky pistons, slime blocks, or honey blocks.
+
+Composting
+Most types of leaves have a 30% chance of increasing the compost level in a composter by 1. A stack of leaves yields an average of 3.05 bone meal. The exception are flowering azalea leaves, which have a 50% chance of increasing the compost level (a stack of those yields 4.92 pieces of bone meal on average).
+
+Bees
+Flowering azaleas leaves and cherry leaves function like any other flowers in their interaction and uses with bees.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of flowering azalea leaves or cherry leaves have a 5% chance to grow with bee nest and 2-3 bees in it.
+
+Color
+
+In the inventory,  oak,  jungle,  acacia, and  dark oak leaves are colored  in Java Edition, or use pre-colored textures in Bedrock Edition.
+In the inventory,  mangrove leaves are colored  in Java Edition, or use pre-colored textures in Bedrock Edition..
+Spruce leaves are colored , and are not affected by biome or inventory color.
+Birch leaves are colored , and are not affected by biome or inventory color.
+Azalea,  flowering azalea,  cherry,  pale oak, and  poplar leaves are not colored.
+
+Biome colors
+These values are generated by the biome dyeing algorithm. , biome colors also appear on maps.
+
+Biome  Color  Renders Oak Leaves  Jungle Leaves  Acacia Leaves  Dark Oak Leaves  Mangrove Leaves width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32width=32x32
+
+Snowy leaves
+
+thumb|Trees in a snowy biome during snowfall in Bedrock Edition
+
+In any biome with a base temperature of below 0.15, all biome-tinted leaves gradually fade to white once snowfall begins, giving them a frosted appearance for the storm's duration. During transition, the white color is blended with the regular color in eight steps. After snowfall ends, leaves gradually fade back to their normal coloration.
+
+This does not affect leaves in biomes with a higher base temperature, even at altitudes that allow snowfall. Cherry, azalea, flowering azalea, pale oak, and poplar leaves are not affected as their colors are based on the texture instead of colormaps. The change is entirely invisible to the client if the graphics mode is set to Simple, though it still takes place, and leaves are the correct color phase for the time if the option is re-enabled.
+
+Particles
+All types of leaves (except spruce) have their own falling leaves particle which are produced underneath the leaf block, where they slowly fall to the ground.
+
+Leaf particles from biome-tinted leaves have the same color as the leaves they're falling from, which can change with the biome or during snowfall. Cherry, pale oak, and all poplar leaves have pre-colored textures, azalea leaves use a hard-coded color.
+
+Ambient sounds
+
+Poplar leaves occasionally emit ambient sounds when they are surrounded by a non-stripped log of any kind and 3 poplar leaves of the same color in all 4 horizontal directions.
+
+The ambient sounds emitted can be heard from up to 12 blocks.
+
+Sounds
+Other leaves
+
+Azalea leaves
+
+Cherry leaves
+
+Poplar leaves
+
+Generic
+
+:
+
+poplar_leaves sound type
+
+:
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Occasionally, leaves grow through other blocks, acting as though they are still connected to the tree. They may also completely replace blocks they try to grow into.
+Some trees seem to occasionally drop apples or saplings without being destroyed due to creation of leaf blocks not supported by logs.
+
+Gallery
+Renders
+
+Snowy leaves
+
+Screenshots
+
+In other media
+
+References
+
+External links
+Block of the Week: Leaves – Minecraft.net on August 18, 2017
+Block of the Month: Cherry Leaves — Minecraft.net on March 8, 2024
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Flammable blocks
+
+de:Laub
+es:Hojas
+fr:Feuilles
+it:Foglie
+ja:葉
+ko:잎
+lzh:葉
+nl:Bladeren
+pl:Liście
+pt:Folhas
+ru:Листва
+th:ใบไม้
+uk:Листя
+zh:树叶

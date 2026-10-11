@@ -1,0 +1,72 @@
+TITLE: Bucket of Pufferfish
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bucket_of_Pufferfish
+---
+A bucket of pufferfish, internally known as a pufferfish bucket, is a living pufferfish inside of a water bucket. They can also be used to tame and breed nautiluses.
+
+Obtaining
+A bucket of pufferfish can be obtained by  a water bucket on a pufferfish. Once a water bucket is used, the pufferfish is picked up along with the water source block.
+
+Trading
+Wandering traders occasionally sell a bucket of pufferfish for 3 emeralds.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop one bucket of pufferfish when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+Pressing  with a bucket of pufferfish places a water source block, and spawns the pufferfish back into the world, leaving an empty bucket in the player's inventory. Placing a bucket of pufferfish in the Nether causes the same particles to appear that generate when a normal water bucket is placed in the Nether, and the pufferfish is spawned alone.
+
+Pufferfish caught in buckets then released do not despawn, unlike mobs that spawn naturally in their aquatic environments.
+
+If a bucket of pufferfish is inside a dispenser, the dispenser spawns the pufferfish and water block in front of it upon activation, leaving an empty bucket inside. Dispensers cannot pick up a pufferfish when using a water bucket, due to the bucket being emptied instead.
+
+If a bucket of pufferfish is named a certain name through an anvil, the pufferfish inside displays that name as if it were named with a name tag. Alternatively, if a named pufferfish is captured with a bucket of water, the resulting bucket of pufferfish shares a name with the captured pufferfish. If a named pufferfish is captured , the item is called "Bucket of <Name>".
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Item data
+:
+
+: the item's components tag.
+
+The custom name of the fish.
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+When a water bucket is transformed into a bucket of pufferfish, it actually pushes the bucket texture down one pixel. According to Dinnerbone, JAPPA says this is due to the "weight of the fish".
+
+Gallery
+
+In other media
+
+References
+
+Navigation
+
+Category:Utilities
+
+fr:Poisson-globe dans un seau
+pt:Balde com Baiacu
+zh:河豚桶

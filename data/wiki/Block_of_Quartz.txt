@@ -1,0 +1,111 @@
+TITLE: Block of Quartz
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Quartz
+---
+A block of quartz, internally known as a quartz block, is a mineral block used for decoration. It can be turned into a quartz slab, quartz stairs, chiseled quartz block, quartz pillar, quartz bricks, or smooth quartz block.
+
+Obtaining
+Breaking
+Blocks of quartz can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Four quartz blocks generate naturally as part of each bridge in the bastion remnant.
+
+Crafting
+
+Crafting recipe: Nether Quartz, Nether Quartz, Nether Quartz, Nether Quartz arranged in the crafting grid → Block of Quartz.
+
+Trading
+
+Usage
+Quartz blocks cannot be used to store Nether quartz because they cannot be crafted back into it, unlike blocks made from other ores.
+
+Crafting ingredient
+
+Crafting recipe: Block of Quartz, Block of Quartz, Block of Quartz, Block of Quartz arranged in the crafting grid → Quartz Bricks,4.
+
+Crafting recipe: Block of Quartz, Block of Quartz arranged in the crafting grid → Quartz Pillar,2.
+
+Crafting recipe: Any Quartz Block, Any Quartz Block, Any Quartz Block arranged in the crafting grid → Quartz Slab,6.
+
+Crafting recipe: Block of Quartz, Block of Quartz, Block of Quartz arranged in the crafting grid → Quartz Slab,6.
+
+Crafting recipe: Any Quartz Block, Any Quartz Block, Any Quartz Block, Any Quartz Block, Any Quartz Block, Any Quartz Block arranged in the crafting grid → Quartz Stairs,4.
+
+Crafting recipe: Block of Quartz, Block of Quartz, Block of Quartz, Block of Quartz, Block of Quartz, Block of Quartz arranged in the crafting grid → Quartz Stairs,4.
+
+Stonecutting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Block of Quartz → Smooth Quartz Block, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Because of the low blast resistance of regular quartz blocks, it may be preferable to use two quartz slabs or smooth quartz blocks when making fortifications using quartz, as their blast resistance is higher than the other quartz block variants.
+In real life, a 1-cubic-meter block of quartz (the size of a Minecraft block) is practically harder than the real life block of iron, while the hardness of a block of quartz in Minecraft is quite low.
+
+Gallery
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Nether blocks
+
+cs:Blok křemene
+de:Quarzblock
+es:Bloque de cuarzo
+fr:Bloc de quartz
+hu:Kvarcblokk
+it:Blocco di quarzo
+ja:クォーツブロック
+ko:석영 블록
+nl:Kwartsblok
+pl:Blok kwarcu
+pt:Bloco de Quartzo
+ru:Кварцевый блок
+uk:Блок кварцу
+zh:石英块

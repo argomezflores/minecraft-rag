@@ -1,0 +1,60 @@
+TITLE: Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Brick_Stairs
+---
+Brick stairs are a decorative stairs variant of bricks that generate in trail ruins and are used for building.
+
+Obtaining
+Breaking
+Brick stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Brick stairs generate as part of trail ruins.
+
+Crafting
+
+Crafting recipe: Bricks, Bricks, Bricks, Bricks, Bricks, Bricks arranged in the crafting grid → Brick Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en briques
+ja:レンガの階段
+ko:벽돌 계단
+pt:Escadas de Tijolos
+ru:Кирпичные ступени
+th:บันไดอิฐ
+uk:Цегляні сходи
+zh:红砖楼梯

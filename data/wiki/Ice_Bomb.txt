@@ -1,0 +1,61 @@
+TITLE: Ice Bomb
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Ice_Bomb
+---
+An ice bomb is a throwable projectile that is used to freeze water into ice.
+
+Obtaining
+Lab table
+Result Materials neededIce BombSodium Acetate x4
+
+Usage
+Ice bombs can be thrown by  them, similar to an egg. They are affected by gravity.
+
+Similar to ender pearls, there is a short cooldown before the player can throw another ice bomb. The cooldown is shown in the hotbar by a white overlay that shrinks before the player is able to use it again.
+
+Ice bombs explode upon hitting most blocks, including non-solid blocks, but not air. They also explode upon hitting other entities, but they do not take any damage, and unlike eggs and snowballs, the impact is not considered an attack and does no damage or knockback. When exploding, any water (including flowing water, but not waterlogged blocks) in a 3×3×3 cube around the ice bomb freezes into ice. Ice bombs can be used to contain and displace mobs in ice under water.
+
+While endermen teleport away from arrows shot at them, they can be hit by ice bombs.
+
+Throwing an ice bomb while underwater encloses the player in ice.
+
+In Minecraft Education, breezes are able to deflect ice bombs.
+
++Ice bomb arrangement table-2-101264AirAirAirAirAir63AirAirIce bombAirAir62WaterIceIceIceWater61WaterIceIceIceWater60WaterWaterWaterWaterWater
+Dispensers
+Ice bombs can be shot from dispensers.
+
+Sounds
+
+Data values
+ID
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+In real life, mixing a sufficient amount of sodium acetate in water does solidify it, but creates hot ice (sodium acetate trihydrate) instead of normal ice.
+Its texture closely resembles a recolored blue version of the ruby, without its outlines.
+
+Navigation
+
+Category:Combat
+Category:Minecraft Education items
+Category:Minecraft Education entities
+Category:Projectiles
+
+de:Eisbombe
+es:Bomba de hielo
+fr:Bombe de glace
+it:Bomba di ghiaccio
+ja:氷の爆弾
+ko:얼음 폭탄
+lzh:冰彈
+pl:Bomba lodowa
+pt:Bomba de Gelo
+ru:Ледяная бомба
+zh:冰弹

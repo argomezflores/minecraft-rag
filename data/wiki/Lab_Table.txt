@@ -1,0 +1,77 @@
+TITLE: Lab Table
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lab_Table
+---
+The lab table is a chemistry table used to make items and blocks from compounds (there are currently only five).
+
+Obtaining
+Lab tables can be obtained from the Creative inventory. They cannot be obtained in Survival without commands. , the world must also have the "Education Edition" setting enabled.
+
+Breaking
+A lab table can be mined with any tool, but pickaxes are faster.
+
+Usage
+thumb|right|The interface of the lab table
+the lab table opens a 1×9 grid, where elements and compounds can be inserted to perform experiments. The locations of the items in the grid do not affect the outcome. When ready to conduct an experiment, clicking the  button initiates the process.
+
+thumb|Beaker
+thumb|Flask
+thumb|Jar
+If the result is a viable product, the top images animate to indicate whether a liquid, gas, or solid has been produced. Shortly after, the menu closes, and the successful product appears on the table. If the combined materials did not create a viable product, the process results in a garbage item and one of few randomly selected animations.
+
+Successful recipes
+Result Materials neededBleachWater × 3, Sodium hypochlorite × 3Heat blockIron, Water, Charcoal, SaltIce bombSodium acetate × 4Super fertilizerAmmonia, PhosphorusMagnesium SaltsMagnesium, Salt
+
+Elephant Toothpaste
+Result Materials neededElephant ToothpasteSoap, Potassium iodide, Hydrogen peroxide
+When combining Soap, Potassium Iodide and Hydrogen Peroxide, elephant toothpaste particles and the garbage item are created.
+thumb|center|Lab table erupting elephant toothpaste
+
+Unsuccessful recipes
+When an invalid recipe is entered, a randomly selected animation is played and a garbage item is produced.
++Possible fail animationsNameImageParticlesSoundsMiscellaneous Mysticalalt=Lab table with enchantment particles above it|thumb|Lab Table emitting a 5.5-block tall column of enchantment particleslab_table_misc_mystical_particlerandom.fizz
+random.fuseHuge Explosionalt=Lab table with  lava and explosion particles|thumb|Lab Table shooting out lava particleslava_particle
+huge_explosion_lab_misc_emitterambient.weather.lightning.impactFire and Lavaalt=Lab Table with lava drip and fire particles on top of it|thumb|Lab Table with fire and lava drip particlesbasic_flame_particle
+lava_drip_particlelt.reaction.fireSmokealt=Lab Table with dark grey smoke on top|thumb|Lab Table emitting dark smokebasic_smoke_particlemob.ghast.fireballIgnitionalt=Lab Table on fire|thumb|Lab Table catching firemisc_fire_vapor_particlerandom.explode
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+Even when two compounds that do not react when combined in real life (like water and salt, or multiple items of the same compound), when they are combined in the lab table, the fire and/or explosion effect still appears, creating a garbage item.
+
+Gallery
+
+Navigation
+
+Category:Utility blocks
+Category:Block entities
+Category:Minecraft Education blocks
+Category:Blocks with GUI
+
+de:Labortisch
+es:Mesa de laboratorio
+fr:Table de laboratoire
+it:Tavolo da laboratorio
+ja:実験テーブル
+ko:실험대
+nl:Laboratoriumtafel
+pl:Stół laboratoryjny
+pt:Mesa de laboratório
+ru:Лабораторный стол
+uk:Лабораторний стіл
+zh:实验台

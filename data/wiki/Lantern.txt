@@ -1,0 +1,92 @@
+TITLE: Lantern
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lantern
+---
+A lantern is a block that emits light. It is brighter than a torch, and can be placed on top of or hang from the bottom of most blocks.
+
+Obtaining
+Breaking
+Lanterns can be broken with any tool, and always drop as an item, but using a pickaxe is the fastest.
+
+Natural generation
+Lanterns can generate as lamps or lamp posts above farms and on some buildings in snowy tundra villages and in bastion remnants.
+
+Crafting
+
+Crafting recipe: Iron Nugget, Iron Nugget, Iron Nugget, Iron Nugget, Torch, Iron Nugget, Iron Nugget, Iron Nugget, Iron Nugget arranged in the crafting grid → Lantern.
+
+Trading
+
+Usage
+Similarly to other types of lanterns, lanterns can either be placed on top of, or hung from, the surfaces of most solid blocks (though some blocks will require ).
+
+To place a lantern on top of a block, aim at the block's top face, and press . To hang a lantern from the bottom of a block, aim at the block's bottom face, and press . Also similarly to other lanterns, if a lantern is hung from the bottom face of a chain, the lantern and the chain will connect seamlessly.
+
+Lanterns can also be placed by pressing  on a block adjacent to an air block the lantern could occupy, much like other types of lantern. Pressing  on the top half of the adjacent block will hang the lantern from the bottom of an above block, and pressing  on the bottom half of the adjacent block will place the lantern down on the top face of a bottom block.
+
+Like other types of lantern, if a lantern exists on an invalid surface (a surface where the soul lantern could not normally be placed on), the  lantern will break and drop itself, upon the invalid surface receiving a block update.
+
+Light
+The lantern is among the most luminous of light sources, emitting a light level of 15. Lanterns also melt snow layers within 2 blocks and ice within 3 blocks (taxicab distance).
+
+When the Render Dragon Features for Creators experiment is enabled in Minecraft Preview, the inside of lanterns emits colored point lighting with . The casing of the lantern blocks a part of the light and casts some shadows around the lantern.
+
+Piston interactivity
+A lantern is destroyed when a piston tries to push it. It cannot be pulled by sticky pistons.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+Turtle eggs can support lanterns placed both above and below them, despite the fact that this causes the lanterns to appear floating.
+Before they were added to Minecraft, lanterns were already present in Minicraft.
+
+Gallery
+
+See also
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Utility blocks
+Category:Light sources
+
+cs:Lucerna
+de:Laterne
+es:Farol
+fr:Lanterne
+it:Lanterna
+ja:ランタン
+ko:랜턴
+lzh:燈籠
+pl:Latarnia
+pt:Lampião
+ru:Фонарь
+th:โคมไฟ
+uk:Ліхтар
+zh:灯笼

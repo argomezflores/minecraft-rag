@@ -1,0 +1,58 @@
+TITLE: Sitting
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Sitting
+---
+right|200px
+Sitting is a game mechanic used by the player and some mobs under specific circumstances.
+
+Mechanics
+Riding
+
+Players and humanoid mobs can enter the sitting-like posture when riding an entity, such as minecarts, boats, mounts, and cushions.
+
+Wolves, parrots and cats
+The player can order a tamed wolf, cat, or parrot to sit by right-clicking. These mobs stay in place, and do not move or teleport to the player unless they are attacked or the animal is forced to stand.
+
+Wolves and cats inside minecarts or boats do not actually appear sitting.
+
+Foxes
+Foxes occasionally sit down on their own accord. This happens when they cannot find an area to sleep. Sitting happens briefly, and the fox resumes standing within seconds. Foxes also do not permanently sit within vehicles.
+
+Pandas
+Pandas also sit on their own accord, sometimes to eat bamboo.
+
+Camels and camel husks
+When camels and camel husks are not being ridden, they sometimes sit down.
+
+History
+Java Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Renders
+Cats
+
+Foxes
+
+Pandas
+
+Parrots
+
+Wolves
+
+Camels
+
+Camel Husks
+
+References
+
+Navigation
+
+es:Sentarse
+fr:S'asseoir
+ja:座る
+pt:Sentar
+zh:坐

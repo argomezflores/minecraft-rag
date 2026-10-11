@@ -1,0 +1,312 @@
+TITLE: Attribute
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Attribute
+---
+Attributes control certain numeric properties of players, mobs, and armor stands. Every entity has a base value for each of its attributes, and modifiers that determine the final value.
+
+List of attributes
+Each attribute is identified with a namespaced identifier, and has a default, minimum, and maximum value.
+
+Most attributes are present on all living entities, but some attributes only apply to specific entity types. Additionally, some entity types have a base value other than the default.
+
+Air Drag Modifier
+
+This attribute modifies the air drag an entity experiences. The final air drag is calculated as , clamped to 0 to 1. The friction is 0.91 for sulfur cubes that have absorbed a block, parrots, and bees. For all other entities, including sulfur cubes that have no absorbed block, the friction is 0.98.
+
+Armor
+
+This attribute determines the number of armor points an entity has.
+Entity  Base value (large)   (medium)   (small)
+
+Armor Toughness
+
+This attribute determines an entity's armor toughness.
+
+Attack Damage
+
+This attribute determines the damage dealt by an entity's melee attack. Only the entities listed below have this attribute.
+
+Entity  Base value                                                                              + Size    × Size
+
+Attack Knockback
+
+This attribute determines additional knockback applied to an entity's melee attack.
+
+Entity  Base value   1.5   1
+
+Attack Speed
+
+This attribute determines the rate at which a player's attack cooldown recharges. Its value is the number of full-strength attacks per second. Only players have this attribute.
+
+Nameplate Score Distance
+
+This attribute determines the distance within which a scoreboard objective with a  display slot is visible above an entity.
+
+Block Break Speed
+
+This attribute multiplies the speed at which a player breaks blocks. Only players have this attribute.
+
+Block Interaction Range
+
+This attribute determines the block interaction range for players. Only players have this attribute.
+
+Bounciness
+
+This attribute determines the restitution of motion an entity is given when landing on the ground.
+
+Burning Time
+
+This attribute multiplies the duration for which an entity should remain on fire after being ignited.
+
+Camera Distance
+
+This attribute determines the maximum distance at which the camera is placed away from the player or spectated entity when in a third-person view. This distance is multiplied by the  attribute to get a final target camera distance. If the entity being ridden has a larger  attribute, that distance will be used. The final distance can be reduced by colliding certain blocks.
+
+Entity  Base value   8   16
+
+Entity Interaction Range
+
+This attribute determines the entity interaction range for players.
+
+Explosion Knockback Resistance
+
+This attribute determines the proportion of knockback from explosions an entity resists. A value of 1 eliminates the knockback.
+
+Fall Damage Multiplier
+
+This attribute multiplies the amount of fall damage an entity receives.
+
+Entity  Base value          0.5
+
+Flying Speed
+
+This attribute determines the flying speed of an entity. Only the entities listed below have this attribute.
+
+Entity  Base value   0.6   0.1   0.06   0.05   0.4
+
+Mob Follow Range
+
+This attribute determines the range in blocks within which a mob targets players or other mobs to track. Exiting this range causes the mob to cease following the player/mob. Only mobs have this attribute.
+
+Entity  Base value   100   64    48   40      35     32    24   20   18    12 All other mobs  16
+
+Friction Modifier
+
+This attribute determines the friction experienced by an entity.
+
+Gravity
+
+This attribute determines the gravity affecting an entity in blocks per tick squared.
+
+Jump Strength
+
+This attribute determines the initial vertical velocity of an entity when they jump, in blocks per tick.
+
+Entity  Base value    Random(0.4–1.0)     0.5
+
+Knockback Resistance
+
+This attribute determines the proportion of horizontal knockback from attacks and projectiles an entity resists. A value of 1 eliminates the knockback. Vertical knockback is not affected. It does not affect explosions.
+
+Entity  Base value   1   0.75     0.6
+
+Luck
+
+This attribute affects the results of loot tables, with a higher attribute value increasing the amount and quality of results.
+
+The number of rolls is increased by the pools "bonus rolls"-value times this attributes value, rounded down, and the weight of each entry is increased by its quality times this attributes value, also rounded down.
+
+Only players have this attribute.
+
+Max Absorption
+
+This attribute determines an entity's maximum absorption.
+
+Max Health
+
+This attribute determines an entity's maximum health. It determines the highest health they may be healed to.
+
+Entity  Base value                                                                                                Random( - )    × Size × Size   × Size
+
+Mining Efficiency
+
+This attribute increases the speed at which a player breaks blocks. Only players have this attribute.
+
+Movement Efficiency
+
+This attribute is a factor to improve walking on terrain that slows down movement, such as soul sand. A value of 1 removes the slowdown.
+
+Movement Speed
+
+This attribute determines the speed at which an entity moves. It represents a multiplier for acceleration per tick. A mob's actual speed in blocks/second is approximately 43 times this value (see Entity#Formulas.)
+
+Entity  Base value   1.2  1.1     1               0.7  0.63  0.6      0.5  0.4     0.35               0.3               0.25        0.23         0.2    0.175   0.15   0.14    0.1    0.09  (lazy)  0.07   0.05    Random (0.1125 – 0.3375)  Random (0.2135 – 0.2846)   0.2 + (0.1 × Size)
+
+Name Tag Distance
+
+This attribute determines the distance within which an entity's custom name is visible.
+
+Oxygen Bonus
+
+This attribute determines the chance that an entity's remaining air decreases while underwater in any given game tick. The chance is given by .
+
+Safe Fall Distance
+
+This attribute determines the distance in blocks an entity can fall before fall damage starts to accumulate.
+
+Entity  Base value          6  5
+
+Scale
+
+This attribute multiplies an entity's size and hitbox dimensions.
+
+Sneaking Speed
+
+This attribute multiplies a player's movement speed when sneaking or crawling. Only players have this attribute.
+
+Zombie Reinforcements
+
+This attribute determines the chance for a zombie to spawn another zombie when attacked. Only the entities listed below have this attribute.
+
+Entity  Base value     Random(0 – 0.1)  0
+
+Step Height
+
+This attribute determines the maximum number of blocks that an entity can step up without jumping. Sneaking prevents drops from heights that are higher than this value.
+
+Entity  Base value    1.5   1.0625                1  0
+
+Submerged Mining Speed
+
+This attribute multiplies a player's mining speed when underwater. Only players have this attribute.
+
+Sweeping Damage Ratio
+
+This attribute determines the proportion of the base attack damage dealt to secondary targets when a player performs a sweep attack. This is in addition to the base damage of the sweep damage itself. Only players have this attribute.
+
+Mob Tempt Range
+
+This attribute determines the range in blocks in which a mob can be tempted, following a player holding a specific item.
+
+Entity  Base value  16                                10  8
+
+Water Movement Efficiency
+
+This attribute determines movement speed and drag when submerged.
+
+Waypoint Receive Range
+
+This attribute determines the maximum distance from a player to a waypoint at which the waypoint is displayed on the locator bar. Only players have this attribute.
+
+Entity  Base value   60,000,000
+
+Waypoint Transmit Range
+
+This attribute determines the distance at which an entity displays as a waypoint on the locator bar.
+
+Entity  Base value   60,000,000
+
+Modifiers
+
+Attribute modifiers are persistent increases or decreases to an attribute's base value by preset operations.
+
+Each modifier has a namespaced identifier to uniquely identify it. Modifiers affect exactly one attribute, increasing or decreasing its value depending on the modifier's operation and value. The resulting value after modification is capped by the attribute's minimum and maximum limits.
+
+Operations
+
+A modifier may perform one of three possible operations:
+
+Operation  Description add_value Adds all of the modifiers' amounts to the base attribute.
+
+For example, applying two add_value modifiers with amounts of 2 and 4, to attribute base of 3: add_multiplied_base Multiplies the base attribute by (1 + sum of modifiers' amounts).
+
+For example, applying two add_multiplied_base modifiers with amounts of 2 and 4, to attribute base of 3: add_multiplied_total Multiplies the base attribute by (1 + modifiers' amounts) for every modifier.
+
+For example, applying two add_multiplied_total modifiers with amounts of 2 and 4, to attribute base of 3:
+
+If multiple modifiers are applied to an attribute, the game first executes all  modifiers, then  all  modifiers, and finally all  modifiers. The Total value is always carried as the Base for the next set of modifiers.
+
+The final value is clamped to fit the attribute's minimum and maximum value range.
+
+Applying modifiers
+Various systems in the game add and remove modifiers.
+
+Commands
+The  command can add or remove specific modifiers, including custom ones. Except for players, it is also possible add, remove and custom with .
+
+Items
+The  item component defines modifiers that are automatically added to an entity when the item is equipped in a certain slot, and removed when it is removed.
+
+All vanilla weapons and armor use this component to add and remove modifiers with the following IDs:
+
+Modifier ID Attribute Items
+
+Enchantments
+Enchantment attribute effects define modifiers that are automatically added to an entity when the enchanted item is equipped in a certain slot, and removed when it is removed.
+
+Some enchantments use this effect to add and remove modifiers with the following IDs. The listed IDs are followed by  and the name of the slot the enchantment is active in.
+
+Modifier ID Attribute Level-based value Operation Enchantment
+type: ,
+base: 4.0,
+per_level_above_first: 4.0 add_multiplied_totalAqua Affinity
+type: ,
+base: 0.15,
+per_level_above_first: 0.15add_valueBlast Protectiontype: ,
+base: 0.33333334,
+per_level_above_first: 0.33333334add_valueDepth Stridertype: ,
+added: 1.0add_valueEfficiencytype: ,
+base: -0.15,
+per_level_above_first: -0.15 add_multiplied_baseFire Protectiontype: ,
+base: 1.0,
+per_level_above_first: 1.0add_valueRespirationtype: ,
+base: 0.0405,
+per_level_above_first: 0.0105add_valueSoul Speed 1.0add_valueadd_valueSweeping Edgetype: ,
+base: 0.15,
+per_level_above_first: 0.15add_valueSwift Sneak
+
+Sulfur cube archetypes
+
+Sulfur cube archetype definitions define modifiers that are automatically added to a sulfur cube when one of the specified items is given to it, and removed when it is removed.
+
+See sulfur cube archetype for the values.
+
+The vanilla archetypes add and remove modifiers with the following IDs:
+
+Modifier ID Attribute Operation add_value add_value add_multiplied_total add_multiplied_total
+
+Hardcoded
+
+Some other attribute modifiers are hardcoded, not depending on data packs or data components, but rather on the game code. Although it is still possible to change these modifiers with , it is not possible to prevent them from appearing in specific conditions.
+
+Effects
+Some status effects apply modifiers when the effect is applied, and remove them when the effect runs out. The final value of the added attribute is multiplied by effect potency (in other words, multiplied by ).
+
+Modifier ID Attribute Value Operation Effect 0.2 add_multiplied_total -0.15 add_multiplied_total 0.1 add_multiplied_total -0.1 add_multiplied_total 3.0 add_value -4.0 add_value 1.0 add_value -1.0 add_multiplied_total 4.0 add_value 4.0 add_value 1.0 add_value -1.0 add_value
+
+Misc
+Other parts of the game add and remove additional modifiers. In this table, every mention of "zombies" represents the class , that is, the entities: zombie, drowned, husk, zombie villager, and zombified piglin.
+
+Modifier ID Attribute Value Operation Details  add_valueApplied randomly to all mobs when they spawn. add_valueApplied randomly to all zombies when they spawn. add_multiplied_totalApplied randomly to some zombies when they spawn. Only applies if greater than 1.  add_valueApplied randomly to some zombies to turn them into "leaders". add_multiplied_total  add_value Applied to a zombie when it successfully spawns a reinforcement. The  is the value of the modifier previously, or  if it does not exist. -0.05 add_valueApplied to zombie reinforcements when they spawn. : 0.5  : 0.2 add_multiplied_baseApplied to zombies and piglins as babies, and removed when they are not babies. : 0.15  : 0.05 add_valueApplied to endermen when they acquire a target, and removed when they lose it.Applied to adult zombified piglins when they get angry, and removed when they stop being angry.20.0add_valueApplied to shulkers when their shell fully closes, and removed when it opens.0.5add_valueApplied to players when they enter creative mode, and removed when leaving creative mode.2.0add_valueApplied to players when they enter creative mode, and removed when leaving creative mode. -0.25add_valueApplied to witches when they start drinking a potion, and removed when they finish drinking it.  add_valueApplied to all living entities while inside powder snow, and removed when the frost effect wears off. The  is the float . 0.3 add_multiplied_totalApplied to all living entities when they start sprinting, and removed when they stop. -1.0 add_multiplied_totalApplied to players when they start sneaking, and removed when they stop. 5.0 add_valueApplied to rabbits when they become the killer bunny, and removed when they become a different variant. -0.34 add_multiplied_baseApplied to striders when they become cold outside of lava, and removed when they return to lava.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+References
+
+Navigation
+
+de:Attribut
+es:Atributo
+fr:Attribut
+ja:属性
+ko:속성
+pl:Atrybuty
+pt:Atributo
+zh:属性

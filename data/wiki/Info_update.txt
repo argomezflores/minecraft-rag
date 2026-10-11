@@ -1,0 +1,36 @@
+TITLE: Info update
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Info_update
+---
+{{DISPLAYTITLE:info_update}}
+
+info_update and info_update2 are debugging or placeholder blocks exclusive to . They previously generated in place of blocks with invalid IDs.
+
+Obtaining
+These blocks cannot be obtained via  or , and as such can only be obtained through inventory editors or add-ons.
+
+Breaking
+No tools can accelerate the breaking process of  and .
+
+and  drop themselves when they're destroyed.
+
+Sounds
+
+Data values
+ID
+
+History
+
+Issues
+and  are unsupported blocks, so issues related to them may not be fixed.
+
+Gallery
+In other media
+
+Navigation
+
+Category:Unused blocks
+
+ja:Info update
+pt:Info update
+zh:数据更新方块

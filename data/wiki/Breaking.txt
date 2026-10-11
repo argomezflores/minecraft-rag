@@ -1,0 +1,215 @@
+TITLE: Breaking
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Breaking
+---
+thumb|upright=1.4|A player mines a tree and obtains a log.
+Breaking, digging, punching, or mining is a common activity in Minecraft, performed (by default) by holding  or right trigger while the crosshair is pointing at a block, or by long-pressing on the block on touch screens. Breaking is the primary way to remove unwanted blocks and acquire blocks for future placement or crafting.
+
+Basics of breaking
+
+By holding down the  button while looking at a block within range, the player's hand begins swinging, making a repetitive "thump" sound as the player hits the block. Cracks appear on the block, which show that it is being broken.
+
+, this range is 5.2 blocks in Creative mode, and 4.5 blocks otherwise. , the range is 5 blocks when using a keyboard/mouse or controller input; when using touch input, the range is 12 blocks in Creative mode and 6 blocks otherwise.
+
+Targeted blocks are marked with a wireframe cube outline; , this can be changed to a white highlight by disabling the "Outline Selection" option in video settings. After the cracking animation is finished and completely covers the block, it breaks and depending on the type of block and the tool used to do so, it may drop an item.
+
+Although many blocks can be harvested with bare hands, certain ones require the use of a tool. In particular, to obtain resources from stone or metal-type blocks, the player must use a pickaxe. For harder blocks like iron ore or obsidian, a pickaxe made from a higher-tier material is required.
+
+The player can use shovels, axes and hoes to speed up the breaking of dirt-type blocks, wood, and plant-type blocks, respectively. However, tools are not required to get the resource drop (with the exception of snow and snow blocks, which require a shovel to get a drop). A downside to this is that tools also have durability, so they eventually wear out.
+
+The progress for breaking a block is reset if the target block changes while breaking. Progress is also reset whenever the  control is released. The player can move freely while breaking blocks. The player can even dig while jumping, swimming, or riding, although this reduces the breaking speed.
+
+In Survival mode, however, some blocks are unbreakable, like bedrock, and in Adventure mode all blocks are unbreakable unless the player has an item or a tool with the can_destroy tag. In Spectator mode a player can't break blocks in any way, and in Creative mode all blocks are breakable unless the player is holding a sword, spear, debug stick, trident, or mace.
+
+Mining efficiency
+The player's mining efficiency (digging speed) is controlled by three factors: the block being broken, the item the player is currently wielding, and the mining penalties affecting the player. Every block has a hardness value, which determines the base amount of breaking time if the player hits it with their bare hands.
+
+The base time in seconds is the block's hardness multiplied by:
+1.5 if the player can harvest the block with the current tool;
+5 if the player cannot.
+
+Assuming that the player can harvest the block, the next check is whether the player's tool increases the breaking speed for the block. See Best tools for a full list.
+
+If the tool helps, then it increases digging speed by a constant multiplier, given in the following table:
+
+Block  Tool Speed No tool  1  Wood  2  Stone  4  Copper  5  Iron  6  Diamond  8  Netherite  9  Golden  12  Shears  2  Wool 5  Leaves 15  Cobweb 15   Sword  1.5  Cobweb 15  Bamboo 30
+
+If a proper tool is used, the tool speed is further increased by the Efficiency enchantment. If the level of Efficiency is not 0, then the level squared plus 1 is added to the tool speed. For example, Efficiency I adds 2 to the value, while Efficiency V adds 26. The speed is also increased by (20×level)% of Haste  or multiplied by (0.2×level+1)×(1.2level) .
+
+Mining Fatigue decreases the speed by multiplying by (0.3min(level,4))  or by (0.3level)×(0.7level) . , increasing the effect level from II to III reduces the mining speed by a factor of 0.03 rather than 0.3. Therefore, with level III the speed is reduced to 0.0027× of normal speed instead.
+
+If the player's head is underwater and they are not wearing a helmet with the Aqua Affinity enchantment, breaking a block takes 5 times as long. If the player's feet are not touching the ground, an additional 5× penalty is added; this causes players floating in water to break blocks 25× slower than if they had been standing on land.
+
+The total time to break a block is always a multiple of  of a second, or 1 game tick; any remainder is rounded up to the next tick.
+
+Instant breaking
+
+When breaking a block, a tool and its enchantments do its speed value as "damage" to a block every game tick, and when that value exceeds the block's hardness times 30, the block breaks. If the tool and enchantments immediately exceed the hardness times 30, the block breaks with no delay; otherwise a 6 tick ( second) delay occurs before the next block begins to break.
+
+For example, a player with Haste II holding an Efficiency V diamond pickaxe (or netherite pickaxe) can break stone instantly, as the damage is (+)×=47.6, which is greater than the base hardness of stone (1.5) times 30 (which is 45). Players in Creative mode always break blocks instantly regardless of tools or status effects, except for when wielding a sword, spear, debug stick, trident or a mace, in which case the player is unable to break anything.
+
+Calculation
+
+Combining all of the information above yields the following pseudo-code to calculate how long in seconds a player takes to mine a certain block. All operations are floating-point, not integer.
+<pre>
+if (isBedrockEdition):
+if (isBestTool):
+speedMultiplier = toolMultiplier
+if (not canHarvest):
+speedMultiplier = 1
+else if (toolEfficiency):
+speedMultiplier += efficiencyLevel ^ 2 + 1
+else:
+speedMultiplier = 1
+else:
+speedMultiplier = mining speed for block determined by the tool item component
+if (speedMultiplier > 1):
+speedMultiplier += attribute(mining_efficiency) # normally efficiencyLevel ^ 2 + 1
+
+if (haste or conduitPower):
+speedMultiplier *= 0.2 * max(hasteLevel, conduitPowerLevel) + 1
+
+if (miningFatigue):
+# In Java Edition, Mining Fatigue actually follows hardcoded values for levels I, II, III, and IV. They are 0.3, 0.09, 0.0027, and 0.00081 respectively.
+speedMultiplier *= 0.3 ^ min(miningFatigueLevel, 4)
+speedMultiplier *= 0.3 ^ miningFatigueLevel
+
+speedMultiplier *= attribute(block_break_speed) # normally 1
+
+if (inWater):
+speedMultiplier *= attribute(submerged_mining_speed) # normally 0.2, or 1 with aqua affinity
+if (not hasAquaAffinity):
+speedMultiplier /= 5
+
+if (not onGround):
+speedMultiplier /= 5
+
+damage = speedMultiplier / blockHardness
+
+if (canHarvest):
+damage /= 30
+else:
+damage /= 100
+
+if (haste or conduitPower):
+damage *= 1.2 ^ max(hasteLevel, conduitPowerLevel)
+
+if (miningFatigue):
+damage *= 0.7 ^ miningFatigueLevel
+
+Instant breaking
+if (damage >= 1):
+return 0
+
+ticks = roundup(1 / damage)
+
+seconds = ticks / 20
+
+return seconds
+</pre>
+
+Calculator
+The  values follow hardcoded values for levels I, II, III, and IV.
+
+Best tools
+The following table shows the most efficient tools to break specific blocks.
+
+Tool  Material  Blocks  Notes Liquid
+Not actually broken. Liquids cannot be targeted at all. Snow  Can only be obtained with a bucket.  Plants and fungi
+
+Shears are required to collect vines and glow lichen. Silk Touch is required for whole melons without crafting, and giant mushroom blocks. Wood
+
+Bookshelves, campfires, soul campfires, chiseled bookshelves and creaking hearts require Silk Touch to drop as an item. Bees
+Nests require Silk Touch to drop as an item. Ice
+
+All require Silk Touch to drop as an item. Metal I
+
+Any pickaxe is required to collect a block. Metal II
+
+Stone, copper, iron, diamond, or netherite pickaxe is required to collect a block. Metal III
+
+Iron, diamond, or netherite pickaxe is required to collect a block. Metal IV  Diamond or netherite pickaxe is required to collect a block. Chemistry equipment
+
+These blocks, except lab table, can be mined without a pickaxe, but it takes a long time. Rails
+
+Rock I
+
+(non-wooden)
+
+(non-wooden)
+
+Pickaxe is required to collect a block, except for buttons, packed mud, and pointed dripstone.Mining a monster spawner with a pickaxe drops 15-43 experience, but the monster spawner itself does not drop, even with Silk Touch. Budding amethyst cannot be collected, even with Silk Touch.For amethyst buds, amethyst clusters, ender chests, coral blocks, coal ore, deepslate coal ore, nether quartz ore, nether gold ore, deepslate, and stone to drop themselves, they must be mined with a pickaxe enchanted with Silk Touch.Gilded blackstone has a chance to drop golden nuggets. Rock II
+
+Stone, copper, iron, diamond, or netherite pickaxe is required to collect a block.For the copper ore, deepslate copper ore, lapis lazuli ore, deepslate lapis lazuli ore, iron ore, and deepslate iron ore, Silk Touch is needed to collect the blocks themselves, or they drop their respective minerals. Rock III
+
+Iron, diamond, or netherite pickaxe is required to obtain drops. With the exception of the block of raw gold, a Silk Touch pickaxe is required to collect the ores themselves, or they drop their respective minerals. Rock IV
+
+Diamond or netherite pickaxe is required to collect a block. For glowing obsidian, Silk Touch is needed to collect the block, or it drops regular obsidian. Other
+
+These can be collected without a tool, but pickaxes mine faster. Leaves  Shears or any Silk Touch-enchanted tools are required to collect leaves.Leaves drop their alternative items if any other tool is used. Cobweb  Can also be washed away by water.Sword or water is required to collect string. Shears or Silk Touch enchantment are required to collect cobweb.Wool   Ground
+
+Silk Touch-enchanted tools are required to collect clay, grass blocks, mycelium and podzol; otherwise it drops 4 clay balls for clay and dirt for the rest. Silk Touch-enchanted tools are also required to collect dirt path blocks, otherwise it drops dirt.Dirt path always drop dirt , even with Silk Touch-enchanted tools.Farmland always drop dirt when mined, even with Silk Touch.Suspicious sand and suspicious gravel cannot be obtained through mining, even with Silk Touch. Snow
+Shovel is required to collect snowballs from snow-type blocks, and Silk Touch-enchanted shovels are required to collect the block themselves. Snow always drop snowballs in Bedrock Edition, even with Silk Touch-enchanted tools.  Cobweb  Can also be washed away by water.Sword or water is required to collect string. Shears or Silk Touch enchantment are required to collect cobweb. Plants  Damages the sword twice per bamboo broken. Other  Infested blocks cannot be obtained in Survival, even with Silk Touch. Plants, sponges and fungi
+
+Shears or any Silk Touch enchanted tool are required to collect leaves.Silk Touch is required to mine sculk-related blocks, or they drop experience. Sculk veins drop no experience.Any (all tools are equally efficient) Circuits  Can also be destroyed by liquids. Glass
+
+For glass, glass panes, glowstone, sea lanterns, stained glass and stained glass panes to drop themselves, they must be mined with a tool enchanted with Silk Touch. Plants  In Adventure mode, the sand block underneath the cactus is required to be broken with a shovel for the cactus to be broken. Other
+
+Carpet can also be washed away by water.Dragon eggs cannot usually be mined directly because hitting it causes it to teleport. Mining is possible only if its entire teleportation radius is filled with blocks.Turtle eggs must be mined with Silk Touch.Frosted ice, reinforced deepslate, trial spawners, and vaults never drop as an item, even with Silk Touch.Cake cannot be obtained after being placed, even with Silk Touch.Any (instantly breaks; doesn't make tools lose durability) Redstone components
+
+These blocks can also be washed away by liquids.Breaking tripwire without shears causes the mechanism to turn on and off quickly. Plants, corals and fungi
+
+These blocks, except sugar cane, mangrove propagules, kelp, seagrass, tall seagrass, sea pickles, and non-solid coral blocks, can be washed out by water.Ferns, large ferns, grass and tall grass must be mined with shears; or they randomly drop seeds.
+Seagrass, bushes, short dry grass, tall dry grass and nether sprouts drop nothing when mined without shears.
+Tall grass, tall seagrass, and large ferns drop two of their respective plant when mined with shears.Dead bushes must be mined with shears to drop themselves; if anything else is used, only sticks drop.Hanging roots can only be obtained with Silk Touch or shears.Twisting vines and weeping vines have a 2/3 chance to drop nothing if mined without Silk Touch, shears, or Fortune.Wheat, carrots, potatoes, beetroot, melon stem, and pumpkin stem are technical blocks, and cannot be obtained in the inventory at all. Other
+
+Flower pots, torches, soul torches, colored torches, underwater torches, and frogspawn can be washed out by water.Infested blocks and frogspawn cannot be obtained in Survival, even with Silk Touch.Decorated pots drop their respective sherds and bricks when mined with a tool not enchanted with Silk Touch, but not by any other method.Fire and soul fire are technical blocks, and cannot be obtained in the inventory at all.None (unbreakable) Commands only
+
+Light blocks cannot be targeted if a light block is not held. Other
+
+Nether portal can be broken by placing water or lava in place of it, or by explosions. Air, bubble column, cave air, end gateway, end portal, nether portal, and void air are technical blocks, and cannot be obtained in the inventory at all.
+
+Blocks by hardness
+
+The following table shows the time it takes to break each type of block. If there is no tool that helps speed up mining that block, the "tool" column is left empty. A few blocks are harvested faster with shears or a sword; these speeds are listed in the last two columns if different than "nothing". Any blocks with a breaking time of 0.05 seconds or less can be broken without the  second (or 6 ticks) delay that occurs between each broken block; see instant breaking above. Any block that has a hardness of infinity ∞ actually has a hardness of -1. However, the breaking ticks start from 0, which means that effectively it can never break.
+
+Legend:
+
+italicized can be instant mined
+
+[edit values]
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+In the code, unbreakable blocks use a hardness value of -1.
+Mining an ender chest with a wooden pickaxe takes the longest time in the game (16.9 seconds) to mine a block with the correct tool, without the effect of Mining Fatigue and other mining speed reduction events.
+
+Notes
+
+References
+
+Navigation
+
+de:Abbauen
+es:Rotura
+fr:Minage
+it:Distruzione
+ja:採掘
+ko:채굴
+nl:Breken
+pt:Quebrar
+ru:Добывание
+uk:Добування
+zh:挖掘

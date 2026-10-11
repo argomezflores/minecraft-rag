@@ -1,0 +1,39 @@
+TITLE: Poisonous Potato Cutter
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Poisonous_Potato_Cutter
+---
+A poisonous potato cutter is a joke block only present in 24w14potato. It functions like a stonecutter, except it works only on poisonous potatoes, cutting them into poisonous potato slices or poisonous potato sticks.
+
+Obtaining
+Breaking
+A poisonous potato cutter can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Crafting
+
+Crafting recipe: Poisonous Potato, Potone, Potone, Potone arranged in the crafting grid → Poisonous Potato Cutter.
+
+Usage
+Cutting
+The poisonous potato cutter can be used to craft poisonous potatoes into poisonous potato slices and poisonous potato sticks.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Blocks with GUI
+Category:Utility blocks
+Category:Manufactured blocks
+
+ja:Poisonous Potato Cutter
+zh:切毒马铃薯机

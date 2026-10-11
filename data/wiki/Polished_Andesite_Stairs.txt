@@ -1,0 +1,55 @@
+TITLE: Polished Andesite Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Andesite_Stairs
+---
+Polished andesite stairs are a decorative stairs variant of polished andesite used for building.
+
+Obtaining
+Breaking
+Polished andesite stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Andesite, Polished Andesite, Polished Andesite, Polished Andesite, Polished Andesite, Polished Andesite arranged in the crafting grid → Polished Andesite Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Stairs
+
+fr:Escalier en andésite polie
+ja:磨かれた安山岩の階段
+ko:윤나는 안산암 계단
+lzh:鎣安山石階
+pt:Escadas de Andesito Polido
+ru:Ступени из полированного андезита
+th:บันไดหินแอนดีไซต์ขัด
+uk:Сходи з полірованого андезиту
+zh:磨制安山岩楼梯

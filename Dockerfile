@@ -14,7 +14,7 @@ COPY src ./src
 COPY widget ./widget
 COPY scripts ./scripts
 
-RUN mkdir -p /app/data/pdfs /app/data/chroma
+RUN mkdir -p /app/data/wiki /app/data/chroma
 
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1

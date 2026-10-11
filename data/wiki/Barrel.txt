@@ -1,0 +1,132 @@
+TITLE: Barrel
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Barrel
+---
+A barrel is a solid block used to store items. Unlike a chest, it cannot connect to other barrels. It also serves as a fisherman's job site block.
+
+Obtaining
+Breaking
+Barrels can be mined with or without any tool, but axes are the quickest.
+
+Natural generation
+Empty barrels can generate naturally in fisher cottages in villages. Up to 3 barrels can generate in a village fisher cottage.
+
+In trial chambers, barrels containing loot can be found in the corridors, and empty barrels can be found beneath hoppers at chamber entrances.
+
+Barrels containing loot can be found in abandoned camps.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Any Planks, Any Wooden Slab, Any Planks, Any Planks, Any Planks, Any Planks, Any Wooden Slab, Any Planks arranged in the crafting grid → Barrel.
+
+Usage
+Barrels can be moved by pistons. Water and lava flow around barrels without affecting them. Lava can create fire in air blocks next to barrels as if the barrel was flammable, but the barrel does not actually catch fire and can't burn away.
+
+Container
+thumb|right|176px|The GUI of the barrel.
+
+Barrels have a container inventory with 27 slots, which is the same as a single chest. Unlike chests, the action of opening a barrel is never prevented.
+They can be filled by droppers and both filled and emptied by hoppers. When broken, barrels drop the contents of the container and the barrel item itself.
+
+To open the barrel interface, use the  control. To move items between the barrel inventory and the player inventory or hotbar while the barrel interface is open, drag or shift-click the items. Holding  and double-clicking while holding an item moves all items of the type clicked on in or out of the barrel to the extent that space is available for them. To exit the barrel interface, use the  control.
+
+By default, the interface of a barrel is labeled "Barrel". A barrel's GUI label can be changed by naming the barrel in an anvil before placing it or by using the  command (for example, to label a barrel at (0,64,0) as "Bonus Barrel!", use ).
+
+, a barrel can be "locked" by setting its lock tag using the  command. If a barrel's lock tag is not blank, the barrel cannot be opened unless the player is holding an item that matches the item predicate in the lock tag. For example, to lock a barrel at (0,64,0) so that the barrel cannot be opened unless the player is holding an item named "Barrel Key", use .
+
+Profession
+
+If a barrel has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to fisherman and claim the barrel as their job site block.
+
+Fuel
+Barrels can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+Piglins
+Piglins become hostile toward players who open or break barrels.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A barrel has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: List of items in the container. Represents the  component. The component is still present on the block entity, even if the tag does not exist (due to a loot table existing instead).
+: An item, including the slot tag. Barrel slots are numbered 0-26, 0 starts in the top left corner.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+thumb|right|upright=0.5|Alex wearing a barrel
+In the 2022's April Fool's update, a barrel can be thrown onto a player and make them appear as if they were "wearing" or "hiding" under the block.
+
+Gallery
+Render
+Close
+
+Open
+
+Mojang screenshots
+
+In other media
+
+External links
+
+Navigation
+
+Category:Job blocks
+Category:Utility blocks
+Category:Storage
+Category:Generated structure blocks
+Category:Manufactured blocks
+Category:Block entities
+Category:Blocks with GUI
+Category:Readable by comparators
+
+cs:Sud
+de:Fass
+es:Barril
+fr:Tonneau
+it:Barile
+ja:樽
+ko:통
+lzh:木桶
+pl:Beczka
+pt:Barril
+ru:Бочка
+uk:Діжка
+zh:木桶

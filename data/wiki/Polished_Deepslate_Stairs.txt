@@ -1,0 +1,55 @@
+TITLE: Polished Deepslate Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Deepslate_Stairs
+---
+Polished deepslate stairs are a decorative stairs variant of polished deepslate that generate in ancient cities and are used for building.
+
+Obtaining
+Breaking
+Polished deepslate stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished deepslate stairs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate, Polished Deepslate arranged in the crafting grid → Polished Deepslate Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en ardoise des abîmes polie
+ja:磨かれた深層岩の階段
+ko:윤나는 심층암 계단
+lzh:鎣板石階
+pt:Escadas de Ardosiabissal Polida
+ru:Ступени из полированного глубинного сланца
+th:บันไดหินชนวนลึกขัด
+uk:Сходи з полірованого глибосланцю
+zh:磨制深板岩楼梯

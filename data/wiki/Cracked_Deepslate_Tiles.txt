@@ -1,0 +1,48 @@
+TITLE: Cracked Deepslate Tiles
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cracked_Deepslate_Tiles
+---
+Cracked deepslate tiles are the cracked variant of deepslate tiles.
+
+Obtaining
+Breaking
+Cracked deepslate tiles can be obtained only by mining it with a pickaxe. When mined using any other tool, it drops nothing. Mining cracked deepslate tiles takes longer than mining deepslate.
+
+Natural generation
+Cracked deepslate tiles generate naturally in ancient cities.
+
+Smelting
+
+Smelting recipe: Deepslate Tiles → Cracked Deepslate Tiles, XP: 0.1.
+
+Usage
+Cracked deepslate tiles is a decorative block and is not used in any crafting or smelting recipes.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Ardoise des abîmes carrelée craquelée
+ko:금 간 심층암 타일
+lzh:裂板石瓦
+pt:Ladrilhos de Ardosiabissal Rachados
+ru:Потрескавшийся глубинносланцевый плитняк
+th:กระเบื้องหินชนวนลึกร้าว
+uk:Тріснуті глибосланцеві кахлі
+zh:裂纹深板岩瓦

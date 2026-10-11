@@ -1,0 +1,54 @@
+TITLE: Polished Tuff Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Tuff_Stairs
+---
+Polished tuff stairs are a decorative stairs variant of polished tuff that do not generate naturally and are used for building.
+
+Obtaining
+Breaking
+Polished tuff stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Tuff, Polished Tuff, Polished Tuff, Polished Tuff, Polished Tuff, Polished Tuff arranged in the crafting grid → Polished Tuff Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+In other media
+
+Navigation
+
+Category:Manufactured blocks
+Category:Stairs
+
+fr:Escalier en tuf poli
+ja:磨かれた凝灰岩の階段
+ko:윤나는 응회암 계단
+lzh:鎣積塊石階
+pt:Escadas de Tufo Polido
+ru:Ступени из полированного туфа
+th:บันไดหินภูเขาไฟขัด
+uk:Сходи з полірованого туфу
+zh:磨制凝灰岩楼梯

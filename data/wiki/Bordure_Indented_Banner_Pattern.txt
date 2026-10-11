@@ -1,0 +1,40 @@
+TITLE: Bordure Indented Banner Pattern
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bordure_Indented_Banner_Pattern
+---
+A bordure indented banner pattern is a banner pattern used to customize banners with a shape of a fancy border.
+
+Obtaining
+Crafting
+
+Usage
+Loom ingredient
+Bordure indented banner patterns are used in looms to add customization to banners. The pattern must be combined with 1 banner and 1 dye. Upon usage in the loom, the bordure indented banner pattern is not consumed.
+
+Data values
+
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Banner patterns
+
+ko:톱니 테두리 현수막 무늬
+pt:Figura para Estandarte de Bordadura Dentada
+ru:Узор флага «Зубчатая кайма»
+uk:Візерунок стяга «Зубчата рамка»
+zh:波纹边旗帜图案

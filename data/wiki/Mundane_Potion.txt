@@ -1,0 +1,77 @@
+TITLE: Mundane Potion
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Mundane_Potion
+---
+A mundane potion is a potion that provides no effects. , it can be used to brew potions of Weakness.
+
+Obtaining
+Brewing
+
+Brewing recipe: Redstone Dust; Breeze Rod; Stone; Slime Block; Cobweb; Magma Cream; Rabbit's Foot; Sugar; Glistering Melon Slice; Spider Eye; Ghast Tear; Blaze Powder + Water Bottle → Mundane Potion.
+
+Brewing recipe: Gunpowder + Mundane Potion → Mundane Splash Potion.
+
+Brewing recipe: Dragon's Breath + Mundane Splash Potion → Mundane Lingering Potion.
+
+Usage
+Base potion
+:
+
+Only usable as an alternative base for potion of Weakness.
+Long mundane potions cannot be obtained in Survival mode. It can only be brewed into an extended potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Mundane Potion → Potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Long Mundane Potion → Potion of Weakness Extended.
+
+Lingering potion
+, a lingering mundane potion acts similar to the lingering water bottle, being able to extinguish burning entities and damage endermen, blazes, and snow golems, but without the ability to put out fires.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Mundane Lingering Potion, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Tipped Arrow, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Extended Mundane Potion  1  2
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Mundane Potion  mundane
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion banale
+ko:평범한 물약
+pt:Poção Comum
+zh:平凡的药水

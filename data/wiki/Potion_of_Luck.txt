@@ -1,0 +1,46 @@
+TITLE: Potion of Luck
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Luck
+---
+A potion of Luck is a potion that provides Luck when used.
+
+Obtaining
+Potions of Luck can be obtained via commands and are also available in the Creative inventory.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion15:00Increases the luck attribute by 1 point. Splash Potion Lingering Potion 1:15
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Luck, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Luck, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Potion of Luck  luck
+
+Advancements
+
+History
+Java Edition
+
+Legacy Console Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion de chance
+pt:Poção de Sorte
+zh:幸运药水

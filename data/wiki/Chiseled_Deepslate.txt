@@ -1,0 +1,64 @@
+TITLE: Chiseled Deepslate
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Deepslate
+---
+Chiseled deepslate is a variant of deepslate.
+
+Obtaining
+Breaking
+Chiseled deepslate can be obtained only by mining it with a pickaxe. When mined using any other tool, it drops nothing.
+
+Natural generation
+Chiseled deepslate generate naturally in ancient cities.
+
+Crafting
+
+Crafting recipe: Cobbled Deepslate Slab, Cobbled Deepslate Slab arranged in the crafting grid → Chiseled Deepslate.
+
+Stonecutting
+
+Usage
+Chiseled deepslate is used for decoration.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In 1.17, chiseled deepslate was spelled "Chiselled Deepslate", a departure from the normal US English spelling.
+Chiseled deepslate depicts a generalized face, with the intent to give the player face pareidolia.
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Manufactured blocks
+
+de:Gemeißelter Tiefenschiefer
+es:Pizarra profunda cincelada
+fr:Ardoise des abîmes sculptée
+ja:模様入りの深層岩
+ko:조각된 심층암
+lzh:雕板石
+pl:Rzeźbiony łupek
+pt:Ardosiabissal Talhada
+ru:Резной глубинный сланец
+th:หินชนวนลึกสลัก
+uk:Різьблений глибосланець
+zh:雕纹深板岩

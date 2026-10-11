@@ -1,0 +1,78 @@
+TITLE: Diamond Boots
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Diamond_Boots
+---
+Diamond boots are a variant of boots crafted from diamonds. They are the second-highest tier of boots, having higher armor points, armor toughness, durability, and enchantability than iron boots. They can be upgraded into netherite boots using a netherite ingot and netherite upgrade at a smithing table.
+
+Obtaining
+Crafting
+
+Crafting recipe: Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Diamond Boots.
+
+Generated loot
+
+Mob loot
+Zombies, husks, zombie villagers, skeletons, strays, bogged, and parched have an extremely small chance to spawn wearing diamond armor, which may include diamond boots. There is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop the boots they're wearing upon death unless they are spawned from an ominous trial spawner. The dropped boots are usually badly damaged, and may be enchanted with enchantment levels 5-19.
+
+Trading
+
+Usage
+When worn, diamond boots provide  armor points and  armor toughness.
+
+Upgrading
+
+Repairing
+Combining
+
+Unit repair
+
+Boots can be repaired in an anvil by adding units of the tiers' repair material, with each repair material restoring 25% the boots' maximum durability, rounded down. Two boots of the same tier can also be combined in an anvil. Both methods preserve the boots' enchantments.
+
+Enchantments
+Boots can receive the following enchantments:
++NameDescriptionMax levelMethodWeightProtectionProtection, Projectile Protection, Blast Protection, and Fire Protection are mutually exclusive.Increases overall damage reduction.IV10Projectile ProtectionIncreases damage reduction against projectiles.IV5Blast ProtectionIncreases damage reduction against explosions.IV2Fire ProtectionIncreases damage reduction against fire.IV5Feather FallingReduces fall damage.IV5ThornsDeals returning damage to attackers.III1Depth StriderFrost Walker and Depth Strider are mutually exclusive.Increases underwater movement speed.III2Frost WalkerLeaves a trail of ice when walking over water.II1Soul SpeedIncreases movement speed on soul sand.III1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the boots when obtaining experience.I2Curse of VanishingThe boots vanish on death, not dropping as an item.I1Curse of BindingRemoves the ability to de-equip the boots.I1
+
+Armor trimming
+It is possible to upgrade armor with trims. This requires a smithing template, a pair of boots, and an ingot or crystal (iron ingot, copper ingot, gold ingot, netherite ingot, emerald, redstone dust, lapis lazuli, amethyst shard, nether quartz, diamond, or resin brick).
+
+These trims have no effect on the gameplay or strength of the armor.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+References
+
+Navigation
+
+Category:Armor
+Category:Combat
+
+fr:Bottes#Diamant
+pt:Botas de Diamante

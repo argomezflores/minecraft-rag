@@ -1,0 +1,53 @@
+TITLE: Polished Andesite Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Andesite_Slab
+---
+A polished andesite slab is a decorative slab variant of polished andesite that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Polished andesite slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Andesite, Polished Andesite, Polished Andesite arranged in the crafting grid → Polished Andesite Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a polished andesite slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle d'andésite polie
+ja:磨かれた安山岩のハーフブロック
+pt:Laje de Andesito Polido
+zh:磨制安山岩台阶

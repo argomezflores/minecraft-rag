@@ -1,0 +1,66 @@
+TITLE: Dead Coral Fan
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Dead_Coral_Fan
+---
+Dead coral fans are the result of the living variants of coral fans when they are outside water. There are five variants total: tube, brain, bubble, fire, and horn.
+
+Obtaining
+Breaking
+Dead coral fans can be mined instantly but can be obtained only when mined with a Silk Touch enchanted tool.
+
+, dead coral can only be obtained with a Silk Touch pickaxe.
+
+Natural generation
+In , dead coral fans naturally generate in coral reef structures. Dead coral fans do not generate naturally in .
+
+Post-generation
+Dead coral fans can be obtained by placing live coral fans outside of water, and it turns into its respective dead variant immediately or after a few seconds.
+
+Dead coral wall fans
+Dead coral wall fans cannot be obtained through vanilla means. , they are completely unobtainable, but , they can be obtained through add-ons or inventory editing.
+
+Usage
+Dead coral fans can be used for building or as decoration blocks. It is not possible to turn a dead coral fan back into a live coral fan.
+
+Placement
+All dead coral fans can be placed on the four sides and the top surface of blocks; they cannot be placed on the bottom surface.
+
+Pushing with pistons
+dead coral fans can be moved by pistons as long as they are still "supported" in the new position (not floating).
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Gallery
+Renders
+
+Issues
+
+References
+
+Navigation
+
+Category:Animal blocks
+Category:Natural blocks
+Category:Non-solid blocks
+
+ko:죽은 부채형 산호
+pt:Gorgônia Morta
+zh:失活的珊瑚扇

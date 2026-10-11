@@ -1,0 +1,50 @@
+TITLE: Breeze Rod
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Breeze_Rod
+---
+A breeze rod is an item obtained by killing breezes. It can be used to craft wind charges and maces, duplicate flow armor trims, and brew potions of Wind Charging.
+
+Obtaining
+Mob loot
+
+Usage
+Crafting ingredient
+
+Repairing
+Breeze rods can be used in an anvil to repair a mace.
+
+Brewing ingredient
+
+Brewing recipe: Breeze Rod + Water Bottle → Mundane Potion.
+
+Data values
+ID
+:
+
+:
+
+History
+Teaser
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Böenrute
+es:Vara de breeze
+fr:Bâton de Breeze
+ja:ブリーズロッド
+ko:브리즈 막대기
+lzh:風靈桿
+pl:Wichrowa różdżka
+pt:Vara de Vórtice
+ru:Стержень вихря
+th:แท่งบรีซ
+uk:Стрижень вітреня
+zh:旋风棒

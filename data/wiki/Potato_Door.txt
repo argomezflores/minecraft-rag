@@ -1,0 +1,42 @@
+TITLE: Potato Door
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Door
+---
+A potato door is a variant of the door made of potato planks that can be opened and closed by the player without redstone, only present in 24w14potato.
+
+Obtaining
+Breaking
+Potato doors can be broken with anything, but axes are the fastest. Potato doors drop themselves if they no longer have a block beneath them that can support them.
+
+Natural generation
+Potato doors generate naturally as part of potato villages.
+
+Crafting
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Potato Door,3.
+
+Usage
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Mechanisms
+Category:Redstone
+Category:Utility blocks
+Category:Generated structure blocks
+
+ja:Potato Door
+zh:马铃薯木门

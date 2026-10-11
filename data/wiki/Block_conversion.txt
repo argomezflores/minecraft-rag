@@ -1,0 +1,19 @@
+TITLE: Block conversion
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Block_conversion
+---
+Block conversion is a mechanic where certain blocks can convert into other blocks.
+
+List of block conversions
+Block to block conversions
++FromToMethod Any BlockRemoving the block. Any BlockPlacing the block at place., , , Using a shovel on it., Having a block placed above it.Using a water bottle on it.Having a dripstone placed underneath it.Melting near light sources and heat blocks, , , , , Using a hoe on it., , Using an axe on it., , Using bone meal on it.Being on a snowy biome.,  Having one of these blocks placed next to it.,, , , ,, , , and Being near a large spruce tree when it grows.Jumping on it or not being near water.Being touched by water.Being touched by Lava if the Lava flows on top of the water.Being infested by a silverfish.When it flows on soul soil and next to blue ice., , , , , , , , , , , , , , , , , , , , , , , , , , Time passing, , , , , , , , , , , , , , , , , , , , , , , , , , Time passing, , , , , , , , , , , , , , , , , , , , , , , , , , Time passing, , , , , , , , , , , , , , , , , , , , , , , , , , Using a honeycomb on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using a honeycomb on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using a honeycomb on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using a honeycomb on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it., , , , , , , , , , , , , , , , , , , , , , , , , , Using an axe on it.When lava flows in contact with water.Using bone meal on it.Using bone meal on it.Using bone meal on it., Using a hoe on it., Changing the command block state by clicking to interact with it., Changing the command block state by clicking to interact with it., Changing the command block state by clicking to interact with it.If a player touches water with a boot enchanted with frost walker., Having a block placed above it., , Using an axe on it.Using an axe on it.If the sponge cleans water.When it touches water.If the wet sponge is in a warm biome or the Nether.Randomly when being used or falling.Randomly when being used or falling.Randomly when being used or falling.
+
+Block to mob conversions
++FromToMethodUsing an axe on it.Submerging in water.Destroying the block.
+
+See also
+Mob conversion
+
+Navigation
+
+pt:Conversão de bloco

@@ -1,0 +1,168 @@
+TITLE: Rotation
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Rotation
+---
+thumb|Perspectives
+Rotation (also known as perspective, viewpoint or viewing angle) is the direction an entity is facing. Rotation in Minecraft consists of Y-rotation or yaw and X-rotation, declination or pitch, each affecting the directions of the body and the head of the entity. For entities without heads, they can sometimes rotate entirely around the X-axis. The "X" and "Y" refers to the axis about which they rotate. Rotation can limit what a mob or player can see, but other entities (e.g. boats and item frames) also have a rotation.
+
+Representation
+
+Entity hitbox
+
+thumb|300px|A frog's perspective can be seen as a blue line in the debug renderer.
+Rotation is visualized by  debug renderer as a long blue tint placed in-line with the (red) eye height hitbox and shows which direction the entities are looking.
+
+Entity format
+
+Rotation is internally represented with two float values in degrees.
+Y-rotation varies from -180° (facing due north) to -90° (facing due east) to 0° (facing due south) to +90° (facing due west) to +180° (facing due north again).
+For X-rotation, horizontal is 0°, with positive values looking downward and negative values looking upward. It does not exceed positive or negative 90°.
+
+Debug screen
+
+thumb|Facing in the Debug screen
+
+With F3 + B, the rotation of all entities show up as a blue beam.
+
+The player's own rotation can be seen in the debug screen under Facing. First the cardinal direction and axis are mentioned, followed by the two angles for direction and head tilt.
+
+Y-rotation (Yaw Angle)
+A change in the Y-rotation angle changes the direction it is facing, to the left or right of its direction of motion. They are represented in the debug screen correct to 1 decimal place. (The X and Z coordinates are represented correct to 3 decimal places.)
+
+Here, "anticlockwise angle from +X in a 2D system" is thought of as anything in (-180°, 180°], or -180° < x ≤ 180°, where x is one of the angles.
++Y-rotation angle ranges based on the cardinal directionsCardinal
+DirectionsTowards the axisY-rotation angle range
+(ranges inclusive, follows anticlockwise direction)Range of anticlockwise angle from +X in a 2D system
+(ranges inclusive, anticlockwise direction)Northnegative Z -135.1° to 135.0° (135.0°..180.0° ∪ -179.9°..-135.1°)45.1° to 135.0°Southpositive Z44.9° to -45.0° -134.9° to -45.0°Eastpositive X -45.1° to -135.0° -44.9° to 45.0° Westnegative X134.9° to 45.0°135.1° to -135.0°
+thumb|Diagram mapping Y-rotation angles to clock positions and cardinal directions, along with the bounding angles (all inclusive) for each cardinal direction. This diagram has been referred to as the "yaw table" in this article.|alt=Diagram of a clock mapping yaw angles on a clock, highlighting the different cardinal directions in alternating black and white colours. The bounding angles are written on a white box in a black background.
++Y-rotation angles based on the clock positionsClock
+PositionsY-rotation angleAnticlockwise angle from +X in a 2D system1 o'clock -150.0°60.0°2 o'clock -120.0°30.0°3 o'clock -90.0°0.0°4 o'clock -60.0° -30.0°5 o'clock -30.0° -60.0°6 o'clock-0.0° -90.0°7 o'clock30.0° -120.0°8 o'clock60.0° -150.0°9 o'clock90.0°180.0°10 o'clock120.0°150.0°11 o'clock150.0°120.0°12 o'clock180.0°90.0°
+
+Algorithm for the Y-rotation angle
+Explanation
+The angle transformation to get the correct Y-rotation angle not only requires rotating the Y-rotation circle, but also reflecting the yaw table horizontally or vertically through the diameter.
+
+Initial and Desired
+alt=A semicircle in Minecraft, placed in a valley using spruce logs and jungle place. Orientation is like a dome.|thumb|This is the upper half of a normal circle with the actual angles written. This picture can be compared with the one given above. We want to get the corresponding Y-rotation angles. This part can be thought of as the top half of a semicircle standing on the +X axis. The circle is to be rotated for getting the outputs as in the yaw table. It is also checked whether reflecting the circle along the diameter (or flipping the circle) is necessary.
+alt=A semicircle in Minecraft, placed in a valley using spruce logs and jungle planks. Orientation is towards the left. Mirror of the "Semicircle rotated by minus 90 degrees" image.|thumb|The desired angles. The 180 degree part is above the 0 degree part, and the semicircle is in a C-like orientation.
++What we wantInitial angle
+(+X axis, anticlockwise)Desired angle
+(Corresponding Y-rotation angle)OrientationDesired position in the semicircle0° -90°Towards the leftBottom90°180°Left180°90°Top
+alt=Semicircle rotated by plus 90 degrees, orientation of the semicircle is towards the left.|thumb|Semicircle rotated by +90°.
+
+Adding 90°
++Initial angle
+(+X axis, anticlockwise)Final angle
+(Corresponding Y-rotation angle)OrientationFinal position in the semicircle0° 90° Towards the leftTop90°180°Left180°-90° Bottom
+
+Reflecting the semicircle along the (imaginary) horizontal diameter produces the desired angles (Top changes to bottom and vice-versa).
+alt=Semicircle rotated by minus 90 degrees, orientation of the semicircle is towards the right.|thumb|Semicircle rotated by -90°.
+
+Subtracting 90°
++Initial angle
+(+X axis, anticlockwise)Final angle
+(Corresponding Y-rotation angle)OrientationFinal position in the semicircle0° -90°Towards the rightBottom90°0°Right180°90°Top
+
+Reflecting the semicircle along the vertical diameter produces the desired angles (Right changes to left and vice-versa).
+
+Wrapping back
+For the yaw, the range is (-180°, 180°], which means that anything greater than the absolute value of 180 degrees must be wrapped back inside the yaw table. However, after the angle transformations, all the angles beyond the range are to be wrapped.
+
+There can be many more approaches for wrapping other than the ones stated below.
+
+Approach 1: Using the modulus
+Required: the size and the minimum and the maximum values.
+
+The size is 360° because the whole circle is being considered.
+
+Therefore,
+
+In various programming languages, the mod(a, n) operator is used. When exactly one of the operands is negative, the basic definition breaks down, and programming languages differ in how these values are defined.https://en.wikipedia.org/wiki/Modulo Here, n = 360. Therefore, 'a' should be changed to a positive value before performing the modulo operation.
+
+Approach 2: Adding or subtracting by 360 degrees
+360 degrees is a full revolution. Moving by positive or negative 360 degrees is the same thing as not moving inside the orbit.
+
+Thus, the following method can be used:
+
+This has been achieved through the following code in JavaScript:angle = -360 * Math.sign(angle) + angle;
+if (angle === -180)
+return "180.0";
+return angle;Here, angle is the variable x.
+
+The final code
+The final code in JavaScript is as follows. Two coordinates are used, namely (xcurrent, zcurrent) and (xdest, zdest).https://github.com/FlyingSaturn/yawcalc/blob/main/script.js
+
+function getYawAngle(xcurrent, zcurrent, xdest, zdest) {
+
+// z is negated here (equivalent to -(zdest - zcurrent))
+let slope = Math.atan2(zcurrent - zdest, xdest - xcurrent) * (180 / Math.PI);
+
+slope += 90;   // Adding 90 degrees
+slope *= -1;   // Reflecting along the horizontal diameter
+
+// Wraps into the (-180, 180] range (Approach 2)
+if (Math.abs(slope) > 180) {
+slope = -360 * Math.sign(slope) + slope;
+}
+
+// Rounding to a single decimal place
+slope = Math.round(slope * 10) / 10;
+
+// Mimicking the Java special‑case string outputs
+if (slope === 0)       return "-0.0";
+if (slope === -180)    return "180.0";
+
+// Default path – always keeping one decimal digit like Java’s “‑123.4”
+return slope.toFixed(1);
+}The function in Approach 2 has not been replicated one-to-one.
+
+Place blocks
+The viewing angle affects the placement of some blocks: depending on how the player look, for example, a banner or a sign rotated accordingly. The viewing angle also plays a role when placing stairs or scaffolding.
+
+Target selection
+Target selection properties allow entities to be selected that have a specific viewing angle:
+y_rotationViewing anglex_rotationHead tilt angle
+Angle ranges are specified with two points, e.g. B. 43..47.
+/title @a[y_rotation=<view angle>] actionbar {"text":"View direction (compass direction)"}
+
+/title @a[x_rotation=<head tilt angle>] actionbar {"text":"head tilt (up)"}
+Examples of the cardinal directions:
+/execute if entity @p[y_rotation=135..-135] run say North
+/execute if entity @p[y_rotation=-135..-45] run say East
+/execute if entity @p[y_rotation=-45..45] run say South
+/execute if entity @p[y_rotation=45..135] run say West
+
+Save perspective
+Blinking angles can be read out and saved in a score: This is done by creating a score target for the direction and the inclination.
+/scoreboard objectives add direction dummy "viewing angle direction"
+/scoreboard objectives add tilt dummy "viewing angle inclination"
+The direction and inclination are then read out using the command /data and save them in the respective score.
+/execute as @a store result score @s direction run data get entity @s Rotation[0]
+/execute as @a store result score @s tilt run data get entity @s Rotation[1]
+
+Set perspective
+The commands  and  can be used to set the perspective of entities. The entities can move freely after teleportation if they have AI, but they start with the fixed viewing angle.
+
+Additionally, all entities except players can be realigned using the command  via the property Rotation
+
+Viewpoint coordinates
+
+Circumflexes (^) allow the position to be determined depending on the rotation of an entity.
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Data History
+
+Java Edition
+
+References
+
+Navigation
+
+de:Blickwinkel
+pt:Rotação
+zh:朝向

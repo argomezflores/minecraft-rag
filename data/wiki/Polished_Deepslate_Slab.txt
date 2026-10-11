@@ -1,0 +1,56 @@
+TITLE: Polished Deepslate Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Deepslate_Slab
+---
+A polished deepslate slab is a decorative slab variant of polished deepslate that generates in ancient cities and is used for building.
+
+Obtaining
+Breaking
+Polished deepslate slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished deepslate slabs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Polished Deepslate, Polished Deepslate, Polished Deepslate arranged in the crafting grid → Polished Deepslate Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a polished deepslate slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle d'ardoise des abîmes polie
+ja:磨かれた深層岩のハーフブロック
+ko:윤나는 심층암 반 블록
+pt:Laje de Ardosiabissal Polida
+zh:磨制深板岩台阶

@@ -1,0 +1,78 @@
+TITLE: Mangrove Roots
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mangrove_Roots
+---
+Mangrove roots are blocks that form as part of mangrove trees. Unlike other see-through blocks such as copper grates, mangrove roots are capable of conducting redstone power.
+
+Obtaining
+Breaking
+Mangrove roots can be broken by hand, but using an axe is quickest. Mangrove roots drop themselves when broken with any tool.
+
+Natural generation
+Mangrove roots are generated in mangrove swamp biomes. They can also generate in some entrance rooms of trial chambers.
+
+Post-generation
+When mangrove propagules grow, they develop roots that can vary in size.
+
+Usage
+Mangrove roots can be waterlogged, despite being a full block. Water does not spread out and waterlogged mangrove roots follow the same mechanics as any other waterlogged block.
+
+, mobs can spawn on mangrove roots.
+
+Redstone
+Redstone circuits can pass their power level through mangrove roots and power other redstone components that are adjacent to the block, even when waterlogged. This block is notable in this behavior because it is transparent and both mobs and players will not suffocate while they are inside of it.
+
+Crafting ingredient
+
+Composting
+Mangrove roots have a 30% chance of increasing the compost level in a composter by 1.
+
+Fuel
+Mangrove roots can be used as fuel in furnaces. A block of mangrove roots lasts 15 seconds (smelting up to 1.5 items).
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+See also
+
+References
+
+Navigation
+
+Category:Natural blocks
+Category:Flammable blocks
+Category:Generated structure blocks
+
+Category:Plants
+
+de:Mangrovenwurzeln
+es:Raíces de mangle
+fr:Racines de palétuvier
+ja:マングローブの根
+ko:맹그로브나무 뿌리
+lzh:沒潮木根
+pl:Namorzynowe korzenie
+pt:Raízes de Mangue
+ru:Мангровые корни
+th:รากไม้โกงกาง
+zh:红树根

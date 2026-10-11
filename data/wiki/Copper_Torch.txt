@@ -1,0 +1,84 @@
+TITLE: Copper Torch
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Torch
+---
+A copper torch is a non-solid block that emits light. Copper torches can also be used to craft copper lanterns.
+
+Obtaining
+Breaking
+Copper torches can be broken instantly using anything, and drop themselves as an item.
+
+A copper torch is removed and drops itself as an item if:
+Its attachment block is moved, removed, or destroyed
+Water flows into its space
+A piston pushes it or moves a block into its space
+When lava flows into a copper torch's space, it will be destroyed without dropping anything.
+
+Crafting
+
+Crafting recipe: Copper Nugget, Coal; Charcoal, Stick arranged in the crafting grid → Copper Torch, 4.
+
+Usage
+Copper torches can be placed on the top or the sides of most solid blocks, although some blocks require . Being non-solid, copper torches have no collision box. More information about placement can be found at Opacity/Placement.
+
+Gravity-affected blocks like sand and gravel do not start falling if the space immediately beneath is occupied by a copper torch. Falling blocks break if they fall onto a solid block with a copper torch above it. If there is an air block under the copper torch, the falling blocks fall through the copper torch onto the surface below.
+
+Copper torches do not oxidize. The copper is being used as part of the torch's fuel and not the base.
+
+Light
+Copper torches give off a light level of 14. Copper torches also melt snow layers within 2 blocks and ice within 3 blocks (taxicab distance).
+
+When the Render Dragon Features for Creators experiment is enabled in Minecraft Preview, the top part of copper torches emits colored point lighting with . This causes the bottom part of the copper torch to render a small square shadow.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Wall
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, green fire can be produced by introducing copper(II) salts such as  and  into a flame, in a process called .
+Copper in its metal form does not reliably work for this purpose, as the flame color is produced by metal ions.
+
+Gallery
+Mojang screenshots
+
+See also
+
+Colored torch
+
+References
+
+Navigation
+
+Category:Light sources
+
+de:Kupferfackel
+es:Antorcha de cobre
+fr:Torche de cuivre
+ja:銅の松明
+ko:구리 횃불
+lzh:銅炬
+pt:Tocha de Cobre
+ru:Медный факел
+th:คบเพลิงทองแดง
+uk:Мідний смолоскип
+zh:铜火把

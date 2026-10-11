@@ -1,0 +1,56 @@
+TITLE: Polished Diorite Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Diorite_Slab
+---
+A polished diorite slab is a decorative slab variant of polished diorite that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Polished diorite slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Diorite, Polished Diorite, Polished Diorite arranged in the crafting grid → Polished Diorite Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a polished diorite slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Tweet
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle de diorite polie
+ja:磨かれた閃緑岩のハーフブロック
+ko:윤나는 섬록암 반 블록
+pt:Laje de Diorito Polido
+zh:磨制闪长岩台阶

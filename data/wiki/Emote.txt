@@ -1,0 +1,46 @@
+TITLE: Emote
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Emote
+---
+thumb|Efe, Sunny, Ari, and Alex showing off various emotes.
+
+Emotes are cosmetical items from the Dressing Room that allow players to perform animations.
+
+Usage
+The Dressing Room includes a section for emotes. Some emotes are available for free, while most are obtained using Minecoins, from Marketplace packs, and as achievement rewards. The player can "equip" up to 4 of their emotes at a time. When in a world, pressing  on a keyboard, or , /,  or  on a controller opens the main emote selection menu. A quick-emote selection menu also can be quickly accessed by holding aforementioned emote button and then selecting the corresponding input from the small pop-up window. When using touch controls, tapping 20px button on the top of the screen while in a world opens the emote menu. The player can then tap an emote to perform the animation.
+
+Whenever a player performs an emote, a message in the chat is shown for all players describing the emote, which can be disabled in the chat settings.
+
+thumb|300px|Dressing Room interface of Emote menu.
+thumb|300px|In-game menu display.
+
+Available animations
+
+History
+thumb|Emotes, as showcased at MINECON Live 2019.|alt=|180x180px
+
+Issues
+
+Trivia
+It actually does not matter whether the player is submerged (partially or fully) in a liquid (water or lava), flying, falling, levitating, sneaking, or on dry land, just as long as the player isn't riding anything, the player would still perform the emote.
+In the crossover fighting game Super Smash Bros. Ultimate, the simple clap emote is used for Steve's clap animation when he loses a battle or if a player resigns from a battle, resulting in a "No Contest" screen.
+The "Celebrate" emote was shown at MINECON Live 2019, but has not been made available.
+The Fake Death emote can be used to conceal the player inside of a wall by using the emote when one is in a corner.
+
+Gallery
+Renders
+
+Screenshots
+
+References
+
+Navigation
+
+Category:Minecraft Marketplace
+
+de:Emotes
+ja:エモート
+lzh:情貌
+pt:Emotes
+ru:Эмоции
+zh:表情

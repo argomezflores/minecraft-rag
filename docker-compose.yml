@@ -1,18 +1,19 @@
 services:
   rag-api:
     build: .
-    container_name: rag-gob-mx
+    container_name: rag-minecraft
     ports:
       - "8000:8000"
     environment:
       - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
       - CLAUDE_MODEL=${CLAUDE_MODEL:-claude-sonnet-4-5-20250929}
-      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-paraphrase-multilingual-MiniLM-L12-v2}
+      - HAIKU_MODEL=${HAIKU_MODEL:-claude-haiku-4-5-20251001}
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-all-MiniLM-L6-v2}
       - CHROMA_PATH=/app/data/chroma
-      - PDFS_PATH=/app/data/pdfs
-      - COLLECTION_NAME=${COLLECTION_NAME:-gob_mx}
+      - WIKI_PATH=/app/data/wiki
+      - COLLECTION_NAME=${COLLECTION_NAME:-minecraft}
       - TOP_K=${TOP_K:-5}
     volumes:
       - ./data/chroma:/app/data/chroma
-      - ./data/pdfs:/app/data/pdfs
+      - ./data/wiki:/app/data/wiki
     restart: unless-stopped

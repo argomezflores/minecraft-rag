@@ -1,0 +1,38 @@
+TITLE: Copper Spleaves
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Spleaves
+---
+Copper spleaves are joke blocks only present in Java Edition 23w13a_or_b which are broken upon any contact with most types of entities. They generate when a lunar base on the Moon is activated via the pressure plate on top.
+
+Obtaining
+Copper spleaves can be obtained via the Creative inventory or with commands, but are unobtainable by Survival means.
+
+Breaking
+Copper spleaves cannot be obtained when mined, even using a tool enchanted with Silk Touch.
+
+Sounds
+
+Generic
+
+Unique
+
+Data values
+
+Issues
+
+Trivia
+The exact y level the player needs to be in to not break the copper spleaves is just less than 1 above the block.
+Copper spleaves only have a weathered texture, despite being a copper block.
+Copper grates were added in 1.21, and have a similar appearance to copper spleaves.
+
+Navigation
+
+Category:Joke blocks
+Category:transparent blocks
+Category:The Moon (joke dimension)
+es:Esplifojas de cobre
+fr:Spfeuilles en cuivre
+ja:Copper Spleaves
+pt:Edição Java 23w13a or b/Copper Spleaves
+ru:Медная сплиства
+zh:铜枝叶

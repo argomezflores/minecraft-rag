@@ -1,0 +1,53 @@
+TITLE: Cut Red Sandstone Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cut_Red_Sandstone_Slab
+---
+A cut red sandstone slab is a decorative slab variant of cut red sandstone that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Cut red sandstone slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cut Red Sandstone, Cut Red Sandstone, Cut Red Sandstone arranged in the crafting grid → Cut Red Sandstone Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a cut red sandstone slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+ja:研がれた赤い砂岩のハーフブロック
+ko:깎인 붉은 사암 반 블록
+pt:Laje de Arenito Vermelho Lapidado
+zh:切制红砂岩台阶

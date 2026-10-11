@@ -1,0 +1,138 @@
+TITLE: Effect
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Effect
+---
+thumb|width=373x373|Various effects displayed in the mob effects screen
+thumb|width=373x373|Various active effects listed in the Creative inventory
+An effect (also known as a mob effect or status effect) is a condition that affects an entity, either negatively, positively, or neutrally. Effects usually can be inflicted in various ways throughout the game, including potions, some food items, being shot by certain arrows, being in the range of active beacons and conduits, noxious gas from potent sulfur, and being attacked by certain mobs.
+
+The  command allows players to inflict effects upon themselves and other entities with different levels of these effects.
+
+Behavior
+Entities inflicted by an effect experience various changes either instantly or for a duration of time. For most effects, higher levels increase the potency of the effect. As long as the effect is active, effect-dependent particles emanate from the position of the inflicted entity. Effects provided by beacons and conduits emit semitransparent particles and are known as "ambient".thumb|class=pixel-image|An example of an effect displayed in the inventory.
+
+Any number of different effects (including opposing effects such as Strength and Weakness) can be simultaneously active on an entity, but it is not possible to compound the same effect multiple times, even if they are of different levels. Typically, when applying an effect already active on the player, higher levels overwrite lower levels, and higher durations overwrite lower durations of the same level. However, , when a stronger version of an effect is applied to an entity (except for the player) that already has a weaker version of the same effect, the weaker effect remains but is hidden. If the weaker effect has a longer duration, the weaker effect will return after the more potent one expires. , when a stronger effect overrides a weaker effect, the weaker effect will be gone and will not return..
+
+In Java Edition, a player can open their inventory to see any current effects afflicted upon them, as well as the levels and duration of each. In Bedrock Edition, effects are displayed in a separate "mob effects" screen, which can be opened by pressing  on a keyboard, pressing /////// on a controller, or tapping the effect icon when using touch controls.
+
+A player can remove all of their effects either by dying, drinking a milk bucket (which can be obtained by using a bucket on a cow, mooshroom, or goat), or being saved from death by a totem of undying (which can be obtained by killing an evoker in a woodland mansion). Additionally, Poison can also be removed by drinking a honey bottle.
+
+Any damage dealt by effects is classified as magic damage and completely bypasses base armor protection, making it effective at harming highly armored targets; however, the Protection enchantment still reduces the damage taken from effects.
+
+List of effects
+, positive effects have blue text in potion information and are displayed on the upper row of effects in the HUD, while negative effects have red potion text and are displayed in the bottom row. Neutral effects have the blue potion text and are listed with the negative effects in the bottom row in the heads up display. If the effect is a beacon effect, then it also has a blue outline. , negative effect names in potion and tipped arrow tooltips are shown in red; positive and neutral effect names in these contexts, and all effect names in the mob effects screen, are shown in white.
+
+Descriptions
+Descriptions of each effectIconNameIdentifierEffectType Num. IDAbsorptionAdds temporary health that absorbs incoming damage and can't be regenerated.22Bad Luck​Reduces chances of better loot from fishing–Bad OmenCauses an ominous event upon entering a village or a trial chamber28BlindnessImpairs vision by adding close black fog and disables the ability to sprint and critical hit15Breath of the NautilusFreezes an entity's oxygen bar37Conduit PowerIncreases underwater visibility and mining speed, prevents drowning27DarknessAdds a pulsating darkening effect to the player's screen and pulsating black fog30Dolphin's Grace​Increases swimming speed–Fatal Poison​Inflicts damage over time and can potentially kill the entity that has the effect25Fire ResistancePrevents the affected entity from taking damage due to fire, lava and other sources of fire damage12FreezingReduces players' speed and causes continuous damage over time?Glowing​Gives the affected entity an outline that can be seen through blocks–HasteIncreases mining and attack speed3Health BoostIncreases maximum health21Hero of the Village​​Gives discounts on trades with villagers, and makes villagers throw items at the player depending on their profession.29HungerIncreases food exhaustion17InfestedGives the entity a 10% chance to spawn between 1 and 3 silverfish when hurt36Instant DamageDamages living entities, heals undead7Instant HealthHeals living entities, damages undead6InvisibilityMakes the affected entity invisible (but not the item they hold or the armor they wear), and reduces other mobs' detection range for the affected entity14Jump BoostIncreases jump height and reduces fall damage8LevitationFloats the affected entity upward24Luck​Increases chances of better loot from fishing–Mining FatigueDecreases mining and attack speed4NauseaWobbles and warps the player's screen9Night VisionLets the player see well in darkness and underwater16OozingMakes the entity spawn 2 slimes upon death35PoisonInflicts damage over time unless the entity's health is at 19Raid OmenStarts a raid at the location the player gained the Raid Omen in villages, once the effect expires32RegenerationRestores health over time10ResistanceReduces damage taken11SaturationRestores hunger and saturation23SlownessDecreases walking speed2Slow FallingDecreases falling speed and negates fall damage26SpeedIncreases movement speed on land1StrengthIncreases melee damage dealt to all entities5Trial OmenTransforms nearby trial spawners into ominous trial spawners, spawning stronger mobs with armor.31Water BreathingPrevents drowning and lets the affected entity breathe underwater13WeaknessDecreases melee damage dealt to all entities18WeavingLessens the movement speed decrease from being in a cobweb by 25%, and causes cobwebs to be spread upon death34Wind ChargedAffected entities emit a burst of wind upon death.33WitherInflicts damage over time20
+
+Effect colors
+
+Each effect has an associated color, used to represent it in particles, potions, and tipped arrows. If a potion or tipped arrow stores multiple effects (such as potion/arrow of the Turtle Master, or a custom potion created via commands ), the colors of each effect are blended together. Entities affected by multiple effects, however, emit particles for each active effect separately, without blending the colors.
+
+Effect potency
+An effect's potency (also known as its level) is how strong or effective it is. Some effects do not get stronger as their potency increases, but most do. All effects have a minimum potency of 1 and a maximum potency of 256, which is also represented as an amplifier of 0 up to 255 in the  command, entity NBT data and predicates.
+
+The potency of an effect is represented using Roman numerals in places such as the inventory screen , the mob effects screen , and potion or tipped arrow tooltips. However, if the potency is greater than 5 (V) then  (as an Arabic numeral) is shown in item tooltips, and if the potency is greater than 10 (X) then no potency is shown in the inventory or mob effects screen.
+
+It is not possible to apply the same effect multiple times, even if they are of different levels. When applying an effect already active on the player, higher levels overwrite lower levels, and higher durations overwrite lower durations of the same level.
+
+In Java Edition, when a stronger version of an effect is applied to an entity that already has a weaker version of the same effect, the weaker effect remains, but is hidden. The weaker effect returns after the stronger effect expires, if the weaker effect has a longer duration. In Bedrock Edition, when a stronger effect overrides a weaker effect, the weaker effect is deleted and does not return.
+
+Effects that scale with potency
++EffectScales with potency?
+
+Immunity
+Effects can only be applied to living entities. Witches have natural resistance against damage from effects, taking 85% less damage from effects  and 95% less damage . Additionally, certain entities are completely immune to some or all effects:
+The ender dragon, the wither, NPCs and the agent are immune to all effects.
+Undead mobs are immune to Regeneration and Poison.
+Wither skeletons are immune to Wither in addition to Regeneration and Poison.
+Spiders and cave spiders are immune to Poison.
+Trial chambers mobs are immune to Trial Omen.
+Illagers are immune to Raid Omen.
+Slimes are immune to Oozing.
+Silverfish are immune to Infested.
+Breezes are immune to Wind Charged.
+
+Achievements
+
+Advancements
+
+History
+Effect additions
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Other changes
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+April Fools effects
+
+Java Edition 15w14a
+These effects exist only in 15w14a:
+IconNameIdentifierEffectTypeNum. IDCaringChanges the mob AI to move toward the nearest mob as if it were to attack it219SharingMakes mobs drop items in a random amount of time, ranging from food to rare items like saddles or diamonds18
+
+Java Edition 23w13a_or_b
+These effects exist only in 23w13a_or_b:
+IconNameIdentifierEffectTypeNum. IDBigMakes the entity bigger34SmallMakes the entity smaller35
+
+Java Edition 24w14potato
+These effects exist only in 24w14potato:
+IconNameIdentifierEffectTypeStickyThe entity is able to scale blocks like a spider by walking into themIt's very slipperyDoes nothing
+
+Java Edition 25w14craftmine
+These effects exist only in 25w14craftmine:
+IconNameIdentifierEffectTypeShazboots!Makes all blocks behave like ice to the entity with the effect and increases walking speed
+History
+
+Issues
+
+Trivia
+When having multiple effects, the effects' timers are reduced by 1 second each simultaneously, regardless of when the player took each potion. This is because they use the same "seconds counter" that "ticks" every 20 game ticks to save memory. For example, if the player drinks one potion and another different potion that doesn't reset the timer 5.5 (or any non-integer amounts) seconds later, both effects' timers subtract 1 second from both of them simultaneously.
+When a creeper has an effect and explodes , it leaves an area effect cloud for each effect that it had before it exploded.
+Drinking a potion of Leaping II, a potion of Slow Falling, and a potion of Swiftness II, the player can jump a 9 block gap.
+Effects shown on the HUD disappear when the player is in a GUI.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+See also
+- gives a damaging condition similar to an effect
+- gives a damaging and speed-decreasing condition similar to an effect
+
+References
+
+External links
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide
+Minecraft Potions - A Visual Guide
+
+Navigation
+
+de:Statuseffekt
+es:Efecto
+fr:Effet
+he:אפקטים
+hu:Állapot hatás
+it:Effetto
+ja:ステータス効果
+ko:효과
+lzh:態效
+nl:Statuseffect
+pl:Efekty
+pt:Efeito
+ru:Эффект
+th:เอฟเฟกต์
+uk:Ефект
+zh:状态效果

@@ -1,0 +1,111 @@
+TITLE: Firefly Bush
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Firefly_Bush
+---
+A firefly bush is a decorative plant that produces firefly particles around it when exposed to darkness.
+
+Obtaining
+Breaking
+Firefly bushes can be broken instantly with any item or by hand, and always drop themselves.
+
+Firefly bushes are also removed and drop as an item if:
+its attachment block is moved, removed, or destroyed.
+water or lava flows into its space.
+a piston tries to push it or moves a block into its space.
+it is placed on a mud block, and that mud block converts to clay.
+
+Natural generation
+Firefly bushes generate in the form of random patches, on grass blocks near water in most Overworld biomes. They also can generate on mud blocks near water in mangrove swamps.
+
+In swamps, firefly bushes can generate anywhere, instead of being limited to near water.
+
+Firefly bushes  have fewer exceptions for which biomes they can generate in, but since grass does not naturally generate in all Overworld biomes and the list still excludes badlands, eroded badlands and wooded badlands, they are actually found in fewer places than .
+
+Firefly bushes can generate as part of abandoned camps in swamps and forests.
+
+Post-generation
+When bone meal is applied to a firefly bush, the bush spreads to neighboring blocks.
+
+Trading
+Wandering traders may sell 1 firefly bush for 3 emeralds.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 firefly bush when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+thumb|Firefly bushes emitting particles at night
+A firefly bush emits firefly particles if the internal light level at its position is 13 or lower. A firefly bush can produce particles even if it is covered by blocks. Firefly particles glow in the dark, but do not actually light up their surroundings. Firefly particles move erratically and collide with solid blocks.
+
+On each tick, a firefly bush has a 70% chance of emitting a new firefly particle in an air block up to 5 blocks above the bush and horizontally up to 5 blocks away , or up to 10 blocks away . A firefly particle lasts between  and , fading from transparency into an opaque pale yellow color, and back into transparency before disappearing.
+
+Firefly bushes have a low light level of 2.
+
+The pulsating "fireflies" on the bush itself remain at maximum brightness regardless of the surrounding light level. This affects placed firefly bushes, but the item form of firefly bushes still appear at the surrounding brightness level.
+
+Placement
+Firefly bushes mainly serve as atmospheric decoration and can be placed on any of the following blocks:, firefly bushes can be snowlogged. When snowlogged, a firefly bush doesn't emit particles nor ambient sounds.
+
+Composting
+Placing a firefly bush into a composter has a 30% chance of raising the compost level by 1. A stack of firefly bushes drops an average of 2.74 bone meal.
+
+Ambient sounds
+At night (between 12600 and 23400 ticks), a firefly bush emits firefly buzzing sounds if no collidable blocks (excluding leaves) are placed above it. A firefly bush may still produce firefly particles in a dark cave or an unlit space, without the bush emitting ambient sounds if it is daytime.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Trivia
+Prior to the addition to the base game, fireflies also appeared in Minecraft: Story Mode and Minecraft Dungeons.
+
+Gallery
+
+Mojang screenshots
+
+Development images
+
+Concept artwork
+
+In other media
+
+References
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Animal blocks
+
+de:Glühwürmchenbusch
+es:Arbusto de luciérnagas
+fr:Buisson à lucioles
+ja:ホタルの茂み
+ko:반딧불이 덤불
+pl:Krzew świetlików
+pt:Arbusto-Vaga-Lume
+ru:Куст со светлячками
+uk:Кущ зі світляками
+zh:萤火虫灌木丛

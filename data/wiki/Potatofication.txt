@@ -1,0 +1,24 @@
+TITLE: Potatofication
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Potatofication
+---
+Potatofication is a joke enchantment only present in 24w14potato.
+
+Usage
+A tool enchanted with Potatofication causes blocks mined by it to drop either regular potatoes or poisonous potatoes. Block must be mineable by that tool to drop potatoes, for example, mining potone with a pickaxe enchanted with Potatofication doesn't drop anything, but a hoe enchanted with Potatofication does drop both the block and potatoes.
+
+The number of potatoes dropped is calculated in the following way:
+Split the  into two non-negative integers  and .
+For Potatofication I, only valid splits are 1+0 and 0+1. For Potatofication V, valid splits include 5+0, 4+1, 3+2, 2+3, 1+4 and 0+5.
+Drop  poisonous potatoes and  regular potatoes.
+
+A poisonous potato plant is added to the drops 5% of the time.
+
+Issues
+
+Navigation
+
+Category:Poisonous Potato Dimension (joke dimension)
+ja:Potatofication
+ko:감자화
+zh:薯化

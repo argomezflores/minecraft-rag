@@ -1,0 +1,79 @@
+TITLE: Cooked Rabbit
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cooked_Rabbit
+---
+Cooked rabbit is a food item that can be eaten by the player.
+
+Obtaining
+
+Mob loot
+
+Cooking
+Raw rabbit can be cooked in a furnace, smoker, or campfire. Each piece of cooked rabbit removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+Smelting recipe: Raw Rabbit → Cooked Rabbit, XP: 0,35.
+
+Villager gifts
+, butcher villagers may give players with the Hero of the Village effect cooked rabbit.
+
+Usage
+Food
+
+To eat a cooked rabbit, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 6 hunger saturation.
+
+Crafting ingredient
+Cooked rabbit can be used to craft rabbit stew.
+
+Wolves
+Cooked rabbit can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Food
+
+de:Gebratenes Kaninchen
+es:Conejo asado
+fr:Lapin cuit
+it:Coniglio cotto
+ja:焼き兎肉
+ko:익힌 토끼고기
+nl:Gebraden konijnenvlees
+pl:Pieczony królik
+pt:Coelho assado
+ru:Жареная крольчатина
+uk:Смажена кролятина
+zh:熟兔肉

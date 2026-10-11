@@ -1,0 +1,66 @@
+TITLE: Impaling
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Impaling
+---
+Impaling is an enchantment applied to tridents that substantially increases damage against aquatic mobs, or increases damage against entities in water or rain.
+
+Obtaining
+Impaling can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagers, and non-village structure loot.
+
+Usage
+Each level of Impaling adds 2.5 ( × ) extra damage per hit. In , the values are rounded down to the nearest whole number. This applies both to the trident projectile and in melee combat.
+
+, only aquatic mobs receive the extra damage. Aquatic mobs include axolotls, dolphins, guardians, elder guardians, nautiluses, zombie nautiluses, squid, glow squid, tadpoles, turtles, and all variants of fish, but not drowned, as drowned are classified purely as undead mobs and not underwater mobs. A thrown trident with Impaling I kills the majority of these mobs in one hit (≤10 HP), whereas an Impaling III trident is needed to kill a nautilus or zombie nautilus in one hit (15 HP) or a turtle or guardian in two hits (30 HP), and an Impaling V trident is needed to kill an elder guardian in four hits (80 HP).
+
+, the damage applies to all mobs and players when in contact with water: underwater, in flowing water, and in rain.
+
+In the Java Edition Combat Tests, Impaling has both of these effects.
+
+Damage per hit
+These tables detail how much damage is done per attack based on the level of enchantment used, assuming the target is not wearing armor and the attack is fully charged. While both Java Edition and Bedrock Edition add  per level, Bedrock Edition rounds down to the nearest whole number which makes Impaling I, Impaling III, and Impaling V weaker than Java Edition.
+
++Impaling extra damageEditionIIIIIIIVV
+
+Java Edition
+TypeBase damageImpaling IImpaling IIImpaling IIIImpaling IVImpaling V Melee Melee (critical) Ranged
+
+Bedrock Edition
+TypeBase damageImpaling IImpaling IIImpaling IIIImpaling IVImpaling V Melee Melee (critical) Ranged
+
+Specific cases
+If Impaling is applied to a bow by use of commands or an anvil in Creative, the enchantment affects the weapon's arrows. If Impaling is applied to a crossbow by use of commands or an anvil in Creative, the enchantment affects weapon's arrows but not its firework rockets.
+
+Incompatibilities
+Impaling is incompatible with Sharpness, Smite, Bane of Arthropods, Density, Breach, and Cleaving, but in Survival these incompatibilities can only be encountered with enchanted books, as no weapon types have access to both Impaling and one of the other aforementioned enchantments. If commands are used to have two or more of these enchantments on the same item, their effects stack.
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Java Edition Combat Tests
+
+Issues
+
+References
+
+Notes
+
+Navigation
+
+de:Harpune
+es:Empalamiento
+fr:Empalement
+ja:水生特効
+pt:Empalamento
+th:ทิ่มแทง
+uk:Протикання
+zh:穿刺

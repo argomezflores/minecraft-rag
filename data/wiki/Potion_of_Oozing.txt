@@ -1,0 +1,65 @@
+TITLE: Potion of Oozing
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Oozing
+---
+A potion of Oozing is a potion that provides Oozing when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Slime Block + Awkward Potion → Potion of Oozing.
+
+Brewing recipe: Gunpowder + Potion of Oozing → Splash Potion of Oozing.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Oozing → Lingering Potion of Oozing.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 3:00Spawns two size 2 slimes nearby when killed Splash Potion 1 3:00 Lingering Potion 1 0:45
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Oozing, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Oozing, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular Potion of Oozing  45
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionValue Potion of Oozing  oozing
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de viscosité
+pt:Poção Pegajosa
+zh:渗浆药水
+ru:Зелье_слизистости

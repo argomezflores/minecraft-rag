@@ -1,0 +1,71 @@
+TITLE: Block of Bamboo
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Bamboo
+---
+A block of bamboo is a log-like block made of bamboo that can be used to craft bamboo planks.
+
+Obtaining
+Breaking
+A block of bamboo can be broken by hand, but using an axe speeds up the process.
+
+Crafting
+
+Crafting recipe: Bamboo, Bamboo, Bamboo, Bamboo, Bamboo, Bamboo, Bamboo, Bamboo, Bamboo arranged in the crafting grid → Block of Bamboo.
+
+Usage
+Crafting ingredient
+
+Stripping
+an axe on a block of bamboo turns it into a block of stripped bamboo.
+
+Fuel
+Blocks of bamboo can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+The efficiency of using bamboo as fuel depends on how it is crafted. 9 bamboo can smelt 2.25 items, whereas a block can smelt only 1.5 items. However, the block can be crafted into 2 bamboo planks, which together can smelt 3 items.
+
+Unlike logs, blocks of bamboo cannot be smelted into charcoal.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Concept artwork
+
+References
+
+External links
+Block of the Week: Bamboo – Minecraft.net on July 27, 2023
+
+Navigation
+
+Category:Manufactured blocks
+Category:Flammable blocks
+
+de:Bambusblock
+es:Bloque de bambú
+fr:Bloc de bambou
+ja:竹ブロック
+ko:대나무 블록
+lzh:竹塊
+pt:Bloco de Bambu
+th:บล็อกไม้ไผ่
+uk:Блок бамбука
+zh:竹块

@@ -1,0 +1,165 @@
+TITLE: Add-on
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Add-on
+---
+thumb|right|Promotional artwork for the introduction of add-ons to the Marketplace
+An add-on is a package format and a type of downloadable content that provides additional custom game features beyond the base game in Minecraft. It contains a set of s used for constructing and customizing certain game objects and elements, such as entities, blocks, items, biomes, structures, the user interface, and more. It is officially supported by Mojang Studios, who provide the Creator Documentation for developers.
+
+Add-ons consist of three main APIs: a resource pack for managing assets and resources, a behavior pack for defining data-driven behaviors, and scripting for writing a set of procedural instructions to perform custom behaviors and interactions. These functions and utilities are used for .
+
+Add-ons are officially hosted on the Marketplace, where players can download or purchase them on their devices using an in-game digital currency called Minecoins. They must be submitted by members in the Minecraft Partner Program and approved by the Minecraft Content Team, or made directly in collaboration with Mojang Studios as official DLC. They can also be packaged for external downloading, but these cannot be imported on consoles.
+
+Overview
+Packs
+Add-ons can be created with two types of data packs: behavior packs and resource packs. Behavior packs can be used to change gameplay and allow adding and customizing entity behaviors, loot tables, spawn rules, item behaviors, item recipes, biome characteristics, and much more. Resource packs affect how the game looks and have no effect on gameplay, and they allow adding and customizing textures, models, music, texts, and interfaces.
+
+Definitions are written in JSON files, which are organized in multiple folders by their features. This system allows users to override and modify certain features in the base game, or add unique features with their own pack.
+
+All contents of an add-on can be packaged together in a zipped  file. An add-on file can be automatically imported by the game, which will organize all contents in the dedicated directories in .
+
+Sub-packs
+Resource packs and behavior packs can contain other packs inside the root, known as sub-packs. A sub-pack has the same format as the main pack and the directory of a sub-pack can have any name. Sub-packs need to be specified in the  file of the main pack, where a name and minimum memory tier can also be added. For example, a pack can have multiple less resource-intensive sub-packs for lower memory tiers, but it can also be used for other types of settings. The memory tier, affecting which sub-pack is used, can be adjusted in the pack's settings menu in-game.
+
+Molang
+
+Molang is a simple expression-based language designed for fast, data-driven calculation of values at run-time, and with a direct connection to in-game values and systems. It is used  in their add-on system with its purpose being to enable low-level systems like animation to support flexible data-driven behavior for both internal and external creators, while staying highly performant."Molang Documentation - Introduction to Molang"
+
+Scripting
+thumb|Scripting in  with Minecraft debugger enabled
+Scripting is an add-on feature used to write a set of procedural instructions for the game to perform custom behaviors and interactions at a certain time or in response to events and actions. It lets users control behaviors of entities, blocks, and items; characteristics of the world; or an entire game loop. It is fundamentally different from the behavior pack system, the latter uses a component system with preset definitions provided by the game.
+
+Script files are written in the  programming language and loaded by the game under the  directory inside an add-on. Users may use , a dialect of JavaScript, which provides better error reporting and a static type system. The Scripting API provides script modules for users to interact with the game, each module must be added as a dependency in the manifest.json, some notable ones are:
+
+Module Description Latest versions Notes  Provides common resources, such as error classes or interfaces. 1.3.0 –  Provides diagnostics functionality for discovering and diagnosing issues with custom content. Currently provides APIs for Sentry service. 1.0.0-beta –  Provides interactions between the script engine and the game world, such as blocks, entities, items, players, and others; additionally provides Custom Components V2 and Custom Commands.
+2.9.0
+2.10.0-beta
+2.11.0-beta –  Provides players and server communication through customizable forms. See DDUI for information about the Data-Driven UI framework.
+2.1.0
+2.2.0-beta
+2.3.0-beta –  Allows scripts to dynamically customize graphical settings from Vibrant Visuals defined in resource packs. 1.0.0-beta Pre-release only.  Provides access to the Internet through web requests, such as GET, POST, and others. 1.0.0-beta Pre-release only. Only usable on Bedrock Dedicated Server.  Provides the GameTest framework for testing behaviors and interactions within the game world. See  for further information. 1.0.0-beta Pre-release only. The oldest module for scripting, other names may include: .  Provides APIs useful for dedicated server administration, such as whitelist management, and managing player permissions.  1.0.0-beta Pre-release only. Only usable on Bedrock Dedicated Server.  Provides scripting APIs for Bedrock Editor. 0.1.0-beta – External modules  Provides utilities and functions for common math operations. 2.4.0 Notable APIs include:  and .  Provides utilities and functions for common gameplay operations. 1.3.0 Notables APIs include:  and .
+
+Typing definitions (for use in TypeScript) can be installed via  package manager from the official packages owned by mc-npm. There are other built-in modules, further reading.
+
+External modules are not built directly into the game and act as a helpers or utilities for development; they are available on minecraft-scripting-libraries GitHub and can only be installed through npm. They need to be merged with the scripting project through a bundler; Mojang recommends esbuild for simplicity.
+
+The Scripting API version 2 is a major update to the Scripting API, which provides a new API to define custom components and custom commands along with other major API changes that aren't backward compatible with the previous version. Most changes from the Scripting API version 2 are available from  version 2.0.0.
+
+Marketplace
+The Marketplace is an in-game platform where creators may sell their add-ons to the player-base. All Marketplace content must be submitted by members in the Minecraft Partner Program and approved by the Minecraft Content Team. Purchased content in the Marketplace is synchronized to the player's Microsoft account, and if they are not signed in, it is saved locally on their device.
+
+Free add-ons are released as part of special events, for occasions such as to promote the release of A Minecraft Movie for Minecraft's 15 Years celebration and the eventful McDonald's X A Minecraft Movie promotion. See  for a full list of add-ons officially promoted by Mojang Studios.
+
+In addition to the Marketplace, there are community websites dedicated to hosting community-made add-ons, although such add-ons may only be loaded on Windows and mobile, whereas consoles can only access those add-ons through Realms.
+
+Minecraft Education
+thumb|width=245x245|Logo for add-ons on Minecraft Education
+In 2026, add-ons were introduced into Minecraft Education. These add-ons are all free, and designed to be optional utilities for teachers. All DLC of this nature are referred to as add-ons, however several function as skin packs instead.
+
+Loading tips
+thumb|An example of an add-on loading tip
+Extra loading tip messages appear if the player is loading a world with add-ons applied. The loading message box is titled "Modified World", and loading tip messages would primarily warn the player about the add-ons or resource packs applied. For a full list, see .
+
+List of official add-ons
+
+Bedrock Edition
+Image Name Description Release date PurchasableMinecon 2018 New Entity SampleA pack to show the usage of add-ons to add custom entities for creators, showcased in MINECON Earth 2018.November 19, 2018 Minecraft Live 2022 Sample PackA pack to demonstrate the Minecraft Entity Wizard in Blockbench, showcased in Minecraft Live 2022.October 17, 2022 width=150x150Poisonous PotatoAn add-on themed around the poisonous potato April Fools' Day event in 2024.April 1, 2024 width=150x15015 Year Party SuppliesAn add-on themed around the 15th anniversary of Minecraft with features from 15 Year Journey.May 21, 2024 width=150x150TetrisA collaborative add-on with features from Tetris.June 6, 2024 width=150x150Lush Bath BombA collaborative add-on to promote bath bombs from Lush.August 1, 2024 width=150x150SpongeBob SquarePantsA collaborative add-on with features from SpongeBob SquarePants.August 20, 2024 width=150x150Ghost PetsA themed add-on with ghost pet mobs for the Expect the unexpected event around The Garden Awakens.November 4, 2024 width=150x150Majestic CampingA camping-themed add-on for the Expect the unexpected event.November 4, 2024 width=150x150Phantom FramesA themed add-on for the Expect the unexpected event.December 4, 2024 width=150x150Scary FurnitureAn add-on for the Expect the unexpected event with haunted Minecraft furniture blocks.December 10, 2024 width=150x150Mob LightsAnother themed add-on for the Expect the unexpected event.December 10, 2024 width=150x150Monster FoodAn add-on featured for Expect the unexpected with haunted food items and mobs.December 10, 2024 width=150x150Lava ChickenA promotional add-on for A Minecraft Movie which adds Steve's Lava Chicken shown in the movie.December 20, 2024 width=150x150SonicA collaborative add-on with features from Sonic the Hedgehog.January 7, 2025 width=150x150A Minecraft MovieAn add-on that adds many features shown in A Minecraft Movie.February 26, 2025 width=150x150A Minecraft Movie: JetPackA limited promotional add-on for A Minecraft Movie which could be obtained by purchasing tickets on its opening weekend.February 27, 2025 width=150x150McDonald'sAn add-on themed around the collaboration of A Minecraft Movie with McDonald's.March 24, 2025 width=150x150Time CapsuleA promotional add-on made for the 15 Days of Minecraft event.May 16, 2025 width=150x150MLB Fan CaveJune 2, 2025 width=150x150Adidas AdventurersA collaborative add-on with Adidas.June 3, 2025 width=150x150How to Train Your DragonA collaborative add-on with Universal Studios about the movie How to Train Your Dragon.June 10, 2025 width=150x150Vibrant MemoriesAn add-on made to promote Vibrant Visuals after its release.June 18, 2025 width=150x150Claims AdjusterAn official add-on that has been promoted with the Ice Cube Claims Adjuster series.August 13, 2025 width=150x150Friendly FishingAn official collaborative add-on between Marketplace Partners and Conservation International themed around sea life.September 26, 2025 Jurassic World TRON width=150x150Dungeon DescentAn add-on released to promote new features from Mounts of Mayhem.January 12, 2026 width=150x150Tiny Takeover: Mini ManiaA minigame-centric add-on released to promote Tiny Takeover.April 21, 2026 width=150x150Cursed CubeAn add-on released to promote Chaos Cubed.June 24, 2026
+
+Minecraft Education
++ Image Name Description Release date Purchasablewidth=150x150DiceAn add-on which introduces dice blocks.April 9, 2026width=150x150Math Chests DivisionAn add-on which adds chest blocks made for division.April 9, 2026width=150x150Math Chests MultiplicationAn add-on which adds chest blocks made for multiplication.April 9, 2026width=150x150Roman Balneae Structure PackAn add-on which adds a Roman structure.April 9, 2026width=150x150Ancient Egypt NPC Pack 1An add-on which adds NPC skins.April 9, 2026width=150x150Ancient Greece NPC Pack 1An add-on which adds NPC skins.April 9, 2026width=150x150Number Shaped BlocksAn add-on which adds blocks molded to various numbers.April 9, 2026width=150x150Number BlocksAn add-on which introduces numeric blocks.April 9, 2026width=150x150Ancient Rome NPC Pack 1An add-on which adds NPC skins.April 9, 2026width=150x150Non-transitive DiceAn add-on which adds non-transitive dice.April 9, 2026
+
+History
+
+General
+This section includes major additions and milestones of add-ons. It also includes all Marketplace related history.
+
+Scripting
+
+Videos
+Tutorials from the official Minecraft Creator Channel.
+
+Historical videos
+These videos were uploaded when add-ons were first introduced. They demonstrate how add-ons could create customized gameplay and modify existing entities.
+
+The first introduction of add-ons
+
+Early add-ons tutorial and playthrough
+
+Early Scripting API and experimental custom UI
+
+Quotes
+
+Gallery
+
+See also
+Mod
+Commands
+Data pack
+Resource pack
+Skin pack
+World template
+Mash-up pack
+
+References
+
+External links
+Official documentation
+
+Addons JSON Documentation
+Animation JSON Documentation
+Biome Documentation
+Block JSON Documentation
+Entity JSON Documentation
+Features JSON Documentation
+Item JSON Documentation
+Molang Documentation
+Recipe JSON Documentation
+Particle JSON Documentation
+Schema Documentation
+Script API Documentation
+
+Official tutorials
+
+Getting Started With Minecraft Add-Ons
+Introduction to Resource Packs
+Introduction to Behavior Packs
+Getting Started with the Minecraft Entity Wizard
+Getting Started with the Minecraft Item Wizard
+Getting Started with the Minecraft Block Wizard
+
+Tools and libraries
+Commonly Used Tools
+Minecraft Creator Tools
+Bedrock Editor
+Snowstorm
+Chunker
+
+Unofficial resources
+Bedrock Wiki
+Minecraft Addons - CurseForge
+Minecraft PE Mods, Maps, Skins, Seeds, Texture Packs | MCPEDL
+Modbay | Everything for Minecraft PE
+
+Templates
+Resource and Behavior Example Packs
+Bedrock Add-On Sample Files
+
+Script API Example Packs
+Script API @minecraft/server-gametest samples
+Script API @minecraft/server samples
+
+Navigation
+
+Category:Game customization
+Category:Experimental
+
+de:Add-on
+es:Complemento
+fr:Extension
+ja:Add-on
+ko:애드온
+lzh:附囊
+pt:Complemento
+ru:Дополнения
+th:แอดออน
+uk:Доповнення
+zh:附加包

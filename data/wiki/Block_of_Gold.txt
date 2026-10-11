@@ -1,0 +1,95 @@
+TITLE: Block of Gold
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Gold
+---
+A block of gold, internally known as a gold block, is a precious metal block equivalent to nine gold ingots.
+
+Obtaining
+Breaking
+Blocks of gold can only be mined with an iron pickaxe or better.
+
+Crafting
+
+Natural generation
+Ocean monuments have a central room containing 8 blocks of gold encased in dark prismarine.
+
+Blocks of gold generate as part of ruined portals and bastion remnants in varying quantities.
+
+Generated loot
+
+Usage
+Blocks of gold are a compact way to store gold ingots.
+
+Beacons
+Blocks of gold can be used to "power" a beacon. The beacon can be powered by a 3×3 square with blocks of gold underneath it, and can optionally also include a 5×5, 7×7 and 9×9 layer in the shape of a pyramid under the original layer to increase the effects from the beacon. The layers do not have to be entirely made with blocks of gold, as they may also contain blocks of iron, blocks of emerald, blocks of netherite, and blocks of diamond.
+
+Piglins
+Piglins run toward any block of gold item on the ground and inspect it for 6 seconds  or 8 seconds  before putting it in their inventory. They become enraged if the player breaks a block of gold near them.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+frameless|right|32px
+In Xbox 360 Edition, before TU19, four blocks of gold stacked on top of an obsidian block could be found inside the tutorial world's desert pyramid. This is a reference to Achievement Hunter's Let's Play Minecraft series, in which this combination is used to create the "Tower of Pimps" (seen right), a structure first created by Gavin Free, which is now used in many episodes as a trophy.
+If one block is considered to be equal to one cubic meter, then one block of gold has a mass of 19,320 kilograms, making it the heaviest real-world matter available in vanilla Minecraft if element blocks are not considered. A player's inventory has 37 slots (including the offhand slot), and each can carry 64 blocks of gold; therefore, a player can carry a maximum number of 45,749.76 metric tons of mass, not considering armor or putting things in shulker boxes (theoretically increasing the mass by 27 times).
+
+Gallery
+
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Compacted blocks
+
+de:Goldblock
+es:Bloque de oro
+fr:Bloc d'or
+it:Blocco d'oro
+ja:金ブロック
+ko:금 블록
+lzh:金塊
+nl:Goudblok
+pl:Blok złota
+pt:Bloco de Ouro
+ru:Золотой блок
+th:บล็อกทอง
+uk:Блок золота
+zh:金块

@@ -1,0 +1,79 @@
+TITLE: Polished Blackstone Button
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone_Button
+---
+A polished blackstone button is a variant of the button that shares many common properties with stone buttons. Like stone buttons, a polished blackstone button is a non-solid block that produces a temporary redstone signal when pressed.
+
+Obtaining
+Breaking
+A polished blackstone button is most easily broken with a pickaxe. It drops itself as an item when broken using any tool.
+
+A button is removed and drops as an item if:
+its attachment block is moved, removed, or destroyed.
+water or lava flows into its space.
+a piston tries to push it or moves a block into its space.
+
+Crafting
+
+Usage
+
+Placement
+Buttons can be placed by  it on a surface.
+
+They can be attached to the side, bottom and top of any full opaque block.
+
+If placed on the top or bottom of a block, the button can face any direction.
+
+It can also be attached to the top of a fence .
+
+More information about placement on transparent blocks can be found at Opacity/Placement.
+
+Redstone power
+A button can be used as a monostable redstone power source (it automatically deactivates shortly after being activated).
+
+Buttons are usually in an inactive state, but can be temporarily activated by players. A polished blackstone button can be activated by a player  it or when hit by a wind charge. Mobs cannot activate buttons directly.
+
+When activated, a polished blackstone button remains active for exactly .
+
+While active, a button:
+powers any adjacent redstone dust to power level 15, including beneath the button
+powers any adjacent redstone comparators or redstone repeaters facing away from the button to power level 15
+strongly powers its attachment block to power level 15
+activates any adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+
+When a button changes state it provides a redstone update to all redstone components adjacent to itself (including above and below), and to all redstone components adjacent to its attachment block.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Non-solid blocks
+
+fr:Bouton en pierre noire
+ja:磨かれたブラックストーンのボタン
+ko:윤나는 흑암 버튼
+pt:Botão de Pedra-Negra Polida
+uk:Кнопка з полірованого чорнокаменю
+zh:磨制黑石按钮

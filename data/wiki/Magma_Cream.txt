@@ -1,0 +1,64 @@
+TITLE: Magma Cream
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Magma_Cream
+---
+Magma cream is an item dropped by magma cubes or crafted with blaze powder and slimeballs, used to brew potions of Fire Resistance and craft magma blocks.
+
+Obtaining
+Mob loot
+
+Generated loot
+
+Crafting
+
+Usage
+
+Brewing ingredient
+
+Brewing recipe: Magma Cream + Water Bottle → Mundane Potion.
+
+Crafting ingredient
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+In other media
+
+Trivia
+The drop rate of magma cream from magma cubes is more affected by Looting than any other mob drop, increasing by 7 times with the use of Looting III compared to the default rate.
+
+Navigation
+
+cs:Lávová pěna
+de:Magmacreme
+es:Crema de magma
+fr:Crème de magma
+hu:Magmakrém
+it:Crema di magma
+ja:マグマクリーム
+ko:마그마 크림
+lzh:火漿膏
+nl:Magmacrème
+pl:Magmowy krem
+pt:Creme de Magma
+ru:Магмовый крем
+th:ครีมแม็กม่า
+uk:Магматичний крем
+zh:岩浆膏

@@ -1,0 +1,157 @@
+TITLE: Furnace
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Furnace
+---
+A furnace is a block with two functions: it can be used for either smelting or cooking, by placing fuel and an appropriate item inside together.
+
+Obtaining
+Breaking
+A furnace can be picked up using any pickaxe. If mined without a pickaxe, it does not drop itself.
+
+Furnaces drop their contents when broken, including XP from processed items that were extracted by hoppers.
+
+Natural generation
+Furnaces can be found in plains, and desert village weaponsmiths. Furnaces also generate in some houses in snowy village, and in one of the taiga and snowy taiga village houses. They can also generate in ancient cities and trail ruins, and one furnace generates in every igloo.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Any stone-tier block, Any stone-tier block, Any stone-tier block, Any stone-tier block, Any stone-tier block, Any stone-tier block, Any stone-tier block, Any stone-tier block arranged in the crafting grid → Furnace.
+
+The lit furnace can be obtained  only with commands such as , although it does not appear lit in the inventory. , the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items.
+
+Usage
+Furnaces cannot be pushed by pistons .
+
+Processing items
+
+thumb|right|Interface for the furnace .
+
+The purpose of a furnace is to process items by heating them up in order to change them into other items. Its interface can be opened by pressing the  button on it. A fuel source (up to one stack of fuel items) is placed in the bottom slot, and the items to be processed (up to one stack) goes in the upper slot. A furnace runs at a speed of one item every  or six items per minute.
+
+The number of items that a fuel source can process depends on the type of fuel. As soon as the process begins, the fuel slot is decremented immediately, and that unit of fuel starts burning. The fuel continues burning until fully consumed, regardless of whether the upper slot has any items remaining to process. For example, a piece of coal burns for 80 seconds and can process eight items, but if only one item is processed (or if the item is pulled out before the process is complete), the coal still continues burning for the full 80 seconds, wasting seven items’ worth of processing. After it burns out, no additional fuel is decremented from the fuel slot if the upper slot is empty. If the fuel slot is empty and the burning fuel is consumed before an item completes processing, the process stops, the item is unchanged, and the process must be restarted with new fuel.
+
+Smelting recipe
+
+Light source
+thumb|Lit furnace
+Furnaces emit a light level of 13 when active, as well as smoke and flame particles.
+
+Crafting ingredient
+
+Custom name
+By default, the GUI of a furnace is labeled "Furnace", but this name can be customized by naming it in an anvil before placing it, or by changing the CustomName tag using the  command.
+
+Lock
+, a furnace can be "locked" by setting its lock tag using the  command. If a furnace's lock tag is not blank, the furnace cannot be opened unless the player is holding an item that matches the item predicate in the lock tag. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named "Furnace Key", use .
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A furnace has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: List of items in this container. Represents the  component.
+: An item in the furnace, including the slot tag:Slot 0: The item(s) being smelted.Slot 1: The item(s) to use as the next fuel source.Slot 2: The item(s) in the result slot.
+
+: Number of ticks left before the current fuel runs out.
+: Number of ticks the item has been smelting for. The item finishes smelting when this value reaches 200 (10 seconds). Is reset to 0 if lit_time_remaining reaches 0.
+: Number of ticks it takes for the item to be smelted.
+: Represent the total time the furnace should be lit.
+: Which recipes have been used since the last time a recipe result item was manually removed from the GUI. Used to calculate experience given to the player when taking out the resulting item. Is not preserved when removed.
+: How many times this specific recipe has been used. The recipe ID is the identifier of the smelting recipe, as a resource location, as used in the  command.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Furnaces function as multiple real-world devices combined into one block: bloomeries and blast furnaces (for smelting ores), ovens (for baking and cooking), charcoal pits (for the charring of wood) and kilns (for baking of clay).
+In the Programmer Art texture, the classic cobblestone texture was used on top and the stone slab texture on bottom.
+
+Gallery
+Renders
+
+Screenshots
+
+In other media
+
+See also
+
+Minecart with Furnace
+
+References
+
+External links
+Block of the Week: Furnace – Minecraft.net on September 15, 2017
+
+Navigation
+
+Category:Generated structure blocks
+Category:Manufactured blocks
+Category:Utility blocks
+Category:Storage
+Category:Block entities
+Category:Light sources
+Category:Blocks with GUI
+Category:Readable by comparators
+
+cs:Pec
+de:Ofen
+es:Horno
+fr:Fourneau
+hu:Kemence
+it:Fornace
+ja:かまど
+ko:화로
+lzh:爐
+nl:Oven
+pl:Piec
+pt:Fornalha
+ru:Печь
+th:เตาเผา
+uk:Піч
+zh:熔炉

@@ -1,0 +1,53 @@
+TITLE: Deny
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deny
+---
+Deny is a block that can be used to create areas where players cannot build.https://educommunity.minecraft.net/hc/en-us/articles/360047116852-Specialty-Blocks-Allow-Deny-Border-Structure-
+
+Obtaining
+Deny blocks can be obtained by using the pick block control, or by using various commands, such as /give, or the Creative inventory.
+
+Usage
+When placed, deny blocks prohibit players without world builder, and their agents, from placing or destroying blocks in the area above them. This area covers an infinite distance above the block but does not cover the area below the block. If two allow or deny blocks are placed on top of one another, the block that is highest takes precedence. The deny block does not prevent the placing of blocks through commands, endermen, or pistons. They also do not prevent the placing of entities such as boats.
+
+Deny block is extremely resistant to explosions, and players with world builder (or permission level 1) status are able to place and destroy blocks regardless of where any deny block is placed and can also destroy and place the blocks themselves.
+
+Piston interactivity
+Deny block cannot be moved by pistons or sticky pistons.
+
+Sounds
+
+Data values
+ID
+
+Videos
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+
+See also
+Allow
+
+References
+
+Navigation
+
+Category:Minecraft Education blocks
+
+de:Erlauben und Verweigern Blöcke
+es:Permitir y Rechazar
+fr:Autoriser et Refuser
+ja:許可ブロックと拒否ブロック
+ko:허용 및 거부
+lzh:肯否塊
+pl:Allow i Deny
+pt:Bloco de Permitir e Negar
+ru:Блоки «разрешить» и «запретить»
+uk:Дозволити й відмовити
+zh:允许和拒绝方块

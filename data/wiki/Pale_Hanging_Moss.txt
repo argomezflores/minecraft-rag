@@ -1,0 +1,86 @@
+TITLE: Pale Hanging Moss
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Pale_Hanging_Moss
+---
+Pale hanging moss is a block found under the logs and leaves of pale oaks. When attached to a pale oak log or leaves, it emits ambient sounds.
+
+Obtaining
+Breaking
+Pale hanging moss can be broken instantly with any tool or by hand. It drops itself only when mined with shears or a tool enchanted with Silk Touch, otherwise it drops nothing.
+
+Natural generation
+Pale hanging moss generates under the leaves and logs of pale oaks in pale gardens. Pale hanging moss does not grow naturally after generating or being placed. Pale hanging moss does not generate as part of pale oaks grown from saplings.
+
+Pale hanging moss also generates within pale garden variants of abandoned camps.
+
+Post-generation
+By applying bone meal to pale hanging moss, the plant will grow one block longer at the bottom.
+
+Trading
+Wandering traders may sell 3 pale hanging moss for 1 emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 pale hanging moss when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+Ambient sounds
+Pale hanging moss emits subtle atmospheric sounds when it is attached to pale oak leaves or a pale oak log.
+
+Composting
+Placing pale hanging moss into a composter has a 30% chance of raising the compost level by 1.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+According to developers, pale hanging moss was inspired by real-world .
+
+Gallery
+Mojang screenshots
+
+Development images
+
+In other media
+
+References
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Non-solid blocks
+Category:Flammable blocks
+
+de:Hängendes Blassmoos
+es:Musgo pálido colgante
+fr:Mousse pâle suspendue
+ja:色あせた垂れ苔
+ko:창백한 매달린 이끼
+lzh:縞懸蘿
+pt:Musgo Pálido Suspenso
+ru:Свисающий бледный мох
+uk:Блідий висячий мох
+zh:苍白垂须

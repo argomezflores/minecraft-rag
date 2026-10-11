@@ -1,0 +1,52 @@
+TITLE: Chiseled Sulfur
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Sulfur
+---
+Chiseled sulfur is a decorative chiseled variant of sulfur used for building.
+
+Obtaining
+Breaking
+Chiseled sulfur drops as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Sulfur Slab, Sulfur Slab arranged in the crafting grid → Chiseled Sulfur.
+
+Stonecutting
+
+Usage
+Chiseled sulfur is used primarily for decoration. A chiseled sulfur block has the face of a sulfur cube engraved on it. See also Easter eggs#Mobs on chiseled blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Gemeißelter Schwefel
+es:Azufre cincelado
+fr:Soufre sculpté
+it:Zolfo cesellato
+ja:模様入りの硫黄
+ko:조각된 유황
+lzh:雕硫黃
+pt:Enxofre Talhado
+ru:Резная сера
+th:กำมะถันสลัก
+uk:Різьблена сірка
+zh:雕纹硫黄

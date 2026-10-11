@@ -1,0 +1,67 @@
+TITLE: Lunge
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Lunge
+---
+Lunge is an enchantment applied to spears that causes jab attacks to propel the wielder forward horizontally. When used, Lunge consumes saturation and hunger at an amount dependent on the enchantment level, as well as 1 durability. The distance gained from Lunge is increased when in midair.
+
+Obtaining
+Lunge can be directly applied to a spear or book using an enchanting table. Enchanted books with Lunge can also be obtained by trading with a librarian of any level, from fishing, or from structure loot. An enchanted book can be used to apply Lunge to a spear using an anvil.
+
+Usage
+Lunge propels the wielder forward, providing an instant momentum boost of  blocks per tick in the direction they are facing whenever they perform a jab attack, at the cost of causing  exhaustion gained (for players only) and 1 additional durability loss. This equates to:
+Level I: 0.458 blocks per tick (9.16 blocks per second), at the cost of  and 1 durability.
+Level II: 0.916 blocks per tick (18.32 blocks per second), at the cost of  and 1 durability.
+Level III: 1.374 blocks per tick (27.48 blocks per second), at the cost of  and 1 durability.
+
+For players, Lunge consumes saturation points first, and then hunger points after. Lunge can only be activated if the wielder has  or more hunger points in their hunger bar (i.e. they can sprint). This equates to:
+34 lunges with max saturationMax saturation can be reached by eating two instances of golden carrots, steak, cooked porkchops, or rabbit stew, or , by eating a single suspicious stew with the Saturation effect. at level I.
+17 lunges with max saturation at level II.
+12 lunges with max saturation at level III.
+
+The speed at which the user can lunge is dependent on the attack speed of their weapon, which in turn makes lower tier spears able to use Lunge more often.
+Tier Attack cooldown length Lunges per second  0.65 seconds 1.54 lunges per second  0.75 seconds 1.33 lunges per second  0.85 seconds 1.18 lunges per second  0.95 seconds 1.05 lunges per second  1.05 seconds 0.95 lunges per second  1.15 seconds 0.87 lunges per second
+
+Non-player mobs do not have hunger, so Lunge will always activate whenever they perform jab attacks, with the only cost being durability. However, zombies, zombie villagers, husks, piglins, and zombified piglins only perform charge attacks, and therefore will never activate Lunge. Mobs use Lunge-enchanted spears in exactly the same way they use non-Lunge spears; i.e. only in melee range and never for mobility. The distance traveled using Lunge is maximized if the wielder looks directly horizontal when they activate it, as the vertical component of Lunge's momentum boost is cancelled before it is applied to the wielder. Additionally, using Lunge midair propels the wielder significantly farther than on the ground. Lunge will not activate if the wielder is riding a mount or vehicle, gliding with elytra, touching water or, if the wielder is a player, has 5 or fewer hunger points.
+
+Charge attack
+thumb|Starting a charge attack immediately after doing a jab attack with a Lunge spear.
+Lunge does not activate when doing a charge attack, and instead activates when doing a jab attack. However, by initiating a charge attack directly after jabbing, the charge attack can be connected using the velocity gained with Lunge. There must be significant distance between the user and the target to give time for the charge attack's activation delay to fully finish after jabbing. The following table shows the damage of charge attacks when done using the speed from different levels of Lunge.
+
+Travel methodBlocks traveled per secondCharge attack damage       I 9.16       II 18.32       III 27.48
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Because hunger cannot be depleted in Peaceful difficulty, the Lunge enchantment can be used infinitely as long as it has sufficient durability.
+
+Gallery
+
+See also
+Riptide
+
+Notes
+
+Navigation
+
+de:Ausfallschritt
+es:Estocada
+fr:Élan
+it:Affondo
+ja:突進
+lzh:揕
+pt:Estocada
+ru:Рывок
+zh:突进

@@ -1,0 +1,41 @@
+TITLE: Poisonous Potato Oil (Potion)
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Poisonous_Potato_Oil_(Potion)
+---
+Poisonous potato oil is a joke potion that provides It's very slippery and Poison when used.
+
+Obtaining
+Poisonous potato oil can be obtained via commands, and is also available in the Creative inventory.
+
+Brewing
+While the base poisonous potato oil cannot be obtained via brewing, it can still be brewed into a splash potion or a lingering potion.
+
+Brewing recipe: Gunpowder + Poisonous Potato Oil (Potion) → Splash Poisonous Potato Oil.
+
+Brewing recipe: Dragon's Breath + Splash Poisonous Potato Oil → Lingering Poisonous Potato Oil.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion1 Instant 0:10Causes up to  damage over time, but does not reduce health below . Splash Potion Lingering Potion Instant 0:02
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Poisonous Potato Oil, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Deadly Oilyness, 8.
+
+Sounds
+
+Data values
+ID
+
+Item data
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Poisonous Potato Oil  poisonous_potato_oil
+
+Advancements
+
+Issues
+
+Navigation
+
+Category:Potions

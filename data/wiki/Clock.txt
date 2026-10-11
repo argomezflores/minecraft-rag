@@ -1,0 +1,81 @@
+TITLE: Clock
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Clock
+---
+A clock is an item that shows the state of the daylight cycle in the Overworld. It spins randomly in other dimensions, as those do not have daylight cycles.
+
+Obtaining
+Crafting
+
+Crafting recipe: Gold Ingot, Gold Ingot, Redstone Dust, Gold Ingot, Gold Ingot arranged in the crafting grid → Clock.
+
+Generated loot
+
+Trading
+
+Usage
+class=pixel-image drop-shadow-dark|right|120px|Clock animation
+The clock dial consists of two halves, a day side and a night side. The dial spins clockwise slowly to indicate the time of day, corresponding to the sun or moon's actual position in the sky. When the time of day changes suddenly, such as after sleeping or when  is used, the clock dial spins rapidly to catch up. The player is able to sleep a few seconds after the clock shows exactly dusk.
+
+The dial always shows the current in-game time when in the Overworld, regardless of where it appears. This includes a player's hand, an inventory slot, a crafting grid, an item frame, or even as a dropped item. For a clock to be mounted on a wall, an item frame is required.
+
+Because there is no day–night cycle in the Nether or the End, clocks do not work properly in these dimensions. Instead, the dial rotates rapidly and randomly. Although clocks do not function in these dimensions, the actual daylight cycle does continue.
+
+Piglins
+Piglins will run toward any clock item on the ground and inspect it for 6 seconds , or 8 seconds , before putting it in their inventory.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+, the default resource pack for the clock contains 64 individual frames, each frame lasting about 18.75 seconds in real time (375 ticks) (1350 seconds (22 minutes, 30 seconds) in Minecraft time).
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Utilities
+
+cs:Hodiny
+de:Uhr
+es:Reloj
+fr:Montre
+hu:Óra
+it:Orologio
+ja:時計
+ko:시계
+nl:Klok
+pl:Zegar
+pt:Relógio
+ru:Часы
+th:นาฬิกา
+uk:Годинник
+zh:时钟

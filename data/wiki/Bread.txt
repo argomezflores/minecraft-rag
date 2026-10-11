@@ -1,0 +1,81 @@
+TITLE: Bread
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bread
+---
+Bread is a food item that can be eaten by the player.
+
+Obtaining
+Crafting
+
+Crafting recipe: Wheat, Wheat, Wheat arranged in the crafting grid → Bread.
+
+Generated loot
+
+Trading
+
+Villager gifts
+Farmer villagers may use wheat they have harvested to craft bread, which they can trade with other villagers.
+
+Farmer villagers may throw bread at players under the Hero of the Village effect.
+
+Usage
+Food
+
+Bread can be eaten with the use control while it is selected in the hotbar. Eating bread restores  hunger and 6.0 hunger saturation.
+
+Breeding
+Villagers can pick up bread items to become willing, allowing them to breed. Villagers require 3 bread to become willing.
+
+Composting
+Placing bread into a composter has an 85% chance of raising the compost level by 1. It is more efficient to compost wheat than bread made from wheat.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Gallery
+In other media
+
+Issues
+
+External links
+
+Navigation
+
+Category:Food
+
+cs:Chléb
+de:Brot
+es:Pan
+fr:Pain
+hu:Kenyér
+it:Pane
+ja:パン
+ko:빵
+lzh:饢
+nl:Brood
+pl:Chleb
+pt:Pão
+ru:Хлеб
+th:ขนมปัง
+uk:Хліб
+zh:面包

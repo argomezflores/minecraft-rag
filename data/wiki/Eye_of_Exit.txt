@@ -1,0 +1,33 @@
+TITLE: Eye of Exit
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Eye_of_Exit
+---
+The Eye of Exit is an item only present in 25w14craftmine on Java Edition, replacing the Eye of Ender in that version.
+
+Obtaining
+The player is given an eye of exit upon revisiting a mine they have archived in a mine revisitor, of which instead teleports them to the hub instead of locating the nearest mine exit.
+
+Crafting
+
+Crafting recipe: Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Iron Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot arranged in the crafting grid → Eye of Exit.
+
+Usage
+When used in the current mine, the player who threw it gets damaged (unless they have the perk that disables this effect) and it leads the player to the nearest mine exit, similar to an eye of ender.
+
+The item cannot be thrown during a mob wave, yet still damages the player unless they have the 'pathfinder' upgrade.
+
+When used in a previous mine, the player is instantly transported back to the Hub without taking damage.
+
+Like an eye of ender, it has a 20% chance to break after throwing.
+
+Sounds
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+ja:Eye of Exit
+zh:出口之眼

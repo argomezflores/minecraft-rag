@@ -1,0 +1,56 @@
+TITLE: Blackstone Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Blackstone_Slab
+---
+A blackstone slab is a decorative slab variant of blackstone that generates in bastion remnants and is used for building.
+
+Obtaining
+Breaking
+Blackstone slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Blackstone slabs generate as part of bastion remnants.
+
+Crafting
+
+Crafting recipe: Blackstone, Blackstone, Blackstone arranged in the crafting grid → Blackstone Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a blackstone slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+ja:ブラックストーンのハーフブロック
+ko:흑암 반 블록
+pt:Laje de pedra-negra
+uk:Плита з чорнокаменю
+zh:黑石台阶

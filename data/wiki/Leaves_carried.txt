@@ -1,0 +1,47 @@
+TITLE: Leaves carried
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Leaves_carried
+---
+{{DISPLAYTITLE:leaves_carried}}
+
+leaves_carriedhttps://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-discussion/1968560-my-report-on-3-strange-new-blocks?comment=8 was a block that was used as the item model for leaves.
+
+Obtaining
+leaves_carried is known to be obtainable only through the use of inventory editors and other external tools.
+
+Breaking
+The speed at which leaves_carried breaks is not currently known. They drop regular leaves when broken with shears.
+
+Usage
+
+Appearance
+In its base state, leaves_carried highly resembles actual leaves. There are, however, differences: the main difference is that it appears darker than normal leaves, which is due to them using a tint, despite the texture they use already being colored, rather than the grayscale that tinted blocks usually use. Specifically, this tint is the color .
+
+However, higher metadata versions of leaves_carried behave unexpectedly. Perhaps most interesting is metadata 1, which corresponds to spruce leaves, which uses a crafting table's side textures rather than anything relevant to leaves. This could be explainable through examination of terrain.png, however, this is yet to be done.
+
+Metadata 1 is tinted with , and metadata 2 is tinted with . The behavior of metadata 3 is tinted with .
+
+Functional differences from leaves
+Despite very closely resembling leaves visually, leaves_carried do not decay.
+
+Whether they drop saplings when broken without shears is unknown. If broken with shears they drop regular leaves.
+
+Data values
+
+ID
+
+History
+
+Issues
+
+References
+
+Navigation
+
+Category:Removed blocks
+
+fr:leaves_carried
+ja:Leaves carried
+lzh:謬葉
+pt:Leaves carried
+zh:leaves_carried

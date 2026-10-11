@@ -1,0 +1,53 @@
+TITLE: Polished Cinnabar
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Cinnabar
+---
+Polished cinnabar is the polished version of cinnabar.
+
+Obtaining
+Breaking
+Polished cinnabar drops as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cinnabar, Cinnabar, Cinnabar, Cinnabar arranged in the crafting grid → Polished Cinnabar,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Polierter Zinnober
+es:Cinabrio pulido
+fr:Cinabre poli
+ja:磨かれた辰砂
+ko:윤나는 진사
+lzh:鎣朱砂
+pt:Cinábrio Polido
+ru:Полированная киноварь
+th:ซินนาบาร์ขัด
+uk:Полірований кіновар
+zh:磨制朱砂

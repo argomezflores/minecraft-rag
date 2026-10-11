@@ -1,0 +1,106 @@
+TITLE: Piglin Head
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Piglin_Head
+---
+A piglin head is the head of a piglin in the form of a block. It can only be obtained by killing a piglin using a charged creeper's explosion.
+
+Obtaining
+Breaking
+No tool can accelerate the breaking process of piglin head.
+
+Piglin head drops itself upon destroyed.
+When destroyed by an explosion, the piglin head always drops as an item.
+
+Mob loot
+Piglin heads are always dropped by a piglin if it dies from a charged creeper's explosion. , if multiple mobs are killed by the same charged creeper, all of them drop their heads; however, , only one mob selected at random drops its head.
+
+Usage
+Decoration
+Piglin heads can be oriented in 16 different directions on top of a block and 4 directions on the sides of blocks, similar to signs. They can be placed on top of, or beside each other by shift clicking.
+
+When placed and powered by redstone, the piglin head flaps its ears (2 times per second for the right ear and 2.5 times per second for the left ear). The same animation occurs when worn by a (horizontally) moving player, zombie, skeleton, or armor stand (note: the animation does not play if the NoGravity tag is set to 1)
+
+Wearing
+
+The player can wear piglin heads, similarly to pumpkins or helmets. This overlays the second layer of the player's skin.
+
+Disguise
+Wearing a piglin head reduces the detection range for piglins and piglin brutes to 50% of the normal range. This is similar to (and stacks with) the reductions in detection range from sneaking and from the Invisibility status effect.
+
+, wearing a piglin head makes the player invisible to other players on a locator map.
+
+Locator bar
+Like all other mob heads, a piglin head can be worn by a player to hide their location, as it will prevent other players from finding them using the locator bar.
+
+Dispensers
+A dispenser can equip a piglin head on a player, mob, or armor stand with an empty helmet slot, within the block the dispenser is facing.
+
+Crafting ingredient
+
+Enchantments
+Piglin heads can receive the following enchantments, but only through an anvil.
++NameMax levelMethodCurse of BindingICurse of VanishingI
+
+Note blocks
+Placing a piglin head above a note block causes the note block to play the piglin's  sound when activated.
+
+The block below the note block does not affect the mob sound it creates.
+
+Piston interactivity
+Piglin heads are destroyed when pushed by a piston and cannot be pulled by a sticky piston.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Block data
+A piglin head has a block entity associated with it that holds additional data about the block.
+
+:
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+History
+
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Renders
+
+In other media
+
+References
+
+Navigation
+
+Category:Utility blocks
+Category:Createable blocks
+Category:Block entities
+
+es:Cabeza#Piglin
+ko:피글린 머리
+pt:Cabeça de Piglin
+zh:猪灵的头

@@ -1,0 +1,113 @@
+TITLE: Copper Door
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Door
+---
+The copper door is a type of door made of copper that can be opened and closed by the player without redstone.
+
+Obtaining
+Breaking
+A copper door can be mined with anything, but pickaxes allow for faster mining.
+
+Copper door drops itself when it's destroyed.
+
+Copper door also drops itself when its supporting block is moved or removed.
+Crafting
+
+Crafting recipe: Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot arranged in the crafting grid → Copper Door, 3.
+
+Natural generation
+Copper doors generate naturally between the rooms of trial chambers.
+
+Usage
+
+Copper doors can be opened and closed using a redstone signal, or by players, villagers, piglins, vindicators, and copper golems. Copper doors are also affected by the wind burst of thrown wind charges, causing them to open if closed, or vice versa.
+
+In Hard difficulty, copper doors can be broken by vindicators and all variants of zombies, including sometimes drowned.
+
+Barrier
+thumb|A vindicator breaking a closed copper door placed sideways, even though it allows passage
+A copper door can be opened or closed by pressing the  control. When a door opens or closes, it immediately changes its orientation without affecting anything in the space it "swings through".
+
+Some zombies can break copper doors in Hard difficulty. Zombies have a 5% chance to spawn with the ability to break doors. Vindicators spawned from a raid in Normal and Hard difficulty can also break copper doors, but they do so only to reach targeted players, villagers, or wandering traders. , some vindicators may sometimes open a copper door instead of breaking it. Both zombies and vindicators attempt to break a copper door only when the door is in its "closed" state; this is the case even when the door is placed in such a way as to allow passage in its "closed" state and block passage in its "open" state (for example, by facing sideways when placing the door).
+
+Redstone component
+
+Copper doors can be controlled with redstone power.
+
+A copper door is a redstone mechanism component and can be activated by weakly powering any cardinally adjacent block.
+
+When activated, the copper door immediately opens. When deactivated, it immediately closes. Players and mobs can still open and close a door that is controlled by a redstone signal.
+
+All methods of activating a door can be applied to either the top or bottom parts of a door.
+
+Oxidation
+
+Non-waxed copper doors have four stages of oxidation (including the initial normal state). Lightning bolts and axes can remove the oxidation on copper doors. They can be waxed with honeycomb to prevent oxidation from progressing.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+Air pockets
+Copper doors can be used as air pockets underwater . They can also be used as air pockets in lava in both Java and Bedrock editions, similar to iron doors.
+
+Piston interactivity
+Copper door is destroyed when the piston tries to push it. It can't be pulled by the sticky piston.
+Sounds
+Generic
+
+Unique
+Waxing
+
+Other
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Utility blocks
+Category:Generated structure blocks
+Category:Double blocks
+Category:transparent blocks
+de:Kupfertür
+es:Puerta de cobre
+fr:Porte en cuivre
+ja:銅のドア
+ko:구리 문
+pt:Porta de Cobre
+ru:Медная дверь
+uk:Мідні двері
+zh:铜门

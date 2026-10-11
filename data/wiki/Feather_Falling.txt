@@ -1,0 +1,64 @@
+TITLE: Feather Falling
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Feather_Falling
+---
+Feather Falling is an enchantment applied to boots that reduces fall damage and ender pearl damage.
+
+Obtaining
+At level 30, Feather Falling is one of the rarest enchantments to obtain through an enchanting table. There is only a 2.7% chance for Feather Falling IV to appear on a pair of diamond boots when enchantments that require 30 levels are applied. However, Feather Falling appears much more commonly on an enchanting table at levels slightly lower than level 30. Below is a table with the chances of obtaining Feather Falling on diamond boots through an enchanting table at each level:
+Experience level Probability302.7%287.4%2629.6%2429.6%2244.4%2031.5%
+
+As seen from the table above, Feather Falling is most common at level 22 when enchanting diamond boots through an enchanting table. Levels 24 and 26 still provide chances of obtaining Feather Falling much higher than that at level 30.
+
+Feather Falling IV can also be obtained by combining two Feather Falling III enchantments on an anvil, by trading with villagers, from fishing, from vaults in trial chambers, and in the following structures' loot chests: desert pyramids, strongholds, ocean ruins, ancient cities, mansions, pillager outposts, mineshafts, monster rooms, and jungle pyramids.
+
+Usage
+Feather Falling reduces all forms of fall damage taken, even though fall damage normally ignores armor. This is not limited to falling from a great height either; Feather Falling reduces the damage taken from thrown ender pearls or from riding a mob that takes significant fall damage.
+
+Feather Falling reduces damage taken from crashing into the ground with an elytra, but it does not reduce damage taken from crashing into a wall.
+
+The damage formula that Feather Falling uses reduces fall damage by , up to a maximum of 48% with Feather Falling IV. This can be further increased with the Protection enchantment.
+
+Damage reduction from Protection, Fire Protection, Feather Falling, Blast Protection, and Projectile Protection stacks up to an upper limit cap of 80%. Any further damage reduction that would normally occur is instead ignored. Feather Falling IV cannot reach this cap alone, as it reduces fall damage by only 48%. However, if combined with multiple Protection enchantments, the damage cap can be reached since Protection also reduces fall damage. To reach this cap using only Feather Falling, level VII would be required which is possible only with the use of commands.
+
+Below is a list of how much fall damage is taken from varying heights when using each level of Feather Falling, with bold values indicating the point at which 10 or more hearts of fall damage would be taken, causing instant death to a player:
+
+Heightinblocks Fall damage taken NoProtectionFF IFF IIFF IIIFF IVFF IV +Protection IVFF IV +2*Protection IV1–30000000410.880.760.640.520.360.2 521.761.521.281.040.720.4632.642.281.921.561.080.6743.523.042.562.081.440.8854.43.83.22.61.81965.284.563.843.122.161.21076.165.324.483.642.521.41187.046.085.124.162.881.61297.926.845.764.683.241.8 13 108.87.66.45.23.6214119.688.367.045.723.962.2151210.569.127.686.244.322.4161311.449.888.326.764.682.6171412.3210.648.967.285.042.8181513.211.49.67.85.43191614.0812.1610.248.325.763.2201714.9612.9210.888.846.123.4211815.8413.6811.529.366.483.6221916.7214.4412.169.886.843.823 20 🪦17.615.212.810.47.24242118.4815.9613.4410.927.564.2252219.3616.7214.0811.447.924.4262320.24 🪦17.4814.7211.968.284.6272421.1218.2415.3612.488.644.828252219161395292622.8819.7616.6413.529.365.2302723.7620.52 🪦17.2814.049.725.4312824.6421.2817.9214.5610.085.632 2925.5222.0418.5615.0810.445.8333026.422.819.215.610.86343127.2823.5619.8416.1211.16 6.2353228.1624.3220.48 🪦16.6411.526.4363329.0425.0821.1217.1611.886.6373429.9225.8421.7617.6812.246.8383530.826.622.418.212.67393631.6827.3623.0418.7212.967.2403732.5628.1223.6819.2413.327.4413833.4428.8824.3219.7613.687.6423934.3229.6424.9620.28 🪦14.047.8504741.3635.7230.0824.4416.929.4605750.1643.3236.4829.6420.52 🪦11.4807767.7658.5249.2840.0427.7215.41009785.3673.7262.0850.4434.9219.4103100887664523620 🪦
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+With boots enchanted with Feather Falling IV, and at least two other armor pieces enchanted with Protection IV, a player at full health can survive a maximum fall distance of 103 blocks.
+The fall distance can be extended to 503.3 blocks provided that the player lands on a hay bale.
+Although Feather Falling should negate 12% of the damage per level, at level IV the height of guaranteed death is 55 blocks, not 57-58 (57.5) blocks.
+
+References
+
+Navigation
+
+de:Federfall
+es:Caída de pluma
+fr:Chute amortie
+ja:落下耐性
+lzh:羽落
+pt:Peso-Pena
+ru:Невесомость
+th:เบาดุจขนนก
+zh:摔落缓冲

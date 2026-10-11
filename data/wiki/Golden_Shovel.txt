@@ -1,0 +1,89 @@
+TITLE: Golden Shovel
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Golden_Shovel
+---
+A golden shovel is a variant of shovel that is crafted from gold ingots. It is used to break dirt, sand, gravel and other related blocks faster, to create dirt paths from dirt-related blocks, and to extinguish campfires. It is the sixth-highest tier of shovel, having the lowest durability, and having the lowest attack damage alongside wooden shovels, despite having the highest mining efficiency. It can be admired by piglins, and has the highest enchantability.
+
+Obtaining
+Crafting
+
+Crafting recipe: Gold Ingot, Stick, Stick arranged in the crafting grid → Golden Shovel.
+
+Generated loot
+
+Usage
+Digging
+A golden shovel can be used to break dirt and soil-type materials faster. When breaking a block, it uses 1 durability. For blocks that break instantly, it uses 0 durability.
+
+Dirt paths
+A golden shovel can be used to create a dirt path by  (not digging) the shovel on any one of the following blocks, losing one durability point:
+
+Campfire
+A golden shovel can be used to extinguish a campfire.
+
+Weapon
+Golden shovels take 2 damage when used as a weapon.
+
+Golden shovels have an attack speed modifier of -3, meaning they take 1 second to recover. Golden shovels deal  damage.
+
+Golden shovels always attack instantly and do  damage.
+
+Repairing
+Combining
+
+Unit repair
+
+A golden shovel can be repaired in an anvil by adding gold ingots, with each ingot restoring 25% of the shovel's maximum durability, rounded down. Two golden shovels can also be combined in an anvil. Both methods preserve the shovel's enchantments.
+
+Enchantments
+A golden shovel can receive the following enchantments:
+
++NameDescriptionMax LevelMethodWeightEfficiencyIncreases the mining speed.V10FortuneSilk Touch and Fortune are mutually exclusiveIncreases the amount of drops when mining.III2Silk TouchCauses blocks to drop themselves when mined.I1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the shovel when obtaining experience.I2Curse of VanishingThe shovel vanishes on death, not dropping as an item.I1
+
+Smelting ingredient
+
+Smelting recipe: Golden Shovel → Gold Nugget, XP: 0,1.
+
+Piglins
+are attracted to golden shovels and run toward any golden shovels on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+In other media
+
+References
+
+Navigation
+
+Category:Tools
+
+fr:Pelle en or
+pt:Pá de Ouro
+uk:Золота лопата

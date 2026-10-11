@@ -1,0 +1,70 @@
+TITLE: Potion of Harming
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Harming
+---
+A potion of Harming is a potion that provides Instant Damage when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Fermented Spider Eye + Potion of Healing → Potion of Harming.
+
+Brewing recipe: Fermented Spider Eye + Potion of Poison → Potion of Harming.
+
+Brewing recipe: Glowstone Dust + Potion of Harming → Potion of Harming Enhanced.
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion 1Instant Damages . 2 Damages  (doubles with every additional level).Splash Potion 1 Damages . 2 Damages  (doubles with every additional level).Lingering Potion 1 Damages . 2 Damages  (doubles with every additional level).
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Harming; Lingering Potion of Harming Enhanced, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Harming, 8; Arrow of Harming Enhanced, 8.
+
+A potion of Harming heals when used on undead mobs.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular  Enhanced Potion of Harming  23  24
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularLevel II Potion of Harming  harming  strong_harming
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de dégâts
+pt:Poção de Dano
+zh:伤害药水

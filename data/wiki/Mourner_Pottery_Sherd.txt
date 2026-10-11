@@ -1,0 +1,45 @@
+TITLE: Mourner Pottery Sherd
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Mourner_Pottery_Sherd
+---
+A mourner pottery sherd is a pottery sherd that can be found in cold ocean ruins.
+
+Obtaining
+Breaking
+Breaking a decorated pot drops all bricks and pottery sherds used to craft it, meaning it drops a mourner pottery sherd if one was used to craft it.
+
+Generated loot
+
+Usage
+Crafting ingredient
+Mourner pottery sherds can be used to craft decorated pots.
+
+Crafting recipe: Mourner Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; Mourner Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; Mourner Pottery Sherd; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}; Mourner Pottery Sherd arranged in the crafting grid → Decorated Pot.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Gallery
+
+Issues
+
+Navigation
+
+Category:Pottery sherds
+
+pt:Óstraco de Defensor
+ru:Глиняный черепок «Скорбь»
+th:เศษเครื่องปั้นดินเผาลายวอร์เดน
+zh:悲恸纹样陶片

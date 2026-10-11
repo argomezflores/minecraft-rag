@@ -1,0 +1,81 @@
+TITLE: Key codes
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Key_codes
+---
+This is a list of key codes used by Minecraft, which are used in the options.txt file.
+
+Java Edition
+
+Only keys which can be directly detected by the operating system are able to be bound to game controls - keys such as F Lock or Fn typically are not recognisable themselves as keys, and Minecraft and all other computer programs will be oblivious to them in isolation.
+
+Only mouse buttons can have controls be bound to them in the options menu. Mouse movement, vertical scrolling and horizontal scrolling are hardcoded, and their default actions cannot be assigned to other keys or buttons, nor can scrolling or moving the mouse be made to do anything else.
+
+Java Edition does not provide official support for controllers.
+
+Keyboard codes
+Keyboard buttons are handled as a signed 32-bit integer, meaning that through editing options.txt, values from  to  can be specified without being rejected by the game as invalid. Any keys corresponding to a valid SDL key code will be automatically converted to one of the named keys below.
+
+The displayed names of several keys will change depending on the currently active system keyboard layout. The values displayed in this table assume a standard en-US QWERTY layout. Some keys also have operating system dependent names, which are assigned different rows sharing an ID.
+
+ID Displayed name Physical key or button Translation key   Unassigned                                                                                                                                                                 (ANSI)                                        Varies (ISO)    VariesCannot be assigned                                                                                                    Unclear                                                                            Cannot be assigned                                                                                    Cannot be assigned                            WindowsLinux    macOS     WindowsLinux    macOS     Windows    macOS    Linux     Windows    macOS    Linux   Mojang have chosen to assign generic, non-descriptive titles to these keys, matching their internal SDL3 IDs rather than the actual real-life key names:                        (JIS) /  (ABNT)                     (PC-9800)                                                                                                                                                                    Keys with no assigned ID    Keys with no assigned ID
+
+Unused
+Minecraft includes IDs and translation strings for all named SDL3 key IDs, even those which are not present in the key binding files for any supported operating system, and therefore cannot be accessed.
+
+These can be set via modifying  manually, but will not be triggerable due to the lack of an associated key.
+
+Keys such as World 2, Keypad Decimal and Escape may warrant inclusion here later.
+ID Displayed name Notes      This is a mobile phone button.https://wiki.libsdl.org/SDL3/SDL_Scancode                           This is a mobile phone button.                                                                                                                                                      Accidentally assignable in Linux.                  This is a mobile phone button.   This is a mobile phone button.
+
+Mouse codes
+Mouse buttons are handled as a signed 32-bit integer, meaning that through editing options.txt, values from  to  can be specified without being rejected by the game as invalid. However, the USB HID specification only permits mouse buttons from 1 to 65535,https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf meaning that all negative values and the vast majority of the positive values can never actually be assigned to in-game actions without file editing.
+
+Only the first eight mouse buttons can have controls assigned to them.
+
+On Linux, mouse buttons up to 48 can be specified (evdev key press events 272 to 319) - it is not known if any supported operating systems support a 49th or higher mouse button as input. The maximum mouse button on macOS is 32,according to what karabiner-elements allows: https://discord.com/channels/647810384031645728/648555495564509184/1528136787434930358 and the maximum mouse button on Windows is 5.
+
+For the first three mouse buttons, the translation keys match the key IDs; all other buttons follow a generic template.
+
+ID Displayed name Description Usable on Windows macOS Linux
+
+Bedrock Edition
+Keyboard codes
+
+In , keys are stored as the decimal representation of their virtual key code.
+
+Some numbers are skipped because they are reserved or not assigned. By modifying options.txt, you can force the game to show these numbers (prefixed with "Button"), but they are unobtainable by pressing a key.
+
+The virtual key code specification also provides numbers for buttons on the mouse. However, mouse buttons are not stored as those numbers.
+ID Displayed name Physical key or button Translation key   Not Bound                       /      /      /              /              /       Cannot be assigned                                                                                                                                                                                                                            /  /     /                                                                                                                                                                      OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific                                                                                                           OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific      OEM-Specific      OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific   OEM-Specific                           All unknown keys
+
+Mouse codes
+
+Mouse buttons are represented by negative numbers.
+ID Displayed name Description
+
+Controller codes
+
+ID Display Description       Not Bound      A      B      X      Y   /  D-Pad Up   /  D-Pad Down   /  D-Pad Left   /  D-Pad Right     Left Stick Click     Right Stick Click     Left Bumper     Right Bumper      Select      Menu     Left Stick Down     Left Stick Right     Left Stick Left     Left Stick Up     Left Trigger     Right Trigger
+
+History
+
+Java Edition
+
+Removed keys
+
+Notes
+
+References
+
+Navigation
+
+Category:Gameplay
+
+fr:Codes de touche
+hu:Billentyűkódok
+ja:キーコード
+nl:Toetscodes
+pt:Códigos de teclas
+ru:Коды клавиш
+uk:Коди клавіш
+zh:键控代码

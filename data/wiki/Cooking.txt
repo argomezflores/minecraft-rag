@@ -1,0 +1,68 @@
+TITLE: Cooking
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cooking
+---
+thumb
+Cooking produces cooked food from raw food by using a furnace, smoker, campfire, or by killing certain mobs with fire. Cooked food gives more  hunger points when consumed than their raw food variant. Cooked food can also be obtained via trading, and in certain loot chests in some generated structures.
+
+Methods
+Fire
+The following cooked food is dropped from their respective mobs when killed while on fire:
+, an item dropped by igniting , , ,  and
+, an item dropped by igniting , ,  and
+, an item dropped by igniting
+, an item dropped by igniting  and
+, an item dropped by igniting  and
+, an item dropped by igniting
+, an item dropped by igniting
+, an item rarely dropped by igniting  and their variants
+
+Campfire
+The campfire or soul campfire has four slots on the block and does not contain an interface. Items are added to the campfire slots by pressing the  button. Up to four uncooked food items can be placed on a campfire, and they are cooked simultaneously. Cooking takes 30 seconds (600 game ticks) for each added item. The items drop from the campfire or soul campfire automatically after they finish cooking.
+
+Campfires do not require any kind of fuel to cook. As long as the campfire is lit, it can cook an infinite amount of food.
+
+If the campfire is extinguished while cooking food, the remaining cooking time quickly counts back up. Food items can be placed on an unlit campfire. Any items cooking on a campfire always drop when the campfire block is broken.
+
+Furnace
+Cooking with a furnace uses cooked food recipes to turn raw food into cooked food when combined with fuel.
+The furnace is a utility block with two functions: besides cooking, it also uses fuel to smelt materials. Each item takes 10 seconds to process.
+
+Smoker
+Smokers are used to cook food items twice as fast as a furnace, taking only 5 seconds per item instead of 10. Fuel is also used twice as fast, so the rate of cooked items per fuel item remains the same.
+
+List of cooked food
+This is a list of all cooked food items.
+
+Uncooked food
+
+Uncooked food are food items which can be cooked using a furnace, smoker, or campfire.
+
+, an item dropped by , , ,  and
+
+, an item dropped by , ,  and
+, an item dropped by
+, an item dropped by  and
+, an item dropped by  and
+, an item dropped by
+, an item dropped by
+, an item rarely dropped by  and their variants
+
+Fuel
+
+Fuel is required for cooking food with a furnace or smoker. Campfires do not require fuel as they will remain lit unless extinguished.
+
+There are multiple types of fuel that can smelt a different number of items.
+
+Cooked food recipes
+
+Trading
+Some villagers sell cooked food items. Butchers directly sell cooked chicken and porkchops, whereas fishermen can cook the raw fish for a fee.
+
+Issues
+
+Gallery
+
+Navigation
+
+pt:Cozimento

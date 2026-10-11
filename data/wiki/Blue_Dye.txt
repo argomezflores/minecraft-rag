@@ -1,0 +1,55 @@
+TITLE: Blue Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Blue_Dye
+---
+Blue dye is one of the sixteen available dyes.
+
+Obtaining
+Crafting
+
+Generated loot
+
+Trading
+Wandering traders have a chance to trade 3 blue dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 blue dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+Navigation
+
+Category:Items
+Category:Dyes
+
+de:Blauer Farbstoff
+es:Tinte azul
+fr:Teinture bleue
+ja:青色の染料
+ko:파란색 염료
+pt:Corante azul
+th:สีย้อมสีน้ำเงิน
+zh:蓝色染料

@@ -1,0 +1,67 @@
+TITLE: Moss Carpet
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Moss_Carpet
+---
+A moss carpet is a thin decorative variant of the moss block, resembling a carpet in functionality.
+
+Obtaining
+Breaking
+Moss carpets can be mined using any tool or without a tool, but a hoe is the quickest. , swords can also mine moss carpets slightly faster than most items, at 0.1 seconds.
+
+Natural generation
+Moss carpets generate naturally in lush caves and mangrove swamps. They can also generate in some entrance rooms of trial chambers.
+
+Crafting
+
+Crafting recipe: Moss Block, Moss Block arranged in the crafting grid → Moss Carpet,3.
+
+Post-generation
+bone meal on a moss block has a 25% chance to grow moss carpets.
+
+Mangrove propagules that grow into mangrove trees can generate moss carpets on their roots.
+
+Usage
+Moss carpet has most of the properties of the standard carpet, except that it is not flammable, cannot be pushed by pistons, cannot be equipped on llamas, and does not occlude vibrations from sculk sensors.
+
+Composting
+Placing a moss carpet into a composter has a 30% chance of raising the compost level by 1.
+
+Piston interactivity
+Moss carpets break when pushed by pistons. They cannot be pulled by sticky pistons.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Generated structure blocks
+
+de:Moosteppich
+es:Capa de musgo
+fr:Tapis de mousse
+ja:苔のカーペット
+ko:이끼 바닥
+pl:Warstwa mchu
+pt:Tapete de Musgo
+ru:Мшистый покров
+th:พรมมอสส์
+uk:Моховий покрив
+zh:覆地苔藓

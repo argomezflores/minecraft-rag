@@ -1,0 +1,199 @@
+TITLE: Potion
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Potion
+---
+Potions are bottled consumable liquids that give effects for a certain amount of time when drunk. They are primarily obtained from brewing. Every potion is brewed starting from a water bottle, which is considered a type of potion that has no effects.
+
+Variants
+Base potions
+
+Effect potions
+
+Obtaining
+Brewing
+
+Almost all potions are obtained by brewing.
+
+The potion of Luck and the potion of Decay cannot be brewed. They can be obtained via commands, and are also available in the Creative inventory in their respective editions.
+
+Mob loot
+A witch has an 8.5%/25% chance to drop a potion of Healing, Fire Resistance, Swiftness, or Water Breathing if it dies while drinking one of them.
+
+A wandering trader also has an 8.5%/25% chance to drop a potion of Invisibility if killed while drinking it.
+
+Generated loot
+Two potions of Healing II can be found in the brewing stand on end ships in end cities.
+
+, the cauldron in a swamp hut contains 1 to 3 bottles of a random potion. There is a 25% chance for a potion of Healing or Poison, 15% for Swiftness, 10% for Slowness, Weakness, or Water Breathing, and 5% for Fire Resistance.
+
+Bartering
+When given a gold ingot, piglins have a  (~2.13%) chance to barter a water bottle, and a  (~1.71%) chance to barter a potion of Fire Resistance.
+
+Fishing
+Water bottles can be fished up as junk items.
+
+Trading
+Wandering traders can sell 1 extended potion of Invisibility for 5 emeralds.
+
+Cauldrons
+
+A glass bottle can be  on a filled cauldron to fill it with water, making a water bottle. This drops the water level in the cauldron by one. , a cauldron can hold 1 to 3 bottles of any potion, which can be picked up by the same method to fill the bottle with the corresponding potion.
+
+Water
+A glass bottle can also be  on a water source block to fill it with water. This does not affect the water source block.
+
+Usage
+Potions are used by pressing and holding  with the potion bottle in hand, as with all consumable items. When consumed, they bestow the corresponding status effect upon the player and return a glass bottle.
+
+Drinking a potion while already under the effects of the same potion does not add onto the effect's duration, but simply resets it. A potion effect does not "downgrade" if a lower level is activated. For example, if a player has Regeneration II, drinking a regular potion of Regeneration does not have any effect.
+
+Modifiers
+
+Potions can be modified in five ways.
+Adding glowstone dust into certain potions enhances their level of effect.
+Adding redstone extends the duration of the effect.
+Adding gunpowder into a potion makes it a splash potion (area effect).
+Adding dragon's breath to a splash potion makes it a lingering potion (area effect that lingers on the ground).
+Adding a fermented spider eye into specific potions modifies their effect, usually inverting it; this is referred to as "corruption".
+
+The modifications of enhancement and extension are mutually exclusive.
+
+Enhancing most potions trades some of its duration for a bigger effect. For example, the base Regeneration lasts for 44 seconds whereas Regeneration II lasts for only 22 seconds but heals more per tick during that time.
+
+Extending a potion generally makes it last  times as long as its base potion, so a duration of 3 minutes becomes 8 minutes.
+
+Corruption
+The usual result of corruption is to invert the potion's effect (for example Swiftness becomes Slowness). However:
+Corrupting potion of Poison (a continuous damage effect) creates a potion of Harming (an instant damage effect) instead of Regeneration (a continuous healing effect).
+Corrupting a potion of Night Vision turns it into a potion of Invisibility instead of Blindness or Darkness.
+Corrupting a potion of Strength doesn't turn it into Weakness. Instead, that is brewed by corrupting a Water Bottle.
+
+Corrupting an extended or enhanced potion results in a corrupted potion with the same modifier, if it is supported by the corrupted effect. The only exception to this is the enhanced potion of Slowness, which cannot be brewed by corrupting an enhanced potion of Swiftness or Leaping. All of the corrupted potions except Harming can be extended, but only Harming and Slowness can be enhanced.
+
+Base potions
+Base potions are potions that have no effect when the player drinks them, but are necessary as the basis for other potions.
+
+Icon Name Use  Water bottle The base for the awkward potion and potion of Weakness.  Awkward potion The base for all other effect potions.  Mundane potion Only usable as an alternative base for potion of Weakness .  Thick potion Only usable as an alternative base for potion of Weakness .  Long mundane potion Exists only  and cannot be obtained in Survival mode. It can only be brewed into an extended potion of Weakness.
+
+Effect potions
+Potions with positive effects
+Icon Name Duration Effect Description   0:45  Restores  health over time,  every 50 ticks (2.5 seconds). Potion of Regeneration + 1:302:00 Restores  or  health over time,  every 50 ticks (2.5 seconds). Potion of Regeneration II 0:22.5 Restores  health over time,  every 25 ticks (1.25 seconds).   3:00  Increases speed and jump distance by 20% and increases FOV (6.73 meters per second sprinting). Potion of Swiftness + 8:00 Potion of Swiftness II 1:30 Increases speed and jump distance by 40% and increases FOV (7.85 meters per second sprinting).   3:00  Gives immunity to all heat-related damage. Potion of Fire Resistance + 8:00   Instant  Restores  health. Potion of Healing II Instant Restores  health. (doubles with every additional level)   3:00  Visually brightens everything to a light level of 15, brightens up water with a blue shine, brightens up lava with an orange shine (other players cannot see the enhanced lighting without this effect). Potion of Night Vision + 8:00   3:00  JE: Increases melee damage by . BE: Increases melee damage by 30%, and then by . Potion of Strength + 8:00 Potion of Strength II 1:30 JE: Increases melee damage by . BE: Increases melee damage by 69%, and then by .   3:00  Increases the jump height to 1.83 blocks and reduces fall damage by one block. Potion of Leaping + 8:00 Potion of Leaping II 1:30 Further increases jump height to 2.51 blocks and reduces fall damage by two blocks.   3:00  Allows the entity to swim without drowning or needing to surface for air. The oxygen bar does not decrease when underwater. Potion of Water Breathing + 8:00   3:00 Makes player disappear from view. Mobs can detect and track the player only at close range, although the range increases when the player wears armor. The splash version make mobs or other players invisible. Some items are unaffected and so remain visible. These include: armor, items held in hand, arrows stuck into the player, a pig's saddle, a llama's carpet pattern, a shulker's yellow head, and the glowing eyes of spiders, phantoms, and endermen. Potion of Invisibility + 8:00   1:30  The mob/player falls at a much slower rate, and damage from hitting the ground is reduced to zero. A sprinting leap of almost 6 blocks becomes possible and farmland is not affected by the player falling onto it. Potion of Slow Falling + 4:00   5:00  Increases the luck attribute by 1 point.
+
+Potions with negative effects
+Icon Name Duration Effect Description   0:45  Causes up to  damage over time at a rate of 1 every 50 ticks, but does not reduce health below . Potion of Poison + 1:30 2:00 Causes up to  or  damage over time, but does not reduce health below . Potion of Poison II 0:21.60:22.5 Causes up to  damage over time, but does not reduce health below .   1:30  Reduces melee damage by .Reduces melee damage by 20% of the base damage and . Potion of Weakness + 4:00   1:30  Slows players and mobs by 15%, to about 4.75 blocks per second sprinting. Potion of Slowness + 4:00 Potion of Slowness IV 0:20 Slows players and mobs by 60%, to about 2.25 blocks per second sprinting.  Instant  Damages . Potion of Harming II Instant Damages . (doubles with every additional level)  Potion of Decay 0:40  Damages  every second, making a total of  damage  Potion of Infestation 3:00  If a mob has the Infested effect, it has a 10% chance to spawn 1–3 silverfish when hurt. The quantity and chance of silverfish spawning are unaffected by the potency level of the potion.  Potion of Oozing 3:00  If a mob has the Oozing effect, it spawns two medium-sized slimes upon death. The quantity and size of slimes spawning are unaffected by the potency level of the potion.  Potion of Weaving 3:00  If a mob has the Weaving effect, the effect of cobwebs on its speed is reduced, and it creates 2–3 cobwebs upon death. The quantity of cobwebs is unaffected by the potency level of the potion.  Potion of Wind Charging 3:00  If a mob has the Wind Charged effect, it generates a wind burst upon death, similar to that created by wind charges. Intensity of this burst is unaffected by the potency level of the potion.  Potion of Freezing 3:00 If a mob has the Freezing effect, it will reduce its speed and cause damage over time.
+
+Potions with mixed effects
+Icon Name Duration Effect Description   0:20  Slows players and mobs by 60%, to about 2.25 blocks per second sprinting, and reduces their damage taken by 60%. Potion of the Turtle Master + 0:40 Potion of the Turtle Master II 0:20 Slows players and mobs by 90%, to about 0.5625 blocks per second sprinting, and reduces their damage taken by 80%.
+
+Joke potions
+
+Undead mobs
+The effects given by potions of Healing and Harming are reversed on undead mobs. Potions of Healing deal damage, and Harming heals them. In addition, undead mobs are not affected by Poison or Regeneration.
+
+, hitting an undead mob with a Regeneration Potion always registers as Regeneration I, no matter the level of the used potion.
+
+Mud conversion
+Using a water bottle, splash water bottle, or lingering water bottle on dirt, coarse dirt, or rooted dirt converts it into mud, returning a glass bottle with it. This process can be automated with a dispenser.
+
+Filling cauldrons with potions
+, using a potion bottle on a cauldron empties the potion into it and fills the cauldron by  of its capacity. Using a glass bottle on a cauldron filled with a potion drains it by  and fills the bottle. A single cauldron can store up to three potions of the same type. Different potions cannot be combined in a cauldron, nor can they be mixed with any other substance. Arrows can be also tipped when used on a cauldron containing potion. A single portion of potion can tip 16 arrows at once, while a full cauldron can tip a stack of arrows at once.
+
+Uncraftable potion
+, the uncraftable potion is a potion with no effect that is unobtainable in Survival. It is also available in splash potion and lingering potion forms, as well as for tipped arrows.
+
+Uncraftable potions have the same texture as water bottles.
+
+It can be obtained using the following command: . It is also obtained when a potion has invalid or missing potion effect tags, and thus serves as a placeholder.
+
+Custom effects
+
+, potions can also be obtained with any status effect using  and the potion_contents data component.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Metadata
+, potions use the following item data values to indicate the kind of potion:
+
+Potion  Regular  Extended  Enhanced(Level II)  Water Bottle  0  N/A  N/A  Mundane Potion  1  2  N/A  Thick Potion  3  N/A  N/A  Awkward Potion  4  N/A  N/A  Potion of Night Vision  5  6  N/A  Potion of Invisibility  7  8  N/A  Potion of Leaping  9  10  11   Potion of Fire Resistance  12  13  N/A  Potion of Swiftness  14  15  16  Potion of Slowness  17  18  42  Potion of Water Breathing  19  20  N/A  Potion of Healing  21  N/A  22  Potion of Harming  23  N/A  24  Potion of Poison  25  26  27  Potion of Regeneration  28  29  30  Potion of Strength  31  32  33  Potion of Weakness  34  35  N/A  Potion of Decay  36  N/A  N/A  Potion of the Turtle Master  37  38  39  Potion of Slow Falling  40  41  N/A  Potion of Wind Charging  43  N/A  N/A  Potion of Weaving  44  N/A  N/A  Potion of Oozing  45  N/A  N/A  Potion of Infestation  46  N/A  N/A
+
+Item data
+:
+
+: the item's components tag.
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type. The values of the tag (to be prefixed with minecraft:) are:
+PotionRegularLevel IIExtended +Uncraftable potionanything except the below––Water bottle––Mundane potion––Thick potion––Awkward potion––Night Vision–Invisibility–LeapingFire Resistance–SwiftnessSlownessWater Breathing–Instant Health–Harming–PoisonRegenerationStrengthWeakness–Luck––The Turtle MasterSlow Falling–Infestation––Oozing––Weaving––Wind Charging––
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+When a player drinks two potions by quickly switching to another potion immediately after drinking one, the second drinking animation is not shown.
+A potion of Poison II lasts for 22.5 seconds, but it is displayed as 22 seconds because the item hover display shows rounded-down integer values.
+The "Local Brewery" advancement uses the uncraftable potion texture for its icon.
+
+Unused potions
+Bedrock Edition has unused potion textures for several effects, along with their splash variants. These effects are: Absorption, Blindness, Haste, Health Boost, Hunger, Mining Fatigue, Nausea, Resistance, Saturation, and Levitation, as well as the Luck potion textures also present in Java Edition. These unused textures were added along with the other potion textures in Pocket Edition v0.12.1 alpha, except for the potion of Levitation, which was added in Pocket Edition 1.0.0. The textures were changed along with the other potion textures during the texture update in Bedrock Edition 1.10.0. Strangely, the potion of levitation texture is a duplicate of the splash potion of levitation texture.
+
+Gallery
+Icons
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+See also
+Brewing
+
+References
+
+External links
+
+Navigation
+
+Category:Drinks
+
+de:Trank
+es:Poción
+fr:Potion
+hu:Bájital
+it:Pozione
+ja:ポーション
+ko:물약
+nl:Drank
+pl:Mikstury
+pt:Poção
+ru:Зелье
+uk:Зілля
+zh:药水

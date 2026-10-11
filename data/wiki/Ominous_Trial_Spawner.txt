@@ -1,0 +1,114 @@
+TITLE: Ominous Trial Spawner
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Ominous_Trial_Spawner
+---
+An ominous trial spawner is a trial spawner that has been altered by a Trial Omen effect carried by a player as part of an ominous trial. It spawns more dangerous mob waves, as well as ominous item spawners, but ejects better rewards and is the only source of ominous trial keys.
+
+Obtaining
+Breaking
+No tool can accelerate the breaking process of an ominous trial spawner.
+
+Ominous trial spawners drop nothing when destroyed.
+
+Ominous trial
+Trial spawners convert to ominous trial spawners if a player with the Trial Omen effect enters the 14 block detection area and is in the line of sight of the trial spawner. This also happens when the player has the Bad Omen effect, which gets converted into Trial Omen. When a trial spawner becomes ominous, all of its existing mobs are despawned. If the spawner was on cooldown and was not ominous before going on cooldown, the cooldown is skipped when becoming ominous. The ominous trial spawner then immediately becomes active. An inactive ominous trial spawner converts back into a regular trial spawner after cooling down for 30 minutes.
+
+Ominous trial spawners cannot be obtained as items in Survival or Adventure mode. They are technically block state variants of normal trial spawners and can be obtained or created using commands, such as:
+
+:
+
+:
+
+Usage
+An ominous trial spawner is similar to a normal trial spawner, but spawns more difficult mobs and ejects more powerful loot.
+
+Mob spawning
+
+Ominous trial spawners converted from trial spawners that generate naturally in trial chambers spawn mobs with (better) weapons and wearing armor. Ominous trial spawners with mobs that are unable to wear equipment, such as spiders or silverfish, spawn double the total mob count over the course of the challenge. These spawners also allow an additional mob to be out all at once during their challenge.
+
+Each armor set consists of only a chestplate and helmet with each piece having a 50% chance of being missing. All armor is enchanted with Fire Protection IV, Projectile Protection IV, and Protection IV. , mobs don't drop the armor on death or upon conversion to a drowned. In Bedrock Edition, zombies will drop the armor when converted to drowned, but not on death. The armor is selected from:
+with  in  (4 in 7)
+with  in copper (2 in 7)
+with  in copper (1 in 7).
+
+Melee mobs spawn with a weapon selected from:
+(4 in 7)
+with Sharpness I (1 in 7)
+with Knockback I (1 in 7)
+(1 in 7).
+
+Ranged mobs spawn with a  with:
+no enchantment (2 in 4)
+Power I (1 in 4)
+Punch I (1 in 4).
+
+Ominous trial spawners converted from manually placed trial spawners continue to spawn the same mob as the trial spawner.
+
+Projectile spawning
+When at least one player is within the activation range of an ominous trial spawner, every 8 seconds it spawns ominous item spawners above any player or any mob that was spawned by the ominous trial spawner within 14 blocks. The location where it should spawn is determined by first performing a raycast from the feet of the entity to a random height between 2 and 5 blocks above the entity. If it hits a block, this block is used, otherwise the end of the line is used. Which block can be hit is determined by visual box. The item spawns in the center of the block below it, unless the block has a collision box. The ominous item spawner displays a projectile for 3 to 6 seconds before shooting that projectile downwards.
+
+Each ominous trial spawner has a set of 2 projectiles it spawns, one of which is a lingering potion. The lingering potion effect is selected randomly from one of the following (all with equal chance):
+
+The second projectile is randomly selected from one of the following (again, all with equal chance):
+
+with  (0:45)
+with  IV (0:20)
+
+The potions and projectiles chosen will not change between trials and are based on location and world seed, so it is likely that spawners very close to each other will have the same projectiles.
+
+Loot
+Ominous trial spawners in trial chambers eject different, better, rewards compared to the non-ominous state.
+
+Like a normal trial spawner, it ejects loot once for each detected player. Instead of trial keys, an ominous trial spawner has a 30% chance to eject ominous trial keys, in which case it drops for all players. The other 70% of the time it drops one of the other items for each player.
+
+Ominous trial spawners converted from manually placed trial spawners continue to drop the loot of a normal trial spawner (see Trial Spawner#Loot).
+
+Piston interactivity
+Ominous trial spawner can't be pushed by the piston, and can't be pulled by the sticky piston.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+
+The ominous trial spawner is technically a block state of the trial spawner. Therefore, it has the same data value structure.
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Renders
+
+Mojang screenshots
+
+Notes
+
+References
+
+Navigation
+
+Category:Block entities
+Category:Utility blocks
+Category:Light sources
+Category:Blocks
+Category:Hazardous blocks
+
+de:Unheilvoller Prüfungs-Spawner
+es:Generador de desafío ominoso
+fr:Générateur des épreuves funeste
+ja:不吉な試練のスポナー
+pt:Gerador Sombrio do Desafio
+ru:Зловещий спаунер испытаний
+uk:Зловісний породжувач випробувань
+zh:不祥试炼刷怪笼

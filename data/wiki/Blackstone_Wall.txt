@@ -1,0 +1,51 @@
+TITLE: Blackstone Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Blackstone_Wall
+---
+A blackstone wall is a decorative wall variant of blackstone that generates in bastion remnants and is used for building.
+
+Obtaining
+Breaking
+Blackstone walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Blackstone walls generate naturally within bastion remnants.
+
+Crafting
+
+Crafting recipe: Blackstone, Blackstone, Blackstone, Blackstone, Blackstone, Blackstone arranged in the crafting grid → Blackstone Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Walls
+
+fr:Muret de roche noire
+ja:ブラックストーンの塀
+ko:흑암 담장
+pt:Muro de Pedra-Negra
+uk:Чорнокам'яна стіна
+zh:黑石墙

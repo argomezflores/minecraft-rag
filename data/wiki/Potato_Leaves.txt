@@ -1,0 +1,31 @@
+TITLE: Potato Leaves
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Leaves
+---
+Potato leaves are joke blocks that can be found in the Potato dimension as the leaves of potato trees, only present in 24w14potato.
+
+Obtaining
+Breaking
+Potato leaves can be obtained only with shears or tools enchanted with Silk Touch. Unlike other leaves, potato leaves are not mined any faster with a hoe, but a sword does break the block faster.
+
+Natural generation
+Potato leaves generate in the Potato dimension on potato trees, which grow in arboretum and corruption biomes. They also generate as part of potato villages, creating hedge mazes.
+
+Usage
+
+Unlike other leaves, potato leaves are not flammable.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Natural blocks
+Category:Generated structure blocks
+
+ja:Potato Leaves
+zh:马铃薯树叶

@@ -1,0 +1,56 @@
+TITLE: Deepslate Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Brick_Slab
+---
+A deepslate brick slab is a decorative slab variant of deepslate bricks that generates in ancient cities and is used for building.
+
+Obtaining
+Breaking
+Deepslate brick slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Deepslate brick slabs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Deepslate Bricks, Deepslate Bricks, Deepslate Bricks arranged in the crafting grid → Deepslate Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a deepslate brick slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle d'ardoise des abîmes taillée
+ja:深層岩レンガのハーフブロック
+ko:심층암 벽돌 반 블록
+pt:Laje de Tijolos de Ardosiabissal
+zh:深板岩砖台阶

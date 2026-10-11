@@ -1,0 +1,50 @@
+TITLE: Invisible Bedrock
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Invisible_Bedrock
+---
+Invisible bedrock is an invisible block used to create a world boundary around Old worlds and the void floor .
+
+Appearance
+Invisible bedrock is fully transparent in rendering and thus is completely invisible.
+
+The texture used for invisible bedrock in the inventory is that of stone, but it fills the whole slot, unlike stone. If the player lands onto invisible bedrock, particles from the stone texture can be seen. In Pi Edition, it used the grass texture instead, as the game is based on an old version of Pocket Edition Alpha before the texture was changed to stone.
+
+Obtaining
+Invisible bedrock can only be obtained through add-ons or inventory editing.
+
+Natural generation
+One layer of invisible bedrock generates in the void at Y=-105 in the Overworld and Y=-41 in the Nether and the End.
+
+Invisible bedrock comprised the border surrounding Old worlds. It did not generate above or below the height limit, allowing the player to travel beyond it by flying over or under it, or by pillaring up and walking over it. This could not be done in the Nether in Survival mode, because of the bedrock ceiling.
+
+Usage
+The purpose of invisible bedrock is to prevent the player from getting past the border of the world and falling into the void infinitely. It cannot be targeted; attempting to do so targets anything behind it. The only way to destroy invisible bedrock is by using  or .
+
+Invisible bedrock interacts with players and mobs as a solid block and blocks light. Because of this, blocks such as torches and ladders can be placed on it. The player cannot interact with it; attempting to break an invisible bedrock block instead breaks the block behind it.
+
+Sounds
+
+Data values
+ID
+
+History
+
+Invisible bedrock "item"
+
+Issues
+
+References
+
+Navigation
+
+Category:Natural blocks
+Category:Unused blocks
+Category:Blocks with no item form
+Category:invisible blocks
+
+es:Piedra base invisible
+fr:Bedrock invisible
+ja:不可視の岩盤
+pt:Base Invisível
+ru:Невидимая коренная порода
+zh:隐形基岩

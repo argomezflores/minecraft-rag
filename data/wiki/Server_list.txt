@@ -1,0 +1,94 @@
+TITLE: Server list
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Server_list
+---
+Minecraft includes an in-game server list for multiplayer in which users can join and save the servers they visit. Players can see if a server is online, check how many player slots it has, and how good the connection to the server is.
+
+Java Edition
+400px|thumb|right|The multiplayer server list in Java Edition lets players join and add servers.
+thumb|right|class=nomobile|The icon used when the server does not have an icon (pack.png)
+The server list allows players to save a new server on the list, join an already existing one, or directly connect to a server by manually specifying the server address.
+
+When first loading up the multiplayer list, the player receives a warning regarding online play not being rated. If the player wishes not to see this again, there is an option that disables the warning permanently.
+
+Servers appear on the list in a set order, which can be changed by hovering over a server icon and using the arrows to move the server up or down on the list. Alternatively, player can hold  and press the up  and down  arrow keys on the keyboard.
+
+Once a server is added, it appears on the list and contains four main elements:
+
+and server title on the first row, which shows the server icon in 64×64 pixel size and the title specified by the player. The server icon can be specified by adding  image file into the server.jar's working directory. By default, if the server icon is not specified, it shows a grayscale pack.png as a fallback.
+
+(often abbreviated as MOTD) on the second row, which shows a short message from the server. The message can be specified through  option in the server.properties, and supports the legacy formatting codes for text customization. By default, the MOTD is written as "A Minecraft Server".
+
+Status indicator on the top right, which shows the number of online players in the server, and a network bar indicator that shows how good the player's connection to the server; when hovering over the indicator, a tooltip shows the player's  to the server.
+
+The game automatically lists LAN-based servers at the bottom, usually containing the server's owner, world name, and address on the .
+
+The ping icons correspond to the following ping times:
+IconServer ping timewidth=20x20Can't connect to serverwidth=20x20Between 0 and 150mswidth=20x20Between 150 and 300mswidth=20x20Between 300 and 600mswidth=20x20Between 600 and 1000mswidth=20x20Above 1000ms
+
+Bedrock Edition
+400px|thumb|right|The servers tab showing featured servers
+400px|thumb|right|The "Other Server" list shows additional servers added by the player.
+
+The server list is the third tab in the Play screen, and has a separate section where players can join featured servers that have partnered with Mojang Studios.
+
+Players can add external servers on the "Other Server" section by specifying its address and port, the name does not matter. They can be edited or removed at any time. These servers are sorted by the most recently played first on the list. This feature is unavailable for console versions of Bedrock Edition.
+
+When a server is selected, the right side of the screen provides detailed description about the server:
+For featured servers, it shows the server's banner alongside the ping strength and player count, and the next row shows the server's title. The second and third rows are reserved for the server's description and activities.
+The server activities are specified by the server operator themself, they usually show and promote minigames and unique features of the server itself.
+For external servers, the top header shows ping strength and player count, with bottom rows showing the server's name, address (hidden by default), and port.
+The server's MOTD can be seen on the list under the server's name. Although shown on the client, the official Bedrock Dedicated Server does not provide an option to specify the server's MOTD. Instead, the MOTD can be specified using a third-party software, like GeyserMC.
+
+LAN-based servers are shown on the "Worlds" tab, but can also be manually added here.
+
+The ping icons correspond to the following ping times:
+IconServer ping timelink=|width=20x20Between 0 and 150mslink=|width=20x20Between 150 and 300mslink=|width=20x20Between 300 and 600mslink=|width=20x20Can't connect to server
+
+Public server list
+Official Minecraft Server List
+
+The Official Minecraft Server List is published by GamerSafer and Mojang Studios. It includes variety of servers for players to choose, such as minigames, SMPs, creative builds, and more. The website also includes server badges, which are awarded by GamerSafer, and show additional safety features they provide.
+
+All servers listed on the website are required to comply with Minecraft Usage Guidelines (MUG) and End-user license agreement (EULA), and have been vetted by both GamerSafer and the Mojang Enforcement Team. They must also provide official contact information and state the purpose of the server.
+
+Community server list
+Public server lists allow server owners to advertise their servers by listing their IP address and other information for players to discover. Early Minecraft featured an official server list for Classic, while the Minecraft Forums later became the primary hub for advertising multiplayer servers. As dedicated server-list websites emerged and grew in popularity, they gradually replaced forum-based discovery. Following the closure of the Minecraft Forums server listings in 2018, independent server-list websites became the primary method of finding public Java Edition servers.https://legionminecraft.com/blog/history-of-minecraft-server-lists In most cases, votes and bumps determine how servers rank within community server lists, with many resetting votes monthly.https://www.minecraftindex.com/what-is-a-minecraft-server-list
+
+History
+Classic server list
+
+Java Edition
+
+Bedrock Edition
+
+Gallery
+
+Screenshots
+
+Historical screenshots
+
+Classic server
+
+Notes
+
+References
+
+Navigation
+
+Category:Server
+Category:Development
+Category:Menu screens
+
+ru:Список серверов
+de:Menü/Mehrspieler
+es:Lista de servidores
+fr:Liste des serveurs
+it:Lista dei server
+ja:サーバーリスト
+ko:서버 목록
+nl:Serverlijst
+pl:Lista serwerów
+pt:Lista de servidores
+uk:Список серверів
+zh:服务器列表

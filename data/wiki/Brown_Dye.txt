@@ -1,0 +1,57 @@
+TITLE: Brown Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Brown_Dye
+---
+Brown dye is one of the sixteen available dyes.
+
+Obtaining
+Crafting
+
+Trading
+Wandering traders have a chance to trade 3 brown dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 brown dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Navigation
+
+Category:Dyes
+
+de:Brauner Farbstoff
+es:Tinte marrón
+fr:Teinture marron
+ja:茶色の染料
+ko:갈색 염료
+pl:Brązowy barwnik
+pt:Corante Marrom
+ru:Коричневый краситель
+th:สีย้อมสีน้ำตาล
+zh:棕色染料

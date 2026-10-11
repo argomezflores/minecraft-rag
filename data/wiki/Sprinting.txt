@@ -1,0 +1,81 @@
+TITLE: Sprinting
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Sprinting
+---
+right|200px
+Sprinting is a method of transportation that allows the player to move faster, at the expense of depleting saturation. While sprinting, the player's field of view expands slightly. Players who attack while sprinting deal a sprint-knockback attack, inflicting additional knockback and canceling the sprint.
+
+Activating
+To sprint, the player can press  while moving, or double tap . The player cannot sprint if their hunger bar is at  or below, or when they are under the Blindness effect.
+
+Hostile mobs that can sprint:
+
+Neutral mobs that can sprint:
+
+Passive mobs that can sprint:
+
+Usage
+thumb|right|Particles coming out of the ground while sprinting.
+Sprinting allows the player to move at around 5.612 meters/second, which is 30 percent faster than the normal walking speed of around 4.317 m/s, jumping while sprinting allows the player to move with an average speed of 7.127 m/s. The player can turn while sprinting, resulting in slightly reduced speed. Sprinting also increases swimming speed and flight speed in Creative mode. Although "sprinting" while mounted on a minecart, boat, horse, pig, or strider increases the field of vision like actual sprinting, it does not increase the entity's speed. Sprinting and jumping while under a 2-block high ceiling causes a player to move at a speed almost twice as fast as regular sprinting speed, but it consumes a hunger point per second, and these rates increase if the ceiling height is further decreased with trapdoors. A similar effect occurs if the player sprints and rapidly hits  at the same time on a set of stairs.
+
+While sprinting, it is possible to jump across up to four blocks horizontally, instead of the usual two blocks, although sprinting does not cause the player to jump higher. Jumping out of a 2-block high ceiling increases the jump reach to five blocks.
+
+Sprinting reduces the player's saturation. When saturation reaches zero, the hunger bar depletes at a rate of  every 40 meters, or 7 seconds.
+
+Sprinting produces particles at the player's feet corresponding to the block type they are running on. Sprinting and holding down jump at the same time is usually faster, but actually becomes slower when under the effect of Speed II or higher.
+
+Sprinting ends when the player collides with a solid block at an angle of greater than 8 degrees,In Bedrock Edition, there is a short window of time in which the player can move away from the solid block in order to continue sprinting. In Java Edition, sprinting ends immediately upon colliding. blocks, or attacks a mob. Sprinting also ends if the hunger bar reduces to  or less.
+
+Sprinting pauses when the player eats food or drinks potions, but pressing  while eating food or potions does not start sprinting.
+
+Sprint-knockback attack
+thumb|Performing a sprint-knockback attack.
+
+Players who attack while sprinting deal a sprint-knockback attack, inflicting additional knockback and canceling the sprint.
+
+Videos
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Sprint-jumping actually costs less exhaustion per block travelled compared to pure sprinting, despite being faster. This is because exhaustion increases while the player is on the ground. While sprint-jumping, most of the distance is covered in mid-air.
+
+Gallery
+Screenshots
+
+See also
+Sneaking
+Critical hit
+Swimming
+Blocking
+
+Notes
+
+References
+
+Navigation
+
+nl:Sprinten
+pl:Sprint
+
+Category:Transport
+
+de:Sprinten
+es:Correr
+fr:Courir
+ja:ダッシュ
+ko:달리기
+pt:Correr
+ru:Бег
+uk:Біг
+zh:疾跑

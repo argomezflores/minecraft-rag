@@ -1,0 +1,68 @@
+TITLE: Iron Nugget
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Iron_Nugget
+---
+Iron nuggets are small pieces of iron that are used to craft various items such as iron ingots.  They can be obtained by smelting iron tools, iron weapons, or iron and chainmail armor. One iron nugget is effectively worth one-ninth of an iron ingot.
+
+Obtaining
+Crafting
+
+Smelting
+
+Smelting recipe: Iron Sword; Iron Spear; {Any iron tools}; {Any iron armor}; {Any chainmail armor}; Iron Horse Armor; Iron Nautilus Armor → Iron Nugget, XP: 0,1.
+
+Durability and enchantments do not affect the ability to smelt iron tools, weapons, or armor into iron nuggets.
+
+Bartering
+Piglins may barter 10–36 iron nuggets with a chance of ~2.13% () when given a gold ingot.
+
+Generated loot
+
+Usage
+Crafting ingredient
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+In other media
+
+References
+
+See also
+
+Navigation
+
+de:Eisenklumpen
+es:Pepita de hierro
+fr:Pépite de fer
+it:Pepita di ferro
+ja:鉄塊
+ko:철 조각
+lzh:鐵粒
+nl:IJzerklompje
+pl:Bryłka żelaza
+pt:Pepita de Ferro
+ru:Кусочек железа
+th:เศษเหล็ก
+uk:Залізний самородок
+zh:铁粒

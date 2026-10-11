@@ -1,0 +1,49 @@
+TITLE: Generated loot
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Generated_loot
+---
+Generated loot is a common way of finding naturally generated items. Generated loot occurs in naturally spawning structures, when a chest or another container is randomly generated to contain items from that structure’s loot table.
+
+Locations
+The following locations only generate  containing loot:
+
+The following locations generate loot in other blocks or entities:
+,   ,     , ,    , , , , , ,   , ,
+
+Structures appearing in April Fool's updates that generate loot:
+,
+
+Behavior
+The loot in naturally-generated containers is not determined upon the container's generation. The contents generate when a player interacts with the containers by opening it, placing a hopper under it, inserting an item using a hopper, or destroying it. (Trial spawners and vaults work differently; for their mechanics, see the respective pages).
+
+This also means that if a loot container is generated in an older version of the game but has never been interacted with, it can still generate with new loot if it's opened for the first time in a newer version; similarly, if a loot container uses a loot table that is location-dependent (such as in the case of minecart with chests in mineshafts), moving the loot container to a different location before interacting with it can generate different loot than if interacted with where it originally generated.
+
+There are different kinds of loot tables, for example a desert temple or a stronghold. There can also be different loot tables for a certain structure, such as those in bastion remnants and shipwrecks.
+
+Commands
+In Java Edition 1.12 and below, the  command can be used to place a chest.
+The command  sets the chest to a dungeon chest. For a minecart chest, use  instead.
+
+In Java Edition 1.13 and above, the syntax has changed to e.g.
+
+Such artificial chest is random every time player places one, no matter the location. That is a difference between normal natural chests and artificial loot tables chests. One can set the seed of the loot table using LootTableSeed, by default it is the world seed.
+
+In Bedrock Edition, the  command can be used to give loot, spawn loot or place loot in a container.
+The command  can be used to give yourself loot in your inventory
+
+You can use  to place loot inside a container if you input the right coordinates of the container.
+
+History
+
+Java Edition
+
+Legacy Console Edition
+
+Navigation
+
+es:Botín de cofres
+fr:Butin de structure
+ja:チェストの戦利品
+ko:생성된 노획물
+pt:Saque gerado
+zh:箱子战利品（结构索引）

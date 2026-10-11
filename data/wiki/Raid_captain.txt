@@ -1,0 +1,125 @@
+TITLE: Raid captain
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Raid_captain
+---
+A raid captain or illager captain is the occurrence of an illager that spawns wearing an ominous banner on its head. It is usually a pillager or vindicator, or rarely  an evoker. They are the only renewable source of both ominous banners and ominous bottles, which they drop when killed.
+
+Spawning
+Raid captains spawn in mostly the same conditions and occurrences as a regular illager, with a few exceptions.
+
+, a pillager raid captain can be spawned using the  command, and a vindicator raid captain (which is unused in-game) can be spawned using the  command.
+
+, pillagers, vindicators and evokers spawned from spawn eggs, monster spawners or trial spawners also have a small chance to spawn as a raid captain.
+
++ Spawnable as raid captain  Type of illager Patrol Raid Pillager Outpost Woodland Mansion Commands (With Data Tag) Commands (Without Data Tag)
+
++Spawnable as raid captain  Type of illager Patrol Raid Pillager Outpost Woodland Mansion Commands (With Data Tag) Commands (Without Data Tag)
+
+Patrols
+
+One pillager raid captain always spawns as part of a patrol, as the leader. These are referred to as “patrol captains” to avoid confusion.
+
+Raids
+
+, one raid captain spawns in each wave during a raid. They usually spawn within a group of pillagers, and sometimes spawns riding a ravager. When its ominous banner is dropped, other illagers rush and attempt to pick it up to become the new raid captain.
+
+, raid captains are unused and do not spawn naturally during raids, but the code for them is present.
+
+Pillager outposts
+
+Pillager raid captains regularly spawn in a pillager outpost. Every pillager spawned has a small chance to be a raid captain.
+
+, only pillagers and passive mobs may spawn within a pillager outpost spawn area.  Pillagers may spawn on any valid opaque block as long as the block light level is 8 or lower.
+
+, raid captains can only spawn first, meaning if there is any regular pillager left nearby, raid captain will never spawn.
+
+Drops
+General
+Upon death, a raid captain can drop:
+1 x16px Ominous banner, unaffected by Looting and is always dropped.
+1 , unaffected by Looting of a random level from 1-5. Raid captains that are within 96 blocks of a raid do not drop ominous bottles, also it must be registered as "killed by player" to drop ominous bottle.
+
+Pillager
+0–2 , dropping more with the presence of Looting, up to 5.
+Its  (may be loaded or unloaded), which has an 8.5% chance to be dropped (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It has a random durability and may be enchanted.
+
+Vindicator
+0–1 , with the maximum increasing by 1 for every level of Looting.
+Its , which has an 8.5% chance to be dropped (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It has a random durability and may be enchanted.
+
+Evoker
+1 , unaffected by Looting.
+0–1  if killed by the player, with the maximum increased by 1 per level of Looting.
+
+Illusioner
+Its , which has an 8.5% chance to be dropped (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It has a random durability and is unenchanted.
+
+Raider
+, raid captains that spawn from raids can additionally drop:
+0–1
+An additional drop is dependent on difficulty, with a 65% chance of dropping on easy and normal, and an 80% chance of dropping on hard.
+They can drop one of the following items:
+0–1  ( chance)
+2–3  ( chance)
+4–5  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+1  ( chance)
+Note:
+Raiders drop iron equipment in a damaged state, and the equipment has 50% chance of being enchanted with random enchantment.
+These drops are also affected by Looting enchantment.
+An emerald is both a regular raider drop and an additional raider drop.
+
+Behavior
+Raid captains usually act the same as if they were a normal illager, but other illagers follow behind them (except for outpost captain), and usually the captain takes the lead ahead of the other illagers. Once a raid captain is killed by a player, an ominous bottle is dropped that if drank, grant Bad Omen, which can transform into Raid Omen in a village to start a raid, or into Trial Omen when seen by a non-ominous trial spawner, to start an ominous trial.The captain also drops its x16px ominous banner as well, and it can be picked up by another illager for it to become the captain.
+
+Achievements
+
+Advancements
+
+Data values
+ID
+:
+Entity Identifier  Evoker evoker  Vindicator vindicator  Pillager pillager  Illusioner illusioner     Entity Tag #raiders
+
+:
+Entity Identifier Numeric ID  Evoker evocation_illager 104  Vindicator vindicator 57  Pillager pillager 114
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Ominous banners equip on raid captains’ helmet slot . , ominous banners equip on illager captains’ chestplate slot.
+
+Gallery
+Renders
+
+Screenshots
+
+In other media
+
+Notes
+
+Navigation
+
+Category:illager mechanics
+de:Räuberhauptmann
+es:Capitán de invasión
+fr:Capitaine d'invasion
+it:Capitano dell'incursione
+ja:襲撃隊の大将
+ko:습격 대장
+pt:Capitão invasor
+zh:袭击队长

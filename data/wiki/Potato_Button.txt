@@ -1,0 +1,38 @@
+TITLE: Potato Button
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Button
+---
+A potato button is a variant of the button made of potato planks, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Crafting
+
+Crafting recipe: Potato Planks arranged in the crafting grid → Potato Button.
+
+Usage
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Mechanisms
+Category:Redstone
+Category:Non-solid blocks
+
+ja:Potato Button
+uk:Картопляна кнопка
+zh:马铃薯木按钮

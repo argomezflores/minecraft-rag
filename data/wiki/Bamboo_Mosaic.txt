@@ -1,0 +1,57 @@
+TITLE: Bamboo Mosaic
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bamboo_Mosaic
+---
+A bamboo mosaic is a decorative block crafted out of bamboo slabs.
+
+Obtaining
+Breaking
+Bamboo mosaics can be broken with any tool, but an axe is the quickest.
+
+Crafting
+
+Crafting recipe: Bamboo Slab, Bamboo Slab arranged in the crafting grid → Bamboo Mosaic.
+
+Usage
+Crafting ingredient
+
+Fuel
+When used in a furnace as fuel, bamboo mosaics last 15 seconds (smelting up to 1.5 items).
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+Category:Manufactured blocks
+Category:Flammable blocks
+
+de:Bambusmosaik
+es:Mosaico de bambú
+fr:Mosaïque de bambou
+it:Bambù intrecciato
+ja:竹細工
+ko:대나무 모자이크
+lzh:竹嵌工
+pl:Bambusowa mozaika
+pt:Mosaico de Bambu
+ru:Бамбуковая мозаика
+th:ไม้ไผ่สาน
+uk:Бамбукова мозаїка
+zh:竹马赛克

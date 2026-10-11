@@ -1,0 +1,107 @@
+TITLE: Potato Planks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Planks
+---
+Potato planks are a joke block, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Natural generation
+Potato planks generate as part of potato villages and potato mineshafts. Additionally, they generate in arboretum biome on "park lanes".
+
+Crafting
+
+Crafting recipe: Potato Stem arranged in the crafting grid → Potato Planks,4.
+
+Usage
+Crafting ingredient
+Potato planks recipes
+
+Crafting recipe: Stick, Iron Ingot, Iron Ingot, Gold Nugget, Potato Planks, Potato Planks arranged in the crafting grid → Frying Table.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Potato Stairs,4.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Potato Slab,6.
+
+Crafting recipe: Potato Planks, Stick, Potato Planks, Potato Planks, Stick, Potato Planks arranged in the crafting grid → Potato Fence,3.
+
+Crafting recipe: Stick, Potato Planks, Stick, Stick, Potato Planks, Stick arranged in the crafting grid → Potato Fence Gate.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Potato Door,3.
+
+Crafting recipe: Potato Planks, Potato Planks arranged in the crafting grid → Potato Pressure Plate.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Stick arranged in the crafting grid → Potato Sign,3.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Potato Trapdoor,2.
+
+Crafting recipe: Potato Planks arranged in the crafting grid → Potato Button.
+
+Any planks recipes
+Any combination of regular planks and potato planks can be used to craft the following items.
+
+Crafting recipe: Potato Planks, Any Wooden Slab, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Any Wooden Slab, Potato Planks arranged in the crafting grid → Barrel.
+
+Crafting recipe: Matching Wool, Matching Wool, Matching Wool, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Matching Bed.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Honeycomb, Honeycomb, Honeycomb, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Beehive.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Book, Book, Book, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Bookshelf.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Bowl,4.
+
+Crafting recipe: Paper, Paper, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Cartography Table.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Chest.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Any Wooden Slab, Any Wooden Slab, Any Wooden Slab, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Chiseled Bookshelf.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Crafting Table.
+
+Crafting recipe: Flint, Flint, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Fletching Table.
+
+Crafting recipe: Stick, Stone Slab, Stick, Potato Planks, Potato Planks arranged in the crafting grid → Grindstone.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Diamond, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Jukebox.
+
+Crafting recipe: String, String, Potato Planks, Potato Planks arranged in the crafting grid → Loom.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Potato Planks, Redstone Dust, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Note Block.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Cobblestone, Iron Ingot, Cobblestone, Cobblestone, Redstone Dust, Cobblestone arranged in the crafting grid → Piston.
+
+Crafting recipe: Potato Planks, Iron Ingot, Potato Planks, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Shield.
+
+Crafting recipe: Iron Ingot, Iron Ingot, Potato Planks, Potato Planks, Potato Planks, Potato Planks arranged in the crafting grid → Smithing Table.
+
+Crafting recipe: Potato Planks, Potato Planks arranged in the crafting grid → Stick,4.
+
+Crafting recipe: Iron Ingot, Stick, Potato Planks arranged in the crafting grid → Tripwire Hook,2.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Stick, Stick arranged in the crafting grid → Wooden Axe.
+
+Crafting recipe: Potato Planks, Potato Planks, Stick, Stick arranged in the crafting grid → Wooden Hoe.
+
+Crafting recipe: Potato Planks, Potato Planks, Potato Planks, Stick, Stick arranged in the crafting grid → Wooden Pickaxe.
+
+Crafting recipe: Potato Planks, Stick, Stick arranged in the crafting grid → Wooden Shovel.
+
+Crafting recipe: Potato Planks, Potato Planks, Stick arranged in the crafting grid → Wooden Sword.
+
+Sounds
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+26w14a  (2026)
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+fr:Potato Planks
+ja:Potato Planks
+zh:马铃薯木板

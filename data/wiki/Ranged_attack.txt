@@ -1,0 +1,93 @@
+TITLE: Ranged attack
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Ranged_attack
+---
+thumb|An example of a ranged attack.
+
+A ranged attack is a type of attack performed during combat that mobs and players use to cause damage to a target from a distance.
+
+Projectile damage
+The projectiles used as ammo by bows and crossbows, as well as the thrown trident projectile, have varying damage depending on the user and their velocity. The projectiles exclusive to mobs vary in damage depending on difficulty.
+
+Players
+The damage of ranged weapons is different when used by players compared to when they're used by mobs.
+
+Charge time Enchantment Projectile damage 0.1 s (no charge) Unenchanted  Power I  Power II  Power III  Power IV  Power V  0.2 s - 0.8 s (medium charge) Unenchanted  Power I  Power II  Power III  Power IV  Power V  0.9 s (full charge) Unenchanted  Power I  Power II  Power III  Power IV  Power V  1 s (critical charge) Unenchanted  to  Power I  to  Power II  to  Power III  to  Power IV  to  Power V  to
+
+to  Firework stars Projectile damage Enchantment Charge time Damage/second (DPS) 1   to  No enchantment 1.25 s 3.75 to 4.5 Quick Charge I 1 s 5 to 6 Quick Charge II 0.75 s 6.25 to 7.5 Quick Charge III 0.5 s 7.5 to 9 2   to  No enchantment 1.25 s 4.5 to 6 Quick Charge I 1 s 6 to 8 Quick Charge II 0.75 s 7.5 to 10 Quick Charge III 0.5 s 9 to 12 3   to  No enchantment 1.25 s 5.25 to 7.5 Quick Charge I 1 s 7 to 10 Quick Charge II 0.75 s 8.75 to 12.5 Quick Charge III 0.5 s 10.5 to 15 4   to  No enchantment 1.25 s 6 to 9 Quick Charge I 1 s 8 to 12 Quick Charge II 0.75 s 10 to 15 Quick Charge III 0.5 s 12 to 18 5   to  No enchantment 1.25 s 6.75 to 10.5 Quick Charge I 1 s 9 to 14 Quick Charge II 0.75 s 11.25 to 17.5 Quick Charge III 0.5 s 13.5 to 21 6   to  No enchantment 1.25 s 7.5 to 12 Quick Charge I 1 s 10 to 16 Quick Charge II 0.75 s 12.5 to 20 Quick Charge III 0.5 s 15 to 24 7   to  No enchantment 1.25 s 8.25 to 13.5 Quick Charge I 1 s 11 to 18 Quick Charge II 0.75 s 13.75 to 22.5 Quick Charge III 0.5 s 16.5 to 27
+
+Projectile damage
+
+Mobs
+When used by mobs, ranged weapons have set damage according to the mob type. Additionally, certain mobs have ranged attacks that are not replicable by player-obtained weapons.
+
+Mob Difficulty Status effect(s) Easy Normal Hard    + fire for 5 seconds    to  to  to   for 4 seconds
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow    to  to   for 4 seconds      (ranged)   (ranged)  (laser) III for 5 minutes on nearby players  (breath)  per second Area effect cloud of     per second        (impact)   (explosion)  (laser)    to  to   spells on the player, if regional difficulty is 2 or greater       to  to      to  to    to  to  to    for 10 seconds   to  to  to If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow    to , varies with proximity to , varies with proximity   to blazes   to   for 30 seconds when their tipped arrow hits any mob (including another stray)
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow    to , varies with proximity to , varies with proximity  for 30 seconds when their tipped arrow hits any mob (including another stray)       (ranged) Deals damage by throwing potions splash potions of , , , and    to  + fire for 5 seconds to  + fire for 5 seconds to  + fire for 5 seconds No
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow  (impact) II for 10 seconds on Normal difficulty and 40 seconds on Hard difficulty  (explosion)
+
+Charge time
+thumb|Charging a crossbow.
+
+Charge time represents the time it takes to charge a ranged weapon before firing it.
+
+Players
+The charge time of player-initiated ranged attacks is dependent on the ranged weapon they're using. Due to a server-client desync bug, ranged weapons can occasionally be fired 1 tick earlier than their programmed charge times.
+
+Ranged weaponCharge time 0.1 s (no charge)0.2–0.8 s (medium charge)0.9 s (full charge)1 s (critical charge)
+
+Ranged weaponCharge timeEnchantment 1.25 sNone1 sQuick Charge I0.75 sQuick Charge II0.5 sQuick Charge III
+
+Ranged weaponCharge time0.5 s
+
+Ranged weaponCharge time0 s
+
+Mobs
+
+Mobs have differing firing speeds for their ranged attacks, some of which are changed based on difficulty.
+
+MobWeaponEasyNormalHard3.0 s2.0 s3.5 s2.5 s3.0s
+
+Inaccuracy
+Ranged attacks have innate inaccuracy values, which dictate the randomness of projectile trajectory. This value affects both players and mobs.
+
+Players
+Player ranged attacks using bows, crossbows, and tridents have a default inaccuracy value of 1 (0.25 in the Java Edition Combat Tests).
+
+Mobs
+Certain mobs are affected by the inaccuracy value. Skeletons (and their variants) specifically have their inaccuracy value affected by the world difficulty, with a value of 10 on Easy, 6 on Normal, and 2 on Hard.
+
+Sounds
+Bow
+
+:
+
+Crossbow
+:
+
+:
+
+Trident
+:
+Thrown tridents use the Friendly Creatures sound category for entity-dependent sound events.
+
+:
+
+Wind charge
+
+:
+
+Other
+:
+Thrown snowballs use the Friendly Creatures sound category for entity-dependent sound events.
+
+:
+
+History
+
+Issues
+
+Navigation
+
+ja:ノックバック (仕組み)
+pt:Repulsão (mecânica)

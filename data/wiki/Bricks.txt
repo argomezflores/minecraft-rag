@@ -1,0 +1,77 @@
+TITLE: Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bricks
+---
+Bricks are a decorative building block.
+
+Obtaining
+Breaking
+Bricks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Bricks naturally generate in ocean ruins, plains village armorer houses, and trail ruins.
+
+Crafting
+
+Crafting recipe: Brick, Brick, Brick, Brick arranged in the crafting grid → Bricks.
+
+Usage
+Bricks have the same blast resistance as other stone-based blocks.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+In other media
+
+See also
+
+External links
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+cs:Cihly
+de:Ziegelsteine
+es:Ladrillos
+fr:Briques
+hu:Téglablokk
+it:Mattoni
+ja:レンガ (ブロック)
+ko:벽돌 (블록)
+lzh:磚塊
+nl:Bakstenen
+pl:Cegły
+pt:Tijolos
+ru:Кирпичный блок
+uk:Цегла
+zh:红砖块

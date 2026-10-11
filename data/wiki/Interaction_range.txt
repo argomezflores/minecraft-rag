@@ -1,0 +1,48 @@
+TITLE: Interaction range
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Interaction_range
+---
+Interaction range (also known as reach) is the maximum distance a player can interact with a block or entity and perform an action. The default interaction range varies by situation.
+
+When within the reach distance, targeted blocks are highlighted. , this manifests as an interaction box wireframe around the block, while , it can be customized through the "Outline Selection" option in video settings. Disabling this feature replaces the wireframe with a white highlight.
+
+300px|thumb|A player using the reach mechanic on a mob with the crosshair
+
+{| class="wikitable"
+|+ Default interaction range
+!Type
+!In other game modes
+!In Creative mode
+|-
+| block
+|4.5 blocks
+|5 blocks
+|-
+| entity
+|3 blocks
+|5 blocks
+|-
+| block
+|colspan="2" style="text-align: center"| 5 blocks
+|-
+| entity
+|3 blocks
+|5 blocks
+|-
+| touch
+|6 blocks
+|12 blocks
+|}
+
+Java Edition
+
+, there are two types of interaction range, block interaction range (breaking reach) and entity interaction range (attack range), which are respectively controlled by two attributes, block_interaction_range and entity_interaction_range. The default entity interaction range is 3 blocks in all other game modes and 5 blocks in Creative mode. The default block interaction range is 4.5 blocks in all other game modes and 5 blocks in Creative mode. The bonus effect in Creative mode is implemented via an attribute modifier.
+
+Bedrock Edition
+, the default interaction range is 5 blocks for keyboard, mouse, or controller inputs. For players using touch input, the reach extends to 12 blocks in Creative mode and 6 blocks in other modes.
+
+Navigation
+
+Category:Gameplay
+
+pt:Alcance de interação

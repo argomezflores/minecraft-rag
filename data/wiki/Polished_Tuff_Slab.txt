@@ -1,0 +1,55 @@
+TITLE: Polished Tuff Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Tuff_Slab
+---
+A polished tuff slab is a decorative slab variant of polished tuff that generates in trial chambers and is used for building.
+
+Obtaining
+Breaking
+Polished tuff slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished tuff slabs generate in trial chambers, next to all ominous vaults.
+
+Crafting
+
+Crafting recipe: Polished Tuff, Polished Tuff, Polished Tuff arranged in the crafting grid → Polished Tuff Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a polished tuff   slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle de tuf poli
+ja:磨かれた凝灰岩のハーフブロック
+ko:윤나는 응회암 반 블록
+pt:Laje de Tufo Polido
+uk:Плита з полірованого туфу
+zh:磨制凝灰岩台阶

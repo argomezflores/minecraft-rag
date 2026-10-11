@@ -1,0 +1,77 @@
+TITLE: Chiseled Copper
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Copper
+---
+Chiseled copper is a variant of copper blocks that generates in trial chambers.
+
+Obtaining
+Breaking
+Chiseled copper can be mined only with a stone pickaxe or better. If chiseled copper is mined without the use of a pickaxe, it drops nothing.
+
+Natural generation
+Waxed chiseled copper and waxed oxidized chiseled copper can be found in trial chambers.
+
+Crafting
+
+Crafting recipe: Matching Unwaxed Cut Copper Slab; Matching Waxed Cut Copper Slab, Matching Unwaxed Cut Copper Slab; Matching Waxed Cut Copper Slab arranged in the crafting grid → Matching Unwaxed Chiseled Copper; Matching Waxed Chiseled Copper.
+
+Stonecutting
+
+Usage
+Chiseled copper is a decorative block that oxidizes over time.
+
+Oxidation
+
+Non-waxed chiseled copper has four stages of oxidation (including the initial normal state). Lightning bolts and axes can remove the oxidation on chiseled copper. Using a honeycomb on chiseled copper prevents it from oxidizing further.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Gemeißelter Kupferblock
+es:Cobre cincelado
+fr:Cuivre sculpté
+ja:銅ブロック
+ko:조각된 구리
+lzh:雕銅塊
+pt:Cobre talhado
+ru:Точёный медный блок
+uk:Різьблена мідь
+zh:雕纹铜块

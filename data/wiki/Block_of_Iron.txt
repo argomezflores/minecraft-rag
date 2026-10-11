@@ -1,0 +1,85 @@
+TITLE: Block of Iron
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Iron
+---
+A block of iron, known internally as an iron block, is a metal block equivalent to nine iron ingots.
+
+Obtaining
+Breaking
+Blocks of iron can be mined only with a stone pickaxe or better. If a block of iron is mined without the use of a pickaxe, it drops nothing.
+
+Generated loot
+
+Crafting
+
+Usage
+Blocks of iron can be used to store iron ingots in a compact fashion.
+
+Beacons
+Blocks of iron can be used to "power" a beacon. The beacon can be powered by a 3×3 square of iron blocks underneath it, and can optionally also include a 5×5, 7×7 and 9×9 layer in the shape of a pyramid under the original layer to increase the effects from the beacon. The layers do not have to be entirely blocks of iron, as they may also contain blocks of gold, blocks of diamond, blocks of netherite or blocks of emerald.
+
+Spawning iron golems
+
+Blocks of iron and carved pumpkins or jack o'lanterns are used to build iron golems. The carved pumpkin or jack o'lantern must be placed last, and the golem spawns immediately after placing it.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Compacted blocks
+
+cs:Blok železa
+de:Eisenblock
+es:Bloque de hierro
+fr:Bloc de fer
+hu:Vasblokk
+it:Blocco di ferro
+ja:鉄ブロック
+ko:철 블록
+nl:IJzerblok
+pl:Blok żelaza
+pt:Bloco de Ferro
+ru:Железный блок
+uk:Блок заліза
+zh:铁块

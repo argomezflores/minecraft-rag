@@ -1,0 +1,30 @@
+TITLE: Invisible blocks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Invisible_blocks
+---
+Certain blocks in the game are designed to be invisible.
+
+Intentionally invisible blocks
+
+Properties
+Block Solid? Blocks third-person view? Visible when held? Shown by structure blocks?   No  N/AThis block does not have an item form : 16pxThe three air types are not distinguished:   No  N/A : 16px  No  N/A : 16px  No  : 16px : 16px  Yes  : 16px : 16px  No  Apparently intended despite making manipulation more difficult:  : 16px   No  N/A No such functionality  No  : 16px  Yes  : 16px  Yes    No
+
+Visibility
+Invisible blocks are intended to never be directly visible to those not directly manipulating them, due to being intended for mapmaking and other such purposes. Despite this, there are cases where they can actually be seen, directly contradicting their intended invisibility.
+
+Block Shown when targeted? Block particles? Highlight Outline When brushed When breaking When broken When sprinted on When fallen on When walked on by an iron golem When dug through by a warden When dug through by a sniffer   No such functionality                                         Apparently intended despite being inconsistent and allowing visibility and interactivity for non-mapmakers; see           Apparently intended despite being inconsistent and allowing visibility and interactivity for non-mapmakers; see                   No such functionality    Yes                   Cannot be targeted
+
+Other invisible blocks
+
+The following blocks can also be invisible under certain circumstances:
+
+, if all states false
+
+References
+
+Navigation
+
+de:Unsichtbarer Block (Begriffsklärung)
+ja:不可視ブロック
+ko:투명 블록
+pt:Bloco invisível

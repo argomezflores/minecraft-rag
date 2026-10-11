@@ -1,0 +1,79 @@
+TITLE: Block of Emerald
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Emerald
+---
+A block of emerald, internally known as an emerald block, is a mineral block equivalent to nine emeralds.
+
+Obtaining
+Breaking
+Mining blocks of emerald requires an iron pickaxe or better.
+
+Crafting
+
+Generated loot
+
+Usage
+Blocks of emerald can be used to store emeralds in a compact fashion or used as decorative blocks.
+
+Beacons
+Blocks of emerald can be used to "power" a beacon. The beacon can be powered by a 3×3 square of emerald blocks underneath it, and can optionally also include a 5×5, 7×7, and 9×9 layer in the shape of a pyramid under the original layer to increase the effects from the beacon. The layers do not have to be entirely emerald blocks, as they may also contain blocks of iron, blocks of gold, blocks of netherite, and blocks of diamond.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+When diamond blocks were added in Java Edition Indev 0.31 20100128-2200, they were known until 0.31 20100129-2332 as emerald blocks.
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+Trading
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Compacted blocks
+
+de:Smaragdblock
+es:Bloque de esmeralda
+fr:Bloc d'émeraude
+hu:Smaragdblokk
+it:Blocco di smeraldo
+ja:エメラルドブロック
+ko:에메랄드 블록
+lzh:祖母綠塊
+nl:Smaragdblok
+pl:Blok szmaragdu
+pt:Bloco de Esmeralda
+ru:Изумрудный блок
+th:บล็อกมรกต
+uk:Блок смарагда
+zh:绿宝石块

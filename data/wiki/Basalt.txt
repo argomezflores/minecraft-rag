@@ -1,0 +1,91 @@
+TITLE: Basalt
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Basalt
+---
+Basalt is a block found in the basalt deltas in the Nether along with soul sand valleys and bastion remnants.
+
+Obtaining
+Breaking
+Basalt drops as an item if mined by any pickaxe. If mined by any other tool, it drops nothing.
+
+Natural generation
+Basalt generates naturally as basalt pillars, which are found in the soul sand valley biome. They also generate in the basalt deltas biome as regular terrain and as part of basalt columns. , they also generate in blobs, which attempt to replace netherrack 75 times per chunk in blobs of radius 3–7 from levels 0 to 127 in basalt deltas biomes.
+
+Basalt can also be found naturally as part of bastion remnants.
+
+Post-generation
+thumb|A simple basalt generator
+Basalt also generates when lava flows into a space that is on top of soul soil and adjacent to blue ice. The flowing lava is then replaced with basalt.
+
+Usage
+Basalt's only current use is as building material. Like logs and quartz pillars, basalt blocks point perpendicular to whatever block face they are placed on.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Basalt → Smooth Basalt, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Geologically,  is a volcanic rock that cools from mafic lava flows. Mafic lava is runny, much like lava in the Nether, and under the right conditions it can cool into the stacks of basalt columns, much like those seen in basalt deltas.
+Basalt makes up most of Earth's sea floor, as well as  and the .
+Despite being an extrusive igneous rock, basalt has a lower mining time than granite and diorite, which are intrusive.
+Basalt is the only rock-like block to have both a polished and smooth variant.
+
+Gallery
+Renders
+
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Nether blocks
+Category:Natural blocks
+Category:Generated structure blocks
+
+de:Basalt
+es:Basalto
+fr:Basalte
+it:Basalto
+ja:玄武岩
+ko:현무암
+lzh:黑堦石
+pl:Bazalt
+pt:Basalto
+ru:Базальт
+th:หินบะซอลต์
+uk:Базальт
+zh:玄武岩

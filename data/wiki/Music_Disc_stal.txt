@@ -1,0 +1,71 @@
+TITLE: Music Disc stal
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_stal
+---
+"stal" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "stal".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:Stal.ogg
+
+"stal" is a moderate jazz-like piece played on saxophone and recorder, accompanied by piano, double bass and drums.
+
+Usage
+Like all music discs,  "stal" on a jukebox plays the track.
+
+If a redstone comparator is reading a jukebox playing "stal", it will emit a redstone signal of 8.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Stal" stal.ogg music_disc.stal
+
+:
+
+Soundtrack Title File name Sound events "Stal" stal.ogg record.stal
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The title "stal" is a Swedish word meaning stole in English and a Polish word meaning steel.
+
+References
+
+Category:C418
+Category:Minecraft - Volume Beta
+Category:Music discs
+
+Navigation
+
+fr:Disque stal
+ja:stal
+ko:음반 stal
+pt:Disco Musical stal
+ru:Пластинка «stal»
+zh:音乐唱片stal

@@ -1,0 +1,81 @@
+TITLE: Nylium
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nylium
+---
+Nylium is a variant of netherrack that generates in the Nether. It has two variants: crimson nylium and warped nylium, each spawning in different biomes.
+
+Obtaining
+Breaking
+The suitable tool to break nylium is a pickaxe. Nylium needs to be broken with a pickaxe; otherwise, the breaking time increases and the block drops nothing.
+
+Nylium drops 1 netherrack block when it's destroyed using a tool without Silk Touch.
+Nylium drops itself when it's destroyed using a pickaxe with Silk Touch.
+
+Natural generation
+Crimson nylium generates in the crimson forest biome, and warped nylium generates in the warped forest biome.
+
+Mob loot
+Nylium is dropped when an enderman dies while holding it.
+
+Chest loot
+
+Post-generation
+bone meal on netherrack that is placed next to or adjacent to crimson or warped nylium transforms the netherrack into nylium of that type. Only certain blocks (mainly transparent blocks) can be directly above the netherrack during this process, including but not limited to air, glass blocks, chests, and slabs . Note that some transparent blocks, such as glowstone, prevent this process. This transformation can also be done by activating a dispenser with bone meal directly into that netherrack block. If both types of nylium are present, there is an equal chance of either being spread.
+
+Renewability
+
+As netherrack generates in nether portals that spawn floating, using bone meal on netherrack turns it into nylium, making it renewable.
+
+Usage
+Similar to grass blocks and mycelium, nylium decays (based on random ticks) into netherrack when an opaque block is placed above it. However, unlike grass blocks and mycelium, it does not decay underneath water or lava. It decays when covered with snow.
+
+Like mycelium and podzol, mushrooms can remain on nylium blocks in any light level. Huge mushrooms can be grown by using bone meal on mushrooms planted on nylium.
+
+Nether fungi can likewise be grown into huge fungi using bone meal, although the fungus must be placed on the same type of nylium, or the bone meal  is never consumed; but  it is consumed even though it never grows.
+
+Nylium is also the only block on which the fungus of its type can be grown.
+
+Similar to grass blocks, the player can apply bone meal to nylium. This nylium, along with nearby nylium, generates vegetation that occurs in its native biome (crimson nylium generates mostly crimson forest vegetation and warped nylium generates mostly warped forest vegetation), and just like in the native biomes, the opposite type of fungi occasionally generates. The vegetation is generated in a 5×5 area centered on the nylium block on which bone meal is used.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The name is a portmanteau of "Nether" and "Mycelium", the name of the part of a fungus analogous to roots.
+
+References
+
+External links
+Block of the Month: Nylium – Minecraft.net on December 29, 2022
+
+Navigation
+
+Category:Natural blocks
+Category:Nether blocks
+Category:Fungi
+
+de:Nezel
+es:Necelio
+fr:Nylium
+it:Necelio
+ja:ナイリウム
+ko:네사체
+pl:Nylium
+pt:Nicélio
+ru:Нилий
+uk:Нілій
+zh:菌岩

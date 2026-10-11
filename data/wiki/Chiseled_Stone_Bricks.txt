@@ -1,0 +1,77 @@
+TITLE: Chiseled Stone Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Stone_Bricks
+---
+Chiseled stone bricks are a variant of stone bricks, crafted from stone brick slabs.
+
+Obtaining
+Breaking
+Chiseled stone bricks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Infested blocks
+Chiseled stone bricks can also be obtained by mining its respective infested block with Silk Touch.
+
+Natural generation
+Chiseled stone bricks can generate as part of ocean ruins and ruined portals. In addition, three chiseled stone bricks generate as part of each jungle pyramid. They also generate in igloo basements, though some may be infested.
+
+Crafting
+
+Crafting recipe: Stone Brick Slab, Stone Brick Slab arranged in the crafting grid → Chiseled Stone Bricks.
+
+Stonecutting
+
+Trading
+
+Usage
+As chiseled stone bricks offer no real advantage over stone or cobblestone, their main use is for decoration.
+
+Crafting ingredient
+
+Silverfish
+Silverfish have the ability to enter and hide in chiseled stone bricks, creating an infested block of the corresponding type.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+See also
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Pierre sculptée
+ko:조각된 석재 벽돌
+lzh:雕磚
+pt:Tijolos de Pedra Talhados
+ru:Резные каменные кирпичи
+uk:Різьблена кам'яна цегла
+zh:雕纹石砖

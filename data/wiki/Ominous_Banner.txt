@@ -1,0 +1,138 @@
+TITLE: Ominous Banner
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Ominous_Banner
+---
+An ominous banner is a special uncraftable variant of the banner obtained from raid captains and pillager outposts.
+
+Obtaining
+Breaking
+Ominous banners can be broken with or without a tool, but an axe is fastest.
+
+A ominous banner also breaks and drops itself as an item if the block the banner is attached to is moved, removed, or destroyed.
+
+Natural generation
+Ominous banners are carried by raid captains. They are located in pillager outposts.
+
+, the ominous banner cannot be crafted or copied because the design uses 8 patterns.
+
+, the ominous banner is a separate type that cannot be placed in a loom.
+
+Ominous banners have the following pattern:
+
+32px
+32px
+
+White banner
+Cyan Lozenge
+Light Gray Base
+Gray Pale
+Light Gray Bordure
+Black Fess
+Light Gray Per Fess
+Light Gray Roundel
+Black Bordure
+Separate type entirely
+
+Mob loot
+Illagers that spawn carrying an ominous banner always drop it upon death.
+
+Usage
+
+Ominous banners are a special type of banner in the game as they have more than 6 patterns, and as such cannot be crafted. Ominous banners have the same placement functionality as regular banners.
+
+Helmet
+
+While an ominous banner cannot be equipped in the head slot in Survival mode, equipping it using commands causes it to appear on top of the player. This is how raid captains wear banners.
+
+Chestplate
+
+While an ominous banner cannot be equipped in the chestplate slot in Survival mode, equipping it using NBT editors causes it to appear on top of the player. This is how raid captains wear banners.
+
+Crafting ingredient
+Since ominous banners have more than six patterns, adding it to the shield causes the banner to be reduced to six patterns on the shield.
+
+Copying
+Unlike normal banners, ominous banners cannot be copied to make additional copies of the ominous banner.
+Washing off 2 or more of the layers re-enables copying.
+
+Map marker
+
+Like regular banners, ominous banners can also serve as a map marker, having the same functionality as regular banners when used for marking points on a map.
+
+Renaming
+An ominous banner can be given a custom name that remains as the ominous banner is placed and retrieved. The player can use an anvil to rename the ominous banner item, or may change the CustomName tag using the  command on the ominous banner block.
+
+Fuel
+Ominous banners can be used as a fuel in furnaces, smelting 1.5 items per banner.
+
+Looms
+Unlike a regular banner, ominous banners can't be used in a loom to apply patterns.
+Washing off 3 or more of the layers makes room for a new layer to be added.
+
+Sounds
+Generic
+
+Unique
+: None
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Block data
+An ominous banner has a block entity associated with it that holds additional data about the block.
+
+:
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+The ominous banner in Bedrock Edition is available as a separate item but is just a second variant (type 1) of the white banner (type 0).
+
+Gallery
+Renders
+
+Screenshots
+
+In other media
+
+Navigation
+
+Category:Generated structure blocks
+Category:Createable blocks
+Category:Block entities
+Category:Non-solid blocks
+Category:Double blocks
+
+fr:Bannière funeste
+ko:불길한 현수막
+pt:Estandarte Ameaçador
+uk:Зловісний стяг
+zh:不祥旗帜

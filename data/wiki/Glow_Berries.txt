@@ -1,0 +1,127 @@
+TITLE: Glow Berries
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Glow_Berries
+---
+Glow berries are a food item obtained from cave vines and can be used to plant them.
+
+Cave vines are a climbable plant that hangs off ceilings and grows glow berries. Cave vines with glow berries produce light.
+
+Obtaining
+Breaking
+A cave vine can be broken by hand or with any tool, yielding one unit of glow berries if the vine has berries or nothing when it does not. This is not affected by Fortune. A cave vine also breaks if its support block is removed, if water runs over its location, or if a piston extends or pushes a block into its location, yielding the same drops as if broken by a player.
+
+Harvesting
+One unit of glow berries can also be collected from cave vines bearing berries without breaking the plant. This is done by pressing the  control on the vine, either by hand or while holding any item.
+
+Natural generation
+
+Cave vines can be found in lush caves, hanging from the ceilings of the caves.
+
+Generated loot
+
+Usage
+Placement
+Glow berries can be placed on and grown from the bottom of most blocks (any block whose bottom face covers the bottom of the entire block). They can also be placed on the bottom of a cave vine, extending the stack of vines by 1 block. They have no specific lighting requirements.
+
+Growth
+Placing glow berries on the bottom of a block creates a cave vine that grows downward one block at a time when random-ticked. There is a 10% chance of growing on random tick. At default random tick speed, a cave vine grows approximately every . When the vine grows, the age value of the bottom-most block is increased by 1. Cave vines stop growing once they reach the floor (any non-air block) or when the bottom-most block reaches an age block state of 25, whichever is first, so a new vine block can grow up to 25 - age blocks further. Cave vines also stop growing if shears are  on the bottom block of the stack.
+
+Using bone meal on a cave vine block does not grow a new vine block, unlike kelp, twisting vines or weeping vines.
+
+Normally, glow berries placed on the underside of a block will grow downwards, with the chance of the new block being a glow berry (vs. just another vine block). The block placed under the block is always a vine block. However, occasionally, these vine blocks (attached to the underside of other blocks) will convert to being a glow berry block. It is unknown whether this effect requires that there is no vine segments attached to the underside of this top-level vine block.
+
+Farming
+Each newly-grown cave vine block has an 11% chance of bearing glow berries. Therefore, cave vines have a 1.1% chance of growing a berry-bearing vine when random-ticked, at an interval of approximately 124121 game ticks (103.434 minutes) at default random tick speed. Glow berries naturally grow only on a newly produced cave vine; existing cave vines blocks do not naturally grow berries over time, unlike sweet berry bushes.
+
+bone meal on any block of a cave vine causes it to grow glow berries, if it was not already bearing them. Bees that carry pollen can also fertilize a cave vine block and grow berries in the block they fly over.
+
+Food
+
+To eat glow berries, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 0.4 / 1.2 hunger saturation, like sweet berries.
+
+Climbing
+Cave vines can be climbed by standing in them and holding the  key. If there is a solid block behind the cave vines, the  key can also be used.
+
+Light
+When bearing glow berries, cave vines give off a light level of 14.
+
+Composting
+Placing glow berries into a composter by  them on it has a 30% chance of raising the compost level by 1.
+
+Breeding
+Glow berries can be fed to foxes to breed them.
+
+Glow berries can be  on baby foxes to reduce the time until they grow by 10%.
+
+Sounds
+Glow berries
+
+Cave vines
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Cave Vines:
+
+Cave Vines Plant:
+
+:
+Cave Vines, Cave Vines Body With Berries, Cave Vines Head With Berries:
+
+Advancements
+
+History
+
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Renders
+
+Mojang screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Food
+Category:Plants
+Category:Natural blocks
+Category:Non-solid blocks
+Category:Light sources
+Category:Flammable blocks
+Category:Climbable blocks
+
+de:Leuchtbeeren
+es:Bayas luminosas
+fr:Baies lumineuses
+it:Bacche luminose
+ja:グロウベリー
+ko:발광 열매
+lzh:爍莓
+pl:Świecące jagody
+pt:Bagas Brilhantes
+ru:Светящиеся ягоды
+uk:Сяйні ягоди
+zh:发光浆果

@@ -1,0 +1,78 @@
+TITLE: Golden Carrot
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Golden_Carrot
+---
+A golden carrot is a food item that provides the most saturation out of all stackable foods when . It can also be used as a brewing ingredient for potions of Night Vision.
+
+Obtaining
+Generated loot
+
+Crafting
+
+Crafting recipe: Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Carrot, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget arranged in the crafting grid → Golden Carrot.
+
+Trading
+
+Usage
+Food
+
+To eat a golden carrot, press and hold  while it is selected in the hotbar. Eating one restores  and 14.4 saturation points. In Java Edition, due to its high saturation, a golden carrot restores the most health via saturation boost of any stackable food item.
+
+Animal food
+Golden carrots are used to tame, breed, lead, grow, and heal horses, donkeys, and mules, and to breed, lead, and grow rabbits. , due to a bug, skeleton horses (in their hostile state; being ridden by skeletons) can also be fed golden carrots.
+
+Brewing ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+See also
+
+References
+
+External links
+
+Navigation
+
+Category:Food
+
+cs:Zlatá mrkev
+de:Goldene Karotte
+es:Zanahoria dorada
+fr:Carotte dorée
+hu:Aranyrépa
+it:Carota d'oro
+ja:金のニンジン
+ko:황금 당근
+lzh:金胡蘆菔
+nl:Gouden wortel
+pl:Złota marchewka
+pt:Cenoura Dourada
+ru:Золотая морковь
+th:แคร์รอตทอง
+uk:Золота морква
+zh:金胡萝卜

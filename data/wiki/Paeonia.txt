@@ -1,0 +1,38 @@
+TITLE: Paeonia
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Paeonia
+---
+Paeonia is a flower originally planned for implementation in Java Edition 1.7.2, but got replaced with the peony.
+
+Obtaining
+Paeonias would presumably have been obtainable through similar methods to other flowers. The only released screenshot depicts them planted in a taiga biome, though as peony bushes have never generated in this biome it is unknown if they would have naturally generated here.
+
+Usage
+Paeonias would presumably have been craftable into pink dye like the peony bushes that replaced them, and would have had the same properties that are shared by all one block tall flowers.
+
+History
+Originally revealed by Jeb in a screenshot,"I've been adding a bunch of new flowers to #minecraft. One of them is the pink Paeonia, as it was the main flower for our wedding" – @jebkhaile, August 16, 2013 the flower was never implemented, being superseded by the peony.
+
+However, the texture for the paeonia was still added to the game's texture files in 13w36a as flower_paeonia.png, alongside all the actually implemented flowers. This texture persisted in the files for over four years, eventually being removed in 17w47a without a doubt due to resource changes and the Flattening.
+
+Interestingly, despite the texture being completely unused throughout its presence in the game files, paeonias were redone in the Texture Update beta packs. The texture is present in the Bedrock Edition default resource pack, having been added along with the other texture update textures.
+
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Gallery
+
+References
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Removed blocks
+Category:Flowers
+
+pt:Paeonia

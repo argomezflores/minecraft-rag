@@ -1,0 +1,46 @@
+TITLE: Iron Trap
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Iron_Trap
+---
+An iron trap is a joke block only present in 26w14a.
+
+Obtaining
+
+Breaking
+
+Although the iron trap has a drop, no vanilla tool is suitable for breaking it, so breaking it with any tool will have no effect. Furthermore, attempting to use Attack / Mine to order a tool to mine it will not happen, as tools only mine blocks that they can break.
+
+However, it is still possible to make an iron trap block drop a living iron trap with an explosion.
+
+Using cheats, it's possible to create a tool capable of mining it by modifying  data component. Can be add this block in  so that it can be mined by any pickaxe (additionally, adding a tag like  prevents it from being mined by some pickaxes.)
+
+Post-generation
+
+If at least eight living iron bars come close together, a living iron trap will form.
+
+It can be placed as an item in a container by approaching an alive container or using a hopper.
+
+It can be placed as a block with build, or somehow remove the action items from the hotbar.
+
+Usage
+Living iron traps attempt to pathfind towards the nearest player. When coming in contact with a player, it will spawn a cage of 25 iron bars around them, trapping them. The iron bars replace all blocks that were previously in the iron bars' positions, including otherwise unbreakable blocks.
+
+Sounds
+
+Data values
+ID
+
+Advancements
+
+Issues
+
+Trivia
+According to one of the developers, iron and copper traps are a reference to the mod SecurityCraft.
+
+References
+
+Navigation
+
+ja:Iron Trap
+pt:Edição Java 26w14a/Iron Trap
+zh:铁陷阱

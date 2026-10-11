@@ -1,0 +1,141 @@
+TITLE: Hanging Sign
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Hanging_Sign
+---
+A hanging sign is a variant of a  sign that displays text, and can be placed underneath blocks or with a solid self-supporting bracket. The text of hanging signs can be customized with dyes and glow ink sacs, and they can be waxed to prevent edits.
+
+Obtaining
+Breaking
+Hanging signs can be broken with any tool or without a tool, but an axe is fastest.
+
+Hanging signs break and drop themselves as an item if the block the sign is attached to is moved, removed or destroyed. However, this is not the case if the hanging sign is attached to a wall.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Iron Chain, Iron Chain, Matching Stripped Log; Block of Stripped Bamboo; Matching Stripped Stem, Matching Stripped Log; Block of Stripped Bamboo; Matching Stripped Stem, Matching Stripped Log; Block of Stripped Bamboo; Matching Stripped Stem, Matching Stripped Log; Block of Stripped Bamboo; Matching Stripped Stem, Matching Stripped Log; Block of Stripped Bamboo; Matching Stripped Stem, Matching Stripped Log; Block of Stripped Bamboo; Matching Stripped Stem arranged in the crafting grid → Matching Hanging Sign, 6.
+
+Usage
+Hanging signs can be used to display text; they can be used to label storage, display information to other players or note areas of interest. Hanging signs are also not destroyed by water or lava and therefore may be used to control the flow of these fluids.
+
+Placement
+thumb|upright|All hanging signs.
+Hanging signs can be placed in three different ways:
+Placing a hanging sign on the side of a block results in it being placed with a self-supporting bracket, which allows it to float without any supporting block. This version can be placed in four different directions.
+Placing a hanging sign on the bottom of a block results in the sign hanging below the block.
+If the block is wide enough, the chains holding the sign are parallel. This version can be placed in four different directions.
+Placing a hanging sign under a narrow block such as chain results in it being placed the up-arrow shape.
+If the block is too narrow, the chains meet together in a up-arrow shape. This version can be placed in sixteen different directions.
+Placing a hanging sign on the bottom of a block while sneaking results in the sign being in the up-arrow shape.
+
+Text
+
+In regards to text editing and formatting, hanging signs behave identically to regular signs, showing up to four lines of text. However, these lines are narrower than on regular sign, meaning that a hanging sign has less space for writing. Just like regular signs, hanging signs can be dyed, the text can be made to glow by  a glow ink sac on the sign (a change revertable with a regular ink sac), the sign can be waxed with a honeycomb to prevent further editing (an irreversible change), formatting codes can be used , and , the sign's content can be further customized with JSON text.
+
+In Creative mode, the combination  +  on Windows/Linux, or  +  on macOS, can be used to copy an already-placed hanging sign, including its text (with decorations), into the player's inventory.
+
+A dyed hanging sign facing east or west has text that appears more saturated and bright than a hanging sign facing north or south. However, it is actually the hanging sign that is dimmer, because Minecraft's lighting engine uses side lighting to make the world appear less flat, but the text on hanging signs is not affected by this.
+
+, inappropriate words or phrases in a hanging sign's text are displayed as hashtags.
+
+Interaction
+Hanging signs can be edited after being placed by  them, which opens the edit sign message GUI.
+
+Hanging signs are destroyed and drop as an item when pushed by a piston.
+
+Hanging signs' mounting bracket are solid and have collision, the sign itself however does not.
+
+Water and lava flow around hanging signs. Lava can create fire in air blocks next to hanging signs as if the hanging signs were flammable, but they do not burn (and cannot be burned by other methods either, except ).
+
+Fuel
+Hanging signs made of logs found in the Overworld can be used as a fuel in furnaces, smelting 4 items per hanging signs. Hanging signs made of logs found in the Nether (crimson and warped) cannot be used as fuel in a furnace.
+
+Sounds
+Generic
+Normal wood
+
+Cherry wood
+
+Bamboo wood
+
+Nether wood
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Hanging
+
+Wall
+
+:
+
+Block data
+A sign has a block entity associated with it that holds additional data about the block.
+
+:
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The first concept art of hanging signs came from Agnes Larsson's daughter.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Concept artwork
+
+In other media
+
+See also
+Chalkboard
+Sign
+
+References
+
+External links
+
+Navigation
+
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Block entities
+Category:Non-solid blocks
+Category:Blocks with GUI
+
+de:Hängeschild
+es:Cartel colgante
+fr:Pancarte suspendue
+it:Insegna
+ja:吊り看板
+ko:매다는 표지판
+pt:Placa Suspensa
+ru:Подвесная табличка
+uk:Вивіска
+zh:悬挂式告示牌

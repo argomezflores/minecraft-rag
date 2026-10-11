@@ -1,0 +1,54 @@
+TITLE: Bars
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bars
+---
+thumb|All bars.
+Bars are blocks that serve a similar purpose to glass panes, but made out of certain metal ingots instead of glass.
+
+Variants
+There are 9 variants of bars:
+
+()
+()
+()
+()
+
+Obtaining
+Crafting
+Both iron and regular unwaxed, unoxidized copper bars have the same crafting recipe format, where six ingots result in sixteen bars of the same type.
+
+Crafting recipe: Copper Ingot;Iron Ingot, Copper Ingot;Iron Ingot, Copper Ingot;Iron Ingot, Copper Ingot;Iron Ingot, Copper Ingot;Iron Ingot, Copper Ingot;Iron Ingot arranged in the crafting grid → Copper Bars,16;Iron Bars,16.
+
+Usage
+thumb|Iron bars used to create narrow slits.
+As with glass panes and fences, bars can be used to create narrow slits when placed between a door and a solid block. Mobs can see through and attack through these gaps, and arrows may be shot through them. Also as with fences and glass panes, arrows cannot be shot through bars themselves.
+
+Endermen seen through bars do not become angry. The ender dragon cannot destroy iron bars (some of the end crystals are protected by them), which makes them a useful material in the End.
+
+Placement
+Bars can be placed in much the same way as fences or glass panes. If no solid block is adjacent to the bars, they have appearance of a slim, tall column. If something is placed next to bars, they appear either flat, text-top|class=darkmode-invert shaped, text-top|class=darkmode-invert shaped or text-top|class=darkmode-invert shaped, depending on the blocks surrounding it.
+
+Block states
+
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Utility blocks
+
+es:Barrotes
+fr:Barreaux
+pt:Barras
+uk:Ґрати
+zh:栏杆

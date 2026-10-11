@@ -1,0 +1,55 @@
+TITLE: Deepslate Tile Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Tile_Stairs
+---
+Deepslate tile stairs are a decorative stairs variant of deepslate tiles that generate in ancient cities and are used for building.
+
+Obtaining
+Breaking
+Deepslate tile stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Deepslate tile stairs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Deepslate Tiles, Deepslate Tiles, Deepslate Tiles, Deepslate Tiles, Deepslate Tiles, Deepslate Tiles arranged in the crafting grid → Deepslate Tile Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en ardoise des abîmes carrelée
+ja:深層岩タイルの階段
+ko:심층암 타일 계단
+lzh:板石瓦階
+pt:Escadas de Ladrilhos de Ardosiabissal
+ru:Ступени из глубинносланцевого плитняка
+th:บันไดกระเบื้องหินชนวนลึก
+uk:Сходи з глибосланцевих кахлів
+zh:深板岩瓦楼梯

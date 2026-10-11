@@ -1,0 +1,55 @@
+TITLE: Cobbled Deepslate Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cobbled_Deepslate_Stairs
+---
+Cobbled deepslate stairs are a decorative stairs variant of cobbled deepslate that generate in ancient cities and are used for building.
+
+Obtaining
+Breaking
+Cobbled deepslate stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Cobbled deepslate stairs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate arranged in the crafting grid → Cobbled Deepslate Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en pierres des abîmes
+ja:深層岩の丸石の階段
+ko:심층암 조약돌 계단
+lzh:碎板石階
+pt:Escadas de Pedregulho de Ardosiabissal
+ru:Ступени из колотого глубинного сланца
+th:บันไดหินชนวนลึกหยาบ
+uk:Сходи з глибосланцевого кругляку
+zh:深板岩圆石楼梯

@@ -1,0 +1,12 @@
+TITLE: Black entities
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Black_entities
+---
+When an entity's origin point goes inside an opaque block and can be seen easily, they become black entities. This applies to mobs and some block entities.
+
+Reason
+thumb|width=200x200|Due to floating-point errors, this painting is black.
+thumb|width=200x200|Ditto, but viewed at a different angle; notice how the origin point (center of painting) is inside the bone blocks.
+Minecraft simulates light  to determine how entities appear. Because light stops moving when it hits opaque blocks, entities with an origin point inside of an opaque block will become fully unlit and turn black.
+
+Navigation

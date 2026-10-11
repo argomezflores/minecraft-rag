@@ -1,0 +1,50 @@
+TITLE: Cracked Nether Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cracked_Nether_Bricks
+---
+Cracked Nether bricks are a decorative variant of Nether bricks, obtained by smelting Nether bricks.
+
+Obtaining
+Breaking
+Cracked Nether bricks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Smelting
+
+Smelting recipe: Nether Bricks → Cracked Nether Bricks, XP: 0.1.
+
+Usage
+Cracked nether bricks are a decorative block.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+In other media
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+
+de:Rissige Netherziegel
+fr:Briques du Nether craquelées
+ja:ひび割れたネザーレンガ
+ko:금 간 네더 벽돌
+pt:Tijolos do Nether Rachados
+uk:Тріснута незерська цегла
+zh:裂纹下界砖块

@@ -1,0 +1,113 @@
+TITLE: Beehive
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Beehive
+---
+Beehives are craftable blocks that house bees, which fill their homes with honey made from gathered flower nectar. Full beehives can be harvested for honeycombs (using shears) or honey bottles (using glass bottles). Bees will attack players who harvest or break their homes without utilizing campfires or Silk Touch, respectively.
+
+Obtaining
+Breaking
+
+Beehives can be broken by any tool or by the player's fist, though they break faster with an axe. When mined, they always drop themselves.
+
+If a beehive is broken with a tool not enchanted with Silk Touch, any bees inside emerge, and together with nearby bees, become angry at the player. If a Silk Touch tool is used, any bees inside remain inside and any other bees nearby do not become angry.
+
+If broken in Creative mode with bees inside, the beehive drops itself and bees inside remain inside.
+
+Crafting
+
+Crafting recipe: Any Planks, Any Planks, Any Planks, Honeycomb, Honeycomb, Honeycomb, Any Planks, Any Planks, Any Planks arranged in the crafting grid → Beehive.
+
+Usage
+
+Sounds
+Generic
+:
+
+:
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+:
+
+:
+
+Block data
+A beehive has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: Entities currently in the hive. Represents the  component.
+An entity in the hive.
+: The NBT data of the entity in the hive.  is required.
+
+: The minimum amount of time in ticks for this entity to stay in the hive.
+: The amount of ticks the entity has stayed in the hive.
+: Stores the block location, as 3 integers, of the flower that the last bee to enter the hive pollenated. When a bee leaves the hive without its own saved  tag, it has a 90% chance to use this hive's flower position, creating a sort of gossip system for hives.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock  Edition
+
+Data history
+
+Issues
+
+See also
+
+Tutorial: Honey farming
+
+Gallery
+Renders
+Beehive
+
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Block entities
+Category:Utility blocks
+Category:Flammable blocks
+Category:Readable by comparators
+Category:Animal blocks
+
+de:Bienenstock
+es:Colmena
+fr:Ruche
+it:Alveare
+ja:ミツバチの巣
+ko:벌통
+pl:Pszczele gniazdo i pszczeli ul
+pt:Colmeia Artificial
+ru:Улей
+th:รังผึ้ง
+uk:Вулик
+zh:蜂巢（方块）

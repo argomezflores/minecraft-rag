@@ -1,0 +1,51 @@
+TITLE: Unbreaking
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Unbreaking
+---
+Unbreaking is an enchantment that gives a chance for an item to avoid durability reduction when it is used, effectively increasing the item's durability.
+
+alt=Unbreaking Enchantment Tool Negative Binomial Graph|thumb|200px|Graphs showing the probability of a tool breaking after a number of uses with different levels of this enchantment. Some lower durability materials may last longer than higher durability materials with some enchantment levels.
+
+Obtaining
+Unbreaking can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagers, and non-village structure loot.
+
+Usage
+For tools and weapons, there is a 100%÷(level+1) chance that using the item reduces durability, which means that the item has a 50%/66.66……%/75% chance of not using any durability. On average, tools last 2/3/4 times as long.
+
++Effective tool durability increase on averageNo enchantingUnbreakingIIIIIIAverage lifetime increase+0%+100%+200%+300% Wood60120180240 Stone132264396528 Copper191382573764 Iron 2515027531004 Gold336699132 Diamond1562312446866248 Netherite2032406460968128    64128192256  3847681152153646492813921856500100015002000255075100100200300400Durability43286412961728Flight time7 min 12 sec14 min 24 sec21 min 36 sec28 min 48 sec238476714952336672100813442505007501000
+For armors, there is a 60%+40%÷(level+1) chance a use reduces durability, meaning each durability hit against Unbreaking armor has a 20%/26.66……%/30% chance of being ignored. On average, armor lasts 1.25/1.3636……/1.428571428571…… times as long. Technically, only level below 0 of Unbreaking can lower the reduce-durability chance less than 60%.
+
+When durability is reduced by multiple points, for example,  when hooking a mob with fishing rods or getting blown up with TNT, Unbreaking is applied for each point of decision of actual reduction.
++Effective armor durability increase on averageNo enchantingUnbreakingIIIIIIChance of reducing durability100% ()80% ()73.3% ()70% ()Average lifetime increase +0% () +25% () +36.4% () +42.9% ()275344375393 Leather Cap55697579 Tunic80100109114 Pants7594102107 Boots65818993 Golden Helmet7796105110 Chestplate112140153160 Leggings105131143150 Boots91113124130 Copper Helmet121151165173 Chestplate176220240252Leggings165206225236 Boots143178195204 Chainmail Helmet165206225236 Chestplate240300327343 Leggings225281307322 Boots195244266279  Iron Helmet165206225236 Chestplate240300327343 Leggings225281307322 Boots195244266279  Diamond Helmet363454495519 Chestplate528660720755 Leggings495619675707 Boots429536585613  Netherite Helmet407509555582 Chestplate592740807846 Leggings555694757793 Boots481601656687
+
+Data values
+ID
+
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+Navigation
+
+de:Haltbarkeit
+es:Irrompibilidad
+fr:Solidité
+it:Indistruttibilità
+ja:耐久力
+pt:Inquebrável
+th:คงทน
+uk:Незламність
+zh:耐久

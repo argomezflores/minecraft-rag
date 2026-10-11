@@ -1,0 +1,98 @@
+TITLE: Glass Pane
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Glass_Pane
+---
+A glass pane is a transparent block that can be used as a more efficient alternative to glass blocks. It can be dyed into stained glass panes.
+
+Obtaining
+Breaking
+Glass panes can be obtained using a tool enchanted with Silk Touch. If one is broken without a Silk Touch enchantment, it drops nothing.
+
+Glass panes do not have an assigned tool; they are mined at the same speed regardless of what tool is used.
+
+Natural generation
+Glass panes generate naturally as windows in villages, woodland mansions, and ancient cities.
+
+Crafting
+
+Crafting recipe: Glass, Glass, Glass, Glass, Glass, Glass arranged in the crafting grid → Glass Pane,16.
+
+Usage
+Glass panes are more efficient to use than glass blocks, as six glass blocks can be crafted into sixteen glass panes, yielding 2 panes per block. Windows built using glass panes can be up to 267% (2 times) larger in area than windows built with regular glass blocks.
+thumb|150px|A single space between two glass panes results in a 2×1 hole, which spiders can pass through.
+
+Placement
+If placed without anything on the sides, they appear as a thin vertical • shape, 2×2 pixels in size; but when other blocks occupy adjacent spaces, it becomes flat or turns into a text-top|class=darkmode-invert or text-top|class=darkmode-invert or text-top|class=darkmode-invert shape depending on the items surrounding it. The collision box is identical to the shape of the pane. Therefore, two glass panes placed with one empty space in between form a gap that is two blocks wide.
+
+Glass panes are never oriented horizontally. Horizontal glass surfaces must be made from glass blocks.
+
+Glass panes can be waterlogged, which means water can be in the same place as a glass pane, unlike regular glass.
+
+Crafting ingredient
+
+Locking maps
+Glass panes can be used in cartography tables to lock maps, which makes them unable to be filled again or altered when exploring.
+
+Trading
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:transparent blocks
+cs:Tabulka skla
+de:Glasscheibe
+es:Panel de cristal
+fr:Vitre
+it:Pannello di vetro
+ja:ガラス板
+ko:유리판
+nl:Glazen ruit
+pl:Szyba
+pt:Vidraça
+ru:Стеклянная панель
+th:แผ่นกระจก
+uk:Шибка
+zh:玻璃板

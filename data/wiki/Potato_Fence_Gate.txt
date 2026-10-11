@@ -1,0 +1,37 @@
+TITLE: Potato Fence Gate
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Fence_Gate
+---
+A potato fence gate is a potato variant of a fence gate, crafted from the respective potato planks. It is only present in 24w14potato.
+
+Obtaining
+Breaking
+Potato fence gate can be broken with anything, but axes are faster.
+
+Natural generation
+Potato fence gates generate naturally as part of potato villages.
+
+Crafting
+
+Crafting recipe: Stick, Potato Planks, Stick, Stick, Potato Planks, Stick arranged in the crafting grid → Potato Fence Gate.
+
+Usage
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+ja:Potato Fence Gate
+zh:马铃薯木栅栏门

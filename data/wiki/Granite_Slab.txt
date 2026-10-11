@@ -1,0 +1,54 @@
+TITLE: Granite Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Granite_Slab
+---
+A granite slab is a decorative slab variant of granite that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Granite slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Granite, Granite, Granite arranged in the crafting grid → Granite Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a granite slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle de granite
+ja:花崗岩のハーフブロック
+ko:화강암 반 블록
+pt:Laje de Granito
+zh:花岗岩台阶

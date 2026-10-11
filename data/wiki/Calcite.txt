@@ -1,0 +1,61 @@
+TITLE: Calcite
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Calcite
+---
+Calcite is a block exclusively found in geodes and stony peaks.
+
+Obtaining
+Breaking
+Calcite drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Calcite generates naturally as part of the structure of amethyst geodes, between the smooth basalt and block of amethyst layers. It also generates in the stony peaks in strips.
+
+Usage
+Calcite is used for decoration. It has lower blast resistance and hardness than most other stone-related blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Real life calcite is the most stable form of calcium carbonate and a common mineral.
+
+Gallery
+Screenshots
+
+External links
+Block of the Week: Calcite – Minecraft.net on April 28, 2022
+
+Navigation
+
+Category:Natural blocks
+
+de:Kalzit
+es:Calcita
+fr:Calcite
+it:Calcite
+ja:方解石
+ko:방해석
+lzh:滑方石
+pl:Kalcyt
+pt:Calcita
+ru:Кальцит
+th:หินแคลไซต์
+uk:Кальцит
+zh:方解石

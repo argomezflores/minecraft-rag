@@ -1,0 +1,95 @@
+TITLE: Smithing
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Smithing
+---
+thumb|right|The smithing table interface.
+Smithing is a gameplay mechanic that allows players to upgrade tools and armor both in material and in appearance through the use of a smithing table.
+
+Equipment
+A smithing table and three ingredients are required for each smithing action the player wishes to perform. Each time working on a smithing table, the player must provide a smithing template, armor/tool, and an augmenting material.
+
+Upgrading
+Upgrading is a process for turning diamond gear into netherite gear. This is the only way that netherite gear can be obtained.
+
+While upgrading, the newly crafted netherite gear retains the enchantments, trims, name, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.
+
+Using a smithing table to upgrade diamond gear to netherite gear costs no experience and does not increase the prior work penalty.
+
+When upgraded to netherite, all items are granted resistance to fire and lava when dropped in the world, and their durability and enchantability are increased. Swords and tools (except for hoes ) deal a higher attack damage and the mining speed of tools is improved as well. Each piece of netherite armor gives 10% of knockback reduction, protecting 40% with a full set. Armor toughness is also increased.
+
+Armor upgrading
+
+Tool upgrading
+
+Trimming
+thumb|A display of all armor trims in every color on netherite armor.
+
+Trimming allows players to customize an armor piece's appearance by applying a material using one of the following smithing templates. During trimming, the decorative pattern applied to the armor corresponds to the trim used, with the color determined by the used material. The template is consumed in the process.
+
+Template
+
+Material
+
+All trims are purely decorative, and don't impact gameplay in any way. Piglins do not pick up any gold-trimmed armor pieces and remain hostile towards players wearing gold-trimmed armor, unless the base armor is also golden. Non-netherite armor pieces trimmed with netherite still burn if  in fire or lava.
+
+Most armor trims cover a small portion of the armor piece's surface with the trim material, except for the silence armor trim, which allows the trim material to cover a majority of the armor piece's surface.
+
+Armor with a trim can be trimmed again by applying another template to it; the old trim pattern is overwritten in the process. Therefore, one piece of armor cannot possess multiple trims at the same time.
+
+List of color palettes for all materials
+-
+- (Darker: )
+- (Darker: )
+-
+- (Darker: )
+- (Darker: )
+-
+-
+- (Darker: )
+-
+-
+
+List of tooltip text colors for all materials
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Armor trim renders
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Gameplay
+
+es:Herrería
+fr:Forgeage
+it:Forgiatura
+ja:鍛冶
+ko:대장장이 작업
+lzh:鍛
+pt:Ferraria
+ru:Кузнечное дело
+th:การหล่อ
+uk:Ковальство
+zh:锻造

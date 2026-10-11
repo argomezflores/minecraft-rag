@@ -1,0 +1,45 @@
+TITLE: Potato Portal
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Portal
+---
+A potato portal is a portal that allows players to access the Potato dimension in 24w14potato. It works similarly to the Nether portal.
+
+Obtaining
+Potato portals are unobtainable as an item without the use of the Creative inventory or commands. When kept in the inventory, the item goes visually outside the slot. They cannot be pushed or pulled by pistons.
+
+Breaking
+Potato portals are unbreakable in Survival mode.
+
+They have a blast resistance of 0, meaning they are destroyed easily by explosions.
+
+Post-generation
+To create the potato portal, a poisonous potato must be  on a pedestal block. Pedestal must be placed in the Overworld or the Potato dimension, and block above the pedestal must be air or a replaceable block, like water or snow.
+
+Alternatively, potato portals can be created with the potato staff dropped by the mega spud boss mob.
+
+Usage
+After standing inside the portal for 4 seconds, the player is transported to the Potato dimension if they were in any other dimension, or to the Overworld if they were in Potato dimension. Other entities are transported instantly.
+
+Unlike the Nether, coordinates and distances in the Potato are proportional to the Overworld in a 1:1 ratio. Player is transported to the same coordinates in the other dimension, or the closest empty space, if exact match is blocked off.
+
+If a potato portal is placed in the Nether, it transports the player to the corresponding horizontal coordinates in Potato multiplied by 8. If it's placed in the End, coordinates are again 1:1.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Createable blocks
+Category:Light sources
+
+ja:Potato Portal
+zh:马铃薯传送门
+Category:Portals

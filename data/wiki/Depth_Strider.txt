@@ -1,0 +1,55 @@
+TITLE: Depth Strider
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Depth_Strider
+---
+Depth Strider is an enchantment applied to boots that lessens the movement speed reduction that occurs when in water.
+
+Obtaining
+Depth Strider can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, librarian villagers (or if the "Villager Trade Rebalance" experimental datapack is enabled, a swamp librarian), and in the following structure loot chests: desert pyramids, strongholds, ocean ruins, ancient cities, woodland mansions, pillager outposts, mineshafts, dungeons, jungle pyramids, and from vaults in trial chambers.
+
+Usage
+Each level of Depth Strider increases water movement efficiency by ⅓, including reducing the speed at which flowing water pushes the player when standing still. An armor stand carrying armor enchanted with Depth Strider also moves slower when being pushed by water.
+
+Level 3 lets the player swim as fast as walking on land. Any higher level has no effect on speed. Also at level 3, a Speed potion affects the player's swimming the same as walking.
+
+If the player has the Dolphin's Grace effect, bonuses from both are combined and the player can move at a high speed through water.
+
+Depth Strider can normally be applied only to boots. Using commands, the enchantment still works when applied to other types of armor (such as a helmet). However, it has no effect unless the enchanted item is equipped in the feet slot.
+
+Depth Strider only affects horizontal movement speed in water. Vertical movement speed is not affected. resolved as "Works As Intended"
+
+Incompatibilities
+Depth Strider and Frost Walker are mutually exclusive. However, if combined using commands, both enchantments function normally.
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Transport
+
+de:Wasserläufer
+es:Agilidad acuática
+fr:Agilité aquatique
+ja:水中歩行
+pt:Passos Profundos
+th:คล่องแคล่วใต้น้ำ
+zh:深海探索者

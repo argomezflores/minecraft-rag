@@ -1,0 +1,55 @@
+TITLE: Banner Pattern
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Banner_Pattern
+---
+Banner patterns are a set of 10 items used to apply unique designs to banners using a loom, and are freely reusable. Most can be crafted, but some are only found in structures or through other means.
+
+Variants
+There are 10 banner patterns:
+
+Obtaining
+thumb|All banner patterns, also showing the method for obtaining each one.
+
+Crafting
+
+It is possible to craft all but 4 of the banner patterns.
+
+Trading
+
+Generated loot
+
+Usage
+Loom ingredient
+All banner patterns can be used in looms to add customization to banners. The pattern must be combined with 1 banner and 1 dye. Upon usage in the loom, the banner pattern is not consumed.
+
+Data values
+Metadata
+
+, banner pattern items use the following data values:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+de:Bannervorlage
+es:Diseño de estandarte
+fr:Motif de bannière
+it:Motivo per stendardo
+ja:旗の模様
+ko:현수막 무늬
+lzh:旗楷
+pl:Wzór sztandaru
+pt:Figura para Estandarte
+ru:Узор флага
+th:แบบลายธง
+uk:Візерунок стяга
+zh:旗帜图案

@@ -1,0 +1,70 @@
+TITLE: Copper Bars
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Bars
+---
+Copper bars are copper variants of bars. Unlike iron bars, they are colored copper orange and can oxidize over time, similar to other copper blocks.
+
+Obtaining
+Breaking
+Copper bars can be mined using any pickaxe. If mined without a pickaxe, nothing is dropped.
+
+Crafting
+
+Crafting recipe: Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot arranged in the crafting grid → Copper Bars,16.
+
+Waxing
+Like other copper blocks, the waxed variant can be obtained by  a honeycomb item on the block.
+
+Usage
+
+Oxidation
+
+Non-waxed copper bars have four stages of oxidation (including the initial normal state). Lightning bolts and axes can remove the oxidation on copper bars. They can be waxed with honeycomb to prevent oxidation from progressing.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Advancements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Mojang screenshots
+
+In other media
+
+Navigation
+
+Category:Manufactured blocks
+Category:Transparent blocks
+
+de:Kupfergitter
+es:Barrotes de cobre
+fr:Barreaux de cuivre
+ja:銅格子
+ko:구리 창살
+pt:Barras de Cobre
+ru:Медные прутья
+uk:Мідні ґрати
+zh:铜栏杆

@@ -1,0 +1,102 @@
+TITLE: Ancient Debris
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Ancient_Debris
+---
+Ancient debris is a rare ore found in the Nether, and is the main source of netherite scraps, which can then be used to craft netherite ingots. Its high blast resistance makes it immune to normal explosions. In item form, it floats on lava and is completely immune to any form of fire.
+
+Obtaining
+Breaking
+Ancient debris drops itself if mined by a diamond pickaxe or netherite pickaxe. If mined by any other tool, it drops nothing.
+
+Natural generation
+Ancient debris generates in the Nether in the form of scatter ores which are never naturally exposed to air.The generation system explicitly attempts to place ancient debris where it is not exposed to air. Rarely, ancient debris can be exposed by later generation processes. It can also be exposed to fungi, or alongside smaller pockets of lava. They can only replace netherrack, basalt, and blackstone.
+
+On average, Y-level 16 has the most ancient debris.
+
+Generation of ancient debris varies by edition.
+, up to two clusters may generate per chunk:
+One cluster of 0–3 ancient debris attempts to generate with a triangle distribution from levels 8 to 24.
+An additional cluster of 0–2 ancient debris attempts to generate evenly from levels 8 to 119.
+
+, up to five clusters may generate per chunk:
+Two clusters of 0–3 ancient debris attempt to generate evenly from levels 8 to 23.
+An additional three clusters of 0–2 ancient debris attempt to generate evenly from levels 8 to 119.
+
+, there is an average of 1.65 ancient debris blocks per chunk, with a normal maximum of 5.However, it is technically possible for up to 11 ancient debris to be found in a single chunk; adjacent chunks can generate blobs on the border with up to 2 blocks spawning in an adjacent chunk. As of Java Edition 1.16.5, on average they generate 1.56 ores per chunk. Given this number, and that there are 32768 blocks in a chunk (16×128×16), there is approximately a 0.004% chance that any randomly selected block will be an ancient debris block.
+
+Generated loot
+Ancient debris can appear in bastion chests, either as a singular item or as a stack of two items. These two options are rolled separately from each other.
+
+Usage
+Smelting ingredient
+Ancient debris can be smelted using a furnace or blast furnace, which gives the player netherite scrap. If a player takes out the netherite scrap, they are rewarded with 2 experience points.
+
+Smelting recipe: Ancient Debris → Netherite Scrap, XP: 2.
+
+Redstone component
+Because of its unique combination of being both blast resistant enough to withstand TNT and being movable with a piston, ancient debris is sometimes used as a redstone component, usually in tunnel bores.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The texture of the ancient debris is supposed to look like pressed metal plates.
+Ancient debris is actually what remains of the mining activity of the piglins, who extracted all the original netherite ore.
+It is possible to find blobs of up to 20 contiguous ancient debris - up to five debris can generate in a chunk, so if a blob of five generates in adjacent corners of four different chunks, a blob of 20 debris would be created.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+Notes
+
+References
+
+See also
+Netherite
+Block of Netherite
+Netherite Ingot
+Netherite Scrap
+Nether Update
+Tutorial:Ancient Debris
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Natural blocks
+Category:Nether blocks
+
+de:Antiker Schrott
+es:Escombros ancestrales
+fr:Débris antiques
+it:Detriti antichi
+ja:古代の残骸
+ko:고대 잔해
+lzh:上古之骸
+pl:Pradawne zgliszcza
+pt:Detritos Ancestrais
+ru:Древние обломки
+th:เศษแร่โบราณ
+uk:Стародавні залишки
+zh:远古残骸

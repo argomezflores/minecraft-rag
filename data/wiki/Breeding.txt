@@ -1,0 +1,118 @@
+TITLE: Breeding
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Breeding
+---
+thumb|right|Two villagers breeding
+thumb|right|A baby wolf with its parents
+Breeding is a game mechanic that allows certain mobs, including villagers and many animals, to produce offspring.
+
+Some mobs have similar mechanics that are not classified as breeding.
+
+Mechanics
+thumb|right|A cow following the player
+Most animals that can be bred have food items that can be used to lead and breed them (there are a few special cases, described below). Villagers have their own breeding mechanics (see ).
+
+Once an animal notices a player holding its food, it follows the player until either the player is out of range, the player stops holding the item, it begins the breeding process, or it is attacked. Baby animals behave the same way. Most animals are uninterested in food lying on the ground, and those that are do not breed from eating this food.
+
+Any two adult animals of the same species can breed with each other, even if one animal is the parent of the other.
+
+Love mode
+Animals only breed when a player feeds them. One food item needs to be fed to each parent to breed a single baby.
+
+When an animal is fed its food, it enters "love mode", preparing to breed with another animal of the same species that is also in love mode. Animals that are in love mode emit heart particles constantly (see ). When both animals are fed, they pathfind toward each other, up to eight blocks away. The two animals walk into each other for about two and a half seconds, which simulates kissing, and then drop  and end love mode to produce their offspring, the method of which depends on the animal. Most animals immediately spawn a baby animal at the feet of the parents, usually of the same species as their parents. Some animals lay eggs, but the method and location they perform this varies from animal to animal. Chickens are the only animals that can both directly produce babies and lay eggs, as well as the only animals that lay eggs without being fed. After breeding, the parents cannot be fed to breed again for five minutes, but they (and their babies) always follow players holding breeding items. An animal exits love mode if it does not breed 30 seconds after being fed, but it immediately becomes able to be fed and enter love mode again.
+
+Growing a population
+Animals can be bred repeatedly to grow a large population of them. The number of animals that are produced starting from a single pair of animals, assuming the offspring are fully grown before breeding again, is represented by this sequence (OEIS A061418):
+
+where  is the floor function.
+
+The th term of the sequence can also be computed with this formula:  where  and  is the ceiling function. The constant  is defined to be  (see OEIS A083286).
+
+Breeding foods
+MobItemsOther (Tamed)
+(Tamed)These mobs must be tamed by repeatedly mounting them before they can breed. They can be tamed faster by being fed. A horse breeding with a donkey produces a mule. Mules cannot breed.
+The following items cannot be used for leading or breeding, but can be used to feed an untamed horse, donkey, or mule, grow a baby, or for healing:Sheep can grow faster if they eat short grass, ferns, short dry grass, tall dry grass, or grass blocks. They cannot be hand-fed these items; they eat them only if they are placed in the world.Pigs can also be led, but not bred, with a carrot on a stick.Chickens directly produce a chick when bred. They also automatically produce eggs, and do so without having to be fed. (Tamed)Wolves must be tamed by being given enough bones before they can be fed anything else, and do not enter love mode from eating bones. Tamed wolves can be fed to restore health, and must be at full health to enter love mode. Both of the wolves have to be standing.
+, the following can also be used for healing, but cannot be used for breeding or growing a baby wolf: (Tamed)Cats must be tamed by being given enough food before they can breed. Tamed cats can be fed to restore health, and must be at full health to enter love mode. At least one of the cats has to be standing.
+When fed, ocelots have a  chance of trusting the player that fed them, and do not run away. An ocelot does not need to be trusting to breed. , breeding creates a baby ocelot that trusts the player.Only bucketed tropical fish can be used to breed axolotls. Tropical fish items cannot be used.
+A water bucket is returned upon feeding. (Tamed)
+(Tamed)Llamas must be tamed in order for them to be bred. They can be tamed by repeatedly mounting them. This process can be sped up by feeding them.
+Wheat can also be used to feed an untamed llama, grow a baby, or for healing, but it cannot be used to lead or breed llamas. Rabbits always run from players unless they hold a breeding item, even if they are fed or grown from a baby by a player.Turtles lay turtle eggs on sand when bred, which take a few days to hatch into baby turtles. They lay eggs only at the place they spawned or were hatched. Turtle eggs can only be obtained using Silk Touch. They only hatch when placed on sand, and they hatch significantly faster at night. Turtle eggs can be trampled and broken, and zombies and their variants do so deliberately.Pandas can eat bamboo and other food items without player input, but breed only when fed by a player.
+, pandas breed only if there is at least one bamboo plant (not including shoots) within a 7×7×3 area.
+
+, pandas breed only if there are at least eight bamboo plants placed in a radius of five blocks around them.
+
+Although pandas can eat cake, they cannot be bred with it. Foxes can eat berries and other food items without player input, but breed only when fed by a player.
+The baby fox always trusts the player who bred the foxes, even when it grows up, and does not run away when approached.All flowers and flowering blocks work. Feeding bees wither roses or open eyeblossoms gives them the Wither or Poison effect, respectively, without angering them or triggering love mode.Striders can also be led, but not bred, with a warped fungus on a stick.Hoglins continue to attack during the breeding process. Hoglins that are fleeing from warped fungi, nether portals, or respawn anchors cannot be bred.
+Zoglins cannot breed.Frogs lay eggs on water that take ten minutes to hatch into tadpoles. These eggs cannot be obtained in item form or moved.Although they are fed cactus to breed and do not take damage from it, camels still take damage from touching it when it is placed in the world.Sniffers lay eggs when bred, which take twenty minutes (or ten, if the egg is placed on a moss block) to hatch into a snifflet. They lay their eggs in item form, and they must be placed by a player.When an armadillo is rolled up, it can't eat. (Tamed)Nautiluses must be tamed by being given enough pufferfish before they can breed. When a nautilus eats a pufferfish, it does not inflict them with the hunger, poison, and nausea effects.
+When a bucketed fish item is fed to a nautilus, a water bucket is returned after feeding.
+
+Villagers
+
+thumb|right|A group of villager children playing tag
+
+Unlike most mobs that can breed, villagers do not automatically breed when given food. Villager breeding depends on both the number of valid beds in the area (see the village page for full details), as well as whether the villagers are "willing." A villager may become willing if they have 3 bread or 12 carrots/potatoes/beetroots in their inventory. They may also become willing as a result of trading with a player. When they breed, they produce a baby villager. Zombie villagers and wandering traders cannot breed, and baby zombie villagers do not grow up as long as they're not cured.
+
+Baby mobs
+
+Baby mobs are smaller variations of their adult counterparts, having small bodies, relatively big heads (with some exceptions), and faster walking speeds. Most baby animals choose and follow an adult within 8 blocks of the same species, regardless of whether it is their parent.
+
+Most baby mobs take 20 minutes to grow up, while snifflets take 40 minutes. This can be accelerated by feeding them their breeding item.
+
+Similar mechanics
+Allay duplication
+thumb|An allay duplicating
+If an allay is given an amethyst shard while it is dancing due to a nearby jukebox playing any music disc, it splits into two allays (itself and a new allay) and the amethyst shard is consumed. After duplication, both allays have a five minute cooldown before being able to duplicate again. Allays do not have a baby form.
+
+Shulker duplication
+There is a chance for a new shulker of the same color to spawn when a shulker is hit with a shulker bullet (including one of its own).
+
+The following conditions must be met:
+
+When the shulker gets hit and then has less than half its health remaining, there is a 25% chance for it to teleport without spawning a new shulker instead of checking the conditions below.
+The hit shulker must have its lid open.
+The hit shulker needs to find somewhere to teleport. For this, it takes a random block in a 17×17×17 cuboid centered on the shulker and then checks if the block has a valid face to teleport to. If not it proceeds to try this up to 4 more times. If no valid face is found, the attempt fails.
+Each other shulker within 8 blocks of the hit shulker decreases the odds of success by 20%. When five or more other shulkers are nearby, no shulkers can spawn, but the hit shulker still teleports.
+
+If the attempt succeeds a new shulker spawns where the old shulker was before it teleported. Shulkers do not have a baby form, and, other than the above criteria, have no duplication cooldown.
+
+Sulfur cube splitting
+When a large sulfur cube dies by any method other than its own explosion, two small sulfur cubes are spawned, which will grow into large sulfur cubes after 20 minutes. They can be fed slimeballs to increase their growing speed.
+
+Achievements
+
+Advancements
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+See also
+Tutorial:Animal farming
+
+References
+
+Navigation
+
+de:Viehzucht
+es:Crianza
+fr:Élevage
+it:Riproduzione
+ja:繁殖
+ko:번식
+lzh:孳衍
+pl:Rozmnażanie
+pt:Reprodução
+ru:Разведение животных
+zh:繁殖

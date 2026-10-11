@@ -20,7 +20,7 @@ npm install
 ### 1. Arranca la API RAG (en otra terminal, desde la raíz del proyecto)
 
 ```powershell
-cd c:\Users\Rogelio\Desktop\RAG
+cd <ruta-del-repo>   # raíz del proyecto
 .\.venv\Scripts\Activate.ps1
 uvicorn src.api:app --reload
 ```

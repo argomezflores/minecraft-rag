@@ -1,0 +1,62 @@
+TITLE: Polished Andesite
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Andesite
+---
+Polished andesite is the polished version of andesite.
+
+Obtaining
+Breaking
+Polished andesite can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+One block of polished andesite can be found in igloo basements. Polished andesite can also be found in the "nature", "forge", and "large jail" rooms of woodland mansions and also in trial chambers surrounding the supply chests with chiseled tuff bricks.
+
+Crafting
+
+Crafting recipe: Andesite, Andesite, Andesite, Andesite arranged in the crafting grid → Polished Andesite,4.
+
+Stonecutting
+
+Trading
+
+Usage
+Polished andesite is currently used only for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+it:Andesite levigata
+ko:윤나는 안산암
+lzh:鎣安山石
+pt:Andesito Polido
+ru:Полированный андезит
+uk:Полірований андезит
+zh:磨制安山岩

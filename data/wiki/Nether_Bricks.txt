@@ -1,0 +1,88 @@
+TITLE: Nether Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Bricks
+---
+Nether bricks are the building blocks of Nether fortresses in the Nether and are used to spawn mobs in that structure.
+
+Obtaining
+Breaking
+Nether bricks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Nether bricks form the walls and supporting pillars of all Nether fortresses.
+
+Crafting
+
+Crafting recipe: Nether Brick, Nether Brick, Nether Brick, Nether Brick arranged in the crafting grid → Nether Bricks.
+
+Usage
+Nether bricks are non-flammable and immune to ghast fireballs, making them a suitable shelter material for the Nether.
+
+If a Nether bricks block is inside the whole bounding box of a Nether fortress (not just inside the individual parts), Nether fortress mobs (such as blazes and wither skeletons) can spawn on it if other normal conditions are met.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Nether Bricks → Cracked Nether Bricks, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+
+Nether bricks are the only block type to have both a fence and a wall. It is also the only fence type without a corresponding gate.
+
+Gallery
+
+Mojang images
+
+In other media
+
+External links
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+cs:Netheritové cihly
+de:Netherziegel
+es:Ladrillos del Nether
+fr:Briques du Nether
+hu:Nethertégla
+it:Mattoni del Nether
+ja:ネザーレンガ
+ko:네더 벽돌 (블록)
+lzh:焱界磚塊
+nl:Netherbakstenen
+pl:Netherowe cegły
+pt:Tijolos do Nether
+ru:Кирпич Нижнего мира
+th:บล็อกอิฐเนเธอร์
+uk:Незерська цегла
+zh:下界砖块

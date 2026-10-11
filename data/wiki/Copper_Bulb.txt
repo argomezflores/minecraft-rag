@@ -1,0 +1,110 @@
+TITLE: Copper Bulb
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Bulb
+---
+A copper bulb is a light-emitting block. It toggles on or off when it receives a redstone pulse, and does not need continuous power to emit light. Its light level depends on its state of oxidation.
+
+Waxed copper bulbs do not oxidize, but otherwise function identically.
+
+Obtaining
+Breaking
+Copper bulbs can be mined only with a stone pickaxe or better. If a copper bulb is mined without the use of a valid pickaxe, it drops nothing.
+
+Natural generation
+Lit, waxed copper bulbs in random states of oxidation are generated in trial chambers.
+
+Crafting
+
+Crafting recipe: Matching Unwaxed Block of Copper; Matching Waxed Block of Copper, Matching Unwaxed Block of Copper; Matching Waxed Block of Copper, Blaze Rod, Matching Unwaxed Block of Copper; Matching Waxed Block of Copper, Redstone Dust arranged in the crafting grid → Matching Unwaxed Copper Bulb, 4; Matching Waxed Copper Bulb, 4.
+
+Usage
+Copper bulbs can be activated to emit light, with the light level emitted decreasing for each stage of oxidation.
+When the copper bulb receives a redstone pulse, it instantly toggles between its lit and unlit states.
+
+Redstone component
+A copper bulb is not conductive, but a comparator can read the state of a copper bulb, and it emits a signal strength of 15 if the bulb is lit, regardless of oxidation. If the bulb is unlit, the comparator does not emit any power, allowing this comparator and copper bulb combination to act as a compact T flip-flop.
+
+While the copper bulb is receiving redstone power (either to toggle the bulb on or off) a red dot appears in the center of the block. An observer can detect this, and emits a signal when a copper bulb becomes powered or unpowered.
+
+, the copper bulb can only activate on the input/consumer redstone tick (C-tick).
+
+Oxidation
+
+Non-waxed copper bulbs have four stages of oxidation (including the initial normal state). Lightning bolts and axes can remove the oxidation on copper bulbs. They can be waxed with honeycomb to prevent oxidation from progressing.
+
+As the block begins to oxidize (exposed), it gets discolored and green spots begin to appear. As the oxidation continues (weathered), the block is a green color with brown spots. In the last stage (oxidized), the block is teal with several green spots.
+
+The light level emitted by copper bulbs also changes depending on the stage of oxidation.
+Oxidation level Light level  Normal 15  Exposed 12  Weathered 8  Oxidized 4
+
+Sounds
+Generic
+
+Unique
+Waxing
+
+Toggling
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement and reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Renders
+Powered
+
+Unpowered
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Mechanisms
+Category:Readable by comparators
+Category:Manufactured blocks
+Category:Light sources
+Category:Utility blocks
+Category:Generated structure blocks
+
+de:Kupferleuchte
+es:Lámpara de cobre
+fr:Ampoule en cuivre
+ja:銅の電球
+ko:구리 전구
+lzh:銅燈
+pl:Miedziana lampa
+pt:Lâmpada de Cobre
+ru:Медная лампа
+uk:Мідна жарівка
+zh:铜灯

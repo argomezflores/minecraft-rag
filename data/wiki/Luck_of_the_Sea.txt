@@ -1,0 +1,47 @@
+TITLE: Luck of the Sea
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Luck_of_the_Sea
+---
+Luck of the Sea is an enchantment applied to fishing rods that increases the rate of treasure items from fishing.
+
+Obtaining
+Luck of the Sea can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagers, non-village structure loot, and already on a fishing rod through fishing.
+
+Usage
+
+With the default loot tables, this enchantment increases the chance of "treasure" catches (by about 2.1% per level), while greatly lowering the chance of "junk" catches (by about 1.95% per level) and slightly lowering the chance of fish catches (by about 0.15% per level).
+
+Probabilities with default loot tables:
+CategoryChance in categoryUnenchantedLuck of the Sea I  II  III Fish  85%  84.8%  84.7%  84.5% Treasure  5%  7.1%  9.2%  11.3% Junk  10%  8.1%  6.1%  4.2%
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+Navigation
+
+de:Glück des Meeres
+es:Suerte marina
+fr:Chance de la mer
+it:Fortuna del mare
+ja:宝釣り
+pt:Sorte do Mar
+ru:Везучий рыбак
+th:โชคแห่งท้องทะเล
+zh:海之眷顾

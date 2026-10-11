@@ -1,0 +1,73 @@
+TITLE: Potion of Invisibility
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Invisibility
+---
+A potion of Invisibility is a potion that provides Invisibility when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Fermented Spider Eye + Potion of Night Vision → Potion of Invisibility.
+
+Brewing recipe: Redstone Dust + Potion of Invisibility → Potion of Invisibility Extended.
+
+Mob loot
+Wandering traders have an 8.5%/25% chance (increased by 1% per level of Looting) of dropping a potion of Invisibility if they die while they are drinking the potion, or holding the potion as a trade offer.
+
+Trading
+Wandering traders can sell extended potions of Invisibility for 5 emeralds.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 Regular: 3:00Extended: 8:00Renders the player invisible. Equipped items are still visible. Splash potion 1 Regular: 3:00Extended: 8:00 Lingering potion 1 Regular: 0:45Extended: 2:00
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Invisibility; Lingering Potion of Invisibility Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Invisibility, 8; Arrow of Invisibility Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended Potion of Invisibility  7  8
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegularExtended Potion of Invisibility  invisibility  long_invisibility
+
+:
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion d'invisibilité
+ko:투명화 물약
+pt:Poção de Invisibilidade
+zh:隐身药水

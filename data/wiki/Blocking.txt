@@ -1,0 +1,73 @@
+TITLE: Blocking
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Blocking
+---
+Blocking is a gameplay mechanic that allows players to block several forms of damage using a shield.thumb|right|150px
+thumb|right|150px
+
+Usage
+
+Java Edition
+Shields are used for blocking incoming attacks.  one causes the player to slow to a sneaking pace, and after 5 ticks (0.25 seconds), blockable attacks and knockback coming from the front of the player are negated. Any effects from the attacker (e.g. wither or fire) do not afflict the defender. A successful block is indicated by a sound and the shield taking damage.
+
+Blockable attacks include melee attacks, all non-magical projectiles, damage from Thorns, and all explosions. Shields have no effect on other types of damage, such as fall damage, drowning or splash potions. Shields partially block the laser attack from guardians and elder guardians by negating the direct damage.
+
+In 25w04a, blocking was introduced as an item component named blocks_attacks for all items, not exclusively shields.Minecraft Snapshot 25w04a
+
+Bedrock Edition
+Shields are used for blocking incoming attacks.
+Crouching (sneaking, flying downward, or moving downward in water) activates the shield. Shields also automatically activate when riding mobs, and there is no way to prevent the shield from being activated when riding mobs.
+
+Blockable attacks include melee attacks, all non magic projectiles, damage from Thorns, and all explosions except TNT lit by the player or from a redstone mechanism. Shields have no effect on other types of damage, such as fall damage, freezing or burning in lava. Shields partially block the laser attack from guardians and elder guardians by negating the direct damage.
+
+Weaknesses
+
+Axes
+Using an axe on a shield that is being used will cause that shield, as well as any of the target's other shields, to be disabled for five seconds. However, disabling shields will not do any damage to the target. Note that mobs which wield axes (Vindicators and Piglin Brutes) can disable shields in the same way players can.
+
+Sounds
+:
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+Blocking allows for the slowest movements possible. This can occur when the player blocks, sneaks, and moves backward while under the effect of Slowness while going through cobwebs placed above still water on top of soul sand that is placed on top of ice. This causes the player to move at about 1/200 blocks a second, or 2/25 pixel a second (1 pixel every 12-13s) on a default 16×16 texture pack. Blocking while sneaking and with the additional events (but without slowness potion) allows the player go at roughly 0.023854961832 blocks per second (1 block every 41.92 seconds).
+In older versions and ports of Minecraft, you were able to block using a sword, which would reduce damage taken. This mechanic has since been removed.
+It is impossible to block attacks on the New Nintendo 3DS Edition, as both shields and sword blocking are absent from the game.
+
+Gallery
+Screenshots
+
+See also
+Sprinting
+Critical hit
+Sword blocking
+
+References
+
+Navigation
+
+de:Blocken
+es:Bloquear ataque
+fr:Blocage
+it:Blocco (azione)
+ja:防御
+ko:방어
+nl:Blokkeren
+pl:Blokowanie
+pt:Bloquear
+ru:Блокирование
+th:การบล็อก
+uk:Блокування
+zh:格挡

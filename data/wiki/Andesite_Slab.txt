@@ -1,0 +1,54 @@
+TITLE: Andesite Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Andesite_Slab
+---
+An andesite slab is a decorative slab variant of andesite that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Andesite slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Andesite, Andesite, Andesite arranged in the crafting grid → Andesite Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when an andesite slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Dalle d'andésite
+ja:安山岩のハーフブロック
+ko:안산암 반 블록
+pt:Laje de Andesito
+zh:安山岩台阶

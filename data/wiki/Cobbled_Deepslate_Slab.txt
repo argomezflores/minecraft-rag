@@ -1,0 +1,58 @@
+TITLE: Cobbled Deepslate Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cobbled_Deepslate_Slab
+---
+A cobbled deepslate slab is a decorative slab variant of cobbled deepslate that generates in ancient cities and is used for building.
+
+Obtaining
+Breaking
+Cobbled deepslate slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Cobbled deepslate slabs generate as part of ancient cities.
+
+Crafting
+
+Crafting recipe: Cobbled Deepslate, Cobbled Deepslate, Cobbled Deepslate arranged in the crafting grid → Cobbled Deepslate Slab,6.
+
+Stonecutting
+
+Usage
+
+Crafting ingredient
+
+Sounds
+, when a cobbled deepslate slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle de pierres des abîmes
+ja:深層岩の丸石のハーフブロック
+ko:심층암 조약돌 반 블록
+pt:Laje de Pedregulho de Ardosiabissal
+zh:深板岩圆石台阶

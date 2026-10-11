@@ -1,0 +1,27 @@
+TITLE: Expired Baked Potato Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Expired_Baked_Potato_Brick_Slab
+---
+An expired baked potato brick slab is an expired baked potato brick variant of a slab, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Crafting
+
+Crafting recipe: Expired Baked Potato Bricks, Expired Baked Potato Bricks, Expired Baked Potato Bricks arranged in the crafting grid → Expired Baked Potato Brick Slab.
+
+Sounds
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Slabs
+
+fr:Expired Baked Potato Brick Slab
+ja:Expired_Baked_Potato_Brick_Slab
+ko:상한 구운 감자 벽돌 반 블록
+zh:过期的烤马铃薯砖台阶

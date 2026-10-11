@@ -1,0 +1,104 @@
+TITLE: Diamond
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Diamond
+---
+A diamond is a mineral that can be obtained from diamond ore along with various loot chests, vaults, ominous vaults, and suspicious sand. It is required to craft diamond tools, armor, and enchanting tables, as well as duplicate smithing templates.
+
+Obtaining
+
+Mining
+
+Diamond ore can be mined using an iron pickaxe or better. An ore drops a single diamond. If mined by any other tool, it drops nothing. If the pickaxe is enchanted with Fortune, it has a chance of dropping an extra diamond per level of Fortune, allowing for a maximum of 4 diamonds with Fortune III. If the ore is mined using a pickaxe enchanted with Silk Touch, it drops an ore block rather than a diamond.
+
+The ore is found at level 15 or lower, most commonly between -50 and -64, appearing more frequently as the Y-level decreases, but with a possibility of generation being prevented by bedrock at -59 and below.
+
+Generated loot
+
+A vault may eject a diamond when activated by a player, giving diamonds limited renewability if multiple players activate the vault.
+
+Crafting
+
+Smelting
+
+Smelting recipe: Diamond Ore; Deepslate Diamond Ore → Diamond, XP: 1.
+
+Usage
+Diamonds are mainly used to craft diamond armor and equipment, which can be upgraded to netherite armor and equipment.
+
+Crafting ingredient
+
+Trading
+
+Repairing
+Diamonds are the repair items for the diamond tier and armor material, and thus can be used to repair the following items in an anvil or grindstone:
+
+Beacons
+Diamonds can be used to select powers from a beacon. The player must select one of the available powers then insert a diamond into the item slot.
+
+A diamond can be substituted for an iron ingot, a gold ingot, an emerald or a netherite ingot.
+
+Smithing ingredient
+
+Trim color palette
+The following color palettes are shown on the designs on trimmed armor:
+
+(a darker color palette is used when a diamond armor piece is trimmed using a diamond).
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Unlike in Minecraft, newly mined diamonds in real life are rough, cloudy stones. The largest, purest ones are polished into crystal-clear gemstones, while the rest are used in industry for cutting and grinding.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+External links
+
+Navigation
+
+cs:Diamant
+de:Diamant
+el:Διαμάντι
+es:Diamante
+fr:Diamant
+hu:Gyémánt
+it:Diamante
+ja:ダイヤモンド
+ko:다이아몬드
+lzh:金剛石
+nl:Diamant
+pl:Diament
+pt:Diamante
+ru:Алмаз
+th:เพชร
+uk:Діамант
+zh:钻石

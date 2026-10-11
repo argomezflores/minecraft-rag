@@ -1,0 +1,85 @@
+TITLE: Conductivity
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Conductivity
+---
+Conductivity is a block property that determines whether redstone signals can be conducted through them (i.e. powered). When conductive blocks receive a redstone signal, they are able to activate redstone mechanism components, and may be able to power adjacent redstone dust. Conductive and non-conductive blocks also have properties not related to redstone; for example, mob spawning, and suffocation.
+
+Conductive blocks are often called opaque blocks because many common blocks that can be powered are opaque; for example, stone, dirt, wood. Non-conductive blocks are often called transparent blocks because the most common example is glass. However, whether or not you can see through the block does not determine whether a block can be powered. Most opaque blocks share a similar set of properties, and most transparent blocks share their own set.
+
+Properties
+Opaque full blocks (like stone) tend to be conductive while partial blocks (like slabs) or transparent blocks (like glass) tend to be non-conductive. However, there are numerous exceptions (see below).
+
+Many effects of conductivity are non-obvious. Minecraft does not have a single "solid" property for blocks, and for historical reasons, conductivity is sometimes used when a test for solidity is needed.
+
+thumb|The conductive gold block cuts the redstone dust, preventing it from connecting vertically and does not transmit a signal; the non-conductive tinted glass does not cut the redstone dust, allowing it to connect vertically and transmit a signal
+
+Common properties of conductive blocks:
+
+can be powered
+prevent chests from opening when placed on top of them
+can "cut" redstone dust (prevent redstone dust from connecting vertically, see image)
+redstone dust can transmit a signal up or down a conductive block
+redstone comparators can measure block state through a conductive block unless its power level is 15.
+
+Other properties may include:
+bats can hang upside down on conductive blocks
+ghast fireballs start fires on conductive blocks
+minecarts "bounce off" conductive blocks if a minecart passes over a powered rail pointing into a conductive block
+
+Common properties of non-conductive blocks:
+
+cannot be powered
+do not prevent chests from opening when placed on top of them
+mobs cannot spawn inside conductive blocks. Conductive blocks also play a part in the pack spawning algorithm.
+do not cut redstone dust (prevent from connecting vertically)
+redstone dust can only transmit a signal up a non-conductive block, not down
+redstone comparators cannot measure block state through non-conductive blocks
+
+Other properties may include:
+bats cannot hang upside down on them
+ghast fireballs do not start fires on them
+minecarts stop when passing over a powered rail and colliding with a non-conductive block
+
+Unique conductive blocks
+
+As noted above, most conductive blocks are full solid blocks with the exception of soul sand and mud (7/8 of a block tall).
+
+Mangrove roots, monster spawners, trial spawners, closed shulker boxes, big dripleaf, bells and barriers are the only conductive blocks that can be waterlogged.
+
+Target blocks, pistons, bells and jukeboxes are unique in that they connect to adjacent redstone dust.
+
+Unique non-conductive blocks
+
+Blocks of redstone, observers, and pistons are full solid blocks made of materials with the solid-blocking property, but are non-conductive.
+
+Non-conductive block placement behavior
+
+Many non-conductive blocks exhibit their own unique behavior regarding what blocks can be placed on them, and what blocks they can be placed on. See Opacity/Placement.
+
+For example, leaves are a full solid non-conductive block, but certain redstone-related blocks cannot be placed on them:
+
+, and its varieties
+
+List of conductive blocks
+
+This list contains the basic forms of blocks that share common properties of conductive blocks. All variants of these blocks (e.g. bricks, smooth, polished, cracked, etc.) are also conductive.
+
+List of non-conductive blocks
+
+This list contains blocks that share common properties of non-conductive blocks.
+
+Issues
+
+See also
+Solid block
+Opacity
+
+Navigation
+
+Category:Redstone mechanics
+Category:Block properties
+
+ja:伝導性
+ko:전도성
+pt:Condutividade (redstone)
+zh:红石电路/充能与激活

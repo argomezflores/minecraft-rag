@@ -1,0 +1,66 @@
+TITLE: Taming
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Taming
+---
+thumb|300px|Tamed wolves with dyed collars
+Taming is a mechanic that allows the player to domesticate a wild mob.
+
+List of mobs
+Tameable
+For riding after being tamed
+
+Pets that follow player after being tamed
+
+Trusting
+Mobs that trust the player, do not flee, and do not despawn.
+
+Rideable
+Some mobs are always rideable, without needing to tame them. Riding these mobs usually requires them to be equipped with a saddle.
+
+Mechanics
+thumb|300px|Two tamed parrots on the player's shoulders
+Each animal can be tamed via different mechanics. Wolves can be tamed by giving the animal bones. Cats and parrots can be tamed by giving the animal its favorite food. Once tamed, these animals follow the player unless told to sit. Tamed wolves fight alongside their master. Tamed wolves and cats can be bred, and they stop hunting animals by themselves. Tamed parrots can ride on the player's shoulder and mimic nearby mob sounds.
+
+Horses, donkeys, mules, llamas, trader llamas, and zombie horses can be tamed by repeatedly mounting the animal until it stops bucking the player off. Feeding them their favorite foods makes taming them easier. Once tamed, these animals can be bred and given equipment. Tamed horses, donkeys and mules can be controlled while riding, but only if equipped with a saddle.
+
+, skeleton horses do not need a saddle to be controlled while riding, while , skeleton horses are tamed by default after the horse trap is triggered.
+
+Upon the death of a pet wolf, cat, parrot, nautilus, or zombie nautilus the message is broadcast to the pet's owner  or to all players in the server . , death messages are also produced upon the death of a pet horse, zombie horse, donkey, mule, llama, or trader llama.
+
+Trusting
+Some mobs that cannot be tamed can still trust the player. These mobs will not flee from trusted players, and they do not despawn.
+thumb|110px|A trusting fox holding an egg in its mouth
+
+A fox's trust cannot be gained if it spawns naturally, however baby foxes born after the player breeds two adult foxes will trust the player. When the fox matures into an adult, it will attack some mobs if they attack the player.
+
+An ocelot's trust can be gained by feeding it raw cod or salmon.
+
+Special items
+These are the foods and other items that are helpful in taming animals or otherwise gaining their trust. No items are usable for taming skeleton horses.
+
+MobItems
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+de:Zähmen (Begriffsklärung)
+fr:Apprivoisement
+ja:手懐け
+ko:길들이기
+pt:Domesticação
+zh:驯服

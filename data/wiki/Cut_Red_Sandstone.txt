@@ -1,0 +1,55 @@
+TITLE: Cut Red Sandstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cut_Red_Sandstone
+---
+Cut red sandstone is a variant of red sandstone, obtained through crafting.
+
+Obtaining
+Breaking
+Cut red sandstone can be mined with any pickaxe. If mined without a pickaxe, the block drops nothing.
+
+Crafting
+
+Crafting recipe: Red Sandstone, Red Sandstone, Red Sandstone, Red Sandstone arranged in the crafting grid → Cut Red Sandstone,4.
+
+Stonecutting
+
+Usage
+Unlike red sand, cut red sandstone is never affected by gravity.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+
+fr:Grès rouge taillé
+ko:깎인 붉은 사암
+lzh:割赤砂
+pt:Arenito Vermelho Lapidado
+uk:Тесаний червоний пісковик
+zh:切制红砂岩

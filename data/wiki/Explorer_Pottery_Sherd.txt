@@ -1,0 +1,43 @@
+TITLE: Explorer Pottery Sherd
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Explorer_Pottery_Sherd
+---
+An explorer pottery sherd is a pottery sherd that depicts a map. It can be found in cold ocean ruins.
+
+Obtaining
+Breaking
+Breaking a decorated pot causes it to drop all of the bricks and pottery sherds used to craft it, meaning it drops each of the explorer pottery sherds that were used to craft it.
+
+Generated loot
+
+Usage
+Crafting ingredient
+Explorer pottery sherds can be used to craft decorated pots.
+
+Crafting recipe: Explorer Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; Explorer Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; Explorer Pottery Sherd; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}; Explorer Pottery Sherd arranged in the crafting grid → Decorated Pot.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Pottery sherds
+
+pt:Óstraco de Mapa
+ru:Глиняный черепок «Исследователь»
+th:เศษเครื่องปั้นดินเผาลายนักสำรวจ
+zh:探险纹样陶片

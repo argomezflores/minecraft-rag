@@ -1,0 +1,88 @@
+TITLE: Potion of Strength
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Strength
+---
+A potion of Strength is a potion that provides Strength when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Blaze Powder + Awkward Potion → Potion of Strength.
+
+Brewing recipe: Redstone Dust + Potion of Strength → Potion of Strength Extended.
+
+Brewing recipe: Glowstone Dust + Potion of Strength → Potion of Strength Enhanced.
+
+Brewing recipe: Gunpowder + Potion of Strength Extended → Splash Potion of Strength Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Strength Extended → Lingering Potion of Strength Extended.
+
+Generated loot
+Each trial chambers supply chest can generate with 2 to 10 potions of Strength in it.
++ Exact chances # of potions  Chance-->
+0         2         4         6         8  1 in  10  1 in
+
+Usage
+Effect
+Potion type Tier Duration Effect DescriptionPotion 1 Regular: 3:00  Extended: 8:00 JE: Increases melee damage by . BE: Increases melee damage by 30%, and then by . 2 1:30 JE: Increases melee damage by . BE: Increases melee damage by 69%, and then by .Splash Potion 1 Regular: 3:00  Extended: 8:00The same as the corresponding drinkable potion. 2 1:30Lingering Potion 1 Regular: 0:45  Extended: 3:00 2 0:22
+
+Base potion
+The potion of Strength is a base for brewing potions of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Strength → Potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Strength Extended → Potion of Weakness Extended.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Strength; Lingering Potion of Strength Enhanced; Lingering Potion of Strength Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Strength, 8; Arrow of Strength Enhanced, 8; Arrow of Strength Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended  Level II Potion of Strength  14  15  16
+
+Item data
+
+:
+
+Regular, splash, and lingering potions all use a "" tag inside "" component to indicate the potion type.
+PotionRegularLevel IIExtended Potion of Strength  strength  strong_strength  long_strength
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+In other media
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de force
+pt:Poção de Força
+zh:力量药水

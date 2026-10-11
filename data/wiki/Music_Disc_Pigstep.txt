@@ -1,0 +1,66 @@
+TITLE: Music Disc Pigstep
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_Pigstep
+---
+"Pigstep" refers to both a song composed by Lena Raine, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from bastion remnants.
+
+Obtaining
+Generated loot
+
+Track description
+
+File:Pigstep.ogg
+
+The title "Pigstep" is a  of "piglin" and "dubstep".
+
+The song is an intense, somewhat hip-hop-style beat beginning with a repeating cello-like tune and dubstep-style drop, along with more mellow parts reminiscent of a radio. The song was featured in A Minecraft Movie.
+
+The album release of "Pigstep" includes two versions: the mono mix used in the game and a stereo mix with more usage of multi-directional sound.
+
+Usage
+Like all music discs,  the "Pigstep" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "Pigstep", it emits a redstone signal of 13.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Pigstep - Mono Mix" pigstep.ogg music_disc.pigstep
+
+:
+
+Soundtrack Title File name Sound events "Pigstep - Mono Mix" pigstep_master.ogg record.pigstep
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Part of "Pigstep" can be heard in  when equipping .
+In ,  is seen dancing to Pigstep while doing an audition for  in a flashback.
+A remix of "Pigstep" known as "Pigstep (Just Dance Version)" is a playable song in Just Dance +.
+In Minecraft Legends, sometimes after killing a patrol of piglins, an part of "Pigstep" can be heard.
+
+References
+
+Navigation
+
+Category:Lena Raine
+Category:Minecraft: Nether Update (Original Game Soundtrack)
+Category:Music discs
+
+fr:Disque Pigstep
+ja:Pigstep
+ko:음반 Pigstep
+pt:Disco Musical Pigstep
+ru:Пластинка «Pigstep»
+uk:Платівка «Pigstep»
+zh:音乐唱片Pigstep

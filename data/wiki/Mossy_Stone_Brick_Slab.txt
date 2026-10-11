@@ -1,0 +1,62 @@
+TITLE: Mossy Stone Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mossy_Stone_Brick_Slab
+---
+A mossy stone brick slab is a decorative slab variant of mossy stone bricks that generates in ruined portals and is used for building.
+
+Obtaining
+Breaking
+Mossy stone brick slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Mossy stone brick slabs generate as part of ruined portals in the Overworld.
+
+Crafting
+
+Crafting recipe: Mossy Stone Bricks, Mossy Stone Bricks, Mossy Stone Bricks arranged in the crafting grid → Mossy Stone Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a mossy stone brick slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Gallery
+In other media
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle de pierre taillée moussue
+ja:苔むした石レンガのハーフブロック
+ko:이끼 낀 석재 벽돌 반 블록
+pt:Laje de Tijolos de Pedra Musgosos
+uk:Плита з моховитої кам'яної цегли
+zh:苔石砖台阶

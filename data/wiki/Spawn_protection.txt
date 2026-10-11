@@ -1,0 +1,32 @@
+TITLE: Spawn protection
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Spawn_protection
+---
+Spawn protection prevents players from building around world spawn, undoing any attempts at placing or breaking blocks.
+
+Description
+Spawn protection only exists in dedicated servers and does not apply in singleplayer worlds or LAN worlds. Spawn protection only applies in the Overworld, since the world spawn is always in the Overworld.
+
+The spawn-protection field in server.properties determines the side length of the square spawn protection area as 2x+1. Setting this to 0 or a negative value disables the spawn protection. A value of 1 protects a 3×3 square centered on the spawn point, 2 protects 5×5, 3 protects 7×7, etc. The area that it protects is (spawn-protection×2 + 1)×(spawn-protection×2 + 1).
+
+Operators (in the ops.json) can bypass the spawn protection.
+
+If there are no operators at all in the server, spawn protection does not apply.
+
+There are several indirect  ways to bypass spawn protection, namely activating pistons, dispensers, explosives and using mob griefing.
+
+History
+
+Issues
+
+References
+
+Navigation
+
+Category:Server
+
+fr:Zone protégée
+ja:リスポーン地点の保護
+pt:Proteção de geração
+ru:Защита спауна
+zh:出生点保护

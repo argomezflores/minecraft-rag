@@ -1,0 +1,45 @@
+TITLE: Disc Fragment
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Disc_Fragment
+---
+A disc fragment is an item obtained from ancient city loot chests. Nine fragments can be combined in a crafting table to make music disc "5".
+
+Obtaining
+Generated loot
+
+Usage
+Crafting ingredient
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+
+Navigation
+
+de:Plattenbruchstück
+es:Fragmento de disco
+fr:Fragment de disque
+it:Frammento di disco
+ja:レコードの破片
+ko:음반 파편
+lzh:留聲盤殘片
+pl:Fragment płyty
+pt:Fragmento de Disco
+ru:Осколок пластинки
+th:ชิ้นส่วนแผ่นเสียง
+uk:Фрагмент платівки
+zh:唱片残片

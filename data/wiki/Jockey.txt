@@ -1,0 +1,163 @@
+TITLE: Jockey
+CATEGORY: Mobs
+URL: https://minecraft.wiki/w/Jockey
+---
+260px|right|thumb|A spider jockey.
+260px|right|thumb|A group of skeleton horsemen.
+
+A jockey refers to a naturally-spawned mob riding another mob. The mob on the top often controls the mob on the bottom , but sometimes does not control it .
+
+Most jockeys are named based on the mob being ridden. The exceptions to the "jockey" naming scheme are the skeleton horseman and zombie horseman.
+
+List of jockeys
+; a camel husk ridden by a husk wielding a spear and a parched passenger.
+; a baby zombie, husk, or a gurgle (or zombie villager or zombified piglin in ) riding a chicken or most common mobs in .
+; a baby hoglin ridden by one to three baby piglins.
+Zoglin Jockey; a baby zoglin ridden by one to three baby zombified piglins, if a hoglin jockey is brought to the Overworld or The End.
+; a ravager ridden by an illager, most commonly being a pillager.
+; a skeleton horse ridden by a skeleton with an enchanted iron helmet.
+; a spider ridden by a skeleton or a stray, (or bogged, parched, or wither skeleton in ).
+; a cave spider ridden by said skeletons.
+There are two types of strider jockeys:
+; a strider ridden by a zombified piglin.
+; a strider ridden by a baby strider.
+; a zombie horse ridden by a zombie wielding a spear.
+; a zombie nautilus ridden by a drowned wielding a trident.
+
+Removed
+; a chicken ridden by a giant.
+
+Most jockeys spawn in similar conditions to their respective mobs, except for baby zombie (variant) riders , which can mount any mob.
+
+Mounting
+
+, 15% of naturally spawned baby zombies, baby husks, and gurgles can mount other mobs when spawned. This includes baby zombies summoned by monster spawners and spawn eggs. Such a mob can be summoned with the minecraft:as_baby_jockey spawn event.
+
+The following mobs can be mounted:
+
+Due to a bug, baby zombified piglins jockeys don't spawn properly.They don't spawn due to , as the  spawn event does not exist.
+
+Due to another bug, baby zombie villagers cannot mount mobs as jockeys.
+
+Summoning
+
+Jockeys can also be manually summoned using commands:
+
+Chicken Jockey
+In Java Edition:
+
+In Bedrock Edition, it requires two commands:
+
+Variants of zombies or ridden mobs can be summoned by replacing chicken and zombie respectively.
+
+Camel Husk Jockey
+In Java Edition:
+In Bedrock Edition:
+
+Cave Spider Jockey
+In Java Edition:
+In Bedrock Edition:
+
+Hoglin Jockey
+In Java Edition:
+
+In Bedrock Edition, it requires two commands:
+
+Ravager Jockey
+In Java Edition:
+
+This command summons a ravager with a pillager rider.
+
+This command summons a ravager with a vindicator rider.
+
+This command summons a ravager with an evoker rider.
+
+In Bedrock Edition:
+
+This command summons a ravager with a pillager rider.
+
+This command summons a ravager with a vindicator rider.
+
+This command summons a ravager with an evoker rider.
+
+This command summons a ravager with a pillager rider, but the pillager drops special loot upon death.
+
+This command summons a ravager with a vindicator rider, but the vindicator drops special loot upon death.
+
+This command summons a ravager with a pillager rider, but the pillager is a raid captain.
+
+This command summons a ravager with a vindicator rider, but the vindicator is a raid captain.
+
+Skeleton Horseman
+Skeleton horsemen can be manually summoned by both the regular method and by spawning a skeleton trap.
+
+A skeleton trap spawns 4 skeleton horsemen.
+
+In Java Edition:
+
+In Bedrock Edition:
+
+Spider Jockey
+In Java Edition:
+
+In Bedrock Edition: . Note: It only works during nighttime or underground.
+The following command summons a skeleton variant 80% of the time when in a biome with skeleton variants:
+
+Strider Jockey
+Zombified piglin riding strider:
+In Java Edition:
+
+In Bedrock Edition:
+
+Baby strider riding adult strider:
+In Java Edition:
+
+In Bedrock Edition:
+
+Zombie Horseman
+In Java Edition: }}}]}
+In Bedrock Edition:
+
+Zombie Nautilus Jockey
+In Java Edition: }}}]}
+In Bedrock Edition:
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Renders
+
+Mounts
+
+See also
+Mob
+
+References
+
+Navigation
+
+Category:Mobs
+
+de:Reiter (Begriffsklärung)
+es:Jinete
+fr:Cavalier
+it:Cavalcatore
+ja:ジョッキー
+ko:조키
+pt:Jóquei
+ru:Наездники
+zh:骑士

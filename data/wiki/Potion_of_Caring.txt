@@ -1,0 +1,30 @@
+TITLE: Potion of Caring
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Caring
+---
+A potion of Caring is a joke potion exclusive to Java Edition 15w14a that provides Caring when used. It replaces the data value of both potions of Slowness and potions of Poison.
+
+Obtaining
+Brewing
+
+Brewing recipe: Spider Eye + Awkward Potion Revision 1 → Potion of Caring (Poison).
+
+Brewing recipe: Gunpowder + Potion of Caring (Poison) → Splash Potion of Caring (Poison).
+
+Usage
+Effect
+Caring makes mobs move toward the nearest mob as if it were to attack it.
+Potion type Tier Duration Effect DescriptionPotion 1 Instant Causes mobs to change their AI to move toward the nearest mob as if it were to attack it. 12Splash Potion 1 12
+
+Sounds
+
+Data values
+ID
+
+Metadata
+
+Issues
+
+Navigation
+
+Category:Potions

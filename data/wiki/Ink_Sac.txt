@@ -1,0 +1,87 @@
+TITLE: Ink Sac
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Ink_Sac
+---
+An ink sac is an item dropped by a squid upon death. It can be used to craft black dye, dark prismarine, and books and quills.
+
+Obtaining
+Mob loot
+
+Generated loot
+
+Fishing
+A stack of 10 ink sacs can be obtained as a "junk" item from fishing. Ink sacs are the rarest fishing loot, with a  chance of obtaining them from fishing with an unenchanted fishing rod. The Luck of the Sea enchantment decreases the chances of obtaining ink sacs.
+
+Compound creation
+Ink sac can be created from its base elements, using the compound creator.
+
+NameElementsExample recipeInk sac1 Iron1 Sulfur4 Oxygen
+
+Usage
+Crafting ingredient
+
+, ink sacs can be also used in banner patterns:
+
+Loom ingredient
+
+Dye
+
+Trading
+
+Signs
+Ink sacs can be applied to signs or hanging signs to revert glowing text back to default.
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+In other media
+
+External links
+
+Navigation
+
+Category:Bedrock Edition specific information
+Category:Items
+Category:Dyes
+
+cs:Váček inkoustu
+de:Tintenbeutel
+es:Saco de tinta
+fr:Poche d'encre
+hu:Tintazsák
+it:Sacca d'inchiostro
+ja:イカスミ
+ko:먹물 주머니
+lzh:墨
+nl:Inktzak
+pl:Torbiel z atramentem
+pt:Bolsa de Tinta
+ru:Чернильный мешок
+uk:Чорнильний мішок
+zh:墨囊

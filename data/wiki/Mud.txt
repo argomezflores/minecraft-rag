@@ -1,0 +1,100 @@
+TITLE: Mud
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mud
+---
+Mud is a block found abundantly in mangrove swamps or created by using a water bottle on any type of dirt block. It can be used for crafting or converted into clay using pointed dripstone.
+
+Obtaining
+Breaking
+Mud can be broken by hand and by any tool, but using a shovel speeds up the process.
+
+Natural generation
+Mud generates in the mangrove swamp biome. Mud can also generate in trail ruins and in some entrance rooms of trial chambers.
+
+Mob loot
+An enderman holding a mud block drops the block upon death.
+
+Post-generation
+a water bottle, splash water bottle, or lingering water bottle on a block of dirt, coarse dirt, or rooted dirt, will convert them into mud and return a glass bottle.
+
+Triggering a dispenser filled with a water bottle on these blocks will also convert them into mud.
+
+To turn dirt into mud, the water bottle cannot be used on the bottom face of the block. However, a dispenser can still be used even if it is used on the bottom face.
+
+Usage
+
+Mud is not a full block, and as such, it has some unique properties; entities standing on mud sink slightly into it, similar to soul sand. Unlike soul sand, however, mud does not slow the movement speed of mobs or players that walk on it. Falling blocks such as sand also drop as an item when landing on it, and a hopper that is under a mud block can collect items dropped on top of it.
+
+Items on top of mud move alongside it when it is pushed by a piston.
+
+Crafting ingredient
+
+Conversion
+Clay
+Placing mud above a block with a pointed dripstone hanging underneath the mud gives it a  (about 17.6%) chance per random tick to convert into clay, with an average conversion time of 388.4 seconds. Mud does not convert in the Nether.
+
+, using bone meal on a moss block or pale moss block with air above it converts the topmost mud blocks within a 7×11×7 area around it into moss blocks or pale moss blocks.
+
+Dirt
+Growing an azalea tree on top of mud or muddy mangrove roots, converts the mud beneath it into rooted dirt, which can be hoed into dirt.
+
+When a large spruce grows, it converts the mud beneath and around it into podzol.
+
+, when trees other than large spruce, azalea, mangrove, and fancy oak grow, the mud beneath them is converted into dirt.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+Announcement and tweet
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Development images
+
+Concept artwork
+
+In other media
+
+Notes
+
+References
+
+External links
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+
+de:Schlamm
+es:Barro
+fr:Boue
+ja:泥
+ko:진흙
+pl:Błoto
+pt:Barro
+ru:Грязь
+th:โคลน
+uk:Багно
+zh:泥巴

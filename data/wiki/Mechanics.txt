@@ -1,0 +1,137 @@
+TITLE: Mechanics
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Mechanics
+---
+Mechanics represent various aspects of the complex behavior of the Minecraft world.
+
+Basic mechanics
+Basic mechanics consist of vital mechanics used commonly by players:
+
+Movement
+
+: Players can switch to a prone (face-down) 0.6-block-high position to fit into 1-block-high spaces.
+: In Creative and Spectator modes (or if the player has the mayfly ability ), players can fly through a world.
+: Players wearing an elytra can glide through the world, optionally using firework rockets to gain speed and/or height.
+: Players jump onto blocks above their current foot level.
+: Players (and a few mobs) adopt a special 0.2-block-high position (prone, face-up) when sleeping.
+: Players can ride certain entities or mobs, such as minecarts, boats, horses and  saddled pigs. Mobs can also ride entities or mobs as well.
+: Players and many other mobs adopt a sitting position when riding an entity (boat, minecart) or mob.
+: Players can sneak to blur their nametags from other players, reduce their hitbox to fit into smaller places, reduce the range that mobs can detect them at, and prevent detection by sculk sensors and wardens.
+: Players can shift from "walking" to a faster "running" pace at the expense of hunger.
+: Players can travel on or under water without falling to the bottom, and can travel faster if swimming is combined with sprinting.
+: Players can travel any direction on a level surface.
+
+Combat and Mining
+: Players can block attacks using shields.
+: Players can break most blocks, sometimes requiring or benefiting from particular tools.
+Instant mining: Players can break certain blocks instantly, sometimes requiring particular tools, enchantments or effects to do so.
+: Entities (including players) can receive damage from the environment or other entities, potentially dying or being killed if they receive too much.
+Attack cooldown: After attacking, players need to wait some time to deal full damage with their next attack.
+Critical hits: Players can deal more damage by attacking while falling.
+: Entities (including players) can receive knockback upon being attacked.
+: Players that attack while sprinting will do a sprint-knockback attack, inflicting extra knockback and canceling their sprint.
+: Entities and mobs to drop particular items or blocks (including items carried in their inventory) when they die or are destroyed.
+: Players can wield 2 items, one in each hand. This includes shield use.
+: Some mobs shift their attack to another player or mob when attacked, even if they were already engaged with another target.
+
+Player status
+s: An optional progression tree that gradually fills as the player progresses in the game.
+s: A system similar to advancements.
+: Players collect experience points from various sources, and can use them to enchant or repair items.
+Game modes: Different ways to play and to interact with a world and its contents.
+: Players, mobs, and some other entities have a specific number of health points (shown in a GUI gauge); when these are all removed by damage, a player or mob is killed, while other entities are broken or destroyed.
+: Players, some mobs, and some other entities can recover health points via various means.
+Heads-up display: The HUD appears on screen while the player is in the game. It is superimposed on their view of the game world.
+: Players have a stock of "hunger" points; they can naturally heal damage (at the cost of hunger) if their hunger meter is full or nearly so, and sprinting requires a minimum hunger level.
+: Players have a stock of "saturation" points; they can prolong the time until they become hungry again, and regenerate faster when at full hunger.
+: The pop-up menu that the player uses to manage items they carry.
+: A feature that allows people to play in a language they prefer.
+s: Custom textures on the characters that players can modify at their own preferences.
+: Emotes are a part of the character creator that allows players to perform animations.
+: Various conditions (good, bad, or neutral) with limited duration, which can be inflicted on players or mobs in an assortment of ways.
+Third-person view: Allows the player to view the nearby environment from an "outside" perspective.
+
+Interactions and items
+: Players can use a brush on suspicious blocks to discover artifacts.
+: Players can use gold ingots to barter with piglins.
+: Players can breed certain mobs, producing "baby" versions that grow up over time.
+: With a brewing stand, players can brew potions.
+: Players can craft a variety of objects and materials, using the GUI for their inventory or a crafting table.
+: An in-game guide for players to learn, check or apply recipes. Recipes are unlocked when certain conditions are met, often when players get specific ingredients.
+: Tools, armor pieces and some weapons have a limited number of uses, the degree to which they are "worn out" is displayed in the main GUI and inventory.
+: Experience can be used to enchant armor, tools and weapons, granting them improved performance and/or special abilities.
+: Players can use a fishing rod to catch fish, and other items (some quite valuable), or to pull mobs and other entities closer to the player.
+: Players can repair items in various ways through a/an anvil, grindstone, crafting table, or their own inventory.
+: A mechanic that affects visibility, mob spawning, and plant growth.
+: Minecraft classify blocks into different types, more or less indicating what the block is "made of".
+Rarity: A statistic applied to items, blocks and advancements to signify their value and ease in obtaining.
+: Players can smelt/cook items in furnaces, smokers or blast furnaces, turning raw materials into more desirable forms.
+Tiers: Refer to the different levels of tools and weapons, depending on the material. They determine block minability, durability, mining speed multiplier, damage multiplier, enchantability, and item used for repairing.
+: Refer to the material that an armor item uses.
+: Mechanic that allows non-full-cube blocks to be filled with a water source block, both occupying the same space.
+: A mechanic that allows layers of snow to occupy the same block space as certain types of vegetation.
+
+World events
+: As time passes, the sun and moon move through the sky, and the outdoor light level changes, affecting mob spawning.
+: Occasional groups of illagers can spawn near players.
+Tutorial hints: Tabs in the top right corner of the player's screen that appear when a player starts a world in Survival mode for the first time on a device.
+: The world experiences rain, overcast, snow, and storms, with effects varying by biome.
+: If a player remains active near a village overnight, an invasion of zombies may appear.
+
+Complex mechanics
+
+Complex mechanics represent extended world behavior that may be unfamiliar to some players. These mechanics are most useful to experienced players who need to accomplish complex tasks.
+
+Block related
+: These mechanics allow players to repair and/or combine two items, to give an item a custom name, or to crush entities that walk beneath anvils while they are falling.
+: These mechanics allow players to use an enchanting table at their maximum potential through the usage of bookshelves.
+: These mechanics allow players to use Nether portals to efficiently and accurately travel between the Overworld and Nether dimensions.
+: The redstone mechanics allow players to build and use complex devices in-game, composed of multiple interacting blocks and entities.
+Redstone circuits: Basic types of sub-mechanisms used for event processing, logic, and interaction with the environment.
+Redstone components: Any component that makes possible to create mechanisms.
+Block update detector: A BUD switch is a redstone mechanism that uses quirks in the game in order to detect changes in nearby blocks.
+: A property of dispensers, droppers, and pistons that allows them to be activated by anything that would activate the space above them, no matter what is actually in that space.
+
+Entity and structures
+Attributes: A system of buffs/debuffs that are properties on mobs and players. Attributes also have modifiers that adjust the strength of their effect.
+: The average quantity of each item that can be found in a naturally-generated chest, depending on its location.
+s: A physical event, generally destructive, that can be caused by several different circumstances.
+: Refers to the creation and placement of players and mobs in the Minecraft world.
+: The means through which a collection of NPC characters interact with each other and the player.
+: Players can use emeralds to buy items from villagers, or sell them items in exchange for emeralds.
+: If a player approaches a village while having the Bad Omen effect, they can summon a multi-wave invasion against the village.
+
+World related
+: A measurement of the absolute height of things in a Minecraft world.
+s: Different regions of a world with distinct topographic and environmental features, as well as flora and fauna.
+s: 16-by-16-block-wide areas that Minecraft uses to manage a world.
+: A measurement of the absolute, 3-dimensional location of things in a Minecraft worlds.
+Structures: Buildings that generate in all 3 dimensions.
+World seed: A string of characters or numbers, based upon which an entire Minecraft world is created.
+: Determines whether the world generates by default, or in particular ways.
+
+Non specific
+Bossbar: A bar that appears on the game when a pillager raid, ender dragon fight, and a fight with the wither.
+Difficulty: An option that has a direct impact on the ease of gameplay, allowing the game's challenges to be tailored to the player's skill level.
+: Refers to the possibility of an item or block to be obtained multiple times on Survival or Adventure modes.
+: A complex gameplay mechanic utilized through commands. Scoreboards are used to track, set, and list the scores of entities in a myriad of different ways.
+Tint: Tints are applied to several blocks, items and particles in order to modify the color their textures use
+
+Unintended mechanics
+
+Mechanics that are not intended to exist. These can cease to exist on any update as Mojang fixes bugs and glitches.
+
+Blocks and items
+Duplication: A process to clone blocks and items with the usage of glitches.
+Instant repeaters: Refreshing a redstone signal with absolutely no delay. It involves uses of BUD-powered pistons.
+: Also known as the Z-X rule, is an unintentional mechanic wherein various effects occur based on the cardinal directions, specifically in a south-east variant.
+Survival bedrock breaking: Bedrock blocks are intended to be indestructible on Survival, but the usage of glitches can break them.
+Zero-ticking: Making a redstone signal turn on and off in the same tick, go over how this could be used, particularly with its uses on pistons.
+
+Entities
+End Crystal invulnerability: A glitch that makes possible to get indestructible end crystals.
+X-ray glitches: X-ray glitches allow the player to see certain features that are normally hidden behind blocks.
+
+Navigation
+
+es:Mecánicas

@@ -1,0 +1,58 @@
+TITLE: Diorite Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Diorite_Stairs
+---
+Diorite stairs are a decorative stairs variant of diorite that generate in snowy tundra villages and are used for building.
+
+Obtaining
+Breaking
+Diorite stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Diorite stairs generate as part of snowy tundra villages.
+
+Crafting
+
+Crafting recipe: Diorite, Diorite, Diorite, Diorite, Diorite, Diorite arranged in the crafting grid → Diorite Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en diorite
+ja:閃緑岩の階段
+ko:섬록암 계단
+pt:Escadas de Diorito
+ru:Диоритовые ступени
+th:บันไดหินไดออไรต์
+uk:Діоритові сходи
+zh:闪长岩楼梯

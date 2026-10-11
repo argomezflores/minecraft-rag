@@ -1,0 +1,65 @@
+TITLE: Frogspawn
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Frogspawn
+---
+Frogspawn is a non-solid block laid by frogs when they are bred, which hatches into tadpoles over time. It cannot be obtained as an item or moved by a piston.
+
+Obtaining
+Frogspawn is unobtainable as an item in Survival mode. When broken, it always drops nothing, even if mined with a Silk Touch tool.
+
+Breaking
+
+Post-generation
+Frogspawn is produced by one frog that has been bred with another. After two frogs are bred with slimeballs, one of them travels to the nearest water block or waterlogged block with air above, and lays a frogspawn block.
+
+Usage
+Hatching
+A random number of ticks between 3600 (3 minutes) and 12000 (10 minutes) is picked as a hatching delay. After delay passes, 2–5 tadpoles are spawned.
+
+The hatching speed of frogspawn is not affected by the game rule random_tick_speed.
+
+Placement
+Frogspawn can be placed only on top of a water source block with air above it.
+
+, due to a bug, frogspawn and lily pads can be placed on water even by players in Adventure game mode.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Animal blocks
+Category:Non-solid blocks
+Category:Createable blocks
+Category:Utility blocks
+
+de:Froschlaich
+es:Huevas de rana
+fr:Oeufs de grenouille
+ja:カエルの卵
+ko:개구리알
+lzh:鼃子
+pl:Żabi skrzek
+pt:Ovos de Sapo
+ru:Лягушачья икра
+uk:Жаб'яча ікра
+zh:青蛙卵

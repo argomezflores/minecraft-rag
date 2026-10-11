@@ -1,0 +1,55 @@
+TITLE: Blackstone Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Blackstone_Stairs
+---
+Blackstone stairs are a decorative stairs variant of blackstone that generate in bastion remnants and are used for building.
+
+Obtaining
+Breaking
+Blackstone stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Blackstone stairs generate as part of bastion remnants.
+
+Crafting
+
+Crafting recipe: Blackstone, Blackstone, Blackstone, Blackstone, Blackstone, Blackstone arranged in the crafting grid → Blackstone Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en roche noire
+ja:ブラックストーンの階段
+ko:흑암 계단
+lzh:墨石階
+pt:Escadas de Pedra-Negra
+ru:Чернокаменные ступени
+th:บันไดหินดำ
+uk:Чорнокам'яні сходи
+zh:黑石楼梯

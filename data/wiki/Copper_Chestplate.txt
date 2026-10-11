@@ -1,0 +1,65 @@
+TITLE: Copper Chestplate
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Copper_Chestplate
+---
+A copper chestplate is a variant of chestplate crafted from copper ingots. It is the sixth-highest tier of chestplate, having higher armor points and durability than a leather tunic.
+
+Obtaining
+Crafting
+
+Crafting recipe: Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot, Copper Ingot arranged in the crafting grid → Copper Chestplate.
+
+Mob loot
+Zombies, husks, zombie villagers, skeletons, strays, bogged, and parched have a small chance to spawn wearing armor, which may include a copper chestplate. There is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop the chestplate they're wearing upon death. The dropped chestplate is usually badly damaged, and may be enchanted with enchantment levels 5-19.
+
+Generated loot
+
+Usage
+When worn, a copper chestplate provides  armor points.
+
+Repairing
+Two damaged copper chestplates can be combined through crafting or using the grindstone. The durability of the used copper chestplates are added together, plus an extra 5% durability. Both the crafting table and grindstone methods do not keep the enchantments of either chestplate.
+
+Anvil repair
+
+A copper chestplate can also be repaired in an anvil by adding copper ingots, with each ingot restoring 25% the copper chestplate's maximum durability, rounded down. Two copper chestplates of the same tier can also be combined in an anvil. Both methods using the anvil preserves a copper chestplate's enchantments.
+
+Enchantments
+A copper chestplate can receive the following enchantments:
+
++NameDescriptionMax levelMethodWeightProtectionProtection, Projectile Protection, Blast Protection, and Fire Protection are mutually exclusive.Increases overall damage reduction.IV10Projectile ProtectionIncreases damage reduction against projectiles.IV5Blast ProtectionIncreases damage reduction against explosions.IV2Fire ProtectionIncreases damage reduction against fire.IV5ThornsDeals returning damage to attackers.III1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the chestplate when obtaining experience.I2Curse of VanishingThe chestplate vanishes on death, not dropping as an item.	I1Curse of BindingRemoves the ability to de-equip the chestplate.I1
+
+Armor trimming
+It is possible to upgrade armor with trims. This requires a smithing template, a copper chestplate, and an ingot or crystal (iron ingot, copper ingot, gold ingot, netherite ingot, emerald, redstone dust, lapis lazuli, amethyst shard, nether quartz, diamond, or resin brick).
+
+These trims have no effect on the gameplay or strength of the armor.
+
+Smelting ingredient
+
+Smelting recipe: Copper Chestplate → Copper Nugget.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Renders
+
+In other media
+
+Navigation
+
+fr:Plastron#Cuivre
+pt:Peitoral de Cobre

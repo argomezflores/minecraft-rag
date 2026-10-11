@@ -1,0 +1,31 @@
+TITLE: Potato Pedicule
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Pedicule
+---
+Potato pedicules are chain-like blocks that generate naturally in the Potato dimension in 24w14potato.
+
+Obtaining
+Breaking
+Potato pedicules can be broken with any tool and drop themselves as an item.
+
+Natural generation
+Potato pedicules generate naturally as part of potato trees, potato mineshafts, and potato villages.
+
+Usage
+Potato pedicule can be used as a decorative block in a similar manner to chains.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Joke features
+Category:Natural blocks
+Category:Generated structure blocks
+
+ja:Potato Pedicule
+zh:马铃薯果柄

@@ -1,0 +1,43 @@
+TITLE: Hardened Glass Pane
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Hardened_Glass_Pane
+---
+A hardened glass pane is a type of block obtained by crafting with glass panes and several compounds. It also comes in 16 colors as stained variants, although a player must first dye regular glass panes into stained glass panes beforehand.
+
+Obtaining
+Breaking
+Unlike a normal glass pane, a hardened glass pane drops as an item to be picked up again when broken with any tool or by hand. It also takes significantly longer to break.
+
+Crafting
+
+Crafting recipe: Aluminum Oxide, Aluminum Oxide, Aluminum Oxide, Glass Pane, Glass Pane, Glass Pane, Boron Trioxide, Boron Trioxide, Boron Trioxide arranged in the crafting grid → Hardened Glass Pane,3.
+
+Sounds
+
+Data values
+ID
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+See also
+
+Navigation
+
+Category:Manufactured blocks
+Category:Minecraft Education blocks
+Category:transparent blocks
+de:Gehärtete Glasscheibe
+es:Panel de cristal reforzado
+fr:Vitre en verre trempé
+ja:強化ガラス板
+ko:강화된 유리판
+pl:Wzmocniona szyba
+pt:Painel de Vidro Temperado
+ru:Укреплённая стеклянная панель
+uk:Панель із загартованого скла
+zh:强化玻璃板

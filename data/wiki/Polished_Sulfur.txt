@@ -1,0 +1,52 @@
+TITLE: Polished Sulfur
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Sulfur
+---
+Polished sulfur is a decorative polished variant of sulfur.
+
+Obtaining
+Breaking
+Polished sulfur drops as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Sulfur, Sulfur, Sulfur, Sulfur arranged in the crafting grid → Polished Sulfur,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Polierter Schwefel
+es:Azufre pulido
+fr:Soufre poli
+it:Zolfo levigato
+ja:磨かれた硫黄
+pt:Enxofre Polido
+ru:Полированная сера
+th:กำมะถันขัด
+uk:Полірована сірка
+zh:磨制硫黄

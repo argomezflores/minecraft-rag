@@ -1,0 +1,80 @@
+TITLE: Froglight
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Froglight
+---
+A froglight is a light-emitting block that is obtained when a frog eats a tiny magma cube. It comes in three variants based on the variant of frog that eats the magma cube.
+
+Obtaining
+Breaking
+Froglights drop as an item when broken with any tool or by hand. Breaking speed is always the same; no specific tool can break a froglight faster.
+
+Mob loot
+
+A tiny magma cube drops a froglight when it is eaten by a frog. There are three colors of froglight that drop depending on what type of frog eats the magma cube:
+
+Frog typeFroglight color Warm Pearlescent  Temperate Ochre  Cold Verdant
+
+Usage
+Froglights have a smooth texture and can be used as light sources. They emit light level 15, the highest level possible for a light-emitting block. Froglights also melt snow layers within 3 blocks and ice within 4 blocks (taxicab distance).
+
+Froglights can be placed in three different orientations, similar to logs, deepslate, and basalt.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+According to a Block of the Month article, small magma cubes are mistaken for small slimes by frogs, which try to eat them, realize their mistake, and then spit them out.
+One name that was considered for the pearlescent froglight during development was the "blanc froglight".
+According to content creator PearlescentMoon, Agnes Larsson said the pearlescent froglight is named in reference to her. (00:05:10)  While at the Stockholm office, PearlescentMoon jokingly asked Agnes if the block was named after her, to which Agnes said that they were thinking of her when they named the block.
+Pearlescent and verdant froglights have nearly exact opposite hues.
+
+Gallery
+Mojang screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Light sources
+
+de:Froschlicht
+es:Ranaluz
+fr:Grelampe
+ja:フロッグライト
+ko:개구리불
+lzh:鼃光
+pl:Żabia lampa
+pt:Anfibrilho
+ru:Квампа
+th:ไฟกบ
+uk:Жаб'яче світло
+zh:蛙明灯

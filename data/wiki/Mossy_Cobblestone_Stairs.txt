@@ -1,0 +1,56 @@
+TITLE: Mossy Cobblestone Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mossy_Cobblestone_Stairs
+---
+Mossy cobblestone stairs are a decorative stairs variant of mossy cobblestone that generate in pillager outposts and are used for building.
+
+Obtaining
+Breaking
+Mossy cobblestone stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Mossy cobblestone stairs generate as part of pillager outposts.
+
+Crafting
+
+Crafting recipe: Mossy Cobblestone, Mossy Cobblestone, Mossy Cobblestone, Mossy Cobblestone, Mossy Cobblestone, Mossy Cobblestone arranged in the crafting grid → Mossy Cobblestone Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en pierres moussues
+ja:苔むした丸石の階段
+ko:이끼 낀 조약돌 계단
+pt:Escadas de Pedregulho Musgoso
+ru:Замшелые булыжные ступени
+th:บันไดหินหยาบมอสส์
+uk:Сходи з моховитого кругляку
+zh:苔石楼梯

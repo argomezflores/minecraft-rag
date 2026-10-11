@@ -1,0 +1,135 @@
+TITLE: Farmland
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Farmland
+---
+Farmland is a block created by  a hoe on most types of dirt, and is required to grow seeds, carrots and potatoes. Water and rain can hydrate farmland, improving crop growth. It reverts to dirt if broken, landed on repeatedly or left dehydrated and unplanted long enough.
+
+Obtaining
+Farmland can be obtained only by executing commands, via the Creative inventory or the  control in Creative mode.
+
+Breaking
+The suitable tool to break farmland is shovel.
+
+Farmland drops 1 dirt block when it's destroyed.
+
+Natural generation
+Farmland occurs naturally in villages where wheat, potatoes, carrots, beetroots, pumpkin stems, and melon stems are grown. Patches of farmland are surrounded by logs or sandstone, spruce trapdoor, and cobblestone. Farmland also naturally occurs in certain woodland mansion rooms.
+
+Post-generation
+A player can create a block of farmland by  a hoe on a dirt block, grass block, or dirt path. Using a hoe on coarse dirt or rooted dirt turns them into regular dirt, which can then be tilled into farmland by using the hoe once more. Mycelium and podzol cannot be turned into farmland.
+
+Usage
+Farmland is required to grow most types of crops: wheat seeds, carrots, potatoes, beetroot seeds, melon seeds, pumpkin seeds, torchflower seeds, and pitcher pods.
+
+Plants such as saplings, ferns, grass, dry grass, cactus flowers, pink petals, wildflowers, flowers, azaleas, flowering azaleas, bushes, dead bushes, firefly bushes, and sweet berry bushes may be planted on farmland. Mushrooms, sugar cane, bamboo, twisting vines, and cacti cannot be planted on farmland.
+
+Wall-mounted blocks such as ladders and torches cannot be attached to the side of a farmland block. Farmland is a partial block (15/16 of a block in height), so mobs cannot spawn on it.
+
+Hydration
+thumb|right|Conditions in which farmland either is or isn't hydrated
+A farmland block is created dry and eventually reverts to dirt if not hydrated and nothing is planted on it.
+
+For farmland to become hydrated, water must be present:
+up to four blocks away horizontally (including diagonally) from the farmland block.
+at the same level or one block above the farmland block level.
+
+The blocks between the farmland block and the water make no difference. Whether the water is flowing or still also makes no difference.
+
+The rate at which farmland becomes hydrated cannot be changed. Each farmland block within a 9×9 grid of farmland with a single water block in the middle has exactly the same chance of becoming hydrated as a single farmland block in an ocean.
+
+Farmland can also be hydrated by rain.
+
+Different types of seeds grow faster on hydrated farmland than on dry farmland. Hydrated farmland yields a fully developed wheat crop in a little over a single day/night cycle.
+
+Decay
+Farmland eventually decays into normal dirt if it's dehydrated and nothing is planted in it. Additionally, a farmland block becomes a dirt block, regardless of its state of hydration, if any of the following occur:
+
+The player or any mob jumps/falls on the block (with chance equal to distance fallen - 0.5).
+The player can trample farmland even in Adventure mode.
+The mobGriefing gamerule must be true for mobs to trample farmland.
+, mobs smaller than 0.512 cubic blocks cannot destroy farmland. This includes parrots, rabbits, chickens, bats, ocelots, cats, wolves, foxes, cave spiders, endermites, silverfish, baby mobs, small slimes, and small magma cubes.
+A piston arm is extended over a farmland block.
+A piston pushes a farmland block down.
+A solid block covers the top surface of the farmland block such as when pumpkin or melon blocks appear, or when trees grow.
+An enderman teleports directly on top of a farmland block.
+
+When farmland decays, any crops growing on the block are dropped as items, as if they were harvested.
+
+A ravager does not turn farmland to dirt when stepping on it, but it does destroy all crops.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Farmland has a 1 in 16 chance to be trampled when walking onto it from a slab next to it.
+Farmland does not revert to dirt if the player jumps onto it, if a block is two blocks above the farmland being jumped on.
+According to the developer, Xilefian, "there's code that makes crops grow faster if they're in rows with a space between them."
+
+Gallery
+
+In other media
+
+See also
+Farming
+
+References
+
+External links
+
+Navigation
+
+Category:Utility blocks
+Category:Createable blocks
+Category:Generated structure blocks
+
+de:Ackerboden
+es:Tierra de cultivo
+fr:Terre labourée
+hu:Termőföld
+it:Terra zappata
+ja:耕地
+ko:경작지
+lzh:疇
+nl:Akkerland
+pl:Pole uprawne
+pt:Terra Arada
+ru:Грядка
+uk:Рілля
+zh:耕地

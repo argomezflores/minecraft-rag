@@ -1,0 +1,38 @@
+TITLE: Double Compressed Poisonous Potato Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Double_Compressed_Poisonous_Potato_Block
+---
+A double compressed poisonous potato block is a compacted block made of compressed poisonous potato blocks, only present in 24w14potato.
+
+Obtaining
+Breaking
+A double compressed poisonous potato block can be broken using anything, but a pickaxe is the fastest. Double compressed poisonous potato blocks always drop themselves when mined.
+
+Crafting
+
+Crafting recipe: Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block, Compressed Poisonous Potato Block arranged in the crafting grid → Double Compressed Poisonous Potato Block.
+
+Usage
+Crafting ingredient
+
+Crafting recipe: Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block, Double Compressed Poisonous Potato Block arranged in the crafting grid → Triple Compressed Poisonous Potato Block.
+
+Crafting recipe: Double Compressed Poisonous Potato Block arranged in the crafting grid → Compressed Poisonous Potato Block,9.
+
+Sounds
+
+Data values
+
+Issues
+
+Trivia
+The hardness of the double compressed poisonous potato block is 81 times more than the hardness of the poisonous potato block as 81 poisonous potato blocks make up one double compressed poisonous potato block.
+This block has the third-longest name, just being beaten by the waxed lightly weathered cut copper stairs and the quadruple compressed poisonous potato block, but tied with the triple compressed poisonous potato block.
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Compacted blocks
+
+ja:Double_Compressed_Poisonous_Potato_Block

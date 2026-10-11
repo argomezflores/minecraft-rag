@@ -1,0 +1,44 @@
+TITLE: South-east rule
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/South-east_rule
+---
+The south-east rule, also known as the Z-X rule, is an unintentional mechanic wherein various effects occur based on the cardinal directions, specifically in a south-east variant.
+
+Effects
+The following list contains effects that happen, relating to the south, east, or south-east cardinal directions, including:
+
+Rails curve south or east when they are initially placed at a "T" intersection or a "+" intersection. They also curve away from the south or east when powered.
+An exception to this is if there is an intersection on a downhill rail track, the minecart continues on the downhill track, even if the south-east rule applies. (see Rail#Downhill rule)
+Any mobs that are spawned by spawn eggs, , monster spawners, the player, or by breeding, always appear to be facing the southern direction initially.
+TNT cannons tend to fire farther when facing east or south.
+Many bugs cause problems relating to south and east, such as villagers trying to cram into the house that is mostly in the southern-eastern area of the village.
+When the player is exactly inside the middle of a block, they are pushed out of the block north-east.
+2×2 trees are unable to grow, if north, west or northwest diagonal block is occupied up to the final height of the tree.
+When the player first spawns into the world, they spawn facing south.
+
+Model and texture orientation
+Blocks can be split into 3 categories based on the model behavior.
+Always the same way (only has 1 orientation, no other facing version exists); for example, cobblestone, planks, bookshelf, ores, etc.
+The texture orientation is based on the location of the block, not dependent on the placing direction (dirt, grass blocks)
+Based on the mode of placing, it uses a certain predictable orientation/block state (glazed terracotta, furnace, piston, logs)
+
+History
+
+See also
+Coordinates
+Compass
+Debug screen
+Rotation
+
+Navigation
+
+pl:Zasada południowego wschodu
+
+Category:Game terms
+
+fr:Règle du sud-est
+ja:東南の規則
+lzh:東南法則
+pt:Regra do sudeste
+ru:Юго-восточное правило
+zh:东南规则

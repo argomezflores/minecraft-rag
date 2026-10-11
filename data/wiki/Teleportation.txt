@@ -1,0 +1,57 @@
+TITLE: Teleportation
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Teleportation
+---
+Teleportation is a form of transportation in which the moving object is instantaneously moved to its target location.
+
+Overview
+Teleportation can occur under numerous circumstances. The target object appears to instantly be at its destination afterward, usually playing a sound in the process (cases, where they do not, are not accidental). It can also refer to entities traveling through portals.
+
+Player teleportation
+Throwing an ender pearl.
+Eating a chorus fruit.
+Using the  command.
+Passing through a nether portal, end portal, exit portal or end gateway.
+Entering a bed.
+Mounting a horse, mule, donkey, llama, camel, saddled pig or saddled strider.
+Entering a boat or minecart.
+Dying and respawning.
+Quitting and re-logging the game while above the Nether roof.
+
+Other mobs
+Other mobs can teleport via other methods:
+
+Tamed wolves, cats, and parrots teleport to their owner if not sitting and their owner is far enough away.
+Endermen teleport under numerous circumstances.
+Shulkers are also capable of teleportation.
+As with players, foxes can teleport upon consumption of chorus fruit.
+Other entities can also be teleported using .
+They can be teleported by passing through a nether portal, end portal, exit portal or end gateway.
+
+Non-entities
+Dragon eggs can also teleport when clicked on.
+
+Ender chests allow the same set of items to be accessed from multiple locations, effectively teleporting them.
+
+Sounds
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Transport
+
+fr:Téléportation
+pt:Teletransporte

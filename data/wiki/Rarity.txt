@@ -1,0 +1,95 @@
+TITLE: Rarity
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Rarity
+---
+Rarity is a statistic applied to items and blocks to signify their value and ease in obtaining. Rarity only affects the displayed color of an item name and has no effect on gameplay whatsoever.
+
+There are four rarity tiers: Common, Uncommon, Rare, and Epic. The rarity of an item is generally based on the difficulty of getting it, the time it takes to obtain it and the ingredients used to craft it.
+
+The rarity of an item can be increased by giving it enchantments. A Common or Uncommon becomes Rare, and a Rare item becomes Epic. Epic items stay Epic, since that is the maximum rarity. Adding enchantments multiple times does not increase the rarity of an item any further.
+
+Displaying in game
+Rarity  In-game appearance  Hex colorCommon    Uncommon    Rare    Epic
+
+Rarity is intended to display anywhere the item name does.
+
+It is shown in the following situations:
+Item tooltips in the inventory
+Item tooltips above the hotbar
+Item tooltips in the statistics screen
+Death messages or  command in chat
+
+Rarity colors do not display in the following cases:
+Item tooltips from an item frame
+Contents tooltips from a shulker box
+The CanPlaceOn/CanBreak tags of an item
+Item names in the Superflat customization screen
+
+Tiers
+According to Mojang, the rarity tier of an item is determined based on the following guidelines:
+
+The rarity of an item are manually and individually determined. They may not necessarily reflect on the actual practical difficulty of obtaining, as there are several inconsistencies. For example:
+All netherite equipment is considered Common, even though the required upgrade template is Uncommon
+Wither skeleton skulls are the easiest mob head to obtain, yet are considered Rare, despite most other heads being Uncommon
+Wither roses are Common, despite requiring wither skeleton skulls to obtain, which are Rare
+
+In addition, despite being unobtainable as items in Survival mode, blocks such as bedrock, farmland, dirt paths, budding amethyst, chorus plants, and end portal frames are still considered Common.
+
+Common
+
+class=pixel-image|thumb
+
+The Common rarity applies to all items that do not have a dedicated rarity tier.
+
+, enchanted books are Common rarity.
+
+Uncommon
+class=pixel-image|thumb
+This tier mostly contains easier-to-obtain treasure items and materials, as well as some useful equipment.
+
+Rare
+class=pixel-image|thumb
+This tier mostly contains rare treasures, materials, and equipment that require more effort to obtain.
+
+Epic
+class=pixel-image|thumb
+This tier is mostly reserved for extremely difficult-to-obtain treasures and powerful equipment based on game progression. In , most administrative items also belong here.
+
+All items of base (no enchantments) Epic rarity are non-renewable.
+
+Administrative
+
+These items are Epic rarity , but are Common rarity (or do not exist) .
+
+History
+
+Java Edition
+Due to being the default rarity, items with the rarity of Common are not listed here when added to the game - such items will only be mentioned if their rarity changes.
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+In April Fools' snapshot 24w14potato, the "Potato" rarity was added, displaying green text: Potato.
+
+Notes
+
+References
+
+Navigation
+
+es:Rareza
+fr:Rareté
+it:Rarità
+ja:希少度
+ko:희귀도
+lzh:罕
+pl:Rzadkość
+pt:Raridade
+ru:Редкость
+th:ความหายาก
+uk:Рідкісність
+zh:稀有度

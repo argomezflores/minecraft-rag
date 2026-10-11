@@ -1,0 +1,50 @@
+TITLE: Polished Sulfur Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Sulfur_Stairs
+---
+Polished sulfur stairs are a decorative stairs variant of polished sulfur.
+
+Obtaining
+Breaking
+Polished sulfur stairs drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Sulfur, Polished Sulfur, Polished Sulfur, Polished Sulfur, Polished Sulfur, Polished Sulfur arranged in the crafting grid → Polished Sulfur Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+es:Escaleras de azufre pulido
+fr:Escalier en soufre poli
+it:Scalini di zolfo levigato
+ja:磨かれた硫黄の階段
+ko:윤나는 유황 계단
+pt:Escadas de Enxofre Polido
+ru:Ступени из полированной серы
+uk:Сходи з полірованої сірки
+zh:磨制硫黄楼梯

@@ -1,0 +1,114 @@
+TITLE: Brown Mushroom
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Brown_Mushroom
+---
+A brown mushroom is a fungus found in the Overworld and the Nether. It can only be  in mycelium, nylium, podzol, or darkness, which also allows it to spread over time or receive bone meal to grow into a huge brown mushroom.
+
+Obtaining
+Breaking
+Brown mushrooms can be instantly mined with any tool, including by hand.
+
+A brown mushroom also breaks instantly and drops as an item if:
+the block below it is moved or destroyed
+a fluid flows over it
+a block next to it changes state, but only when it is not on podzol, mycelium, or nylium and light level is 13 or higher
+
+Natural generation
+Brown mushrooms naturally generate in poorly lit areas (light level of 12 or less). If this condition is met, each chunk has a  (25.0%) chance to generate brown mushrooms in the form of random patches., they rarely generate because they cannot generate underground due to .
+
+Brown mushrooms also generate on the surface of a swamp under the trees, old growth spruce taiga, old growth pine taiga, or mushroom fields biome, along with anywhere in the Nether. Unlike plants, they are able to generate on top of nearly any block type.
+
+, brown mushrooms are commonly found in patches on the Nether roof, and alongside red mushrooms are the only blocks that can generate there.
+
+Brown mushrooms also generate inside "mushroom farm" rooms in woodland mansions.
+
+Fallen trees can have up to 2 mushrooms generated on them.
+
+Brown mushrooms also generate as part of abandoned camps in dappled forests.
+
+Huge mushrooms
+Breaking a brown mushroom block drops 0-2 brown mushrooms. Fortune does not affect the drop rate of mushrooms in any form.
+
+Mob loot
+Shearing a brown mooshroom drops 5 brown mushrooms and permanently turns it into a normal cow.
+
+Shearing a bogged drops 2 mushrooms, both of which can be brown.
+
+An enderman holding a brown mushroom drops it upon death.
+
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 brown mushrooms when killed while showing the item as trade offer, if the player holds an emerald.
+
+Generated loot
+
+Trading
+Wandering traders may sell 3 brown mushrooms for 1 emerald.
+
+Usage
+Planting
+Mushrooms can be planted and grown on blocks that have a full top surface in light levels below 13 and not directly underneath the sky. They cannot be planted on the top surfaces of slabs or stairs. For more information, see Opacity/Placement. If planted on mycelium, podzol or nylium, they can stay planted in any light level, including skylight. Both brown and red mushrooms grow at the same rate regardless of the light level.http://www.youtube.com/watch?feature=player_detailpage&v=ALkf-b7MbBI&t=864s
+
+Huge mushrooms
+
+When bone meal is applied to a brown mushroom, the mushroom has a chance to grow into a brown huge mushroom, provided that it is on a proper block (grass block, dirt, coarse dirt, rooted dirt, mud, muddy mangrove roots, moss block, or pale moss block at a light level of 12 or below; on podzol, mycelium or nylium at any light level) and is free of solid blocks within 5 blocks directly above the mushroom.
+
+Spread
+
+When receiving a random tick, a brown mushroom has a 4% chance of spreading to a nearby block (including even above and below diagonally) if there are fewer than five brown mushrooms in a 9×9×3 volume around the original brown mushroom.
+
+Light source
+Brown mushrooms emit a barely visible light level of 1. However, they do not emit light in flower pots.
+
+Decoration
+Brown mushrooms can be planted in a flower pot.
+
+Crafting ingredient
+
+Composting
+Placing a brown mushroom into a composter has a 65% chance of raising the compost level by 1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The brown mushroom is based on the edible Boletus edulis (penny bun).
+
+Gallery
+
+Screenshots
+
+References
+
+See also
+
+External links
+Taking Inventory: Mushroom – Minecraft.net on December 21, 2018
+
+Navigation
+
+Category:Fungi
+Category:Natural blocks
+Category:Non-solid blocks
+Category:Generated structure blocks
+Category:Light sources
+
+fr:Champignon brun
+pt:Cogumelo Marrom
+zh:棕色蘑菇

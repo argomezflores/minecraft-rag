@@ -1,0 +1,25 @@
+TITLE: Information Sign
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Information_Sign
+---
+An information sign was a decorative block used to inform nearby students about something.
+
+Usage
+Although decorative, informative sign blocks were meant to catch students' attention on something important.
+
+Availability
+Block can be found in Creative inventory. Only teachers can see this block in their inventory.
+Can also be given in Teacher menu "give" section.
+Can be distributed by console command or with a command block.
+
+Data values
+ID of this block is 3723.
+
+History
+
+Navigation
+
+Category:MinecraftEdu blocks
+
+ja:Information Sign
+pt:Sinal de informações

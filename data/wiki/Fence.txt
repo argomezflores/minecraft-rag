@@ -1,0 +1,88 @@
+TITLE: Fence
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Fence
+---
+thumb|All fences
+A fence is a barrier block that cannot normally be jumped over, similar to a wall. Unlike a wall, a player (but not mobs) can see through the openings in a fence.
+
+Variants
+Wooden Fence
+
+Obtaining
+Crafting
+All types of fences can be obtained through crafting.
+
+Crafting recipe: Matching Planks, Stick, Matching Planks, Matching Planks, Stick, Matching Planks arranged in the crafting grid → Matching Wooden Fence,3.
+
+Crafting recipe: Nether Bricks, Nether Brick, Nether Bricks, Nether Bricks, Nether Brick, Nether Bricks arranged in the crafting grid → Nether Brick Fence,6.
+
+Usage
+Barrier
+thumb|right|Wooden fences and Nether brick fences connected by fence gates. Notice that they do not form a connection directly between the two types of fences (in the middle).
+While fences appear to be a single block tall and have a hitbox height of one block, their collision box (for entities) is 1.5 blocks tall, meaning most mobs cannot jump over them without the Jump Boost status effect. They are transparent to light and have visual gaps in the model. Spiders can climb over a fence, just like any other vertical object. Camels can walk over fences.
+
+A fence occupies the center space of blocks and automatically connects to any solid block that is placed next to it. Wooden fences connect to other wooden fences, but do not connect to Nether brick fences. However, Nether brick fences connect to wooden fence gates. Mobs cannot pass between Nether brick fences and wooden fences, although players can.
+
+Additionally, if a carpet, trapdoor, moss carpet or pale moss carpet is placed above a fence, players are able to jump over the fence while other mobs are unable to, including mobs like zombies with similar attributes to players.
+
+Leads
+thumb|right|A horse tied to a tall fence post with a lead
+Fences can be used to attach mobs with a lead.
+
+Block states
+
+:
+
+:
+
+Videos
+
+History
+This table list changes affecting both wooden and Nether brick fences.
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+If a carpet is placed on top of a fence, a player can jump onto the carpet, while mobs cannot (except rabbits and camels).
+Placing a carpet on top of a fence does not reduce the fence or wall collision box down to one block, it just provides a platform one block high around the fence/wall to make it easier for climbing on the top of the fence.
+Getting hit by someone else (or shooting themselves with a Punch enchanted bow while sprinting forward) while in midair can cause the knockback to propel the player over a fence they would not be able to jump over normally.
+Projectiles get stuck in the collision box of the fence and remain there if shot from above.
+
+Gallery
+Screenshots
+
+References
+
+External links
+Block of the Month: Fence – Minecraft.net on December 1, 2022
+
+Navigation
+
+Category:Generated structure blocks
+Category:Nether blocks
+Category:Manufactured blocks
+Category:Utility blocks
+Category:Flammable blocks
+
+cs:Plot
+de:Zaun
+es:Valla
+fr:Barrière
+hu:Kerítés
+it:Staccionata
+ja:フェンス
+ko:울타리
+nl:Hek
+pl:Płot
+pt:Cerca
+ru:Забор
+th:รั้ว
+uk:Паркан
+zh:栅栏

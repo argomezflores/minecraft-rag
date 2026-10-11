@@ -1,0 +1,89 @@
+TITLE: Glass
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Glass
+---
+Glass is a transparent solid block that can be dyed into stained glass, or crafted into tinted glass. It is also a versatile crafting ingredient used to craft harnesses, glass panes, beacons, daylight detectors and End crystals.
+
+Obtaining
+Breaking
+Glass drops itself only if it is broken with a tool enchanted with Silk Touch. Otherwise, it drops nothing.
+
+Glass does not have an assigned tool; it is mined at the same speed regardless of what tool is used.
+
+Natural generation
+A secret room containing glass can be found inside woodland mansions.
+Glass is also generated in ancient cities.
+
+Smelting
+
+Smelting recipe: Sand; Red Sand → Glass, XP: 0,1.
+
+Trading
+
+Usage
+, glass blocks adjacent to other glass blocks are invisible when viewed through glass that is identical in color.
+
+Mobs cannot spawn on glass blocks.
+
+Glass blocks cannot be seen through by mobs, as they treat them as completely opaque. Mobs may look at players through glass, but this is purely visual.
+
+Redstone dust and components can be placed on glass, but cannot power glass. Glass can't cut vertical redstone. Vertical redstone can be placed on glass. , it transmits redstone signals up, not down. Otherwise, glass in redstone circuits is functionally the same as a top slab.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+
+References
+
+External links
+Block of the Week: Glass – Minecraft.net on May 12, 2017
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:transparent blocks
+cs:Sklo
+de:Glas
+es:Cristal
+fr:Verre
+hu:Üveg
+it:Vetro
+ja:ガラス
+ko:유리
+lzh:琉璃
+nl:Glas
+pl:Szkło
+pt:Vidro
+ru:Стекло
+th:กระจก
+uk:Скло
+zh:玻璃

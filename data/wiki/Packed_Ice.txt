@@ -1,0 +1,97 @@
+TITLE: Packed Ice
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Packed_Ice
+---
+Packed ice is a variant of ice that functions almost identically, but does not melt and is opaque instead of transparent. Like other types of ice, it can only be obtained using a Silk Touch tool.
+
+Obtaining
+Breaking
+Packed ice can be obtained using any tool enchanted with Silk Touch, though a pickaxe is the fastest. Without Silk Touch, breaking it drops nothing. Unlike normal ice, packed ice never turns into water when broken.
+
+Natural generation
+Packed ice is found in the rare ice spikes biome. It also forms icebergs found in frozen oceans. Packed ice also generates in frozen peaks and in ice patches.
+
+Packed ice generates as windows in igloos.
+
+Packed ice generates as piles (and in some houses or meeting points) in villages in snowy plains biome.
+
+Packed ice also generates in ancient cities and in trial chambers surrounding stray spawners.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Ice, Ice, Ice, Ice, Ice, Ice, Ice, Ice, Ice arranged in the crafting grid → Packed Ice.
+
+Trading
+Wandering traders can occasionally sell a block of packed ice for a single emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 packed ice when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+Crafting ingredient
+
+Speed
+Packed ice is slippery, causing most entities to slide, including items. This also allows for increased speed of items in water currents by placing the packed ice under the water current. Mobs do not travel faster in water currents on packed ice.
+
+, when a non-full block of half-block or less in height is placed on top of packed ice, the block inherits the same 'slipperiness' as the ice below it for most entities, not including boats due to a bug. Additionally, any non-full block inherits the 'slipperiness' for items.
+
+Boats can travel on packed ice with a top speed of 40 m/s. Ice tracks built from blue ice, packed ice, or a combination are useful for long-range travel in all three dimensions.
+
+Mobs can spawn on packed ice. This can allow for compact mob farms that rely on the tendency of pushed mobs to slide off the ice in some way.
+
+Packed ice is a completely solid block, and allows placement of any objects on top.
+
+Unlike normal ice, packed ice does not melt if placed near light sources.
+
+Packed ice is not a storage block, as it cannot be crafted back into ice.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+Notes
+
+References
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Manufactured blocks
+
+de:Packeis
+es:Hielo compacto
+fr:Glace compactée
+hu:Tömör jég
+it:Ghiaccio compatto
+ja:氷塊
+ko:꽁꽁 언 얼음
+lzh:夯冰
+nl:Pakijs
+pl:Zbity lód
+pt:Gelo Compactado
+ru:Плотный лёд
+th:น้ำแข็งอัดแน่น
+uk:Твердий лід
+zh:浮冰

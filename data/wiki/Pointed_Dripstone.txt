@@ -1,0 +1,121 @@
+TITLE: Pointed Dripstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Pointed_Dripstone
+---
+Pointed dripstone is a block found in dripstone caves that forms stalactites and stalagmites.
+
+Stalactites (which point downward) grow over time under certain conditions, can serve as falling projectiles, can renewably drip water and lava into cauldrons and convert mud into clay.
+
+Stalagmites (which point upward) deal extra damage to players and mobs that land on them.
+
+Obtaining
+Breaking
+Pointed dripstone can be mined with any tool, but pickaxes are the quickest. Pointed dripstone breaks instantly when hit by a thrown trident. However, it cannot be broken with any other projectile.
+
+Natural generation
+Pointed dripstone can be found in dripstone caves in cluster formations. It also generates in trial chambers (a trapped variant of spiral staircases, as well as the "Encounter 4" room).
+
+Trading
+Wandering traders have a chance to trade 2 pointed dripstones for 1 emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 2 pointed dripstones when killed while showing the item as trade offer, if the player holds an emerald.
+
+Post-generation
+
+Pointed dripstone can grow only if it is hanging directly under a dripstone block with a water source above (, a waterlogged block also works). It grows downward, forming a stalactite with a maximum length of 8 blocks. In addition, if there is a block with a full solid top surface less than 11 blocks below the tip of the stalactite, a stalagmite can grow on that block toward the stalactite. This does not occur if the stalactite is 8 or more blocks long. Neither stalactites nor stalagmites can grow if their tip is waterlogged.
+
+Pointed dripstone grows slowly, with an average time of 5 in-game days (100 minutes) for every single growth step. More precisely, every time the tip of a stalactite receives a random tick, there is a small chance of 1.138% () for it or the stalagmite below to grow one block.
+
+Usage
+Pointed dripstone comes in two different forms, stalactites and stalagmites. Placing a pointed dripstone between a stalagmite and stalactite without sneaking connects them. It can be waterlogged. Mobs can jump up pointed dripstone as long as its height does not exceed four blocks. Horses and other similar mobs can travel up the same pointed dripstone as if they were stairs.
+
+Stalactites
+thumb|75px|upright=0.5|A stalactite
+Stalactites are created when pointed dripstone is placed on the bottom of a block.
+
+Stalactites less than 11 blocks tall passively drip water particles (or lava particles in the Nether) in the absence of a liquid source, but these particles do not fill cauldrons. A waterlogged pointed dripstone at the tip of a stalactite does not produce drip particles. Waterlogging other parts of the stalactite does not affect the dripping.
+
+If the block supporting a stalactite or any block of the stalactite is broken, all of the unsupported pointed dripstone below the broken block drops, causing damage to any player and mobs standing beneath it, similar to a falling anvil. After 2 blocks' falling, the amount of damage is  per pointed dripstone falling (less than 6 will be counted as 6) per each block of falling distance in Java Edition, or  per each block of falling distance in Bedrock Edition. (e.g., one single pointed dripstone that falls 4 blocks deals  damage). The damage is capped at , no matter how far the stalactite falls. Wearing a helmet reduces the damage by , but this costs twice as much durability on the helmet as on other armor pieces. When a player dies by a stalactite falling on them, the death message "<player> was skewered by a falling stalactite" appears. However, if a player is merely touched by a falling stalactite entity, no damage is dealt unless the stalactite hits the ground in the same block where the player is located. Stalactites with multiple pointed dripstone can cause multiple damage; however, damage immunity prevents most of the damage from additional blocks.
+
+Cauldrons
+When the uppermost block of a stalactite less than 11 blocks tall gets randomly ticked, it checks for a waterlogged block or water source two blocks above it and a cauldron within 10 blocks under the tip with no non-air blocks in between. , open trapdoors, ladders and blocks with no collision box are also allowed. If both conditions are satisfied, there is a  (~17.6%) chance for it to drip water and fill the cauldron by one level. If there is a lava source above the stalactite, there is a  (~5.9%) chance for it to completely fill an empty cauldron with lava instead, making lava a renewable resource. Refilling a cauldron with water or lava averages nearly one Minecraft day (19+ minutes) although the actual time for any individual refill varies.
+
+Converting mud into clay
+If mud is placed above a block with a stalactite underneath, the mud eventually turns into clay. There is a  (~17.6%) chance of this happening when the uppermost block of a stalactite gets randomly ticked. This conversion does not happen in the Nether.
+
+Stalagmites
+thumb|75px|upright=0.5|A stalagmite.
+Stalagmites are created when pointed dripstone is placed on the ground.
+
+Falling onto the top most block of a stalagmite multiplies the fall distance by two to calculate the total amount of fall damage, using the formula ceil(fall_distance × 2 − 2). A player or mob gets  damage each time they jump on top of a single stalagmite (with a normal jump height of  blocks). The distance traveled during the last game tick of falling time is not included in this calculation, making it slightly off at higher distances; see  for more information.
+
+If a player dies from falling onto a stalagmite, the death message "<player> was impaled on a stalagmite" appears.
+
+All mobs that are immune to fall damage do not take damage from falling into stalagmites; the same applies to the player if the game rule  is set to false.
+
+It is possible to climb up portions of stalagmites entirely composed of differently sized parts because of the different collision box sizes of the pointed dripstone that it composes of.
+
+Columns
+thumb|right|A naturally generated dripstone column
+
+Dripstone columns can be found naturally in dripstone caves, they are formed when stalactites and stalagmites join together in mid-air.  When grown, they stop where they join (unlike in real life).
+
+Columns can be created manually by stacking pointed dripstones on either the stalactite or the stalagmite or both until they join together, the last pointed dripstone placed being the most slender part of the whole column. Based on the direction of the last block placed, the shape of the column's slender part can vary.
+
+Crafting ingredient
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+Concept artwork
+
+References
+
+Navigation
+
+Category:Natural blocks
+Category:Hazardous blocks
+Category:Falling blocks
+Category:Generated structure blocks
+
+de:Spitzer Tropfstein
+es:Caliza puntiaguda
+fr:Spéléothème pointu
+it:Speleotema appuntito
+ja:鍾乳石
+ko:뾰족한 점적석
+pl:Spiczasty naciek
+pt:Espeleotema Pontiagudo
+ru:Капельник
+uk:Загострений сталактит
+zh:滴水石锥

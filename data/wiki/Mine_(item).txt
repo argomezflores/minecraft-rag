@@ -1,0 +1,22 @@
+TITLE: Mine (item)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Mine_(item)
+---
+A mine is an item that is created using a mine crafter or upon exiting a mine along with some experience, exclusive to 25w14craftmine.
+
+Obtaining
+A mine can be created via a mine crafter. When the player completes or fails the mine they created, the mine crafter will release the mine as an item. The mine will have a green glow if it was successfully completed, and will have a red glow if it was failed.
+
+Usage
+
+Upon crafting a mine using the mine crafter, the mine will appear in the middle of its interface, which when clicked allows the player to teleport to the mine. They can also be used on a mine revisitor in the Memory Lane of the hub to be able to revisit the archived mine.
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+ja:Mine (アイテム)
+zh:矿境（物品）

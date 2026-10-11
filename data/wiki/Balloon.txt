@@ -1,0 +1,63 @@
+TITLE: Balloon
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Balloon
+---
+Balloons are entities that float upward when placed.
+
+Obtaining
+Crafting
+
+Crafting recipe: Latex, Matching Dye, Latex, Latex, Helium, Latex, Latex, Lead, Latex arranged in the crafting grid → Matching Balloon.
+
+Crafting recipe: Latex, Bone Meal; Lapis Lazuli; Cocoa Beans; Ink Sac, Latex, Latex, Helium, Latex, Latex, Lead, Latex arranged in the crafting grid → White Balloon; Blue Balloon; Brown Balloon; Black Balloon.
+
+Usage
+When  on a mob, a fence, or a wall, balloons attach to the mob or block, similar to a lead. A balloon remains grounded if tied to a fence or a wall. When untied by right-clicking on it, a balloon rises into the air quickly.
+
+When a balloon is shot by an arrow, wind charge, or a trident, or floats into a solid block, it pops, summons particles, and is destroyed. It drops nothing. A balloon tied to a fence post bursts when a player strikes it from any direction.
+
+A balloon attached to a mob can lift up the mob, more slowly than the balloon rises on its own. If tied to a mob whose mass is less than or equal to 1, the balloon floats away and carries the mob high into the air, before both eventually disappear. Destroying or detaching the balloon from its suspended mob causes the mob to fall and take fall damage. When attached to a mob whose mass is above 1, the balloon floats up to the limit of its tether, briefly yanking the mob upward by a fraction of a block, but otherwise the mob remains on the ground.
+
+A heavier mob with mass above 1 falls slowly while attached to a balloon. The balloon despawns when the mob falls more than 16 blocks. Currently, the only heavy mob that can have a balloon attached is the iron golem. A balloon cannot be attached to a ravager.
+
+A player holding a balloon as an item falls normally and takes normal fall damage. Players cannot be attached to a balloon however.
+
+Attachable mobs and entities
+Generally, non-hostile terrestrial mobs can be attached to a balloon. A balloon can attach to almost any entity that a lead can attach to, except for axolotls, frogs, happy ghasts, nautiluses, sulfur cubes, and zombie nautiluses. Balloons can also attach to pandas and turtles, which leads cannot. A mob can have both a lead and balloon attached at the same time if the lead is attached before the balloon.
+
++ Balloon-attachable mobs/entities Mob/Entity Mass  0.5  1.0  0.5   1.0   1.0  1.0  1.0   0.6   0.6  1.0   1.0  (in water only) 1.0   1.0  0.6  0.5  1.0  1.0   1.0   2.0  1.0  1.0   1.0  0.7  1.0  1.0  0.75  1.0  0.4  0.75  0.6  1.0  1.0  0.5  1.0 If one or both trader llamas are lifted by balloons, the wandering trader attached to them by leads remains on the ground. 1.0  0.9  0.8  1.0  1.0
+
+Sounds
+
+Data values
+ID
+
+Metadata
+In Bedrock Edition, balloon items use the following data values:
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+In other media
+
+Navigation
+
+Category:Minecraft Education entities
+Category:Minecraft Education items
+
+de:Ballon
+es:Globo
+fr:Ballon
+it:Palloncino
+ja:風船
+ko:풍선
+pl:Balon
+pt:Balão
+ru:Воздушный шар
+uk:Куля
+zh:气球

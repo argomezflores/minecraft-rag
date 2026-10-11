@@ -1,0 +1,29 @@
+TITLE: Damage/Mobs
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Damage/Mobs
+---
+The damage mobs deal to players is affected by the difficulty setting of the world they are in. The values below represent the amount of damage taken per hit.
+For most attacks, the damage is scaled as follows: if a mob deals D damage on Normal difficulty, then it deals 1.5D on Hard difficulty and min(D, 0.5D+1) on Easy difficulty.
+A mob attacking another mob always deals its Normal difficulty damage regardless of the current difficulty setting.
+The values for a creeper, ghast, sulfur cube with TNT, and wither assume the player is directly adjacent to the respective explosion.
+The damage of slimes and magma cubes depends on their size. Tiny slimes, while hostile, are unable to inflict damage directly.
+Mobs deal no damage to players on Peaceful difficulty.
+The warden gives Darkness to nearby players, and elder guardians give Mining Fatigue, but these are not attacks. Players simply receive these effects when in range of the mobs.
+
+Mob Difficulty Status effects and special effects Easy Normal Hard     for 10 seconds on Normal difficulty and for 18 seconds on Hard difficulty  (melee)       to  to  to   for 4 seconds
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow    to  to   for 4 seconds  (melee)        for 7 seconds on Normal difficulty and for 15 seconds on Hard difficulty   (normal)  exploding: None
+If having a potion effect when exploding, it leaves an effect cloud with the effect, like a lingering potion.  (charged)   (normal)   (charged)         (ranged)   (ranged)   (melee)  (laser) III for 5 minutes on nearby players  (spikes)   (spikes)   (melee)  (wings)  (breath)  per second Area effect cloud of     per second           Target despawns after being pulled    (impact)   (explosion)       (laser)  (spikes)   to  to  to    to  to  to        when attacking any mob for 7 × floor of  seconds    to  to   spells on the player, if regional difficulty is 2 or greater  to  to  to       (big)  (medium)  (small)        (aggressive)  16px Parched arrow to   for 30 seconds when their tipped arrow hits any mob (including another parched)
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow  16px Parched arrow  to , varies with proximity to , varies with proximity  for 30 seconds when their tipped arrow hits any mob (including another parched)  (melee)         to  to      to  to    (melee with sword)   (melee with sword)   (melee without sword)    (unarmed)  to  to  to : None
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow     (melee)   (semi-puffed)  for 3 seconds  (fully puffed) for 6 seconds  (fully puffed)  for 10 seconds  (melee)   (roar)   for 10 seconds     to  to  to : None
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow    to , varies with proximity to , varies with proximity  (melee)   (big)   (medium)   (small)    to blazes     to   for 30 seconds when their tipped arrow hits any mob (including another stray)
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow    to , varies with proximity to , varies with proximity  for 30 seconds when their tipped arrow hits any mob (including another stray)  (melee)     (melee) for 9 seconds   (Magma Block)    (TNT)      (unarmed)   (unarmed)      (unarmed)  (unarmed)  (melee)  (ranged) Deals damage by throwing potions splash potions of , , , and    for 10 seconds   for 10 seconds  (unarmed) for 10 seconds   to  +  for 5 seconds to  +  for 5 seconds to  +  for 5 seconds: None
+If holding a tipped arrow or a spectral arrow in its off-hand: The effect of the arrow (birth explosion)  II for 10 seconds on Normal difficulty and 40 seconds on Hard difficulty  (explosion)   (dash attack)   Wolf  to  to  to           (unarmed)
+Category:Gameplay
+
+es:Daño/Criaturas
+ja:ダメージ/Mob
+ko:피해/몹
+pt:Dano/Criaturas
+ru:Моб/Урон
+th:Damage/Mobs
+uk:Моб/Шкода

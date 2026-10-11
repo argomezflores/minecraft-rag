@@ -1,0 +1,77 @@
+TITLE: Leather
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Leather
+---
+Leather is an item used to craft bundles, books, saddles, armor, and other items.
+
+Obtaining
+Mob loot
+
+A fox sometimes spawns holding leather, which always drops upon death. Alternatively, a player can drop a food item, causing the fox to drop the leather in favor of that food.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Rabbit Hide, Rabbit Hide, Rabbit Hide, Rabbit Hide arranged in the crafting grid → Leather.
+
+Fishing
+Leather can be obtained as a "junk" item from fishing, with a 1% default chance of getting it.
+
+Bartering
+Adult piglins may barter 2-4 leather with a chance of ~8.53% () when given a gold ingot.
+
+Villager gifts
+, leatherworker villagers throw leather at players under the Hero of the Village effect.
+
+Usage
+
+Crafting ingredient
+
+Trading
+
+Repairing
+
+Leather is the repair item for the leather armor, and thus can be used to repair the following items in an anvil:
+
+Achievements
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+In other media
+
+Navigation
+
+cs:Kůže
+de:Leder
+es:Cuero
+fr:Cuir
+hu:Bőr
+it:Cuoio
+ja:革
+ko:가죽
+nl:Leer
+pl:Skóra
+pt:Couro
+ru:Кожа
+th:หนังสัตว์
+uk:Шкіра
+zh:皮革

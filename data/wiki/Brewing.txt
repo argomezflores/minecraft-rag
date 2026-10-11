@@ -1,0 +1,150 @@
+TITLE: Brewing
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Brewing
+---
+thumb|300px|right|Brewing chart (most efficient recipes, excludes splash and lingering potions) for . Recipes may differ .
+Brewing is the process of creating potions, splash potions, lingering potions, and medicine by adding different ingredients to water bottles and other potions in a brewing stand.
+
+Brewing equipment
++ Name Icon Use Brewing stand  Used to brew potions using ingredients and water. Each brewing operation takes . Water  A water source block can be used to fill infinite glass bottles. Blaze powder  Fuels the brewing stand. Holds 20 charges. Water bottle  The starting base for all potions, made by filling a glass bottle from a cauldron or a water source block.
+
+Ingredients
+thumb|The GUI of a brewing stand.
+There is no provided in-game recipe book for brewing.
+
+Base ingredients and modifiers
+Base ingredients can be added directly to water bottles. Nether wart is used to make awkward potions, which is used as a base for most other potions.
+
+Modifiers are ingredients that alter a potion's properties, or change the potion into a different one.
+
+Different potions can be placed in the bottle slots to combine each of them separately with the modifier, such as brewing a Potion of Invisibility and a Potion of Fire Resistance with gunpowder to change both potions into splash potions.
+
+Name Icon When added to water bottle When added as a modifier Nether wart  Awkward potion — Redstone dust  Mundane potion Extends the duration of a potion. Glowstone dust  Thick potion Increases the level of a potion. Fermented spider eye  Potion of Weakness Changes the effect of a potion. Gunpowder  Splash water bottle Turns a potion into a splash potion.  Dragon's breath  Lingering water bottle  (from splash water bottle) Turns a splash potion into a lingering potion.
+
+Enhancement
+Generally, upgrading a potion involves a trade-off between duration and potency. A potion with an enhanced effect has shorter duration, and a potion with extended duration cannot have an enhanced effect. However:
+Upgrading the effect of a potion that has no time parameter (e.g. Instant Health) with glowstone dust involves no trade-off.
+Increasing the time of a potion that has no effects with different levels (e.g. Fire Resistance) with redstone dust involves no trade-off.
+
+Corrupting effect
+A fermented spider eye changes a potion's base effect, often reversing it or producing a negative potion.
+A corrupted potion usually does the opposite of the original effect.
+Corrupting an enhanced or extended potion into an effect that supports the modifier results in a potion with the same modifier applied.
+Enhanced potions of Leaping or Swiftness cannot be corrupted.
+, potions of Strength II corrupt into regular potions of Weakness.
+A potion of Invisibility is considered the "corrupted" version of a potion of Night Vision.
+
+thumb|right|Splash potion brewed using gunpowder
+
+Splash and lingering potions
+By adding gunpowder, a drinking potion can be turned into a splash potion, which can be thrown to coat entities within the place of impact with a status effect. Subsequently, adding dragon's breath to a splash potion makes a lingering potion, creating a cloud that inflicts effects on entities that enter its area.
+Splash potions and lingering potions can be modified in the same manner as their normal counterparts. For instance, a splash water bottle can be brewed with any of the base ingredients; the result remains a splash potion.
+The lingering potions can also be used to craft their respective versions of tipped arrows.
+there is an easier way of using cauldrons for the same effect.
+Splash potions have the same duration as the drinkable form.
+Lingering potions have only one-fourth of the duration of the drinkable form. For instance, a drinkable potion effect of 8:00 is reduced to 2:00 as a lingering potion.
+
+Effect ingredients
+Effect ingredients imbue an awkward potion with a particular effect but do not alter potion duration or intensity. When added directly to a water bottle, most of these ingredients produce a mundane potion. The exceptions to this are the golden carrot, pufferfish, turtle shell, and phantom membrane, which cannot be added directly to a water bottle. A corrupted version of a potion can be made by adding a fermented spider eye to it.
+
++Effect ingredients Name Icon Effect Effect when corruptedSugarSpeedSlownessRabbit's FootJump BoostGlistering Melon SliceInstant Health Instant DamageSpider EyePoisonBlaze PowderStrength None  WeaknessGolden CarrotNight Vision InvisibilityGhast TearRegeneration NonePufferfishWater BreathingMagma CreamFire ResistanceTurtle ShellSlowness + ResistancePhantom MembraneSlow FallingBreeze RodWind ChargedStoneInfestedCobwebWeavingFermented Spider EyeWeaknessSlime BlockOozingIce BallFreezing Unknown
+
+Brewing recipes
+Base potions
+Base potions are potions without effects, brewed by adding a single base ingredient to a water bottle. Of these, only the awkward potion can be imbued with an effect ingredient to create a potion with an effect.
+
++Base potions Potion Recipe(s) Precursor toAwkward potion Effect potionsMundane potion None Potion of WeaknessThick potion None Potion of Weakness
+
+Effect potions
+Effect potions are primarily created by adding an effect ingredient to an awkward potion, which is created by adding nether wart to a water bottle. Certain effects require a potion to be corrupted by a fermented spider eye. The potion of Weakness can additionally be created by simply adding a fermented spider eye to a water bottle, and it is the only potion that can be brewed without nether wart.
+
+Undead mobs react differently to effects than other mobs. They take damage from potions of Healing, gain health from potions of Harming, and are unaffected by potions of Poison and Regeneration.
+
+Positive effects
+Potion Recipe  Extended  Enhanced Effects Potion of Healing  — Potion of Healing Instant Health: Restores health by .
+Enhanced:Instant Health II: Restores health by . Potion of Fire Resistance( 3:00)  Potion of Fire Resistance( 8:00) — Fire Resistance: Gives immunity to damage from fire, lava, magma blocks, campfires, and blazes' fireballs. Potion of Regeneration( 0:45)  Potion of Regeneration( 1:30 2:00) Potion of Regeneration( 0:22) Regeneration: Restores health by  every 2.5 seconds.
+Enhanced:Regeneration II: Restores health by  every 1.25 seconds. Potion of Strength( 3:00)  Potion of Strength( 8:00) Potion of Strength( 1:30) Strength: Increases player's melee attack damage by .
+Enhanced:Strength II: Increases player's melee attack damage by . Potion of Swiftness( 3:00)  Potion of Swiftness( 8:00) Potion of Swiftness( 1:30) Speed: Increases movement speed, sprinting speed, and jumping length by 20%.
+Enhanced:Speed II: Increases movement speed, sprinting speed, and jumping length by 40%. Potion of Night Vision( 3:00)  Potion of Night Vision( 8:00) — Night Vision: Makes everything appear to be at the maximum light level, including underwater areas. Potion of Invisibility( 3:00)  Potion of Invisibility( 8:00) — Invisibility: Renders the player invisible. Equipped items are still visible. Potion of Water Breathing( 3:00)  Potion of Water Breathing( 8:00) — Water Breathing: Prevents the oxygen bar from depleting when underwater. Potion of Leaping( 3:00)  Potion of Leaping( 8:00) Potion of Leaping( 1:30) Jump Boost: Increases jump height by 50%.
+Enhanced:Jump Boost II: Increases jump height by 150%.  Potion of Slow Falling( 1:30)  Potion of Slow Falling( 4:00) — Slow Falling: Significantly reduces fall speed and acceleration and negates all fall damage.
+
+Negative effects
+Potion Recipe(s)  Extended  Enhanced Effects Notes Potion of Poison( 0:45)  Potion of Poison( 1:30 2:00) Potion of Poison( 0:21 0:22)) Poison: Depletes health by  every 1.25 seconds.
+Enhanced:Poison II: Depletes health by  every 0.6 seconds. No longer depletes health once at . Potion of Weakness( 1:30)  Potion of Weakness( 4:00) — Weakness: Reduces player's melee attack damage by . Can be used in combination with a golden apple to cure zombie villagers. Potion of Harming  — Potion of Harming Instant Damage: Inflicts  damage.
+Enhanced:Instant Damage II: Inflicts  damage. — Potion of Slowness( 1:30)  Potion of Slowness( 4:00) Potion of Slowness( 0:20) Slowness: Reduces movement speed by 15%.
+Enhanced:Slowness IV: Reduces movement speed by 60%. — Potion of Oozing( 3:00)  — — Oozing: Spawns two medium sized slimes nearby when killed. — Potion of Weaving( 3:00)  — — Weaving:
+
+Spawns 2–3 cobwebs nearby when killed.
+Doubles walking speed through cobwebs (from 25% to 50%). — Potion of Infestation( 3:00)  — — Infested: Has a 10% chance to spawn 1–2 silverfish nearby when hit. — Potion of Wind Charging( 3:00)  — — Wind Charged: Emits a wind burst when killed. —
+
+Mixed effects
+Potion Recipe  Extended  Enhanced Effects Potion of the Turtle Master(0:20)  Potion of the Turtle Master(0:40) Potion of the Turtle Master(0:20) Slowness IV, Resistance III: Reduces movement speed by 60% and reduces incoming damage by 60%.
+Enhanced:Slowness VI, Resistance IV: Reduces movement speed by 90% and reduces incoming damage by 80%.
+Bedrock Edition exclusive recipes
+Brewing recipes  are a superset of that , which means that all Java Edition recipes are also available in Bedrock Edition, but not the other way round.
+
+Potion  Recipe  Effect  Notes Potion of Weakness( 1:30)  Weakness: Reduces player's melee attack damage by . —Potions of Strength II are brewed into regular potions of Weakness.
+
+Cures
+
+Cures are brewed from awkward potions using different elements. Drinking these removes the specified bad effect. They cannot be modified into splash, lingering, extended, or enhanced versions.
+
+Potion Recipe Effect Antidote  Cures Poison Elixir  Cures Weakness Eye drops  Cures Blindness Tonic  Cures Nausea
+
+Un-brewable potions
+The uncraftable potion, potion of Luck and the potion of Decay cannot be brewed, and can be obtained only through commands or the Creative inventory (potions of Decay can be found in cauldrons inside swamp huts; the cauldron has a chance to generate containing a random potion, with potion of Decay being one possibility).
+
+Custom recipes
+
+, brewing recipes can be customized through addons using the same system as other recipes.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+
+Although Jeb said that in Java Edition Beta 1.9 Prerelease 3 there would be 161 possible different potion combinations with 2,653 in the future, in the actual third pre-release only 22 different potions could be made without the use of external programs. Of those, 19 potions had one of 8 different effects.
+By modifying the item NBT using an editor or commands, it is possible to get a potion that cannot be upgraded into a splash potion.
+
+Gallery
+Textures
+
+See also
+Crafting
+Enchanting
+
+Smelting
+
+References
+
+External links
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide
+Minecraft Potions - A Visual Guide
+Minecraft Commands - A Searchable Minecraft Database
+
+Navigation
+
+cs:Alchymie
+de:Brauen
+es:Alquimia
+fr:Alchimie
+he:רקיחה
+hu:Bájitalfőzés
+it:Distillazione
+ja:醸造
+ko:양조
+lzh:釀醱
+nl:Brouwen
+pl:Alchemia
+pt:Fermentação
+ru:Зельеварение
+th:การปรุงยา
+tr:İksircilik
+uk:Зіллєваріння
+zh:药水酿造

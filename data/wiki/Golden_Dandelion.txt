@@ -1,0 +1,98 @@
+TITLE: Golden Dandelion
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Golden_Dandelion
+---
+A golden dandelion is a craftable flower that can be  to baby mobs to pause their aging, or resume it by feeding another one to the same baby mob. It does not generate naturally and can only be obtained through crafting or the wandering trader.
+
+Obtaining
+Unlike other one-block-tall flowers , players cannot spread golden dandelions on top of nearby grass blocks by applying bone meal on a golden dandelion.
+
+Breaking
+A golden dandelion can be broken instantly with any item or by hand, dropping itself.
+
+A golden dandelion also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Crafting
+
+Crafting recipe: Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Dandelion, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget arranged in the crafting grid → Golden Dandelion.
+
+Trading
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 golden dandelion when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+Like other flowers, golden dandelions can be used as decoration, placed in flower pots, and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, pale moss blocks, mud, or muddy mangrove roots. Unlike other flowers however, golden dandelions cannot be composted, and neither attract nor get pollinated by bees.
+
+Baby mobs
+A golden dandelion can be  on a baby mob that normally ages (excluding villagers), which resets and locks its aging time ( for most mobs, or  for snifflets), prevents it from despawning, and displays downward-moving particles. One cannot be used if the mob has the  entity tag. The golden dandelion is consumed when used on a mob. If a second golden dandelion is used on the same mob, the mob resumes aging and upward-moving particles are displayed. The golden dandelion has a 2 second use cooldown per mob.
+
+Using a golden dandelion on a baby mob sets the NBT value  or  to 1. Using it again sets the NBT value back to 0.
+
+Crafting ingredient
+
+Suspicious stew
+
+Suspicious stew that is created using a golden dandelion imparts the Saturation effect for 0.35 seconds  or 0.3 seconds . The Saturation effect restores an additional  hunger and 14 saturation , or  hunger . The suspicious stew can be made using a golden dandelion or produced by feeding a dandelion to a non-baby brown mooshroom and then milking it with a bowl.
+
+Piglins
+Piglins run toward any golden dandelion item on the ground and inspect it for 6 seconds  or 8 seconds  before putting it in their inventory.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings planted within 2 blocks of a golden dandelion have a 5% chance to grow with a bee nest and 2–3 bees in it.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+Java Edition:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Publicity
+A day after the item's introduction, YouTube creator camman18 released a viral short that included the memetic phrase "the golden dandelion, which is a golden dandelion."
+In Minecraft Live – March 2026, the meme was shown in the Deep Dig, where camman18 was featured.
+
+Gallery
+
+Mojang images
+
+In other media
+
+References
+
+Navigation
+
+Category:Flowers
+
+de:Goldener Löwenzahn
+es:Diente de león dorado
+fr:Pissenlit doré
+it:Dente di leone d'oro
+ja:金のタンポポ
+ko:황금 민들레
+lzh:金蒲公英
+nl:Gouden paardenbloem
+pt:Dente-de-Leão Dourado
+ru:Золотой одуванчик
+th:ดอกแดนดิไลออนทอง
+uk:Золота кульбаба
+zh:金蒲公英

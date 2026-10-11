@@ -1,0 +1,54 @@
+TITLE: Black Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Black_Dye
+---
+Black dye is one of the sixteen available dyes.
+
+Obtaining
+
+Crafting
+
+Trading
+Wandering traders have a chance to trade 3 black dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 black dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+Navigation
+
+Category:Dyes
+
+de:Schwarzer Farbstoff
+es:Tinte negro
+fr:Teinture noire
+ja:黒色の染料
+ko:검은색 염료
+pl:Czarny barwnik
+pt:Corante Preto
+th:สีย้อมสีดำ
+zh:黑色染料

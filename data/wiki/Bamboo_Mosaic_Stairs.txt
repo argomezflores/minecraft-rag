@@ -1,0 +1,54 @@
+TITLE: Bamboo Mosaic Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bamboo_Mosaic_Stairs
+---
+Bamboo mosaic stairs are a decorative stairs variant of bamboo mosaics that do not generate naturally and are used for building.
+
+Obtaining
+Breaking
+Bamboo mosaic stairs can be broken with anything, but axes are the fastest.
+
+Crafting
+
+Crafting recipe: Bamboo Mosaic, Bamboo Mosaic, Bamboo Mosaic, Bamboo Mosaic, Bamboo Mosaic, Bamboo Mosaic arranged in the crafting grid → Bamboo Mosaic Stairs,4.
+
+Usage
+
+Fuel
+Bamboo mosaic stairs can be used as fuel in furnaces, smelting 1.5 items per block.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Flammable blocks
+Category:Stairs
+
+fr:Escalier en mosaïque de bambou
+ja:竹細工の階段
+ko:대나무 모자이크 계단
+lzh:竹嵌工階
+pt:Escadas de Mosaico de Bambu
+th:บันไดไม้ไผ่สาน
+uk:Сходи з бамбукової мозаїки
+zh:竹马赛克楼梯

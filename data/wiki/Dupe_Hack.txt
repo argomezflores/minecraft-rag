@@ -1,0 +1,31 @@
+TITLE: Dupe Hack
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Dupe_Hack
+---
+{{DISPLAYTITLE:minecraft:dupe_hack}}
+
+minecraft:dupe_hack is a joke item only present in Java Edition 23w13a_or_b. It does not have an item model.
+
+Obtaining
+Once the dupe_hack_occurrence_chance vote is approved, the dupe hack item has a random chance of dropping whenever an entity with chests is killed by a player, e.g. when destroying a minecart with chest with a sword.
+
+It doesn't appear in the Creative inventory, not even when the option "Operator Items Tab" is enabled, but can be given to the player with  and other commands.
+
+Usage
+The dupe hack item can be used to create a limited amount of duplicate items by placing it on a crafting table with any other item. It has a random chance of breaking, controlled by the dupe_hack_break_chance vote. This limitation can be mitigated by putting the items in a shulker box first and then duplicating the box.
+
+Crafting ingredient
+
+Data values
+ID
+:
+
+Issues
+
+Navigation
+
+Category:Joke items
+
+ja:Dupe Hack
+pt:Edição Java 23w13a or b/Dupe Hack
+zh:复制秘技

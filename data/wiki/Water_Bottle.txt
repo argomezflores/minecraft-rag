@@ -1,0 +1,102 @@
+TITLE: Water Bottle
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Water_Bottle
+---
+A water bottle is a glass bottle filled with water. It can be  onto dirt to convert it to mud, and is a required base ingredient to brew any potion.
+
+Splash water bottles and lingering water bottles are able variants obtained via brewing.
+
+Obtaining
+Glass bottle
+Using a glass bottle on a water source returns a water bottle. This can be automated using a dispenser.
+
+Using a glass bottle on a water-filled cauldron also returns a water bottle, decreasing the water level in the cauldron by one level. This does not work with a dispenser.
+
+Bartering
+When given a gold ingot, piglins have a  (~2.13%) chance to barter a water bottle.
+
+Fishing
+Water bottles can be fished up as junk items.
+
+Usage
+Base potions
+Water bottle is a base for multiple potions. Drinking it has no effect.
+
+Brewing recipe: Nether Wart + Water Bottle → Awkward Potion.
+
+Brewing recipe: Fermented Spider Eye + Water Bottle → Potion of Weakness.
+
+Brewing recipe: Redstone Dust; Breeze Rod; Stone; Slime Block; Cobweb; Magma Cream; Rabbit's Foot; Sugar; Glistering Melon Slice; Spider Eye; Ghast Tear; Blaze Powder + Water Bottle → Mundane Potion.
+
+Brewing recipe: Glowstone Dust + Water Bottle → Thick Potion.
+
+Mud conversion
+a water bottle, splash water bottle, or lingering water bottle on dirt, coarse dirt, or rooted dirt converts it into mud. This process can be automated with a dispenser. When the regular, splash, or lingering water bottle is used, it leaves a glass bottle in its inventory slot. Throwing splash and lingering water bottles does not convert the dirt into mud, and does not leave a glass bottle behind.
+
+Filling cauldron
+A water bottle adds 1 water level to a cauldron.
+
+Splash and lingering water bottles
+Splash water bottles have no effect on almost all entities, but they extinguish fire in the block hit and the four blocks horizontally surrounding it.
+
+A splash water bottle deals  damage to endermen, striders, snow golems, and blazes. Splash and lingering water bottles will also restore 1800 game ticks (90 seconds) of air to an axolotl. Splash water bottles can extinguish burning entities.
+
+In Java Edition, the lingering water bottle creates no effect cloud, while in Bedrock Edition it creates an effect cloud that extinguishes burning entities that walk into it.
+
+Brewing recipe: Gunpowder + Water Bottle → Splash Water Bottle.
+
+Brewing recipe: Dragon's Breath + Splash Water Bottle → Lingering Water Bottle.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Water Bottle, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Splashing, 8.
+
+Trading
+Wandering traders occasionally purchase a water bottle for a single emerald.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular Water Bottle  0
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Water Bottle  water
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Mojang images
+
+References
+
+Navigation
+
+Category:Drinks
+
+fr:Fiole d'eau
+pt:Frasco de Água
+zh:水瓶

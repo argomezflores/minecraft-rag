@@ -1,0 +1,63 @@
+TITLE: Blaze Rod
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Blaze_Rod
+---
+A blaze rod is an item obtained by killing blazes. It is required to craft brewing stands and blaze powder, which is required to fuel brewing stands and craft eyes of ender.
+
+Obtaining
+Mob loot
+
+Usage
+Crafting ingredient
+
+Fuel
+When used in a furnace, a blaze rod lasts 120 seconds (12 items).
+
+Achievements
+
+Advancements
+
+Videos
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+As part of an official collaboration, blaze rods are included in a free add-on for the roleplaying game .https://www.minecraft.net/content/dam/games/minecraft/software/Minecraft-Monstrous-Compendium.pdf In the game, they are worth 100 gold pieces, create light, and can be broken to create an explosion.
+
+References
+
+Navigation
+
+de:Lohenrute
+el:Οι ράβδοι των Blaze
+es:Vara de blaze
+fr:Bâton de Blaze
+hu:Lángrúd
+it:Verga di blaze
+ja:ブレイズロッド
+ko:블레이즈 막대기
+lzh:炎靈桿
+nl:Blazestaf
+pl:Płomienna różdżka
+pt:Vara de Blaze
+ru:Огненный стержень
+th:แท่งเบลซ
+uk:Стрижень пломеня
+zh:烈焰棒

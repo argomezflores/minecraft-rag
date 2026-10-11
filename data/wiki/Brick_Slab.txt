@@ -1,0 +1,62 @@
+TITLE: Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Brick_Slab
+---
+A brick slab is a decorative slab variant of bricks that generates in trail ruins and is used for building.
+
+Obtaining
+Breaking
+Brick slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Brick slabs generate as part of trail ruins.
+
+Crafting
+
+Crafting recipe: Bricks, Bricks, Bricks arranged in the crafting grid → Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a brick slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+ja:レンガのハーフブロック
+ko:벽돌 반 블록
+pt:Laje de Tijolos
+zh:红砖台阶

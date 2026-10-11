@@ -1,0 +1,70 @@
+TITLE: Green Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Green_Dye
+---
+Green dye is one of the sixteen available dyes.
+
+Obtaining
+Generated loot
+
+Smelting
+
+Smelting recipe: Cactus → Green Dye, XP: 1.
+
+Smelting recipe: Cactus → Green Dye, XP: 0,2.
+
+Trading
+Wandering traders have a chance to trade 3 green dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 green dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Items
+Category:Dyes
+
+de:Grüner Farbstoff
+es:Tinte verde
+fr:Teinture verte
+ja:緑色の染料
+ko:초록색 염료
+nl:Groene kleurstof
+pl:Zielony barwnik
+pt:Corante Verde
+ru:Зелёный краситель
+th:สีย้อมสีเขียว
+zh:绿色染料

@@ -1,0 +1,36 @@
+TITLE: Chiseled Purpur
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Purpur
+---
+Chiseled purpur is an unobtainable block in the purpur family, which looks identical to standard purpur blocks.
+
+Obtaining
+This block is not normally obtainable, and commands are therefore required; e.g.
+
+Breaking
+Chiseled purpur must be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Usage
+Chiseled purpur can be used as a construction material much like regular purpur blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+History
+
+Data history
+
+Issues
+
+See also
+
+Navigation
+
+Category:End blocks
+
+ja:模様入りプルプァ
+pt:Púrpura Cinzelada
+zh:雕纹紫珀块

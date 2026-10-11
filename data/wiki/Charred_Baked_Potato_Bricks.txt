@@ -1,0 +1,54 @@
+TITLE: Charred Baked Potato Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Charred_Baked_Potato_Bricks
+---
+Charred baked potato bricks are a smelted version of baked potato bricks, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Charred baked potato bricks take a very long time to mine due to their extremely high hardness. Even using a golden hoe with Efficiency V and a Haste II effect, mining them still takes almost 30 seconds. However, unlike other blocks with high hardness (e.g. trial spawners, reinforced deepslate), charred baked potato bricks drop as an item when mined.
+
+Smelting
+
+Smelting recipe: Baked Potato Bricks → Charred Baked Potato Bricks.
+
+This smelting process intentionally takes 20 ticks or 1 second, normally smelting processes lasts 200 ticks or 10 seconds as default.
+
+Natural generation
+Charred baked potato bricks naturally generate in colosseums, ruined portatols, and hash wells.
+
+Usage
+Crafting ingredient
+
+Crafting recipe: Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks arranged in the crafting grid → Charred Baked Potato Brick Slab.
+
+Crafting recipe: Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks arranged in the crafting grid → Charred Baked Potato Brick Stairs.
+
+Crafting recipe: Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks, Charred Baked Potato Bricks arranged in the crafting grid → Charred Baked Potato Brick Wall.
+
+Smelting ingredient
+
+Smelting recipe: Charred Baked Potato Bricks → Charcoal, XP: 0,15.
+
+Sounds
+
+Advancements
+
+Data values
+
+:
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Natural blocks
+Category:Generated structure blocks
+
+fr:Charred Baked Potato Bricks
+ja:Charred Baked Potato Bricks
+ko:태운 구운 감자 벽돌
+zh:焦糊的烤马铃薯砖

@@ -1,0 +1,32 @@
+TITLE: Mine Travelling Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mine_Travelling_Block
+---
+The mine travelling block is a block only present in Java Edition 25w14craftmine.
+
+Usage
+The mine travelling block is used to send the player in and out of a mine upon being clicked. It displays an ever-growing countdown using the action bar before teleporting the player to the dimension set or back to the Hub.
+
+Obtaining
+The mine travelling block cannot be obtained as an item even by using the  command. The block can be placed using commands such as  or , and naturally generates in the hub above a mine crafter and in the mine exit. It cannot be destroyed by tools or explosions.
+
+Sounds
+
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+Issues
+
+Notes
+
+Navigation
+
+ja:Mine Travelling Block
+pt:Edição Java 25w14craftmine/Mine Travelling Block
+ru:Путеводитель шахт
+zh:矿境传送方块

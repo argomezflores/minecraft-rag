@@ -1,0 +1,58 @@
+TITLE: Crawling
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Crawling
+---
+150px|thumb| Efe crawling 150px|thumb|Kai crawling
+Crawling is a mechanic that prevents the player from suffocating when inside small gaps. Crawling covers a pose that occurs when the player is in an area less than 1.5 blocks high.
+
+Entering crawling
+A player cannot crawl when there is no risk of suffocation. Crawling is initiated automatically in any situation that would cause the player's head to intersect a block in such a way that the area underneath the block is less than 1.5 blocks. For example:
+
+Closing a trapdoor on the player
+Closing a fence gate when it is at the same altitude as the player's head
+Using a piston to push a block into the player
+Exiting swimming mode in a one-block-high space
+Exiting elytra mode in a one-block-high space
+Having a tree grow over a player
+Throwing an ender pearl into a one block space
+Having a shulker box push the player down
+This normally makes the player sneak instead of crawl, but when it is above a slab or a not-full block, then the player crawls.
+Getting off a pig with a saddle if it's under a one-block-high space
+Having a boat land on the player's head
+Waking up from a bed placed in a two-block-high space, with no space to the side of the bed
+
+In these circumstances, the player automatically switches to a crawling state. When enough space opens up above the player's head, the player automatically exits this state and begins standing again. In the crawling form, the player is reduced to 0.625 blocks tall, or  of a block, meaning that they can crawl over blocks 0.375 blocks tall, or  blocks tall, the height of a daylight detector.
+
+When crawling, the player travels at sneaking speed. The speed of crawling can be increased with the Swift Sneak enchantment.
+The speed can also be increased by sprinting before entering the crawling state. This raises the speed by 30%.
+
+Crawling players can still produce footstep sounds and alert sculk sensors; both of these effects can be eliminated by pressing the  key while crawling.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+References
+
+Navigation
+
+Category:Transport
+
+es:Arrastrarse
+fr:Ramper
+ja:ほふく前進
+ko:기어가기
+pl:Czołganie się
+pt:Rastejar
+ru:Ползание
+zh:爬行

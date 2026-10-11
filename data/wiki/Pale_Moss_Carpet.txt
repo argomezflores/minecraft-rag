@@ -1,0 +1,66 @@
+TITLE: Pale Moss Carpet
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Pale_Moss_Carpet
+---
+A pale moss carpet is a block that causes vine-like pale moss to grow on the side of neighboring blocks.
+
+Obtaining
+Breaking
+Pale moss carpets can be mined using any tool or by hand, but a hoe is the quickest way to break it.
+
+Natural generation
+Pale moss carpets can be found on pale moss patches inside of pale gardens.
+
+Crafting
+
+Crafting recipe: Pale Moss Block, Pale Moss Block arranged in the crafting grid → Pale Moss Carpet,3.
+
+Post-generation
+bone meal on a pale moss block has a chance to grow pale moss carpets.
+
+Usage
+
+Similar to moss carpets, pale moss carpets have most of the properties of the standard carpets, cannot be pushed by pistons, cannot be equipped on llamas, and do not occlude vibrations from sculk sensors.
+
+When placed next to a block, the pale moss carpet causes a vine texture to appear on the block's adjacent surfaces. If a second block is stacked above, when placed, the pale moss carpet has a 50% chance to cause a two block tall vine texture to appear. The player may  the second vine texture to keep it at one block tall, or  bone meal on the carpet or the first vine texture to grow the second vine texture.
+
+Composting
+Placing a pale moss carpet into a composter has a 30% chance of raising the compost level by 1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Showcase
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Flammable blocks
+
+de:Blassmoosteppich
+es:Capa de musgo pálido
+fr:Tapis de mousse pâle
+ja:色あせた苔のカーペット
+ko:창백한 이끼 바닥
+pt:Tapete de Musgo Pálido
+ru:Бледный мшистый покров
+zh:苍白覆地苔藓

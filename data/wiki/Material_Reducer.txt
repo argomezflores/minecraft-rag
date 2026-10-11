@@ -1,0 +1,147 @@
+TITLE: Material Reducer
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Material_Reducer
+---
+The material reducer is a block used in chemistry to learn about the natural world, by reducing Minecraft blocks to the elements that they contain.
+
+Obtaining
+Material reducers can be obtained from the Creative inventory. They cannot be obtained in Survival without commands. , the world must also have the "Education Edition" setting enabled.
+
+Breaking
+A material reducer can be mined with any tool, but pickaxes are faster.
+
+Usage
+
+thumb|right|The interface of the material reducer
+
+Using the material reducer opens an interface of 10 inventory slots. The central slot at the top is the input, where blocks can be placed in order to break them down into their component parts. When this happens, the output slots fill up with the percentage of elements found in the broken down material.
+
+Certain blocks such as soul sand and netherrack contain mysterious elements yet to be discovered. These are represented by an unknown element that displays as other elements, but with a question mark in place of a periodic table symbol. If you take out a few elements, but keep some in too, then the block you placed will have the missing model item, which you cannot place in the inventory.
+
+thumb|right|The interface of a material reducer after an element is taken out
+
+When an element is taken from one of the output slots, the input slot gets cleared, and if there are elements in other output slots, the input slot becomes red and does not accept further input until all of the outputs are cleared.
+
+Any block broken down in the material reducer gives out 100 different elements.
+
++ Products Block/item Components Notes except Mangrove, Cherry, or Pale Oak
+except Mangrove, Cherry, or Pale Oak
+except Mangrove, Cherry, or Pale Oak
+except Mangrove, Cherry, or Pale Oak
+except Mangrove, Cherry, or Pale Oak
+except Mangrove, Cherry, or Pale Oak
+except Mangrove, Cherry, or Pale Oak ×49
+×6
+×44The formula mirrors the chemical compositions of cellulose, hemicellulose, and lignin, the three main components of wood. ×15
+×70
+×8
+×7These four elements are found in all life forms on Earth. ×21
+×8
+×3
+×3
+×13
+×6
+×2
+×2
+×42The results depict dirt as a mixture of inorganic rocks and decaying organic material, although there is too little oxygen to form the compounds found in real-life dirt such as calcium carbonate.
+
+, all variants
+
+, all variants ×33
+×67The results approximate SiO2, the chemical formula for silicon dioxide, the mineral quartz. Silicon and oxygen are the primary atomic elements of silicate minerals. Many of these real life rocks are composed of silicate minerals, not just SiO2. ×47
+×28
+×8
+×5
+×4
+×3
+×3
+×2These elements are all commonly found in silicate minerals. The abundances of these elements are the average composition of earth's crust and close to the average composition of real life Andesite ×45
+×28
+×8
+×5
+×4
+×3
+×3
+×2
+×2Similar to regular cobblestone. Mossy cobblestone has carbon to account for the moss. ×77
+×17
+×3These results reflect the formulae of many real-life clays, although real-life clay contains much more oxygen. ×67
+×33The results approximate H2O, the chemical formula for water. ×6
+×50
+×43The results mirror the composition of coal, although real-life coal contains much less oxygen. ×64
+×12
+×24A mixture of pure (elemental) iron and silicate rock. In real life, iron ore usually contains oxidized iron, so the formula would contain much more oxygen. ×64
+×12
+×24A mixture of pure gold and silicate rock. As gold is chemically inert, it is always naturally found in its elemental form. ×64
+×12
+×24A mixture of pure carbon and silicate rock. Diamond is composed of pure carbon, and takes billions of years to form deep underground. ×13
+×8
+×13
+×53
+×13The formula roughly corresponds to lazurite, the main component of lapis lazuli. ×31
+×31
+×38The formula implies that Redstone is made out of uranium methanide and an unknown element, thus it is radioactive. ×15
+×25
+×20
+×40The formula roughly corresponds to beryl, the main component of emerald. ×100The results mirror the composition of 100% pure iron. ×100The results mirror the composition of 100% pure gold. ×100The results mirror the composition of 100% pure diamond. ×64
+×18
+×15
+×3A mixture of silicate rock and mercury. Mercury(II) oxide (HgO) is red to orange in color, although these results contain too little oxygen for any of this compound to form. ×59
+×13
+×28The approximate formula is Si4C. Although, it is similar to the mineral SiC (carborundum). ×20
+×20
+×20
+×20
+×20These three gases are noble gases, which are commonly used in neon lights to produce vibrant colors. ×37
+×3
+×60Soul sand is mostly composed of an unknown element, due to its paranormal composition. ×4This formula roughly corresponds to Iron (II) sulfate, an inorganic dark dye, which is not found in any species of real-life squid. ×6
+×12
+×6The results approximate C6H12O6, the chemical formula for a simple sugar. ×7
+×4The results approximate C7H4O, the chemical formula for charcoal. ×100The results mirror the composition of 100% pure sulfur. ×50
+×50The results mirror the composition of HgS, the chemical formula for mercury sulfide.
+
+Note that amethyst-related blocks and items, crying obsidian, copper-related blocks and items, sulfur-related blocks and items, mud-related blocks, coarse dirt, raw ore blocks and items, calcite, deepslate-related blocks, dripstone, basalt, blackstone, tuff-related blocks, cinnabar-related blocks, iron, gold, and diamond equipment, doors, and trapdoors cannot be put into a material reducer, despite them being related to blocks that can.
+
+All compounds that can be made in the compound creator and lab table can also be reduced in the material reducer, yielding their respective ingredients.
+
+Sounds
+
+Data values
+ID
+
+Block states
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+There is currently a glitch in the material reducer's GUI: When the input slot becomes red, the "tubes" that are connected to it are sometimes rendered over the red square, which causes the image to flick between the normal square and the tubes.
+
+Gallery
+Renders
+
+Screenshots
+
+Other
+
+Navigation
+
+Category:Utility blocks
+Category:Block entities
+Category:Minecraft Education blocks
+Category:Blocks with GUI
+
+de:Stoffreduzierer
+es:Reductor de materia
+fr:Déconstructeur de matériaux
+ja:物質還元器
+ko:물질 분해기
+pl:Analizator materiałów
+pt:Redutor de Material
+ru:Редуктор материала
+uk:Розбивач матеріалів
+zh:材料分解器

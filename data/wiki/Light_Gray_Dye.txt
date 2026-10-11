@@ -1,0 +1,69 @@
+TITLE: Light Gray Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Light_Gray_Dye
+---
+Light gray dye is one of the sixteen available dyes.
+
+Obtaining
+Crafting
+
+Trading
+Wandering traders have a chance to trade 3 light gray dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 light gray dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+, some items/blocks' Block states/Item NBT uses Silver instead of Light Gray.
+
+Notes
+
+Navigation
+
+Category:Dyes
+
+cs:Světle šedé barvivo
+de:Hellgrauer Farbstoff
+es:Tinte gris claro
+fr:Teinture gris clair
+hu:Világosszürke festék
+ja:薄灰色の染料
+ko:회백색 염료
+lzh:蒼染
+nl:Lichtgrijze kleurstof
+pl:Jasnoszary barwnik
+pt:Corante Cinza-Claro
+ru:Светло-серый краситель
+zh:淡灰色染料

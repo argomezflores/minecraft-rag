@@ -1,0 +1,24 @@
+TITLE: Move (item)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Move_(item)
+---
+Move is a joke item only present in 26w14a.
+
+Obtaining
+It is automatically obtained and appears in the hotbar when the player starts up a world. It also appears in the hotbar after the player dies.
+
+Usage
+Right-clicking living blocks with this item will add them to a group; left-clicking on a block will send the selected living blocks to that block. If the player sends multiple living blocks to the same block, the living blocks will make a stack.
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Joke items
+
+ja:Move (アイテム)
+pt:Edição Java 26w14a/Move
+zh:移动（26w14a）

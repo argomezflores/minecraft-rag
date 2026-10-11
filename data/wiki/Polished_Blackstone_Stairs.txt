@@ -1,0 +1,54 @@
+TITLE: Polished Blackstone Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone_Stairs
+---
+Polished blackstone stairs are a decorative stairs variant of polished blackstone that generate in ruined portals and are used for building.
+
+Obtaining
+Breaking
+Polished blackstone stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished blackstone stairs generate as part of ruined portals in the Nether.
+
+Crafting
+
+Crafting recipe: Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone arranged in the crafting grid → Polished Blackstone Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en pierre noire
+ja:磨かれたブラックストーンの階段
+ko:윤나는 흑암 계단
+lzh:鎣墨石階
+pt:Escadas de Pedra-Negra Polida
+th:บันไดหินดำขัด
+uk:Сходи з полірованого чорнокаменю
+zh:磨制黑石楼梯

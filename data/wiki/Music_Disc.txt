@@ -1,0 +1,107 @@
+TITLE: Music Disc
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc
+---
+Music discs are a set of 22 items that release in-game music when played in jukeboxes.
+
+Discs
+
++ Item In-game name ComposerTrack preview Disc length style="text-align:center" "13"C418noicon 2:58style="text-align:center""cat"noicon3:05style="text-align:center""blocks"noicon5:45style="text-align:center""chirp"noicon3:05style="text-align:center""far"noicon2:54style="text-align:center""mall"noicon3:17style="text-align:center""mellohi"noicon1:36style="text-align:center""stal"noicon2:30style="text-align:center""strad"noicon3:08style="text-align:center""ward"noicon4:11style="text-align:center""11"noicon1:11style="text-align:center""wait"noicon3:57style="text-align:center""Pigstep"Lena Rainenoicon2:28style="text-align:center""otherside"noicon3:15style="text-align:center""Creator"noicon2:56style="text-align:center""Creator (Music Box)"noicon1:13style="text-align:center""5"Samuel Åbergnoicon2:58style="text-align:center""Relic"Aaron Cherofnoicon3:39style="text-align:center""Precipice"noicon4:59style="text-align:center""Tears" Amos Roddynoicon2:55style="text-align:center""Lava Chicken" Hyper Potionsnoicon2:15style="text-align:center""Bounce"fingerspitnoicon3:54
+
+Obtaining
+Mob loot
+When a creeper is killed by a skeleton, wither skeleton, skeleton horse (via commands), stray, bogged, or parched, it drops a random music disc from the following pool:
+
+Since wither skeletons do not use bows, they cannot attack creepers without using commands, and therefore are unable to cause a creeper to drop a music disc in normal gameplay.
+
+TNT ignited by a flaming arrow gives credit for all of the resulting kills to the entity that fired the arrow. Thus, when a skeleton ignites a TNT block by using a bow with the Flame enchantment, shooting through lava or fire, or being a wither skeleton, each creeper killed by the explosion drops a music disc.
+
+When killed by a player-deflected fireball, a ghast will always drop Tears.
+
+When a chicken jockey is killed, it will always drop Lava Chicken. However, the rider must be killed before the chicken.
+
+Generated loot
+Some music discs can be found by exploring various structures in the game. The disc 5 can be found only as disc fragments, requiring 9 fragments to craft the music disc.
+
++DiscStructuresMethod of obtainingLoot probability "13"Monster roomLooting chests21.5%Woodland mansionLooting chests21.8%Ancient cityLooting chests16.1% "cat"Monster roomLooting chests21.5%Woodland mansionLooting chests21.8%Ancient cityLooting chests16.1% "Pigstep"Bastion remnantLooting general chests5.6% "otherside"Monster roomLooting chests3.1%StrongholdLooting altar chests2.5%Ancient cityLooting chests8.4% "5"Ancient cityLooting chests29.8% (as disc fragment) "Relic"Trail ruinsBrushing suspicious gravel8.3% "Precipice"Trial chambersVaults and looting reward chests3.6% "Creator"Trial chambersOminous vaults7.5% "Creator (Music Box)"Trial chambersDecorated pots1.4% "Bounce"Mineshaft (in a sulfur cave)Looting chests42.1%
+
+Crafting
+Music Disc 5 is the only disc that can be crafted.
+
+Usage
+Playing music
+A music disc can be played on a jukebox by holding the disc and pressing the  control on the jukebox, or by using a hopper or a dropper facing toward the jukebox. Pressing  on the jukebox again ejects the disc and stops any music playing. Once it stops playing, the disc can also be retrieved by a hopper placed beneath the jukebox (a jukebox emits a redstone signal while the disc is playing, temporarily locking the hopper).
+
+The in-game music disc tracks are all  recordings. Tracks released for listening outside of the game are in  (though "Pigstep" has a mono version included in the Nether Update soundtrack EP).
+
+Redstone signal
+A jukebox playing music from a disc emits a level 15 signal, powering any adjacent redstone wires, redstone repeaters, and mechanism components. The signal turns off when the music track ends or if the disc is removed before the track ends.
+
+If the player places a comparator besides a jukebox, the intensity of the redstone signal depends on the disc currently inserted, with the following values. The comparator is powered as long as a disc is stored inside the jukebox, even if it has stopped playing.
+
+Disc Intensity(no disc) "13" "cat" "blocks" "chirp" "far" "mall" "mellohi" "stal" "Bounce" "strad" "Lava Chicken" "ward" "Tears" "11" "Creator (Music Box)" "wait" "Creator" "Pigstep" "Precipice" "otherside" "Relic" "5"
+
+Raw music files
+, the music disc files can be found in .
+
+and Minecraft Education, it can be found in:
+
+Mobile:
+Windows:
+
+All music disc files are in .
+
+Achievements
+
+Advancements
+
+History
+Preview
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Gallery
+Renders
+
+In other media
+
+Issues
+
+Trivia
+The music discs resemble older 78-  from the early 20th century, which were often played in jukeboxes from that era.
+Before The Flattening, data values used by music discs ranged from 2256 to 2267, while all other blocks/items used the first free data value available.
+Jeb said at MINECON that the reason for the absence of the "where are we now" music disc was a bug related to the spaces in the name. It was only after the Java Edition 1.4.3 update that this disc appeared in the game, but its name was changed to "wait". It has the original title .
+Despite the name having spaces, the texture ID for "where are we now" is "record_where are we now" in Legacy Console Edition. It is the only texture resource location in the game with spaces.
+
+See also
+
+Notes
+
+References
+
+External links
+Taking Inventory: Music Disc – Minecraft.net on January 14, 2021
+
+Navigation
+
+Category:Music discs
+
+de:Schallplatte
+es:Disco de música
+fr:Disque
+it:Disco musicale
+ja:レコード
+ko:음반
+lzh:留聲盤
+nl:Muziekplaat
+pl:Płyta muzyczna
+pt:Disco Musical
+ru:Пластинка
+th:แผ่นเสียง
+tr:Müzik Diski
+uk:Платівка
+zh:音乐唱片

@@ -1,0 +1,84 @@
+TITLE: Nether Wart Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Wart_Block
+---
+Nether wart blocks are decorative blocks found in crimson forests and crafted using Nether wart.
+
+Obtaining
+Breaking
+Nether wart blocks can be mined using any tool or by hand, but a hoe is the fastest way to break it.
+
+Natural generation
+Nether wart blocks and generate as part of huge crimson fungi in crimson forests.
+
+Crafting
+
+Crafting recipe: Nether Wart, Nether Wart, Nether Wart, Nether Wart, Nether Wart, Nether Wart, Nether Wart, Nether Wart, Nether Wart arranged in the crafting grid → Nether Wart Block.
+
+Post generation
+
+Using bone meal on a crimson fungus that is planted on crimson nylium has a 40% chance to grow into its huge equivalent, generating Nether wart blocks as part of it.
+
+Usage
+Nether wart blocks are not a compacted block as they cannot be crafted back into Nether wart.
+
+Composting
+Nether wart blocks can be fed into a composter with an 85% chance of leveling up the pile. Composting a Nether wart block instead of 9 Nether wart items is less efficient.
+
+Mob spawning
+Piglins, zombified piglins, and hoglins do not spawn on top of Nether wart blocks. Other Nether mobs such as skeletons and endermen are not prevented from spawning.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+Tweet
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+External links
+Block of the Month: Nether Wart – Minecraft.net on August 11, 2022
+
+Navigation
+
+Category:Nether blocks
+Category:Natural blocks
+Category:Fungi
+Category:Manufactured blocks
+
+de:Netherwarzenblock
+es:Bloque de verrugas#Del Nether
+fr:Bloc de verrues du Nether
+it:Blocco di verruche del Nether
+ja:ネザーウォートブロック
+ko:네더 사마귀 블록
+lzh:焱界疣塊
+nl:Netherkruidblok
+pl:Blok netherowych brodawek
+pt:Bloco de Fungos do Nether
+ru:Блок нароста Нижнего мира
+uk:Блок незерського наросту
+zh:下界疣块

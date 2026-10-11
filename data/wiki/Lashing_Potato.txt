@@ -1,0 +1,26 @@
+TITLE: Lashing Potato
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Lashing_Potato
+---
+A lashing potato is an item that can be used to grapple to faraway blocks, only present in 24w14potato.
+
+Obtaining
+Crafting
+
+Crafting recipe: Poisonous Potato Block, Toxic Beam arranged in the crafting grid → Lashing Potato.
+
+Usage
+a lashing potato fires a vine-like object that travels directly forward until it comes in contact with a block. Once it does, it attaches itself to the block and pulls the player toward that spot. A player reaching the attached block stays in that spot and hangs from the lashing potato. Using the lashing potato again detaches the vine-like object.
+
+Data values
+ID
+:
+
+Navigation
+
+Category:Joke items
+Category:Poisonous Potato Dimension (joke dimension)
+
+ja:Lashing Potato
+ru:Абордажная картошка
+zh:马铃薯钩索

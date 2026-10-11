@@ -1,0 +1,59 @@
+TITLE: Bamboo Mosaic Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bamboo_Mosaic_Slab
+---
+A bamboo mosaic slab is a decorative slab variant of bamboo mosaics that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+Bamboo mosaic slabs can be broken with anything, but axes are the fastest.
+
+Crafting
+
+Crafting recipe: Bamboo Mosaic, Bamboo Mosaic, Bamboo Mosaic arranged in the crafting grid → Bamboo Mosaic Slab,6.
+
+Usage
+
+Fuel
+Bamboo mosaic slabs can be used as fuel in furnaces, smelting 0.75 items per slab , and 1.5 items per slab .
+
+Sounds
+, when a bamboo mosaic slab is combined into a double slab, the block's step sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Flammable blocks
+Category:Slabs
+
+fr:Dalle de mosaïque de bambou
+ja:竹細工のハーフブロック
+ko:대나무 모자이크 반 블록
+lzh:竹嵌工版
+pt:Laje de Mosaico de Bambu
+ru:Плита из бамбуковой мозаики
+uk:Плита з бамбукової мозаїки
+zh:竹马赛克台阶

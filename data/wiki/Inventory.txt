@@ -1,0 +1,139 @@
+TITLE: Inventory
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Inventory
+---
+thumb|class=pixel-image|176px|A survival inventory pop-up screen .
+The inventory is the pop-up menu that the player uses to manage items they carry. From this screen a player can equip armor, craft items on a 2×2 grid, and equip tools, blocks, and items. The player's skin is also displayed here.
+
+Overview
+The inventory is opened and closed by pressing  ( on the Xbox 360 & Xbox One, / on the PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5,  on the Wii U & Nintendo Switch, and ••• on mobile devices). This key can be changed from the in-game options menu. The inventory can also be closed with  ( on the Xbox 360, Xbox One, Wii U, and Nintendo Switch, / on the PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5, and × on mobile devices).
+
+The inventory is saved upon exiting a world or server, so the player retains exactly the same items upon re-entering the world or server.
+
+Slots
+
+The inventory consists of 4 armor slots, 27 storage slots, 9 hotbar slots, and an off-hand slot. Items in the hotbar slots can be selected using the keyboard keys (–) or by moving the . Pressing the  key moves the selected item to and from the hotbar slot and the off-hand slot.
+
+Most items stack up to 64, while some items stack to 16, like many projectiles, or do not stack at all, like items with durability. All items can stack up to 99 or 127 using components or commands.
+
+There is also a 2×2 crafting grid, which allows any recipe that fits to be crafted but does not offer item storage. This is not available in Creative or Spectator mode .
+
+Armor is considered equipped only when it is in an armor slot; when in any of the regular inventory slots, it is not considered "worn" and does not offer protection. Held armor can be equipped by  it, exchanging it with any armor already occupying that slot.
+
+Items have tooltips if the cursor is hovered over them, displaying their name, enchantments, lore, and some item-specific information such as the version of a written book. Pressing  causes items to display additional information, such as their ID, data values, and some item specific information.
+
+Pressing  on a block with an inventory, such as a chest, crafting table, or a furnace opens its GUI and allow items to be transferred between the 27 main slots, the 9 hotbar slots, and the block's GUI.
+
+The only available slots for setting attributes are "mainhand", "offhand", "head", "chest", "legs", and "feet".
+
+Recipe book
+
+The recipe book has a catalog of all the recipes in the game and serves as a crafting guide. It shows every crafting recipe that the player has had materials for.
+
+Crafting recipes are organized into different categories in the recipe book through the different tabs. In Java Edition, the categories are:
+All recipes
+Tools, weapons, and armor
+Building materials
+Food and miscellaneous items
+Redstone components
+
+In Bedrock Edition, the categories are:
+recipes
+
+Managing inventory
+Stacks can be grabbed as a whole by pressing left-click on the stack and can be split in two by pressing right-click. If the stack is an odd quantity, then it leaves the smaller half behind (for example, a stack of 7 grabs 4 items and leaves 3 in the slot). Conversely, holding a stack of items in the player's cursor and left-clicking in an inventory slot places the full stack into the slot and right-clicking places items one at a time. If there is already a stack in that slot, it gets swapped with the grabbed stack. Double-clicking an item grabs up to a full stack from all the items within the inventory.
+
+Holding  and clicking on a stack sends the stack from the player's hotbar to the player's 27 inventory slots or vice versa, in order from left to right, then top to bottom. Doing so while an external inventory (chest boat, dispenser, etc.) is open sends the item stack from the player's inventory into the external inventory (from left to right, top to bottom) or vice versa (from bottom to top, right to left, starting with hotbar slot 9). Holding  and double-clicking a stack while having an external inventory open and holding another stack moves all items that are identical to the clicked stack between the player's inventory and the external one (in the same order as regular shift-clicking). Doing so with only the internal inventory open instead collects all items of that type in the top-left most available inventory slot (not hotbar, so doing this with 0 free inventory slots leaves the items where they are). ,  and Shift in all of these controls are independent of the keybinds menu and cannot be changed.
+
+Hovering over an inventory slot and pressing (by default) – switches the item in that inventory slot with the item in that slot of the hotbar, or moves the item from one to the other if either slot is empty. , pressing  behaves similarly, but with the off-hand slot.
+
+Dragging a stack of items with the cursor over an inventory using  divides the stack equally over the dragged-over slots (with the remainder staying on the cursor), whereas dragging the stack around using  places one item of that stack in each dragged-over slot. Regardless of whether  or  is used, this occurs only with slots that are empty or contain identical items. If this amount of items does not fit onto the stack anymore, the rest stays on the cursor.
+
+In Creative mode, (by default) middle-clicking a slot in an inventory grabs a full stack of the item while leaving the item in the slot. Dragging items with the cursor while holding the  places a full stack of the item in each dragged-over slot. This dragging action does not work if the "pick block" key is rebound.
+
+Pressing (by default) + (hold down  while pressing ) in Creative mode saves the current toolbar in the Saved hotbars tab. It can be loaded (by default) with +.
+
+Pressing  while the cursor is hovering over a slot in the player's inventory or a container's inventory drops one item. Holding  and pressing  while hovering over a slot in the player's inventory or container's inventory that has one or more items drops the entire stack of items. Without an inventory open, the same can be applied for the selected item(s) from the hotbar. The Ctrl key is not rebindable for these actions. Items can also be dropped into the world by clicking outside the inventory window while holding an item with the cursor.
+
+Creative inventory
+
+In Creative mode, the inventory contains a block selection menu containing all blocks and items found in survival, plus a few additional items not obtainable in Survival. The blocks and items are organized into various tabs that differ slightly between Java and Bedrock.
+
+External inventories
+
+Many blocks and some non-player entities have their own inventory-like menus that pop up to allow manipulation of items.
+
+Note: Despite the fact that ender chest, crafting table, beacon, anvil, enchanting table, and villager inventories are actually internal behind the scenes, they are listed here as external because they require clicking on something external.
+
+Java Edition
+
+Bedrock Edition
+
+Minecraft Education exclusives
+
+Mob inventory
+Certain mobs have inventory slots, used for various purposes.
+Villagers have 8 slots, not accessible to the player, which they use to collect various farming-related seeds and foods.
+Piglins have 8 slots, not accessible to the player, which they use to collect various items.
+Pillagers have 5 slots, not accessible to the player, which goes unused, as pillagers don't change their inventory automatically or drop items from it upon death.[more information needed]
+Agents have 27 slots that are accessible to the player by a GUI, and can be accessed by the agent according to its programming.
+Donkeys and mules, when equipped with a chest, have 15 inventory slots accessible to the player.
+Llamas and trader llamas, when equipped with a chest, have 3, 6, 9, 12 or 15 inventory slots, corresponding to their Strength stat.
+Allays have 1 inventory slot, not accessible to the player, which they use to collect items that match a player given held item.
+
+Achievements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+When sleeping or riding a pig, horse, boat, or minecart and the inventory screen is accessed, the avatar is shown in the respective position. However, only the player is displayed.
+The avatar always looks at the pointer while in the inventory.
+
+Gallery
+
+Development images
+Java Edition
+
+Bedrock Edition
+
+In other media
+
+See also
+Crafting
+Smelting
+Item repair
+Items
+Item durability
+Blocks
+Entity
+Recipe book
+
+Notes
+
+References
+
+Navigation
+
+Category:UI
+Category:Ore UI developer hotbar and inventory screenshots
+
+de:Inventar
+es:Inventario
+fr:Inventaire
+ja:インベントリ
+ko:보관함
+nl:Inventaris
+pt:Inventário
+ru:Инвентарь
+uk:Інвентар
+zh:物品栏

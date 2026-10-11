@@ -1,0 +1,104 @@
+TITLE: Lily Pad
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lily_Pad
+---
+A lily pad is a plant block found in swamps, mangrove swamps, and as fishing loot. It can only be placed on water or waterlogged blocks and can be stood on as a platform.
+
+Obtaining
+Breaking
+Lily pads can be broken instantly with anything. They also break from collisions with boats.
+
+Natural generation
+Lily pads can be found naturally on water in swamps, mangrove swamps, wheat farm rooms of woodland mansions and abandoned camps generating in swamps.
+
+Fishing
+
+Lily pads are obtainable through fishing, with a 1.7% chance per attempt. See fishing for more details. , lily pads cannot be obtained when fishing in jungle biomes.
+
+Trading
+Wandering traders may sell 5 lily pads for 1 emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 5 lily pads when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+Lily pads can be used to make paths over water without having to build bridges or use full blocks. Mobs cannot spawn on lily pads. A lily pad is broken and drops as an item when water flows on it.
+
+Normal blocks can be placed on the bottom side of lily pads (from below). This breaks the lily pad (dropping it as an item), but leaves the block in place.  Blocks can also be placed on top of lily pads, though the placed block appears to hover over the pad rather than rest on it. Resolved as works as intended
+
+A lily pad can be used as a starting point for construction on an ocean surface without having to build up from the ocean floor (see also kelp for this purpose).
+
+Lily pads are the only solid block that doesn't prevent fishing treasure items from water near it.
+
+Placement
+Lily pads can be placed only on top of water, ice, or frosted ice. Lily pads occupy the block above water and are not part of the water block itself.
+
+Lily pads must be directly planted on the top of a water, ice or frosted ice block; unlike most blocks, targeting the side of a block that would result in it being placed on top of a valid block does not allow it to be placed. Similarly, targeting the sides or bottom of a block that can support a lily pad will place the lily pad on top. Lily pads can be placed on waterlogged blocks, including top half slabs.
+
+A lily pad faces a consistent direction that depends on its location; it is unaffected by the direction the player faces. Replacing a lily pad does not change the direction.
+
+, unlike most blocks entities can collide with, lily pads can be placed directly inside players. Resolved as works as intended
+
+, due to a bug, lily pads and frogspawn can be placed on water even by players in Adventure game mode.
+
+Composting
+Placing a lily pad into a composter has a 65% chance of raising the compost level by 1.
+
+Appearance
+In the inventory, lily pads have the color: .
+Otherwise, lily pads have the color: .
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Trivia
+When lily pads are placed on water source blocks that do not take up the space of the entire block (when the water is flowing to the block next to it), the lily pad appears floating above the water source block.
+The lily pad is the only block with a height that is not an integer multiple of 1/16 (size of one pixel on the default texture pack). It is 1.5 pixels high, or 3/32 of a block.
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Generated structure blocks
+
+de:Seerosenblatt
+es:Nenúfar
+fr:Nénuphar
+it:Ninfea
+ja:スイレンの葉
+ko:수련잎
+lzh:睡蓮
+nl:Waterlelie
+pl:Lilia wodna
+pt:Vitória-Régia
+ru:Кувшинка
+uk:Латаття
+zh:睡莲

@@ -1,0 +1,35 @@
+TITLE: Deprecated Anvil
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deprecated_Anvil
+---
+A deprecated anvil, named anvil in-game, is an unused variant of the anvil, obtainable only through commands. It looks similar to an undamaged anvil, but the top face uses the side texture instead of the dedicated top texture.
+
+Obtaining
+This block is not normally obtainable, and commands are therefore required; e.g.
+
+Breaking
+A deprecated anvil can be mined using any pickaxe, dropping itself. If mined without a pickaxe, it drops nothing.
+
+Usage
+thumb|200px|right|A comparison between a regular anvil (left) and a deprecated anvil (right)
+
+A deprecated anvil functions identically to a regular anvil. After one use, it turns into an undamaged anvil; when taking damage from falling, it turns into a chipped anvil instead.
+
+Sounds
+
+Data values
+
+ID
+:
+
+History
+
+Data history
+
+Issues
+
+See also
+
+Navigation
+
+zh:破碎的铁砧

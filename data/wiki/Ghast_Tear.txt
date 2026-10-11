@@ -1,0 +1,55 @@
+TITLE: Ghast Tear
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Ghast_Tear
+---
+Ghast tears are items dropped by ghasts that are used to make dried ghasts, End crystals, and potions of Regeneration.
+
+Obtaining
+Mob loot
+
+Usage
+Brewing ingredient
+
+Brewing recipe: Ghast Tear + Water Bottle → Mundane Potion.
+
+Crafting ingredient
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+References
+
+External links
+
+Navigation
+
+de:Ghast-Träne
+es:Lágrima de ghast
+fr:Larme de Ghast
+it:Lacrima di ghast
+ja:ガストの涙
+ko:가스트 눈물
+lzh:魄淚
+nl:Ghasttraan
+pl:Łza ghasta
+pt:Lágrima de Ghast
+ru:Слеза гаста
+th:น้ำตาแก๊สต์
+uk:Сльоза ґаста
+zh:恶魂之泪

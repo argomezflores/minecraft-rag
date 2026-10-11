@@ -1,0 +1,63 @@
+TITLE: Packed Mud
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Packed_Mud
+---
+Packed mud is a block crafted from mud and wheat. It is used to create mud bricks.
+
+Obtaining
+Breaking
+Packed mud can be broken by hand, but using a pickaxe speeds up the process. It drops itself even when broken by hand.
+
+Natural generation
+Packed mud generates in trail ruins.
+
+Crafting
+
+Usage
+Packed mud can be used for decoration.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+In real life, mud bricks are made with mud mixed together with straw, and then heated to increase their toughness, which is referenced by the crafting recipe of packed mud in Minecraft. They have a long history of being used as building materials, dating back at least 5,000 years.
+
+Gallery
+Screenshots
+
+Concept artwork
+
+External links
+
+Navigation
+
+Category:Manufactured blocks
+
+de:Fester Schlamm
+es:Adobe
+fr:Terre crue
+ja:固めた泥
+ko:단단한 진흙
+lzh:夯泥
+pl:Utwardzone błoto
+pt:Barro Seco
+ru:Уплотнённая грязь
+th:โคลนอัดแน่น
+uk:Спресоване багно
+zh:泥坯

@@ -1,0 +1,133 @@
+TITLE: World spawn
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/World_spawn
+---
+The world spawn is where players initially spawn in the Minecraft world.
+
+Spawn
+thumb|The default respawn area for an individual player. White represents the extent of singleplayer, blue represents multiplayer, and yellow represents the world spawn point.
+
+The world spawnpoint is determined using a search algorithm that discourages (but cannot fully prevent) spawns in oceans, rivers, or regions with very high or low climate noise samples.
+The algorithm first evaluates 66 exact coordinates that loosely form circles of radius 0, 512, 1024, 1536, and 2048 blocks from the world's center. Each coordinate is evaluated by its distance to (0,0), and by how far its climate samples fall outside the desired climate thresholds for spawnpoints. The most suitable coordinate is set as the interim spawnpoint.
+The algorithm then draws 16 circles centered around the interim spawn point, roughly 32 blocks apart, and performs the same fitness evaluations on 862 coordinates across those circles. If a more suitable position is found, the world spawnpoint is set to that position; otherwise, the world spawnpoint remains at the current position.
+Java Edition alone then inspects all chunks within a five-chunk square radius of the current interim spawnpoint, looking for a topsolid non-waterlogged block. Once one is found, it is set as the final spawnpoint.
+
+The world spawn point can be changed using the  command.
+
+When the player first loads into the world, the game searches within a small area surrounding the world spawnpoint, and tries to place the player on a random solid block. This area is 21×21 blocks by default  and 10×10 , but can be changed by the  game rule or world setting. Upon spawning, the player is placed on the highest topsolid non-waterlogged block, regardless of elevation. , it is also possible for a player to spawn underwater and start drowning. Upon death or return from the End dimension, the player respawns within this same area unless the player's individual spawn point changed (by using a bed, respawn anchor, or ).
+
+thumb|Bedrock Edition's respawn radius setting.
+
+Adventure mode
+When the server's settings specify the default game mode as Adventure (using the server.properties), then the normal spawning mechanic is ignored, and players are spawned directly on the world spawn point. This includes the X, Y, and Z coordinates, even if there is no block there, and even if there are blocks above it.
+
+If the Y coordinate is not within a valid spawning area, then the server looks up until it finds one, up to a maximum of Y=256. If there is space to spawn, but it is in mid-air, the player spawns in mid-air, even falling into the void if there is a hole.
+
+Location
+There are several ways to determine the world spawn point:
+A compass (that hasn't been assigned to a lodestone) always points to the world spawn point.
+Doing the commands  then .
+If commands are disabled, remove all the grass blocks in the 21×21 spawn area (or place a block above them to make them invalid), make sure the individual spawn point is disabled, and die.
+Entities, other than players, falling into the exit portal in the End land exactly at the world spawn point. Items thrown in mark the spot in the Overworld. Players spawn like they normally do, allowing this action to be used to perform the above without dying, and thus can be performed in hardcore mode.
+Mods or external programs, such as NBTExplorer or MCEdit, can also be used to find and set the world spawn point.
+
+Individual spawn
+The individual spawn point of the player can be changed by sleeping in a bed, using a respawn anchor, or using the  command. If the individual spawning area of the player is obstructed upon death, the player respawns at the world spawn.
+
+Sleeping in a bed allows for leniency in obstruction, in that the player respawns on other blocks near the bed if the original point becomes blocked. The same is true for the respawn anchor. If the spawn point set via  or  becomes obstructed, the player is not given this leniency in respawning. If the block obstructing the player's spawn point is a bed in the Overworld or a respawn anchor in the Nether, regardless of if the bed or respawn anchor was used to set the spawnpoint, this leniency will still be given.
+
+For the spawn point to be considered unobstructed, certain criteria need to be met. Generally, for a spawn point set via  or , there must be a two-block-tall space at the spawn point which is free of solid blocks. However, there are also some solid blocks which do not obstruct spawning, some examples including the heavy core, candles, and player and mob heads. Lava and water will also obstruct the spawn point despite being non-solid, however, aquatic plants, such as kelp and seagrass, will not, even when in water. The player will always be spawned in the center of the spawn point block and  of a block above the bottom of the block, even if there is a non-obstructing solid block occupying the space, such that the player can sometimes be spawned inside of a block they would otherwise have collision with. Unlike when respawning around a bed or respawn anchor, the block below the spawn point is not considered, meaning the player can be spawned on top of dangerous blocks such as magma blocks, or over a non-solid block. The state of any blocks occupying the two-block-tall spawning space is also not considered. For example, an open fence gate will still obstruct the spawn point even though the player has no collision with it.
+
+Air (air, cave air, and void air)
+All  banners
+All  beds (in the Overworld only; will apply bed respawn positioning logic)
+All  buttons
+All  candles
+All    carpets (including moss carpet and pale moss carpet)
+All     coral plants and coral fans (including dead variants)
+All crops
+All  flower pots
+All  flowers (including two-high flowers)
+All   mushrooms and Nether fungi
+All  player and mob heads
+All   portals (End portal, End gateway, and Nether portal)
+All  pressure plates
+All   rails
+All  saplings (including azaleas and  flowering azaleas, but not bamboo saplings)
+All    signs (including hanging signs and wall hanging signs)
+All    torches and wall torches (torches, soul torches, and redstone torches)
+All     vines (vines, twisting vines, weeping vines, and cave vines)
+Big dripleaf
+Big dripleaf stem
+Chorus flower
+Chorus plant
+Cocoa
+Crimson roots and warped roots
+Dead bush
+Fire and soul fire
+Frogspawn
+Hanging roots
+Heavy core
+Kelp
+Ladder
+Lever
+Light
+Lily pad
+Nether sprouts
+Pale hanging moss
+Pink petals
+Powder snow
+Redstone comparator
+Redstone repeater
+Resin clump
+Respawn anchor (in the Nether only; will apply respawn anchor respawn positioning logic, even if uncharged)
+Scaffolding
+Sea pickle
+Seagrass
+Short grass and tall grass
+Small dripleaf
+Snow (any number of layers)
+Spore blossom
+Structure void
+Sugar cane
+Sweet berry bush
+Tripwire
+Tripwire hook
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Trivia
+The farthest possible spawnpoint from (0,0) under Euclidean distance is (1599, -2160).
+Developer Ulraf in a livestream expressed the idea of giving the dragon egg the use of modifying the world spawn, because there is only one dragon egg per world. He clarified that he experimented with this idea using commands, and that there weren't plans to add this function to vanilla. https://youtu.be/2cxUNoWNy50?t=11284
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+External links
+How spawning, dying and respawning works in Minecraft – Minecraft.net on September 22, 2023
+
+Navigation
+
+Category:Gameplay
+
+cs:Výskyt
+de:Spawn
+es:Aparición
+fr:Apparition
+ja:スポーン
+ko:생성
+nl:Spawnen
+pl:Odradzanie
+pt:Geração
+ru:Спаун
+uk:Поява
+zh:出生点

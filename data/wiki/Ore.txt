@@ -1,0 +1,90 @@
+TITLE: Ore
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Ore
+---
+An ore is any uncommon rock-type block used to obtain specific resources.
+
+Usage
+thumb|350px|Ores isolated down to bedrock
+
+Ore blocks are primarily collected for their resources, which are used for crafting items, such as tools, weapons, armor, and redstone circuits. The resource can also be combined to create a block of the material's type.
+
+Most ores drop their resource when mined, and require a Silk Touch pickaxe to drop themselves.
+Ores that drop 1 unit of their corresponding material:
+Coal ore and its deepslate variant.
+Diamond ore and its deepslate variant.
+Emerald ore and its deepslate variant.
+Nether quartz ore.
+Ores that drop 1 unit of their raw material:
+Iron ore and its deepslate variant.
+Gold ore and its deepslate variant.
+
+Ores that drop multiple units of their corresponding material:
+Copper ore and its deepslate variant drop 2–5 raw copper.
+Redstone ore and its deepslate variant drop 4–5 redstone dust.
+Lapis lazuli ore and its deepslate variant drop 4–9 lapis lazuli.
+Nether gold ore drops 2–6 gold nuggets instead of raw gold.
+The average yield of any of the ores in the list above can be increased by using a pickaxe with Fortune.
+
+Ancient debris drops itself when mined and must be smelted to obtain netherite scrap.
+
+Smelting ingredient
+
+Smelting recipe: Coal Ore; Deepslate Coal Ore; Iron Ore; Deepslate Iron Ore; Copper Ore; Deepslate Copper Ore; Lapis Lazuli Ore; Deepslate Lapis Lazuli Ore; Gold Ore; Deepslate Gold Ore; Redstone Ore; Deepslate Redstone Ore; Diamond Ore; Deepslate Diamond Ore; Emerald Ore; Deepslate Emerald Ore; Nether Quartz Ore; Nether Gold Ore; Ancient Debris → Coal; Coal; Iron Ingot; Iron Ingot; Copper Ingot; Copper Ingot; Lapis Lazuli; Lapis Lazuli; Gold Ingot; Gold Ingot; Redstone Dust; Redstone Dust; Diamond; Diamond; Emerald; Emerald; Nether Quartz; Gold Ingot; Netherite Scrap, XP: 0,1; 0,1; 0,7; 0,7; 0,7; 0,7; 0,2; 0,2; 1; 1; 0,7; 0,7; 1; 1; 1; 1; 0,2; 1; 2.
+
+Ores can be smelted faster using a blast furnace.
+
+It is not efficient to mine with Silk Touch and then smelt an ore block that normally drops multiple pieces of its resource, because smelting these ores yields less experience and only 1 piece of the resource. Nether gold ore is the only exception, as each ore block drops an average of 8.8 gold nuggets even when mined with Fortune III, which is less than a guaranteed gold ingot obtained from smelting the ore obtained using Silk Touch.
+
+Distribution
+
+The following is the distribution of ores according to the altitude (layers are number of blocks above the lowest layer of bedrock) in the Overworld and the Nether. For detailed generation, see Ore (feature).
+
+Overworld
+
+Stone variant 75px|link=Coal Ore75px|link=Copper Ore 75px|link=Lapis Lazuli Ore 75px|link=Iron Ore75px|link=Gold Ore 75px|link=Redstone Ore 75px|link=Diamond Ore 75px|link=Emerald Ore Deepslate variant 75px|link=Coal Ore75px|link=Copper Ore 75px|link=Lapis Lazuli Ore 75px|link=Iron Ore75px|link=Gold Ore 75px|link=Redstone Ore 75px|link=Diamond Ore 75px|link=Emerald OreRaw resource 75px|link=Coal75px|link=Raw Copper 75px|link=Lapis Lazuli 75px|link=Raw Iron75px|link=Raw Gold 75px|link=Redstone Dust 75px|link=Diamond 75px|link=EmeraldMinimum pickaxe tier required Found in biome Any  Any  Any AbundanceVery commonCommonVery commonRareCommonRareCommonUncommonVery rareUncommonTotal range 0 to 320-16 to 112  -64 to 64 -64 to 72
+80 to 320 -64 to 32 -64 to 256 -64 to 16 -64 to 16 -16 to 320Most found in layers 4543 -2 14 -18 32 to 256  -59 -59 85None at layers -64 to -1-64 to -17 and 113 to 320 65 to 320 73 to 79 33 to 320 257 to 320 16 to 320 16 to 320 -64 to -17
+
+The Nether
+Ore block 75px|link=Nether Quartz Ore 75px|link=Nether Gold Ore75px|link=Ancient Debris Raw resource 75px|link=Nether Quartz 75px|link=Gold Nugget Minimum pickaxetier required  Found in biomeAny Nether biome AbundanceVery commonCommonVery rare Most found in layers 114 16 Commonly up to layers 120 95 23 Rare on layers 123-125 96-116 22-119 None at or above 128 117 120
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+Since it is exclusive to only two categories of Overworld biomes (mountains and windswept hills), emerald ore is actually rarer than ancient debris per chunk.
+The texture of ores were changed in 1.17 to make them distinct for color blind players.
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+Caves and Cliffs development
+
+References
+
+Navigation
+
+cs:Ruda
+de:Erz
+es:Mena
+fr:Minerai
+hu:Érc
+it:Minerale
+ja:鉱石
+ko:광석
+pl:Złoża
+pt:Minério
+ru:Руда
+tr:Cevher
+uk:Руда
+zh:矿石

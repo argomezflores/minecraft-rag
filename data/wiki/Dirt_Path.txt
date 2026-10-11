@@ -1,0 +1,92 @@
+TITLE: Dirt Path
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Dirt_Path
+---
+Dirt paths are decorative blocks created by  a shovel on most types of dirt. They are mainly found in villages as a path for the villagers.
+
+Obtaining
+Breaking
+A shovel is the most efficient tool for mining dirt paths.
+
+, a dirt path block can be directly obtained in item form with a Silk Touch tool.
+
+, dirt paths always drop dirt when broken. Dirt path blocks can be obtained in item form only via the Creative inventory, commands, or . They can still be created from placed dirt, however, by  a shovel on dirt, as described in  below.
+
+Natural generation
+Dirt paths are naturally generated in villages when pathways replace grass blocks.
+Their purpose is aesthetics, and additionally , pathfinding for villagers. Most dirt paths connect to village structures and houses.
+
+Dirt paths also generate as part of some village structures and abandoned camps.
+
+Although they can't be placed that way by the player, village generation can cause them to appear under other blocks.
+
+Post-generation
+Dirt paths can be created by  any type of shovel on the side or top of dirt, grass block, coarse dirt, mycelium, podzol, or rooted dirt that has air above it. The shovel uses one durability.
+
+Usage
+Dirt paths are primarily used for decoration, although they also prevent hostile mobs from spawning. They are a similar color to grass blocks placed in a desert or savanna biome. They are only  of a block high, therefore items that require a full block like torches and buttons cannot be placed on them. Villagers and iron golems prefer to use dirt paths the most when routing compared to any other block.
+
+A dirt path block converts to dirt instantly if a block with a solid material is placed on top of it.
+
+Using a hoe on dirt path converts it to farmland. Since dirt paths can be created with any variant of dirt, it can be used as an intermediate step to convert podzol and mycelium, which cannot be tilled directly, into farmland.
+
+, using a flint and steel on a dirt path places fire on it. Doing this does not convert the path to dirt.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+If aimed correctly, an arrow can fly past the gap between a block and a dirt path placed below using commands.
+The idea of dirt paths came from a suggestion post in /r/Minecraft.
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Generated structure blocks
+Category:Createable blocks
+
+de:Trampelpfad
+es:Camino de tierra
+fr:Chemin de terre
+it:Sentiero sterrato
+ja:土の道
+ko:흙 길
+lzh:土徑
+nl:Graspad
+pl:Ścieżka
+pt:Caminho de Terra
+ru:Травяная тропинка
+uk:Ґрунтова стежка
+zh:土径

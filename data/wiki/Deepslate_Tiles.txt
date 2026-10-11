@@ -1,0 +1,70 @@
+TITLE: Deepslate Tiles
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Deepslate_Tiles
+---
+Deepslate tiles are a decorative variant of deepslate.
+
+Obtaining
+Breaking
+Deepslate tiles can be obtained by mining them with a pickaxe. When broken with any other tool, they drop nothing. Mining deepslate tiles takes longer than mining deepslate.
+
+Natural generation
+Deepslate tiles generate naturally in ancient cities.
+
+Crafting
+
+Crafting recipe: Deepslate Bricks, Deepslate Bricks, Deepslate Bricks, Deepslate Bricks arranged in the crafting grid → Deepslate Tiles,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Deepslate tiles and their slab, stair, and wall variants can also be obtained directly from stonecutting deepslate bricks or cobbled deepslate.
+
+Smelting ingredient
+
+Smelting recipe: Deepslate Tiles → Cracked Deepslate Tiles, XP: 0.1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+When originally added to the game, deepslate tiles did not have a crafting recipe. This was a mistake by developer Brandon Pearce.
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Tiefenschieferfliesen
+es:Baldosas de pizarra profunda
+fr:Ardoise des abîmes carrelée
+ja:深層岩タイル
+lzh:板石瓦
+pl:Łupkowe kafelki
+pt:Ladrilhos de Ardosiabissal
+ru:Глубинносланцевый плитняк
+th:กระเบื้องหินชนวนลึก
+uk:Глибосланцеві кахлі
+zh:深板岩瓦

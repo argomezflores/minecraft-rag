@@ -1,0 +1,58 @@
+TITLE: Mossy Cobblestone Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mossy_Cobblestone_Slab
+---
+A mossy cobblestone slab is a decorative slab variant of mossy cobblestone that generates in pillager outposts and is used for building.
+
+Obtaining
+Breaking
+Mossy cobblestone slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Mossy cobblestone slabs generate as part of pillager outposts.
+
+Crafting
+
+Crafting recipe: Mossy Cobblestone, Mossy Cobblestone, Mossy Cobblestone arranged in the crafting grid → Mossy Cobblestone Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when a mossy cobblestone slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Slabs
+
+fr:Dalle de pierres moussues
+ja:苔むした丸石のハーフブロック
+ko:이끼 낀 조약돌 반 블록
+pt:Laje de Pedregulho Musgoso
+zh:苔石台阶

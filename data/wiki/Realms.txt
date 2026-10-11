@@ -1,0 +1,211 @@
+TITLE: Realms
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Realms
+---
+thumb|Key art
+Minecraft Realms is an official subscription-based server hosting service that allows players to create and manage their own private Minecraft servers. Hosted by Mojang Studios, Realms provides a simple way to create servers and allows the owner to manage them from inside the game, without knowledge of hosting on the internet. Minecraft Realms also provides additional features such as player-made maps or Realms Hub. Only one player needs to own the subscription, while other players can be invited to a Realm for free. Realms are not intended for large public servers, but for groups of friends or as a family server.
+
+Realms internally uses Bedrock Dedicated Server in , and server.jar in .
+
+Subscriptions
+Realms is a subscription-based service. The player's account page on Minecraft.net offers options to extend a current subscription or buy a new one, which can also be done in-game. One player can have multiple active Realms subscriptions.
+thumb|The purchase screen for the two plans in Bedrock Edition
+There are two types of subscriptions in : Realms Core (3.99 per month) and Realms Plus (7.99 per month).https://minecraft.net/realms The main difference is that Realms Core is limited to 2 players at a time active in a world, and Realms Plus is limited to 10 players. Realms Plus also includes access to all Marketplace Pass content. Realms Core subscriptions can be upgraded to Realms Plus at any time without the loss of the Realms server.
+
+300px|thumb|The subscription screen in-game in Java Edition, accessed through the Configuration menu
+There are two types of subscriptions in  (also known as Java Realms), both with 10 players maximum: a reoccurring monthly charge that automatically renews the subscription every 30 days, or a one-time charge that comes in 30-day, 90-day, and 180-day packages and needs to be renewed manually. Both subscriptions cost US$7.99 per month.
+
+All players are able to have a 30-day free Realms trial, providing they have not already had a free trial on their account before.
+
+Any Realms subscription also includes a free Realms server for Minecraft Preview or Java snapshots, which exists separately from the default Realm but is connected to the same subscription. A player owning a Realm is prompted to activate their Preview Realm as soon as they open the game.
+
+Only the owner of a Realm needs a subscription to be able to manage the Realm. Other players can join the Realm for free if they have access granted by the owner.
+
+Requirements
+Realms is a service that can be used only by players who meet these requirements:
+The player must have purchased the full version of Minecraft and must be signed in with a Microsoft account.
+The player must have a stable Internet connection.
+Parental consent is required for players under the age of 16 in the US and the EU, or 19 in South Korea.
+If using a console, the player must also have an active subscription to either:
+Xbox Game Pass Core or Xbox Game Pass Ultimate if using an Xbox console.
+Nintendo Switch Online if using a Nintendo Switch.
+PlayStation Plus if using a PlayStation console.
+
+Usage
+
+Joining
+Players can access Realms in the following ways:
+
+By purchasing a subscription. This can be done from the main Realms screen, the Marketplace, on Minecraft.net, and in various other in-game screens. See  above for further information.
+By receiving an invite. When a player has an invite, a batch notification appears on the main menu. On the main Realms screen or in the Inbox, the player can view the invite, showing the Realm name, and owner name. Accepting the invite adds the Realm to the joined Realms list.
+Using invite links. Realm administrators can share invite codes, which can be entered in the Realms tab in the Play screen. Invite links can also be entered in an internet browser, using  followed by the code. If the link is valid, the player gets prompted to join the Realm and add it to the joined Realms list.
+
+thumb|An owned Realm in the Play screen
+The main menu for Realms, accessible from the title screen in Java Edition and the Play screen in Bedrock Edition, shows a list of Realms the player owns or has joined.
+
+The main page of a Realm shows the Realm's name and description, as well as online players and the option to manage the Realm, in the Realms Hub in Bedrock Edition. A Realm can be joined by pressing the "Play" button on a Realm, or by selecting the Realm through Quick Play in Minecraft Launcher. Additionally, in Bedrock Edition, the player can create a desktop shortcut that lets the player directly join the Realm:
+
+( for Preview) followed by the Realm's ID, found in the URL of the Realm's page on Minecraft.net or the debug menu in Minecraft Preview.
+
+Members
+thumb|Members tab in the Realms Hub
+All members of a Realm can be viewed and managed in the "Members" tab, under  in Bedrock Edition. The list allows to open player's Profile screens, and can be sorted and filtered, to show which players are active, for example.
+
+In the members tab, the owner can change a member's Realm role to Administrator. This allows them to manage all Realm features that were previously exclusive to the owner, except changing Realm roles and subscription settings. All members can view each other's Realm permissions.
+
+Realm administrators can invite players by adding their player name to the Realm in Java Edition, or by adding an Xbox friend in the "Manage Realm members" screen in Bedrock Edition. Players can be added as friends by entering the gamertag in the "Search for players" screen that is accessed here.
+
+Administrators can remove individual players at any time from the Realm, and they can also be banned to prevent them from re-joining with an invite link. For each player, the Realm owner can set the permission level/player permissions.
+
+Members can also be managed from the game menu in Bedrock Edition while playing on the Realm. All players can also invite other members to join through the social system, and parties can move to Realms, provided that all members have access.
+
+Invite links
+
+Administrators or the owner can create and activate invite links for the Realm. Any player can join the Realm by entering it in the "Join a Realm" screen in-game, or by entering  in the browser's search bar followed by the invite link. Invite links automatically expire in 7 days, but this can be disabled or set to a different time between 30 minutes and 7 days, with limited options. Administrators can also enable or disable invite links manually.
+
+A maximum of 5 invite links can be stored on the Realm.
+
+Worlds
+thumb|World selection in the Realms Hub
+A Realms server can store up to three worlds, from which one can be activated at a time. Administrators can select which world is activated and edit its settings (including add-ons), or manage the world files. Not all options from the regular Edit world screen are available for Realms, but this can be bypassed by uploading a local world to the Realm. A world slot on the Realm can be replaced by any local world of the Realms owner, from the Create new world, Edit world, and Realms Edit world screen. Administrators can also choose to download a world, or reset the world slot to a new default world. In Bedrock Edition, most world settings can also be changed from the game menu while playing on the Realm.
+
+Non-administrator members can view the activated world only, without its settings.
+
+In Bedrock Edition, any Realms subscription also allows access to the Realms Celebration Map, which is enabled in the third world slot by default.
+
+Uploading worlds to Realms is the only official way of transferring worlds from and to consoles and Android internal storage.
+
+Bedrock Editor has a tool that allows directly publishing the current project to Realms.
+
+Backups
+Java Realms automatically creates a backup every few hours when players are online. Each backup shows the time it was made and its size.
+
+The owner of the Realm can choose to replace the world slot with the world data stored on a backup. Each backup can also be downloaded to the device as a singleplayer world.
+
+Realms saves
+
+thumb|The Saves screen
+In addition to the three Realm slots, multiple world saves can be stored on Realms. Automatic saves are taken at the end of every Realms play session when the server shuts down, or every 30 minutes during a play session, and are retained for a limited time.
+
+Administrators can also manually save backups on the Realm. These saves are retained as long as the Realm exists. Automatic saves can be turned into manual saves to retain them for longer and edit their names. However, the maximum storage for each Realm is limited for manual saves. Realms Plus subscriptions have 10GB of manual save storage, and Realms Core subscriptions have 5GB.
+
+The owner of the Realm can find the Realms saves for the currently activated world slot in the "Worlds" tab. They can choose to replace a world slot with a save, to download the save to the device, or delete it from the cloud. Saves from disabled world slots are not shown but still add up to storage.
+
+Maps
+
+thumb|The UI for selecting a minigame to install on the Realm
+On Java Edition, besides generating new worlds and uploading singleplayer worlds, Realm owners can also choose to install a premade map from a curated selection. All available maps are ensured to be compatible with the latest stable version (which a Realm must always run on), have been reviewed by Mojang and published through the Java Realms Content Creator Program.
+
+The full list of maps that have been submitted through the program, as well as whether they're currently available for install on Realms, can be found here.
+
+A Realm can have three world slots that the owner can switch between at any time. An additional temporary world slot is reserved for premade maps categorized as Minigames. Unlike regular worlds, minigames do not save players' progress, and they reset whenever all players log out.
+
+Realms Stories
+
+thumb|The "Story feed" tab in the Realms Hub
+, all members of a Realm have access to online social features that allow players to communicate outside of the world through the "Clubs" feature of the Xbox network. Players can post comments and screenshots, and like comments from other players. The game also creates stories known as Realm Events, which document an important event in the world, such as when players defeat the ender dragon.
+
+A report system allows members to notify the administrators about posts, which they can delete or report to Xbox Enforcement. There is also an Admin log, which shows most Realm changes performed by administrators.
+
+Players that are opted in have access to the Timeline, a table that shows the playing activity for all members on the Realm.
+
+For social features in the Realms Hub, several settings are available. Administrators can toggle Realm Events, Realm Event coordinates, the Timeline, and whether opting in is required to play on the Realm. It is accessible from the Realms Hub in the settings tab.
+
+Settings
+
+The settings tab allows members to leave the Realm. Re-joining it requires a new invitation or invite link.
+
+Exclusive settings exist for administrators to manage the Realm, including Realm name (up to 64 characters) and optional description (200 characters), and server region. Administrators can also choose to close the Realms server, which makes members unable to play on the Realm.
+
+A custom server region for the Realm can be configured through the Realm's settings menu. The owner can choose whether Realms should automatically select the server region with the lowest ping for the first player to join a session, or always select a specific server region. The selected server region is shown in the loading world screen when joining a Realm. The following server regions are available:
+<big>
+
+In Java Edition, players can toggle the profanity filter in the in-game chat from the account settings on Minecraft.net. In Bedrock Edition, the profanity filter can be toggled per player from the in-game settings.
+
+On the profile page on Minecraft.net, all owned Realms can be viewed and managed. Most Realm-wide settings can also be changed here, including name and description, invite links, activated world, and player permissions. Friends can be invited and members can be removed or banned.
+
+In the settings screen, the subscription can also be viewed and managed by the owner, depending on how it was purchased.
+
+Limitations
+Although Realms is hosted by Mojang Studios, it has some limitations. These limitations can be avoided by using standalone server software or a third-party hosting website.
+
+In all versions and plans, the Realm has a player slot reserved for the owner only. The amount of other players who can play simultaneously are as follows:https://www.minecraft.net/en-us/realms
+In Bedrock Edition, Realms Core allows up to 2 other players, while Realms Plus allows up to 10.
+In Java Edition, a Realm can have up to 10 other players.
+In Java Edition only:
+To invite or uninvite a player, or give or revoke operator status, the operator/owner must quit to menu and open the Realm's config menu from there.
+If a minigame is being played, all players have permission level 0 including the owner.
+When not playing a minigame, the owner's operator status cannot be revoked.
+Worlds on Realms cannot use experimental settings. This applies to all user-uploaded worlds, as well as maps published through the Java Realms Content Creator Program.
+Mods and plugins cannot be installed.
+The render distance is always set to 12 chunks.https://x.com/CornerHardMC/status/1559305720230662144
+Players get kicked after 15 minutes of inactivity. This can be bypassed with an endless circling pool.
+In Bedrock Edition only:
+The render distance is always limited to 25 chunks. Administrators can lower this limit down to 4 chunks.
+The simulation distance is always limited to 4 chunks.
+The player can't enable experiments and world creation options including world seed, flat world, starting map, bonus chest, and Hardcore. However, all of these options are still available on Realms by uploading a local world with these options enabled to the Realm.
+Experiments are noted as "under construction" in the Edit world screen.
+Realms must always use the latest stable or development version of the game, except when the latest server version is backward-compatible with a client version.
+
+History
+Minecraft version history
+Java Edition
+
+Bedrock Edition
+
+Realms version history
+
+Java Edition
+Since Java Edition 1.7.10, Realms has had its own versioning system. Below is a changelog of these updates:
+
+Bedrock Edition
+
+Availability
+The following chart shows when Realms was introduced in the respective countries.
+
+Country/RegionAvailable sinceAfghanistan2014-05-06Aland Islands2014-04-24Albania2014-05-06Algeria2014-05-19Andorra2014-05-06Angola2014-05-19Antigua & Deps2014-05-19Argentina2014-05-19Armenia2014-05-19Australia2014-05-09Austria2014-05-06Azerbaijan2014-05-19Bahamas2014-05-19Bahrain2014-05-19Bangladesh2014-05-19Barbados2014-05-19Belarus2014-05-06Belgium2014-04-24Belize2014-05-19Benin2014-05-19Bhutan2014-05-19Bolivia2014-05-19Bosnia Herzegovina2014-05-06Botswana2014-05-19Brazil2014-05-19Brunei2014-05-19Bulgaria2014-04-24Burkina2014-05-19Burundi2014-05-19Cambodia2014-05-19Cameroon2014-05-19Canada2014-04-01Cape Verde2014-05-19Cayman Islands2014-04-24Central African Rep2014-05-19Chad2014-05-19Chile2014-05-19China2014-05-19Colombia2014-05-19Comoros2014-05-19Congo2014-05-19Congo (Democratic Rep)2014-05-19Cook Islands2014-05-09Costa Rica2014-05-19Croatia2014-04-24Cuba2014-05-19Cyprus2014-05-06Czech Republic2014-05-06Denmark2014-02-26Djibouti2014-05-19Dominica2014-05-19Dominican Republic2014-05-19East Timor2014-05-19Ecuador2014-05-19Egypt2014-05-06El Salvador2014-05-19Equatorial Guinea2014-05-19Eritrea2014-05-19Estonia2014-04-24Ethiopia2014-05-19Faroe Islands2014-02-26Fiji2014-05-09Finland2014-02-26France2014-05-06Gabon2014-05-19Gambia2014-05-19Georgia2014-05-19Germany2014-05-06Ghana2014-05-19Gibraltar2014-05-06Greece2014-04-24Greenland2014-02-26Grenada2014-05-19Guam2014-05-09Guatemala2014-05-19Guernsey2014-05-06Guinea2014-05-19Guinea-Bissau2014-05-19Guyana2014-05-19Haiti2014-05-19Honduras2014-05-19Hungary2014-04-24Iceland2014-02-26India2014-05-19Indonesia2014-05-19Iran2014-05-06Iraq2014-05-06Ireland (Republic)2014-03-25Isle of Man2014-04-24Israel2014-04-24Italy2014-05-06Ivory Coast2014-05-19Jamaica2014-05-19Japan2014-05-19Jersey2014-05-06Jordan2014-05-06Kazakhstan2014-05-19Kenya2014-05-19Kiribati2014-05-09Korea North2014-05-19Korea South2014-05-19Kosovo2014-05-19Kuwait2014-05-19Kyrgyzstan2014-05-19Laos2014-05-19Latvia2014-04-24Lebanon2014-05-19Lesotho2014-05-19Liberia2014-05-19Libya2014-05-19Liechtenstein2014-05-06Lithuania2014-04-24Luxembourg2014-04-24Macedonia (Republic)2014-05-06Madagascar2014-05-19Malawi2014-05-19Malaysia2014-05-19Maldives2014-05-19Mali2014-05-19Malta2014-04-24Marshall Islands2014-05-09Mauritania2014-05-19Mauritius2014-05-19Mexico2014-04-24Micronesia2014-05-09Midway Islands2014-05-09Middle East2014-05-19Moldova (Republic)2014-05-06Monaco2014-05-06Mongolia2014-05-19Montenegro2014-05-06Morocco2014-05-19Mozambique2014-05-19Myanmar, (Burma)2014-05-19Namibia2014-05-19Nauru2014-05-09Nepal2014-05-19Netherlands2014-03-25New Caledonia2014-05-09New Zealand2014-05-09Nicaragua2014-05-19Niger2014-05-19Nigeria2014-05-19Niue2014-05-09Norfolk Island2014-05-09Norway2014-02-26Oman2014-05-06Pakistan2014-05-06Palau2014-05-09Panama2014-05-19Papua New Guinea2014-05-09Paraguay2014-05-19Peru2014-05-19Philippines2014-05-19Pitcairn Islands2014-05-09Poland2014-05-06Polynesia2014-05-09Portugal2014-05-06Puerto Rico2014-05-06Qatar2014-05-19Romania2014-04-24Russian Federation2014-05-06Rwanda2014-05-19St Kitts & Nevis2014-05-19St Lucia2014-05-19Saint Vincent & the Grenadines2014-05-19Saipan2014-05-09Samoa2014-05-09San Marino2014-05-06Sao Tome & Principe2014-05-19Saudi Arabia2014-05-06Senegal2014-05-19Serbia2014-05-06Seychelles2014-05-19Sierra Leone2014-05-19Singapore2014-05-19Slovakia2014-04-24Slovenia2014-04-24Solomon Islands2014-05-09Somalia2014-05-19South Africa2014-04-24Spain2014-05-06Sri Lanka2014-05-19Sudan2014-05-19Suriname2014-05-19Svalbard2014-05-06Swaziland2014-05-19Sweden2013-12-19Switzerland2014-05-06Syria (Republic)2014-05-06Taiwan2014-05-19Tajikistan2014-05-19Tanzania2014-05-19Thailand2014-05-19Togo2014-05-19Tokelau2014-05-09Tonga2014-05-09Trinidad & Tobago2014-05-19Tunisia2014-05-19Türkiye2014-05-06Turkmenistan2014-05-06Tuvalu2014-05-09Uganda2014-05-19Ukraine2014-05-06United Arab Emirates2014-04-24United Kingdom2014-03-25United States2014-04-24Uruguay2014-05-19Uzbekistan2014-05-19Vanuatu2014-05-09Vatican City2014-05-06Venezuela2014-05-19Vietnam2014-05-19Wallis Futuna Islands2014-05-09Yemen2014-05-06Zambia2014-05-19Zimbabwe2014-05-19
+
+Issues
+
+Trivia
+The Mojang blog closing signature was signed "// The Minecraft and Minecraft Realms teams" instead of the usual "// The Minecraft team" starting with the blog Minecraft Snapshot 13w09a.Minecraft Snapshot 13w09a by Jens Bergensten. Mojang.com, February 26, 2013
+The world selection menu for Bedrock Edition Realms on Minecraft.net shows the discontinued "Cliffside Village" seed template thumbnail.
+The world selection menu in the Realms Hub shows the discontinued Survival Island, Savanna Village, and Forest Glade seed template thumbnails.
+
+Gallery
+Artwork
+
+Realms Plus
+
+Screenshots
+
+Java Edition
+
+Bedrock Edition
+
+Development screenshots
+
+Historical screenshots
+
+Notes
+
+References
+
+Navigation
+
+Category:Realms
+
+cs:Realms
+de:Minecraft Realms
+es:Realms
+fr:Realms
+it:Realms
+ja:Realms
+ko:Realms
+nl:Realms
+pl:Realms
+pt:Realms
+ru:Realms
+th:Realms
+uk:Realms
+zh:Realms

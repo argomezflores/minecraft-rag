@@ -1,0 +1,73 @@
+TITLE: Gilded Blackstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Gilded_Blackstone
+---
+Gilded blackstone is a variant of blackstone found exclusively in bastion remnants, that can drop itself or gold nuggets when mined.
+
+Obtaining
+Breaking
+Gilded blackstone requires a pickaxe to be mined, in which case it drops itself or gold nuggets. When mined without a pickaxe, it drops nothing. Gilded blackstone has a 10% chance to drop 2–5 gold nuggets when mined with any pickaxe. If it does not drop gold nuggets, it drops itself as a block. If a gilded blackstone is mined with a Silk Touch enchanted pickaxe, it always drops itself.
+
+As with the drop chance of flint from gravel, the Fortune enchantment does not increase the amount dropped, but increases the chance of gold nuggets dropping. Fortune I increases the chance for this drop to 14.29% (), Fortune II increases it to 25%, and Fortune III guarantees the gold nugget drop.
+
+Natural generation
+Gilded blackstone generates as part of bastion remnants, replacing some of the blackstone in the structure; they can also be found beneath bastion remnants chests.
+
+Generated loot
+
+Usage
+Gilded blackstone is primarily used for decoration.
+
+Piglins
+Piglins run toward any gilded blackstone item on the ground, and inspect it for 6 seconds  or 8 seconds  before putting it in their inventory.
+
+Piglins become hostile toward players that break gilded blackstone.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Gilded blackstone is not an ore, as it cannot be smelted.. "WAI as gilded blackstone is not a gold ore and cannot be smelted into gold ingots." – Cory Scheviak, 16 April 2020
+Gilded blackstone was named after Gilded Games, the studio behind The Aether mod.(The Aether Project Discord) https://discord.com/channels/118816101936267265/229460143912255488/697539028760920115
+
+Gallery
+Mojang screenshots
+
+References
+
+External links
+
+Navigation
+
+Category:Nether blocks
+Category:Generated structure blocks
+
+de:Golddurchzogener Schwarzstein
+es:Piedra negra áurea
+fr:Roche noire dorée
+ja:きらめくブラックストーン
+ko:황금이 박힌 흑암
+lzh:嵌金之墨石
+pl:Złocony czernit
+pt:Pedra-Negra Dourada
+ru:Позолоченный чернокамень
+uk:Позолочений чорнокамінь
+zh:镶金黑石

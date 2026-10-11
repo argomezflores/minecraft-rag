@@ -1,0 +1,104 @@
+TITLE: Minecart with Chest
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Minecart_with_Chest
+---
+A minecart with chest is a single chest inside a minecart, and functions as such.
+
+Obtaining
+Natural generation
+Minecarts with chests containing loot naturally generate in mineshafts, each on top of a rail.
+
+Crafting
+
+Similarly to other forms of minecart, minecarts with chests can be destroyed by attacking them, and doing so drops them as an item. Despite the appearance of the relevant particles, critical hits are not applied to them.
+
+Usage
+thumb|176px|The GUI of a minecart with chest
+Minecarts with chests can be placed by  on any type of rail.
+
+Chest minecarts' contents can be accessed by pressing  button on them. The interaction makes no sounds and the chest does not show the opening or closing animation, unlike regular chests.
+
+The boost that minecarts with chests gain from powered rails is dependent on their load. For example, from a 1 powered rail starter track, an empty minecart with chest travels 64 blocks, but a full minecart with chest travels only 16 blocks (opposed to 80 blocks for an occupied normal minecart and 8 blocks for an empty normal minecart).
+
+Another physical property of chest minecarts is their ability to be stacked. While three chests can fit in an area three blocks tall, up to four chest minecarts can fit in the same area. Like other minecarts, an unlimited number of minecarts with chests can exist in the same block space.
+
+Minecarts with chests are also able to interact with hoppers. Hoppers can take items out from the minecart chest if they are below the track as the minecart rolls over it or put them in if the minecart rolls under a downward facing hopper. Hoppers can also input items if they are facing into the side of the minecart.
+
+Opening or destroying a minecart with chest angers piglins.
+
+When on top of detector rails, nearby redstone comparators emit redstone signals based on how full the minecarts with chests are.
+
+, minecarts with chests cannot enter boats, unlike minecarts.
+
+Sounds
+:
+Minecarts with chests use the Friendly Creatures sound category for entity-dependent sound events.
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+Minecarts with chests have entity data associated with them that contain various properties of the entity.
+
+:
+
+Entity data
+
+:
+See Bedrock Edition level format/Entity format.
+
+Achievements
+
+Videos
+
+History
+thumb|The minecart models  were north or south on the sides. In the latest version, the front and rear sides are north or south. But the absolute orientation of the chest was not changed.
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Prior to the minecart with chest's addition, the second revision of the regular minecart model had a chest inside it. This lasted from Infdev 20100624 to Alpha v1.0.3.
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Storage
+Category:Readable by comparators
+Category:Vehicles
+
+cs:Nákladní vozík
+de:Güterlore
+es:Vagoneta con cofre
+fr:Wagonnet de stockage
+hu:Tárolócsille
+it:Carrello da miniera
+ja:チェスト付きのトロッコ
+ko:상자가 실린 광산 수레
+lzh:箱礦車
+nl:Mijnkar met kist
+pl:Wagonik ze skrzynią
+pt:Carrinho de mina com baú
+ru:Вагонетка с сундуком
+uk:Вагонетка зі скринею
+zh:运输矿车

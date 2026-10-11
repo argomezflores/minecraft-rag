@@ -1,0 +1,63 @@
+TITLE: Honeycomb
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Honeycomb
+---
+Honeycombs are items obtained by shearing full bee nests and beehives. They are used to craft beehives, candles, and honeycomb blocks. It can also be applied as wax to many copper blocks to prevent them from oxidizing over time, as well as to signs to prevent them from being edited.
+
+Obtaining
+Harvesting
+
+When a bee nest or beehive at  5 is sheared, it drops 3 honeycombs and angers any bees inside, causing them to attack. Having a lit campfire or soul campfire or lighting a fire underneath the nest or hive prevents the bees from becoming hostile.
+
+A dispenser with shears inside can be used to shear the nest without angering the bees. The honeycomb pops out as a dropped item.
+
+Generated loot
+
+Usage
+Signs
+a honeycomb on a sign or a hanging sign prevents the sign from being edited.
+
+Waxing
+a honeycomb on any copper block including the lightning rod, or on a copper golem, changes the block or golem into its waxed variant, preventing oxidation of the copper.
+
+Crafting ingredient
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+In other media
+
+Navigation
+
+cs:Plástev medu
+de:Honigwabe
+es:Panal
+fr:Rayon de miel
+it:Favo
+ja:ハニカム
+ko:벌집 조각
+pl:Plaster miodu
+pt:Favo de Mel
+ru:Пчелиные соты
+uk:Медові стільники
+zh:蜜脾

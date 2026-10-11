@@ -1,0 +1,55 @@
+TITLE: Flame
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Flame
+---
+Flame is an enchantment applied to bows that causes arrows shot by the bow to be set on fire.
+
+Obtaining
+Flame can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagers, and non-village structure loot.
+
+Usage
+Arrows shot from a Flame bow are on fire when shot, set fire to mobs they hit, and deal  fire damage over 5 seconds (first damage is ignored). Fire damage applies after initial damage, similar to Fire Aspect for melee weapons. Creatures killed by fire do not drop XP unless a player has dealt non-fire damage to it within the past 5 seconds.
+
+Unlike flint and steel, flaming arrows affect only players, mobs, TNT, campfires, and candles. No other blocks catch fire. For example, a flaming arrow shot into a tree continues to burn without igniting the tree. Flaming arrows do not produce light.
+
+Flaming arrows become normal arrows if fired through water or rain.
+
+If commands or an NBT editor are used to increase the enchantment level beyond its normal limit of 1, the duration of the fire does not increase accordingly.
+
+Specific cases
+If Flame is applied to a crossbow by use of commands or an anvil in Creative, the enchantment causes the weapon to set targets on fire when using arrows as ammo, but not when using firework rockets as ammo. If Flame is applied to a trident by use of commands or an anvil in Creative, the enchantment cause the weapon's thrown projectile to ignite TNT, TNT minecarts, candles, and campfires, but not entities.
+
+Immune mobs
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+If the flaming arrow ignites a TNT, the TNT's explosion damage counts as an attack of the arrow's owner.
+Thus a mob killed by such a TNT drops experience, and its drops are even affected by Looting if the owner is holding an item enchanted with it.
+
+Navigation
+
+de:Flamme
+es:Fuego (encantamiento)
+fr:Flamme
+it:Fiamma
+ja:フレイム
+pt:Chama
+ru:Воспламенение
+th:เปลวไฟ
+zh:火矢

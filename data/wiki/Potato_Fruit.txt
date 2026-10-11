@@ -1,0 +1,30 @@
+TITLE: Potato Fruit
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Fruit
+---
+A potato fruit is a food block that generates as part of potato trees in 24w14potato.
+
+Obtaining
+Breaking
+Potato fruit drops as an item when mined with any tool or by hand, but mining it with a sword is the fastest.
+
+Natural generation
+Potato fruits generate naturally as part of potato trees, and in piles in potato villages.
+
+Usage
+To eat potato fruit, press and hold  while it is selected in the hotbar. Eating potato fruit restores  hunger and 14.4 saturation. Eating it also inflicts Poison for 2 seconds.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Food
+Category:Natural blocks
+
+ja:Potato Fruit
+zh:马铃薯果实

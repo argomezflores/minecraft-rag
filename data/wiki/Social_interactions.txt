@@ -1,0 +1,51 @@
+TITLE: Social interactions
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Social_interactions
+---
+thumb|The Social Interactions screen
+The Social Interactions screen is a graphical interface used to disable chatting with certain players, and report players for messages, skins, usernames, or screenshots that go against the Minecraft Community Standards.
+
+Usage
+
+By default, the Social Interactions screen is opened by pressing  on the keyboard. It can also be opened by clicking on the "Player Reporting" button on the pause menu in multiplayer games. The "All" tab lists all players who have joined the server, the "Hidden" tab shows players whose chat messages are hidden, and the "Blocked" tab shows players blocked using their Microsoft account. Attempting to open the screen in a singleplayer world displays the message "Social Interactions are only available in multiplayer worlds".
+
+Player reporting
+thumb|The screen seen if the player’s account has been permanently banned online.
+Players' skins, usernames, chat messages, screenshots, or Realms Stories posts may be reported to Mojang Studios by other players. All player reports are manually reviewed with the given context by Mojang staff.
+
+Potential outcomes for a player report are as follows:https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition#h_01GD13PG9R60SYNDV88FKFSHRH
+
+No action taken.
+Temporary, or permanent bans from online play.
+Banning the use of a reported skin.
+Banning the use of a reported username.
+
+In the event of a banned skin, the player and any other players with the banned skin have theirs reset to a default skin. In the event of a banned username, the player with the banned username is temporarily suspended from online play until the username is changed.
+
+Most public third-party servers do not have in-game player reporting enabled due to technical reasons from the server software used (or disable it actively). However, the officially supported server hosting platform, Minecraft Realms, has this feature fully enabled and functional, with no way to disable it.
+
+Player report categories
+A report category must be selected when reporting a player.
+CategoryIn-game descriptionI want to report them.I'm annoyed with them or they have done something I do not like.Self-harm or suicide.Someone is threatening to harm themselves in real life or talking about harming themselves in real life.Child sexual exploitation or abuse.Someone is talking about or otherwise promoting indecent behavior involving children.Terrorism or violent extremism.Someone is talking about, promoting, or threatening to commit acts of terrorism or violent extremism for political, religious, ideological, or other reasons.Hate speech.Someone is attacking you or another player based on characteristics of their identity, like religion, race, or sexuality.Threat of harm to others.Someone is threatening to harm you or someone else in real life.Non-consensual intimate imagery.Someone is talking about, sharing, or otherwise promoting private and intimate images.Harassment or bullying.Someone is shaming, attacking, or bullying you or someone else. This includes when someone is repeatedly trying to contact you or someone else without consent or posting private personal information about you or someone else without consent ("doxing").Defamation.Someone is damaging your or someone else's reputation, for example sharing false information with the aim to exploit or mislead others.Drugs or alcohol.Someone is encouraging others to partake in illegal drug related activities or encouraging underage drinking.
+
+History
+
+Gallery
+
+Issues
+
+See also
+Server
+Chat
+
+References
+
+Navigation
+
+de:Interaktionsfenster
+es:Interacciones sociales
+fr:Interactions sociales
+ja:社交設定画面
+pt:Interações sociais
+ru:Экран социальных взаимодействий
+zh:社交屏幕

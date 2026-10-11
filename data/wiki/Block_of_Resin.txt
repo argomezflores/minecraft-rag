@@ -1,0 +1,60 @@
+TITLE: Block of Resin
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Resin
+---
+A block of resin, internally known as a resin block, is a block equivalent to nine resin clumps. It acts as a good temporary block being broken instantly without having any unusual properties, and can be used to craft creaking hearts.
+
+Obtaining
+Breaking
+Blocks of resin can be broken instantly, regardless of held items, or when under the Mining Fatigue effect. When broken, it drops itself.
+
+Crafting
+
+Crafting recipe: Resin Clump, Resin Clump, Resin Clump, Resin Clump, Resin Clump, Resin Clump, Resin Clump, Resin Clump, Resin Clump arranged in the crafting grid → Block of Resin.
+
+Natural generation
+Blocks of resin can generate in pale garden abandoned camps.
+
+Usage
+Because blocks of resin can be broken instantly without any tool, and do not have unusual interactions like slime block, honey block, and TNT, they can be used as a temporary building block that is easy to place and break.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Mojang screenshots
+
+References
+
+Navigation
+
+Category:Compacted blocks
+
+de:Harzblock
+es:Bloque de resina
+fr:Bloc de résine
+ja:樹脂ブロック
+ko:수지 블록
+lzh:樹香塊
+pl:Blok żywicy
+pt:Bloco de Resina
+ru:Смоляной блок
+th:บล็อกยางไม้
+uk:Блок смоли
+zh:树脂块

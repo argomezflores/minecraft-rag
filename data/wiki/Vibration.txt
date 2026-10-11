@@ -1,0 +1,71 @@
+TITLE: Vibration
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Vibration
+---
+thumb|A vibration particle.
+Vibrations are a gameplay mechanic based around the concept of sound and its physical interactions. Most in-game actions and events produce vibrations, which can be of different frequencies. Wool can be used to dampen or block vibrations and prevent them from traveling if collided with. Vibrations are solely utilized by sculk sensors, sculk shriekers, wardens, and allays.
+
+Mechanics
+Vibrations only appear and function when an applicable "detector", such as a sculk sensor or warden, is nearby.
+
+When a vibration is created, it takes the appearance of a blue-cyan "sound wave" particle which moves from its source of origin to the entity which detected it. Vibration waves move at a constant speed which cannot be altered.
+
+Vibration frequency
+Each vibration in the game falls under a certain frequency value. This value can be measured with a comparator. With the right contraption utilizing a calibrated sculk sensor or sculk sensor, the player could detect if a certain action has occurred or is occurring  nearby.
+OutputVibration typeGame eventDescriptionStepminecraft:stepPlayer or entity stepsSwimminecraft:swimPlayer or entity swims, or boat paddlesFlapminecraft:flapEntity flaps (bat)Resonate 1minecraft:resonate_1Block of amethyst re-emits a vibration with a frequency value of 1Projectile Landminecraft:projectile_landProjectile lands (Snowball hits a block)Hit Groundminecraft:hit_groundPlayer or entity hits ground after a jump or fallBounceminecraft:bouncePlayer or entity bounces off a slime block or a bedSplashminecraft:splashPlayer or entity splashes in water, enters water or enters bubble columnResonate 2minecraft:resonate_2 Block of amethyst re-emits a vibration with a frequency value of 2Item Interact Finishminecraft:item_interact_finishAny interaction using a shield, spyglass, or bone mealProjectile Shootminecraft:projectile_shootProjectile is shot (can be an arrow, a firework, etc.)Instrument Playminecraft:instrument_playGoat horn playsResonate 3minecraft:resonate_3Block of amethyst re-emits a vibration with a frequency value of 3Entity Actionminecraft:entity_actionEntity roars (Ravager), entity shakes water off (wolf after swimming), entity holds or stops holding item (Villager, copper golem, fox, allay), sniffer digs, armadillo rolls up or unrolls, or creaking stops or starts movingElytra Glideminecraft:elytra_glidePlayer glidesUnequipminecraft:unequipArmor gets unequipped from an armor slot or an armor standResonate 4minecraft:resonate_4Block of amethyst re-emits a vibration with a frequency value of 4Entity Dismountminecraft:entity_dismountPlayer dismounts from a mount or vehicleEquipminecraft:equipArmor gets equipped to an armor slot or an armor standResonate 5minecraft:resonate_5Block of amethyst re-emits a vibration with a frequency value of 5Entity Mountminecraft:entity_mountPlayer mounts a mount or vehicleEntity Interactminecraft:entity_interactPlayer interaction with entity (breeding)Shearminecraft:shearA sheep, mooshroom, or bogged gets shearedResonate 6minecraft:resonate_6Block of amethyst re-emits a vibration with a frequency value of 6Entity Damageminecraft:entity_damageEntity takes damageResonate 7minecraft:resonate_7Block of amethyst re-emits a vibration with a frequency value of 7Drinkminecraft:drinkEntity drinks (i.e. uses a bottled liquid or milk bucket)Eatminecraft:eatEntity eats.This includes players eating items, sheep attempting to eat grass, and pandas finishing eating bamboo.Not triggered by horses grazing, players feeding other animals, or frogs eating slimes and magma cubesResonate 8minecraft:resonate_8Block of amethyst re-emits a vibration with a frequency value of 8Container Closeminecraft:container_closeContainer (chest, barrel, shulker box) closesBlock Closeminecraft:block_closeDoor, trapdoor, or fence gate closesBlock Deactivateminecraft:block_deactivateBlock deactivation (piston retracts, lever is switched off, button or pressure plate turn off)Block Detachminecraft:block_detachTripwire gets detached from a tripwire hookResonate 9minecraft:resonate_9Block of amethyst re-emits a vibration with a frequency value of 9Container Openminecraft:container_openContainer (chest, barrel, shulker box) opensBlock Openminecraft:block_openDoor, trapdoor, or fence gate opensBlock Activateminecraft:block_activateBlock activationA  piston, button, lever, or pressure plate is powered, or potent sulfur erupts.Not triggered by a crafter, dispenser, dropper, or jukeboxBlock Attachminecraft:block_attachTripwire gets attached to a tripwire hookPrime Fuseminecraft:prime_fuseTNT block or creeper is ignitedNote Block Playminecraft:note_block_playNote block plays a noteResonate 10minecraft:resonate_10Block of amethyst re-emits a vibration with a frequency value of 10Block Changeminecraft:block_changeBlock changes state (chiseled bookshelf, lectern, composter, decorated pot, bell ringing, item frame etc.)Resonate 11minecraft:resonate_11Block of amethyst re-emits a vibration with a frequency value of 11Block Destroyminecraft:block_destroyBlock destructionTriggered by block breaking, removing a block required to support it, or pushing it with a piston (if the block is broken when moved).Not triggered when blocks are destroyed by an explosion.Fluid Pickupminecraft:fluid_pickupLiquid is picked up into a glass bottle or empty bucket (i.e. the bottle or bucket is used, filling it with water, lava, milk, honey, powder snow, or a potion from a cauldron)Resonate 12minecraft:resonate_12Block of amethyst re-emits a vibration with a frequency value of 12Block Placeminecraft:block_placeBlock placementFluid Placeminecraft:fluid_placeFluid placementResonate 13minecraft:resonate_13Block of amethyst re-emits a vibration with a frequency value of 13Entity Placeminecraft:entity_placeEntity placementTriggered by vehicle, armor stand, or item frame is placed; or a mob is spawned via spawn egg, mob spawner, creaking heart, or evoker magicNot triggered by random mob spawning or breedingLightning Strikeminecraft:lightning_strikeLightning strikesTeleportminecraft:teleportEndermen, shulker, or player eating a chorus fruit teleports.Not triggered by wolves, cats, or ender pearls.Resonate 14minecraft:resonate_14Block of amethyst re-emits a vibration with a frequency value of 14Entity Dieminecraft:entity_dieEntity dies or is broken (vehicle, armor stand, or item frame), firework finishesExplodeminecraft:explodeTNT, end crystal, bed, respawn anchor, creeper, ghast fireball, wind charge or wither skull explodesResonate 15minecraft:resonate_15Block of amethyst re-emits a vibration with a frequency value of 15
+
+Sources which are not detected
+The following occurrences, despite presumably causing physical motion, do not produce vibrations and therefore cannot be detected:
+Blocks destroyed by a fluid flowing into their space
+Several blocks being destroyed due to their supporting block being removed:
+Rails
+Powered rails
+Detector rails
+Activator rails
+Redstone wire
+Redstone repeaters
+Redstone comparators
+Several cases where a dispenser fails to perform an action:
+Flint and steel not creating fire
+Bone meal not growing something
+Heads and carved pumpkins, if not equipped on something or placed
+Shulker boxes, if not placed
+Shears, if there's nothing to shear
+Glowstone, if it doesn't charge a respawn anchor
+Inserting an eye of ender into an end portal frame
+Eyes of ender breaking
+Silverfish entering blocks
+Water and lava flowing into existing spaces, or drying up
+Changing the mode of a redstone comparator
+Changing the delay on a redstone repeater
+Changing the shape of a single unit of redstone wire
+Fire extinguished by rain
+A sculk shrieker shrieking
+
+The following cases have been confirmed to be intentional:
+Axolotls being bred via tropical fish buckets
+Moss blocks replacing existing blocks
+
+Amethyst resonation
+When a block of amethyst is placed adjacent to a sculk sensor or a calibrated sculk sensor, if that sculk sensor receives a vibration, the block of amethyst re-emits its frequency as a separate vibration at its location. This vibration can then be detected by another sculk sensor, allowing a chain of sculk sensors and amethyst blocks to be created, transmitting a signal wirelessly.
+
+Vibration occlusion
+Wool can be used to block vibrations from reaching nearby sculk sensors. If a wool block is placed between a sensor and a vibration source, the sensor is not able to detect vibrations behind it. Similarly, if a wool block is placed between a sensor and a sculk shrieker, the sensor is unable to alert the shrieker.
+
+Sculk sensors are not able to detect the placing and breaking of wool, as well as entities walking, sprinting, or jumping on top of it. They are also unable to detect items dropped on wool, or wool itself dropped in item form.
+
+Similar to sculk sensors, wardens are also unable to detect everything wool-related as listed above.
+
+Wool can also be used to block note block sounds from reaching allays.
+
+Achievements
+
+Advancements
+
+History
+
+References
+
+Navigation
+
+pt:Vibração

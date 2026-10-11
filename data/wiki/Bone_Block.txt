@@ -1,0 +1,85 @@
+TITLE: Bone Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bone_Block
+---
+Bone blocks are storage blocks equivalent to 9 pieces of bone meal.
+
+Obtaining
+Breaking
+Bone blocks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+thumb|Bone blocks generated naturally underground as part of a fossil.
+Bone blocks are generated naturally as part of fossil structures found in desert and swamp biomes. They also generate as part of nether fossils in soul sand valley biomes and also in trial chambers indicating trial spawners if it is a skeleton and a mixture with podzol indicating if it is a bogged.
+
+Generated loot
+
+Crafting
+
+Usage
+Bone blocks are decorative blocks, and can also be used as compact storage for bone meal.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Screenshots
+
+External links
+Block of the Week: Bone – Minecraft.net on August 4, 2017
+
+References
+
+Navigation
+
+Category:Compacted blocks
+Category:Natural blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Knochenblock
+es:Bloque de huesos
+fr:Bloc d'os
+it:Blocco d'ossa
+ja:骨ブロック
+ko:뼈 블록
+lzh:骨塊
+nl:Bottenblok
+pl:Blok kości
+pt:Bloco de Ossos
+ru:Костяной блок
+th:บล็อกกระดูก
+uk:Кістяний блок
+zh:骨块

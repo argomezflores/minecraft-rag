@@ -1,0 +1,91 @@
+TITLE: End Stone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/End_Stone
+---
+End stone is a block that appears in the End, and apart from generated structures, makes up all of the solid ground that exists in that dimension.
+
+Obtaining
+Breaking
+End stone can be obtained using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+300px|thumb|right|A large island consisting entirely of End stone.
+
+End stone is found only in the End, where it makes up all the floating islands that generate in the dimension.
+
+Post-generation
+Exit portal
+The 16 End stone blocks under the edge of the exit portal are replaced when the ender dragon is respawned, and again when it is killed. Because End crystals, which are used to respawn the dragon, are renewable, this makes End stone renewable as well.
+
+, End gateways generate a small floating island of End stone when an entity travels through, for the entity to land on if there are no valid locations.
+
+If an exit portal exists at a different position from the world origin (for example, an old exit portal from before 1.9), it is completely converted into End stone if the ender dragon is re-summoned.
+
+Usage
+End stone has a blast resistance of 9, which is 3 more than that of ordinary stone. This is the highest blast resistance of any block movable by pistons besides anvils, ancient debris, and netherite blocks.
+
+It cannot be picked up by endermen nor destroyed by the ender dragon.
+
+It is the only block on which chorus flowers can be planted.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sculk catalyst interactions
+End stone can be replaced by sculk via sculk catalysts.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+End stone's texture is an inversion, geometric translation, and recoloration of the cobblestone texture. (Specifically, the texture is shifted 3 pixels up, and 8 pixels to the right.)
+In the descriptions for several Youtooz figures, End stone is consistently referred to as "soul stone."Enderman - Youtooz CollectiblesEnder Dragon - Youtooz Collectible
+In a Block of the Week article, Jens Bergensten remarked he wanted to think of some sort of "fabled history" for the block, but struggled to think of anything worthwhile.
+Analyzing End stone in a material reducer reveals it to have a structure similar to carborundum.
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Natural blocks
+Category:End blocks
+
+de:Endstein
+es:Piedra del End
+fr:Pierre de l'End
+hu:Végzetkő
+it:Pietra dell'End
+ja:エンドストーン
+ko:엔드 돌
+lzh:終界石
+nl:Endsteen
+pl:Kamień Endu
+pt:Pedra do End
+ru:Камень Края
+th:หินเอนด์
+uk:Камінь Енду
+zh:末地石

@@ -1,0 +1,48 @@
+TITLE: Etho Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Etho_Slab
+---
+The etho slab is a joke slab only present in Java Edition 2.0. Its name is a reference to the YouTube channel EthosLab.
+
+Obtaining
+Breaking
+Unlike normal TNT, etho slabs do not break instantly.
+
+Crafting
+
+Crafting recipe: TNT, TNT, TNT arranged in the crafting grid → Etho Slab,6.
+
+Usage
+Etho slabs behave like TNT, with the only difference being that upon explosion there is a 25% chance of spawning a falling anvil one block above the nearest player within a 20 block radius, which is a reference to EthosLab's fondness in pranking his friends with a falling anvil.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+Blocks with data value 1 are called "Etho Slab (Lit??)" and explode on punch.
+
+ID
+
+Block metadata
+Bit Effect 1 (0x1) If this bit is set, the Etho slab is triggered on punch rather than destroyed. 4 (0x8) If this bit is set, the Etho slab is a top slab.
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Utility blocks
+Category:Mechanisms
+Category:Flammable blocks
+Category:Joke blocks
+Category:Joke entities
+Category:Slabs
+
+fr:Etho Slab
+ja:Etho Slab
+pt:Edição Java 2.0/Etho Slab
+ru:ТНТ-плита
+uk:Плита з динаміту
+zh:Etho台阶

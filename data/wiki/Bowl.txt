@@ -1,0 +1,82 @@
+TITLE: Bowl
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bowl
+---
+Bowls are containers that can hold certain foods.
+
+Obtaining
+Crafting
+
+Crafting recipe: Any Planks, Any Planks, Any Planks arranged in the crafting grid → Bowl,4.
+
+Fishing
+
+Bowls are obtainable through fishing, with a 1% chance per attempt. See fishing for more details.
+
+Mob loot
+When an adult turtle is killed by a lightning bolt, it drops 1 bowl.
+
+Generated loot
+
+Eating
+A bowl containing food (see below) becomes an empty bowl when the food is eaten.
+
+Usage
+Crafting ingredient
+
+Mooshrooms
+a bowl on a red mooshroom or brown mooshroom turns the bowl into mushroom stew or suspicious stew, respectively. The stew can then be consumed immediately and the process repeated, making this an excellent way to quickly restore depleted hunger and saturation with almost no cost or effort.
+
+Fuel
+Bowls can be used as a fuel in furnaces, smelting 0.5 items per bowl , and 1 item per bowl .
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+, bowls are actually more fuel efficient than sticks. If 6 wood planks are crafted into 8 bowls, 8 items can be smelted; but if those are crafted into 12 sticks, only 6 items can be smelted. This can be useful when the player only has access to Nether wood types, which cannot be used as fuel.
+
+Gallery
+In other media
+
+See also
+Mushrooms
+
+References
+
+External links
+
+Navigation
+
+cs:Miska
+de:Schüssel
+es:Cuenco
+fr:Bol
+hu:Tál
+it:Ciotola
+ja:ボウル
+ko:그릇
+lzh:椀
+nl:Kom
+pl:Miska
+pt:Tigela
+ru:Миска
+th:ชาม
+uk:Миска
+zh:碗

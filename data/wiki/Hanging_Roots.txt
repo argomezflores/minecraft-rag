@@ -1,0 +1,72 @@
+TITLE: Hanging Roots
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Hanging_Roots
+---
+Hanging roots are a natural decorative block found underground in the lush caves biome.
+
+Obtaining
+thumb|right|upright|The hanging roots generated along with the azalea tree.
+
+Breaking
+Hanging roots can be destroyed with any tool or by hand instantly, but can only be collected using shears. , any Silk Touch tool also works.
+
+Natural generation
+Hanging roots can generate inside a lush cave beneath an azalea tree on the surface above.
+
+Post-generation
+Using bone meal on rooted dirt causes hanging roots to grow below the block.
+
+Hanging roots may be obtained by using a hoe on rooted dirt, transforming the rooted dirt into normal dirt in the process.
+
+Usage
+Hanging roots can only be placed on the underside of a block.
+
+Composting
+Placing hanging roots into a composter has a 30% chance of raising the compost level by 1.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+History
+Announcement and tweets
+
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Plants
+Category:Natural blocks
+Category:Non-solid blocks
+Category:Flammable blocks
+
+de:Hängende Wurzeln
+es:Raíces colgantes
+fr:Racines suspendues
+ja:垂れ根
+ko:매달린 뿌리
+lzh:懸根
+pl:Zwisające korzenie
+pt:Raízes Suspensas
+ru:Свисающие корни
+uk:Висяче коріння
+zh:垂根

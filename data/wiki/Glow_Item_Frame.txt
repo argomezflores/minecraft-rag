@@ -1,0 +1,100 @@
+TITLE: Glow Item Frame
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Glow_Item_Frame
+---
+A glow item frame is an entity or block that keeps itself and the item inside of it illuminated, even in the dark.
+
+Obtaining
+Breaking
+, because the glow item frame is an entity, it can be broken by simply punching it, even in Adventure mode. It is also targeted by commands using the  selector.
+, no tool can accelerate the breaking process of the glow item frame.
+
+Glow item frame drops itself when it's destroyed.
+If the glow item frame contains an item, punching it drops the item, leaving the frame.
+
+Crafting
+
+Usage
+
+Glow item frames have the same properties, usage, and rotation functionalities as regular item frames.
+
+Unique properties
+thumb|260px|Comparison between ordinary item frame and glow item frame in the dark.
+
+When an item is placed inside a glow item frame, it appears to glow, though it does not emit any light level.
+
+Sounds
+Glow item frames share the same sounds as item frames.
+
+Generic
+:
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Despite being an entity in Java Edition, item frames utilize block states internally.
+
+:
+
+Item data
+:
+
+: the item's components tag.
+Unlike spawn eggs, cannot change the type of entity created using the id tag. Data that item frames do not normally use (see below) has no effect.
+
+Entity data
+
+, glow item frames have entity data that define various properties of the entity.
+
+Block data
+, a glow item frame has a block entity associated with it that holds additional data about the block.
+
+See Bedrock Edition level format/Block entity format.
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+Similar to the item frame, the glow item frame is the only entity to reference a block model. Because of this, the texture of the frame border is the same as the birch planks texture.
+Glow item frame is the only second placeable item that can interfere with other non-full block entities.
+Due to the way layer textures are displayed in Minecraft, maps float on glow item frames, similar to how icons float on the map itself.
+
+Gallery
+Renders
+
+Screenshots
+
+See also
+
+Navigation
+
+Category:Block entities
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Storage
+Category:Readable by comparators
+Category:Stationary entities
+Category:Renewable resources
+Category:Stackable resources
+Category:Non-solid blocks
+Category:Missing blast resistance
+Category:Missing hardness
+
+es:Marco luminoso
+fr:Cadre luisant
+ko:발광 아이템 액자
+pt:Moldura Brilhante
+uk:Сяйна рамка для предметів

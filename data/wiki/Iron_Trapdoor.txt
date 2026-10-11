@@ -1,0 +1,93 @@
+TITLE: Iron Trapdoor
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Iron_Trapdoor
+---
+An iron trapdoor is a variant of the trapdoor that can be only opened using redstone mechanisms.
+
+Obtaining
+Breaking
+Iron trapdoors require a pickaxe to drop as items. Trapdoors remain in place even if their attachment block is moved, removed, or destroyed.
+
+Natural generation
+Iron trapdoors generate in ancient cities.
+
+Crafting
+
+Crafting recipe: Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot arranged in the crafting grid → Iron Trapdoor,1.
+
+Usage
+
+Properties
+Iron trapdoors can only be toggled by a redstone signal.
+
+Player or Wind Charge blast cannot toggle iron trapdoors.
+
+Barrier
+Opening and closing an iron trapdoor requires redstone to do it. When a trapdoor opens or closes, it immediately changes its orientation without affecting anything in the space it "passes through".
+
+Redstone component
+
+Iron trapdoors can be controlled with redstone power. An iron trapdoor is a redstone mechanism and can be activated by weakly powering any cardinally adjacent block.
+
+When activated, the iron trapdoor immediately opens. When deactivated, it immediately closes.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+External links
+Taking Inventory: Trapdoor – Minecraft.net on October 19, 2018
+
+Navigation
+
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Utility blocks
+Category:Climbable blocks
+
+cs:Poklop
+de:Falltür
+es:Trampilla de hierro
+fr:Trappe en fer
+it:Botola
+ja:鉄のトラップドア
+ko:다락문
+nl:Valluik
+pl:Klapa
+pt:Alçapão de ferro
+ru:Железный люк
+th:ประตูกับดัก
+uk:Люк
+zh:活板门

@@ -1,0 +1,216 @@
+TITLE: Daylight Detector
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Daylight_Detector
+---
+A daylight detector is a block that outputs a redstone signal based on its exposure to sky light.
+
+the detector inverts it, causing it instead to output a constant strong signal that weakens from exposure to sky light.
+
+Obtaining
+Breaking
+Daylight detectors can be mined by hand or with any tool, but axes are the quickest. Inverted daylight detectors cannot be collected directly; they drop a regular daylight detector. , the inverted detector may be obtained by using  in Creative mode,MCPE-179063 – Pickblocking an inverted Daylight Sensor produces "tile.daylight_detector_inverted.name" block or via inventory editing or add-ons.
+
+Crafting
+
+Crafting recipe: Glass, Glass, Glass, Nether Quartz, Nether Quartz, Nether Quartz, Any Wooden Slab, Any Wooden Slab, Any Wooden Slab arranged in the crafting grid → Daylight Detector.
+
+Usage
+Redstone component
+Graphed daylight detector output in clear weather. The red vertical line denotes the player sleep time, at 12,523.|thumb
+
+A daylight detector can be used to produce redstone power in proportion to the daylight cycle.
+
+A daylight detector is 0.375 blocks high (3/8ths of a block). Daylight detectors can be moved by pistons. Water and lava flow around daylight detectors without affecting them.
+
+Placement
+To place a daylight detector, use the "Use Item/Place Block" control.
+
+A daylight detector can be "inverted", which reverses the power levels produced by the daylight detector. To invert a daylight detector, aim at the placed daylight detector and use the "Use Item/Place Block" control.
+
+Activation
+A daylight detector activates when exposed to sufficient daylight (daylight detector mode) or when exposure to daylight is low enough (inverted daylight detector mode). When placed with a slab or water
+
+between the sky and the daylight detector, the output strength is affect.
+
+Sources of block light (torches, glowstone, etc.) cannot activate a daylight detector.
+Behavior
+An active daylight detector:
+powers adjacent redstone dust, including below it, and redstone comparators facing away from the daylight detector, to a power level that depends on the time of day, the weather, the detector's exposure to the sky (see activation above), and the internal sky light level (see tables below)
+powers adjacent redstone repeaters facing away from the daylight detector to power level 15
+activates adjacent redstone mechanisms, including above and below, such as pistons, redstone lamps, etc.
+
+A daylight detector has no effect on other adjacent blocks (for example, it cannot power a block the way a repeater can).
+
+The output signal of daylight detectors in the loaded chunk is updated every 20 gametime/daytime. Block updates have no effect on daylight detectors.
+
+Daylight detector
+In the Overworld, a daylight detector's outputted signal strength depends on the time of day, the weather, the detector's exposure to the sky, and the internal sky light level.
+
++ Daylight detector power levels when sky light level is 15PowerClearRain or snowfallThunder Time ↓  Time ↑ Time ↓  Time ↑ Time ↓  Time ↑ 0  13,670–(Midnight/18,000)-22,330
+(8,660 Gtk/7:13)  13,670-(Midnight/18,000)–22,330
+(8,660 Gtk/7:13)  13,670-(Midnight/18,000)–22,330
+(8,660 Gtk/7:13) 1  22,331–22,781
+(450 Gtk/22.5 sec)   13,219–13,669
+(450 Gtk/22.5 sec)  22,331–22,798
+(467 Gtk/23.35 sec)   13,203–13,669
+(466 Gtk/23.3 sec)  22,331–22,943
+(612 Gtk/30.6 sec)   13,058–13,669
+(611 Gtk/30.55 sec) 2  22,782–23,069/23,070
+J: (287 Gtk/14.35 sec)
+B: (288 Gtk/14.4 sec)   12,931–13,218
+(287 Gtk/14.35 sec)  22,799–23,231
+(432 Gtk/21.6 sec)   12,769/12,770-13,202
+J: (433 Gtk/21.65 sec)
+B: (432 Gtk/21.6 sec)  22,944–23,352
+(408 Gtk/20.4 sec)   12,648–13,057
+(409 Gtk/20.45 sec) 3  23,070/23,071-23,296
+J: (226 Gtk/11.3 sec)
+B: (225 Gtk/11.25 sec)   12,705–12,930
+(225 Gtk/11.25 sec)  23,232–23,504
+(272 Gtk/13.6 sec)   12,497–12,768/12,769
+J: (271 Gtk/13.55 sec)
+B: (272 Gtk/13.6 sec)  23,353–23,700
+(347 Gtk/17.35 sec)   12,300–12,647
+(347 Gtk/17.35 sec) 4  23,297–23,529
+(232 Gtk/11.6 sec)   12,471–12,704
+(233 Gtk/11.65 sec)  23,505–23,745
+(240 Gtk/12 sec)   12,256–12,496
+(240 Gtk/12 sec)  23,701-(Dawn/24,000/0)–59
+(240 Gtk/12 sec)   11,941/11,942-(Dusk/12,000)-12,299
+J: (358 Gtk/17.9 sec)
+B: (357 Gtk/17.85 sec) 5  23,530–23,767
+(237 Gtk/11.85 sec)   12,233–12,470
+(237 Gtk/11.85 sec)  23,746–23,991
+(245 Gtk/12.25 sec)   12,010–12,255
+(245 Gtk/12.25 sec)  60–441
+(381 Gtk/19.05 sec)   11,560–11,940/11,941
+J:(380 Gtk/19 sec)
+B: (381 Gtk/19.05 sec) 6  23,768–23,960
+(192 Gtk/9.6 sec)   12,041–12,232
+(191 Gtk/9.55 sec)  23,992–(Dawn/24,000/0)-394
+(386 Gtk/19.3 sec)   11,607–(Dusk/12,000)-12,009
+(402 Gtk/20.1 sec)  442–1,039
+(597 Gtk/29.85 sec)   10,962–11,559
+(597 Gtk/29.85 sec) 7  23,961–(Dawn/24,000/0)-166
+(205 Gtk/10.25 sec)   11,835–(Dusk/12,000)-12,040 (205 Gtk/10.25 sec)  395–882
+(487 Gtk/24.35 sec)   11,119–11,606
+(487 Gtk/24.35 sec)  1,040–1,735
+(695 Gtk/34.75 sec)   10,266–10,961
+(695 Gtk/34.75 sec) 8  167–535
+(368/18.4 sec)   11,465/11,466-11,834
+J: (369 Gtk/18.45 sec)
+B: (368 Gtk/18.4 sec)  883–1,429/1,430
+J: (546 Gtk/27.3 sec)
+B: (547 Gtk/27.35 sec)   10,571–11,118
+(547 Gtk/27.35 sec)  1,736–2,608
+(872 Gtk/43.6 sec)   9,392–10,265
+(873 Gtk/43.65 sec) 9  536–933
+(397 Gtk/19.85 sec)   11,067–11,464/11,465
+J: (397 Gtk/19.85 sec)
+B: (398 Gtk/19.9 sec)  1,430/1,431-2,069
+J: (639 Gtk/31.95 sec)
+B: (638 Gtk/31.6 sec)  9,931–10,570
+(639 Gtk/31.95 sec)  2,609–3,942
+(1,333 Gtk/1:06.65 sec)   8,059–9,391
+(1,332 Gtk/1:06.6 sec) 10  934–1,371
+(437 Gtk/21.85 sec)   10,629–11,066
+(437 Gtk/21.85 sec)  2,070–2,875
+(805 Gtk/40.25 sec)   9,125/9,126-9,930
+J: (805 Gtk/40.25 sec)
+B: (804 Gtk/40.2 sec)  3,943–(Noon/6,000)-8,058
+(4115 Gtk/3:25) 11  1,372–1,865
+(493 Gtk/24.65 sec)   10,136–10,628
+(492 Gtk/24.6 sec)  2,876–4,108
+(1,232 Gtk/1:01.6)   7,892–9,124/7,893–9,125
+J: (1,232 Gtk/1:01.6)
+B: (1,232 Gtk/1:01.6) N/A  N/A 12  1,866–2,444
+(578 Gtk/28.9 sec)   9,557–10,135
+(578 Gtk/28.9 sec) 4,109–(Noon/6,000)-7,891/7,892
+J:(3,410 Gtk/2:50)
+B: (3,783 Gtk/3:9.15)N/A  N/A 13  2,445–3,175
+(730 Gtk/36.5 sec)   8,826–9,556
+(730 Gtk/36.5 sec) N/A  N/A N/A  N/A 14  3,176–4,294
+(1,118 Gtk/55.9 sec)   7,706–8,825
+(1,119 Gtk/55.95 sec) N/A  N/A N/A  N/A 15  4,295–(Noon/6,000)-7,705
+(3,410 Gtk/2:50) N/A  N/A N/A  N/A
+
+A non-inverted daylight detector never produces a signal in the Nether and, , the End. , daylight detectors always produces a maximum signal strength of 15 from exposure to the End dimension's sky, as the End's internal sky light level never changes.
+
+Inverted daylight detector
+a daylight detector inverts it. However, the output of the inverted detector is not a simple inversion of the daylight detector's output; it uses a much simpler algorithm that depends on the internal sky light level. Specifically, it outputs a signal strength of 15 minus the current internal sky light level, where values over 15 or below 0 are taken as 15 or 0 respectively. This means that, in the Overworld, an inverted daylight detector actually outputs a strength of 11 at midnight when the weather is clear, if it has line of sight with the sky. The effects of shade are applied before inverting, so shade increases the signal strength when it is not already full, and prevents it from reaching zero. Completely blocking an inverted daylight detector from exposure to the sky causes it to emit a signal strength of 15 at all times of day.
+
+, inverted daylight detectors in the Nether always produce a signal strength of 15; in the End, they work similarly to in the Overworld. , inverted daylight detectors in the Nether or End never produce a signal under any circumstance.
+
+The cells on inverted daylight detectors are emissive if Vibrant Visuals is enabled.
+
+Fuel
+Daylight detectors can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A daylight detector has a block entity associated with it which stores only its entity ID and position (the minimum data for a block entity). Although the daylight detector's block entity stores no additional data, the block entity ensures that the daylight detector is updated every game tick.
+
+:
+
+Block entity data
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+Mojang screenshots
+
+References
+
+External links
+Block of the Month: Daylight Detector – Minecraft.net on December 14, 2023
+
+Navigation
+
+Category:Redstone
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Block entities
+
+de:Tageslichtsensor
+es:Sensor de luz solar
+fr:Capteur de lumière
+ja:日照センサー
+ko:햇빛 감지기
+nl:Daglichtsensor
+pl:Detektor światła dziennego
+pt:Detector de Luz Solar
+ru:Датчик дневного света
+zh:阳光探测器

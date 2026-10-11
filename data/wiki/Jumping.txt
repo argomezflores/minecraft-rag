@@ -1,0 +1,97 @@
+TITLE: Jumping
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Jumping
+---
+150px|right|thumb|Steve jumping.Jumping is a form of movement that elevates the player by approximately 1.25 blocks into the air. Mobs can also jump, as part of their behavior.
+
+Mechanic
+Activation
+Jumping is done by pressing the  key (which defaults to  on a keyboard) or button (e.g. the  button on an Xbox controller). When the auto-jump setting is enabled, and the player walks towards the edge of a block, the player automatically jumps.
+
+Usage
+When the player jumps, a specific upward velocity is added to the player. A player always starts a jump with the same speed moving upward.
+
+Sneaking and crawling, when activated by suffocation prevention , prevent players from jumping due to the reduced space. These two actions normally do not prevent players from jumping.
+
+Jump height
+Jumping normally lets the player climb up 1.2522 blocks. Players with Jump Boost I can jump 1.8361 blocks, and 2.5168 blocks for level II.
+
+Sprint-jumping
+Jumping can be combined with sprinting to increase the player's movement speed. A single jump while sprinting costs four times as much hunger as a normal jump.
+
+Mobs
+Most land-based mobs are able to jump when they are walking up blocks. However, they only jump when they need to in order to climb hills, except in (but not limited to) these cases:
+Illagers and witches when celebrating a successful raid
+Foxes, when attacking
+Spiders and cave spiders, when attacking
+Rabbits, as part of their normal movement
+The killer bunny has the same attack pattern as spiders, and jumps around similarly.
+Frogs, as a part of their normal movement
+Slimes and magma cubes, as a part of their normal movement
+Baby villagers when playing on beds
+Adult pandas when a nearby baby panda sneezes
+
+These mobs are able to walk up full-sized blocks without jumping:
+Horses and their variants
+Iron golems
+Endermen
+Pigs, when controlled by the player
+Striders, when controlled by the player
+Llamas
+Ravagers
+Drowned on land
+Turtles
+
+Flying mobs (ghasts, phantoms, etc.) and water mobs (except turtles) do not jump.
+Fishes, guardians and elder guardians flop around when out of water, but do not jump.
+
+Blocks
+Blocks affected by jumping on or near them
+Farmland reverts to a standard dirt block if an entity jumps and/or lands on it. This also causes any seeds and crops planted in the farmland to pop out. Entities do not need to jump for this to occur, as simply landing on farmland from a fall causes the same effect.
+Turtle eggs can be broken by being jumped/landed on enough times.
+A sculk sensor is able to detect almost any interaction or movement from an entity. A sculk sensor cannot sense when an entity jumps, but can sense when one lands. Jumping or landing while sneaking cannot be detected by the sensor. Walking or landing on a wool block nullifies the vibrations, so the sculk sensor cannot detect that either. Wool can also nullify vibrations that are between both the source of the disturbance and the sensor itself.
+The vibration of an entity hitting the ground causes the sculk sensor to output a redstone signal with a strength of 5.
+
+Blocks affecting entities that jump on them
+Soul sand causes entities to sink down by 2 pixels, also lowering jump height by that much.
+Honey blocks make players jump  of a block from them, which is an 85% jump-height reduction.
+Slime blocks bounce entities back up to a height proportional to their downward velocity. Holding the jump key while falling on a slime block causes the player to jump just at the moment of making contact with the slime block. This can be done without suffering any fall damage. Holding the  key while landing on a slime block completely negates the bouncing.
+A pointed dripstone that is pointing upward (also known as a stalagmite) hurts any player or mob that falls on it. Standing on a stalagmite and then jumping harms the entity repeatedly. The farther a fall before landing on a stalagmite, the more damage it does even more so than standard fall damage.
+
+Jumping over walls
+Fences, fence gates, and walls have hitboxes that are 1.5 blocks tall, which prevents most mobs from jumping over them. A carpet can be placed on one of a fence of wall in order to allow a player to easily climb over it while keeping most mobs trapped since they can't pathfind onto the carpet and over the wall.
+
+Jumping in or from blocks
+Water or lava prevents any entity from jumping while in it. However, if a player is above the surface of the liquid, holding the jump key and in tandem with moving up against a block, the player attempts to jump out of the liquid in an effort to land on the block that the player moved toward.
+Pressing the jump key while submerged in water or lava makes the player ascend in it.
+Ladders and vines can be climbed by holding the jump key while being close enough to them. Simply moving forward into them achieves the same effect.
+Cobwebs and sweet berry bushes prevent players from jumping from them.
+
+Trivia
+Jumping was one of the first transportation mechanics added.
+The longest possible distance a player can jump without status effects is a little over 9 blocks, by sprint-jumping out of a 2-block tall corridor of ice.
+The longest possible distance a player can jump with obtainable effects in Survival is over 11 blocks, by using a potion of Leaping, Swiftness and Slow Falling combined with Soul Speed III boots on soul sand.
+The longest possible distance a player can jump without effects or ice is 5 blocks by just sprinting.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Transport
+
+es:Saltar
+it:Saltare
+ja:ジャンプ
+pt:Saltar
+zh:跳跃

@@ -1,0 +1,65 @@
+TITLE: Frost Walker
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Frost_Walker
+---
+Frost Walker is an enchantment applied to boots that turns water into frosted ice beneath the user's feet, and provides immunity to campfire and magma block damage.
+
+Obtaining
+Frost Walker is a treasure enchantment; it can be obtained from jungle temple and stronghold chest loot, fishing, raid drops, or trading with a librarian of any level.
+
+Usage
+
+Frost Walker–enchanted boots transform any source water block into frosted ice if
+the player wearing the boots is moving on ground (not falling, jumping, or flying),
+the water block has air above it,
+the water block lies within a circle radius or square radius  of 2 + level around the player's destination block (i.e., the block onto which the player is about to move),
+the water block is on the same level as the player's destination block,
+the player is on the ground, and
+the player's motion is "natural"; i.e., being pushed by a piston head does not count, but being bounced by a slime block that was pushed horizontally by a piston does. Being moved by flowing water also counts.
+
+Continuous motion is required for ice to remain when light levels would otherwise cause it to melt. When a player stops walking on the ice created by the enchantment, the ice gradually melts from around and under the player (at which point the player falls into the water). In addition, the ice created from Frost Walker lasts longer during the night because there is no sunlight to melt it.
+
+Frost Walker also eliminates all damage from magma blocks and campfires, but not lava. This includes sulfur cubes with the "Hot" archetype. The boots do not take durability damage from standing on these blocks.
+
+If an armor stand equipped with Frost Walker boots is moved, it converts nearby water sources to frosted ice in a similar way as a player wearing Frost Walker boots does.
+
+Additionally, enchanted boots with Frost Walker can be applied on foxes when held.
+
+Incompatibilities
+The Frost Walker and Depth Strider enchantments are mutually exclusive, meaning only one can be added to any given item in Survival. When added through use of commands, both enchantments function as normal.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Trivia
+The Let It Go! achievement title is a reference to the song of the same name from the movie .
+
+References
+
+Navigation
+
+de:Eisläufer
+es:Paso helado
+fr:Semelles givrantes
+ja:氷渡り
+lzh:履霜
+pt:Passos Gelados
+th:นักเดินเยือกแข็ง
+zh:冰霜行者

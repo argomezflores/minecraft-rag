@@ -1,0 +1,27 @@
+TITLE: Error
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Error
+---
+An error is a piece of text that appears on the screen to alert the player of some form of mistake or complications.
+
+Command errors
+NameMeaningEditionsSyntax error: Unexpected ... at ... A command has been misused. onlyUnknown command. Please check that the command exists and that you have permission to use it. Unknown or incomplete command. See below for error This command does not exist or requires a permission level higher than the player possesses to be used .BothIncorrect argument for commandSimilar to Syntax Error. Appears if the command was not used correctly. onlyNo targets matched selectorA target was not specified, like if you use any commands, but you forgot to use @.  onlyOnly one entity is allowed, but the provided selector allows more than oneToo many targets matched selectorAn attempt to, for example, teleport one entity to multiple. Example:  onlyThat position is not loadedCannot place blocks outside of the worldThis chunk is not loaded yet.BothPlayers cannot be killed while they are in Creative mode.Players cannot be killed in Creative. Shows "Removed" in Minecraft Education. onlyYou do not have permission to use this commandThe command requires a higher permission level than the player possesses to be used. only
+( until 1.13)Monsters cannot be summoned in Peaceful difficulty
+Unable to summon objectPlayers cannot summon hostile mobs in peaceful mode.BothFailed to place structureThe location does not support the structure. onlyResource reload failedAt least one of your resource or behavior packs failed to load.Any resource or behavior packs cannot be loaded.Both<NUMBER> must not be more than <NUMBER>, found <NUMBER>The number you have entered (<NUMBER>) is too big, it must be at most <NUMBER>Displayed when a player attempts to enter a number over a certain limit.Both<NUMBER> must not be less than <NUMBER>, found <NUMBER>The number you have entered (<NUMBER>) is too small, it must be at least <NUMBER>Displayed when a player attempts to enter a number under a certain limit.BothExpected integerInvalid integer '%s'<NUMBER> is not a valid numberThe number entered is not a valid value, like a letter in a text.Both(#) is higher than the maximum level of (#) which is supported for this enchantment(enchantment) does not support level (#)Using , the number of the enchantment level is too high and is over the maximum level supported in survival mode.Both
+
+Chat errors
+These errors appear in the chat, or action bar.
+NameMeaningEditionsUnable to open. Loot not generated yet.The player cannot open a chest that has not been opened yet in spectator mode.  onlyYou may not rest now; there are monsters nearbyYou may not rest now, there are monsters nearbyThere are monsters near the bed, which prevents sleeping.BothYou may not rest now, the bed is too far awayBed is too far awayYou are too far away from the bed to go to bed.BothYou can only sleep at night or during thunderstormsThe player cannot sleep during the day, unless there is a thunderstorm.BothThis bed is occupiedThe player can't sleep, as there is another player in this bed already. BothNo amount of rest can pass this nightThe  is set higher than 100, which prevents sleeping from passing the night.BothYou have no home bed or charged Respawn Anchor, or it was obstructedYour home bed was missing or obstructedYour respawn anchor was out of charges, missing, or obstructedWhen a bed is destroyed, blocked or placed in the Nether or End.BothHeight limit for building is (128,256,320) blocksWhen  on a block above the height limit.BothMinimum height limit for building is -64 blocksWhen  on a block below the height limit. only
+
+Errors in Legacy Console Edition
+There are errors that appear in the middle of the screen, similar to death messages.
+NameMeaningYou may not rest now, there are monsters nearbyThere are some monsters too close to the bed.You can only sleep at nightPlayers cannot sleep during the day.You can't spawn enemies in Peaceful mode.Players cannot spawn hostile mobs in peaceful mode.This animal can't enter Love Mode. The maximum number of breeding animals, excluding Wolves, Chickens and Mooshrooms, has been reached.The maximum animals that can breed has been reached (except for Mooshrooms, Chickens, and Wolves).You may not rest now, the bed is too far awayThe player is not close enough to the bed.
+
+Error hints
+These errors appear in boxes similar to the hints found in the tutorial.
+NameMeaningYou cannot leave this area until you have completed the tutorial.The player needs to complete the tutorial in order to get access to the other areas in the tutorial.You do not have all the ingredients required to make this item. The box on the bottom left shows the ingredients required to craft this.The player needs more materials to make this item.
+
+Navigation
+
+ja:エラー
+pt:Mensagens de erro

@@ -1,0 +1,164 @@
+TITLE: Lectern
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lectern
+---
+A lectern is a block used to display a book and quill or written book for reading. Turning a page triggers a redstone pulse. It also serves as a librarian's job site block.
+
+Obtaining
+Breaking
+Lecterns can be broken with any tool, but an axe is the fastest. Lecterns drop themselves and the book they are holding.
+
+Natural generation
+Empty lecterns can generate naturally in village libraries, up to two for some library variants.
+
+One lectern generates as part of each ancient city, in the secret room at the city center.
+
+Crafting
+
+Crafting recipe: Any Wooden Slab, Any Wooden Slab, Any Wooden Slab, Bookshelf, Any Wooden Slab arranged in the crafting grid → Lectern.
+
+Usage
+Lecterns are the job site block of librarian villagers.
+
+Librarian villagers do not place books into lecterns. They only stare at the lectern from less than a block away as "working".
+
+Holding books
+thumb|right|The UI when reading a book on a lectern.
+
+Lecterns can also hold a single book and quill or written book that other players can read at the same time. Right-clicking an empty lectern  with a book and quill or written book places it. Right-clicking a lectern that already has a book opens an interface to read the book. Books occupying a lectern can be retrieved through the interface, by punching the lectern, or by destroying the lectern, even when the  game rule is false.
+
+Lecterns cannot hold enchanted books or normal books. Instead, right-clicking the lectern with an enchanted book or a normal book does nothing and the book won't be placed.
+
+Profession
+
+If a lectern has not been claimed by a villager, any nearby unemployed villager (excluding nitwits) has a chance to change its profession to librarian and claim the lectern as its job site block.
+
+Redstone signal
+Lecterns holding a book emit a full-strength redstone pulse that is 2 game ticks long when a page is turned. A redstone comparator also records book reading and sends a signal, depending on what page the player is currently on. Since  displays two pages of the book at once, the same signal strength increments require double the number of pages.
+
+Java Edition
+
++ Lectern signal strength by currently open page (P) & total book pages (M) ()1234567891011121314151512345678910111213141514123456789101112131513123456891011121315121234678911121315111235689101213151012457810111315912468911131581357911131571358101215613691215514811154151015318152115115
+
+A book with only 1 page gives maximum signal strength, however page 1 always gives 1 signal strength if the book contains at least 2 pages.
+
+To calculate the signal strength  of a book with more than 1 page, use the following formula:
+
+Where  is the "floor" operation (round down),  is the maximum number of pages the book on the lectern has, and  is the current page number the lectern is turned to.
+
+This is most noticeable when a book has 2 pages where the signal strength is either 1 on page 1 or 15 on page 2.
+
+A book that would step signal strength up or down in increments of 1 per page would be 15 pages long.
+
+The following Python program prints all possible pairs of two values to achieve a certain signal strength, with the first being the page number to be on and the second being the total number of pages.
+import math
+
+S = int(input('Enter the target signal strength: '))  # Desired signal strength (1-15)
+P = 1  # Actual page number
+M = 2  # Max page number
+
+while M < 25:
+while S != math.floor(1 + ((14 * (P - 1)) / (M - 1))):  # Strength formula
+if P == M:
+M += 1
+P = 0
+P += 1
+
+print('Possible combination (P / M):', P, "/", M)
+P += 1
+
+Bedrock Edition
+Odd pages are not taken into account by the game when calculating the comparator output of a book; for example, a book with 9 pages has a signal strength of 15 when looking at either pages 7-8 or page 9. Books with 3 pages are treated the same as those with 1 or 2 pages (the same as how Java Edition would treat a book with just 1 page).
+
+For books that are longer than 1 page, use the following formula to calculate the signal strength:
+
+In this case  is the total amount of pages, if it's even—otherwise the total amount of pages minus one should be used instead.  is the number of the right page currently displayed on the book interface, if available—otherwise the number of the left page minus one should be used instead.
+
+A book that steps signal strength up or down in increments of 1 per page turned must be exactly 30 pages long.
+
+Fuel
+Lecterns can be used as fuel in furnaces to smelt 1.5 items.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A lectern has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: The book item, without the slot tag, currently on the lectern, may not exist.
+
+: The page the book is currently on, starting from 0, does not exist if there's no book. Value is clamped between 0 and the last page - 1.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+History
+Development and announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Job blocks
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Mechanisms
+Category:Storage
+Category:Block entities
+Category:Flammable blocks
+Category:Blocks with GUI
+Category:Readable by comparators
+Category:transparent blocks
+de:Lesepult
+es:Atril
+fr:Pupitre
+it:Leggio
+ja:書見台
+ko:독서대
+nl:Lessenaar
+pl:Pulpit
+pt:Atril
+ru:Кафедра
+th:แท่นอ่านหนังสือ
+uk:Катедра
+zh:讲台

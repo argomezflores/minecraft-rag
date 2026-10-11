@@ -1,0 +1,99 @@
+TITLE: Mob conversion
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Mob_conversion
+---
+thumb|Villagers converting to witches is an example of mob conversion.
+Mob conversion is a game mechanic where under specific circumstances certain mobs can convert to mobs of a different type, or to a different variant of the same mob.
+
+List of mob conversions
+Mob type conversions
+In these instances, a mob converts to a different mob, with a different identifier. , data is transferred according to .
++FromToMethodDrowning in waterShearingFed golden apple while afflicted by WeaknessAutomatically converted when the world is updated Killed by either zombies, zombie villagers, husks, drowned, or zombified piglinsLightning strikeBeing outside the Nether for 300 game ticks (15 seconds)Freezing in powder snowAging naturally (20 minutes)
+
+Mob variant conversions
+
+In these instances, a mob converts to a different variant of the same type of mob. Only one top-level data field is modified.
+
++Mob typeConverts toMethodNotes  (32) An adult Aging naturally   A sheared bogged Shearing  A more oxidized variant Oxidation A less oxidized variant Scraping with an axe A non-waxed variant A waxed variant Waxing with honeycomb  A charged creeper Lightning strike  A goat with one fewer horn Ramming certain blocks. See   A more cracked variant Taking damage A less cracked variant Being healed, including being repaired by a player using iron ingots  The other variant (red or brown) Lightning strike  One of their skins Changing their skins in their menu   A toast rabbit, or a regular rabbit  Naming the rabbit "Toast", or renaming from "Toast" to something else, respectively  The sheared variant Shearing Although canonically a simple change of equipment, this "conversion" is included here because sheared and unsheared snow golems are considered different variants by the game.See also   A different color of sheepDyeing or an evoker's conversion spell A rainbow sheep, or a fixed-color sheep Naming the sheep "jeb_", or renaming "jeb_" to something else, respectively A sheared sheep Shearing  A woolly sheep Eating grass  A different-colored shulker Dyeing They can only be dyed in Creative mode.  A villager with a different profession See  Not relevant to zombie villagers, as they cannot change professions without first converting to a villager.
+
+Data transfer
+
+A mob which converts to another mob retains the following entity data, provided that the new mob is able to make use of said data:
+AbsorptionAmount
+active_effects
+Age
+angry_at
+anger_end_time
+Brain.memories.minecraft:angry_at.ttl
+Brain.memories.minecraft:angry_at.value
+CanBreakDoors
+CanPickUpLoot
+CustomName
+CustomNameVisible
+data
+drop_chances
+equipment, if the new mob is able to render any equipment; otherwise, this tag is not retained.
+fall_distance
+FallFlying
+Fire
+ForcedAge
+HurtTime
+Invulnerable
+IsBaby
+leash
+LeftHanded
+Motion
+NoAI
+NoGravity
+OnGround
+Passengers
+PersistenceRequired
+PortalCooldown
+Position
+RootVehicle
+Rotation
+Silent
+sleeping_pos
+Tags
+Team
+
+Notably, the following fields are not retained:
+attributes
+Brain, except for the sub-fields mentioned above
+Gossips
+HealthThe health of the converted mob is set to the same percentage of max health as the original mob had before conversion.
+Loot tables
+UUID
+VillagerData
+Xp
+
+Mobs which split into several upon death
+When a slime or magma cube splits into several smaller ones upon death, the smaller ones inherit their progenitor's data as if the event were a mob conversion, with the exception of the following fields:
+drop_chances
+equipment
+fall_distance
+FallFlying
+HurtTime
+leash
+Motion
+OnGround
+Passengers
+Position
+Rotation
+sleeping_pos
+
+See also
+Mob type
+Mob variant
+Block conversion
+
+Notes
+
+References
+
+Navigation
+
+Category:Villager mechanics
+Category:Piglin mechanics
+pt:Conversão de criatura
+zh:生物转化

@@ -1,0 +1,55 @@
+TITLE: Music Disc otherside
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_otherside
+---
+"otherside" refers to both a song composed by Lena Raine, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from various structures, but is most commonly found in ancient cities.
+
+Obtaining
+Generated loot
+
+Track description
+
+File:Otherside.ogg
+
+"otherside" starts off as an uplifting and happy retro-style ostinato in a major key. Upon reaching the second half, the song changes to a minor key and progresses into a darker melody, eventually cutting off abruptly. A clock can be heard ticking quickly at the end.
+
+Usage
+Like all music discs,  the "otherside" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "otherside", it will emit a redstone signal of 14.
+
+Data values
+ID
+:
+
+Soundtrack TitleFile nameSound events"otherside"otherside.oggmusic_disc.otherside
+
+:
+
+Soundtrack TitleFile nameSound events"otherside"otherside.oggrecord.otherside
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Lena Raine
+Category:Minecraft: Caves & Cliffs (Original Game Soundtrack)
+Category:Music discs
+
+fr:Disque otherside
+ja:otherside
+ko:음반 otherside
+lzh:留聲盤彼端
+pt:Disco Musical otherside
+ru:Пластинка «otherside»
+uk:Платівка «otherside»
+zh:音乐唱片otherside

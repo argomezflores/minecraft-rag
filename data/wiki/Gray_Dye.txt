@@ -1,0 +1,66 @@
+TITLE: Gray Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Gray_Dye
+---
+Gray dye is one of the sixteen available dyes.
+
+Obtaining
+
+Crafting
+
+Trading
+Wandering traders have a chance to trade 3 gray dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 gray dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Notes
+
+Navigation
+
+Category:Dyes
+
+cs:Šedé barvivo
+de:Grauer Farbstoff
+es:Tinte gris
+fr:Teinture grise
+hu:Szürke festék
+ja:灰色の染料
+ko:회색 염료
+nl:Grijze kleurstof
+pl:Szary barwnik
+pt:Corante Cinza
+ru:Серый краситель
+zh:灰色染料

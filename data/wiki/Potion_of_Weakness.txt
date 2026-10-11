@@ -1,0 +1,97 @@
+TITLE: Potion of Weakness
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Weakness
+---
+A potion of Weakness is a potion that provides Weakness when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Fermented Spider Eye + Water Bottle → Potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Potion of Strength;Awkward Potion;Mundane Potion;Thick Potion → Potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Long Mundane Potion → Potion of Weakness Extended.
+
+Brewing recipe: Redstone Dust + Potion of Weakness → Potion of Weakness Extended.
+
+Brewing recipe: Gunpowder + Potion of Weakness Extended → Splash Potion of Weakness Extended.
+
+Brewing recipe: Dragon's Breath + Splash Potion of Weakness Extended → Lingering Potion of Weakness Extended.
+
+Thrown projectile
+A witch has a 25% chance of throwing a splash potion of Weakness if a player is 3 or less blocks away and does not already have the Weakness effect. Also, the player's health has to be at  or less, or the player has to have the Poison effect.
+
+The thrown potion cannot be picked up, but it can cause the Weakness effect.
+
+Generated loot
+
+One splash potion of Weakness can be found in the brewing stand inside every igloo basement.
+
+, the cauldron in a swamp hut contains 1 to 2 bottles of a random potion. There is a 10% for it to be a potion of Weakness.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 Regular: 1:30  Extended: 4:00Decreases melee damage., damage is reduced by  points., damage is reduced by 20%, and then reduced by  points. Splash Potion 1 Regular: 1:30  Extended: 4:00 Lingering Potion 1 Regular: 0:22  Extended: 1:00
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Weakness; Lingering Potion of Weakness Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Weakness, 8; Arrow of Weakness Extended, 8.
+
+Curing zombie villagers
+
+A golden apple and a splash potion of Weakness can be used to convert a zombie villager into a regular villager.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended Potion of Weakness  34  35
+
+Item data
+
+:
+
+Regular, splash, and lingering potions all use a "" tag inside "" component to indicate the potion type.
+PotionRegularExtended Potion of Weakness  weakness  long_weakness
+
+:
+
+Achievements
+
+Advancements
+
+Trivia
+The potion of Weakness is the only potion that provides an effect that does not require an awkward potion in its recipe.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+External links
+Taking Inventory: Potion – Minecraft.net on May 11, 2022
+Minecraft Potions - A Visual Guide (version 1.9)
+
+Navigation
+
+Category:Potions
+
+fr:Potion de faiblesse
+pt:Poção de Fraqueza
+zh:虚弱药水

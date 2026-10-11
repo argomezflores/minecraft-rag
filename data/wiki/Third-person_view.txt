@@ -1,0 +1,55 @@
+TITLE: Third-person view
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Third-person_view
+---
+thumb|250px|Third-person view as seen from the front of the player.
+thumb|250px|Third-person view as seen from the back of the player.
+
+Third-person view allows the player to view the nearby environment from an "outside" perspective.
+
+Usage
+Different perspectives can be toggled by pressing  when using a keyboard, or  when using a controller. Pressing it once displays the back of the player, and pressing it again displays the front. Pressing it once more reverts to first-person view.
+
+, it can be changed in the settings, or when "Show camera perspective button" toggle is enabled for touch control. In the mobile version of , it can be changed by pressing the Fold button, which shows multiple buttons to change between perspectives.
+
+When in third-person view, the player can be viewed from an angle of 0 degrees (Y axis) when the mouse is leveled with the ground, up to an angle of 90 degrees when looking straight down toward the player. , if the player suffocates while in this mode, the camera doesn't automatically switch back to the first-person view.
+
+A third-person front view can also be seen while the survival inventory is open; the player, in this case, always faces the cursor.
+
+The third-person view camera has a collision that collides with block visual box. This can obstruct the player's vision with a close-up view in some situation where solid blocks are placed behind or in front of the player.
+
+The third-person camera is positioned 4 blocks from the player's front/back by default, and 8 blocks from a player riding a happy ghast. , the third-person view camera's position can be changed by modifying the  attribute. It controls how far the camera's position from the player's front or back, or while spectating an entity in third-person view. , it can be controlled by using  command, which allows extensive customization of the camera's view.
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Issues
+
+Trivia
+
+, the third-person view allows the player to reach further than in first-person, and behind them when using touch controls.
+In older versions of , the third-person front view looked up and down with your character before eventually being updated to match .
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:UI
+
+de:Perspektive
+es:Vista en tercera persona
+fr:Vue à la troisième personne
+ja:三人称視点
+nl:Third person view
+pt:Visão em terceira pessoa
+ru:Вид от третьего лица
+zh:视角

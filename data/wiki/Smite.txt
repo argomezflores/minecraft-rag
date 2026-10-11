@@ -1,0 +1,68 @@
+TITLE: Smite
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Smite
+---
+Smite is an enchantment applied to swords, axes, spears, and maces that substantially increases melee damage against undead mobs.
+
+Obtaining
+Smite can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagers, and non-village structure loot.
+
+Usage
+Each level on a sword, axe, spear, or mace adds  extra damage to each hit on the following mobs:
+and their variants:
+
+and their variants:
+
+, the damage is rounded down. Spear charge attacks done using a spear in the offhand do not apply Smite.
+
+Damage per hit
+These tables detail how much damage is done per attack based on the level of enchantment used, assuming the target is not wearing armor and the attack is fully charged. While both Java Edition and Bedrock Edition add  per level, Bedrock Edition rounds down to the nearest whole number which makes Smite I, Smite III, and Smite V weaker than Java Edition.
+
++Smite extra damageEditionIIIIIIIVV
+
+Java Edition
+SwordsWeaponBase damageSmite ISmite IISmite IIISmite IVSmite V (critical) (critical) (critical) (critical) (critical)AxesWeaponBase damageSmite ISmite IISmite IIISmite IVSmite V (critical) (critical) (critical)MaceWeaponBase damageSmite ISmite IISmite IIISmite IVSmite V (critical)
+
+Bedrock Edition
+SwordsWeaponBase damageSmite ISmite IISmite IIISmite IVSmite V (critical) (critical) (critical) (critical) (critical)AxesWeaponBase damageSmite ISmite IISmite IIISmite IVSmite V (critical) (critical) (critical) (critical) (critical)MaceWeaponBase damageSmite ISmite IISmite IIISmite IVSmite V (critical)
+
+Specific cases
+If Smite is applied to a trident by use of commands or an anvil in Creative, the enchantment affects weapon's thrown projectile. If Smite is applied to a bow by use of commands or an anvil in Creative, the enchantment affects the weapon's arrows. If Smite is applied to a crossbow by use of commands or an anvil in Creative, the enchantment affects weapon's arrows but not its firework rockets.
+
+Incompatibilities
+Smite is incompatible with Sharpness, Bane of Arthropods, Density, Breach, and Cleaving. It is also incompatible with Impaling, however in Survival this incompatibility cannot be encountered, as no weapon types have access to both Smite and Impaling. If commands are used to have two or more of these enchantments on the same item, their effects stack.
+
+Data values
+
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Java Edition Combat Tests
+
+Issues
+
+Notes
+
+Navigation
+
+de:Bann
+es:Golpeo
+fr:Châtiment
+it:Anatema
+ja:アンデッド特効
+lzh:剋亡
+pt:Julgamento
+ru:Небесная кара
+th:โจมตีศักดิ์สิทธิ์
+zh:亡灵杀手

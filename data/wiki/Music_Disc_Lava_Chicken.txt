@@ -1,0 +1,71 @@
+TITLE: Music Disc Lava Chicken
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_Lava_Chicken
+---
+"Lava Chicken" refers to both a cover of "" composed by Hyper Potions, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained by killing chicken jockeys.
+
+Obtaining
+Mob loot
+The "Lava Chicken" music disc is dropped by baby zombies currently riding a chicken (i.e. a basic chicken jockey) when killed by a player or a tamed wolf. Due to a bug , husk and zombie villager chicken jockeys also drop the disc in that edition. Although baby zombies can ride other mobs , they only drop the disc if riding a chicken. If the chicken is killed first, the zombie previously riding said chicken does not drop the disc afterwards, though the zombie will still drop the disc if it is killed during the chicken's death animation. The disc is also never dropped by killing the chicken.
+
+Track description
+
+File:Lava Chicken.ogg
+
+"Lava Chicken" is a cover of "". The track begins with a chiptune rendition of the main melody, along with note-block-esque percussion before more electronica instruments are added. At 0:46, villager sound effects begin playing the melody, and the original instruments continue playing them, but are moved to the background. At 1:13, the villager sound effects and some of the instruments playing the main melody stop. A simplified version of the main melody is then played until 1:25. At 1:25, the instruments that were playing from 1:13 to 1:25 stop, and a new instrument starts playing just the main melody. At 1:31, some instruments are added in to prepare for a drop. At 1:37, the drop happens, and the villager sound effects return. At 2:00, the villager sound effects stop again, except for some faint villager hurt noises in the background. Then another drop happens at 2:14 and the song ends.
+
+Usage
+Like all music discs,  the "Lava Chicken" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "Lava Chicken", it will emit a redstone signal of 9.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Lava Chicken" lava_chicken.ogg music_disc.lava_chicken
+
+:
+
+Soundtrack Title File name Sound events "Lava Chicken" lava_chicken.ogg record.lava_chicken
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Trivia
+The disc's obtainment through killing a chicken jockey is a reference to the  spawned by the film the song originates from.
+The Lava Chicken music disc is the only item available in Survival that has a different rarity between  and .
+This may be due to the differences in the mechanics of chicken jockeys between editions.
+In a twitter post, Torfi Frans Ólafsson suggested that the disc itself may have existed in .
+
+Gallery
+Mojang screenshots
+
+Official artwork
+
+External links
+
+References
+
+Navigation
+
+Category:Hyper Potions
+Category:Music discs
+
+de:Minecraft: Lava Chicken (Original Game Soundtrack)
+fr:Disque Lava Chicken
+ja:Lava Chicken (レコード)
+ko:음반 Lava Chicken
+lzh:留聲盤熔石雞
+pt:Disco Musical Lava Chicken
+ru:Пластинка «Lava Chicken»
+uk:Платівка «Lava Chicken»
+zh:音乐唱片Lava Chicken

@@ -1,0 +1,82 @@
+TITLE: Lapis Lazuli Ore
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lapis_Lazuli_Ore
+---
+Lapis lazuli ore, internally known as lapis ore, is the ore block from which lapis lazuli is obtained.
+
+Deepslate lapis lazuli ore, internally known as deepslate lapis ore, is a variant of lapis lazuli ore that generates in deepslate layers.
+
+Obtaining
+Breaking
+Lapis lazuli ore can be mined with a stone pickaxe or better. To obtain the block itself, the player must use Silk Touch; otherwise, the block drops 4–9 lapis lazuli.
+
+When mined with a Fortune-enchanted pickaxe, there is a chance for the drops to be multiplied by between 2 and the level plus 1, up to a maximum of 2 to 4 at level III (for a maximum of 36 lapis lazuli dropped). This means at Fortune III there is a chance to get a minimum of 4 lapis lazuli or 36 lapis lazuli. Because the average drop for Fortune II and III is more than 9, a block of lapis lazuli ore potentially stores more lapis lazuli than a block of lapis lazuli. The drops per Fortune level are as follows:
+Drops/Fortune level  0  1  2  3 4         5         6         7         8        9         10  0       12  0       14  0       15  0  0     16  0       18  0       20  0  0  0   21  0  0     24  0  0     27  0  0     28  0  0  0   32  0  0  0   36  0  0  0   Average
+Lapis ore also drops  when broken without Silk Touch.
+
+Natural generation
+
+Lapis lazuli ore generates in the Overworld in the form of ore features. It generates in two batches per chunk:
+The first batch attempts to generate 2 times per chunk, in sizes of 0-10, from levels -32 to 32. It is most common around level 0 and becomes less common toward either end of the range.
+The second batch attempts to generate 4 times per chunk, in sizes of 0-10, evenly from levels -64 to 64. Lapis lazuli ore in this second batch cannot be exposed to air; any ore blocks that would generate exposed do not generate.
+
+Lapis lazuli ore can replace stone, andesite, diorite, granite, tuff, and deepslate. Any lapis lazuli ore that replaces tuff or deepslate becomes deepslate variant.
+
+Usage
+The primary usage of lapis lazuli ore is to mine it for lapis lazuli.
+Smelting ingredient
+
+Smelting recipe: Lapis Lazuli Ore; Deepslate Lapis Lazuli Ore → Lapis Lazuli, XP: 0.2.
+
+Sounds
+Lapis lazuli ore
+
+Deepslate lapis lazuli ore
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Ore
+Category:Natural blocks
+
+cs:Ložisko lazuritu
+de:Lapislazulierz
+es:Mena de lapislázuli
+fr:Minerai de lapis-lazuli
+hu:Lazuritérc
+it:Minerale di lapislazzuli
+ja:ラピスラズリ鉱石
+ko:청금석 광석
+lzh:群青礦
+nl:Lapislazuli-erts
+pl:Złoże lazurytu
+pt:Minério de Lápis-Lazúli
+ru:Лазуритовая руда
+th:แร่ลาพิสลาซูลี
+uk:Лазуритова руда
+zh:青金石矿石

@@ -1,0 +1,73 @@
+TITLE: Feather
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Feather
+---
+Feathers are items dropped by chickens and parrots, and can be found in loot chests of certain structures. Tamed cats may give players feathers as morning gifts.
+
+Obtaining
+Mob loot
+
+A fox sometimes spawns holding a feather, which always drops upon death. Alternatively, the player can drop a food item, causing the fox to drop the feather in favor of the food.
+
+Generated loot
+
+Cat gifts
+
+Tamed cats have a 70% chance of giving the player a "morning gift", and the gift has a 16.13% chance to be a feather.
+
+Usage
+Crafting ingredient
+
+Trading
+
+Helmet
+
+Although a feather cannot be equipped in the head slot in Survival mode, equipping it using commands causes it to appear to be rotated upright unlike other items.
+
+75px
+75px
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+In other media
+
+References
+
+External links
+
+Navigation
+
+cs:Pírko
+de:Feder
+es:Pluma
+fr:Plume
+hu:Toll
+it:Piuma
+ja:羽根
+ko:깃털
+lzh:羽
+nl:Veer
+pl:Pióro
+pt:Pena
+ru:Перо
+th:ขนนก
+uk:Перо
+zh:羽毛

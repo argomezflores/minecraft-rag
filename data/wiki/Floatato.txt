@@ -1,0 +1,45 @@
+TITLE: Floatato
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Floatato
+---
+A floatato is a block that generates in cloud formations and is used to craft floataters that is only present in 24w14potato.
+
+Obtaining
+Breaking
+A floatato can be broken using anything, but a hoe is the fastest. Floatatoes always drop as an item.
+
+Crafting
+
+Crafting recipe: Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato, Ghast Tear, Poisonous Potato, Poisonous Potato, Poisonous Potato, Poisonous Potato arranged in the crafting grid → Floatato,8.
+
+Natural generation
+Floatatos naturally generate in clouds in the Potato dimension; these generate in any biome, around Y-level 110, hovering over the void. Potato clouds never generate underground and they very rarely touch terrain. A potato cloud has on average around 60 floatato blocks.
+
+Usage
+Placing
+Feature unique to floatatoes is that they can be placed 2 blocks away from the player midair, without looking at another block.
+
+Crafting ingredient
+
+Crafting recipe: Poisonous Potato, Poisonous Potato, Poisonous Potato, Floatato, Hot potato, Floatato, Floatato, Floatato, Floatato arranged in the crafting grid → Floatater.
+
+Sounds
+
+Data values
+ID
+
+Issues
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Natural blocks
+Category:Poisonous Potato Dimension (joke dimension)
+
+ja:Floatato
+ru:Бульблако
+zh:悬浮马铃薯

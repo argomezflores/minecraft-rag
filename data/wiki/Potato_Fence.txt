@@ -1,0 +1,49 @@
+TITLE: Potato Fence
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Fence
+---
+A potato fence is a potato variant of a fence, crafted from the respective potato planks. It is only present in 24w14potato.
+
+Obtaining
+Breaking
+Potato fences can be broken with anything, but axes are faster.
+
+Natural generation
+Potato fences generate naturally as part of potato villages, potato mineshafts, as well as in arboretum and fields biomes.
+
+Crafting
+
+Crafting recipe: Potato Planks, Stick, Potato Planks, Potato Planks, Stick, Potato Planks arranged in the crafting grid → Potato Fence,3.
+
+Usage
+
+Sounds
+
+Data values
+ID
+
+Block states
+
+Models
+This section is experimental - see Forum:Add blockstates definition data to the Data values section of block pages for more info
+
+Model definition
+Name Parent Assigned textures     =      =      =    N/A
+
+Block states definition
++ Multipart model system Model Modifiers Apply when states  N/A Always   =   =    =   =    =   =    =   =
+
+State combinations
++ All distinct block states Appearance When 100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =  100px  =
+
+Notes
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Natural blocks
+Category:Generated structure blocks
+
+ja:Potato Fence
+zh:马铃薯木栅栏

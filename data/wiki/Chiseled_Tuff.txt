@@ -1,0 +1,62 @@
+TITLE: Chiseled Tuff
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Tuff
+---
+Chiseled tuff is a chiseled variant of tuff.
+
+Obtaining
+Breaking
+Chiseled tuff drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Chiseled tuff generates naturally in trial chambers.
+
+Crafting
+
+Crafting recipe: Tuff Slab, Tuff Slab arranged in the crafting grid → Chiseled Tuff.
+
+Stonecutting
+
+Usage
+Chiseled tuff is a decorative block. It uses the common wind swirls designs throughout the trial chambers and is similar to the flow banner pattern and wind charge by a breeze. See also Easter eggs#Mobs on chiseled blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Gemeißelter Tuffstein
+es:Toba cincelada
+fr:Tuf sculpté
+ja:模様入りの凝灰岩
+ko:조각된 응회암
+lzh:雕積塊石
+pt:Tufo Talhado
+ru:Резной туф
+th:หินภูเขาไฟสลัก
+uk:Різьблений туф
+zh:雕纹凝灰岩

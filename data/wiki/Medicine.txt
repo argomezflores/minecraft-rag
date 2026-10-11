@@ -1,0 +1,53 @@
+TITLE: Medicine
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Medicine
+---
+The medicine is a type of potion that removes the specified effect instead of applying it.
+
+Obtaining
+Brewing
+Cures are brewed from awkward potions using different elements. These drinks remove the specified effect when drank, and cannot be modified into splash, lingering, extended or enhanced versions.
+
+Potion Reagent, base Effect Notes Antidote  Cures Poison Silver detects poison , and possesses anti-microbial properties. Elixir  Cures WeaknessIn real life, cobalt is a component of  (vitamin B12). Cobalamin is involved in the production of red blood cells, and is used as a treatment for certain types of . Eye Drops  Cures BlindnessEye drops in real life should be dripped to the eyes instead of being drank. Tonic  Cures Nausea In real life,  is used to treat various stomach and gastrointestinal disturbances.
+
+Usage
+Each type of medicine has an associated effect that it can cure (see  for details). Players can drink the medicine only if they have the corresponding effect. Drinking the medicine eliminates the effect. Although medicine does not resemble potions, the player still gets the glass bottle back.
+
+Sounds
+
+Data values
+ID
+
+Metadata
+Metadata  Kinds / Invisible 0  Eye drops / No 1  Elixir / No 2  Antidote / No 3  Tonic / No 4  item.medicine..name / Yes 768  Eye drops / Yes 769  Elixir / Yes 770  Antidote / Yes 771  Tonic / Yes
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+See also
+Potion
+Splash Potion
+Lingering Potion
+
+Navigation
+
+Category:Minecraft Education items
+Category:Drinks
+
+de:Medizin
+es:medicina
+fr:Médicament
+it:Medicinale
+ja:治療薬
+ko:치료
+lzh:藥
+pl:Leki
+pt:Remédio
+ru:Лекарственное средство
+th:ยา
+uk:Ліки
+zh:药物

@@ -1,0 +1,81 @@
+TITLE: Potion of Fire Resistance
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Fire_Resistance
+---
+A potion of Fire Resistance is a potion that provides Fire Resistance when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Magma Cream + Awkward Potion → Potion of Fire Resistance.
+
+Brewing recipe: Redstone Dust + Potion of Fire Resistance → Potion of Fire Resistance Extended.
+
+Mob loot
+A witch has an 8.5% chance to drop a potion of Fire Resistance if it dies while drinking the potion.
+
+Generated loot
+
+The cauldron in a swamp hut has a 5% chance to contain a potion of Fire Resistance.
+
+Bartering
+When given a gold ingot, piglins have a  (~1.71%) chance to barter a potion of Fire Resistance, and an equal chance to barter a splash potion of Fire Resistance.
+
+Usage
+Effect
+Potion type Tier Duration Effect Description Potion 1 Regular: 3:00Extended: 8:00Makes the entity immune to all types of fire damage. Splash potion 1 Regular: 3:00Extended: 8:00 Lingering potion 1 Regular: 0:45Extended: 2:00
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Fire Resistance; Lingering Potion of Fire Resistance Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Fire Resistance, 8; Arrow of Fire Resistance Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended Potion of Fire Resistance  12  13
+
+Item data
+
+:
+
+Regular, splash, and lingering potions all use a "" tag inside "" component to indicate the potion type.
+PotionRegularExtended Potion of Fire Resistance  fire_resistance  long_fire_resistance
+
+:
+
+Achievements
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+{{issue list|Potion of Fire Resistance}}
+Gallery
+
+See also
+
+Navigation
+
+Category:Potions
+
+fr:Potion de résistance au feu
+ko:화염 저항의 물약
+pt:Poção de Resistência ao Fogo
+zh:抗火药水

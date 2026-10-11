@@ -1,0 +1,93 @@
+TITLE: Gold Ingot
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Gold_Ingot
+---
+A gold ingot is a metal ingot used to craft armor, tools, and items, as well as being used as currency for bartering with piglins.
+
+Obtaining
+Gold ingots are mainly obtained by smelting raw gold, gold ore and nether gold ore, or just mining nether gold ore, dropping gold nuggets. Gold generates more frequently in badlands biomes.
+
+Crafting
+
+Crafting recipe: Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget arranged in the crafting grid → Gold Ingot.
+
+Smelting
+
+Smelting recipe: Gold Ore;Nether Gold Ore;Deepslate Gold Ore → Gold Ingot, XP: 1.
+
+Smelting recipe: Raw Gold → Gold Ingot, XP: 1.
+
+Mob loot
+
+Generated loot
+
+Usage
+Crafting ingredient
+As a material for weapons, tools, and armor, gold is not a straight upgrade from iron (except in the case of horse armor). Gold has a higher mining speed and enchantability than any other material, but low attack power and durability.
+
+Trading
+
+Repairing
+Gold ingots are the repair items for the gold tier and thus can be used to repair the following items in an anvil:
+
+Bartering
+
+Piglins throw the player item(s) if the player throws or  a gold ingot on them.
+
+Beacons
+Gold ingots can be used to select powers from a beacon. The player must select one of the available powers and then insert an ingot in the item slot.
+
+A gold ingot can be substituted for an iron ingot or netherite ingot, an emerald, or a diamond.
+
+Smithing ingredient
+
+Trim color palette
+The following color palettes are shown on the designs of trimmed armor:
+
+(a darker color palette is used when a golden armor piece is trimmed using a gold ingot).
+
+Achievements
+
+Advancements
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Gallery
+In other media
+
+Issues
+
+Navigation
+
+cs:Zlatý ingot
+de:Goldbarren
+es:Lingote de oro
+fr:Lingot d'or
+hu:Aranyrúd
+it:Lingotto d'oro
+ja:金インゴット
+ko:금 주괴
+lzh:金錠
+nl:Goudstaaf
+pl:Sztabka złota
+pt:Lingote de Ouro
+ru:Золотой слиток
+uk:Золотий злиток
+zh:金锭

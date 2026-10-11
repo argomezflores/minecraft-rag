@@ -1,0 +1,29 @@
+TITLE: Potato Bud
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Bud
+---
+A potato bud is a joke block only present in 24w14potato.
+
+Obtaining
+Breaking
+Potato buds drop as an item when mined with any tool or by hand, but mining it with a sword is the fastest.
+
+Natural generation
+Potato buds naturally generate in the corruption biome in Potato dimension.
+
+Usage
+The block acts similarly to pointed dripstone: it grows upward like a stalagmite, and if entities land on the tip, they take increased fall damage. Potato buds cannot be placed on the ceiling and they grow faster than pointed dripstone, up to the maximum height of 25 blocks.
+
+This block is also able to be used in a composter.
+
+Sounds
+
+Data values
+
+Navigation
+
+Category:Joke blocks
+Category:Natural blocks
+
+ja:Potato Bud
+zh:马铃薯芽

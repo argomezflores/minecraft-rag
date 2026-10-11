@@ -1,0 +1,97 @@
+TITLE: Lily of the Valley
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Lily_of_the_Valley
+---
+A lily of the valley is a flower often found in forested biomes that can be crafted into white dye and suspicious stew.
+
+Obtaining
+Breaking
+A lily of the valley can be broken instantly with any item or by hand, dropping itself.
+
+A lily of the valley also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Natural generation
+
+Lilies of the valley generate naturally on dirt and grass blocks in forest, flower forest, birch forest, old growth birch forest, and dark forest biomes as part of vegetation features. In flower forests, they generate both in random patches and as part of the flower gradient , and only as part of the gradient . Lillies of the valley can also generate as part of abandoned camps in birch forests.
+
+Post-generation
+
+Java Edition
+When bone meal is applied to a grass block in a flower forest biome, lilies of the valley have a chance of generating on the targeted block and adjacent grass blocks in a 15×5×15 area, depending entirely on the flower gradient. Lilies of the valley cannot be regrown in areas where they generated naturally as part of a random patch, nor in other biomes where it generates naturally.
+
+Bedrock Edition
+When bone meal is applied to a grass block in a forest, flower forest, birch forest, old growth birch forest, or dark forest biome, lilies of the valley have a chance of generating on the targeted block and adjacent grass blocks in a 7×5×7 area. In flower forests, lilies of the valley can generate only in specific locations depending on the flower gradient.
+
+When bone meal is applied to a lily of the valley in any biome, more lilies of the valley appear on top of nearby grass blocks. The flowers can appear up to 3 blocks away from the original, forming a 7×7 square.
+
+Mob loot
+, endermen can pick up lilies of the valley, like any other one-block-tall flower, and drop it if killed while holding it.
+
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 lily of the valley when killed while showing the item as trade offer, if the player holds an emerald.
+
+Trading
+Wandering traders may sell a lily of the valley for 1 emerald.
+
+Usage
+
+Like other flowers, lilies of the valley can be used as decoration and planted on grass blocks, dirt, coarse dirt, rooted dirt, farmland, podzol, mycelium, moss blocks, mud, or muddy mangrove roots.
+
+Lilies of the valley can also be placed in flower pots.
+
+Crafting ingredient
+
+Suspicious stew
+
+Suspicious stew that is created using a lily of the valley imparts the  effect for 11 seconds, dealing  damage. It can be crafted using a lily of the valley or produced by feeding a lily of the valley to a brown mooshroom and then milking it with a bowl.
+
+Bees
+Bees engage in a pollinating behavior with lilies of the valley, increasing the honey level in beehives and bee nests by 1.
+
+Breeding
+Lilies of the valley can be used to breed, grow, and lead bees.
+
+Bee nests
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of a lily of the valley have a 5% chance to grow with a bee nest and 2-3 bees in it.
+
+Composting
+Placing a lily of the valley into a composter has a 65% chance of raising the compost level by 1. A stack of lilies of the valley yields an average of 5.94 bone meal.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+Trivia
+In real life, lillies of the valley belong to the family Asparagaceae. They are highly poisonous if consumed due to the concentration of cardiac glycosides, something that is reflected with suspicious stews made from it.
+
+References
+
+Navigation
+
+Category:Plants
+Category:Non-solid blocks
+Category:Flammable blocks
+Category:Flowers
+Category:Articles featured by Mojang
+
+fr:Muguet
+ko:은방울꽃
+lzh:鈴蘭
+pt:Lírio-do-Vale
+zh:铃兰

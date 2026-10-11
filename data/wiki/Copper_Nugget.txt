@@ -1,0 +1,52 @@
+TITLE: Copper Nugget
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Copper_Nugget
+---
+Copper nuggets are small pieces of copper that can be obtained by smelting copper tools, weapons, or armor, or by crafting it from a copper ingot. One copper nugget is effectively worth one-ninth of a copper ingot.
+
+Obtaining
+Crafting
+
+Smelting
+
+Smelting recipe: Copper Sword; Copper Spear; Any copper tools; Any copper armor; Copper Horse Armor; Copper Nautilus Armor → Copper Nugget.
+
+Durability and enchantments do not affect the ability to smelt copper tools, weapons, or armor into copper nuggets.
+
+Usage
+Crafting
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+See also
+Gold nugget
+Iron nugget
+Copper
+
+Navigation
+
+de:Kupferklumpen
+es:Pepita de cobre
+fr:Pépite de cuivre
+it:Pepita di rame
+ja:銅塊
+ko:구리 조각
+lzh:銅粒
+nl:Koperklompje
+pl:Bryłka miedzi
+pt:Pepita de Cobre
+ru:Кусочек меди
+th:เศษทองแดง
+uk:Мідний самородок
+zh:铜粒

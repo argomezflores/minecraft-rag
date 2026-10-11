@@ -1,0 +1,31 @@
+TITLE: Baked Potato Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Baked_Potato_Brick_Stairs
+---
+Baked potato brick stairs are a baked potato brick variant of the stairs, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Natural generation
+Baked potato brick stairs generate naturally in colesseums and ruined portatols.
+
+Crafting
+
+Crafting recipe: Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks, Baked Potato Bricks arranged in the crafting grid → Baked Potato Brick Stairs.
+
+Sounds
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Baked Potato Brick Stairs
+ja:Baked Potato Brick Stairs
+ko:구운 감자 벽돌 계단
+zh:烤马铃薯砖楼梯

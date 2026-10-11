@@ -1,0 +1,67 @@
+TITLE: Light Blue Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Light_Blue_Dye
+---
+Light blue dye is one of the sixteen available dyes.
+
+Obtaining
+
+Crafting
+
+Generated loot
+
+Trading
+Wandering traders have a chance to trade 3 light blue dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 light blue dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Dyes
+
+cs:Světle modré barvivo
+de:Hellblauer Farbstoff
+es:Tinte azul claro
+fr:Teinture bleu clair
+hu:Világoskék festék
+ja:空色の染料
+ko:하늘색 염료
+lzh:縹染
+nl:Lichtblauwe kleurstof
+pl:Jasnoniebieski barwnik
+pt:Corante Azul-Claro
+ru:Голубой краситель
+zh:淡蓝色染料

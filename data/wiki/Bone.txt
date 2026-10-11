@@ -1,0 +1,72 @@
+TITLE: Bone
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bone
+---
+A bone is an item primarily obtained from skeletons and similar mobs. It can be crafted into bone meal and used to tame wild wolves.
+
+Obtaining
+Mob loot
+
+Generated loot
+
+Fishing
+Bones can be obtained by fishing, as part of the junk category. The best chance of catching a bone is achieved without the Luck of the Sea enchantment, yielding a 1.1% chance.
+
+Usage
+Crafting ingredient
+A bone can be crafted into 3 bone meal.
+
+Taming
+Using a bone on a wild wolf has a  chance of taming it. Bones cannot tame a hostile wolf or a wolf that has already been tamed. However, bones can be used to attract the attention of already tamed wolves.
+
+Helmet
+
+While a bone cannot be equipped in the head slot in Survival mode, equipping it compulsorily by using commands causes it to appear in the player's mouth.
+
+Achievements
+
+Advancements
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+In other media
+
+See also
+
+External links
+
+Navigation
+
+de:Knochen
+es:Hueso
+fr:Os
+hu:Csont
+it:Osso
+ja:骨
+ko:뼈
+lzh:骨
+nl:Bot
+pl:Kość
+pt:Osso
+ru:Кость
+th:กระดูก
+uk:Кістка
+zh:骨头

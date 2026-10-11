@@ -1,0 +1,52 @@
+TITLE: Infinite Water Source
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Infinite_Water_Source
+---
+An infinite water source was a block that would repeatedly create water on each of its four orthogonal sides.
+
+Obtaining
+Breaking
+Infinite water sources can be broken instantly, regardless of held items.
+
+Generated loot
+Infinite water sources could be found in starting house chests in stacks of 99 in Indev 0.31 20100124-2310, and stacks of 100 in Indev 0.31 20100128-2200. Prior to this, they were added to the player's inventory by default in a stack of 5.
+
+Usage
+thumb|right|As infinite water sources are full solid cubes, placed gears render on their sides.
+The infinite water source has many visual and functional differences from normal water:
+It is a full, solid cube block with full block collision.
+It is completely opaque.
+All sides use the same still water texture.
+
+Creating liquids
+Immediately after placement, the infinite water source creates source blocks of water on each of its four orthogonal sides. If these created sources are removed, they get regenerated after enough time.
+
+Sponges
+Infinite water sources are deleted by sponges.
+
+Sounds
+
+Data values
+ID
+
+History
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+Infinite Lava Source
+
+References
+
+Navigation
+
+Category:Removed blocks
+
+fr:Générateur d'eau
+ja:無限の水
+lzh:息源
+pt:Gerador de Água
+zh:无限水源

@@ -1,0 +1,64 @@
+TITLE: Clay Ball
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Clay_Ball
+---
+A clay ball is an item obtained from clay used for crafting or making bricks.
+
+Obtaining
+Mining
+Clay balls are obtained when a clay block is broken with a non-Silk Touch tool. Each block yields four clay balls regardless of Fortune.
+
+Generated loot
+
+Usage
+Clay balls can be crafted back together to form clay blocks or baked in a furnace to create bricks.
+
+Crafting ingredient
+
+Smelting ingredient
+
+Smelting recipe: Clay Ball → Brick, XP: 0.3.
+
+Trading
+
+Data values
+ID
+Java Edition:
+
+Bedrock Edition:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+Navigation
+
+de:Tonklumpen
+es:Bola de arcilla
+fr:Motte d'argile
+it:Zolla di argilla
+ja:粘土玉
+ko:점토 덩이
+lzh:埴團
+nl:Klei (voorwerp)
+pt:Bola de argila
+ru:Комок глины
+th:ก้อนดินเหนียว
+uk:Глиняна кулька
+zh:黏土球

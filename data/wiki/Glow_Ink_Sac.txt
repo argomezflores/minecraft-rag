@@ -1,0 +1,51 @@
+TITLE: Glow Ink Sac
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Glow_Ink_Sac
+---
+A glow ink sac is an item dropped by a glow squid upon death. It can be used on signs to make the text glow and can be used to craft glow item frames.
+
+Obtaining
+Mob loot
+
+Usage
+Crafting ingredient
+
+Signs
+thumb|150px|An oak sign with a glow ink sac used on it.
+Glow ink sacs can be used on signs or hanging signs to make their text brighter in low light levels. This also adds an outline around the text on the sign, the color of which is based on the color of the sign's text. The text does not emit any light, it is only more visible in darkness, similarly to the eyes of spiders and endermen. Normal ink sacs can be applied to revert glowing text back to default. Breaking the sign removes the glowing text.
+
+Sounds
+
+:
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+External links
+
+Navigation
+
+de:Leuchttintenbeutel
+es:Saco de tinta luminosa
+fr:Poche d'encre luisante
+it:Sacca d'inchiostro luminescente
+ja:輝くイカスミ
+ko:발광 먹물 주머니
+lzh:爍墨
+pl:Torbiel ze świecącym atramentem
+pt:Bolsa de Tinta Brilhante
+ru:Светящийся чернильный мешок
+uk:Сяйний чорнильний мішок
+zh:荧光墨囊

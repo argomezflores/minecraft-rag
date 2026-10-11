@@ -1,0 +1,92 @@
+TITLE: Block of Diamond
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Diamond
+---
+A block of diamond, known internally as a diamond block, is a precious mineral block equivalent to nine diamonds.
+
+Obtaining
+Breaking
+Blocks of diamond can be mined with an iron pickaxe or better.
+
+Natural generation
+Blocks of diamond generate as the cores of "obsidian rooms" and "lava rooms" in woodland mansions.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Diamond, Diamond, Diamond, Diamond, Diamond, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Block of Diamond.
+
+Usage
+Blocks of diamond can be used to store diamonds in a compact fashion.
+
+Beacons
+Blocks of diamond can be used to "power" a beacon. The beacon can be powered by a 3×3 square of diamond blocks underneath it, and can optionally also include a 5×5, 7×7 and 9×9 layer in the shape of a pyramid under the original layer to increase the effects from the beacon. The layers do not have to be entirely diamond blocks, as they may also contain blocks of iron, blocks of gold, blocks of netherite, and blocks of emerald.
+
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+The block of diamond has the same texture as the block of gold, but tinted blue. This is also true of its texture from before the Texture Update.
+
+Gallery
+
+Development images
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Compacted blocks
+
+cs:Diamantový blok
+de:Diamantblock
+el:Κύβοι Διαμαντιού
+es:Bloque de diamante
+fr:Bloc de diamant
+hu:Gyémántblokk
+it:Blocco di diamante
+ja:ダイヤモンドブロック
+ko:다이아몬드 블록
+lzh:金剛石塊
+nl:Diamantblok
+pl:Blok diamentu
+pt:Bloco de Diamante
+ru:Алмазный блок
+th:บล็อกเพชร
+tr:Elmas Bloğu
+uk:Блок діаманта
+zh:钻石块

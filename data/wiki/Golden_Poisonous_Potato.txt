@@ -1,0 +1,41 @@
+TITLE: Golden Poisonous Potato
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Golden_Poisonous_Potato
+---
+A golden poisonous potato is a food item that grants absorption and poison when consumed, only present in 24w14potato.
+
+Obtaining
+Crafting
+
+Crafting recipe: Gold Ingot, Gold Ingot, Gold Ingot, Gold Ingot, Poisonous Potato, Gold Ingot, Gold Ingot, Gold Ingot, Gold Ingot arranged in the crafting grid → Golden Poisonous Potato.
+
+Usage
+
+To eat a golden poisonous potato, press and hold  while it is selected in the hotbar. It restores  points of hunger and 9.6 hunger saturation.
+
+Unlike most foods, golden poisonous potatoes can be eaten even if the hunger bar is full.
+
+The golden poisonous potato provides:
+Absorption I for 2 minutes (providing  points of absorption health)
+Poison II for 5 seconds (dealing  damage)
+
+Damage from Poison can be reduced by armor with Protection or Resistance effect, resulting in net gain of health points.
+
+Sounds
+
+Data values
+
+ID
+
+Issues
+
+Trivia
+The item texture is raw gold, with the poisonous potato sprouts overlaid on it.
+
+Navigation
+
+Category:Joke items
+Category:Food
+
+ja:Golden Poisonous Potato
+zh:金毒马铃薯

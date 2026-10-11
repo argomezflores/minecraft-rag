@@ -1,0 +1,93 @@
+TITLE: Redstone Lamp
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Redstone_Lamp
+---
+A redstone lamp is a solid block that produces light while it is receiving redstone power.
+
+Obtaining
+Breaking
+A redstone lamp can be mined with any tool or by hand, dropping itself as an item.
+
+Natural generation
+Redstone lamps generate naturally in ancient cities.
+
+Crafting
+
+Crafting recipe: Redstone Dust, Redstone Dust, Glowstone, Redstone Dust, Redstone Dust arranged in the crafting grid → Redstone Lamp.
+
+Usage
+A redstone lamp can be used to produce switchable light.
+
+Redstone lamps are redstone mechanisms and can be activated by:
+An adjacent active power component, including above or below: for example, a redstone torch (except that a redstone torch does not activate a redstone lamp it is attached to), a block of redstone, a daylight sensor, etc.
+An adjacent powered block (for example, an opaque block with an active redstone torch under it), including above or below
+A powered redstone comparator or redstone repeater facing the redstone lamp
+Adjacent powered redstone dust configured to point at the redstone lamp (or on top of it) or directionless; a redstone lamp is not activated by adjacent powered redstone dust that is configured to point away from it.
+
+A redstone lamp activates instantly, but takes 4 ticks (0.2 seconds) to turn off  or 6 ticks (0.3 seconds) to turn off  .
+
+An active redstone lamp produces block light level 15. An inactive redstone lamp produces no light.
+
+A redstone lamp acts like an opaque block; it blocks sky light, mobs suffocate in it, and it conducts redstone power. It also allows mobs to spawn on them, even when the lamp is lit, provided the mob ignores light level for spawning.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Multiple tiled redstone lamps produce a pattern that resembles the truncated square tiling t{4,4}.
+, redstone lamps are transparent on maps.
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Redstone
+Category:Mechanisms
+Category:Manufactured blocks
+Category:Light sources
+
+de:Redstone-Lampe
+es:Lámpara de redstone
+fr:Lampe à redstone
+hu:Redstone-lámpa
+it:Lampada a redstone
+ja:レッドストーンランプ
+ko:레드스톤 조명
+nl:Redstonelamp
+pl:Lampa redstone
+pt:Lâmpada de Redstone
+ru:Редстоуновая лампа
+uk:Редстоунова лампа
+zh:红石灯

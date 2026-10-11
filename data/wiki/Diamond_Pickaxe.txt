@@ -1,0 +1,87 @@
+TITLE: Diamond Pickaxe
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Diamond_Pickaxe
+---
+A diamond pickaxe is a variant of pickaxe that is crafted from diamonds. It is the second-highest tier of pickaxe, having higher mining efficiency, durability, and attack damage than an iron pickaxe. It has a mining level of 3, allowing it to mine obsidian and ancient debris. It can be upgraded into a netherite pickaxe using a netherite ingot and netherite upgrade at a smithing table.
+
+Obtaining
+Crafting
+
+Crafting recipe: Diamond, Diamond, Diamond, Stick, Stick arranged in the crafting grid → Diamond Pickaxe.
+
+Generated loot
+
+Trading
+
+Usage
+
+Mining
+A diamond pickaxe is used to break stone and metal-based materials faster. Breaking a block with a diamond pickaxe consumes one durability point. No durability is consumed for blocks that have a hardness value of 0, such as torches and flowers.
+
+Mining level
+Diamond pickaxes have a mining level of 3. A diamond pickaxe or better is required to mine the following blocks:
+
+Weapon
+
+All pickaxes have an attack speed modifier of -2.8, meaning they take about 0.85 seconds to recover. Diamond pickaxes do  damage per attack, or 6 damage per second.
+
+All pickaxes attack instantly, with diamond pickaxes doing  damage per attack.
+
+Repairing
+Combining
+
+Anvil repair
+
+A diamond pickaxe can be repaired in an anvil by adding diamonds, with each diamond restoring 390 durability. Two diamond pickaxes can also be combined in an anvil. Both methods preserve the pickaxe's enchantments.
+
+Enchantments
+A diamond pickaxe can receive the following enchantments:
++NameDescriptionMax levelMethodWeightEfficiencyIncreases the mining speed.V10FortuneSilk Touch and Fortune are mutually exclusiveIncreases the amount of drops when mining.III2Silk TouchCauses blocks to drop themselves when mined.I1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the pickaxe when obtaining experience.I2Curse of VanishingThe pickaxe vanishes on death, not dropping as an item.I1
+
+Upgrading
+Like other diamond tools, a diamond pickaxe can be upgraded to a netherite pickaxe, increasing its durability and slightly increasing its mining speed, as well as granting resistance to fire and lava when dropped as an item. The upgraded pickaxe will keep its enchantments, name and other item data.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Publicity
+Plastic diamond pickaxes are official Minecraft merchandise.
+
+Gallery
+
+In other media
+
+References
+
+Navigation
+
+Category:Tools
+
+fr:Pioche en diamant
+ko:다이아몬드 곡괭이
+pt:Picareta de Diamante
+uk:Діамантове кайло

@@ -1,0 +1,95 @@
+TITLE: Milk Bucket
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Milk_Bucket
+---
+A milk bucket is a drink obtained from  a bucket on cows, mooshrooms and goats that can be consumed to clear all effects.
+
+Obtaining
+Harvesting
+Milk buckets can be obtained from cows, mooshrooms, and goats by pressing  while looking at them with an empty bucket.
+
+Generated loot
+
+Mob loot
+A milk bucket has an 8.5%/25% chance of dropping from a wandering trader, if the trader is killed while holding it (when drinking it to get rid of the Invisiblity effect Wandering Traders equip in danger or at night/rain). The drop chance increases by 1% per level of Looting used.
+
+Usage
+To drink milk, press and hold  while it is selected in the hotbar. Drinking it immediately removes all status effects from the player and returns an empty bucket. Note that fire is not a status effect; therefore, drinking milk doesn't extinguish a burning player.
+
+, the drinking animation for milk is shown only in first-person camera mode.
+
+The benefits of area status effects (granted by beacons, Potent Sulfur noxious gas and conduits) are restored almost immediately  and after a few seconds .
+
+Crafting ingredient
+
+Trading
+Wandering traders occasionally purchase a milk bucket for 2 emeralds.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+See also
+Water Bucket
+Lava
+Food
+Cake
+Honey Bottle (alternative to remove Poison effect)
+Medicine
+
+Notes
+
+References
+
+External links
+
+Navigation
+
+Category:Drinks
+Category:Utilities
+
+cs:Mléko
+de:Milcheimer
+es:Cubo con leche
+fr:Seau de lait
+hu:Tej
+it:Secchio di latte
+ja:ミルク入りバケツ
+ko:우유 양동이
+lzh:乳桶
+nl:Emmer melk
+pl:Wiadro mleka
+pt:Balde de Leite
+ru:Ведро с молоком
+th:ถังนม
+uk:Відро молока
+zh:奶桶

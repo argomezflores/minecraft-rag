@@ -1,0 +1,47 @@
+TITLE: Polished Sulfur Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Sulfur_Slab
+---
+A polished sulfur slab is a decorative slab variant of polished sulfur.
+
+Obtaining
+Breaking
+Polished sulfur slabs drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Sulfur, Polished Sulfur, Polished Sulfur arranged in the crafting grid → Polished Sulfur Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+es:Losa de azufre pulido
+fr:Dalle de soufre poli
+it:Lastra di zolfo levigato
+ja:磨かれた硫黄のハーフブロック
+pt:Laje de Enxofre Polido
+ru:Плита из полированной серы
+uk:Плита з полірованої сірки
+zh:磨制硫黄台阶

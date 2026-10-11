@@ -1,0 +1,212 @@
+TITLE: Scoreboard
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Scoreboard
+---
+thumb|350px|A screenshot of a scoreboard on the right side of the screen.
+thumb|The scoreboard
+The scoreboard system is a complex gameplay mechanic utilized through commands. Mainly intended for mapmakers and server operators, scoreboards are used to track, set, and list the scores of entities in a myriad of different ways.
+
+Objectives
+
+An objective tracks a score for entities while meeting a single criterion. These scores are stored as 32-bit integer ranging from -231 to 231-1.
+
+Objectives have two main properties: a name and a criterion. The objectives' name is used internally for referencing in commands, target arguments, and the file format, while the criterion determines the objectives' behavior – primarily what to track.
+
+, the objectives' name must be a single, case-sensitive string consisting of  characters (A–Z and 0–9), hyphen , plus , dot , and underscore . , it must either be a single string that has no space or a quoted string. When a string is quoted, backslash  can be used to escape characters.
+
+The entity's score in any objective can be changed from commands, unless it's read-only and automatically set by the game (see ). It can be increased by, decreased by, or set to a given amount with commands. Non-player entities only support dummy criterion in the scoreboard; their scores can only be changed by commands and not automatically by the game. Unlike players, when a non-player entity dies, its scores are deleted. Notable commands that can modify any entities' scores are  and  (the latter is exclusive to Java Edition only).
+
+The score holder's name can either be the player's username or the entity's UUID. For players, the score holder's name doesn't need to belong to an actual player, and can be specified by any arbitrary username. As player names cannot contain spaces, a figure space  (U+2007) can be used as a visually identical substitute instead.
+
+Objectives also have other properties to change its appearance and behavior:
+
+Property Description Value displayname The objective's display name that appears on display slots, such as the player list, below the player's name tag, and the sidebar. By default, the objective's name is the display name. Text component numberformat The objective's number format for the score. The value can be blank, fixed, or styled. blank displays nothing on the scoreboard.
+fixed displays the contents specified in the command.
+styled displays the score number with the styling applied from the text component format, such as , , , etc. This means that the  property is ignored. rendertype How the score is rendered in the player list (all other display locations are unaffected). The value can be integer (the default) or hearts. integer the score is rendered as an integer.
+hearts the score is rendered in the form of hearts (half a heart for each point).
+Values below 1 are not rendered.
+Values above 43 are instead rendered as <full-hearts>hp, where <full-hearts> is the floating-point representation of value / 2. displayautoupdate Whether or not to display auto updates when the score has changed.
+
+The number format property and the score holder's name can be changed per-entity using .
+
+Server operators can select entities by their scores using target selector with the "scores" argument (syntax: @e[scores={<name>=<min>..<max>}]). This argument uses the <name> argument to specify the score name of the objective. For example, inputting  into a command block triggers a comparator or conditional command block if any player has died at least once ever since the objective was created, assuming the deaths objective has the deathCount criterion.
+
+Criteria
+
+A criterion determines an objective's behavior and tracks statistical game elements. When a criterion's source value changes, the change is automatically reflected in the objective's score.
+
+, criteria are categorized by single and compound criteria. Each of the criteria tracks specific game elements, such as players' health, hunger, experience, triggers, statistics, and among other things. , the "dummy" criterion is the only criteria supported. As such, scores can only be changed by commands.
+
+Single criteria
+
+Single criteria names consist of an alphabetical string.
+
+Criteria name Description Can be modified dummy A score that can be changed only by commands and not automatically by the game. This can be used for storing integer states and variables, which can then be used with the scoreboard's operations to perform arithmetic calculations.  trigger A score that can be changed by commands and not automatically by the game. The  command allows players to set, increment, or decrement their own score. The command fails if the objective has not been "enabled" for the player using it. After a player uses it, the objective is automatically disabled for them. By default, all trigger objectives are disabled for players. Ordinary players can use the  command, even if cheats are disabled or they are not server operators, making it useful for safely taking input from non-operator players.  deathCount The score increments automatically when a player dies.  playerKillCount The score increments automatically when a player kills another player.  totalKillCount The score increments automatically when a player kills another player or a mob.  health Ranges from 0 to 20 (and greater) for a normal player; represents the amount of half-hearts a player has. It may appear as 0 for players before their health has changed for the first time. The health score can surpass 20 points with extra hearts from attributes, Health Boost or Absorption effects.  xp Matches the total amount of experience the player has collected since their last death.  level Matches the current experience level of the player.  food  Ranges from 0 to 20; represents the amount of hunger points a player has. It may appear as 0 for players before their food level has changed for the first time.  air Ranges from 0 to 300; represents the amount of air a player has left while swimming underwater. It matches the air NBT tag of the player.  armor Ranges from 0 to 20; represents the amount of armor points a player has. It may appear as 0 for players before their armor level has changed for the first time.
+
+Compound criteria
+
+Compound criteria names are divided into parts, delimited with periods . For example,  is a valid compound criterion, under which a player's score increments whenever they are killed by a zombie.
+
+Objectives based on a compound criterion are writable and can be modified with commands.
+
+Statistics can be used as compound criteria whose name are their identifier. Player statistics are stored separately from the scoreboard, and as they update, the scores in these objectives are updated too.
+
+In addition, there are some other compound criteria:
+
+Criteria base name Description Number of sub-criteria teamkill.<team_color> Sub-criteria include team colors. Player scores increment when a player kills a member of the given colored team.
+
+These criteria follow the complete format teamkill.<team_color>, where <team_color> is a color from the list:16 killedByTeam.<team_color> Sub-criteria include team colors. Player scores increment when a player is killed by a member of the given colored team.
+
+These criteria follow the complete format killedByTeam.<team_color>, where <team_color> is a color from the list:16
+
+Score operations
+
+Players can increment, decrement, reset and modify an entity's scores by a specific amount using commands. They can also set scores to a random number within a range, and test if the scores are set between specific minimum and maximum values.
+
+Scores can also be modified by using arithmetic operations like addition, subtraction, multiplication, and etc. These operations take the target entity's score and execute it with another score from a different entity. The result of such operations is then assigned as the new target score.
+
+For example, executing an addition operation on a target entity's score with a source entity's score can be expressed as:
+
+Below is a list of available arithmetic operations.
+
+Operation  Description+=  Adds the target's score and the source's score.-=  Subtracts the target's score and the source's score.*=  Multiplies the target's score and the source's score./=  Divides the target's score and the source's score, then applies the  function on the result.%=  Applies the  operation on the target's score and the source's score, returning the remainder of a division.=  Assigns the source's score as the new target's score without applying any other arithmetic operations whatsoever.<  Assigns the minimum value between the target's score and the source's score. It will compare and pick the lowest score value between the target's and the source's scores.>  Assigns the maximum value between the target's score and the source's score. It will compare and pick the highest score value between the target's and the source's scores.><  Swaps the target's score and the source's score. The target's score will be the source's score, and the source's score will be the target's score.
+
+For arithmetic operations, if there is more than one score holder specified as the sources, the game executes the operations once with each source's score, and if there is more than one target score holder, the game executes the operations for each target one by one.
+
+These operations are available by using the scoreboard players sub-commands, e.g.
+for arithmetic operations,
+to set a target entity's score, and
+to test a target entity's score.
+, you'd use  and the  target selector argument.
+
+In Java Edition, modifying scores are also possible using  command, where the result of a command would be stored to the entity's score. Such commands like  results a random value that can be stored to the entity's scores.
+
+Display slots
+thumb|An objective with two points to the player is displayed in the "list" slot, while an objective with the display name "Quest Points" with 0 points to the player is displayed in the "sidebar" slot.
+thumb|A scoreboard displayed below a player's name
+An entity's scores in objectives can be displayed in certain slots in the game. These slots are called display slots, and they can appear in the player list, sidebar on the right side of the screen, below a player's name tag, etc. Each display slot can show one objective at a time, and multiple display slots may be used for the same or different objectives.
+
+When players' scores appear on display slots, their username is used to attribute the score holder. For entities, their unique identifiers are used instead. The score holder's name on display slots can be specifically changed by using .
+
+Entities' scores can only be displayed on the sidebar slot, while other slots are exclusive for players.
+
+Display slots can be set by  command.
+
+Slot Descriptionlist Displays a yellow number or some hearts () without the objective heading on the tab menu, where online players are shown.
+
+Used to display score in the game menu  but currently does nothing.
+
+Visible even in singleplayer. sidebar Shows on the right hand side of the screen, up to 15 entities with the highest score of that objective with a heading labeled with the objective's display name.
+
+Note that players are shown even if offline, and untracked players are not shown. In addition, fake players with names starting with a  character do not show up in the sidebar under any circumstances.   There are 16 team-specific sidebar display slots. These operate the same as the standard sidebar slot, but display only to players who are on teams that use the specified color (for example, "sidebar.team.green" displays to players on "green" teams).
+
+The <color> is a color from the list:below_name
+belowname Shows the score followed by the objective's display name below the player's name tag above their head. This is hidden beyond around 10 blocks and when the player is sneaking. Not visible in singleplayer.
+
+Tags
+
+Tags are a simple list of single-word strings stored directly in the  data of an entity, with maximum limit of 1024 tags. As with objectives, tags are case-sensitive.
+
+Target selectors can be used to check whether an entity has a tag with the "tag" argument.
+
+Teams
+
+Teams group entities or players together as allies.
+
+Any entity can only have a single team. Mobs do not intentionally attack other entities on the same team.
+
+Teams have a name property, used internally for reference in commands, target arguments, and the file format. Like objectives, it is a single, case-sensitive string consisting of alphanumeric characters. Teams also have other several properties to set its appearances and behaviors:
+
+Property Description Value displayName Sets the team's display name that appears on the scoreboard's display slots, such as the player list, below the player's name tag, and the sidebar. Text component color Sets the team's color that appears on the player name in chat, name tag, player list menu, and on the scoreboard sidebar. It also changes the color of the entities outline caused by the Glowing effect.  collisionRule Controls a member's collision rule with other team members, or their own.Due to MC-87984, the behaviors of  and  are reversed. always (default),  deathMessageVisibility Controls a member's death message visibility with other team members, or their own. always (default),  nametagVisibility Controls a member's name tag visibility from other team members, or their own. Members' name tag is visible above the player head. always (default),  friendlyFire Toggles the team's friendly fire rule that controls if a member can attack other members on the same team. The attack damage can be from melee attack, bow and arrow, splash potion of Harming, and more. Note that team members may still inflict negative status effects on each other with potions, like with a splash potion of Poison.  seeFriendlyInvisibles Toggles a member's visibility to other members on the same team with Invisibility effect.  prefix Sets the team's prefix that appears before the member's name in the chat, name tag, and the player list menu. Quoted string suffix Sets the team's suffix that appears after the member's name in the chat, name tag, and the player list menu. Quoted string
+
+Commands can be used to check whether team members exist by using target selection with the "team" argument. An exclamation point  character may be placed before a team name to check for entities not on that team. For example, inputting  into a command block provides comparator output if any player exists on the red team. Conversely,  provides output when there are any players not on the red team.  allows output when at least one player is on any team, and  allows output when at least one player is on no team.
+
+NBT format
+
+The file scoreboard.dat in the data/minecraft folder of the world save folder stores the scoreboard data for that world as a  compressed NBT file:
+
+* Optional.
+† Optional, with a default value when absent
+‡ Optional, may be absent when empty
+The root tag.
+: data version of the scoreboard NBT structure.
+: The scoreboard data.
+‡: A list of compound tags representing objectives.
+An objective.
+: The criterion of this objective.
+: The display name of this objective in JSON. If none was specified during the objective's creation, this is set to {"text":"Value of Name"}.
+: The internal name of this objective.
+†: The way the score is displayed. Can be "integer" or "hearts". Defaults to "integer" when absent.
+†: 1 or 0 (true/false) - Whether display names in the sidebar automatically update whenever score values change. Defaults to 0 (false) when absent.
+*: The default number format for this objective. See .
+‡: A list of compound tags representing scores tracked by the scoreboard system.
+A tracked player/objective pair with a score.
+: The score this player has in this objective.
+: The name of the player who has this score in this objective.
+: The internal name of the objective that this player has this score in.
+†: 1 or 0 (true/false) - false if this objective is "enabled". Meaningful only for objectives with the criteria "trigger", where this must be false before a player can use the /trigger command on it. Defaults to 0 (false) when absent.
+*: The text component used as display name in the sidebar.
+*: The number format of the player score. See .
+‡: A list of compound tags representing teams.
+A Team.
+: 1 or 0 (true/false) - true if players on this team can harm each other.
+: 1 or 0 (true/false) - true if players on this team can see invisible teammates.
+: The value of the nametagVisibility option of this team.
+: The value of the deathMessageVisibility option of this team. Valid options are: never, hideForOtherTeams, hideForOwnTeam, always
+: The value of the collisionrule option of this team. Valid options are: always, pushOwnTeam, never, pushOtherTeams
+: The display name of this team in JSON. If none was specified during the team's creation, this is set to {"text":"Value of Name"}.
+: The internal name of this team.
+: The prefix prepended to names of players on this team. In JSON format.
+: The suffix appended to names of players on this team. In JSON format
+*: The text-based color given to the team. Does not exist if no color is set.
+: A list of names of players on this team.
+The name of a player on this team.
+‡: A set of slots that display specific objectives, see below. If a slot is empty, its tag is not present.
+: Player list.
+: On the siderbar.
+: Below the player's username.
+: Sidebar categorized by team colors.
+Additionally, if the display slot used old numerical values (see the table below), it will be renamed into the current values.
+
++Numerical display slotsNo.TypeName0Player list list1On the sidebarsidebar2Below the player's usernamebelow_name3Team colorsidebar.team.black4sidebar.team.dark_blue5sidebar.team.dark_green6sidebar.team.dark_aqua7sidebar.team.dark_red8sidebar.team.dark_purple9sidebar.team.gold10sidebar.team.gray11sidebar.team.dark_gray12sidebar.team.blue13sidebar.team.green14sidebar.team.aqua15sidebar.team.red16sidebar.team.light_purple17sidebar.team.yellow18sidebar.team.white
+
+Display format
+Objectives and individual players can have their display formatted.
+The root.
+: Type of the entry as a resource location.
+Extra fields of the entry, described below.
+The possible values for  and associated extra fields are listed below.
+
+blank — Displays nothing.
+
+fixed — Displays a static text component.
+: A JSON text component to display.
+
+styled — Applies text component styling fields to the rendered numeric score.
+Text component format formatting fields
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+de:Anzeigetafel
+es:Marcador
+fr:Tableau de score
+ja:スコアボード
+ko:스코어보드
+nl:Scorebord
+pl:Tablica wyników
+pt:Placar
+ru:Система счёта игровых событий
+uk:Таблиця рахунків
+zh:记分板

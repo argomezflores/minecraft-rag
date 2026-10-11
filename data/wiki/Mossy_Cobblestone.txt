@@ -1,0 +1,75 @@
+TITLE: Mossy Cobblestone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mossy_Cobblestone
+---
+Mossy cobblestone is a variant of cobblestone with moss on it. It is mainly used for crafting or as a building block.
+
+Obtaining
+Breaking
+Mossy cobblestone can be mined using a pickaxe, in which case it drops itself. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+Mossy cobblestone occurs naturally in monster rooms, jungle pyramids, pillager outposts, cold ocean ruins, and plains and taiga villages (as well as zombie villages). It can also be found in the form of forest rocks in the old growth pine taiga and old growth spruce taiga biomes, around zombie or baby zombie trial spawners in trial chambers, and sometimes as part of abandoned camps.
+
+Crafting
+
+Usage
+Mossy cobblestone can be used as a basic building block, as it is blast resistant and fairly common.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Trivia
+Mossy cobblestone is the only stone family full block that naturally generates underground but does not have an infested variant.
+
+Issues
+
+Gallery
+Screenshots
+
+External links
+Block of the Week: Moss Stone – Minecraft.net on November 24, 2017
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+Category:Manufactured blocks
+
+cs:Kamení porostlé mechem
+de:Bemooster Bruchstein
+es:Roca musgosa
+fr:Pierres moussues
+hu:Mohás kő
+it:Pietrisco muschioso
+ja:苔むした丸石
+ko:이끼 낀 조약돌
+lzh:苔䃮
+nl:Mossige keisteen
+pl:Zamszony bruk
+pt:Pedregulho musgoso
+ru:Замшелый булыжник
+uk:Моховитий кругляк
+zh:苔石

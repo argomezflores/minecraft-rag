@@ -1,0 +1,26 @@
+TITLE: Grave
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Grave
+---
+A grave is an item only present in 25w14craftmine. A poppy and skeleton skull are seen in the item’s texture.
+
+Obtaining
+The grave is only obtainable via the  command.
+
+Usage
+The grave only serves as the icon of the "Oops" advancement, and does nothing else.
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Items with no use
+
+ja:Grave
+ko:무덤
+lzh:冢
+th:ป้ายหลุมศพ
+zh:墓碑

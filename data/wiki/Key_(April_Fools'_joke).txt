@@ -1,0 +1,34 @@
+TITLE: Key (April Fools' joke)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Key_(April_Fools'_joke)
+---
+Keys are joke items only present in Java Edition 3D Shareware v1.34. There are three different keys: red, yellow, and blue.
+
+Obtaining
+Mobs
+ColorDropped byRed YellowBlue
+
+Cheat codes
+These keys are also obtainable by typing the cheat code "IDKFA", not necessarily in the chat.
+
+Natural generation
+
+Fishing
+Blue keys are obtainable through fishing, with a 0.6% chance per attempt.
+
+Data values
+ID
+
+Trivia
+32px A key with a similar appearance is present in The Europa Arcology Incident, a game made by Notch in 2009.
+These keys and their cheat code are likely a reference to the original Doom game.
+
+Navigation
+
+Category:Joke items
+
+fr:Clé (poisson d'avril)
+ja:Key (ジョーク)
+lzh:管（躍然享件一點三四）
+pt:Edição Java 3D Shareware v1.34/Key
+zh:钥匙（3D Shareware v1.34）

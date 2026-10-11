@@ -1,0 +1,49 @@
+TITLE: Mine Crafter
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mine_Crafter
+---
+The mine crafter is a block only present in 25w14craftmine. It resembles a sculk shrieker, as it has the same model with a different texture.
+
+Obtaining
+The mine crafter can't be mined in Survival, however, it can be blown up. Note that the explosion from "Thorns++" player unlock only rarely drops the blocks it destroys.
+
+Natural generation
+A mine crafter generates in the center of the hub.
+
+Usage
+The mine crafter can be used to craft any mine the player wishes with new items that affect what mine is generated. Upon interacting, a modified crafting table screen will appear. Placing mine ingredients in slots on the mine crafter screen will alter what the mine crafter generates.
+
+Experience earned by the player can be added to the mine crafter in increments of 20 by pressing the button at the top right of the mine crafter screen (labeled "DONATE").
+Each level increases the number of predetermined mine ingredients and optional mine ingredients slots. Level 48 adds the 50th slot, and further levels have no effect. At this point, 16 ingredients are predetermined.
+
+Holding down space or enter after pressing the button can be used to rapidly add experience.
+
+Mine ingredients that have not been discovered yet are listed on the "Undiscovered" section (on the right side), and each has their own hint on how to unlock them.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+:
+
+Issues
+
+Trivia
+with the mine crafter with any undiscovered mine effect also unlocks the specific effect.
+Any non-active ingredient can be transferred into players' offhand by pressing the , or  onto the ground.
+The order of the ingredients in the Undiscovered section is randomized each time the GUI is opened.
+The swirling portion of the regular sculk shrieker texture rotates clockwise; however, those of the mine crafter and mine revisitor rotate counterclockwise. The rotating portions of these blocks' textures also rotate more slowly compared to the sculk shrieker.
+
+Navigation
+
+Category:Blocks with GUI
+
+de:25w14craftmine/Mine Crafter
+ja:Mine Crafter
+pl:Mine Crafter
+pt:Edição Java 25w14craftmine/Mine Crafter
+ru:Сборщик шахт
+zh:矿境合成台

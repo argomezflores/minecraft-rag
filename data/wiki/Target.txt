@@ -1,0 +1,85 @@
+TITLE: Target
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Target
+---
+A target is a block that produces a temporary redstone signal when hit by a projectile. Unlike most other conductive blocks, it also redirects adjacent redstone dust toward it.
+
+Obtaining
+Breaking
+Targets can be mined using any tool or by hand, but using a hoe is the fastest way to break it.
+
+Natural generation
+In each ancient city, a single target can be found integrated into circuitry within a secret room at the city center.
+
+Crafting
+
+Crafting recipe: Redstone Dust, Redstone Dust, Hay Bale, Redstone Dust, Redstone Dust arranged in the crafting grid → Target.
+
+Usage
+Targets emit a redstone signal when hit by projectiles. The closer a projectile is to the center of the block, the stronger the redstone signal that is produced.
+
+The following projectiles can activate a target block:
+
+(including when boosting a gliding player)
+
+Redstone component
+thumb|Targets redirecting redstone toward themselves
+When struck by most projectiles, the target emits redstone power for . Arrows and tridents instead cause the target to emit power for , similar to stone buttons. A target can be hit with any of the projectiles mentioned above.
+
+The strength of the signal depends on how close the projectile is to the center of the block, from 1 to 15.
+
+, the target changes its power state when hit, meaning that an observer can detect if the target has been hit and has produced a redstone signal.
+
+Being a power source, a target redirects adjacent redstone wires to point to itself. As targets are also conductive, this property can be used to compact redstone circuits.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Reveal
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+
+Navigation
+
+Category:Manufactured blocks
+Category:Mechanisms
+Category:Flammable blocks
+
+de:Zielblock
+es:Diana
+fr:Cible
+ja:的
+ko:과녁
+pl:Tarcza strzelecka
+pt:Alvo
+ru:Мишень
+uk:Мішень
+zh:标靶

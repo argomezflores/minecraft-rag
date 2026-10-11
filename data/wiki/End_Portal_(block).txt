@@ -1,0 +1,103 @@
+TITLE: End Portal (block)
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/End_Portal_(block)
+---
+The End portal block is a block generated when an End portal or exit portal is activated, which teleports the player between the Overworld and the End.
+
+It is one of two blocks that use the starfield effect.
+
+Obtaining
+The End portal block cannot be obtained as an item even by using the  command. The item form is non-existent , but it can be obtained through add-ons, external editors or by using bugs .
+
+The End portal block can be placed using commands such as  or  or simply by building End portals.
+
+Usage
+End portal blocks can be used to teleport into and out of the End. When a player or other entity in the Overworld or the End touches an End portal block, it is instantly taken to the other dimension. If a single portal block is placed using commands, it can still be used to travel between dimensions.
+
+All entities traveling to the End appear on the obsidian platform, recreating it if necessary. Players traveling to the Overworld appear at their individual spawn point, while other entities appear at the world spawn point.
+
+Properties
+Entities which touch the End portal (who have already seen the credits) are teleported to another dimension:
+If the block is in the Overworld, the Nether, or in a custom dimension, the entity is teleported to the obsidian platform in the End.
+If the block is in the End, they are teleported to their spawn point:
+Players with an unobstructed respawn location (set by using a bed or respawn anchor) are teleported to that location.
+Players whose respawn location is unset or obstructed are teleported to a small area centered on the world spawn point.
+All other entities (aside from the exceptions listed below) are teleported exactly to the world spawn point.
+, ridden entities and their passengers can use End portals (and Nether portals); , they cannot.
+However, , if an entity ridden by a player who has not yet seen the credits enters an End portal in the End, the entity will not be teleported to the world spawn.
+Ender dragons cannot use End portals.
+Withers can use End portals only .
+End portal blocks can be destroyed in Creative mode. This does not affect adjacent End portal blocks.
+The top surface of an End portal is  the height of a full block.
+The End portal is one of the only blocks without a conventional texture or entity texture; it instead duplicates and layers a star-field pattern that follows the player's cursor.
+If TNT is detonated on an End portal, no blocks in its blast radius are destroyed.
+If the End portal block is generated in the block grid using the debug mode world type, it teleports the player to the Overworld regardless of which dimension it is in.
+, it's impossible to see the texture of the End portal block when the player is under it.
+If a player has not seen the credits yet, they are unloaded, and shown the credits sequence. Then, they are teleported following the steps above.
+
+Piston interactivity
+End portal blocks cannot be pushed by pistons. They also cannot be pushed nor pulled by sticky pistons.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+
+ID
+:
+
+:
+
+Block data
+An End portal block has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+:
+See Bedrock Edition level format/Block entity format.
+
+History
+
+Teaser
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+References
+
+Navigation
+
+Category:End blocks
+Category:Block entities
+Category:Generated structure blocks
+Category:Non-solid blocks
+Category:Utility blocks
+Category:Light sources
+Category:Createable blocks
+Category:Blocks with no item form
+es:Portal del End (bloque)
+fr:Portail de l'End (bloc)
+it:Portale dell'End (blocco)
+ja:エンドポータル (ブロック)
+ko:엔드 차원문 (블록)
+pt:Portal do End (bloco)
+ru:Блок портала Края
+zh:末地传送门（方块）

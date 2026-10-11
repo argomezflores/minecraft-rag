@@ -1,0 +1,88 @@
+TITLE: Ominous Vault
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Ominous_Vault
+---
+An ominous vault is a type of vault found in trial chambers. It ejects valuable loot when unlocked using an ominous trial key and is the only source of heavy cores, among other items.
+
+Obtaining
+Ominous vaults cannot be obtained as items in Survival or Adventure mode. They are technically block state variants of normal vaults and can be obtained or created using commands, such as:
+
+:
+
+:
+
+This command does not affect the loot table nor the key item, making it so that a normal trial key can unlock an ominous vault as if it were a normal vault. This is a bug, and can be seen on the bug tracker.
+
+Breaking
+No tool can accelerate the breaking process of ominous vault.
+
+An ominous vault drops nothing when it is destroyed.
+
+Natural generation
+thumb|200px|An ominous vault, as it appears in trial chambers.
+Ominous vaults can be found throughout trial chambers. Each combat chamber always contains one ominous vault, while additional ominous vaults can be found at the end of both corridors and in two of the three types of intersections. There is usually an average of 6 to 8 ominous vaults in each trial chambers structure.
+
+An ominous vault can be distinguished from a normal vault by its texture and location in harder to find places. An ominous vault is always surrounded by an altar-like structure that contains red candles and red glazed terracotta.
+
+Unlike ominous trial spawners, ominous vaults don't replace normal vaults when a player with the Trial Omen effect is nearby.
+
+Usage
+A player can unlock an ominous vault using an ominous trial key. Each player can unlock each ominous vault only once, although after the 129th player opens the same vault, the first player in the list is forgotten and can open it again.
+
+Piston interactivity
+An ominous vault cannot be pushed by a piston or pulled by a sticky piston.
+
+Loot
+An ominous vault ejects 2 to 5 stacks of loot, like a normal vault. It ejects a combination of loot from three different loot tables. The ejected loot is dependent on the world seed, and is unaffected by timing. The following information describes the loot ejected for a single player when a single ominous trial key is .
+Common loot
+Every ominous vault gives between one and three sets of common loot, corresponding to the third and sixth columns below.
+An ominous vault that does not give rare loot gives an additional set of common loot, making it possible to get four sets of common loot.
+Rare loot
+Every ominous vault has an 80% chance to include a set of rare loot.
+The loot listed in the second and fifth columns below corresponds with the chance of one set of rare loot, plus the chance of the one set of common loot that can be used in its place.
+Unique loot
+Every ominous vault has a 75% chance to include one additional set of unique loot.
+This loot, and the 25% chance for each ominous vault not to have this loot, corresponds with the fourth and seventh columns below.
+Unique loot is always the first to drop when an ominous vault is opened.
+
+Sounds
+Generic
+
+Unique
+
+Data values
+
+An ominous vault is technically a block state variant of a vault. Therefore, it has the same data value structure.
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Mojang images
+
+References
+
+Navigation
+
+Category:Generated structure blocks
+Category:Block entities
+Category:Utility blocks
+Category:Light sources
+Category:transparent blocks
+de:Unheilvoller Tresor
+es:Arca ominosa
+fr:Coffre-fort funeste
+ja:不吉な宝物庫
+ko:불길한 금고
+pt:Cofre Sombrio
+ru:Зловещее хранилище
+uk:Зловісне сховище
+zh:不祥宝库

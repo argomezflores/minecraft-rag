@@ -1,0 +1,77 @@
+TITLE: Chainmail Armor
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Chainmail_Armor
+---
+Chainmail armor is a type of armor that cannot be crafted. It is the fourth strongest armor, between iron and gold.
+
+List of items
+
+Obtaining
+Unlike other armor, chainmail armor cannot be crafted.
+
+Generated loot
+
+Mob loot
+Zombies, husks, zombie villagers, skeletons, strays, bogged, and parched have a chance to spawn with armor on Normal and Hard difficulty, with a 9.73% chance of it being chainmail armor. If killed by a player, there is an 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop the armor they're wearing upon death. The dropped armor has a random durability and retains any enchantments it has.
+
+Trading
+
+Chainmail armor can be bought from armorers.
+
+Villager gifts
+
+Armorer villagers may give players with the Hero of the Village effect chainmail armor.
+
+Usage
+
+Wearing chainmail armor reduces damage taken from most damage types.
+
+Statistics
+When a full set of chainmail armor is worn, the set provides  armor points.
+Type Armor Armor toughness Knockback resistance Durability Enchantability  Full Set   0 N/A N/A Chainmail Helmet   0 165 12 Chainmail Chestplate   0 240 12 Chainmail Leggings   0 225 12 Chainmail Boots   0 195 12
+
+Damage reduction
+
+Wearing armor reduces incoming damage according to two values: armor, and armor toughness. Each piece of armor provides a given armor and armor toughness value, and the values from each armor piece are added together when calculating damage reduction.
+
+The strength of incoming damage also determines the damage reduction of worn armor, as armor does not protect in a linear fashion.
+Chainmail armorMinimum25%50%75%MaximumDamage reduction9.6%19.2%28.8%38.4%48%Incoming damage
+
+Repairing
+
+Unit repair
+
+Smelting ingredient
+
+Smelting recipe: Any Chainmail Armor → Iron Nugget, XP: 0,1.
+
+Sounds
+::
+
+Data values
+
+ID
+:
+
+:
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+Renders
+
+Navigation
+
+fr:Armure#Mailles
+pt:Armadura de Malha

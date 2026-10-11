@@ -1,0 +1,107 @@
+TITLE: Beetroot Seeds
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Beetroot_Seeds
+---
+Beetroot seeds are items that can be used to plant beetroot crops.
+
+Beetroot crops are planted in farmland and used to grow beetroot and beetroot seeds.
+
+Obtaining
+Breaking
+Harvesting fully-grown beetroot yields from 1 to 4 seeds per crop harvested ( seeds per crop harvested on average). The Fortune enchantment can be used to improve the drop rate.
+
+Natural generation
+Village farm plots have a chance of being beetroots. The exact chance depends on the style of the village:
+Village style  Chance  Desert  20%  Plains  5%
+
+Generated loot
+
+Trading
+Wandering traders may sell beetroot seeds for 1 emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 1 beetroot seeds when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+Farming
+
+Beetroot seeds can be planted on farmland to create a plant that grows through 4 stages of growth. The seeds require a light level of 8 or greater to plant and 9 or greater to grow.  they can be planted at any light level, but need a internal light level of 9 to grow. When fully grown, the plant can be broken to harvest beetroot seeds and beetroots.
+
+While beetroot crops have only four growth stages compared to eight for wheat, carrots and potatoes, each growth tick has a  chance of not advancing the growth stage and therefore beetroot grows slightly faster than other crops.
+
+Crops grow faster if the farmland they are planted in is hydrated. One application of bone meal has a 75% chance of advancing growth by one stage. This is less effective than for other crops: an average of  are needed to fully grow beetroot compared to  for other crops.
+
+Crops break if pushed by a piston or if their supporting farmland breaks or turns to dirt (e.g. by being trampled), dropping their usual drops.
+
+Breeding
+Like other seeds, beetroot seeds can be used to breed chickens, lead chickens around, and make baby chickens grow up faster by 10% of the remaining time.
+
+Taming
+Like other seeds, beetroot seeds can be used to tame parrots.
+
+Composting
+Placing beetroot seeds into a composter has a 30% chance of raising the compost level by 1.
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Advancements
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Plants
+Category:Mob food
+Category:Generated structure blocks
+Category:Non-solid blocks
+
+cs:Semínka červené řepy
+de:Rote-Bete-Samen
+es:Semillas de remolacha
+fr:Graines de betterave
+it:Semi di barbabietola
+ja:ビートルートの種
+ko:비트 씨앗
+nl:Bietenzaden
+pl:Nasiona buraka
+pt:Sementes de Beterraba
+ru:Семена свёклы
+th:เมล็ดบีตรูต
+uk:Насіння буряка
+zh:甜菜种子

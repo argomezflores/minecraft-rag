@@ -1,0 +1,61 @@
+TITLE: Flint
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Flint
+---
+Flint is an item obtained from mining gravel that can be used to craft a flint and steel, a fletching table, and arrows.
+
+Obtaining
+Mining
+When a block of gravel is mined, there is a 10% chance that a single piece of flint will drop instead of the gravel block. When mined with a Fortune-enchanted tool, this chance increases to 16% at Fortune I, 25% at Fortune II, and 100% at Fortune III. Gravel mined using a tool with Silk Touch or gravel that fell on a non-solid block never produces flint.
+
+Generated loot
+
+Trading
+
+Usage
+Crafting ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+External links
+
+Navigation
+
+cs:Pazourek
+de:Feuerstein
+es:Pedernal
+fr:Silex
+hu:Kovakő
+it:Selce
+ja:火打石
+ko:부싯돌
+lzh:燧
+nl:Vuursteen
+pl:Krzemień
+pt:Sílex
+ru:Кремень
+th:หินเหล็กไฟ
+uk:Кремінь
+zh:燧石

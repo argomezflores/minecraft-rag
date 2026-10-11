@@ -1,0 +1,111 @@
+TITLE: Bee Nest
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Bee_Nest
+---
+Bee nests are blocks found attached to certain trees. They house bees, which fill their homes with honey made from gathered flower nectar. Full bee nests can be harvested for honeycombs (using shears) or honey bottles (using glass bottles). Bees will attack players who harvest or break their homes without utilizing campfires or Silk Touch, respectively.
+
+Obtaining
+Breaking
+
+Bee nests can be broken by any tool or by the player's fist, though they break faster with an axe.
+
+If a bee nest is broken with a tool not enchanted with Silk Touch, it drops nothing and any bees inside emerge angry at the player, attempting to sting them, which causes Poison on success. Nearby bees will also become angry and attack. If a Silk Touch tool is used, the bee nest drops itself and any bees inside remain inside, and any bees nearby do not become angry.
+
+If broken in Creative mode with bees inside, the bee nest drops itself and bees inside remain inside.
+
+Natural generation
+thumb|A naturally generated bee nest in a village in a Superflat world.
+Naturally generated bee nests generate with 2-3 bees in them, and always face south.
+
+Bee nests generate in the following biomes with different chances:
+Biome ChanceThe chance for each naturally-generated oak, birch, mangrove tree, or cherry tree to have a bee nest.    100%  5%  1%  2% 3%  0.2% 0.035%
+
+Bee nests can also generate in abandoned camps.
+
+Post-generation
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks (including diagonally) of a flower on the same Y-level have a 5% chance to grow with a bee nest containing 2–3 bees. This holds true in any biome in any dimension, and for any flower including wither roses and flowering azaleas.
+
+Mangroves grown from mangrove propagules have a 1% chance of having a bee nest containing 2-3 bees. Unlike birch, cherry, and oak trees, no flowers are required for a bee nest to generate.
+
+In Bedrock Edition, oak trees grown in plains have a chance to grow with a bee nest regardless of the quantity of flowers nearby. It is not known if this behavior is intended.
+
+Usage
+
+Sounds
+Generic
+:
+
+:
+
+Unique
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Block data
+A bee nest has a block entity associated with it that holds additional data about the block.
+
+:
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Item data
+:
+
+: the item's components tag.
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Data history
+
+Issues
+
+See also
+
+Tutorial:Honey farming
+
+Gallery
+Renders
+Bee nest
+
+On tree
+
+Screenshots
+
+In other media
+
+References
+
+Navigation
+
+Category:Natural blocks
+Category:Animal blocks
+Category:Block entities
+Category:Utility blocks
+Category:Flammable blocks
+Category:Readable by comparators
+
+de:Bienennest
+es:Colmena
+fr:Nid d'abeilles
+ja:ミツバチの巣
+ko:벌집
+pt:Colmeia
+ru:Улей
+uk:Бджолине гніздо
+zh:蜂巢（方块）

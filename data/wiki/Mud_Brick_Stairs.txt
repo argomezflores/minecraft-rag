@@ -1,0 +1,55 @@
+TITLE: Mud Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Mud_Brick_Stairs
+---
+Mud brick stairs are a decorative stairs variant of mud bricks that generate in trail ruins and are used for building.
+
+Obtaining
+Breaking
+Mud brick stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Mud brick stairs generate as part of trail ruins.
+
+Crafting
+
+Crafting recipe: Mud Bricks, Mud Bricks, Mud Bricks, Mud Bricks, Mud Bricks, Mud Bricks arranged in the crafting grid → Mud Brick Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en briques de terre crue
+ja:泥レンガの階段
+ko:진흙 벽돌 계단
+lzh:泥磚階
+pt:Escadas de Tijolos de Barro
+ru:Ступени из саманного кирпича
+th:บันไดอิฐโคลน
+uk:Сходи з лимпачу
+zh:泥砖楼梯

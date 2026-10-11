@@ -1,0 +1,61 @@
+TITLE: Chiseled Tuff Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Tuff_Bricks
+---
+Chiseled tuff bricks are a variant of tuff bricks, featuring a large brick in the center of the block, with geometric designs above and below.
+
+Obtaining
+Breaking
+Chiseled tuff bricks drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Chiseled tuff bricks generate naturally in trial chambers.
+
+Crafting
+
+Crafting recipe: Tuff Brick Slab, Tuff Brick Slab arranged in the crafting grid → Chiseled Tuff Bricks.
+
+Stonecutting
+
+Usage
+Chiseled tuff bricks are a decorative block.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Gemeißelte Tuffsteinziegel
+fr:Tuf taillé sculpté
+ja:模様入りの凝灰岩レンガ
+ko:조각된 응회암 벽돌
+lzh:雕積塊石磚
+pt:Tijolos de tufo talhados
+ru:Резные туфовые кирпичи
+th:บล็อกอิฐหินภูเขาไฟสลัก
+uk:Різьблена туфова цегла
+zh:雕纹凝灰岩砖

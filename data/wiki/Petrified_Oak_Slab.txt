@@ -1,0 +1,86 @@
+TITLE: Petrified Oak Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Petrified_Oak_Slab
+---
+A petrified oak slab, known generically as a wooden slab , is a unique type of slab available through commands or by upgrading from legacy versions. Unlike all other slabs, they are unobtainable in vanilla Survival gameplay.
+
+Obtaining
+Petrified oak slabs are unobtainable in new Survival worlds. They can be obtained only by using commands such as  or placed in the world using commands such as .
+
+Breaking
+Petrified oak slabs require a pickaxe to mine. When broken, they drop themselves  or regular oak slabs .
+
+Crafting
+Petrified oak slabs are uncraftable in current versions without the use of a data pack or behavior pack.
+
+Upgrading
+Petrified oak slabs are obtainable and craftable as one would expect in versions released before Java Edition 1.3.1 (snapshot 12w17a) or Pocket Edition v0.7.3 alpha, in which they are the only wooden slab type.
+
+Usage
+
+Petrified oak slabs are functionally like other slabs and share most of their placement, collision, and other block behaviors with them. They date back to the earliest releases when there was only one kind of wooden slab, which had the texture of oak planks but was implemented as a variant of the generic slab, all other variants of which were made of stone. It therefore had stone properties as well.
+
+When other plank variants were introduced, true wooden slabs were added to the game with variants for each species and properties more appropriate for wood. From then on, all wooden slabs that were crafted or generated in structures were of the real wood type, but the stone variants can still exist in older worlds. These stonelike "wooden" slabs are noteworthy for how their behavior differs from what their name and appearance imply.
+
+Differences from normal slabs
+Unlike other wooden slabs:
+
+Petrified oak slabs make the sounds characteristic of stone.
+They require a pickaxe to mine. If broken without a pickaxe, they drop nothing.
+They are not flammable, nor are they set on fire by nearby lava.
+They cannot be used as fuel in a furnace.
+They have a greater blast resistance.
+Note blocks placed on top produce bass drum sounds, similarly to other stone-like blocks.
+
+Unlike other slabs in general:
+They cannot be crafted or obtained normally in Survival.
+They do not have a direct full-block equivalent.
+they do not drop themselves, but rather drop an oak slab.
+
+Sounds
+, when a petrified oak slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Appearance changes
+Block
+
+Item
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Nomenclature
+Petrified oak slabs are often referred as "alpha slabs" even though petrified oak slabs were added in Beta 1.3. In a similar case invalid data value leaves are often referred as "alpha leaves" even though other leaf types were added in Beta 1.2.
+
+Issues
+
+Gallery
+
+References
+
+Navigation
+
+Category:Creative or commands only blocks
+Category:Slabs
+
+fr:Dalle en chêne pétrifiée
+ja:石化したオークのハーフブロック
+ko:규화한 참나무 반 블록
+pt:Laje de Carvalho Petrificado
+zh:石化橡木台阶

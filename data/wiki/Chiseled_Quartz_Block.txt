@@ -1,0 +1,63 @@
+TITLE: Chiseled Quartz Block
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Quartz_Block
+---
+A chiseled quartz block is a variant of the block of quartz that can be crafted from quartz slabs.
+
+Obtaining
+Breaking
+Chiseled quartz blocks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Crafting
+
+Crafting recipe: Quartz Slab, Quartz Slab arranged in the crafting grid → Chiseled Quartz Block.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Nether blocks
+
+de:Gemeißelter Quarzblock
+fr:Bloc de quartz sculpté
+ko:조각된 석영 블록
+pt:Bloco de Quartzo Talhado
+uk:Різьблений кварцовий блок
+zh:雕纹石英块

@@ -1,0 +1,43 @@
+TITLE: Heartbreak Pottery Sherd
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Heartbreak_Pottery_Sherd
+---
+A heartbreak pottery sherd is a pottery sherd that depicts a broken heart. It can be found in trail ruins.
+
+Obtaining
+Breaking
+Breaking a decorated pot causes it to drop all of the bricks and pottery sherds used to craft it, meaning it drops each of the heartbreak pottery sherds that were used to craft it.
+
+Generated loot
+
+Usage
+Crafting ingredient
+Heartbreak pottery sherds can be used to craft decorated pots.
+
+Crafting recipe: Heartbreak Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; Heartbreak Pottery Sherd; {Any Pottery Sherd}; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; Heartbreak Pottery Sherd; {Any Pottery Sherd}, {Any Pottery Sherd}; {Any Pottery Sherd}; {Any Pottery Sherd}; Heartbreak Pottery Sherd arranged in the crafting grid → Decorated Pot.
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Pottery sherds
+
+pt:Óstraco de Coração Partido
+ru:Глиняный черепок «Разбитое сердце»
+th:เศษเครื่องปั้นดินเผาลายหัวใจสลาย
+zh:心碎纹样陶片

@@ -1,0 +1,52 @@
+TITLE: Copper Trap
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Copper_Trap
+---
+A copper trap is a joke block only present in 26w14a.
+
+Obtaining
+
+Breaking
+
+Although the copper trap has a drop, no vanilla tool is suitable for breaking it, so breaking it with any tool will have no effect. Furthermore, attempting to use Attack / Mine to order a tool to mine it will not happen, as tools only break blocks that they can mine. However, it is still possible to make a copper trap block drop a living copper trap with an explosion.
+
+Using cheats, it's possible to create a tool capable of mining it by modifying  data component. It can also be added to the tag  so that it can be mined by any pickaxe (additionally, adding a tag like  prevents it from being mined by some pickaxes.)
+
+Post-generation
+
+If at least eight living copper bars of the same variant come close together, a living copper trap of that variant will form.
+
+It can be placed as an item in a container by approaching a living container or using a hopper.
+
+Usage
+
+Oxidation
+Unlike most copper blocks, copper traps cannot change their oxidation or wax state. However, unwaxed copper traps will continue to slow or prevent the oxidation of nearby unwaxed copper blocks. This behavior is common to all unwaxed copper blocks (see ), but due to the fact that copper traps do not oxidize, they may fully prevent the oxidation of nearby copper blocks at the same oxidation level.
+
+Waxed copper traps have no effect on nearby copper blocks.
+
+Trap
+Living copper traps will attempt to pathfind towards the nearest player. When coming in contact with a player, it will spawn a cage of 25 copper bars of the same variant of the copper trap around them, trapping them. The copper bars replace all blocks that were previously in the copper bars' positions, including otherwise unbreakable blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+Advancements
+
+Issues
+
+Trivia
+According to one of the developers, copper and iron traps are a reference to the mod SecurityCraft.
+
+References
+
+Navigation
+
+ja:Copper Trap
+ko:구리 덫
+lzh:銅阱
+pt:Edição Java 26w14a/Copper Trap
+zh:铜陷阱

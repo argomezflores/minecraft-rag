@@ -1,0 +1,52 @@
+TITLE: End Stone Brick Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/End_Stone_Brick_Stairs
+---
+End stone brick stairs are a decorative stairs variant of End stone bricks that do not generate naturally and are used for building.
+
+Obtaining
+Breaking
+End stone brick stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: End Stone Bricks, End Stone Bricks, End Stone Bricks, End Stone Bricks, End Stone Bricks, End Stone Bricks arranged in the crafting grid → End Stone Brick Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Stairs
+
+fr:Escalier en pierre taillée de l'End
+ja:エンドストーンレンガの階段
+ko:엔드 석재 벽돌 계단
+lzh:終界石磚階
+pt:Escadas de Tijolos de Pedra do End
+th:บันไดอิฐหินเอนด์
+uk:Цегляні сходи з каменю Енду
+zh:末地石砖楼梯

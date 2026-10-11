@@ -1,0 +1,83 @@
+TITLE: Diamond Shovel
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Diamond_Shovel
+---
+A diamond shovel is a variant of shovel that is crafted from diamonds. It is used to break dirt, sand, gravel and other related blocks faster, to create dirt paths from dirt-related blocks, and to extinguish campfires. It is the second-highest tier of shovel, having higher mining efficiency, attack damage, and durability than an iron shovel. It can be upgraded into a netherite shovel using a netherite ingot and netherite upgrade at a smithing table.
+
+Obtaining
+Crafting
+
+Crafting recipe: Diamond, Stick, Stick arranged in the crafting grid → Diamond Shovel.
+
+Generated loot
+
+Trading
+
+Usage
+Digging
+A diamond shovel can be used to break dirt and soil-type materials faster. When breaking a block, it uses 1 durability. For blocks that break instantly, it uses 0 durability.
+
+Dirt paths
+A diamond shovel can be used to create a dirt path by  (not digging) the shovel on any one of the following blocks, losing one durability point:
+
+Campfire
+A diamond shovel can be used to extinguish a campfire.
+
+Weapon
+Diamond shovels use 2 durability when used as a weapon.
+
+Diamond shovels have an attack speed modifier of -3, meaning they take 1 second to recover. Diamond shovels deal  damage.
+
+Diamond shovels always attack instantly and do  damage.
+
+Repairing
+Combining
+
+Unit repair
+
+A diamond shovel can be repaired in an anvil by adding diamonds, with diamond restoring 25% of the shovel's maximum durability, rounded down. Two diamond shovels can also be combined in an anvil. Both methods preserve the shovel's enchantments.
+
+Enchantments
+A diamond shovel can receive the following enchantments:
+
++NameDescriptionMax levelMethodWeightEfficiencyIncreases the mining speed.V10FortuneSilk Touch and Fortune are mutually exclusiveIncreases the amount of drops when mining.III2Silk TouchCauses blocks to drop themselves when mined.I1UnbreakingGrants a chance to negate durability consumption.III5MendingRepairs the shovel when obtaining experience.I2Curse of VanishingThe shovel vanishes on death, not dropping as an item.I1
+
+Upgrading
+Like other diamond tools, a diamond shovel can be upgraded to a netherite shovel, increasing its durability and slightly increasing its mining speed and attack damage, as well as granting resistance to fire and lava when dropped as an item.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+
+In other media
+
+Navigation
+
+Category:Tools
+
+fr:Pelle#Diamant
+pt:Pá de Diamante
+uk:Діамантова лопата

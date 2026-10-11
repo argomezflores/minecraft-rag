@@ -1,0 +1,24 @@
+TITLE: Build (item)
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Build_(item)
+---
+Build is a joke item only present in 26w14a.
+
+Obtaining
+It is automatically obtained and appears in the hotbar when the player starts up a world. It also appears in the hotbar after the player dies.
+
+Usage
+The Build item can be used to command certain living blocks to go to the targeted location and turn into normal blocks. It is the only way to build.
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Joke items
+
+ja:Build (アイテム)
+pt:Edição Java 26w14a/Build
+zh:建造

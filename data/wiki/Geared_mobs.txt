@@ -1,0 +1,179 @@
+TITLE: Geared mobs
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Geared_mobs
+---
+thumb|right|300px|Two skeletons, one with an enchanted bow and another with full golden armor.
+thumb|right|300px|Two zombies, wearing full sets of chainmail and leather armor respectively.
+
+Some mobs can spawn holding weapons and other items and/or wearing armor, both of which may be enchanted. In addition, some of them may also spawn with the ability to pick up and equip items that are on the ground.
+
+Spawning
+Natural spawning
+Adult zombies, husks, and zombie villagers can sometimes spawn wearing armor of any tier up to diamond and/or holding an iron sword, iron shovel, or iron spear.
+When spawned as a zombie horseman or as part of a camel husk jockey, a zombie or husk will always be holding an iron spear.
+
+Drowned can sometimes spawn holding a trident or fishing rod in their dominant hand, and/or a nautilus shell in their offhand.
+Due to the mechanics of how zombie nautilus jockeys spawn, the drowned riders will always be holding tridents.
+
+Skeletons, strays, bogged, and parched always spawn holding a bow and can sometimes spawn wearing armor of any tier up to diamond.
+When spawned as a skeleton horseman, the skeleton rider spawns with its bow enchanted and wearing an enchanted iron helmet. The skeleton can still spawn with other armor as well, and often times the iron helmet is replaced with a different tier while maintaining its enchantments.
+
+Adult piglins always spawn holding either a golden sword, crossbow, or golden spear, and can sometimes spawn wearing golden armor.
+
+Several mobs are guaranteed to spawn holding a weapon and cannot spawn with armor:
+Zombified piglins always spawn holding a golden sword or golden spear.
+This does not occur if spawned as a strider jockey, as the golden sword or spear is replaced by a warped fungus on a stick.
+Wither skeletons always spawn holding a stone sword.
+Unlike other gear mobs can spawn with, a wither skeleton's stone sword will never be enchanted.
+Vindicators always spawn holding an iron axe.
+Vexes always spawn holding an iron sword.
+Pillagers always spawn holding a crossbow.
+Piglin brutes always spawn holding a golden axe.
+Illusioners always spawn holding a bow.
+
+The following tables show chances of mobs spawning with armor and weapons, per difficulty:
++ Chances of zombies, husks and zombie villagers spawning with armor and weapons  Easy Normal Hard Armor 0% 0%-15%Value is based on the regional difficulty. 1.875%-15% Armor enchantment 0% 0%-50% 6.25%-50% Weapon chance of an iron shovel,  chance of an iron sword,  chance of an iron spear 1% 5% Weapon enchantment 0% 0%-25% 3.125%-25%
+
++ Chances of drowned spawning with armor and weapons  Easy Normal Hard Weapon100% chance of a trident 6.25% Weapon enchantment 0% 0%–25%Value is based on the regional difficulty. 3.125%–25%
+
++ Chances of skeletons, strays, bogged and parched spawning with armor and weapons  Easy Normal Hard Armor 0% 0%–15%Value is based on the regional difficulty. 1.875%–15% Weapon100% chance of a bow 100% Weapon enchantment 0% 0%–25% 3.125%–25% Armor enchantment 0% 0%–50% 6.25%–50%
+
++ Chances of piglins spawning with armor and weapons Peaceful Easy Normal Hard ArmorAdult piglins can only spawn with golden armor, with each armor slot independently having a 10% chance to be equipped. Therefore, each piglin has a 34.39% chance to spawn with at least 1 piece of armor, and a 0.01% chance to spawn with a full set.  34.39% Armor enchantment  0% 0-50%Value is based on the regional difficulty. 6.25%-50% Weapon chance of a golden sword,  chance of a crossbow,  chance of a golden spear  100% 100% 100% Weapon enchantment  0% 0%-25% 3.125%-25%
+
++ Chances of other mobs spawning with weapons  Easy Normal Hard Weaponiron axe for vindicators, golden axe for piglin brutes, iron sword for vexes, crossbow for pillagers, bow for illusioners. Wither skeletons never spawn with enchanted weapons.For zombified piglins,  chance for a golden sword, and  chance for a golden spear. 100% Weapon enchantment 0% 0%–25%Value is based on the regional difficulty. 3.125%–25%
+
+If a mob (except piglinsAdult piglins can only spawn with golden armor, with each armor slot independently having a 10% chance to be equipped. Therefore, each piglin has a 34.39% chance to spawn with at least 1 piece of armor, and a 0.01% chance to spawn with a full set.) does spawn with armor, the chances of specific armor pieces are as follows:
+
++ Chances of different armor pieces, per difficulty Armor Easy & Normal Hard Helmet 100% Helmet and chestplate 75% 90% Helmet, chestplate, and leggings 56.25% 81% Full set 42.19% 72.9%
+
+The chances of it being of a particular material are:
+
++ Chances of different armor types Armor Type Chance  Leather 23.60% Copper 32.23% Gold 33.29% Chainmail 9.73% Iron 1.10% Diamond 0.04%
+
+Ominous trials
+Zombies, husks, skeletons, strays, and bogged which are spawned by ominous trial spawners spawn with a different set of equipment than naturally spawned mobs. , equipment from mobs spawned in ominous trials is never dropped, unlike other mob equipment.
+
+Armor always consists of a helmet and chestplate enchanted with Protection IV, Fire Protection IV, and Projectile Protection IV, with a 50% chance of each individual piece being missing. The tier and trim of the armor is randomly selected from:
+with  in  (4 in 7)
+with  in  (2 in 7)
+with  in  (1 in 7)
+
+A melee mob's weapon is randomly selected from:
+(unenchanted) (4 in 7)
+(Sharpness I) (1 in 7)
+(Knockback I) (1 in 7)
+(unenchanted) (1 in 7)
+
+A ranged mob's weapon is randomly selected from:
+(unenchanted) (2 in 4)
+(Power I) (1 in 4)
+(Punch I) (1 in 4)
+
+Zombification
+When a piglin turns into a zombified piglin, its armor and weapons are retained after zombification. Zombified piglins are not capable of using crossbows as ranged weapons, however, and will still attack with melee even if equipped with one.
+
+Converting
+When a husk converts into a zombie, a skeleton converts into a stray, or a zombie converts into a drowned, their armor and weapons are retained after conversion.
+The equipment is dropped when a husk converts into a zombie, and when a zombie converts into a drowned.
+
+Curing
+When a zombie villager is cured, the resulting villager drops any equipped items that the zombie villager had, and cannot pick them up again.
+
+Picking up gear
+The following mobs can spawn with a chance of picking up armor and weapons on Normal difficulty and higher:
+
+Adult piglins can always pick up armor and golden weapons. They will not replace their crossbow with a golden weapon if they have one, but will replace their golden sword if they find one with better enchantments.
+
+Spawning chances
++ Chances of mobs picking up armor and weapons, per difficulty  Easy Normal Hard Can pick up loot 0% 0%-55%Value is based on the regional difficulty. 6.875%-55%
+Preferences
+The systems in place for which weapons are preferred are different between  and .
+
+In both editions, piglins prefer golden armor and weapons over other tiers.
+
+Java Edition
+For weapons, the priority is as follows:
+If one weapon is preferred but the other is not, pick that weapon.
+For drowned, tridents are preferred.
+For pillagers and piglins, crossbows are preferred.
+Only piglins already holding a crossbow can pick one up.
+For piglins, golden spears are additionally preferred.
+For skeletons, strays, bogged, and parched, bows are preferred.
+If both or neither are preferred, pick the weapon with the higher base damage value.
+If both weapons have the same base damage value, pick the weapon with a higher quantity of enchantments.
+If both weapons have the same number of enchantments, pick the weapon that is less damaged.
+If both weapons have the same durability, pick the weapon with a custom name.
+If both or neither weapon has a custom name, keep the old weapon.
+
+For armor, the priority is as follows:
+If one armor piece has a higher armor value, pick that armor piece.
+If both armor pieces have the same base armor value, pick the armor piece with the higher base armor toughness value.
+If both armor pieces have the same base armor toughness value, pick the armor piece with a higher quantity of enchantments.
+If both armor pieces have the same quantity of enchantments, pick the armor piece that is less damaged.
+If both armor pieces have the same durability, pick the armor piece with a custom name.
+If both or neither armor piece has a custom name, keep the old armor piece.
+
+Bedrock Edition
+For weapons, the priority is as follows:
+Swords are preferred over bows, over axes, over pickaxes, over shovels, over hoes, over tridents, maces, and crossbows.
+Only mobs that can use bows or crossbows can pick them up, and only drowned are capable of using tridents as ranged weapons.
+If both weapons are of the same type, prefer the one of a higher tier.
+If both weapons are of the same type and tier, the mob will endlessly swap between them.
+
+For armor, only the tier matters. Higher tier armor is preferred.
+
+Mobs do not pick up armor or weapons if the gamerule MobGriefing is off.
+
+Using gear
+Weapon damage
+A mob holding a weapon adds the weapon's damage to its normal melee damage. For example, a zombie holding an iron shovel on Normal difficulty deals  from its punch +  from the shovel for a total of . (it should be noted that, , damage values shown when hovering over weapons in the inventory include the player's  base melee damage, so an iron shovel shows up as ; subtracting 1 gives the actual weapon's damage.) The mob's weapon damage is scaled by difficulty: if a zombie would deal X damage on Normal, it deals 1.5 * X on Hard and 0.5 * X + 1 on Easy. So for example a zombie with an iron shovel deals 1.5 * 6.5 =  on Hard and 0.5 * 6.5 + 1 =  on Easy. Enchantments add their damage as normal before difficulty scaling.
+
+Armor protection
+
+A mob wearing armor adds the armor's protection value to its natural armor value, if any. For example, a zombie wearing a full set of iron armor will have a total armor value of  ( from the iron armor +  natural zombie armor). Armor toughness also applies if the mob is wearing diamond or netherite armor.
+
+Other uses
+Mobs that can wield axes, such as vindicators, piglin brutes, and zombies will always disable shields when they attack a player blocking with it.
+Mobs cannot use tools to break blocks or for any other use, they are used solely for attacking.
+
+Using enchantments
+Enchantments affect mobs in the same way as they do players, though mobs are incapable of benefiting from certain enchantments (i.e. Aqua Affinity, Mending, etc.) due to not being able to interact with the relevant mechanics.
+
+The Unbreaking enchantment has no effect on mob armor , as mob armor does not take durability damage in that edition.
+
+Dropping gear
+Taken equipment
+When a mob dies, all picked-up equipment will be dropped, without changing the damage that has accumulated on it in Java Edition. In Bedrock Edition, the armor's durability is still vulnerable to attacks, as if a player is wearing it.
+
+Naturally-spawned equipment
+Java Edition
+All mobs except vexes and ominous trial mobs have an 8.5% chance of dropping their naturally-spawned equipment and drop it with a random durability. Each level of Looting increases the chance by 1 percentage point (11.5% with Looting III).
+
+Bedrock Edition
+All mobs except vexes have a 25% chance of dropping their naturally-spawned equipment and drop it with a random durability. Each level of Looting increases the chance by 1 percentage point (28% with Looting III).
+Additionally, in Bedrock Edition, all naturally-spawned equipment always drops (100% chance) when a husk converts into a zombie or a zombie converts into a drowned, often with full durability.
+
+Experience
+Any mob that spawns with equipment gives  extra experience points per equipment piece when killed by the player or a tamed wolf.
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+See also
+Mob
+Armor
+Weapon
+Equipment
+Difficulty
+
+Notes
+
+References
+
+Navigation
+
+Category:UI
+Category:Needs updating

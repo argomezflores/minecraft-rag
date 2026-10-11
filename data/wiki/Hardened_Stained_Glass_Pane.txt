@@ -1,0 +1,44 @@
+TITLE: Hardened Stained Glass Pane
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Hardened_Stained_Glass_Pane
+---
+A hardened stained glass pane is the dyed variant of hardened glass pane obtained by crafting with stained glass panes and several compounds.
+
+Obtaining
+Breaking
+Unlike a normal stained glass pane, a hardened stained glass pane drops as an item to be picked up again when broken with any tool or by hand. It also takes significantly longer to break.
+
+Crafting
+
+Crafting recipe: Aluminum Oxide, Aluminum Oxide, Aluminum Oxide, Matching Stained Glass Pane, Matching Stained Glass Pane, Matching Stained Glass Pane, Boron Trioxide, Boron Trioxide, Boron Trioxide arranged in the crafting grid → Matching Hardened Stained Glass Pane,3.
+
+Sounds
+
+Data values
+ID
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+"Hardened Light Blue Stained Glass Pane" and "Hardened Light Gray Stained Glass Pane" each hold the record for the longest name of any block in any version of Minecraft, both at 33 characters excluding spaces (38 including spaces).
+The record holder  is the "Waxed Weathered Copper Golem Statue", at 31 characters excluding spaces (35 including spaces).
+The record holder was once the Waxed Lightly Weathered Cut Copper Stairs, which was later changed to Waxed Exposed Cut Copper Stairs.
+The record holder of all-time is the Quadruple Compressed Poisonous Potato Block at 39 characters excluding spaces (43 including spaces).
+
+See also
+
+Navigation
+
+Category:Manufactured blocks
+Category:Minecraft Education blocks
+Category:transparent blocks
+fr:Vitre colorée en verre trempé
+ko:강화된 색유리 판
+pt:Painel de Vidro Temperado Tingido
+uk:Панель із загартованого кольорового скла
+zh:染色强化玻璃板

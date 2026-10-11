@@ -1,0 +1,75 @@
+TITLE: Bottle o' Enchanting
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Bottle_o'_Enchanting
+---
+A bottle o' enchanting is an item that can be thrown to break it and release experience orbs.
+
+Obtaining
+Generated loot
+
+Trading
+
+Usage
+A bottle o' enchanting can be thrown by pressing . On impact, it destroys itself and drops experience orbs worth  (average 7.0) and sends out blue particles. Bottles o' enchanting can be used to increase the player's level for enchanting, using an anvil, or repairing tools and armor enchanted with Mending.
+
+Bottles o' enchanting have an enchantment glint like enchanted items do.
+
+Sounds
+:
+Bottles o' enchanting use the Friendly Creatures sound category for entity-dependent sound events.
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Thrown bottles o' enchanting have entity data that define various properties of the entity.
+
+Entity data
+
+: The item to render as, may be absent.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Texture
+
+Screenshots
+
+Navigation
+
+Category:Projectiles
+
+cs:Lektvar očarování
+de:Erfahrungsfläschchen
+es:Frasco con experiencia
+fr:Fiole d'expérience
+it:Ampolla d'esperienza
+ja:エンチャントの瓶
+ko:경험치 병
+lzh:淬靈瓶
+pl:Zaklęta butelka
+pt:Frasco de experiência
+ru:Зелье опыта
+th:ขวดแห่งเวทมนตร์
+uk:Пляшка чарів
+zh:附魔之瓶

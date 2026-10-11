@@ -1,0 +1,54 @@
+TITLE: Host Armor Trim
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Host_Armor_Trim
+---
+Host armor trim is a type of smithing template used in smithing tables to add a trim to armor. It is consumed when used, but can be duplicated using an existing template, terracotta, and seven diamonds.
+
+Obtaining
+This item is found in trail ruins. Once obtained, it can be duplicated using the crafting recipe below.
+
+Cloning
+
+Crafting recipe: Diamond, Host Armor Trim, Diamond, Diamond, Terracotta, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Host Armor Trim Smithing Template,2.
+
+Generated loot
+This item can only be extracted from suspicious gravel using a brush.
+
+Usage
+It is an ingredient in its own recipe, making it possible to craft copies after the initial item is found.
+
+Crafting ingredient
+
+Crafting recipe: Diamond, Host Armor Trim, Diamond, Diamond, Terracotta, Diamond, Diamond, Diamond, Diamond arranged in the crafting grid → Host Armor Trim Smithing Template,2.
+
+Smithing ingredient
+
+Using the smithing table, the host armor trim can be applied to any armor piece, using any trim material.
+
+Data values
+
+ID
+:
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Smithing templates
+
+es:Diseño de armadura de anfitrión
+fr:Ornement des hôtes
+ko:주인 갑옷 장식
+pt:Enfeite de Hospedeiro
+ru:Отделка «Вождь»
+th:ลายแต่งเกราะเจ้าบ้าน
+zh:雇主盔甲纹饰

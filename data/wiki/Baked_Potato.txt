@@ -1,0 +1,83 @@
+TITLE: Baked Potato
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Baked_Potato
+---
+A baked potato is a food item obtained by cooking the potato.
+
+Obtaining
+Cooking
+
+Smelting recipe: Potato → Baked Potato, XP: 0,35.
+
+Generated loot
+
+Mob loot
+
+, zombies and related mobs drop raw potatoes when killed by fire damage.
+
+Usage
+Food
+
+To eat a baked potato, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 6.0 hunger saturation.
+
+Crafting ingredient
+
+Composting
+Placing a baked potato into a composter has an 85% chance of raising the compost level by 1. This is more efficient than composting with raw potatoes.
+
+Trading
+Wandering traders occasionally purchase 4 baked potatoes for a single emerald.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+
+In other media
+
+See also
+
+The Haunted Baked Potato
+
+Notes
+
+References
+
+Navigation
+
+Category:Food
+
+cs:Pečená brambora
+de:Ofenkartoffel
+es:Patata cocida
+fr:Pomme de terre cuite
+hu:Sült burgonya
+it:Patata al forno
+ja:ベイクドポテト
+ko:구운 감자
+lzh:洋芋炙
+nl:Gebakken aardappel
+pl:Pieczony ziemniak
+pt:Batata Assada
+ru:Печёный картофель
+th:มันฝรั่งอบ
+uk:Запечена картопля
+zh:烤马铃薯

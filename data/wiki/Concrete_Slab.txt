@@ -1,0 +1,49 @@
+TITLE: Concrete Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Concrete_Slab
+---
+Concrete slabs are a craftable slab variant of concrete. They come in 16 colors.
+
+Obtaining
+Breaking
+Concrete slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Matching Concrete, Matching Concrete, Matching Concrete arranged in the crafting grid → Matching Concrete Slab,6.
+
+Stonecutting
+
+Usage
+
+Concrete slabs come in sixteen colors, which are white, light gray, gray, black, brown, red, orange, yellow, lime, green, cyan, light blue, blue, purple, magenta, and pink.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Betonstufe
+fr:Dalle de béton
+ja:Concrete Slab
+lzh:砼版
+pt:Laje de Concreto
+ru:Бетонная плита
+uk:Плита з бетону
+zh:混凝土半磚

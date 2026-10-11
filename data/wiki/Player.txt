@@ -1,0 +1,284 @@
+TITLE: Player
+CATEGORY: Mobs
+URL: https://minecraft.wiki/w/Player
+---
+The player is a unique entity or mob whose actions are controlled by the real person, and not the game itself. They are the main character of singleplayer Minecraft worlds, where most interactions and mechanics revolve around them as part of the gameplay. Players may also partake in the multiplayer mode with other players, putting more emphasis on player-driven activities.
+
+Appearance
+
+Every player's model uses a skin as its texture, composed of one full texture file or multiple Character Creator items. Players can choose a skin to use prior to launch in the Minecraft Launcher or at any time in-game in the Dressing Room.
+
+Nine default skins are always available: Steve, Alex, Zuri, Sunny, Noor, Makena, Kai, Efe, or Ari. Players can obtain custom skins from skin packs or other content in the Marketplace, third-party resources, or create their own. Classic skins can have either "classic" or "slim" shapes, which makes their arm models wide or slim. External skin textures cannot be imported on consoles.
+thumb|Different character heights
+, the Character Creator allows players to compose a character from multiple persona items, some of which are animated or use custom geometry, obtained from completing achievements, various events, or Minecoins. These characters can be further customized with four different player heights and slim or wide arms.
+
+A cape can be added to any skin, which is a cosmetic item obtained from special events. Characters from the Character Creator periodically blink their eyes in Bedrock Edition.
+
+In Bedrock Edition, any character can also be assigned a set of 4 emotes, obtained similarly to character pieces, which they can express in-game by pressing .
+
+Characters and classic skins are synchronized with the player's Microsoft account and available on any device, except imported skin files in Bedrock Edition. , playing in the demo or offline does not allow usage of custom skins and always applies a random default skin.
+
+The player's appearance can be obscured by equipping armor, such as a turtle shell, helmets, chestplates, leggings, and boots, as well as other equippable items such as an elytra, a carved pumpkin, and heads of mobs and other players.
+
+In Java Edition, if the player is shot with an arrow or stung by a bee, the arrow or stinger appears physically embedded inside the player for a given time. These do not apply to other mobs.
+
+Drops
+The content of their inventory (except any items with Curse of Vanishing)
+Current XP level multiplied by 7, which is then the amount of points dropped. This is capped at 100 XP points, which corresponds to just over level 7.
+
+If the game rule "Keep inventory" (or ) is enabled, nothing is dropped.
+
+Interaction range
+
+alt=An in-game screenshot showing a red circle around other player to indicate the user's attack reach of a spherical area of three blocks.|thumb|205x205px|The attack reach area of 3 blocks is indicated by a red circle.
+Players can interact with most blocks and entities in the world. A player's interaction range (reach) differs. The area forms a three-dimensional cylinder because it encompasses vertical and horizontal distances:Vertical attack reach forms a cylinder, not a sphere.
+
+Health and hunger meters
+The player has 10 full hearts or 20 health points, visible on the HUD. Players in Survival mode can take damage, depleting health points and eventually killing the player. After death, players respawn at their spawn point, which can be a bed or respawn anchor, or the world spawn if absent.
+
+When the player's hunger bar is at  or higher and "Natural regeneration" is enabled, health slowly regenerates by  every four seconds, but when it is at  with saturation remaining, health regenerates by  every half second. The hunger bar depletes faster from energy-intensive activities like sprinting, jumping, attacking mobs, and mining, and it can be refilled by eating food. If the hunger bar is at  or lower, the player does not regenerate health. While the hunger bar is at , the player is starving and proceeds to lose health. On Hard difficulty, starvation kills the player, while on Normal or Easy, it depletes health to  or , respecitvely.
+
+On Peaceful difficulty, the hunger bar does not deplete and the player can always regenerate health.
+
+Like any other mob, players can posess status effects that positively, neutrally, or negatively affect them.
+
+Movement
+
+Walking
+
+The most basic movement the player can perform is walking. The player can walk at a reasonable speed rate of 4.317 blocks per second, all while taking no hunger impact. This means that the player can walk a total of 5181 blocks in one Minecraft day, in a straight line, without sprinting or sneaking.
+
+Sprinting
+The player can move faster by sprinting, but at the cost of draining the hunger bar considerably while doing so. The player sprints approximately 5.612 blocks per second, as opposed to the regular pace of 4.317 blocks per second. The maximum distance a player can jump when sprinting is approximately 4.225 blocks. The Speed effect increases momentum. The player cannot sprint if the hunger bar is at  or less. Sprinting is activated by double-tapping the forward key (default ), then holding it, or by holding the sprint key ( by default,  if using a Mac) while pressing the forward key. Holding the sprint key in Creative mode while flying causes the player to fly faster.
+
+Sneaking
+Sneaking is a feature activated by pressing and holding the sneak key (default is ). Sneaking prevents players from falling more than half a block, making it highly useful for building horizontally outward over space. Going past the edge of a block and stopping sneaking does not result in falling off that block. The player can still dismount blocks while sneaking by jumping over the block's edge. In multiplayer, a player's name tag is grayed out in Java Edition or completely disappears in Bedrock Edition when they sneak, to relate to the fact that sneaking makes them harder to see.
+
+Jumping
+The maximum height a player can jump without the Jump Boost effect is about 1.2522 blocks in Java Edition. The jump height on Bedrock Edition is shorter (similar to the pre-Combat Update) with the value of 1.24919 blocks.
+
+Swimming
+Swimming occurs when the player is sprinting (by double pressing , or pressing  or ) while the player is submerged underwater. Swimming has the same animation as crawling.
+
+Crawling
+Crawling occurs when the player is in an area less than 1.5 blocks high and prevents suffocation.
+
+Climbing
+Climbing occurs whenever the player's lower half is in the block occupied by a climbable block, such as a ladder or vines. If this condition is satisfied:
+
+If the player pushes against a wall, the player moves upward at about 2.35 blocks per second instead of horizontally. (Thus inside a 1×1 ladder shaft, the player can use any movement key to move upward.)
+The player can ascend the ladder by holding jump instead of using a horizontal movement key.
+If a player moving perpendicular to the climbable block enters said block, the player begins to move upward, but then falls off the block shortly afterward if the player continues to move horizontally.
+The player's maximum downward speed is reduced to a "descending" speed, at about 3 blocks per second.
+The player's horizontal movement friction is the same as on ice. (That is, moving around in the tiny space the player is in while still hanging on the ladder at the same level.)
+
+Additionally:
+
+In Bedrock Edition, a player can hold down the jump button while climbing to make the climbing speed faster.
+A player on a slab in front of the climbable block must jump to get on despite being only half a block down.
+Consuming food, blocking with a shield or pulling back a bow, do not slow the player down while climbing (unlike when walking, sprinting and swimming).
+
+Movement speed
+
+There isn't a simple hard-coded maximum velocity for walking, sprinting, etc. The maximum is a result of a base acceleration countered by "friction" or air resistance. The base acceleration for walking is 0.098, and sprinting is 30% faster than that. Velocity is increased by this acceleration value every tick (1/20th of a second), then the player is moved by the resulting velocity, then the velocity is multiplied by the friction value of the block they are walking on. For most blocks, the friction value is 0.546. As the player walks forward, each tick their velocity goes +0.098, *0.546, +.098, *0.546, +0.098, and so on. The result is that eventually, the 0.546 multiplier counteracts the 0.098 increase, so the player doesn't go any faster. The formula for this "terminal velocity" is a/(1-r), where a is the acceleration, and r is the block's friction. 0.098/(1-0.546) ≈ 0.2159 meters/tick = 4.317 meters/second. Sprinting is 30% faster than that, at about 5.612 meters/second. Flying is similar, but the base acceleration is 0.049 and the "friction" is 0.91, which comes out to ~10.89 m/s.
+
+Movement modeSpeed (m/s)Speed (km/h)% of Walking SpeedWalking4.31715.54100%Sprinting5.61220.20130%Sneaking1.2954.66330%Flying10.7938.85250%Sprint Flying21.5877.71500%Falling77.71279.751800%
+
+Gameplay HUD
+The onscreen heads-up display (HUD) consists of the player's health bar, hunger bar, experience bar, and hotbar among with many other UI elements shown sporadically.
+
+The armor rating bar appears above the health bar if the player is wearing armor and the oxygen bar appears if the player is submerged in water or is suffocating in a block. The HUD also contains the crosshair and a held object or fist. Appearance of HUD elements be toggled with , in the settings, or using .
+
+When the player is in Creative mode, the health, hunger, experience, armor, and oxygen bars are hidden, and only the hotbar is visible. Despite this, the player can still collect experience and wear armor. In Spectator mode, the hotbar, crosshair, and held object/fist are also hidden; , the hotbar appears as a player spectating list when a number is pressed or the  is moved.
+
+Experience
+
+Experience points (XP) can be gained via experience orbs when killing mobs or mining certain minerals. The current level is indicated by a green number above the HUD, and the experience points can be used to enchant weapons, tools, or armor with different useful attributes and skills (see enchanting table.) Anvils require experience to use.
+
+The level increases by obtaining enough experience points. All levels and points are lost upon death but can be partially restored by picking up the experience orbs at the place of death.http://www.pcgamer.com/first-details-on-minecrafts-xp-system-notch-when-you-die-you-lose-all-levels-you-lose-all-xp/
+
+Experience is also obtained through activities such as mining, fishing, mob breeding, killing certain mobs, trading, or smelting.
+
+Game modes
+
+In Survival mode, the player can place and destroy most blocks, and use all tools available. The player has limited health ( icons), hunger ( icons), and oxygen. When the player runs out of health, they die and respawn at their spawn point.
+In Hardcore mode, the player can respawn only in Spectator mode, and the difficulty level is locked on Hard mode.
+In Creative mode, the player can fly by double-tapping the jump key and have access to infinite items from the Creative inventory. No mobs attack the player, and the player cannot take damage and die (except in the void and using  in Java Edition). The player also has no hunger, unlimited oxygen, and can break blocks instantly.
+In Adventure mode, there are no changes from Survival mode aside from being unable to break or place blocks unless they possess a tool with the can_break item component for that block, or have a block with the can_place_on component. This game mode is used for adventure maps.
+Spectator mode is similar to Creative mode, but the player cannot interact with the world in any way. Players in Spectator are invisible to players in other game modes, are always flying, and can phase through blocks. In Java Edition, the player can also spectate mobs and inspect inventories.
+
+Username
+Players in-game are referred to by a username. These are used to target the player with commands, play online multiplayer, and differentiate other players.
+
+, usernames must be 3-16 characters, although there are exceptions for players with under 3 characters, who bought the game early in its development. Players can change their username no more than once every 30 days on the preferences page of minecraft.net. When the player changes their username, the previous username becomes available for other users to claim after 37 days. Because players can change usernames every 30 days, a player can manage two usernames without anyone being able to take either of them. If the player has a username under 3 characters and changes it, the old sub-3-character username is permanently unable to be obtained again.https://namemc.com/name/NY This also applies for symbol names.https://namemc.com/search?q=y-93
+
+, the players username is the same as the Xbox  of the player's Microsoft account. Gamertags can be changed on the change gamertag page in the Xbox website for a fee of 9.99, though changing it for the first time is free.https://support.xbox.com/help/account-profile/profile/change-xbox-live-gamertag However, players can sign out of their Microsoft account and change the username in-game to any of 3-32 characters long in the Profile settings. While signed out, multiplayer is inaccessible. Changing the player's name to "Dinnerbone" or "Grumm" turns the player model upside-down.
+
+Player names appear above their head as nameplates, typically in white letters within a dark transparent rectangle. Player nameplates can also be seen through solid blocks and other obstructions, although a player can sneak to dim the nameplate's visibility when in sight in Java Edition, or hide it completely when out of sight in Bedrock Edition. When a player is in the same party, the font is colored blue.
+
+Furthermore, player names are visible in the player list in multiplayer, the chat when mentioning a player with @, and the social drawer or Friends List. Player names are required for invitations to Realms.
+
+Sounds
+:
+Players use the Players sound category for entity-dependent sound events.
+
+:
+
+Data values
+
+ID
+:
+
+:
+
+Entity data
+
+Players have entity data associated with them that contain various properties.
+
+The root tag. In level.dat files, this tag is called .
+
+except for the tags: , , and .
+
+except for the tags:, , , , , .
+: The abilities this player has.
+: 1 or 0 () -  if the player is currently flying.
+: The flying speed, set to .
+: 1 or 0 () - If , the player can place blocks without depleting them. This is  for Creative mode, and  for other game modes.
+: 1 or 0 () - Behavior is not the same as the invulnerable tag on other entities. If , the player is immune to all damage and harmful effects except for void damage and . Also, all mobs, whether hostile or not, are passive to the player.  when in Creative or Spectator mode, and  when in Survival or Adventure mode.
+: 1 or 0 () - If , the player can place blocks.  when in Creative or Survival mode, and  when in Spectator or Adventure mode.
+: 1 or 0 () - If , the player can fly and doesn't take fall damage.  when in Creative and Spectator modes, and  when in Survival and Adventure modes.
+: The walking speed, set to .
+: Version of the player NBT structure. Is increased with every new snapshot and release. See Data version.
+: The ID of the dimension the player is in. Used to store the player's last known location along with .
+: Each compound tag in this list is an item in the player's 27-slot ender chest inventory. When empty, list type may have unexpected value.
+An item in the inventory.
+Includes the  tag - slots are numbered , inclusive.
+See .
+: May not exist. A list of 3 doubles, describing the Overworld position from which the player entered the Nether. Used by the nether_travel advancement trigger. Set every time the player passes through a portal from the Overworld to the Nether. When entering a dimension other than the nether (not by respawning) this tag is removed. Entering the Nether without using a portal does not update this tag.
+: The X coordinate in the Overworld.
+: The Y coordinate in the Overworld.
+: The Z coordinate in the Overworld.
+: See .
+: The value of the hunger bar. Referred to as hunger. See Hunger.
+: Referred to as saturation. See .
+: See Hunger.
+: 1 or 0 () -  if the current explosion should apply a fall damage reduction. Only used by explosions from wind charges.
+: Each compound tag in this list is an item in the player's inventory. (Note: when empty, list type may have unexpected value.)
+An item in the inventory.
+See .
+: May not exist. Location of the player's last death.
+: Dimension of last death.
+: Coordinates of last death.
+: The current game mode of the player.  means Survival,  means Creative,  means Adventure, and  means Spectator.
+: The previous game mode of the player.
+: Contains a JSON object detailing recipes the player has unlocked.
+
+: May not exist. The respawn information of the player. Removed when the player attempts to respawn with no valid bed or respawn anchor to spawn at these coordinates. They are unaffected by breaking a bed or respawn anchor at these coordinates, and are unaffected by the player's death.
+: block position to spawn at
+: angle to spawn with (default: 0.0)
+: dimension id to spawn in (default minecraft:overworld) (required)
+: pitch to spawn with. (required)
+: true if this spawn was set through commands (default: false)
+: May not exist. The root entity that the player is riding.
+: The UUID of the entity the player is riding, stored as four ints.
+: The NBT data of the root vehicle.
+See Entity format.
+: The score displayed upon death.
+: 1 or 0 () -  if the player has entered the exit portal in the End at least once.
+: Data of the item currently being held by the player, excluding the Slot tag. Only exists when using the /data command, this value is not saved in the player.dat format.
+See item format.
+: The selected hotbar slot of the player. Values are 0-indexed, so the leftmost slot is 0 and the rightmost slot is 8.
+: The entity that is on the player's left shoulder. Always displays as a parrot.
+See Entity format.
+: The entity that is on the player's right shoulder. Always displays as a parrot.
+See Entity format.
+: The number of game ticks the player had been in bed.  when the player is not sleeping. When in bed, increases up to 100 ticks, then stops. Skips the night after enough players in beds have reached 100 (see ). When getting out of bed, instantly changes to 100 ticks and then increases for another 9 ticks (up to 109 ticks) before returning to 0 ticks.
+:
+: Contains data about the warden spawning process for this player.
+: A warning level between  (inclusive). The warden spawns at level 4.
+: The number of game ticks before the warning_level can be increased again. Decreases by 1 every tick. It is set to 200 game ticks (10 seconds) every time the warning level is increased.
+: The number of game ticks since the player was warned for warden spawning. Increases by 1 every tick. After 12000 game ticks (10 minutes) it resets to a value of 0, and the warning_level decreases by 1 level.
+: The level shown on the experience bar.
+: The progress across the experience bar to the next level, stored as a percentage.
+: The seed used for the next enchantment in enchanting tables.
+: The total amount of experience the player has collected over time; used for the score upon death.
+
+Achievements
+
+Achievements that apply to all mobs:
+
+Advancements
+Advancements that apply to all mobs:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Gallery
+
+Historical sounds
+Sound Added in Removed in Volume Pitch Attenuation Distance  Java Edition Classic 0.24 SURVIVAL TEST Java Edition 1.0.0 (RC1)Pocket Edition v0.12.1 alpha (build 10) 1.0 0.8-1.2 16  Java Edition 1.0.0 (RC1) Java Edition 1.4.2 (12w38a) 1.0 0.8-1.2 16  1.0 1.0 16  1.0 1.0 16
+
+Data history
+
+Issues
+
+Trivia
+The original Steve skin and player model was originally created for another one of Notch's games called Zombie Town.
+The player's eye level when using the default player height (according to coordinates on the debug screen) is 1.62m when standing, 1.27m when sneaking and 0.4m when swimming, crawling or gliding.
+The player's actual size doesn't match the hitbox. Their model is as tall as 2 blocks, but is scaled down by a factor of 0.9375, making them 1.875m tall and 0.9375m wide, exactly 2 texels shorter than the height of 2 blocks.
+The player's legs do not line up perfectly with the torso to prevent  when wearing armor. This is the same case for zombies and their variants.
+, a dead player can still collect experience orbs near their death location until they choose to respawn.
+Likewise, when the player slept in a bed, the world revolved around the player during the animation instead of the player's camera rotating, which led to some visual bugs.
+With a length of 3 to 16 characters and 63 characters to choose from, the total number of possible player usernames in  is  or more than 62 octillion.
+The Knockback attack sounds from 1-2 actually have the punch sound effect.
+
+Gallery
+
+Renders
+Idle
+
+Animated
+
+Textures
+
+Screenshots
+
+See also
+Character
+Mob
+
+Skin
+
+External links
+
+Notes
+
+References
+
+Navigation
+
+Category:Characters
+Category:Playable entities
+Category:Mobs
+
+cs:Hráč
+de:Spieler
+el:Παίκτης
+es:Jugador
+fr:Joueur
+it:Giocatore
+ja:プレイヤー
+ko:플레이어
+lzh:戲者
+nl:Speler
+pl:Gracz
+pt:Jogador
+ru:Игрок
+th:ผู้เล่น
+tr:Oyuncu
+uk:Гравець
+zh:玩家

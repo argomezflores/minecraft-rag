@@ -1,0 +1,91 @@
+TITLE: Potion of Night Vision
+CATEGORY: Potions
+URL: https://minecraft.wiki/w/Potion_of_Night_Vision
+---
+</noinclude>
+A potion of Night Vision is a potion that provides Night Vision when used.
+
+Obtaining
+Brewing
+
+Brewing recipe: Golden Carrot + Awkward Potion → Potion of Night Vision.
+
+Brewing recipe: Redstone Dust + Potion of Night Vision → Potion of Night Vision Extended.
+
+Generated loot
+
+Usage
+Effect
+Potions of Night Vision are used by pressing and holding  with the potion bottle in hand, as with all consumable items. When consumed, they give the player Night Vision and return a glass bottle.
+
+Drinking a potion while already under the effects of the same potion does not add onto the effect's duration, but simply resets it.
+Potion type Tier Duration Effect Description Potion 1 Regular: 3:00Extended: 8:00Enhances the player's ability to see in darkness and underwater. Splash potion 1 Regular: 3:00Extended: 8:00 Lingering potion 1 Regular: 0:45Extended: 2:00
+
+Base potion
+Potion of Night Vision is a base for brewing potions of Invisibility.
+
+Brewing recipe: Fermented Spider Eye + Potion of Night Vision → Potion of Invisibility.
+
+Brewing recipe: Fermented Spider Eye + Potion of Night Vision Extended → Potion of Invisibility Extended.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Lingering Potion of Night Vision; Lingering Potion of Night Vision Extended, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Arrow of Night Vision, 8; Arrow of Night Vision Extended, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+
+:
+Potion  Regular  Extended Potion of Night Vision  5  6
+
+Item data
+
+:
+
+Normal potions use a potion tag inside potion_contents component to indicate the potion type.
+PotionRegularExtended + Potion of Night Vision  night_vision  long_night_vision
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Gallery
+Screenshots
+
+See also
+
+External links
+
+Minecraft Potions - A Visual Guide (version 1.9)
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide
+
+Issues
+
+Navigation
+
+Category:Potions
+
+fr:Potion de vision nocturne
+ko:야간 투시의 물약
+pt:Poção de Visão Noturna
+zh:夜视药水

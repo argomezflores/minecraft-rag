@@ -1,0 +1,69 @@
+TITLE: Lime Dye
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Lime_Dye
+---
+Lime dye is one of the sixteen available dyes.
+
+Obtaining
+Crafting
+
+Smelting
+
+Smelting recipe: Sea Pickle → Lime Dye, XP: 0,1.
+
+Smelting recipe: Sea Pickle → Lime Dye, XP: 0,2.
+
+Trading
+Wandering traders have a chance to trade 3 lime dyes for an emerald.
+
+Mob loot
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 lime dyes when killed while showing the item as trade offer, if the player holds an emerald.
+
+Usage
+
+Crafting ingredient
+
+Loom ingredient
+
+Trading
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Dyes
+
+cs:Světle zelené barvivo
+de:Hellgrüner Farbstoff
+es:Tinte verde lima
+fr:Teinture vert clair
+hu:Neonzöld festék
+ja:黄緑色の染料
+ko:연두색 염료
+nl:Lichtgroene kleurstof
+pl:Jasnozielony barwnik
+pt:Corante Verde-Limão
+ru:Лаймовый краситель
+zh:黄绿色染料

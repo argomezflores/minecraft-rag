@@ -1,0 +1,76 @@
+TITLE: Thick Potion
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Thick_Potion
+---
+A thick potion is a potion that provides no effects. , it can be used to brew potions of Weakness.
+
+Obtaining
+Brewing
+
+Brewing recipe: Glowstone Dust + Water Bottle → Thick Potion.
+
+Brewing recipe: Gunpowder + Thick Potion → Thick Splash Potion.
+
+Brewing recipe: Dragon's Breath + Thick Splash Potion → Thick Lingering Potion.
+
+Usage
+Base potion
+:
+
+Only usable as an alternative base for potion of Weakness.
+
+Brewing recipe: Fermented Spider Eye + Thick Potion → Potion of Weakness.
+
+Lingering potion
+, a lingering thick potion acts similar to the lingering water bottle, being able to extinguish burning entities and damage endermen, blazes, and snow golems, but without the ability to put out fires.
+
+Crafting ingredient
+
+Crafting recipe: Arrow, Arrow, Arrow, Arrow, Thick Lingering Potion, Arrow, Arrow, Arrow, Arrow arranged in the crafting grid → Tipped Arrow, 8.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Metadata
+:
+Potion  Regular Thick Potion  3
+
+Item data
+
+:
+
+Normal potions use a "potion" tag inside "potion_contents" component to indicate the potion type.
+PotionRegular Thick Potion  thick
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Icons
+
+Navigation
+
+Category:Potions
+
+fr:Potion épaisse
+ko:진한 물약
+zh:浓稠的药水

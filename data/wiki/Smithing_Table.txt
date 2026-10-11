@@ -1,0 +1,100 @@
+TITLE: Smithing Table
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Smithing_Table
+---
+A smithing table is a utility block used to apply smithing templates to tools, weapons, and armor. It also serves as a toolsmith's job site block.
+
+Obtaining
+Breaking
+Smithing tables can be broken by hand, but using an axe is faster.
+
+Smithing tables drop themselves when destroyed.
+
+Natural generation
+Smithing tables can spawn naturally within toolsmith houses in villages. Smithing tables can also generate in trail ruins.
+
+Crafting
+
+Crafting recipe: Iron Ingot, Iron Ingot, Any Planks, Any Planks, Any Planks, Any Planks arranged in the crafting grid → Smithing Table.
+
+Usage
+Placement
+Regardless of the player's position during placement, the different textures of the block are always facing in the same position (the textures with the hammers are facing west and east, while the dark grey side is always facing up).
+
+Smithing
+thumb|upright|176px|The GUI for the smithing table.
+
+A smithing table is primarily used for upgrading diamond gear to netherite gear and for trimming armor. The smithing interface is accessed by pressing  on a smithing table. The items which can be upgraded are displayed in the slots as outlines, with the exception of horse armor.
+
+To work at a smithing table, the player must provide a smithing template in the left-most slot, a tool or piece of armor in the central slot, and an augmenting material in the right-most slot. Applying a smithing template costs no experience, and preserves item data such as durability consumption, enchantments, and custom names.
+
+Upgrading to netherite requires a netherite upgrade smithing template, a diamond tool or a piece of diamond armor, and a netherite ingot.
+
+Decorative trims can be applied to any piece of armor, including turtle shells, by using an armor trim smithing template and a trim material. After trimming, the armor will show a decorative pattern corresponding to the smithing template with the color determined by the used material. A preview of this pattern can be seen on an armor stand model, located on the right side of smithing table's GUI.
+
+Profession
+
+If a smithing table has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to toolsmith and claim the smithing table as their job site block.
+
+Fuel
+Smithing tables can be used as fuel in furnaces, smelting 1.5 items per block.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+Like with the crafting table, none of the tools seen on the side of the smithing table are real tools in-game.
+Even though the armor stand does not show arms when placed , the armor stand in the GUI has arms.
+
+Gallery
+
+References
+
+External links
+Block of the Month: Smithing Table – Minecraft.net on August 24, 2023
+
+Navigation
+
+Category:Job blocks
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Blocks with GUI
+
+de:Schmiedetisch
+es:Mesa de herrería
+fr:Table de forge
+it:Banco da forgiatura
+ja:鍛冶台
+ko:대장장이 작업대
+lzh:鍛案
+pl:Stół kowalski
+pt:Bancada de Ferraria
+ru:Кузнечный стол
+th:โต๊ะทำอาวุธ
+uk:Ковальський стіл
+zh:锻造台

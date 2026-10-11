@@ -1,0 +1,58 @@
+TITLE: Arthropod
+CATEGORY: Mobs
+URL: https://minecraft.wiki/w/Arthropod
+---
+thumb|Every arthropod in Minecraft.
+Arthropod is an in-game classification covering all invertebrate, bug-like mobs.
+
+Properties
+All arthropods share the two following properties.
+Arthropods take extra damage and receive Slowness IV when hit with a weapon enchanted with Bane of Arthropods.
+, all of these mobs are part of the  entity tag. , all of these mobs are part of the  family.
+
+List of mobs
+
+Jockeys
+These jockeys are comprised of at least one arthropod.
+
+Related blocks
+This block is based on an arthropod, but is not treated as such in the game code, due to being a block.
+
+Unimplemented
+These community vote options are based on arthropods, but have not been added to the game.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+See also
+Mob
+
+Jockey
+
+on Wikipedia
+
+Navigation
+
+Category:Mobs
+
+es:Artrópodo
+fr:Arthropode
+ja:虫
+pt:Artrópode
+ru:Членистоногие
+th:อาร์โทรพอด
+uk:Членистоногий
+zh:节肢生物

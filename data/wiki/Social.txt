@@ -1,0 +1,257 @@
+TITLE: Social
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Social
+---
+thumb|The Social drawer allows access to all online social features in the game.|width=380x380
+Minecraft has several social features for connecting people with aspects from the game. Using the , players can add online friends, play together, and share user data.
+
+Xbox network
+
+thumb|The Xbox profile in the Xbox app, on the Minecraft for Windows page
+When a player is signed in with a Microsoft account in-game, their Minecraft profile is synchronized with their Xbox profile. Most profile data generated in-game is visible in the Xbox profile, and vice versa. Unlike Java Edition, the player's "Minecraft account" is the same as the player's Xbox account, instead of a separate username within the Microsoft account. The game can also be played without a Microsoft account, but all online features and achievements are inaccessible.
+
+The Xbox account determines the gamertag of the user shown in-game, which can be different from their Java Edition username. The functionality of this gamertag is identical; it is the player's name visible for other players and required for certain commands selecting the player. The gamertag can be changed one time for free on the Xbox profile.
+
+The Xbox profile has various social features and collects data from all games, social networks, and accounts connected to the profile. All instances of Minecraft can be purchased and managed, including all Bedrock Edition and Minecraft Preview versions for platforms, Minecraft Dungeons (plus DLC), Minecraft Legends, and the Minecraft Launcher. Minecraft for Windows is available for free for members of the "family group", when their Xbox accounts are connected to an Xbox account owning Minecraft. Other features in the Xbox profile include managing the Game Pass (which includes Minecraft), managing Xbox consoles, online status, activity feed, and tracking Minecraft profile data.
+
+Using a friends system, players can search and see any Xbox profile and add players as friends or follow them, allowing access to (group) chats, voice calls, and in-game social features. Xbox friends are synchronized with Dungeons, Legends, and Java Edition if the friend owns the respective game.
+
+On Windows computers, the Xbox Game Bar can be opened at any time (even in-game) with . Acting as an overlay, certain widgets from the Xbox app can be opened, including social features, screenshot and screen recording features, and device controls. The Xbox Game Bar also controls notifications including achievements and multiplayer invites. On Xbox consoles, most features from the Xbox Game Bar can be used in-game.
+
+Privacy & online safety
+Features from the Xbox network can be customized in the Xbox privacy settings, which notably affect the player's online experience in Minecraft. Depending on the date of birth connected to the player's Microsoft account, these options may be locked and can only be edited from parental accounts. Parental accounts can also edit the privacy settings from other Xbox accounts connected to the "family group". Settings that affect Minecraft include visibility of profiles, friend and follower lists, online status, real name (if assigned), allowing friend requests/following, telemetry data, multiplayer, and profanity filtering. Most privacy settings can be changed to make them fully private, only visible for friends, or visible for anyone.
+
+PlayStation Network
+On PlayStation consoles, the player's account is connected to the PlayStation Network instead of the Xbox network. While this offers mostly the same functionality as the Xbox network, profile data is collected separately and a different set of friends can be used. Unique features from the PlayStation Network are tracking and the rewards system of trophies instead of achievements, and the Marketplace is replaced by a "Store" connected to the PlayStation Store. The content and functionality is the same as the Marketplace, but packs are sold separately with Tokens.
+
+Features
+
+Most features from the Xbox network are visible in-game, plus some additional functionality.
+
+Profile
+thumb|The Profile screen
+Next to the Inbox button on the main menu and from any player button in other menus, the profile screen can be opened. A player's profile button shows the Xbox gamertag, an auto-generated character face, and the online status. The online status can be online (with a green dot), "Away" (orange dot), or offline, and activity in Minecraft games is shown below the name, such as "Playing Minecraft Dungeons", "In the Menus", and "Playing on a Realm - Creative Mode". On the profile screen, the player's real name can also be shown. In Minecraft Preview, a render of the currently selected character is visible on the profile page.
+
+Achievements can be accessed from the profile screen. For each achievement, the progress, gamerscore, requirements, and rewards are shown and can be expanded. The profile tracks all achievement progress, and general progress including percentage, rewards, and gamerscore. Achievement progress can also be viewed in the Xbox profile and is stored per game, meaning that achievements can be obtained multiple times for each platform version of Minecraft. Redeemed achievement rewards are available on devices where the achievement has not been completed. The gamerscore is added to the general gamerscore in the Xbox profile, merged with gamerscore awarded from other games.
+
+On PlayStation, the player earns trophies instead of achievements and gamerscore is not obtained, but rewards can still be obtained.
+
+The game tracks four statistics on the Xbox profile, separated for each platform. These include the total amount of time played (in a world or server), the total amount of blocks broken, all mobs killed, and the total distance traveled.
+
+Lists of friends and followers can be opened from the profile screen which are synchronized with the Xbox profile.
+thumb|The profile drawer on Minecraft.net
+The player's Minecraft profile is also shown on Minecraft.net. This offers generally the same options as the in-game profile, except achievements, other players, and screenshots.
+
+Screenshots
+thumb|A player's own showcase gallery
+When signed in, the player can take screenshots in-game from the game menu or with a hotkey. Up to 100 are stored locally on the device and not synchronized with the Xbox profile, but they are stored separately for each signed in player and can only be viewed from the profile screen. In the screenshot gallery, all screenshots can be managed and viewed, shared externally, uploaded to Realms Stories, or set as a world thumbnail.
+
+Up to 5 screenshots can be added to the showcase gallery, and one can be selected as featured screenshot. These screenshots are uploaded to the Xbox profile and visible for anyone with access to the profile, both in Minecraft and the Xbox app. The featured screenshot shows on the left side of the profile page, which defaults to a set of internal images.
+
+Other players
+thumb|The profile screen of a different player
+Depending on the privacy settings, the profile page is (partially) visible for any other user in-game and in the Xbox app, and the player can view profiles from any other player using the player search feature or social drawer. For profiles of other players, the showcase gallery and featured screenshot can be seen, the gamerscore and achievement progress (but not individual achievements), the friends list, and statistics. The statistics can be compared to the player's own statistics, represented by blue and orange bars depicting the distribution of progress.
+
+Friends
+thumb|The Social drawer in the play screen
+The Social drawer, accessible from the Play screen and the game menu, provides access to other players' profiles and usage of the Xbox friends system. Through the "Search for people" menu, any player can be searched with their gamertag. The screen also shows recommended friends (followers, friends of friends, and previous friends), and players recently played with that aren't friends. On the left, it shows the player's gamertag and a QR code containing the gamertag, which can be shared to let others find them.
+
+Any profile found in-game can be added as friend, which sends a friend request. Players can find friend requests in the social drawer with the option to decline or accept it. Once accepted, they are considered mutual friends, visible in the Xbox app and for other players. Friends can be removed at any time, leaving the friend as follower if the friendship was mutual. Pending friend requests can also be canceled.
+
+Being a friend is required for:
+
+Sending a game invite.
+Joining a multiplayer game.
+Joining multiplayer games from friends of the friend.
+Inviting players to parties and joining open parties.
+
+Sending a Realms invite.
+
+Using the multiplayer chat in the United Kingdom when the player's age is not verified.
+
+Friends can be marked as favorite to pin them to the top of all friend lists. Favorite friends show a heart-shaped online status icon. A player can be removed from favorites at any time.
+
+Players can be blocked or muted. Blocking a player removes them from both the friends list and followers list and prevents them from appearing on any social feature again. Muting makes the player unable to join multiplayer worlds or send invites through the social network. Both actions can be undone from the profile screen.
+
+Followers
+In the Xbox app, instead of sending a friend requests, other players can also be followed. Following a player does not provide features friends can use, but the player can view followers in the profile screen, and send friend requests. Followers are not visible by other players, and can be removed by the player in the Xbox app.
+
+Multiplayer
+Through the social network, players can join each other's multiplayer worlds. When players are friends and not muted, all worlds with multiplayer enabled for friends in the Edit world screen show as multiplayer worlds on the Play screen. A player can also be joined in the social drawer or from their profile screen. Multiplayer can be extended to friends of friends, which will also show in the Play screen.
+
+A mutual friend's game can also be joined when they are playing in a server they have access to or Realm. The latter requires access to the Realm, and also shows on the worlds tab of the Play screen.
+thumb|Inviting friends to the game
+In a world, Realm, or featured server, friends can be invited to join. This will send a notification from the Xbox app, and allows the player to directly join the world through the notification. Multiplayer game can be limited to invited players only. On a Realm, only members can be invited. The owner of the Realm can invite friends at any time to the Realm, which will send an invite message to the player's Inbox.
+
+While in a world, active players can be found and managed in the social drawer in the game menu. The host can change player permissions, or kick the player. Players on Realms can also be banned, to prevent them from re-joining using invite links.
+thumb|The story feed in the Realms Hub
+Members of a Realm server have access to Realms Stories, which allows players to view activity data, members, and story posts. Screenshots can be uploaded to Realms Stories, which is connected to a "Club" within the Xbox network, making all uploaded screenshots available for all members in the Xbox profile.
+
+Other features from multiplayer games, including multiplayer settings, the chat, and other interactions are managed on the multiplayer world or server outside the social features.
+
+Parties
+thumb|A party in the Social drawer in the game menu with the chat opened. The Party tab shows the members, invited players, and open invites.
+thumb|The Party tab in the main menu when the leader is in a different world
+Parties are groups of online players that can automatically join any world the leader is in, and stay connected in the menus.
+
+A player can create a party from the Party tab in the Social drawer.
+This allows to set the party's privacy between "Open" and "Invite only".
+Open parties can be joined friends of the leader. This appears in the "Joinable parties" section in the Party tab for friends, where they can join the party at any time.
+Invite only parties can only be joined through invites.
+From the Create party screen, the party tab, and other player's profile options, players can be invited to the party by the leader. Unlike game invites, this does not show a notification outside of the game.
+An invite is shown in the Party tab, where the player can join or decline it.
+Invites can always be resent.
+This right can be extended to all members in the Party settings.
+Players may restrict receiving invites to friends only.
+Party invites from blocked players will not show. Muting players does not affect parties.
+Inviting players through the "Invite to play" button in the game menu has an option to send a party invite along with the game invite.
+If a player gets invited to a party, a toast notification appears allowing to open the party tab with /Open, and a batch notification appears on the party tab.
+When the leader joins a world with multiplayer enabled, all members will receive a toast notification and join that world in 5 seconds. This can be declined with /Decline. thumb|The toast that appears when a party is moving, and the player joins the world in seconds.
+After declining or leaving that world, the party's world can be joined at any other time from the party tab.
+Party members cannot join the world if the world's multiplayer settings do not allow this, e.g. they are not friends or friends of friends from the host.
+A warning shows listing all party members that cannot join the world.
+When a party is in a world not hosted by the leader and the leader leaves, the party will attempt to move to the main menu, which can be declined with /Decline.
+After declining or while in another world, members can also "join" the main menu.
+Parties can move to Realms, but only the members with access to the Realm will move with the party.
+Parties cannot move to LAN worlds or featured servers — the leader will simply join on its own after a warning.
+Event servers are excempt from this; this is the only way friends can both join an event server.
+Parties can only move to external servers if they support parties. Members on console versions or without access to the server will not join.
+Party members cannot move to a world as soon as the maximum amount of players is reached.
+If the leader is in a world the player does not have access to, it will attempt to move to the main menu.
+The leader can kick members from the party.
+Players are not kicked from the world if they are kicked from the party.
+The leader can also ban players from the party, which makes them unable to join this party again, even through invites.
+The leader can transfer leadership to other members.
+Which player created the party is not stored and the initial leader loses all rights. The new leader will receive all these rights, and some privacy settings may change.
+Both leaders and members can always leave the party.
+If a leader leaves the party, the leadership will be transferred to the first member that joined.
+Players are not kicked from the party's world if they leave, but they may no longer have access to new worlds the party enters.
+Players can only re-join if they are invited again or if it is an open party where they have access to.
+Toast notifications appear if the leadership changes or players join/leave the party.
+A player can only be member of one party at a time.
+Invites and available parties are still shown in the party tab if inside a party, but attempting to join throws a warning that the player will leave the current party.
+When in a party, the "Social" button shows the player icons of the first four members in the party.
+The online status icon is colored blue for players in the same party.
+In the social drawer, a second icon is shown for the party leader.
+Players that are member of the party have their name tag colored blue.
+A party can have up to 15 members.
+Adding new players or attempting to join a full party results in a warning message.
+Parties are hosted on the Xbox network with a unique party ID. Bedrock Dedicated Server tracks the party IDs from joining players and what role they have in the party.
+
+Chat
+When member of a party, the social drawer shows a chat on the left of the screen. This functions similarly to but separately from the gameplay chat and allows to send and view messages for all members of the party, whether they are in the same world, different worlds, or even in the menu screens. Each message also shows the player's profile icon and their name in blue. There are informational messages for players joining or leaving the party, and leadership changes.
+
+After receiving a message while not in the chat, a batch notification shows on the social button and party chat button, and a notification sound plays. The chat can be closed or re-opened with a button on the bottom-left.
+
+Formatting codes and commands are not available. Using § in the chat censors the message. Mentioning players with @ or @here does not highlight them in the party chat, but it does work in the gameplay chat.
+
+In Bedrock Edition 26.50, in the gameplay chat, the  command can be used to send chat messages in the current party chat. Similarly, party chat messages appear in the gameplay chat visible for the player only, prefixed by <Party><player> in blue. § can be used in the command, which will apply the formatting in the gameplay chat output, and regular unformatted, uncesored text in the party chat.
+
+Reporting
+thumb|The Report bad behavior screen when reporting a player
+thumb|The Report screen when reporting a story post
+thumb|180px|Warning before reporting a player
+Players can be reported to Mojang Studios staff in their Profile screen. Additionally, the options for a screenshot in a player's showcase gallery and a post in Realms Stories allow to report content. For the latter, the report will be sent to Xbox Enforcement instead of Mojang Studios.
+
+Any player can be reported, even players that are not friends or have never been in the same world or server.
+
+A toggle on the left allows to hide content that will be removed, such as the player's name or the screenshot.
+
+Where did you observe the bad behavior?
+Please let us know where the incident took place. This will help us in researching your case.
+When reporting a screenshot, this option is not available. This is required to submit a report.
+In the menus, the following options are available:
+Chat message
+Player Name or Gamertag
+In-game, more options are available:
+Chat message
+Player skin
+Gameplay
+In-game creations
+Player Name or Gamertag
+For Realms story posts, the following options are available:
+Inappropriate feed item
+Gamertag
+
+Why are you reporting player?
+If someone is in immediate danger, call local emergency services. Don't wait.
+This is required to submit a report.
+I want to report them
+Hate speech
+Harassment or bullying
+Self harm or suicide
+Sexually inappropriate
+Threat of Harm to Others
+Unsporting behavior
+Cheating
+Impersonation
+Drugs or alcohol
+Child sexual exploitation or abuse
+Terrorism or violent extremism
+Non-Consensual intimate imagery
+For Realms story posts, the following options are available:
+Sexually inappropriate
+Violence or gore
+Harassment
+Spam or advertising
+Terrorist or violent extremist content
+Something else
+Imminent harm to persons or property
+Hate speech
+Fraud
+Cheating
+Child sexual exploitation and abuse
+Drugs or alcohol
+Profanity
+Self-harm or suicide
+Other
+
+Comment (optional)
+You are about to report this person. Please add a comment describing what happened.
+A text box allows to add optional information.
+
+This information is accurate and complete to the best of my knowledge
+This checkbox must be marked in order to submit the report, not required for Realms story posts. The red button below can be used to submit it.
+
+Depending on the validity and nature of the report, action will be taken for the player, which can range from a warning to a temporary or permanent ban from multiplayer. Banned players have the same restrictions as when the player is offline: the social drawer, Servers and Realms tabs, Marketplace, and Dressing Room are all entirely unavailable; only singleplayer worlds are available.
+
+Persona API
+The social system utilizes an API to obtain a player's current skin face and render, used in their profile. The following queries can be used:
+
+https://persona.franchise.minecraft-services.net/api/v1/profile/pfid/PFID/image/head – 32×32 face icon, used in various profile-related buttons and texts.
+
+https://persona.franchise.minecraft-services.net/api/v1/profile/pfid/PFID/image/avatar – 300×400 render of the skin, only used on the profile screen in Minecraft Preview as it sometimes glitches.
+https://persona.franchise.minecraft-services.net/api/v1/profile/pfid/PFID/image/ModelBinary – GLTF skin model binary.
+
+The PFID is the user's PlayFab ID, which is visible in the "Account" settings tab (MCID).
+
+When the skin face is missing, it outputs a random grayed-out default skin face and no avatar.
+
+History
+
+Issues
+
+Gallery
+
+Default featured screenshots
+
+Promotional images
+
+Screenshots
+
+Historical screenshots
+
+Notes
+
+See also
+
+Server
+Realms Hub
+Chat
+Emote
+Ore UI
+Friends List
+
+Navigation
+
+pt:Social

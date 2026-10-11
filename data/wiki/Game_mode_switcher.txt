@@ -1,0 +1,23 @@
+TITLE: Game mode switcher
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Game_mode_switcher
+---
+thumb|250px|The game mode switcher in-game. The first option, Creative mode, is selected.
+
+The game mode switcher is a feature  that allows the player to quickly switch between different game modes with keyboard hotkeys, when commands are enabled.
+
+Usage
+The game mode switcher is activated on a combination of debug hotkey, when  is held down and  is then pressed. The game mode choice can be made by pressing  repeatedly until the game mode of choice is outlined. When  is released, that game mode is selected and applied to the player. The game mode options are, in order, Creative, Survival, Adventure, and Spectator. The game mode initially selected when the screen is opened is whatever game mode the player was last in. Before the game mode has been changed at all, the default selection is Creative if currently in any other game mode or Survival if currently in Creative mode.
+
+History
+
+Issues
+
+Navigation
+
+de:Spielmodus-Umschalter
+fr:Sélecteur de mode de jeu
+pt:Alternador de modo de jogo
+ru:Переключатель режима игры
+th:ตัวสลับโหมดเกม
+uk:Перемикач ігрового режиму

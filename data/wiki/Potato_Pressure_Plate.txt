@@ -1,0 +1,39 @@
+TITLE: Potato Pressure Plate
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_Pressure_Plate
+---
+A potato pressure plate is a variant of a pressure plate made of potato planks, only present in 24w14potato.
+
+Obtaining
+Breaking
+
+Natural generation
+Potato pressure plates can generate naturally as part of potato villages.
+
+Crafting
+
+Crafting recipe: Potato Planks, Potato Planks arranged in the crafting grid → Potato Pressure Plate.
+
+Usage
+
+Sounds
+Generic
+
+Unique
+
+Data values
+ID
+
+Block states
+
+Navigation
+
+Category:Joke blocks
+Category:Redstone
+Category:Non-solid blocks
+Category:Manufactured blocks
+Category:Mechanisms
+Category:Generated structure blocks
+
+ja:Potato Pressure Plate
+zh:马铃薯木压力板

@@ -1,0 +1,35 @@
+TITLE: Poisonous Mashed Potato
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Poisonous_Mashed_Potato
+---
+Poisonous mashed potato is a joke block only present in 24w14potato. It can be layered like snow.
+
+Obtaining
+Breaking
+Poisonous mashed potato can be mined with anything, but a shovel is the quickest. It always drops as an item, although no matter how many stacked layers the block has, it always drops one item.
+
+The block also drops as an item when the block below it is destroyed, or if it's pushed by a piston.
+
+Post-generation
+Poisonous mashed potatoes are created when an entity wearing poisonous pota-toes takes fall damage. When this happens, the poisonous pota-toes are used up instantly, negating all damage, and a number of poisonous mashed potato blocks are spread around the block that the entity fell onto. One of those blocks is always directly below the entity.
+
+When a player falls into the void in the Potato Dimension, the end credits roll. When it ends or if the player skips it with the  key, the player is returned to the spawn point with a poisonous pota-toes and launched into the sky at great speed before falling down. If the player lands on a block that can cause fall damage, the poisonous pota-toes are used and poisonous mashed potatoes are created as usual. This doubles as both a method to instantly return to your spawn point and to generate an infinite, low effort food source as well as poisonous pota-toes by landing on blocks that don't cause fall damage such as poisonous mashed potato and water.
+
+Usage
+Poisonous mashed potato block doesn't have a collision box. It negates all fall damage and prevents the entity from jumping if it's inside of the block, like powder snow. It also gives the Sticky effect for 6 seconds when an entity touches it.
+
+Poisonous mashed potato can be stacked together like snow, and then  to consume one layer at a time. Each layer restores  hunger and 0.4 saturation.
+
+Sounds
+
+Data values
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Createable blocks
+Category:Poisonous Potato Dimension (joke dimension)
+ja:Poisonous_Mashed_Potato
+zh:毒马铃薯糊

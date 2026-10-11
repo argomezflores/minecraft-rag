@@ -1,0 +1,51 @@
+TITLE: Polished Blackstone Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Blackstone_Wall
+---
+A polished blackstone wall is a decorative wall variant of polished blackstone that generates in nether ruined portals and is used for building.
+
+Obtaining
+Breaking
+Polished blackstone walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Polished blackstone walls generate as part of Nether Ruined Portals.
+
+Crafting
+
+Crafting recipe: Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone, Polished Blackstone arranged in the crafting grid → Polished Blackstone Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Manufactured blocks
+Category:Walls
+
+fr:Muret de pierre noire
+ja:磨かれたブラックストーンの塀
+ko:윤나는 흑암 담장
+pt:Muro de Pedra-Negra Polida
+uk:Стіна з полірованого чорнокаменю
+zh:磨制黑石墙

@@ -1,0 +1,70 @@
+TITLE: Cooked Cod
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cooked_Cod
+---
+Cooked cod is a food item obtained by cooking raw cod.
+
+Obtaining
+Mob loot
+
+Generated loot
+
+Cooking
+Raw cod can be cooked in a furnace, smoker, or campfire. Each piece of cooked cod removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+Smelting recipe: Raw Cod → Cooked Cod, XP: 0,35.
+
+Trading
+
+Usage
+
+Food
+
+To eat cooked cod, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 6 hunger saturation.
+
+Wolves
+Cooked cod can be used to feed a wolf not at full health, healing by . However, , unlike other wolf food, cooked cod cannot be used to speed up the growth of baby wolves nor used to breed them and can only be fed to a wolf that is not at full health.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Navigation
+
+Category:Food
+
+de:Gebratener Kabeljau
+es:Bacalao cocinado
+fr:Morue cuite
+it:Merluzzo cotto
+ja:焼き鱈
+ko:익힌 대구
+nl:Kabeljauw (voorwerp)
+pt:Bacalhau assado
+ru:Жареная треска
+th:ปลาค็อดปรุงสุก
+uk:Смажена тріска
+zh:熟鳕鱼

@@ -1,0 +1,77 @@
+TITLE: Glistering Melon Slice
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Glistering_Melon_Slice
+---
+A glistering melon slice is an inedible item used as a brewing ingredient for potions of Healing.
+
+Obtaining
+Generated loot
+
+Crafting
+
+Crafting recipe: Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget, Melon Slice, Gold Nugget, Gold Nugget, Gold Nugget, Gold Nugget arranged in the crafting grid → Glistering Melon Slice.
+
+Trading
+
+Usage
+Despite being crafted with a melon slice, a glistering melon slice cannot be eaten, unlike a golden apple or golden carrot.
+
+Brewing ingredient
+
+Brewing recipe: Glistering Melon Slice + Water Bottle → Mundane Potion.
+
+Piglins
+Piglins run toward any glistering melon slice item on the ground and inspect it for 6 seconds  or 8 seconds  before putting it in their inventory.
+
+Achievements
+
+Advancements
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+In other media
+
+Trivia
+A glistering melon slice is featured in the Cotán painting.
+
+Notes
+
+References
+
+Navigation
+
+de:Glitzernde Melonenscheibe
+es:Rodaja de sandía reluciente
+fr:Tranche de pastèque scintillante
+it:Fetta di anguria luccicante
+ja:きらめくスイカの薄切り
+ko:반짝이는 수박 조각
+lzh:爍寒瓜片
+nl:Glinsterende meloenschijf
+pl:Kawałek lśniącego arbuza
+pt:Fatia de Melancia Reluzente
+ru:Сверкающий ломтик арбуза
+th:ชิ้นแตงโมทอง
+uk:Блискуча скибка кавуна
+zh:闪烁的西瓜片

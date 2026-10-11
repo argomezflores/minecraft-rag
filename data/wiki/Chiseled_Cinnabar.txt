@@ -1,0 +1,50 @@
+TITLE: Chiseled Cinnabar
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Chiseled_Cinnabar
+---
+Chiseled cinnabar is a decorative chiseled variant of cinnabar used for building.
+
+Obtaining
+Breaking
+Chiseled cinnabar drops as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Cinnabar Slab, Cinnabar Slab arranged in the crafting grid → Chiseled Cinnabar.
+
+Stonecutting
+
+Usage
+Chiseled cinnabar is used only for decoration. The block has a blocky spider engraved on its surfaces. See also Easter eggs#Mobs on chiseled blocks.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Gemeißelter Zinnober
+es:Cinabrio cincelado
+fr:Cinabre sculpté
+ja:模様入りの辰砂
+ko:조각된 진사
+lzh:雕朱砂
+pt:Cinábrio Talhado
+ru:Резная киноварь
+th:ซินนาบาร์สลัก
+zh:雕纹朱砂

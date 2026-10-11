@@ -1,0 +1,29 @@
+TITLE: Dent
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Dent
+---
+A dent is a joke item only present in 24w14potato, used to craft a trident.
+
+Obtaining
+Mob loot
+Dents have a 100% chance to be dropped by plaguewhale slabs upon death.
+
+Usage
+Crafting ingredient
+
+Crafting recipe: Dent, Dent, Stick, Dent, Stick arranged in the crafting grid → Trident.
+
+Data values
+ID
+:
+
+Issues
+
+Navigation
+
+Category:Joke items
+
+ja:Dent
+ru:Зуб
+uk:Зуб
+zh:一叉戟

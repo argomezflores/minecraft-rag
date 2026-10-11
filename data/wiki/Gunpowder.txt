@@ -1,0 +1,65 @@
+TITLE: Gunpowder
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Gunpowder
+---
+Gunpowder is an item used for explosion-related recipes, and as an ingredient in potions to create splash potions.
+
+Obtaining
+Mob loot
+
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 4 gunpowder when killed while showing the item as trade offer, if the player holds an emerald.
+
+Creeper farms, ghast farms, and witch farms are all efficient ways of obtaining gunpowder automatically or semi-automatically. However, in Bedrock Edition, creeper farms stop working after a few hours.
+
+Generated loot
+
+Trading
+Wandering traders can occasionally sell 4 gunpowder for 1 emerald.
+
+Usage
+Crafting ingredient
+
+Brewing ingredient
+
+Brewing recipe: Gunpowder + Matching Potion → Matching Splash Potion.
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+External links
+
+Navigation
+
+cs:Střelný prach
+de:Schwarzpulver
+es:Pólvora
+fr:Poudre à canon
+hu:Puskapor
+it:Polvere da sparo
+ja:火薬
+ko:화약
+lzh:火藥
+nl:Buskruit
+pl:Proch
+pt:Pólvora
+ru:Порох
+th:ดินปืน
+tr:Barut
+uk:Порох
+zh:火药

@@ -1,0 +1,68 @@
+TITLE: Muddy Mangrove Roots
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Muddy_Mangrove_Roots
+---
+Muddy mangrove roots are a decorative variant of mangrove roots with dirt-like properties.
+
+Obtaining
+Breaking
+Muddy mangrove roots can be broken by hand, but using a shovel speeds up the process. They have the highest hardness value of all blocks having the shovel as the suitable tool.
+
+Muddy mangrove roots drop themselves when broken with any tool.
+
+Natural generation
+Muddy mangrove roots naturally generate in mangrove swamps where mud blocks intersect with normal mangrove roots at the bottom of mangrove trees. They can also generate in some entrance rooms of trial chambers.
+
+Mob loot
+An enderman holding muddy mangrove roots drops the block upon death.
+
+Crafting
+
+Post-generation
+When a mangrove propagule grows into a tree, if the tree roots intersect with nearby mud blocks, those mud blocks are converted into muddy mangrove roots.
+
+Usage
+Muddy mangrove roots are primarily used as decoration. They are orientable and can be rotated on any axis, facing perpendicular to whichever side of a block they are placed on.
+
+Farming
+Muddy mangrove roots have the ability to grow saplings, sugar cane, sweet berries, and bamboo, which can be planted directly on them under appropriate conditions. Saplings convert muddy mangrove roots into dirt when grown, and azalea trees grown on muddy mangrove roots convert them into rooted dirt.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+Announcement and tweet
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+
+de:Schlammige Mangrovenwurzeln
+es:Raíces de mangle embarradas
+fr:Racines de palétuvier boueuses
+ja:泥だらけのマングローブの根
+ko:진흙에 묻힌 맹그로브나무 뿌리
+lzh:泥沒潮木根
+pl:Zabłocone namorzynowe korzenie
+pt:Raízes Barrentas de Mangue
+ru:Грязные мангровые корни
+uk:Багнисте мангрове коріння
+zh:沾泥的红树根

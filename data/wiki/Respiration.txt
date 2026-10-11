@@ -1,0 +1,41 @@
+TITLE: Respiration
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Respiration
+---
+Respiration is an enchantment applied to helmets that extends underwater breathing time.
+
+Obtaining
+Respiration can be obtained from enchanting tables, drops from mobs that have spawned in a raid, books obtained by fishing, monster room chests, librarian villagers (or if the "Villager Trade Rebalance" experimental datapack is enabled, a swamp librarian), and non-village structure loot.
+
+Usage
+Respiration grants an oxygen bonus of +1 per enchantment level, which equates to +15 seconds per level in addition to the default time of 15 seconds. It also grants a chance of not taking drowning damage each second by .  The maximum level that can be obtained without commands is level 3, resulting in a total time of 60 seconds underwater (including the base time without enchantments) before drowning begins, and a 75% chance to not take drowning damage each second. Wearing a turtle shell extends this time by an additional 10 seconds. Respiration can be applied to non-helmet items by use of commands.
+
+Data values
+
+ID
+
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+Navigation
+
+de:Atmung
+es:Respiración
+fr:Apnée
+ja:水中呼吸 (エンチャント)
+pt:Respiração
+ru:Подводное дыхание
+th:หายใจใต้น้ำ
+zh:水下呼吸（魔咒）

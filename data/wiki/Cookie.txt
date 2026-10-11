@@ -1,0 +1,86 @@
+TITLE: Cookie
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cookie
+---
+Cookies are food items that can be obtained in large quantities, but do not restore hunger or saturation significantly.
+
+Obtaining
+Crafting
+
+Crafting recipe: Wheat, Cocoa Beans, Wheat arranged in the crafting grid → Cookie,8.
+
+Trading
+
+Villager gifts
+, if the player has the Hero of the Village effect, a farmer villager may gift them a cookie.
+
+Usage
+Food
+
+To eat a cookie, press and hold  while it is selected in the hotbar. Eating one restores  hunger and 0.4 hunger
+saturation.
+
+Parrots
+feeding a cookie to a parrot kills the parrot instantly and gives the parrot the Poison effect as it dies.
+
+, feeding a cookie to a parrot gives the parrot the Fatal Poison effect instead, and the effect kills the parrot within a few seconds.
+
+Composting
+Placing a cookie into a composter has an 85% chance of raising the compost level by 1.
+
+Considering the high yield of cookies (8 cookies from 1 cocoa bean and 2 wheat) and the higher chance to successfully compost a cookie (85%), it is more efficient to craft cookies to compost rather than using separate ingredients. For example, 100 wheat and 50 cocoa beans, which in total could yield only 13.92 bone meal on average, could be crafted into 400 cookies to yield 48.57 bone meal on average.
+
+Sounds
+
+Advancements
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Renders
+
+Screenshots
+
+In other media
+
+Notes
+
+External links
+
+Navigation
+
+Category:Food
+
+cs:Sušenka
+de:Keks
+es:Galleta
+fr:Cookie
+hu:Csokis süti
+it:Biscotto
+ja:クッキー
+ko:쿠키
+lzh:餠
+nl:Koekje
+pl:Ciastko
+pt:Biscoito
+ru:Печенье
+th:คุกกี้
+uk:Печиво
+zh:曲奇

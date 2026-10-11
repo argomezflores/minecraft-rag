@@ -1,0 +1,99 @@
+TITLE: Fire Charge
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Fire_Charge
+---
+A fire charge is an item that can be  as a single-use version of a flint and steel or shot as a small fireball from a dispenser.
+
+Obtaining
+Despite firing small fireballs, blazes do not drop fire charges.
+
+Generated loot
+
+Crafting
+
+Bartering
+When given a gold ingot, piglins have a ~8.53% () chance to barter a single fire charge.
+
+Natural occurrence
+
+During ominous trials, each ominous trial spawner has a  chance to dispense a fire charge on top of either a player or a mob it spawns. The fire charge is directly dispensed into the world and cannot be obtained in the inventory.
+
+Usage
+Dispenser
+200px|thumb|Dispensed small fireball
+
+Fire charges can be used as ammunition in dispensers. When a fire charge is fired from a dispenser, it shoots a small fireball. However, a player cannot simply  a fire charge while holding it to shoot a small fireball.
+
+Fire
+
+When used, a fire charge instantly places a fire, similar to flint and steel. But, unlike flint and steel, the fire charge is consumed in the process. It can prime TNT and light nether portals, campfires, candles, cakes with candles, and creepers.
+
+Crafting ingredient
+
+Sounds
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Entity data
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+See also
+Flint and steel
+Small Fireball
+Dragon Fireball
+Fireball
+Ghast
+
+References
+
+External links
+
+Navigation
+
+cs:Ohnivá koule
+de:Feuerkugel
+es:Carga ígnea
+fr:Charge de feu
+hu:Tűzgolyó
+ja:ファイヤーチャージ
+ko:화염구
+lzh:焰彈
+nl:Vuurbal
+pl:Ognista kula
+pt:Bola de Fogo
+ru:Огненный шар
+th:ลูกไฟ
+uk:Заряд вогню
+zh:火焰弹

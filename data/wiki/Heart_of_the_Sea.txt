@@ -1,0 +1,54 @@
+TITLE: Heart of the Sea
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Heart_of_the_Sea
+---
+A heart of the sea is an item found only in buried treasure chests. It, alongside nautilus shells, is required to craft a conduit.
+
+Obtaining
+A heart of the sea is only obtained from a buried treasure. The location is marked with a noticeable red X on a buried treasure map, which is found in ocean ruins and shipwrecks.
+
+Generated loot
+
+Usage
+Crafting
+
+Data values
+ID
+:
+
+:
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Minecraft Education
+
+Issues
+
+Trivia
+Before the heart of the sea was added to , there was an entry found in the buried treasure chest loot table named nautilus_core, which was later revealed to be the heart of the sea. Despite the name change, the heart of the sea continues to be referred to as the nautilus_core in most game files.
+
+External links
+
+See also
+
+Navigation
+
+de:Herz des Meeres
+es:Corazón del mar
+fr:Coeur de la mer
+it:Cuore del mare
+ja:海洋の心
+ko:바다의 심장
+lzh:海之心
+nl:Hart van de zee
+pl:Serce oceanu
+pt:Coração do Mar
+ru:Сердце моря
+th:หัวใจแห่งท้องทะเล
+uk:Серце моря
+zh:海洋之心

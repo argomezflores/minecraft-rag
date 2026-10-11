@@ -1,0 +1,101 @@
+TITLE: Podzol
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Podzol
+---
+Podzol is a dirt-type block that naturally blankets the surface of the old growth taiga and bamboo jungles, along with their respective variants. Grass blocks and mycelium cannot spread to this block.
+
+Obtaining
+Breaking
+Podzol can be broken using any tool or by hand, but the shovel is the quickest. It can be obtained using a tool with Silk Touch, otherwise it drops dirt instead.
+
+Natural generation
+Podzol generates only in old growth taiga, bamboo jungle biomes, in trial chambers surrounding the bogged and the cave spider trial spawners and abandoned camps.
+
+Mob loot
+
+Endermen can pick up podzol blocks, and drop it if holding it when killed.
+
+, wandering traders have a chance of 25% (increased by 1% per level of Looting) to drop 3 podzol when killed while showing the item as trade offer, if the player holds an emerald.
+
+Trading
+Wandering traders occasionally sell 3 podzol for 3 emeralds.
+
+Post-generation
+
+thumb|The pattern in which large spruce trees replace blocks with podzol as it grows.
+Podzol replaces the top-most grass blocks, dirt, mycelium, coarse dirt, rooted dirt, moss blocks, pale moss blocks, muddy mangrove roots, and mud around a large spruce tree when it is grown from 4 saplings arranged in a square, as well as the blocks the saplings were planted on. , the pattern of the podzol reaches at most 6 blocks in the eastern and southern (positive X and Z) directions, and 5 blocks in the western and northern directions; vertically, it reaches at most 3 blocks above the ground and 2 blocks below the ground. , the pattern of the podzol reaches at most 5 blocks horizontally in all directions, and vertically up to 2 blocks above the ground and up to 3 blocks below the ground.
+
+thumb|The maximum horizontal reach of podzol that can generate from a mega spruce tree.
+
+Since podzol can be converted from moss blocks, and moss can be grown on renewable stone, dirt can be renewably created as long as there is access to water, lava, moss, spruce saplings and bone meal. This is especially useful on maps where dirt is limited.
+
+Usage
+Like mycelium, podzol allows mushrooms to be placed on it no matter the light level, which allows the growth of huge mushrooms. Saplings, all kinds of flowers, and sugar cane can be placed on it normally. A podzol block can be turned into a dirt path by pressing  on it with any type of shovel, but it cannot be tilled with a hoe to make farmland. However, the player can first use the shovel on the podzol to turn it into dirt path, then use the hoe on the dirt path to turn it into farmland.
+
+Unlike other similar blocks, podzol never spreads to dirt blocks, and it does not become dirt if a solid block is placed on top of it, no matter how long the block remains on top of it. Additionally, neither grass nor mycelium can spread to podzol.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+
+Tweet
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+In real life,  is a type of soil characterized by infertility and acidity, and an ashy subsoil layer. One of the environments they typically appear in are boreal forests, or taigas.
+
+Gallery
+Screenshots
+
+See also
+
+References
+
+External links
+Block of the Week:Podzol – Minecraft.net on September 1, 2017
+
+Navigation
+
+Category:Natural blocks
+Category:Generated structure blocks
+
+cs:Podzol
+de:Podsol
+es:Podsol
+fr:Podzol
+hu:Podzol
+it:Terra grigia
+ja:ポドゾル
+ko:회백토
+lzh:灰土
+nl:Aarde
+pl:Bielica
+pt:Podzol
+ru:Подзол
+tr:Podzol
+uk:Підзол
+zh:灰化土

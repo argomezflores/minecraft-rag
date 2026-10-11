@@ -1,0 +1,82 @@
+TITLE: Block of Redstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Block_of_Redstone
+---
+A block of redstone, internally known as a redstone block, is a mineral block equivalent to nine redstone dust. It acts as an always active redstone power source that can be moved by pistons.
+
+Obtaining
+Breaking
+A block of redstone can be mined using any pickaxe (unlike redstone ore, which requires an iron pickaxe or better). If mined without a pickaxe, a block of redstone drops nothing.
+
+Natural generation
+In each ancient city, 2 blocks of redstone can be found integrated into circuitry within a secret room at the city center.
+
+Crafting
+
+Usage
+A block of redstone can be used as a redstone power source and to craft redstone dust.
+
+Crafting ingredient
+Blocks of redstone can be crafted back into redstone dust, and thus provide compact storage for redstone, like other blocks of materials (block of iron, block of gold, etc.).
+
+Redstone component
+thumb|A block of redstone that's currently powering redstone dust, a redstone repeater, an attached redstone torch, and a redstone lamp (left) – However, redstone blocks cannot power through conductive blocks (right).
+
+Blocks of redstone provide weak power to their direct neighbors at signal strength 15. Unlike redstone torches, redstone blocks do not require a support block and can be moved by pistons, but they also cannot be turned off.
+
+Blocks of redstone are accepted by comparators as a side input.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+Block of the Week: Redstone – Minecraft.net on March 2, 2018
+
+Navigation
+
+Category:Ore
+Category:Manufactured blocks
+Category:Compacted blocks
+Category:Mechanisms
+
+cs:Ruditový blok
+de:Redstone-Block
+es:Bloque de redstone
+fr:Bloc de redstone
+hu:Redstone-blokk
+it:Blocco di redstone
+ja:レッドストーンブロック
+ko:레드스톤 블록
+nl:Redstoneblok
+pl:Blok redstone
+pt:Bloco de Redstone
+ru:Редстоуновый блок
+uk:Блок редстоуну
+zh:红石块

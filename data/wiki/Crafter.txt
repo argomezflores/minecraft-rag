@@ -1,0 +1,130 @@
+TITLE: Crafter
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Crafter
+---
+A crafter is a low-capacity storage block that can use its contents to craft items when given a redstone signal, ejecting the results into the world or into a container it is facing. Its inventory slots can be individually locked so hoppers and similar blocks cannot fill them, while not affecting crafting recipes.
+
+Obtaining
+Breaking
+Crafters can be mined with anything, but pickaxes are the quickest.
+
+Crafting
+
+Crafting recipe: Iron Ingot, Iron Ingot, Iron Ingot, Iron Ingot, Crafting Table, Iron Ingot, Redstone Dust, Dropper, Redstone Dust arranged in the crafting grid → Crafter.
+
+Usage
+, crafters cannot be moved by pistons.
+thumb|right|The crafter's GUI
+thumb|right|A simple contraption for crafting cake using the crafter
+
+Container
+A crafter has nine slots of inventory space, arranged in a 3-by-3 grid like a crafting table. Its GUI can be accessed by  it.
+
+A slot can be enabled or disabled, which can be toggled by clicking on it when empty. Disabled slots cannot have items put in them.
+
+Hoppers, droppers and other crafters interact with crafters by inserting items into its inventory. Hoppers can remove ingredients as well. When an item is added:
+The crafter will look for an empty slot to insert that item into. It searches in standard reading order.
+It searches the slots row by row, from left to right.
+Only enabled slots are checked.
+If the crafter has all enabled item slots filled, then the item is added to the lowest count item stack of the same type. If there is a tie, it uses the same reading order described before.
+
+Hoppers and droppers can interact with all sides of the crafter, and added items follow the rules described above.
+
+Redstone component
+
+When a crafter receives a redstone signal, it waits for  before ejecting one crafted item using the ingredients from the nine inventory slots. The crafted items are subsequently ejected from the front of the crafter. If the front of a crafter is facing a container (including another crafter), the crafted items are transferred into the container. If the container it is facing is full, or the item cannot be inserted into the container, the crafter ejects the item instead. Crafters interact with containers similar to droppers. If a recipe has byproducts (e.g. empty bottles for honey blocks or empty buckets for cake) those are ejected after the crafted item.
+
+For shaped recipes, the position of the items in the inventory matters. Because disabled slots prevent items from entering the slot, crafters can be used to craft any item in the game automatically without any input from the player, using a series of hoppers and/or droppers and the correct configuration of disabled slots for the recipe.
+
+A hopper placed below a crafter collects the ingredients from the crafting grid, not the resulting item.
+
+, unlike dispensers and droppers, crafters aren't affected by quasi-connectivity.
+
+Comparators can emit a redstone signal when reading from a crafter. The signal strength is equal to the number of crafting slots that are either disabled or occupied by an item. The stack size of the item has no effect on the comparators output signal e.g. having 1 stick in a slot vs having 64 sticks in that same slot both output the same comparator signal. An empty crafter with no disabled slots does not output any signal through a comparator. A crafter with every slot being disabled or containing an item (of any stack size) outputs a signal strength of nine through a comparator.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Block data
+A crafter has a block entity associated with it that holds additional data about the block.
+
+:
+
+Block entity data
+
+: List of items in this container. Represents the  component. The component is still present on the block entity, even if the tag does not exist (due to a loot table existing instead).
+: An item in the crafter, including the slot tag. Crafter slots are numbered 0-8. 0 starts in the top left corner.
+
+: Indexes of slots that are disabled.
+: Set to 1 when it is powered. It is otherwise 0.
+: Set to 6 when the crafter crafts something.
+
+:
+See Bedrock Edition level format/Block entity format.
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Mojang screenshots
+
+Screenshots
+
+Development images
+
+In other media
+
+Concept artwork
+
+References
+
+External links
+
+Navigation
+
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Block entities
+Category:Blocks with GUI
+Category:Mechanisms
+Category:Readable by comparators
+
+de:Werker
+es:Fabricador
+fr:Fabricateur
+ja:自動作業台
+ko:제작기
+lzh:製械
+pl:Wytwarzacz
+pt:Bancada Automática
+ru:Сборщик
+uk:Майструвач
+zh:合成器

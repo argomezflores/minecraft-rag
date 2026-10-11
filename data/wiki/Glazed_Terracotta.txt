@@ -1,0 +1,119 @@
+TITLE: Glazed Terracotta
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Glazed_Terracotta
+---
+Glazed terracotta is a vibrant solid block that comes in the sixteen regular dye colors, obtained by smelting stained terracotta. Glazed terracotta does not stick to slime blocks or honey blocks, and it cannot be pulled by sticky pistons, but it can be pushed by pistons.
+
+Obtaining
+Breaking
+Glazed terracotta requires a pickaxe to be mined. When mined without a pickaxe, it drops nothing.
+
+Natural generation
+Purple glazed terracotta generates in some cold ocean ruins.
+
+Yellow glazed terracotta generates in mason houses in savanna villages.
+
+Orange glazed terracotta generates in savanna village armorer houses.
+
+White glazed terracotta generates in some desert village buildings.
+
+Lime glazed terracotta generates in one of the desert village temples.
+
+Light blue glazed terracotta generates in toolsmith houses in desert villages.
+
+Black, cyan, light blue, light gray, orange and yellow glazed terracotta can generate in trail ruins.
+
+Red glazed terracotta generate in altar-like structures with ominous vaults within trial chambers.
+
+Smelting
+Glazed terracotta can be obtained by smelting any stained terracotta. Unstained terracotta cannot be smelted.
+
+Smelting recipe: Matching Stained Terracotta → Matching Glazed Terracotta, XP: 0,1.
+
+Trading
+
+Usage
+alt=Sixteen sets of 16 terracotta tiles. The sets are arranged with 4 blocks of each color of terracotta in all 4 rotational patterns (From left to right, top to bottom, in clockwise order: up, right, down, left; left, up, right, down; right, down, left, up; down, left, up, right). The colors from left to right, top to bottom are cyan, pink, purple, red, lime, white, black, brown, green, light gray, gray, blue, yellow, orange, light blue and magenta.|thumb|All 16 terracotta colors in 4 possible patterns.
+Glazed terracotta does not stick to slime blocks or honey blocks, but unlike immovable blocks, it can be pushed by pistons and sticky pistons. It cannot be pulled by sticky pistons.
+
+Placement
+When placed, glazed terracotta's texture rotates relative to the direction the player is facing while placing the block. If several glazed terracotta blocks of the same color are placed in the "correct" orientation in a 2×2 or greater area, the textures align to create a singular image, as demonstrated in the image to the right.
+
+The magenta glazed terracotta pattern includes an arrow (⬆) design that can be used to point to things or direct players. A guide is shown below, in order to correctly place the arrow direction (based on testing).
+
+Facing  Arrow direction Front  Pointing right ► Left  Pointing down ▼ Right  Pointing up ▲ Above  Pointing down ▼
+thumb|Translucent image of magenta terracotta.
+thumb|350x350px|Several different 2×2 tile patterns.
+
+Texture
+thumb|right|150px|Creeper face on cyan glazed terracotta.
+
+Glazed terracotta blocks are designed to form a larger, cohesive pattern when placed in the correct 2×2 configuration. Most textures have reflection symmetry along a diagonal line that goes from corner to corner, though the colors of individual pixels can differ slightly.
+
+Although the design of each individual glazed terracotta block is up for interpretation, there are some intentional details in certain blocks:
+
+Magenta blocks contain directional arrows.
+Cyan blocks contain a creeper's face.
+Purple blocks contain the hilt and handguard of a sword.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+According to Jens Bergensten, the inspiration for glazed terracotta blocks came from a Moroccan-styled bathroom floor at a hotel in California.
+Glazed terracotta blocks were designed by Johan Aronson.
+Glazed terracotta is a material that exists in real life, known as . It was used in historical buildings of the United States, UK, Canada, and Australia between the late 1800s and early 1900s. Its historical use was acknowledged by Duncan Geere in a Block of the Week article about glazed terracotta on Minecraft.net.https://www.minecraft.net/pt-br/article/block-week-glazed-terracotta|"And that's not the only building covered with the stuff. Many city buildings in the United States that date from between 1900 and 1930 are covered with glazed terracotta because it's sturdy, cheap and can easily be molded into pretty much whatever shape you'd like. Chicago, in particular, has loads of the stuff."
+
+Gallery
+Screenshots
+
+In other media
+
+References
+
+External links
+Block of the Week: Glazed Terracotta – Minecraft.net on January 19, 2018
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+de:Glasierte Keramik
+es:Azulejo
+fr:Terre cuite émaillée
+ja:彩釉テラコッタ
+ko:유광 테라코타
+nl:Geglazuurde terracotta
+pl:Glazurowana terakota
+pt:Azulejo
+ru:Глазурованная керамика
+uk:Глазурована кераміка
+zh:带釉陶瓦

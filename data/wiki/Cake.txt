@@ -1,0 +1,153 @@
+TITLE: Cake
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cake
+---
+A cake is a block that can serve as food. It can be eaten by placing and  it, with each use consuming one of its seven slices. The entire cake gives the most hunger points out of every food item, but has low saturation.
+
+A cake with candle is an uneaten cake with any type of candle placed on it, which can be lit with a flint and steel to emit light.
+
+Obtaining
+Breaking
+Once the cake is placed, it cannot be recollected even with the use of Silk Touch, meaning placing it is final. Cakes with candles always drop their respective candle when broken.
+
+Generated loot
+
+Crafting
+
+Crafting recipe: Milk Bucket, Milk Bucket, Milk Bucket, Sugar, Any Egg, Sugar, Wheat, Wheat, Wheat arranged in the crafting grid → Cake.
+
+Trading
+
+Usage
+
+thumb|Sunny and Alex eating a cake together.
+Unlike most food, the cake cannot be eaten as an item in the hotbar. Before being eaten, it must first be placed on top of a solid block. Placing the cake on a slab also works, with the slab acting as a solid block. The cake may float half a block above the slab depending on how it is placed.
+
+Each cake has seven "slices"; each use consumes one slice progressing inward from the west. A single slice restores  hunger and 0.4 hunger saturation. Eating all seven slices of a cake restores  hunger and 2.8 hunger saturation.
+
+Since eating a cake comes with no animation, the cake can be eaten at a rate of one slice per tick. Multiple players can eat from the same cake at the same time. , eating cake makes no sound, unlike other foods.
+
+As a redstone component, when connected to a comparator, a whole cake emits a signal strength of 14. The signal strength decreases two units with each slice.
+
+Cake destroys falling blocks if placed under them, similar to a torch. A player who is sneaking can place any block (including a cake or a falling block) on top of a cake without the block breaking.
+
+Pandas
+Some pandas move toward a dropped cake to pick up and eat it. Some may not, depending on the cake's location. Cake cannot be used to breed pandas.
+
+Composting
+Placing a cake into a composter raises the compost level by 1.
+
+Piston interactivity
+A cake is broken when pushed by a piston, and it drops nothing.
+
+Cakes with candles
+thumb|upright|A cake with candle created by placing a candle on an uneaten cake.
+a candle on an uneaten cake creates a cake with candle of that color (including uncolored). Eating any of the cake causes the candle to drop.
+
+flint and steel, fire charge, or any flaming projectile on an unlit cake with candle lights its candle. Lit cakes with candles emit a light level of 3 and point lighting of  when the "Render Dragon Features for Creators" experiment is enabled in Minecraft Preview.  with the lit candle (but not the cake) extinguishes it.
+
+Lit candled cakes emit the same point lighting as candles.
+
+Sounds
+Generic
+
+Unique
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+Cakes:
+
+Cakes with Candles:
+
+:
+Cakes:
+
+Cakes with Candles:
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Trivia
+Interaction
+Because cake is only  blocks wide, it is possible to stand on the edge of a block beneath a cake. This makes it possible to create a functioning staircase using cakes placed on a ramp of 1×1 blocks.
+It is possible to place cake on top of another cake by placing a cake on the ground, then placing another cake on the side of a block above and to the side of the first cake, similar to placing torches on a chest. Eating the lower cake causes the upper cake to disappear, as does mining out the block of cake it is sitting on.
+Mobs on top of cakes rotate while attempting to move, a pathfinding oversight shared with fences.
+If cake is placed in a hole one block deep, players can get across the hole without jumping, although a player standing on the cake must jump to get out of the hole.
+
+Miscellaneous
+thumb|100px|The 2010 Indie of the Year Awards logo.
+Cake was added to Minecraft following the ModDB 2010 Indie of the Year Awards. Notch agreed to add cake to Minecraft if it won, which led to a campaign called "The Quest For Cake". Minecraft won 3 of the 7 awards, including the "Indie of the Year" award.
+The player can place cake on top of a bed, and while sleeping, the cake shows on the player's screen as if it were on top of their head.
+The name of the achievement for crafting a cake is a reference to the internet meme "The Cake is a Lie", which originated from Valve Software's game, Portal.
+On May 17, 2019, for the 10th anniversary of Minecraft, the cake model was changed to display a "10" above it, made of white concrete.
+Unlike most foods, cakes don't count towards the advancement "A Balanced Diet" .
+
+Gallery
+Renders
+Cake
+
+Cake with candle
+
+Lit cake with candle
+
+Screenshots
+
+Mojang screenshots
+
+In other media
+
+Notes
+
+References
+
+Navigation
+
+Category:Food
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Readable by comparators
+
+Category:10th Anniversary
+
+cs:Dort
+de:Kuchen
+es:Tarta
+fr:Gâteau
+hu:Torta
+it:Torta
+ja:ケーキ
+ko:케이크
+nl:Taart
+pl:Ciasto
+pt:Bolo
+ru:Торт
+th:เค้ก
+tr:Pasta
+uk:Торт
+zh:蛋糕

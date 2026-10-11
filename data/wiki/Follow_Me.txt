@@ -1,0 +1,24 @@
+TITLE: Follow Me
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Follow_Me
+---
+Follow Me is a joke item only present in 26w14a.
+
+Obtaining
+It is automatically obtained and appears in the hotbar when the player starts up a world. It also appears in the hotbar after the player dies.
+
+Usage
+Right-clicking living blocks with this item will add them to a group, and left-clicking will leash all the blocks in the group.
+
+Data values
+ID
+
+Issues
+
+Navigation
+
+Category:Joke items
+
+ja:Follow Me
+pt:Edição Java 26w14a/Follow Me
+zh:跟随

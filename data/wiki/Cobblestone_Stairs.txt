@@ -1,0 +1,66 @@
+TITLE: Cobblestone Stairs
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cobblestone_Stairs
+---
+Cobblestone stairs are a decorative stairs variant of cobblestone that generate as parts of Overworld structures and can be used for building.
+
+Obtaining
+Breaking
+Cobblestone stairs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Cobblestone stairs generate as a part of strongholds, woodland mansions, pillager outposts, plains villages, taiga and snowy taiga villages. Cobblestone stairs also generate as part of each jungle pyramid.
+
+Crafting
+
+Crafting recipe: Cobblestone, Cobblestone, Cobblestone, Cobblestone, Cobblestone, Cobblestone arranged in the crafting grid → Cobblestone Stairs,4.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Stairs
+
+fr:Escalier en pierre
+ja:丸石の階段
+ko:조약돌 계단
+pt:Escadas de Pedregulho
+ru:Булыжные ступени
+th:บันไดหินหยาบ
+uk:Сходи з кругляку
+zh:圆石楼梯

@@ -1,0 +1,46 @@
+TITLE: Polished Cinnabar Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Cinnabar_Slab
+---
+A polished cinnabar slab is a decorative slab variant of polished cinnabar.
+
+Obtaining
+Breaking
+Polished cinnabar slabs drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Cinnabar, Polished Cinnabar, Polished Cinnabar arranged in the crafting grid → Polished Cinnabar Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Navigation
+
+es:Losa de cinabrio pulido
+fr:Dalle de cinabre poli
+ja:磨かれた辰砂のハーフブロック
+ko:윤나는 진사 반 블록
+pt:Laje de Cinábrio Polido
+uk:Плита з полірованого кіновару
+zh:磨制朱砂台阶

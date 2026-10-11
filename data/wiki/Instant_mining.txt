@@ -1,0 +1,131 @@
+TITLE: Instant mining
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Instant_mining
+---
+Instant mining, or insta-mining, is a game mechanic in which 1 block can be broken per game tick without the delay of  of a second (6 ticks). Blocks that break instantly without using tools do not decrease durability if a tool is used. Below are listed the tool tier and the Efficiency and Haste levels necessary to instant-mine a block.
+
+Without commands
+
+Tool Efficiency enchantment levelHaste level Blocks instantly mined Calculation  Efficiency VHaste II
+
+47.6 = (8 + 26)×(1 + 0.4)which is greater than45 = 1.5×30 Efficiency VHaste I
+
+40.8 = (8 + 26)×(1 + 0.2)which is greater than37.5 = 1.25×30 Efficiency V
+34 = 8 + 26which is greater than30 = 1×30 Efficiency IV  All Rails
+
+25 = 8 + 17which is greater than24 = 0.8×30 Efficiency IIIHaste I
+
+25.9 = (8 + 10)×((1 + 0.2)×1.21)which is greater than24 = 0.8×30 Efficiency IIHaste I or Efficiency III
+
+15.6 = (8 + 5)×(1 + 0.2)which isgreater than15 = 0.5×30 18 = 8 + 10 which isgreater than 15 = 0.5×30 Efficiency II
+
+13 = 8 + 5which is greater than12 = 0.4×30  Efficiency VHaste I
+45.6 = (12 + 26)×(1 + 0.2)which is greater than45 = 1.5×30 Efficiency V
+
+38 = 12 + 26which is greater than37.5 = 1.25×30 Efficiency IV  29 = 12 + 17which is greater than22.5 = 0.75×30 Efficiency II
+
+17 = 12 + 5which is greater than15 = 0.5×30 None
+
+12exactly equals to12 = 0.4×30  Efficiency VHaste II
+
+47.6 = (8 + 26)×(1 + 0.4)which is greater than45 = 1.5×30 Efficiency V
+
+34 = 8 + 26which is greater than30 = 1×30 Efficiency IV
+
+25 = 8 + 17which is greater than24 = 0.8×30and 18 = 0.6×30 Efficiency III
+
+18 = 8 + 10which is greater than15 = 0.5×30 Efficiency II
+
+18 = 8 + 10which is greater than15 = 0.5×30 Efficiency I
+10 = 8 + 2which is greater than9 = 0.3×30  None
+
+6exactly equals to6 = 0.2×30  None
+4is greater than3 = 0.1×30  Efficiency IV
+
+25 = 8 + 17which is greater than19.5 = 0.65×30and 18 = 0.6×30 Efficiency III
+
+18 = 8 + 10which is greater than15 = 0.5×30 None
+
+8is greater than7.5 = 0.25×30  None
+6exactly equals to6 = 0.2×30  None
+4is greater than3 = 0.1×30  Efficiency V Haste II
+
+47.6 = (8 + 26)×(1 + 0.4)which is greater than45 = 1.5×30 Efficiency V
+
+34 = 8 + 26which is greater than30 = 1×30  Efficiency IV
+
+25 = 8 + 17which is greater than18 = 0.6×30 Efficiency III
+
+18 = 8 + 10which is greater than15 = 0.5×30  None
+
+6exactly equals to6 = 0.2×30  None
+
+4is greater than3 = 0.1×30  None
+
+hard-coded Efficiency V
+
+31 = 5 + 26which is greater than24 = 0.8×30Efficiency II
+
+6.5 = 1.5 + 5which is greater than6 = 0.2×30 None
+
+15is greater than6 = 0.2×30 (none) None
+
+All blocks have the hardness value of 0, hence 0×30 = 0, and 1 is greater than 0, meaning that all blocks can be broken instantly regardless of enchantments, status effects, and breaking damage penalties.
+
+With the help of commands
+Using commands, much higher levels of efficiency and haste may be applied to enable instant-breaking of the following blocks.
+
+Java Edition
+
++ToolEfficiency enchantment levelHaste levelBlocks instantly mined Calculation Efficiency V Haste X123 = (15 + 26)×(1 + 2)which isgreater than120 = 4×30 Efficiency V Haste III54.4 = (8 + 26)×(1 + 0.6)which is greater than54 = 1.8×30 Efficiency V Haste IV
+
+61.2 = (8 + 26)×(1 + 0.8)which is greater than60 = 2×30 Efficiency V Haste IV
+
+61.2 = (8 + 26)×(1 + 0.8)which is greater than60 = 2×30 Efficiency V Haste VI
+
+77 = (9 + 26)×(1 + 1.2)which is greater than75 = 2.5×30 Efficiency V Haste VI
+
+77 = (9 + 26)×(1 + 1.2)which is greater than75 = 2.5×30 Efficiency V Haste VII84 = (9 + 26)×(1 + 1.4)which is equal to84 = 2.8×30 Efficiency V Haste VIII  All overworld Ores
+
+91 = (9 + 26)×(1 + 1.6)which is greater than90 = 3×30 Efficiency V Haste VIII
+91 = (9 + 26)×(1 + 1.6)which is greater than90 = 3×30 Efficiency V Haste VIII
+91 = (9 + 26)×(1 + 1.6)which is greater than90 = 3×30 Efficiency V Haste X
+
+105 = (9 + 26)×(1 + 2)which is equal to105 = 3.5×30 Efficiency V Haste XV (15) All Deepslate Ores136 = (8 + 26)×(1 + 3)which is greater than135 = 4.5×30 Efficiency V Haste XVIII (18)
+
+156.4 = (8 + 26)×(1 + 3.6)which is greater than150 = 5×30 Efficiency V Haste XCV (95)680 = (8 + 26)×(1 + 19)which is greater than675 = 22.5×30 Efficiency VHaste CXXVIII (128) 904.4 = (8 + 26)×(1 + 25.6)which is greater than900 = 30×30 Efficiency VHaste CCXVI (216)
+
+1502.8 = (8 + 26)×(1 + 43.2)which is greater than1500 = 50×30
+
+Bedrock Edition
+
+Blocks unaffected by Efficiency
+These blocks don't have an assigned tool. However, with commands, they can be instantly broken with the right level of haste. Note that the maximum level of haste is 255.
+Level of Haste Blocks instantly mined Calculationunbreakable
+
+Only when worldbuilder is disabled(or when you have permission level 0).
+
+All of these blocks have a hardness of -1, and -1×30 = -30. Since breaking starts at 1, these blocks can never be broken.Haste CVII (107) Haste X
+
+3 = 1×(1 + 2)which is equal to3 = 0.1×30Haste XXV (25) 6 = 1×(1 + 5)which is equal to6 = 0.2×30Haste XXXIII (33) 7.6 = 1×(1 + 6.6)which is greater than7.5 = 0.25×30Haste XL (40)
+
+9 = 1×(1 + 8)which is equal to9 = 0.3×30Haste LV (55) 12 = 1×(1 + 11)which is equal to12 = 0.4×30Haste LXX (70)
+
+15 = 1×(1 + 14)which is equal to15 = 0.5×30Haste LXXXV (85) 18 = 1×(1 + 17)which is equal to18 = 0.6×30Haste CXLV (145) 30 = 1×(1 + 29)which is equal to30 = 1×30Haste CDXLV (445)
+90 = 1×(1 + 89)which is equal to90 = 3×30Haste DXCV (595)
+
+300 = 1×(1 + 299)which is equal to300 = 10×30Haste V̄MMMCCXLV (8245) 1650 = 1×(1 + 1649)which is equal to1650 = 55×30
+
+History
+
+See also
+Breaking
+Efficiency
+Haste
+Tiers
+
+Navigation
+
+es:Minería instantánea
+ja:即時採掘
+pt:Mineração instantânea

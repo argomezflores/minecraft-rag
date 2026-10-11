@@ -1,0 +1,110 @@
+TITLE: Skin pack
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Skin_pack
+---
+thumb|300px|Promotional image of skins in Skin Pack 4.
+A skin pack is a type of downloadable content that adds additional skins for players to choose from along with the default skins included with the game's purchase. Skin packs are available in  as purchasable content on the Marketplace. They often feature characters from other video games, movies, and television shows, alongside original designs. Skin packs all have skins related to one another, e.g, a movie skin pack includes characters from only the designated movie. Skin packs are a way to quickly obtain several themed skins at once.
+
+In addition to separately available skin packs, some mash-up packs and downloadable worlds come bundled with skin packs as well.
+
+Custom skin packs can be created and imported to the game with a data system similar to resource packs and behavior packs.
+
+List of official skin packs
+Cross-platform
+ImageNameDescriptionRelease datePurchasable  Legacy Console Edition Other150pxDefault Skin PackApril 9, 2015—EE: June 28, 2016
+
+3DS: September 13, 2017150pxSkin Pack 1January 30, 2018July 16, 2012—150pxSkin Pack 1 (PlayStation)December 9, 2019March 27, 2014—150pxSkin Pack 2August 14, 2018August 24, 2012—150pxSkin Pack 2 (PlayStation)December 9, 2019May 28, 2014—150pxSkin Pack 3August 28, 2018October 17, 2012—150pxSkin Pack 3 (PlayStation)December 9, 2019September 4, 2014—150pxBattle & Beasts Skin PackJuly 19, 2017May 8, 20133DS: July 24, 2018150pxBattle & Beasts 2 Skin PackSeptember 12, 2017October 9, 2013—150px1st Birthday Skin PackSeptember 12, 2017May 9, 2013—150px2nd Birthday Skin PackSeptember 12, 2017May 9, 2014—150px2nd Birthday Skin Pack (PlayStation)December 9, 2019December 18, 2015—150px3rd Birthday Skin PackSeptember 12, 2017May 7, 2015—150px4th Birthday Skin PackSeptember 12, 2017May 9, 2016—150px5th Birthday Skin PackSeptember 12, 2017May 9, 2017—150pxMarvel Avengers Skin PackSeptember 12, 2017December 23, 2013—150pxMarvel Spider-Man Skin PackSeptember 12, 2017April 30, 2014—150pxMarvel Guardians of the Galaxy Skin PackSeptember 12, 2017August 1, 2014—150pxStar Wars Classic Skin PackSeptember 12, 2017November 25, 20143DS: July 24, 2018150pxStar Wars Rebels Skin PackSeptember 12, 2017February 10, 20153DS: July 24, 2018150pxStar Wars Prequel Skin PackSeptember 12, 2017October 23, 20153DS: September 19, 2018150pxStar Wars Sequel Skin PackMarch 31, 2018March 27, 2018—150pxSolo: A Star Wars Story PackAugust 28, 2018August 28, 2018—150pxThe Simpsons Skin PackSeptember 12, 2017February 27, 2015—150pxCity Folk Skin PackMay 11, 2015—3DS: June 5, 2018150pxTown Folk Skin PackMay 11, 2015—3DS: June 5, 2018150pxMinecon 2015 Skin PackSeptember 12, 2017July 1, 2015—150pxMINECON 2016 Skin PackSeptember 22, 2016September 23, 2016—150pxMINECON Earth 2017 Skin PackNovember 13, 2017November 14, 2017JE: November 13, 2017150pxHalloween Costumes Skin PackOctober 23, 2015—EE: June 28, 2016
+
+3DS: November 20, 2018150pxBiome Settlers Skin Pack 1November 9, 2015February 25, 2016EE: June 28, 2016
+
+3DS: September 13, 2017150pxBiome Settlers Skin Pack 2May 19, 2016July 25, 20173DS: September 13, 2017150pxStrangers - Biome Settlers 3March 9, 2017August 29, 20173DS: November 20, 2018150pxHoliday Skin Pack 2015December 14, 2015—EE: June 28, 2016
+
+3DS: September 13, 2017150pxJourney to the West Skin PackFebruary 3, 2016—EE: June 28, 2016
+
+3DS: September 13, 2017150pxRedstone Specialists Skin PackFebruary 12, 2016July 26, 2016EE: June 28, 2016
+
+3DS: September 13, 2017150pxStory Mode Skin PackApril 5, 2016April 6, 2016EE: June 28, 2016150pxVillains Skin PackJuly 28, 2016January 31, 20173DS: September 19, 2018150pxCampfire Tales Skin PackOctober 3, 2016October 25, 20163DS: June 5, 2018150pxMini Game Masters Skin PackSeptember 12, 2017March 28, 2017—150pxMini Game Heroes Skin PackSeptember 12, 2017June 27, 2017—150pxMighty Morphin Power RangersMarch 28, 2017March 28, 20173DS: November 20, 2018150pxMagic: The Gathering Skin PackMay 4, 2017May 30, 20173DS: November 20, 2018150pxStranger Things Skin PackOctober 27, 2017October 27, 20173DS: September 19, 2018150pxMoana Character PackJanuary 30, 2018January 30, 20183DS: November 20, 2018150pxNoctis Skin PackApril 24, 2018April 24, 2018—150pxThe Incredibles Skin PackJune 21, 2018June 21, 2018—150pxFrom the Shadows Skin PackOctober 23, 2018October 23, 2018—150pxBuilders & BiomesOctober 9, 2020—JE: October 13, 2020
+
+Bedrock Edition
+Image Name Description Release date Purchasable150pxLegacy Skin PackA skin pack of existing skins.September 12, 2017150pxNorse Mythology Bonus SkinsBonus skins for the Norse Mythology Mash-up Pack.December 25, 2017150pxWinter Wonders Skin PackA skin pack themed after winter.January 6, 2018150pxLunar New Year Skin PackA skin pack themed after the .February 16, 2018150pxCoral Crafters Skin PackA skin pack tie-in to the Coral Crafters ad campaign.June 8, 2018150pxBeach Party Skin PackA skin pack themed around beach culture.July 19, 2018150pxPaws and Claws Cosplay PackA tie-in to the release of the Holiday Update.December 13, 2018150pxLEGO Minecraft Dragon SlayerA skin pack distributed through the LEGO Minecraft set "The End Battle".?150pxEarth SkinA skin tie-in to the release of .May 13, 2019150pxFounder's CapeA skin pack version of the founder's cape.September 28, 2019150pxMinecraft x Uniqlo Skin PackA skin pack featuring skins based off a collaboration with .February 14, 2020150pxMinecraft x UNIQLO Skins Vol 2A second skin pack featuring skins based off a collaboration with .February 24, 2021150pxMumbo Jumbo & Grian SkinsA skin pack of the distinct skins of Mumbo Jumbo and Grian.August 17, 2020150pxGive Campaign SkinsA skin pack distributed through an internal contest.October 6, 2020150pxRockin' Holiday SkinsA Christmas-themed skin pack with two unique characters.October 22, 2020150pxLunar New Year of the OxA skin pack themed to the , specifically the Year of the Ox.February 4, 2021150pxSonic the Hedgehog Skin PackA skin pack of two fans of the Sonic the Hedgehog franchise.July 20, 2021150pxCrafty CostumesA skin pack themed around various Halloween costumes.October 1, 2021150pxTimeless Toys SkinsA skin pack themed after several toys.October 13, 2021150pxYouTube Creators Skin PackA skin pack of several creators from YouTube, using their same designs from Caves & Cliffs Explorers.December 9, 2021150pxThe World WarriorA skin pack of various characters from the  franchise.February 7, 2022150pxYoung GruA skin of a young  from the Despicable Me franchise.May 31, 2022150pxLaLiga Skin PackA skin pack themed after .September 19, 2022150pxLALIGA Skin PackA second skin pack themed after La Liga.October 10, 2023150pxMob Vote Skin Pack 2022A tie-in to the 2022 Mob Vote, featuring three unique characters cosplaying as the rascal, sniffer, and tuff golem.October 6, 2022150pxDungeons Hero Skin PackA tie-in to the release of , featuring several .October 13, 2022150pxMinecraft Legends Skin PackA tie-in to the release of , featuring several .October 18, 2023150pxSweet SummerA skin pack distributed through items in the "Minecraft x Justice" collection at .February 20, 2024150pxFrozen: Anna & Elsa Skin PackA skin pack consisting of different variations of Elsa and Anna from the  franchise.April 1, 2024150pxTutorial Skin PackA free skin pack shared on GitHub.April 15, 2024150pxFauna FriendsA skin pack distributed through products sold at .May 23, 2024150pxHalloween CosplayA skin pack distributed through costumes sold by Disguise.May 23, 2024150pxCrafty CrewA skin pack distributed through a collaboration with Reebok.August 5, 2024150pxMonica and FriendsA skin pack featuring characters from the  media franchise.March 4, 2025150pxA Minecraft Movie Hero PackA tie-in to the release of , featuring skins of  and the .March 20, 2025150pxMcDonald's skinsSeveral skin packs released for the  collaboration.March 24, 2025150pxSuperman Skin PackA tie-in to the 2025  film.July 8, 2025150pxLAFD Firefighter HeroesA skin pack featuring firefighters made in collaboration with the .July 29, 2025150pxGhast Station SkinpackA skin pack distributed through the LEGO Minecraft set "Ghast Station".January 26, 2026150pxHuggy & Friends Skin PackA skin pack featuring characters from the  video game and merchandise franchise.February 10, 2026150pxTiny Takeover: Mob CaretakersA skin pack promoting the Tiny Takeover drop.March 24, 2026
+
+Legacy Console Edition
+Image Name Description Release date Purchasable150pxDefault Skin PackThe default skin pack of the version, featuring several variations of Steve and Alex.July 13, 2012150pxSummer of Arcade Skin PackA tie-in to the  event on the .July 18, 2012150pxHalloween Charity Skin PackA Halloween themed skin pack featuring contributons from several studios.October 26, 2012150pxFestive Skin PackA Christmas themed skin pack, featuring Santa Claus.December 19, 2012150pxSkin Pack 4A skin pack featuring characters from franchises such as Halo, , and , among others.March 13, 2013150pxSkin Pack 5A skin pack featuring characters from franchises such as , , and Borderlands, among others.July 31, 2013150pxSkin Pack 6A skin pack featuring characters from franchises such as , , and , among others.June 25, 2014150pxDoctor Who Skins Volume IA skin pack featuring skins of characters from the Doctor Who franchise.October 3, 2014150pxDoctor Who Skins Volume IIA second skin pack featuring skins of characters from the Doctor Who franchise.December 18, 2014
+
+Minecraft Education
+Image Name Description Release date Purchasable150pxDevelopers Skin PackA skin pack consisting of Steve and Alex in Mojang T-shirts.November 1, 2016150pxFriends! Skin PackA skin pack of characters made using Character Creator items.November 2, 2021width=150x150Ancient Greece Skin Pack 1A skin pack made of ancient Greece characters.April 9, 2026width=150x150Ancient Rome Skin Pack 1A skin pack made of Roman characters.April 9, 2026width=150x150Ancient Egypt Skin Pack 1A skin pack made of ancient Egyptian characters.TBA
+
+Package format
+
+Custom skin packs use a package format which contains multiple skins for the players and loaded by the game under the  directory. It is defined in  with the  module, and contains  and localization files for defining skin entries. When a custom skin pack is loaded by the game, it appears as a skin pack below the custom skin on the "Classic Skins" menu of the Dressing Room.
+
+Zipped skin packs can be distributed with the  file extension. Opening a skin pack file will automatically import it to  and it appears in the Dressing Room. Imported skin packs do not support custom geometry models, only being exclusive to marketplace skin packs made by official collaborations, or published by "Minecraft".
+
+Directory structure
+or
+: Specifies the models of each geometry type. Only used in internal skin packs.
+: Skin packs use the  type.
+: Defines skin entries stored in the pack.
+. A skin file. Multiple skin files can be stored in a pack.
+: Defines names for the skins in-game, which can be translated.
+. Specifies all languages used.
+. A language file for localization. Multiple language files can be used.
+skins.json
+
+The  file is used to define skin entries later loaded by the game. The following interface is used for :
+
+: The root tag.
+: The skin pack name used for language localization for the skin's display name.
+: The name used for serialization and localization keys.
+: The list of skins which may be loaded by the game.
+: An object defining a skin.
+: Specifies whether or not the skin is  or . Custom skin pack may only use  option.
+: Specifies the geometry used for the player's model when equipping the skin. For custom skin pack, this is used to specify wide or slim model, which are specified as  and  respectively. A cape can be specified with , but is not usable in-game.
+: The skin name used for language localization.
+: The file name used for the skin. It resolves to the root of the skin pack, and it cannot be nested (i.e. inside another folder under the root skin pack folder).
+
+Localization
+
+The localization files for skin pack may be defined under  directory. For example,  defines localization for players with American English language set in their settings.
+
+The following key name format applies for skin pack localization:
+
+for defining a skin's name.
+
+for defining the skin pack's name.
+for defining the author's name.
+
+Both serialize_name and skin_localization_name are defined in the  file as specified above.
+
+Internal skin packs
+An internal skin pack is used for the default skins, which uses the same directory structrure as custom skin packs. Internal skin packs can be found at .
+File nameDescriptioncustomUnknown, does not contain any skin files.personaUnknown, does not contain any skin files.vanillaContains all nine default skins, in addition to the standard dummy used to represent empty skins and bases in the Character Creator. This pack also stores the three geometry types.
+
+History
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Gallery
+
+Artwork
+
+References
+
+External links
+
+Packaging a Skin Pack | Microsoft Learn
+Change Your Look: An Introduction To Skin Packs | Microsoft Learn
+GitHub skin pack sample
+
+Navigation
+
+Category:Collaborations
+Category:Minecraft Marketplace
+
+es:Paquete de aspectos
+fr:Pack de skins
+ja:スキン/スキンパック
+pt:Pacote de skins
+zh:皮肤包

@@ -1,0 +1,61 @@
+TITLE: Diorite Wall
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Diorite_Wall
+---
+A diorite wall is a decorative wall variant of diorite that generates in snowy tundra villages and is used for building.
+
+Obtaining
+Breaking
+Diorite walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Natural generation
+Diorite walls may generate in snowy tundra villages.
+
+Crafting
+
+Crafting recipe: Diorite, Diorite, Diorite, Diorite, Diorite, Diorite arranged in the crafting grid → Diorite Wall,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Walls
+
+fr:Muret de diorite
+ja:閃緑岩の塀
+ko:섬록암 담장
+pt:Muro de Diorito
+uk:Діоритова стіна
+zh:闪长岩墙

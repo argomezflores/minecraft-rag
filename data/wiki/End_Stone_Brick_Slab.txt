@@ -1,0 +1,53 @@
+TITLE: End Stone Brick Slab
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/End_Stone_Brick_Slab
+---
+An End stone brick slab is a decorative slab variant of End stone bricks that does not generate naturally and is used for building.
+
+Obtaining
+Breaking
+End stone brick slabs can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: End Stone Bricks, End Stone Bricks, End Stone Bricks arranged in the crafting grid → End Stone Brick Slab,6.
+
+Stonecutting
+
+Usage
+
+Sounds
+, when an End stone brick slab is combined into a double slab, the block's use sound is played.
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Slabs
+
+ja:エンドストーンレンガのハーフブロック
+ko:엔드 석재 벽돌 반 블록
+pt:Laje de Tijolos de Pedra do End
+zh:末地石砖台阶

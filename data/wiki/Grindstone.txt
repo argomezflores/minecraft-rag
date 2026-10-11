@@ -1,0 +1,109 @@
+TITLE: Grindstone
+CATEGORY: Priority
+URL: https://minecraft.wiki/w/Grindstone
+---
+A grindstone is a block used to remove all enchantments (except for curses) from items, refunding some experience orbs. Additionally, it can  repair tools, weapons, and armor. It also serves as a weaponsmith's job site block.
+
+Obtaining
+Breaking
+Grindstones can be obtained using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Natural generation
+thumb|right|A grindstone generated inside a weaponsmith shelter structure.
+Grindstones naturally generate at village weaponsmiths. Grindstones can also generate in trail ruins.
+
+Crafting
+
+Crafting recipe: Stick, Stone Slab, Stick, Any Planks, Any Planks arranged in the crafting grid → Grindstone.
+
+Usage
+A grindstone can be oriented in different directions. , it doesn't need a supporting block. , it breaks if unsupported and/or inside of water.
+
+Repairing and disenchanting
+thumb|right|250px|Interface for the grindstone
+
+When , an interface is displayed with two input slots and one output slot.
+
+It resets the repair cost for items.
+
+When one enchanted item is placed in either input slot, a disenchanted copy of the item appears in the output slot. The output item has the same durability for a piece of armor or a tool. If an enchanted book is placed in the input, a normal book appears in the output. Removing the item from the output slot deletes the input item and causes the grindstone to drop some experience. If the input item has a custom name, given by renaming it, the output item will adopt the name.
+
+Placing two tools or pieces of armor (enchanted or not) of the same type in the input slots causes a non-enchanted item of the same type to appear in the output slot. The output item has the same durability as what the player would get from using the item repair crafting recipe if the 2 input items were unenchanted. This means the output durability is the sum of the durabilities of the two input items, plus 5% of the maximum durability of the output item (rounded down), capped so it does not exceed the maximum durability of the output item. Both input items are deleted in this process of disenchanting them and repairing them. If either input item was enchanted, then removing the output item drops some experience. The output item has the same armor trim (if any) and name (if any) as the input item in the top slot.
+
+As with all non-enchanted items, the output item has no prior work penalty, even if it is cursed. Disenchanting an item in the grindstone cannot remove a curse, and cannot remove an item's custom name.
+
+If the action is not applicable (e.g. only one non-enchanted item, or the two inputs are different items), the arrow displays a red cross like that of an anvil and no item appears in the output slot.
+
+The amount of experience dropped by the grindstone is a uniformly distributed pseudorandom number between 50% and 100% (rounded up) of all the non-curse enchantments' minimum modified enchantment levels combined. For example, Sharpness V on average gives 35 XP, because that is 75% of 45. The following table shows the ranges of possible obtained XP from each enchantment and level.
+
+Armor enchantment XP I II III IV V Sword enchantment XP I II III IV V Bow enchantment XP I II III IV V Tool enchantment XP I II III IV V Fishing rod enchantment XP I II III IV V "Anything" enchantment XP I II III IV V Trident enchantment XP I II III IV V Crossbow enchantment XP I II III IV V Mace enchantment XP I II III IV V Spear enchantment XP I II III IV V
+
+Profession
+
+If a grindstone has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to weaponsmith and claim the grindstone as their job site block.
+
+Piston interactivity
+Grindstones cannot be pushed by pistons or pulled by sticky pistons.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+Achievements
+
+Videos
+
+History
+For a more in-depth breakdown of changes to textures and models, including a set of renders for each state combination, see /Asset history
+Java Edition
+
+Bedrock Edition
+
+PlayStation 4 Edition
+
+Issues
+
+Trivia
+Before the grindstone was added, a different method to remove enchantments was floated for Update Aquatic, which would have been by means of feeding items to a mob known as "The Great Hunger", but the mob lost the MINECON Earth 2017 mob vote to the phantom.
+
+Gallery
+Screenshots
+
+Navigation
+
+Category:Job blocks
+Category:Utility blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+Category:Blocks with GUI
+
+cs:Brusný kámen
+de:Schleifstein
+es:Afiladora
+fr:Meule
+it:Mola
+ja:砥石
+ko:숫돌
+lzh:礪
+pl:Kamień szlifierski
+pt:Rebolo
+ru:Точило
+th:หินลับมีด
+uk:Точило
+zh:砂轮

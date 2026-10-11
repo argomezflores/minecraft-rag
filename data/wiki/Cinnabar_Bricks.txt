@@ -1,0 +1,53 @@
+TITLE: Cinnabar Bricks
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cinnabar_Bricks
+---
+Cinnabar bricks are a decorative brick variant of cinnabar.
+
+Obtaining
+Breaking
+Cinnabar bricks drop as an item if mined by any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Crafting
+
+Crafting recipe: Polished Cinnabar, Polished Cinnabar, Polished Cinnabar, Polished Cinnabar arranged in the crafting grid → Cinnabar Bricks,4.
+
+Stonecutting
+
+Usage
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+History
+Announcement
+
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+
+Navigation
+
+de:Zinnoberziegel
+es:Ladrillos de cinabrio
+fr:Cinabre taillé
+ja:辰砂レンガ
+ko:진사 벽돌
+lzh:朱砂磚
+pt:Tijolos de Cinábrio
+ru:Киноварные кирпичи
+th:บล็อกอิฐซินนาบาร์
+uk:Кіноварна цегла
+zh:朱砂砖

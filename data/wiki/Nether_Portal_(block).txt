@@ -1,0 +1,84 @@
+TITLE: Nether Portal (block)
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Nether_Portal_(block)
+---
+The Nether portal block is the translucent part of the Nether portal that teleports the player to and from the Nether.
+
+Obtaining
+The Nether portal block cannot be obtained as an item even by using the  command. The item form is completely non-existent , but it can be obtained through add-ons, external editors or by using bugs .
+
+This block cannot be picked up using , similar to the End portal block.
+
+The Nether portal block can be placed using commands such as  or  and is generated when lighting a Nether portal.
+
+Usage
+
+Nether portal blocks can stably exist only within a Nether portal structure, unlike End portal blocks. When the block is updated and detects it is not part of such a structure, it is destroyed. However, using update suppression glitches, it is possible to obtain a standalone portal block without a frame, but the portal is destroyed once it receives an update, i.e. placing a block next to the portal or moving a piston next to or into the portal.
+
+Nether portal blocks can be used to teleport entities between the Nether and the Overworld. When a player in the Overworld or the Nether stands in a Nether portal block for 4 seconds, the player is taken to the other dimension. While in the Nether portal block, the player can neither open their inventory nor interact with blocks with GUI. The player can step out of a portal before it completes its animation to abort the teleport. However, in Creative mode there is no wait time—the player immediately transfers between dimensions. If there is already an active portal within range (125 blocks) in the other world, the player appears in that portal. Otherwise, a portal is created at or near the corresponding coordinates. If a single portal block is placed using commands, it can still be used to travel to the Nether.
+
+Nether portal blocks make distinctive sounds, and emit the same purple particles produced by endermen, endermites, and ender chests. Portal blocks emit a light level of 11, dimmer than a torch.
+
+Falling block entities can be teleported through a portal, but a piston cannot push a block through.
+
+Much like water or lava, portal blocks cannot be broken by tools except in Creative. However, portal blocks can be destroyed by explosions (even weak ones) and can be replaced by placing water or lava sources in the same block (can also be done by dispensers). If any portal block is destroyed, the whole portal is deactivated as adjacent portal blocks are updated and detect that the portal structure is no longer complete.
+
+While Nether portals themselves cannot be lit in the End, a portal block set in the End and in custom dimensions behave exactly like in the Overworld, calculating coordinates in the Nether with the same 1:8 ratio. They teleport players to the Nether , and to the Overworld . However, once teleported to the Overworld from the End, the player is in a glitched state where they can no longer interact with the world or load chunks during that session. After reloading the world, the player spawns on a new End platform at the same coordinates in the End as where the Nether portal was.
+
+Piston interactivity
+Nether portal blocks cannot be pushed by pistons. They also cannot be pushed or pulled by sticky pistons.
+
+Sounds
+Generic
+
+Unique
+:
+
+:
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+:
+
+:
+
+History
+
+History of the block itself
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+History of the block's effects
+
+Data history
+
+Issues
+
+References
+
+Navigation
+
+Category:Nether blocks
+Category:Non-solid blocks
+Category:Utility blocks
+Category:Light sources
+Category:Createable blocks
+Category:Blocks with no item form
+es:Portal del Nether (bloque)
+fr:Portail du Nether (bloc)
+ja:ネザーポータル (ブロック)
+ko:네더 차원문 (블록)
+pt:Portal do Nether (bloco)
+ru:Блок портала Нижнего мира
+uk:Портал Незеру (блок)
+zh:下界传送门（方块）

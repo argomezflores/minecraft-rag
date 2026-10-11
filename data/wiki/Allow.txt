@@ -1,0 +1,57 @@
+TITLE: Allow
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Allow
+---
+Allow is a block that can be used to create areas where players can build in spite of restrictions that would otherwise prevent them from doing so.
+
+Obtaining
+Allow can either be obtained by using the pick block control, or by using various commands, such as /give, or, when , the Creative inventory.
+
+Usage
+When placed, allow blocks let players without world builder status place or destroy blocks in the area above them if immutable world is on. If two allow or deny blocks are placed on top of one another, the block that is highest takes precedence. The deny block does not prevent the placing of blocks through commands, endermen, or pistons. They also do not prevent the placing of entities such as boats.
+
+, when placed, allow blocks let players in Adventure status place or destroy blocks in the area above.
+
+Allow is extremely resistant to explosions, and players with world builder (or permission level 1 ) status are able to place and destroy blocks regardless of where any allow is placed and can also destroy and place the blocks themselves.
+
+Allow blocks do not enable players without building/destroying permissions to build on top of them.
+
+Piston interactivity
+Allow blocks cannot be moved by pistons or sticky pistons.
+
+Sounds
+
+Data values
+ID
+
+Videos
+
+History
+Bedrock Edition
+
+Minecraft Education
+
+Issues
+
+Gallery
+
+See also
+Deny
+
+References
+
+Navigation
+
+Category:Minecraft Education blocks
+
+de:Erlauben und Verweigern Blöcke
+es:Permitir y Rechazar
+fr:Autoriser et Refuser
+ja:許可ブロックと拒否ブロック
+ko:허용 및 거부
+lzh:肯否塊
+pl:Allow i Deny
+pt:Bloco de Permitir e Negar
+ru:Блоки «разрешить» и «запретить»
+uk:Дозволити й відмовити
+zh:允许和拒绝方块

@@ -1,0 +1,73 @@
+TITLE: Cooked Salmon
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Cooked_Salmon
+---
+Cooked salmon is a food item obtained by cooking raw salmon.
+
+Obtaining
+Mob loot
+
+Generated loot
+
+Cooking
+Raw salmon can be cooked in a furnace, smoker, or campfire. Each piece of cooked salmon removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+Smelting recipe: Raw Salmon → Cooked Salmon, XP: 0,35.
+
+Trading
+
+Usage
+
+Food
+
+To eat cooked salmon, press and hold  while it is selected in the hotbar. Eating one restores  and 9.6 saturation, the same as cooked mutton.
+
+Wolves
+Cooked salmon can be fed to wolves only if they are not at full health, healing them by . However, , unlike other wolf food, cooked salmon cannot be used to speed up the growth of baby wolves nor used to breed them and can only be fed to a wolf that is not at full health.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Achievements
+
+Advancements
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Data history
+
+Issues
+
+See also
+Fishing
+
+Navigation
+
+Category:Food
+
+de:Gebratener Lachs
+es:Salmón cocinado
+fr:Saumon cuit
+it:Salmone (oggetto)
+ja:焼き鮭
+ko:익힌 연어
+lzh:鮭炙
+nl:Zalm (voorwerp)
+pt:Salmão assado
+ru:Жареный лосось
+uk:Смажений лосось
+zh:熟鲑鱼

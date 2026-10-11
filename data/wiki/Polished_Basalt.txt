@@ -1,0 +1,57 @@
+TITLE: Polished Basalt
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Polished_Basalt
+---
+Polished basalt is the polished version of basalt and can be found as part of ancient cities and bastion remnants.
+
+Obtaining
+Breaking
+Polished basalt drops as an item if mined by any pickaxe. If mined by any other tool, it drops nothing.
+
+Natural generation
+Polished basalt can be found naturally as part of ancient cities and bastion remnants.
+
+Crafting
+
+Crafting recipe: Basalt, Basalt, Basalt, Basalt arranged in the crafting grid → Polished Basalt,4.
+
+Stonecutting
+
+Usage
+Polished basalt's only use is as building material. Like logs and quartz pillars, polished basalt blocks point perpendicular to whatever block face they are placed on.
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Block states
+
+Videos
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Renders
+
+References
+
+Navigation
+
+Category:Nether blocks
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Basalte poli
+ko:윤나는 현무암
+pt:Basalto Polido
+uk:Полірований базальт
+zh:磨制玄武岩

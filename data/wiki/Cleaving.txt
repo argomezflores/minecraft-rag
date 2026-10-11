@@ -1,0 +1,41 @@
+TITLE: Cleaving
+CATEGORY: Enchantments
+URL: https://minecraft.wiki/w/Cleaving
+---
+Cleaving is an enchantment applied to axes that increases melee damage and lengthens shield disabling time. It is exclusive to the Java Edition Combat Tests.
+
+Usage
+Cleaving adds  +  × level The Cleaving enchantment itself adds 1 damage and each level adds 1 additional damage so level 1 would do 2 damage and level 3 would do 4. of damage and  of shield stunning per levelCleaving can disable shields for up to 1.5 seconds longer than the default time, which is 1.6 seconds, for a total of 3.1 seconds., for a maximum enchantment level of 3.
+
+Damage per hit
+These tables detail how much damage is added per level of enchantment, assuming the target is not wearing armor and the attack is fully charged.
+
+Because Cleaving is exclusive to the Java Edition Combat Tests, the attack damages of axes in the Combat Tests are used for the tables.
+
++Cleaving extra damageIIIIII
+
++ Damage of AxesWeaponBase damageCleaving ICleaving IICleaving III (critical) (critical) (critical) (critical)
+
+Incompatibilities
+Cleaving is incompatible with Sharpness, Smite, and Bane of Arthropods. It is also incompatible with Impaling, however in Survival these incompatibilities cannot be encountered, as no weapon types have access to both Cleaving and Impaling. If commands are used to have two or more of these enchantments on the same item, their effects stack.
+
+Data values
+ID
+
+History
+
+Notes
+
+Navigation
+
+Category:In development
+Category:In development Java Edition
+
+de:Spaltung
+es:Hendimiento
+fr:Fendage
+ja:Cleaving
+ko:Cleaving
+lzh:斫
+pt:Cleaving
+zh:劈裂

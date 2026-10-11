@@ -1,0 +1,162 @@
+TITLE: Game rule
+CATEGORY: Gameplay
+URL: https://minecraft.wiki/w/Game_rule
+---
+Game rules are a set of customizable options for a specific in-game world.
+
+Modifying game rules
+thumb|The "Edit Game Rules" section of the "Create New World" screen on .
+thumb|The "Advanced" tab of "Edit World" screen on .
+
+, game rules can be changed using toggle buttons on the "Edit Game Rules" menu built into the "Create World" and "World Options" screens. The game rules are split into categories named "Player", "Mobs", "Spawning", "Drops", "World updates", "Chat", and "Miscellaneous".
+
+, about half of the game rules can be changed from the "Create New World" screen and the world options in both the "Edit World" screen and the game settings in the pause menu. The remainder can be changed only with commands, or in the "Export" interface in the Bedrock Editor.
+
+When in-game, game rules can be changed using the  command, using the syntax , where  is the name of the game rule and  is an allowed value, which depends on the type of the game rule. The types are boolean (where the allowed values are either ) and integer (where any whole number is able to be entered).
+
+List of game rules
+The following is a list of game rules available in-game, their allowed values, and their availability in  and .
+
+The categorization of game rules is based on Java Edition, except for Bedrock Edition exclusive game rules. The  prefix has been excluded from this list for the sake of brevity.
+
+Some game rules can be changed in Bedrock Edition without cheats (either by  command or the world menus, e.g., World Options and Create New World), thus safely keeping achievements enabled while configuring these game rules.
+
+Chat
+Rules affecting chat output, including command feedback, death messages, and advancements.
+
+Rule name Description Default value Type Availability in Bedrock Edition : :  Whether command blocks should notify admins when they perform commands.  Bool   Whether to log admin commands to server log.  Bool  : :  Whether the feedback from commands executed by a player should show up in chat. Also affects the default behavior of whether command blocks store their output text.  Bool   Whether advancements should be announced in chat.  Bool  : : showdeathmessages Whether death messages are put into chat when a player dies. Also affects whether a message is sent to the pet's owner when the pet dies.  Bool
+
+Drops
+Rules controlling item drops from blocks, entities, and mobs, including drop decay mechanics.
+
+Rule name Description Default value Type Availability in Bedrock Edition : :  Whether blocks should have drops.  Bool These game rules are available under "Advanced" section of the world menus (e.g., World Options and Create New World).  Whether block loot is dropped by all blocks () or randomly () depending on how far the block is from the center of a block explosion (e.g. clicking a bed in dimensions other than the Overworld).  Bool  : :  Whether entities that are not mobs should have drops.  Bool  : :  Whether mobs should drop items and experience orbs.  Bool   Whether block loot is dropped by all blocks () or randomly () depending on how far the block is from the center of a mob explosion (e.g. Creeper explosion).  Bool  :  Whether impact projectiles destroy blocks that are destructible by them, i.e. chorus flowers, pointed dripstone, and decorated pots.  Bool  : :  Whether block loot is dropped by all blocks () or randomly () depending on how far the block is from the center of a TNT explosion.  Bool
+
+Miscellaneous
+A collection of technical or utility rules that do not fit into other specific categories, such as command limits, debug info, and other mechanics.
+
+Rule name Description Default value Type Availability in Bedrock Edition : :  Whether command blocks should be enabled in-game.  Bool   Whether the wither's spawning sound, the ender dragon's death sound and the end portal activation sound are heard by all players regardless of location.  Bool   Controls the maximum number of blocks changed when using , , or .  Int   The maximum number of forks (contexts) that can be created during one tick. Applies to command blocks and functions.  Int  :  The maximum length of a chain of commands that can be executed during one tick from one execution source. Applies to command blocks and functions.  Int   The maximum speed a minecart may reach.  Int
+min:1
+max:1000   Whether the debug screen shows all or reduced information; and whether the effects of  (entity hitboxes) and  (chunk boundaries) are shown.  Bool  : :  Whether TNT explodes after activation.  Bool
+
+Mobs
+Rules that manage mob behavior, such as mob griefing, anger mechanics, and raids.
+
+Rule name Description Default value Type Availability in Bedrock Edition  Makes angered neutral mobs within 65 x 21 x 65 blocks centered on the targeted player stop being angry when the player dies.  Bool   The maximum number of pushable entities a mob or player can push, before taking  entity cramming damage per half-second. Setting to 0 disables the rule. Damage affects Survival-mode or Adventure-mode players, and all mobs but bats. Pushable entities include non-Spectator-mode players, any mob except bats, as well as boats and minecarts.  Int  : :  Whether creepers, zombies, endermen, ghasts, withers, ender dragons, rabbits, sheep, villagers, silverfish, snow golems, ravagers and end crystals should be able to change blocks, and whether mobs can pick up items. When  is disabled, piglins do not pick up gold ingots, but a player can still barter with them by  the item on the mob. Similarly, villagers do not pick up food items but can still breed until they run out of any food already in their inventory. This also affects the capability of zombie-like creatures like zombified piglins and drowned to pathfind to turtle eggs.  Bool   Whether raids are enabled.  Bool   Makes angered neutral mobs attack any nearby player, not just the player that angered them. Works best if  is disabled.  Bool
+
+Player
+Rules directly impacting player mechanics, such as damage sources, keep inventory, and respawning behavior.
+
+Rule name Description Default value Type Availability in Bedrock Edition  Whether the Nether can be entered by using Nether portals.  Bool  : :  Whether the player should take damage when drowning.  Bool   Whether the server should check player speed when the player is wearing elytra. Often helps with jittering due to lag in multiplayer.  Bool   Controls whether thrown ender pearls vanish when the player dies.  Bool  : :  Whether the player should take fall damage.  Bool  : :  Whether the player should take damage in fire, lava, campfires, or on magma blocks.  Bool   Controls the maximum distance in blocks that fire can spread around a player. Set to 0 to disable fire spread. Set to -1 for an unlimited distance.  Int  : :  Whether the player should take damage when inside powder snow.  Bool  : :  Players respawn immediately without showing the death screen.  Bool  : :  Whether the player should keep items and experience in their inventory after death.  Bool These game rules are available under "Cheats" section of the world menus. : :  Whether players can craft only those recipes that they have unlocked.  Bool  : :  Whether the player's locator bar is enabled, indicating the location of players or entities. Can be set to  and  .  Bool
+String  : :  Whether the player can regenerate health naturally if their hunger is full enough (doesn't affect external healing, such as golden apples, the Regeneration effect, etc.).  Bool   Whether the server should check player speed.  Bool   Controls the time that a creative player needs to stand in a nether portal before changing dimensions.  Int   Controls the time that a non-creative player needs to stand in a nether portal before changing dimensions.  Int  : :  What percentage of players in the Overworld must sleep to skip the night. A percentage value of 0 or less allows the night to be skipped by just 1 player, and a percentage value more than 100 prevents players from skipping the night.  Int   Whether players can damage other players.  Bool These game rules are available under "Multiplayer" section of the world menus. : :  The number of blocks outward from the world spawn coordinates that a player spawns in when first joining a server or when dying without a personal spawnpoint. Has no effect on servers where the default game mode is Adventure.  Int   Whether players in Spectator mode can generate chunks.  Bool
+
+Spawning
+Rules that toggle the natural spawning of various mobs and entities.
+
+Rule name Description Default value Type Availability in Bedrock Edition : :  Whether mobs should spawn naturally, or via global spawning logic, such as for cats, phantoms, patrols, wandering traders, zombie sieges, or creaking hearts. Does not affect player-specific and other special spawning attempts, like commands, monster spawners, raids, spawn eggs, or iron golems.  Bool   Whether monsters can spawn naturally.  Bool   Whether patrols can spawn.  Bool  : :  Whether phantoms can spawn in the nighttime.  Bool   Whether wandering traders can spawn.  Bool   Whether wardens can spawn.  Bool   Enable or disable monster spawner blocks.  Bool
+
+World Updates
+Rules related to the world environment, including time progression, weather cycles, and fluid dynamics.
+
+Rule name Description Default value Type Availability in Bedrock Edition : :  Whether the daylight cycle and moon phases progress.  Bool  : :  Whether the weather can change naturally. The  command can still change weather.  Bool   Whether new sources of lava are allowed to form.  Bool   The maximum number of snow layers that can be accumulated on each block.  Int  : :  How often a random tick occurs (such as plant growth, leaf decay, etc.) per chunk section per game tick. 0 and negative values disables random ticks, higher numbers increase random ticks. Setting to a high integer results in high speeds of decay and growth. Numbers over 4096 make plant growth or leaf decay instantaneous.  Int   Whether vines can spread to other blocks. Cave vines, weeping vines, and twisting vines are not affected.  Bool   Whether new sources of water are allowed to form.  Bool
+
+Bedrock Edition exclusive
+Game rules that are specific to Bedrock Edition and do not have direct equivalents in Java Edition.
+
+Rule name Description Default value Type Availability in Bedrock Edition  Whether fire should spread and naturally extinguish.  Bool   The maximum number of commands that can be executed by  at once.  Int   Whether the player needs to collect items to unlock recipes in the recipe book.  Bool   Prevents beds/respawn anchors from exploding in other dimensions.  Bool   Whether the particles of the border block are shown.  Bool   Whether the player's coordinates are displayed on the HUD.  Bool   Whether the world's in-game day count is displayed on the HUD.  Bool   Whether the recipe toasts are displayed.  Bool   Hides the "Can place on" and "Can destroy" block lists from item lore, the "Has Custom Properties" text on items that have dynamic properties, as well as item lock indicators.  Bool
+
+Notes
+
+Additional behavior
+
+This section explains more complex behaviors of certain gamerules.
+
+When , the Bad Omen effect is not removed from a player when entering a village.
+Stops a raid if set to  while a raid is in progress, but the existing raid mobs do not despawn.
+: :
+When , removing items from item frames do not drop them.
+: :
+Does not affect drops not related to a mob's death, such as chicken laying eggs, or sheep dropping wool when sheared.
+Does not affect the dropping of wither roses when mobs are killed by the wither.
+: :
+Affects only natural mob spawning. Mobs from structures, monster spawners, and events still spawn when set to .
+: :
+When , containers still drop their contents, but not themselves.
+Shulker boxes do not drop anything, causing the items in them to be lost.
+When , destroying an armor stand does not drop it nor any armor it had equipped.
+When , item frames still drop themselves and their items.
+When , infested blocks do not spawn silverfish when broken.
+: :
+When , the player still loses air, but does not take damage when the air is depleted.
+: :
+When , the player may still be set on fire, but does not take damage when on fire.
+
+Every neutral mob that can be aggravated remain aggravated even after the offending player dies, with the exception of piglins when a player does not wear golden armor and iron golems when it is created from a village where the player has a reputation of -100 or lower.
+: :
+When , players also retain their experience upon death.
+When , health and hunger are still reset as normal upon death.
+When , all effects are still removed upon death.
+When , items enchanted with Curse of Vanishing do not disappear upon death.
+: :
+When , prevents all mobs from modifying the environment in any way. This includes trampling crops and turtle eggs, picking up items, destroying blocks, or moving blocks. Specifically, it prevents:
+Allays from picking up dropped items.
+Blazes from creating fire or lighting campfires.
+Creepers from destroying blocks when they explode, although they still damage entities.
+Dolphins from picking up dropped items.
+End crystals from destroying blocks when they explode, although they still damage entities.
+Ender dragons from destroying blocks, causing it to just fly through them instead.
+Endermen from picking up or placing blocks.
+Evoker from turning blue sheep red.
+Foxes from picking sweet berries from a sweet berry bush and picking up dropped items.
+Ghast fireballs from exploding blocks and creating fire. They still damage entities.
+Piglins from attempting to barter by picking up dropped items; using the item on them still works.
+Rabbits from eating carrot crops.
+Ravagers from destroying crops and leaves.
+Sheep from turning grass blocks into dirt, but does not prevent the regrowth of wool. They still act as if they are eating the grass and regrow their wool upon doing so, but the grass remains and the grass breaking sound does not play.
+Silverfish from hiding in infested blocks and destroying those blocks when hatching.
+Snow golems from creating snow trails.
+Villagers from farming and picking up items. However, they can still open doors and throw items.
+Withers and their heads from destroying blocks with their explosions. Entities are still damaged, and a wither rose drops as an item.
+Zombies from breaking doors, picking up items, and attacking turtle eggs.
+Prevents cobwebs from spawning when a mob with the Weaving effect dies.
+Has no effect on bees, breezes, frogs, turtles or the player.
+: :
+When set to , at least one player is still required to sleep to skip the night.
+When set to a number greater than , night is not skipped no matter how many players are sleeping.
+: :
+Does not affect:
+Death of coral blocks, coral, and coral fan.
+Hatching of frogspawn and sniffer eggs.
+
+When set to , snow layers do not form at all.
+When set to  or higher, snow forms up to the level of a full block, but no greater than that.
+: :
+When set to , TNT Minecarts cannot be ignited.
+This includes through Activator Rails, Cramming, and destruction while in motion.
+
+Every neutral mob that can be aggravated targets all nearby players whenever they are aggravated.
+Bees attack all nearby players when their beehive is broken, regardless of the setting of this gamerule.
+Bees becoming angry when attacked works as expected.
+
+History
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+Gallery
+Screenshots
+
+References
+
+Navigation
+
+de:Spielregel
+es:Reglas del juego
+fr:Règle de jeu
+ja:ゲームルール
+ko:게임 규칙
+pt:Regra de jogo
+ru:Игровые правила
+uk:Ігрове правило
+zh:游戏规则

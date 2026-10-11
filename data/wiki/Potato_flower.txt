@@ -1,0 +1,45 @@
+TITLE: Potato flower
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Potato_flower
+---
+Potato flowers are decorative flowers that generate naturally in the Potato dimension in 24w14potato.
+
+Obtaining
+Breaking
+A potato flower can be broken instantly with any item or by hand, dropping itself.
+
+A potato flower also breaks if water or lava runs over its location, if a piston extends or pushes a block into its location, or if a block under the plant is moved or destroyed.
+
+Natural generation
+Potato flowers generate naturally in the Potato dimension, in all biomes except the hash biome.
+
+Potato flowers also generate naturally in flower forest and forests.
+
+Generated loot
+Item Structure Container Quantity Chance   House chest 1 22.8%
+
+Usage
+Potato flowers can be planted in a flower pot.
+
+Bees
+Bees engage in a pollinating behavior with potato flowers, increasing the honey level in beehives and bee nests by 1. These flowers can also be used to breed, grow, and lead bees.
+
+Suspicious stew
+A potato flower can be used for crafting a suspicious stew, which gives the Poison effect to the player for 12 seconds after eating it.
+
+Sounds
+
+Data values
+Unlike most other blocks, the name of the block potato flower and potted potato flower does not have the first letter of each noun capitalized.
+
+Issues
+
+Navigation
+
+Category:Joke blocks
+Category:Non-solid blocks
+Category:Natural blocks
+Category:Plants
+
+ja:Potato flower
+zh:马铃薯花

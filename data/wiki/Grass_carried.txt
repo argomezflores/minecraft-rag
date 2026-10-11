@@ -1,0 +1,44 @@
+TITLE: Grass carried
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Grass_carried
+---
+{{DISPLAYTITLE:grass_carried}}
+
+grass_carried was a block which was used for storing the item model for grass blocks.
+
+Obtaining
+grass_carried is only known to be obtainable through the use of inventory editors and other external tools. If placed in a world, the block can be mined instantly with any item, but it does not drop anything regardless of the method used.
+
+Usage
+Appearance
+grass_carried highly resembles the actual grass block. However, there are two key differences between it and normal grass blocks:
+The top texture is a noticeably different color, and in fact matches the side texture much more than normal grass blocks.
+This is due to this block using a pre-tinted texture, whereas the normal grass block uses a grayscale texture with a constant tint.
+While grass blocks use the dirt texture on the bottom, grass_carried uses the side texture on the bottom: 32px
+
+Functional differences from grass blocks
+Despite very closely resembling the grass block visually, grass_carried has notable functional differences from normal grass blocks:
+It can be broken instantly.https://youtu.be/djvCj4tZdNM?t=9m06s
+It does not drop anything when broken.
+It cannot be turned into farmland.
+Blocks which require a dirt-like block below them to exist, such as flowers and sugar cane, cannot be placed on it.
+Placing an opaque block on top on it does not gradually convert it to dirt.
+
+Data values
+ID
+
+History
+
+Issues
+
+References
+
+Navigation
+
+Category:Removed blocks
+
+fr:grass_carried
+ja:Grass carried
+lzh:謬艸
+pt:Grass carried
+zh:Grass_carried

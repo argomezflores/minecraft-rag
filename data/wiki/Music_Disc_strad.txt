@@ -1,0 +1,68 @@
+TITLE: Music Disc strad
+CATEGORY: Items
+URL: https://minecraft.wiki/w/Music_Disc_strad
+---
+"strad" refers to both a song composed by C418, and a music disc that plays the song when inserted in a jukebox. The music disc is obtained from creepers killed by skeletons.
+
+Obtaining
+Mob loot
+When killed by a skeleton, stray, bogged, or parched (or wither skeleton if given a bow using commands), a creeper drops a music disc, which has a  chance to be "strad".
+
+Because TNT ignited by a flaming arrow attributes all resulting kills to the entity that fired the arrow, a skeleton igniting a TNT block due to holding a bow enchanted with Flame, or shooting through lava or fire, also causes any creepers killed in the explosion to drop a disc.
+
+Track description
+
+File:Strad.ogg
+
+"strad" is a tropical-sounding piece with the main melody being played on a , accompanied by a layered mix of strings, woodwinds, and soft synths, and supported by a glitchy electronic tribal percussion beat, ending on some melancholy  chords. Bits and pieces of the melody from "Minecraft" can be heard throughout, sometimes played on bells in the background.
+
+Usage
+Like all music discs,  the "strad" music disc on a jukebox causes the jukebox to play the song.
+
+If a redstone comparator is reading a jukebox playing "strad", it will emit a redstone signal of 9.
+
+Data values
+ID
+:
+
+Soundtrack Title File name Sound events "Strad" strad.ogg music_disc.strad
+
+:
+
+Soundtrack Title File name Sound events "Strad" strad.ogg record.strad
+
+Achievements
+
+Advancements
+
+History
+
+Development
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+Data history
+Java Edition
+
+Bedrock Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:C418
+Category:Minecraft - Volume Beta
+Category:Music discs
+
+fr:Disque strad
+ja:strad
+ko:음반 strad
+pt:Disco Musical strad
+ru:Пластинка «strad»
+zh:音乐唱片strad

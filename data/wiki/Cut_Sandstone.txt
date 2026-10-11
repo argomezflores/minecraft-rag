@@ -1,0 +1,60 @@
+TITLE: Cut Sandstone
+CATEGORY: Blocks
+URL: https://minecraft.wiki/w/Cut_Sandstone
+---
+Cut sandstone is a variant of sandstone, obtained through crafting and stonecutting.
+
+Obtaining
+Breaking
+Cut sandstone can be mined with any pickaxe. If mined without a pickaxe, the block drops nothing.
+
+Natural generation
+Cut sandstone generates in desert villages, desert pyramids, and warm ocean ruins.
+
+Crafting
+
+Crafting recipe: Sandstone, Sandstone, Sandstone, Sandstone arranged in the crafting grid → Cut Sandstone,4.
+
+Stonecutting
+
+Usage
+Unlike sand, cut sandstone is never affected by gravity.
+
+Crafting ingredient
+
+Stonecutting ingredient
+
+Sounds
+
+Data values
+ID
+:
+
+:
+
+Videos
+
+History
+
+Java Edition
+
+Bedrock Edition
+
+Legacy Console Edition
+
+New Nintendo 3DS Edition
+
+Issues
+
+References
+
+Navigation
+
+Category:Manufactured blocks
+Category:Generated structure blocks
+
+fr:Grès taillé
+ko:깎인 사암
+pt:Arenito Lapidado
+uk:Тесаний пісковик
+zh:切制砂岩
