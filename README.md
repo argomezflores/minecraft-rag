@@ -15,11 +15,12 @@ My brothers and I came back to Minecraft after years away. The game had changed 
 
 The moment that started this project: we drank a Bad Omen potion, nothing happened, and none of us knew what it was supposed to do. We didn't want to stop playing to dig through the wiki every time something like that came up. We wanted to ask in Spanish, without leaving the game, and get an answer we could trust.
 
-So now we keep playing the same world, and when a question comes up, we ask the assistant. This is its real answer to that first question:
+So now we keep playing the same world, and when a question comes up, we ask the assistant right from the game chat. This is that first question, asked inside our world:
 
-> **"Tomé una poción de Bad Omen y no pasó nada, ¿qué hace?"**
->
-> Según la wiki, **Bad Omen** no se obtiene de una poción directamente. Se consigue al beber un **Ominous Bottle** que dropea un **Pillager Captain** cuando muere. El efecto dura 100 minutos. Cuando un jugador con Bad Omen **entra a una aldea**, el efecto se convierte en **Raid Omen**, y después de 30 segundos comienza una **raid** […]. Puedes remover el efecto bebiendo leche.
+<p align="center">
+  <img src="docs/img/ingame-bad-omen.gif" alt="In the Minecraft chat, the player types '!rag Tomé una poción de bad omen, por qué no me hace nada?' and the MineRag bot answers in Spanish: Bad Omen does nothing by itself; you have to enter a village, where it turns into Raid Omen and a raid starts after 30 seconds, or get within 15 blocks of a trial spawner to start an ominous trial. Source: Potion." width="900">
+  <br><em>Real recording in our survival world (typing sped up 2×, waiting 1.5×).</em>
+</p>
 
 In short: Bad Omen does nothing until you walk into a village, where it triggers a raid. That explains why nothing happened.
 

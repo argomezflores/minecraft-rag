@@ -2,6 +2,8 @@
 
 Bot en Node.js que se conecta a tu mundo de Minecraft y responde preguntas usando el RAG que corre en local.
 
+![MineRag respondiendo en el chat del juego qué hace la poción de Bad Omen](../docs/img/ingame-bad-omen.gif)
+
 ## Requisitos
 
 - **Node.js 18+** — verifica con `node --version`

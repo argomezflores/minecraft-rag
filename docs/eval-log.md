@@ -427,9 +427,9 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
 4. ~~**Blocklist**~~ ✅ hecho, ver #012.
 5. **Docs desactualizados.** `pipeline.html` y `timeline.html` están en v6 pero no incluyen #011/#012 (ampliación de cobertura y blocklist). `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
-6. **Capturas** (las toma Rogelio). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
+6. ~~**Capturas**~~ ✅ hechas (2026-10-11). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
    - ✅ `docs/img/demo.gif` (4.9 MB, acelerado 1.5×): grabación del chat web respondiendo la poción de resistencia al fuego y el repeater. Ya está enlazado arriba en el README.
-   - `docs/img/ingame-bot.png`: el chat de Minecraft con `!rag <pregunta>` y la respuesta de MineRag.
+   - ✅ `docs/img/ingame-bad-omen.gif` (3.6 MB): MineRag respondiendo la pregunta del Bad Omen en el mundo survival. Está en la sección "Why I built this" del README y en `minecraft_bot/README.md`.
 7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión final (2026-10-11), con un bullet grande en lenguaje simple:
    > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
    > - Built a RAG assistant from scratch over 1,200+ Minecraft Wiki articles (Claude, ChromaDB, cross-encoder re-ranking).
