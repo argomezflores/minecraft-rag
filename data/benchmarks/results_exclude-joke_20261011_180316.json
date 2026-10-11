@@ -1,0 +1,1418 @@
+{
+  "version": "exclude-joke",
+  "timestamp": "20261011_180316",
+  "format": "full",
+  "eval_set": "data/eval/eval_set.json",
+  "summary": {
+    "total_queries": 38,
+    "source_hit_rate": 1.0,
+    "source_hits": 35,
+    "source_hit_rate_top5": 1.0,
+    "answer_hit_avg": 0.914,
+    "false_abstentions": 0,
+    "latency_p50_ms": 6580,
+    "latency_p95_ms": 8239,
+    "errors": 0,
+    "abstain_ok": 3,
+    "abstain_total": 3
+  },
+  "total_queries_in_log": 35,
+  "backfill_count": 10,
+  "log_added_count": 0,
+  "results": [
+    {
+      "question": "¿Cómo hago una poción de velocidad?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Potion of Swiftness",
+      "top_source": "Potion of Swiftness",
+      "top_score": 1.299,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Sugar",
+        "Awkward Potion"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Potion of Swiftness** (Poción de Velocidad), necesitas:\n\n**Receta de brewing**: Sugar + Awkward Potion → Potion of Swiftness\n\nEs decir, añades **Sugar** (azúcar) a una **Awkward Potion** (poción extraña) en el brewing stand. Esta poción otorga el efecto Speed cuando se usa. [1][2]",
+      "rewrites": [
+        "¿Cómo hago una poción de velocidad?",
+        "How do I make a Potion of Swiftness?",
+        "Potion of Swiftness brewing recipe",
+        "How to brew a Potion of Swiftness with a brewing stand",
+        "¿Cómo hago una Potion of Swiftness?"
+      ],
+      "latency_ms": 8611,
+      "n_candidates": 57,
+      "sources_titles": [
+        "Potion of Swiftness",
+        "Potion of Swiftness",
+        "Potion of Swiftness",
+        "Potion of Swiftness",
+        "Potion of Swiftness"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una poción de fuerza?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Potion of Strength",
+      "top_source": "Potion of Strength",
+      "top_score": 1.298,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Blaze Powder",
+        "Awkward Potion"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Potion of Strength** (Poción de Fuerza), necesitas:\n\n**Blaze Powder** + **Awkward Potion** → **Potion of Strength** [1][2]\n\nPrimero debes preparar una Awkward Potion (se hace con Nether Wart + Water Bottle). Luego, añades Blaze Powder en el brewing stand para obtener la poción de fuerza básica.\n\n**Variantes opcionales:**\n- **Extendida** (más duración): Redstone Dust + Potion of Strength [3]\n- **Mejorada** (más potencia): Glowstone Dust + Potion of Strength [4]",
+      "rewrites": [
+        "¿Cómo hago una poción de fuerza?",
+        "How do I make a Potion of Strength?",
+        "Potion of Strength brewing recipe ingredients",
+        "How to brew Potion of Strength crafting guide",
+        "¿Cómo hago una Potion of Strength?"
+      ],
+      "latency_ms": 6318,
+      "n_candidates": 55,
+      "sources_titles": [
+        "Potion of Strength",
+        "Potion of Strength",
+        "Potion of Strength",
+        "Potion of Strength",
+        "Potion of Strength"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una poción de visión nocturna?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Potion of Night Vision",
+      "top_source": "Potion of Night Vision",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Golden Carrot",
+        "Awkward Potion"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Potion of Night Vision** necesitas:\n\n1. **Golden Carrot** (Zanahoria Dorada) + **Awkward Potion** (Poción Extraña) en el brewing stand.\n\nSi quieres extender su duración, añade **Redstone Dust** a la Potion of Night Vision para obtener la versión extendida.\n\nAl consumirla, obtienes el efecto Night Vision y recuperas una glass bottle vacía. [1][2][3]",
+      "rewrites": [
+        "¿Cómo hago una poción de visión nocturna?",
+        "How do I make a Potion of Night Vision?",
+        "Potion of Night Vision brewing recipe ingredients",
+        "How to brew Night Vision potion in a Brewing Stand",
+        "¿Cómo hago una Potion de visión nocturna?"
+      ],
+      "latency_ms": 6127,
+      "n_candidates": 53,
+      "sources_titles": [
+        "Potion of Night Vision",
+        "Potion of Night Vision",
+        "Potion of Night Vision",
+        "Potion of Night Vision",
+        "Potion of Night Vision"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una poción de curación?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Potion of Healing",
+      "top_source": "Potion of Healing",
+      "top_score": 1.298,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Glistering Melon",
+        "Awkward Potion"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Potion of Healing** (Poción de Curación), necesitas:\n\n**Receta de preparación:**\n- **Glistering Melon Slice** (Rodaja de Sandía Reluciente) + **Awkward Potion** (Poción Extraña) → Potion of Healing\n\nSi quieres la versión mejorada (Instant Health II), añade **Glowstone Dust** (Polvo de Piedra Luminosa) a la Potion of Healing ya preparada.\n\n[1] [2] [3]",
+      "rewrites": [
+        "¿Cómo hago una poción de curación?",
+        "How do I make a Potion of Healing?",
+        "Potion of Healing brewing recipe",
+        "How to brew Potion of Healing ingredients and steps",
+        "¿Cómo hago una Potion of Healing?"
+      ],
+      "latency_ms": 5907,
+      "n_candidates": 55,
+      "sources_titles": [
+        "Potion of Healing",
+        "Potion of Healing",
+        "Potion of Healing",
+        "Potion of Healing",
+        "Potion of Healing"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una poción de debilidad?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Potion of Weakness",
+      "top_source": "Potion of Weakness",
+      "top_score": 1.299,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Fermented Spider Eye"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Potion of Weakness** (Poción de Debilidad), tienes dos métodos principales:\n\n1. **Fermented Spider Eye + Water Bottle** → Potion of Weakness\n2. **Fermented Spider Eye + Potion of Strength/Awkward Potion/Mundane Potion/Thick Potion** → Potion of Weakness\n\nLa forma más simple es usar Fermented Spider Eye directamente con una Water Bottle en el Brewing Stand. [1][2]",
+      "rewrites": [
+        "¿Cómo hago una poción de debilidad?",
+        "How do I make a Potion of Weakness?",
+        "Potion of Weakness brewing recipe",
+        "How to brew Potion of Weakness ingredients and steps",
+        "¿Cómo hago una Potion of Weakness?"
+      ],
+      "latency_ms": 5335,
+      "n_candidates": 40,
+      "sources_titles": [
+        "Potion of Weakness",
+        "Potion of Weakness",
+        "Potion of Weakness",
+        "Potion of Weakness",
+        "Potion of Weakness"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una Awkward Potion?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Awkward Potion",
+      "top_source": "Awkward Potion",
+      "top_score": 1.298,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Nether Wart",
+        "Water Bottle"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Awkward Potion** necesitas:\n\n**Receta de preparación (brewing):**\n- **Nether Wart** + **Water Bottle** → **Awkward Potion**\n\nLa Awkward Potion no tiene efectos al beberla, pero es la base necesaria para preparar la mayoría de las demás pociones en el juego [1][3].",
+      "rewrites": [
+        "¿Cómo hago una Awkward Potion?",
+        "How do I make an Awkward Potion?",
+        "Awkward Potion brewing recipe",
+        "Awkward Potion base ingredient water bottle"
+      ],
+      "latency_ms": 4506,
+      "n_candidates": 43,
+      "sources_titles": [
+        "Awkward Potion",
+        "Water Bottle",
+        "Awkward Potion",
+        "Awkward Potion",
+        "Awkward Potion"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una poción arrojadiza (splash)?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Splash Potion",
+      "top_source": "Splash Potion",
+      "top_score": 1.296,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Gunpowder"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Splash Potion** (poción arrojadiza), necesitas añadir **Gunpowder** (pólvora) a cualquier poción normal en un soporte de elaboración (Brewing Stand).\n\n**Receta de elaboración:**  \nGunpowder + Poción correspondiente → Splash Potion correspondiente\n\nEsto funciona con todas las pociones elaborables, incluyendo las pociones base sin efectos. [1][2]\n\nTambién puedes obtener una Splash Potion of Weakness naturalmente en el sótano de un iglú, o conseguir Splash Potion of Fire Resistance mediante trueque con Piglins (1.74% de probabilidad al darles un lingote de oro). [1][3]",
+      "rewrites": [
+        "¿Cómo hago una poción arrojadiza (splash)?",
+        "How do I make a Splash Potion?",
+        "Splash Potion crafting recipe",
+        "How to create throwable Splash Potions from regular potions",
+        "¿Cómo hago una Potion arrojadiza (splash)?"
+      ],
+      "latency_ms": 7755,
+      "n_candidates": 59,
+      "sources_titles": [
+        "Splash Potion",
+        "Splash Potion",
+        "Splash Potion",
+        "Splash Potion",
+        "Splash Potion"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago que una poción dure más tiempo?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": [
+        "Potion",
+        "Brewing",
+        "Redstone Dust"
+      ],
+      "top_source": "Potion",
+      "top_score": 1.147,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Redstone"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer que una poción dure más tiempo, debes **extenderla** (extending). Según la wiki, extender una poción generalmente hace que dure 8/3 veces más que su versión base. Por ejemplo, una duración de 3 minutos se convierte en 8 minutos.\n\n**Importante:** Las modificaciones de mejora (enhancement, con glowstone) y extensión son mutuamente excluyentes - no puedes tener ambas en la misma poción.\n\nNota: El contexto no especifica qué ingrediente exacto se usa para extender (aunque típicamente es redstone dust [4]), pero confirma el mechanic de extensión.\n\n[1][2]",
+      "rewrites": [
+        "¿Cómo hago que una poción dure más tiempo?",
+        "How do I make a potion last longer?",
+        "potion duration extend time",
+        "How to increase potion effect duration brewing",
+        "¿Cómo hago que una Potion dure más tiempo?"
+      ],
+      "latency_ms": 7486,
+      "n_candidates": 70,
+      "sources_titles": [
+        "Potion",
+        "Potion",
+        "Brewing",
+        "Healing",
+        "Potion"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Para qué sirve la poción de debilidad?",
+      "format": "full",
+      "tags": [
+        "potions"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Potion of Weakness",
+      "top_source": "Potion of Weakness",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Zombie Villager",
+        "Golden Apple"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 0.5,
+      "answer": "La **Potion of Weakness** (Poción de Debilidad) otorga el efecto de Weakness al usarla, que **reduce el daño cuerpo a cuerpo**: disminuye un 20% el daño y luego resta puntos adicionales. Dura 1:30 minutos (versión regular) o 4:00 minutos (versión extendida).\n\n**Usos principales:**\n- **Curar zombie villagers** (aldeanos zombificados) [3]\n- **Crear Arrow of Weakness** (Flechas de Debilidad) usando Lingering Potion of Weakness [3]\n\nLas brujas también pueden lanzar Splash Potion of Weakness a jugadores cercanos con poca vida [4].\n\n[1][3][4]",
+      "rewrites": [
+        "¿Para qué sirve la poción de debilidad?",
+        "What is the Potion of Weakness used for?",
+        "Potion of Weakness effects purpose",
+        "Potion of Weakness mechanics and applications",
+        "¿Para qué sirve la Potion of Weakness?"
+      ],
+      "latency_ms": 7194,
+      "n_candidates": 38,
+      "sources_titles": [
+        "Potion of Weakness",
+        "Potion of Weakness",
+        "Potion of Weakness",
+        "Potion of Weakness",
+        "Potion of Weakness"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué hace un repetidor de redstone?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Redstone Repeater",
+      "top_source": "Redstone Repeater",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "tick",
+        "señal"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 0.5,
+      "answer": "Un **Redstone Repeater** (repetidor de redstone) tiene cuatro funciones principales:\n\n1. **Repetir señales**: Restaura una señal de redstone a máxima potencia (nivel 15), ya que las señales pierden 1 nivel por cada bloque de polvo que atraviesan.\n2. **Añadir retardo**: Tiene 4 configuraciones de delay (retraso) ajustables.\n3. **Direccionalidad**: Solo transmite señales desde su parte trasera hacia el frente, evitando que vuelvan atrás.\n4. **Bloqueo**: Puede ser \"locked\" (bloqueado) por otro repeater o comparator que alimente su lateral, manteniendo su estado actual sin importar la entrada.\n\nSe coloca sobre bloques sólidos, slabs invertidos, escaleras, hornos, vallas y muros de piedra. [1][3][4][5]",
+      "rewrites": [
+        "¿Qué hace un repetidor de redstone?",
+        "What does a Redstone Repeater do?",
+        "Redstone Repeater function mechanics",
+        "Redstone Repeater delay signal behavior",
+        "¿Qué hace un Redstone Repeater?"
+      ],
+      "latency_ms": 8575,
+      "n_candidates": 51,
+      "sources_titles": [
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Para qué sirve el comparador de redstone?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Redstone Comparator",
+      "top_source": "Redstone Comparator",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "señal",
+        "rest"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "El **Redstone Comparator** tiene cuatro funciones principales:\n\n1. **Mantener** la fuerza de señal de redstone\n2. **Comparar** la fuerza entre dos señales\n3. **Restar** una señal de otra\n4. **Medir** ciertos bloques, principalmente el nivel de llenado de contenedores (como cofres, hornos, etc.)\n\nTiene dos modos que se alternan haciendo clic: modo comparación (antorcha frontal apagada) y modo sustracción (antorcha frontal encendida). Recibe señales por la parte trasera y los lados, y emite por el frente. [1][2][3]",
+      "rewrites": [
+        "¿Para qué sirve el comparador de redstone?",
+        "What does the Redstone Comparator do?",
+        "Redstone Comparator function purpose",
+        "Redstone Comparator mechanics and applications",
+        "¿Para qué sirve el Redstone Comparator?"
+      ],
+      "latency_ms": 7182,
+      "n_candidates": 45,
+      "sources_titles": [
+        "Redstone Comparator",
+        "Redstone Comparator",
+        "Redstone Comparator",
+        "Redstone Comparator",
+        "Redstone Comparator"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué hace un observer?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Observer",
+      "top_source": "Observer",
+      "top_score": 1.198,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "detect"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Un **Observer** es un bloque que emite un pulso rápido de redstone desde su lado de salida cada vez que su \"cara\" (la que tiene los \"ojos\") detecta que el bloque, fluido o aire directamente frente a él ha cambiado.\n\nDetecta cambios de estado en bloques (como cultivos creciendo), colocación o rotura de bloques. Cuando detecta algo, emite un pulso de redstone de fuerza 15 durante 2 game ticks. El pulso puede alimentar redstone dust, comparadores, repetidores o cualquier mecanismo en su lado de salida (marcado con un punto rojo). [1][2]\n\nSe coloca direccionalmente: la cara observadora siempre mira hacia el bloque que vigilas, y el lado de salida (punto rojo) emite la señal. [3]",
+      "rewrites": [
+        "¿Qué hace un observer?",
+        "What does an Observer do?",
+        "Observer function minecraft",
+        "Observer block detection and redstone signal mechanics"
+      ],
+      "latency_ms": 7319,
+      "n_candidates": 48,
+      "sources_titles": [
+        "Observer",
+        "Observer",
+        "Observer",
+        "Observer",
+        "Redstone circuits"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué diferencia hay entre un dispensador y un soltador?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": [
+        "Dispenser",
+        "Dropper"
+      ],
+      "top_source": "Dispenser",
+      "top_score": 1.223,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Dispenser",
+        "Dropper"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "**Diferencias entre Dispenser y Dropper:**\n\n1. **Función principal**: El **Dispenser** puede disparar proyectiles, usar herramientas (como Flint and Steel, Shears), colocar ciertos bloques/fluidos, y equipar armaduras en entidades. El **Dropper** simplemente expulsa todos los items como si un jugador los tirara, sin funciones especiales.\n\n2. **Transferencia de items**: El **Dropper** puede transferir items a otros contenedores (cofres, barrels, otros droppers). El **Dispenser** NO puede hacer esto.\n\n3. **Sonido**: El Dropper hace un click cuando está vacío o expulsa items al aire, pero es silencioso al transferir exitosamente a contenedores.\n\nEn resumen: Dispenser = acciones especiales con items; Dropper = solo expulsar/transferir items. [1][3][4][5]",
+      "rewrites": [
+        "¿Qué diferencia hay entre un dispensador y un soltador?",
+        "What is the difference between a Dispenser and a Dropper?",
+        "Dispenser vs Dropper comparison mechanics",
+        "Dispenser and Dropper functionality differences",
+        "¿Qué diferencia hay entre un Dispenser y un soltador?"
+      ],
+      "latency_ms": 8239,
+      "n_candidates": 52,
+      "sources_titles": [
+        "Dispenser",
+        "Dispenser",
+        "Dispenser",
+        "Dropper",
+        "Dropper"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Para qué sirve una tolva?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Hopper",
+      "top_source": "Hopper",
+      "top_score": 1.15,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "transf"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Una **Hopper** (tolva) es un bloque de almacenamiento de baja capacidad que sirve para:\n\n1. **Recolectar items** que caen directamente sobre ella (item entities).\n2. **Transferir items** hacia dentro y fuera de otros contenedores (cofres, hornos, etc.).\n3. Tiene **5 espacios de inventario** y puede apuntar hacia abajo o hacia los lados.\n4. Se puede **bloquear con redstone** para detener el movimiento de items.\n\nEjemplos de uso: depositar items automáticamente en un horno (por arriba va a ingredientes, por el lado a combustible), extraer items procesados desde abajo, o crear \"tuberías\" conectando varias tolvas. [1][4][5]",
+      "rewrites": [
+        "¿Para qué sirve una tolva?",
+        "What is a Hopper used for?",
+        "Hopper function purpose uses",
+        "Hopper item transport automation mechanics",
+        "¿Para qué sirve una Hopper?"
+      ],
+      "latency_ms": 7820,
+      "n_candidates": 60,
+      "sources_titles": [
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué hace un sensor de luz solar?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Daylight Detector",
+      "top_source": "Daylight Detector",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "luz"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "El **Daylight Detector** (Sensor de Luz Solar) es un bloque que emite una señal de redstone basada en su exposición a la luz del cielo. En el Overworld, la fuerza de la señal depende de la hora del día, el clima y su exposición al cielo (rango 0-15). \n\nPuede **invertirse** haciendo clic derecho sobre él, lo que invierte su funcionamiento: en lugar de dar señal máxima de día, emite señal fuerte constante que se debilita con la luz solar. Activa mecanismos de redstone adyacentes como pistones o lámparas.\n\n[1][2][3]",
+      "rewrites": [
+        "¿Qué hace un sensor de luz solar?",
+        "What does a Daylight Detector do?",
+        "Daylight Detector function mechanics",
+        "How Daylight Detector responds to sunlight and darkness"
+      ],
+      "latency_ms": 7419,
+      "n_candidates": 38,
+      "sources_titles": [
+        "Daylight Detector",
+        "Daylight Detector",
+        "Daylight Detector",
+        "Daylight Detector",
+        "Daylight Detector"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo funciona un pistón pegajoso?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Sticky Piston",
+      "top_source": "Sticky Piston",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "retra"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Un **Sticky Piston** (pistón pegajoso) funciona igual que un pistón normal, pero con una diferencia clave: **cuando se despotencia, jala bloques hacia sí**. Al extenderse o retraerse, tiene un retraso fijo de 1 redstone tick (2 game ticks).\n\nAl retraerse, jala el bloque pegado a su cabeza y cualquier bloque conectado mediante Slime Blocks o Honey Blocks. Sin embargo, **no puede jalar bloques en caída libre** (falling blocks).\n\nSi pierde energía antes de terminar la extensión, ejecuta \"block dropping\": el primer bloque llega a su posición final instantáneamente y los demás continúan moviéndose. [1][3]\n\n**Receta**: Slimeball + Piston = Sticky Piston [2][5]",
+      "rewrites": [
+        "¿Cómo funciona un pistón pegajoso?",
+        "How does a Sticky Piston work?",
+        "Sticky Piston mechanics function",
+        "Sticky Piston pulling blocks behavior and movement",
+        "¿Cómo funciona un Sticky Piston?"
+      ],
+      "latency_ms": 7713,
+      "n_candidates": 40,
+      "sources_titles": [
+        "Sticky Piston",
+        "Sticky Piston",
+        "Sticky Piston",
+        "Sticky Piston",
+        "Sticky Piston"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué hace una antorcha de redstone?",
+      "format": "full",
+      "tags": [
+        "redstone-function"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Redstone Torch",
+      "top_source": "Redstone Torch",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "apag"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Una **Redstone Torch** (antorcha de redstone) es un bloque que produce una señal de redstone de fuerza máxima en todos los lados adyacentes, excepto en el bloque al que está adherida. Puede alimentar el bloque directamente arriba de ella. \n\n**Inversión de señal**: Se apaga cuando el bloque al que está unida recibe energía, y se enciende al dejar de recibirla (invierte señales: nivel 0 → 15, niveles 1-15 → 0).\n\n**Luz**: Emite nivel de luz 7.\n\n**Burn-out**: Si se fuerza a cambiar de estado más de 8 veces en 60 ticks (3 segundos), produce humo y se desactiva temporalmente.\n\n[1][2][3][5]",
+      "rewrites": [
+        "¿Qué hace una antorcha de redstone?",
+        "What does a Redstone Torch do?",
+        "Redstone Torch function mechanics",
+        "How does a Redstone Torch work as a redstone component?",
+        "¿Qué hace una Redstone Torch?"
+      ],
+      "latency_ms": 7299,
+      "n_candidates": 53,
+      "sources_titles": [
+        "Redstone Torch",
+        "Redstone Torch",
+        "Redstone Torch",
+        "Redstone Torch",
+        "Redstone Torch"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo crafteo un repetidor de redstone?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Redstone Repeater",
+      "top_source": "Redstone Repeater",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Redstone Torch",
+        "Stone"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Redstone Repeater**, necesitas:\n- 2 **Redstone Torch** (antorchas de redstone)\n- 1 **Redstone Dust** (polvo de redstone)\n- 3 **Stone** (piedra)\n\nColócalos en la mesa de crafteo: las antorchas en las esquinas inferiores izquierda y derecha, el polvo de redstone en el centro, y las tres piedras en la fila inferior. Esto te dará 1 Redstone Repeater.\n\n[1][2]",
+      "rewrites": [
+        "¿Cómo crafteo un repetidor de redstone?",
+        "How do I craft a Redstone Repeater?",
+        "Redstone Repeater crafting recipe",
+        "How to make a Redstone Repeater for redstone circuits",
+        "¿Cómo crafteo un Redstone Repeater?"
+      ],
+      "latency_ms": 6266,
+      "n_candidates": 51,
+      "sources_titles": [
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater",
+        "Redstone Repeater"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago un pistón?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Piston",
+      "top_source": "Piston",
+      "top_score": 1.148,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Cobblestone",
+        "Iron Ingot"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Piston** necesitas:\n- 3 tablas de cualquier tipo (Any Planks) en la fila superior\n- 4 Cobblestone en los laterales y esquinas inferiores\n- 1 Iron Ingot en el centro\n- 1 Redstone Dust en el centro inferior\n\nEsto te dará 1 pistón. Si quieres un **Sticky Piston**, combina 1 Slimeball + 1 Piston. [1][3][4]",
+      "rewrites": [
+        "¿Cómo hago un pistón?",
+        "How do I make a Piston?",
+        "Piston crafting recipe",
+        "How to craft and place a Piston",
+        "¿Cómo hago un Piston?"
+      ],
+      "latency_ms": 6144,
+      "n_candidates": 45,
+      "sources_titles": [
+        "Piston",
+        "Potato Planks",
+        "Piston",
+        "Sticky Piston",
+        "Piston"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo crafteo un observer?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Observer",
+      "top_source": "Observer",
+      "top_score": 1.198,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Cobblestone",
+        "Quartz"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Observer** necesitas colocar en la mesa de crafteo:\n\n- **6 Cobblestone** (piedra normal)\n- **2 Redstone Dust** (polvo de redstone)\n- **1 Nether Quartz** (cuarzo del Nether)\n\nDistribución en la cuadrícula 3x3:\n- Fila superior: Cobblestone, Cobblestone, Cobblestone\n- Fila media: Redstone Dust, Redstone Dust, Nether Quartz\n- Fila inferior: Cobblestone, Cobblestone, Cobblestone\n\nEsto te da 1 Observer. [1][2]",
+      "rewrites": [
+        "¿Cómo crafteo un observer?",
+        "How do I craft an Observer?",
+        "Observer crafting recipe",
+        "How to make an Observer block"
+      ],
+      "latency_ms": 5921,
+      "n_candidates": 59,
+      "sources_titles": [
+        "Observer",
+        "Observer",
+        "Observer",
+        "Redstone circuits/Transmission",
+        "Observer"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago un comparador de redstone?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Redstone Comparator",
+      "top_source": "Redstone Comparator",
+      "top_score": 1.299,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Quartz",
+        "Redstone Torch"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Redstone Comparator** necesitas los siguientes materiales en la mesa de crafteo:\n\n- 3 **Redstone Torch** (antorchas de redstone)\n- 1 **Nether Quartz** (cuarzo del Nether)\n- 3 **Stone** (piedra)\n\nSe colocan en la cuadrícula formando el patrón específico que aparece en la receta de crafteo. El resultado es 1 Redstone Comparator. [1]\n\nTambién puedes obtenerlo en **ancient cities** (ciudades antiguas), donde aparecen entre 2-9 comparadores en el laboratorio de redstone. [2]",
+      "rewrites": [
+        "¿Cómo hago un comparador de redstone?",
+        "How do I make a Redstone Comparator?",
+        "Redstone Comparator crafting recipe",
+        "How to craft a Redstone Comparator for signal comparison",
+        "¿Cómo hago un Redstone Comparator?"
+      ],
+      "latency_ms": 6751,
+      "n_candidates": 59,
+      "sources_titles": [
+        "Redstone Comparator",
+        "Redstone Comparator",
+        "Redstone Comparator",
+        "Redstone Comparator",
+        "Redstone Comparator"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una tolva?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Hopper",
+      "top_source": "Hopper",
+      "top_score": 1.149,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Iron Ingot",
+        "Chest"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Hopper** (tolva) necesitas:\n\n- **5 Iron Ingots** (lingotes de hierro)\n- **1 Chest** (cofre)\n\nLos colocas en la mesa de crafteo con los lingotes formando una \"V\" y el cofre en el centro. Esto te dará 1 Hopper.\n\nAlternativamente, las tolvas se generan naturalmente sobre barriles en las trial chambers. [1][2][3]",
+      "rewrites": [
+        "¿Cómo hago una tolva?",
+        "How do I make a Hopper?",
+        "Hopper crafting recipe",
+        "How to craft a Hopper",
+        "¿Cómo hago una Hopper?"
+      ],
+      "latency_ms": 6209,
+      "n_candidates": 65,
+      "sources_titles": [
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper",
+        "Hopper"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo crafteo un dispensador?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Dispenser",
+      "top_source": "Dispenser",
+      "top_score": 1.224,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Bow",
+        "Cobblestone"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Dispenser** necesitas colocar en la mesa de crafteo (3×3):\n\n- **7 Cobblestone** (piedra): esquinas y laterales\n- **1 Bow** (arco): centro\n- **1 Redstone Dust** (polvo de redstone): abajo centro\n\nResultado: 1 Dispenser [1][3]",
+      "rewrites": [
+        "¿Cómo crafteo un dispensador?",
+        "How do I craft a Dispenser?",
+        "Dispenser crafting recipe",
+        "How to make a Dispenser",
+        "¿Cómo crafteo un Dispenser?"
+      ],
+      "latency_ms": 5668,
+      "n_candidates": 67,
+      "sources_titles": [
+        "Dispenser",
+        "Dispenser",
+        "Dispenser",
+        "Dispenser",
+        "Dispenser"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una lámpara de redstone?",
+      "format": "full",
+      "tags": [
+        "redstone-crafting",
+        "coverage"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Redstone Lamp",
+      "top_source": "Redstone Lamp",
+      "top_score": 1.299,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Glowstone",
+        "Redstone Dust"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Redstone Lamp**, necesitas colocar en la mesa de crafteo:\n\n- **1 Glowstone** (en el centro)\n- **4 Redstone Dust** (alrededor del Glowstone, en las posiciones superior, inferior, izquierda y derecha)\n\nEsto te dará 1 Redstone Lamp. También puedes encontrarlas generadas naturalmente en **ancient cities** [1][2].",
+      "rewrites": [
+        "¿Cómo hago una lámpara de redstone?",
+        "How do I make a Redstone Lamp?",
+        "Redstone Lamp crafting recipe",
+        "How to craft and activate a Redstone Lamp with Redstone"
+      ],
+      "latency_ms": 5887,
+      "n_candidates": 45,
+      "sources_titles": [
+        "Redstone Lamp",
+        "Redstone Lamp",
+        "Redstone Lamp",
+        "Redstone Lamp",
+        "Redstone Lamp"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una mesa de crafteo?",
+      "format": "full",
+      "tags": [
+        "crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Crafting Table",
+      "top_source": "Crafting Table",
+      "top_score": 1.299,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Planks"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer una **Crafting Table** (Mesa de Crafteo), necesitas colocar **4 tablones de madera (Any Planks)** en cualquier configuración de 2×2 en tu cuadrícula de crafteo del inventario. Puedes usar cualquier tipo de madera. [1][2][3]\n\nLa receta es simple: los 4 tablones se organizan en la cuadrícula básica (2×2) y obtienes 1 Crafting Table.",
+      "rewrites": [
+        "¿Cómo hago una mesa de crafteo?",
+        "How do I craft a Crafting Table?",
+        "Crafting Table recipe craft",
+        "How to make a Crafting Table for crafting",
+        "¿Cómo hago una Crafting Table?"
+      ],
+      "latency_ms": 5739,
+      "n_candidates": 52,
+      "sources_titles": [
+        "Crafting Table",
+        "Crafting Table",
+        "Crafting Table",
+        "Crafting Table",
+        "Crafting Table"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago un horno?",
+      "format": "full",
+      "tags": [
+        "crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Furnace",
+      "top_source": "Furnace",
+      "top_score": 1.174,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Cobblestone"
+      ],
+      "answer_hits": 0,
+      "answer_hit_ratio": 0.0,
+      "answer": "Para hacer un **Furnace** (horno), necesitas 8 bloques de cualquier tipo de piedra (stone-tier blocks) colocados en la cuadrícula de crafteo dejando el centro vacío. Esto te dará 1 horno.\n\nTambién puedes encontrar hornos generados naturalmente en aldeas (plains, desert, snowy, taiga), ancient cities, trail ruins e igloos. Se pueden recoger con cualquier pico; sin pico, no dropean. [1] [3]",
+      "rewrites": [
+        "¿Cómo hago un horno?",
+        "How do I make a Furnace?",
+        "Furnace crafting recipe",
+        "How to craft a Furnace for smelting",
+        "¿Cómo hago un Furnace?"
+      ],
+      "latency_ms": 6959,
+      "n_candidates": 67,
+      "sources_titles": [
+        "Furnace",
+        "Furnace",
+        "Furnace",
+        "Furnace",
+        "Blast Furnace"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago un soporte para pociones?",
+      "format": "full",
+      "tags": [
+        "crafting"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Brewing Stand",
+      "top_source": "Brewing Stand",
+      "top_score": 1.259,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Blaze Rod",
+        "Cobblestone"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para craftear un **Brewing Stand** (soporte para pociones) necesitas:\n\n- 1 **Blaze Rod** (vara de blaze)\n- 3 bloques de piedra de nivel \"stone-tier\" (por ejemplo, Cobblestone, Blackstone, etc.)\n\nSe colocan en la mesa de crafteo: la Blaze Rod arriba en el centro, y los 3 bloques de piedra en la fila inferior.\n\nUna vez colocado, necesitarás **Blaze Powder** como combustible para usarlo (cada unidad permite 20 operaciones de preparación). [2][3]",
+      "rewrites": [
+        "¿Cómo hago un soporte para pociones?",
+        "How do I make a Potion Stand?",
+        "Potion Stand crafting recipe",
+        "How to craft and use a Potion Stand",
+        "¿Cómo hago un Brewing Stand?"
+      ],
+      "latency_ms": 7399,
+      "n_candidates": 64,
+      "sources_titles": [
+        "Brewing Stand",
+        "Brewing Stand",
+        "Brewing Stand",
+        "Brewing",
+        "Brewing"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago un pastel?",
+      "format": "full",
+      "tags": [
+        "crafting",
+        "blocklist"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Cake",
+      "top_source": "Cake",
+      "top_score": 0.998,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Milk",
+        "Sugar",
+        "Wheat"
+      ],
+      "answer_hits": 3,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer un **Cake** (pastel) necesitas colocar en la mesa de crafteo:\n\n- **3 Milk Buckets** (cubos de leche) en la fila superior\n- **1 Sugar, 1 Egg (huevo), 1 Sugar** en la fila del medio\n- **3 Wheat** (trigo) en la fila inferior\n\nEsto te dará 1 pastel. Recuerda que una vez colocado en el suelo, no podrás recuperarlo ni siquiera con Silk Touch. [1][2][3]",
+      "rewrites": [
+        "¿Cómo hago un pastel?",
+        "How do I make a Cake?",
+        "Cake crafting recipe",
+        "How to craft and bake a Cake"
+      ],
+      "latency_ms": 6563,
+      "n_candidates": 58,
+      "sources_titles": [
+        "Cake",
+        "Cake",
+        "Cake",
+        "Cake",
+        "Cake"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago un estandarte?",
+      "format": "full",
+      "tags": [
+        "crafting",
+        "blocklist"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Banner",
+      "top_source": "Banner",
+      "top_score": 1.149,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Wool",
+        "Stick"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para hacer un **Banner** (estandarte), necesitas:\n- **6 bloques de lana del mismo color** (Matching Wool)\n- **1 palo** (Stick)\n\nColócalos en la mesa de crafteo con la lana ocupando las 6 casillas superiores (2 filas de 3) y el palo en el centro de la fila inferior, formando un patrón similar a un cartel. Obtendrás un estandarte del color de la lana usada.\n\nPuedes personalizarlo después en un **Loom** (telar) con tintes y patrones, agregando hasta 6 capas de diseños. [1][2]",
+      "rewrites": [
+        "¿Cómo hago un estandarte?",
+        "How do I make a Banner?",
+        "Banner crafting recipe",
+        "How to craft and customize Banners"
+      ],
+      "latency_ms": 7056,
+      "n_candidates": 55,
+      "sources_titles": [
+        "Banner",
+        "Banner",
+        "Banner",
+        "Banner",
+        "Banner"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo derroto al Ender Dragon?",
+      "format": "full",
+      "tags": [
+        "mobs",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Ender Dragon",
+      "top_source": "Ender Dragon",
+      "top_score": 1.3,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "End Crystal"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para derrotar al **Ender Dragon**, según la wiki:\n\n1. **Destruye los End Crystals**: El dragón se cura con cristales que están en pilares de obsidiana (conectados por un rayo blanco). Destruir un cristal activo causa daño al dragón [3].\n\n2. **Atácalo directamente**: El dragón solo recibe daño de explosiones y ataques de jugadores. Es inmune a fuego, caída, ahogamiento, veneno y el vacío [3].\n\n3. **Evita sus ataques**: Carga contra ti y lanza bolas de fuego que crean nubes dañinas [1].\n\nAl derrotarlo, se activa el portal de salida al Overworld y genera un End Gateway para acceder a las islas exteriores del End [1].\n\n**Fuentes:** [1], [3]",
+      "rewrites": [
+        "¿Cómo derroto al Ender Dragon?",
+        "How do I defeat the Ender Dragon?",
+        "Ender Dragon defeat strategy tips",
+        "Ender Dragon boss fight mechanics and tactics"
+      ],
+      "latency_ms": 7697,
+      "n_candidates": 33,
+      "sources_titles": [
+        "Ender Dragon",
+        "Ender Dragon",
+        "Ender Dragon",
+        "Ender Dragon",
+        "Ender Dragon"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué hace un creeper?",
+      "format": "full",
+      "tags": [
+        "mobs",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Creeper",
+      "top_source": "Creeper",
+      "top_score": 1.175,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "explo"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "Un **Creeper** es un mob hostil común que se acerca silenciosamente al jugador. Cuando está a 3 bloques de distancia, se detiene, sisea, parpadea y explota después de 1.5 segundos (30 ticks), destruyendo bloques cercanos y causando daño masivo al jugador. La explosión puede bloquearse completamente con un escudo o bloques.\n\nSi un Creeper es alcanzado por un rayo, se convierte en **Charged Creeper**, amplificando su poder de explosión y permitiendo obtener cabezas de mobs (piglins, zombies, skeletons, otros creepers) al matarlos. [1][2]",
+      "rewrites": [
+        "¿Qué hace un creeper?",
+        "What does a Creeper do?",
+        "Creeper behavior mechanics",
+        "How does a Creeper attack and explode?"
+      ],
+      "latency_ms": 6222,
+      "n_candidates": 33,
+      "sources_titles": [
+        "Creeper",
+        "Creeper",
+        "Creeper",
+        "Creeper",
+        "Creeper"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo invoco al Wither?",
+      "format": "full",
+      "tags": [
+        "mobs",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Wither",
+      "top_source": "Wither",
+      "top_score": 1.123,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Wither Skeleton Skull",
+        "Soul Sand"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "Para invocar al Wither, debes construir una estructura en forma de T usando 4 bloques de Soul Sand o Soul Soil como base, y colocar 3 Wither Skeleton Skulls encima de los tres bloques superiores. El último bloque que coloques DEBE ser una de las calaveras (puedes hacerlo manualmente o con un dispenser). Además, necesitas bloques de aire a los lados del bloque base de Soul Sand/Soul Soil. [2]",
+      "rewrites": [
+        "¿Cómo invoco al Wither?",
+        "How do I summon the Wither?",
+        "Wither summoning spawn requirements",
+        "How to spawn the Wither boss"
+      ],
+      "latency_ms": 5230,
+      "n_candidates": 50,
+      "sources_titles": [
+        "Wither",
+        "Wither",
+        "Wither",
+        "Wither",
+        "Wither"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué encuentro en una fortaleza del Nether?",
+      "format": "full",
+      "tags": [
+        "structures",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": "Nether Fortress",
+      "top_source": "Nether Fortress",
+      "top_score": 1.299,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Blaze",
+        "Nether Wart"
+      ],
+      "answer_hits": 2,
+      "answer_hit_ratio": 1.0,
+      "answer": "En una **Nether Fortress** (Fortaleza del Nether) encuentras:\n\n**Estructuras:** Puentes, corredores, torres y cruces de cuatro caminos. Algunas secciones tienen escaleras de bloques completos y pozos de lava [2][3].\n\n**Mobs exclusivos:** **Wither Skeletons** y **Blazes** (solo aparecen aquí). También spawnan **Zombified Piglins**, **Skeletons** y **Magma Cubes** [1][5].\n\n**Spawners:** Plataformas con **Blaze spawners** (hasta 2 por fortaleza) [3][4].\n\n**Recursos:** **Nether Wart** (verrugas del Nether) creciendo en algunas escaleras [1][3].\n\n[1][2][3][4][5]",
+      "rewrites": [
+        "¿Qué encuentro en una fortaleza del Nether?",
+        "What can I find in a Nether Fortress?",
+        "Nether Fortress loot mobs structure contents",
+        "What mobs and items spawn in Nether Fortresses"
+      ],
+      "latency_ms": 7790,
+      "n_candidates": 52,
+      "sources_titles": [
+        "Nether Fortress",
+        "Nether Fortress",
+        "Nether Fortress",
+        "Nether Fortress",
+        "Nether Fortress"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo llego al End?",
+      "format": "full",
+      "tags": [
+        "dimensions",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": [
+        "The End",
+        "End Portal",
+        "Stronghold",
+        "Eye of Ender"
+      ],
+      "top_source": "The End",
+      "top_score": 0.913,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Eye of Ender"
+      ],
+      "answer_hits": 0,
+      "answer_hit_ratio": 0.0,
+      "answer": "Para llegar al End, necesitas un **End portal** (portal del End). Según la wiki:\n\n1. Debes saltar dentro del portal. Al hacerlo, llegarás instantáneamente al End en las coordenadas X: 100, Z: 0 [1].\n\n2. Si tienes cheats activados, puedes usar el comando de teletransportación para ir directamente al End sin usar el portal [1].\n\nEl contexto no explica cómo *construir* o *activar* el End portal. Para esos detalles, revisa el link de la fuente.\n\n[1]",
+      "rewrites": [
+        "¿Cómo llego al End?",
+        "How do I get to the End?",
+        "End dimension access requirements",
+        "How to travel to the End from the Overworld"
+      ],
+      "latency_ms": 6597,
+      "n_candidates": 61,
+      "sources_titles": [
+        "The End",
+        "End Gateway (block)",
+        "End City",
+        "The End",
+        "End portal"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Qué mob peligroso vive en el Deep Dark?",
+      "format": "full",
+      "tags": [
+        "biomes",
+        "unseen"
+      ],
+      "expect_abstain": false,
+      "abstained": false,
+      "expected_source": [
+        "Deep Dark",
+        "Warden"
+      ],
+      "top_source": "Deep Dark",
+      "top_score": 1.205,
+      "source_hit": true,
+      "expected_answer_contains": [
+        "Warden"
+      ],
+      "answer_hits": 1,
+      "answer_hit_ratio": 1.0,
+      "answer": "El **Warden** es el mob peligroso que aparece en el Deep Dark. No spawna de forma natural como otros mobs hostiles, sino que aparece después de activar cuatro sculk shriekers, lo cual también aplica el efecto Darkness al jugador. Aparte del Warden, no hay spawneo natural de mobs hostiles en este bioma (aunque pueden aparecer desde monster rooms u otros mecanismos especiales). [1][3]",
+      "rewrites": [
+        "¿Qué mob peligroso vive en el Deep Dark?",
+        "What dangerous mob lives in the Deep Dark?",
+        "Deep Dark dangerous mob",
+        "Deep Dark mob threat and behavior"
+      ],
+      "latency_ms": 6120,
+      "n_candidates": 46,
+      "sources_titles": [
+        "Deep Dark",
+        "Deep Dark",
+        "Deep Dark",
+        "Overworld",
+        "Mob"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo crafteo una espada de rubí?",
+      "format": "full",
+      "tags": [
+        "negative"
+      ],
+      "expect_abstain": true,
+      "abstained": true,
+      "expected_source": "",
+      "top_source": "Diamond Sword",
+      "top_score": 0.798,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en la wiki. El contexto proporcionado solo menciona recetas para Diamond Sword, Golden Sword y Wooden Sword, pero no existe ninguna referencia a una \"Ruby Sword\" o espada de rubí.\n\nRevisa los links de las fuentes oficiales de la wiki para confirmar qué espadas están disponibles en el juego.",
+      "rewrites": [
+        "¿Cómo crafteo una espada de rubí?",
+        "How do I craft a Ruby Sword?",
+        "Ruby Sword crafting recipe",
+        "Ruby Sword - how to make and craft",
+        "¿Cómo crafteo una Sword de rubí?"
+      ],
+      "latency_ms": 5160,
+      "n_candidates": 60,
+      "sources_titles": [
+        "Diamond Sword",
+        "Diamond Sword",
+        "Golden Sword",
+        "Potato Planks",
+        "Golden Sword"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo instalo mods con Forge?",
+      "format": "full",
+      "tags": [
+        "negative"
+      ],
+      "expect_abstain": true,
+      "abstained": true,
+      "expected_source": "",
+      "top_source": "Attribute",
+      "top_score": 0.011,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No encontré información específica sobre eso en la wiki. Puede que el artículo no esté indexado en este corpus, o que la pregunta sea muy ambigua. Intenta con el nombre exacto en inglés (ej. 'Hopper', 'Beacon', 'Fortune', 'Netherite').",
+      "rewrites": [
+        "¿Cómo instalo mods con Forge?",
+        "How do I install mods with Forge?",
+        "Forge mod installation guide",
+        "Installing mods using Forge loader"
+      ],
+      "latency_ms": 2333,
+      "n_candidates": 61,
+      "sources_titles": [
+        "Attribute",
+        "Add-on",
+        "Add-on",
+        "Add-on",
+        "Attribute"
+      ],
+      "error": null
+    },
+    {
+      "question": "¿Cómo hago una poción de vuelo?",
+      "format": "full",
+      "tags": [
+        "negative"
+      ],
+      "expect_abstain": true,
+      "abstained": true,
+      "expected_source": "",
+      "top_source": "Potion of Wind Charging",
+      "top_score": 0.451,
+      "source_hit": true,
+      "expected_answer_contains": [],
+      "answer_hits": 0,
+      "answer_hit_ratio": null,
+      "answer": "No tengo esa información en la wiki. Los fragmentos proporcionados solo mencionan pociones de Wind Charging, Leaping, Swiftness, Night Vision, Invisibility, Water Breathing y Slowness, pero ninguna relacionada con vuelo.\n\nRevisa el link de la fuente oficial de la Minecraft Wiki para verificar si existe esa poción en las versiones modernas de Java Edition.",
+      "rewrites": [
+        "¿Cómo hago una poción de vuelo?",
+        "How do I make a Potion of Flying?",
+        "Potion of Flying brewing recipe",
+        "How to brew a Potion of Flying ingredients",
+        "¿Cómo hago una Potion de vuelo?"
+      ],
+      "latency_ms": 5438,
+      "n_candidates": 70,
+      "sources_titles": [
+        "Potion of Wind Charging",
+        "Potion of Leaping",
+        "Potion of Leaping",
+        "Brewing",
+        "Fermented Spider Eye"
+      ],
+      "error": null
+    }
+  ]
+}

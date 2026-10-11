@@ -48,6 +48,19 @@ CATEGORIES = [
     ("End biomes", 10),
 ]
 
+# 📚 Páginas que las subcategorías traen pero que no son del juego normal
+# (eval-log #013): bromas de April Fools, contenido eliminado, Minecraft Education
+# y features nunca usadas. Giant e Illusioner se quedan: existen en Java vía comandos.
+EXCLUDE_TITLES = {
+    # Joke features (April Fools)
+    "Potato Village", "Potato Geode", "Potato Mineshaft", "Pink Wither", "Redstone Bug",
+    "Toxifin Slab", "Ruined Portatol", "Colosseum", "Hash Well", "Lunar Base",
+    # Removed features
+    "Villager (old)", "Brick Pyramid", "Obsidian Wall", "Sky dimension", "Starting House",
+    # Minecraft Education / unused
+    "Agent", "NPC", "Elder Guardian Ghost",
+}
+
 # 📚 Fallback explícito: páginas críticas que Rogelio necesita en su día a día
 # como jugador. Si alguna categoría no las cubre (o cortó por max_pages),
 # las bajamos por nombre directamente. Cero duplicación gracias al upsert.
@@ -118,6 +131,8 @@ def main() -> int:
 
     def _persist(article) -> None:
         nonlocal total_saved, total_skipped
+        if article.title in EXCLUDE_TITLES:
+            return
         dest = WIKI_PATH / f"{safe_filename(article.title)}.txt"
         if dest.exists():
             total_skipped += 1

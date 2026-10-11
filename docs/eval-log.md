@@ -350,6 +350,32 @@ En total son **~220 páginas**: ~4-5 min de scrape a 1 req/s y ~4 min de re-inge
 
 ---
 
+## 013 — Las subcategorías traen contenido que no es del juego normal
+
+**Evidencia.** De los 214 artículos nuevos de #011, 20 están en categorías de la wiki que no son del juego normal:
+
+| Tipo | Páginas |
+|---|---|
+| Joke features (April Fools) | Potato Village, Potato Geode, Potato Mineshaft, Pink Wither, Redstone Bug, Toxifin Slab, Ruined Portatol, Colosseum, Hash Well, Lunar Base |
+| Removed features | Villager (old), Brick Pyramid, Obsidian Wall, Sky dimension, Starting House |
+| Minecraft Education | Agent, NPC |
+| Unused | Elder Guardian Ghost, Giant, Illusioner |
+
+La categoría "Upcoming" también apareció, pero es un falso positivo: solo marca páginas con notas de próximas actualizaciones.
+
+**Riesgo medido antes de decidir.** Probé el retrieval con "¿qué hay en una aldea?", "¿cómo encuentro un portal en ruinas?" y "¿qué hace el villager?". **Ninguna página de broma entró al top-5**: el cross-encoder y el title boost prefieren *Village* y *Ruined Portal*. El riesgo era menor de lo estimado, y quitarlas es higiene más que un fix.
+
+**Decisión** (Rogelio): quitarlas del corpus.
+- Se borraron 18 archivos. Giant e Illusioner se quedan porque existen en Java vía comandos.
+- Se agregó `EXCLUDE_TITLES` en `scrape_wiki.py`, para que un re-scrape no las traiga de vuelta.
+- Re-ingest: **1,242 artículos y 10,963 chunks**.
+
+**Resultado** (`results_exclude-joke_*.json`, 38 preguntas): top-1 **35/35**, top-5 100%, términos 0.91, 0 falsas abstenciones, negativas 3/3, p50 6.6 s. No hubo regresiones.
+
+En esta corrida "¿Cómo llego al End?" salió con fuente top-1 correcta (*The End*), pero es variación de Haiku. La respuesta **sigue sin mencionar** los Eyes of Ender ni el Stronghold, así que la limitación de #011 con las preguntas de varios pasos sigue en pie.
+
+---
+
 ## Pendientes (actualizado 2026-10-11)
 
 Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo lo de v6. Docs actualizados a v6: `README.md`, este log, `docs/pipeline.html` y `docs/timeline.html`.
@@ -367,7 +393,7 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
    > - Reduced the vector index from 113K to 8.4K chunks and indexing time from ~15 to ~3 minutes.
 
    En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente. Dato extra después de #011: en 6 preguntas independientes (mobs, estructuras, dimensiones), 5/6 correctas tras ampliar el corpus (1/6 antes).
-8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,260 artículos, ver #011.
+8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
 9. **Opcional, después del CV:**
    - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
    - Docker de un comando (el compose está corregido pero sin probar).

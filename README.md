@@ -15,12 +15,12 @@ The evaluation set has 30 hand-labeled questions in Spanish about potions, redst
 | Expected facts present in the answer | 0.59 | **0.89 – 0.94** |
 | False "not found" answers | 7 / 27 | **0 / 27** |
 | Out-of-scope questions correctly declined | 3 / 3 | 3 / 3 |
-| Index size | 113,584 chunks | 8,408 chunks (11,076 after the coverage expansion below) |
+| Index size | 113,584 chunks | 8,408 chunks (10,963 after the coverage expansion below) |
 | Median latency | 6.4 s | 6.4 – 6.8 s |
 
 Raw results are in [`data/benchmarks/`](data/benchmarks/), and every change is documented in [`docs/eval-log.md`](docs/eval-log.md) (in Spanish). Most of the remaining "missing facts" are labeling artifacts. For example, the answer says "any stone-tier block" where the label expected "Cobblestone", or "delay" where it expected "tick". Query rewriting is not deterministic, so the final numbers come from two consecutive runs.
 
-**Coverage expansion.** Afterwards, 213 articles were added on mobs, bosses, structures, dimensions and biomes, for a total of 1,260 articles and 11,076 chunks. Six new questions (Ender Dragon, Creeper, Wither, Nether Fortress, reaching the End, Deep Dark) were written before seeing any result and were not used for tuning. They went from **1/6 to 5/6** correct sources (6/6 in the top 5), with no regressions on the original questions.
+**Coverage expansion.** Afterwards, 213 articles were added on mobs, bosses, structures, dimensions and biomes, for a total of 1,242 articles and 10,963 chunks. 18 April Fools, removed and Education-only pages were excluded. Six new questions (Ender Dragon, Creeper, Wither, Nether Fortress, reaching the End, Deep Dark) were written before seeing any result and were not used for tuning. They went from **1/6 to 5/6** correct sources (6/6 in the top 5), with no regressions on the original questions.
 
 ## How it works
 
@@ -65,7 +65,7 @@ curl -X POST http://localhost:8000/query -H "Content-Type: application/json" \
   -d '{"question": "¿Cómo hago una poción de velocidad?"}'
 ```
 
-The wiki corpus (1,260 articles) is versioned in [`data/wiki/`](data/wiki/), so you don't need to scrape anything. Run `python scripts/scrape_wiki.py` only if you want to refresh it. The first run downloads the embedding and re-ranking models (~180 MB) from Hugging Face.
+The wiki corpus (1,242 articles) is versioned in [`data/wiki/`](data/wiki/), so you don't need to scrape anything. Run `python scripts/scrape_wiki.py` only if you want to refresh it. The first run downloads the embedding and re-ranking models (~180 MB) from Hugging Face.
 
 | Task | Command |
 |---|---|
