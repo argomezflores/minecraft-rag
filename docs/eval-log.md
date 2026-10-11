@@ -427,14 +427,17 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
 4. ~~**Blocklist**~~ ✅ hecho, ver #012.
 5. **Docs desactualizados.** `pipeline.html` y `timeline.html` están en v6 pero no incluyen #011/#012 (ampliación de cobertura y blocklist). `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
-6. **Capturas** del widget y del bot in-game → `docs/img/`, enlazadas desde el README (las toma Rogelio).
-7. **CV.** Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026. Bullets propuestos con los números finales:
-   > **Minecraft Knowledge Assistant (RAG)** · Python, FastAPI, ChromaDB, Claude API · github.com/argomezflores/minecraft-rag
-   > - Built a from-scratch RAG pipeline (no LangChain) over 1,000+ Minecraft Wiki articles that answers Spanish gameplay questions with cited sources, through a REST API, a web widget and an in-game bot.
-   > - Designed an evaluation harness that exposed five root-cause bugs, among them a chunker that duplicated text 19× and an English-only re-ranker that was blind to Spanish queries. Fixing them raised top-1 retrieval accuracy from 52% to 100% on a 27-question dev set and cut false "not found" answers from 7 to 0.
-   > - Reduced the vector index from 113K to 8.4K chunks and indexing time from ~15 to ~3 minutes.
+6. **Capturas** (las toma Rogelio). Al tenerlas, enlazarlas en el README, en la sección "Why I built this" o justo después:
+   - `docs/img/widget-bad-omen.png`: el widget respondiendo "Tomé una poción de Bad Omen y no pasó nada, ¿qué hace?". Es la misma pregunta de la historia del README.
+   - `docs/img/ingame-bot.png`: el chat de Minecraft con `!rag <pregunta>` y la respuesta de MineRag.
+7. **CV.** Falta corregir la fecha: el proyecto es de ago 2026, no de ene 2026. Bullets actualizados (2026-10-11), con el re-ranking resaltado:
+   > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
+   > - Built a from-scratch RAG assistant (no LangChain) over 1,200+ Minecraft Wiki articles: Claude query rewriting, ChromaDB vector search and cross-encoder re-ranking, served via FastAPI to a web widget and an in-game bot.
+   > - Designed an evaluation harness that exposed five root-cause bugs. Re-ranking against a faithful English translation of Spanish queries raised top-1 retrieval accuracy from 67% to 93%, and the full set of fixes reached 100% on a 27-question dev set (5/6 on unseen questions) with zero false "not found" answers.
 
-   En entrevista, decir que el 100% es sobre el dev set y no sobre un test independiente. Dato extra después de #011: en 6 preguntas independientes (mobs, estructuras, dimensiones), 5/6 correctas tras ampliar el corpus (1/6 antes).
+   Versión de una línea: *Built a from-scratch RAG assistant over 1,200+ Minecraft Wiki articles (Claude query rewriting, ChromaDB, cross-encoder re-ranking); an evaluation harness exposed five root-cause bugs, and fixing them raised top-1 retrieval accuracy from 52% to 100% on a dev set.*
+
+   En entrevista, decir que el 100% es sobre el dev set y que en preguntas independientes fue 5/6.
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
 9. **Calidad del corpus (decididos "después"):** #015 (topes de items/bloques + no re-descargar lo cacheado), #016 (plantillas JE/BE/xp → requiere re-scrape completo, hacerlo junto con #015) y #014 (preguntas por descripción: `RETRIEVAL_TOP_N` 20→40 o variante "adivina el nombre").
 10. **Opcional, después del CV:**

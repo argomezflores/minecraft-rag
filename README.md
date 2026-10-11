@@ -4,6 +4,20 @@ Ask Minecraft questions in Spanish and get answers grounded in the official [Min
 
 It is built from scratch in Python, without LangChain. It has a wiki scraper that keeps crafting and brewing recipes, a custom chunker, local embeddings in ChromaDB, cross-encoder re-ranking, and Claude for query rewriting and answer generation. An evaluation harness drove every fix and records each one.
 
+## Why I built this
+
+My brothers and I came back to Minecraft after years away. The game had changed a lot in the newer versions, and much of what we used to know was gone, even crafting recipes we once had memorized. We were relearning the game from scratch.
+
+The moment that started this project: we drank a Bad Omen potion, nothing happened, and none of us knew what it was supposed to do. We didn't want to stop playing to dig through the wiki every time something like that came up. We wanted to ask in Spanish, without leaving the game, and get an answer we could trust.
+
+So now we keep playing the same world, and when a question comes up, we ask the assistant. This is its real answer to that first question:
+
+> **"Tomé una poción de Bad Omen y no pasó nada, ¿qué hace?"**
+>
+> Según la wiki, **Bad Omen** no se obtiene de una poción directamente. Se consigue al beber un **Ominous Bottle** que dropea un **Pillager Captain** cuando muere. El efecto dura 100 minutos. Cuando un jugador con Bad Omen **entra a una aldea**, el efecto se convierte en **Raid Omen**, y después de 30 segundos comienza una **raid** […]. Puedes remover el efecto bebiendo leche.
+
+In short: Bad Omen does nothing until you walk into a village, where it triggers a raid. That explains why nothing happened.
+
 ## Results
 
 The evaluation set has 30 hand-labeled questions in Spanish about potions, redstone components, and crafting. Three of them are out of scope (a "ruby sword", installing Forge mods, a "flight potion"), and for those the correct behavior is to say the answer is not in the wiki.
