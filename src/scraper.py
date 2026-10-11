@@ -108,11 +108,20 @@ def _convert_smelting_template(template) -> str:
 
 def _convert_brewing_template(template) -> str:
     """
-    Convierte {{Brewing|Ingredient|Base|Result}} → texto.
+    Convierte {{Brewing|Ingredient|base=Base|Result}} → texto.
+
+    📚 La wiki usa la base como parámetro con nombre (`base=` o `base1=`), y los
+    parámetros con nombre NO cuentan en la numeración posicional: "1" es el
+    ingrediente y "2" el resultado. El formato viejo {{Brewing|Ingredient|Base|Result}}
+    sigue soportado como fallback (ver docs/eval-log.md #002).
     """
     ingredient = _template_param(template, "1") or _template_param(template, "Ingredient")
-    base = _template_param(template, "2") or _template_param(template, "Base")
-    result = _template_param(template, "3") or _template_param(template, "Result")
+    base = _template_param(template, "base") or _template_param(template, "base1")
+    if base:
+        result = _template_param(template, "2") or _template_param(template, "Result")
+    else:
+        base = _template_param(template, "2") or _template_param(template, "Base")
+        result = _template_param(template, "3") or _template_param(template, "Result")
     if not (ingredient and base and result):
         return ""
     return f"Brewing recipe: {ingredient} + {base} → {result}."

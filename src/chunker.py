@@ -35,12 +35,16 @@ def split_text(text: str, chunk_size: int = 800, overlap: int = 150) -> list[str
             chunks.append(text[start:].strip())
             break
 
-        # 📚 Buscamos el mejor separador dentro de la ventana [start, end].
+        # 📚 Buscamos el mejor separador en la SEGUNDA MITAD de la ventana.
         # Empezamos por el más limpio; si no encontramos, bajamos de nivel.
+        # Si aceptáramos un corte cerca de `start`, el chunk saldría más corto
+        # que el overlap y la ventana avanzaría 1 carácter por iteración
+        # (bug que generaba ~110 copias del mismo párrafo — ver docs/eval-log.md #001).
+        min_split = start + chunk_size // 2
         split_at = -1
         for sep in separators:
-            idx = text.rfind(sep, start, end)
-            if idx > start:
+            idx = text.rfind(sep, min_split, end)
+            if idx != -1:
                 split_at = idx + len(sep)
                 break
 

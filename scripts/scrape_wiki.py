@@ -48,6 +48,8 @@ PRIORITY_PAGES = [
     "Piston", "Sticky Piston", "Observer", "Dispenser", "Dropper",
     "Redstone Block", "Daylight Detector", "Tripwire Hook", "Pressure Plate",
     "Button", "Lever", "Detector Rail", "Powered Rail",
+    "Redstone Lamp", "Target", "Sculk Sensor", "Calibrated Sculk Sensor",
+    "Trapdoor", "Iron Trapdoor", "TNT", "Torch", "Paper",
     # Item transport
     "Hopper", "Chest", "Trapped Chest", "Ender Chest", "Shulker Box",
     "Minecart", "Minecart with Hopper", "Minecart with Chest",
