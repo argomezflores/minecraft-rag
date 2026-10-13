@@ -27,6 +27,7 @@ from src.query_rewriter import rewrite_query
 from src.retriever import search, Hit
 from src.reranker import rerank
 from src.generator import generate_answer
+from src.smalltalk import smalltalk_reply
 
 
 # 📚 Respuesta canónica cuando ningún chunk supera el score floor.
@@ -80,6 +81,17 @@ def answer_question(
     - `format`: "full" (widget web, markdown) o "chat" (bot in-game, texto plano corto).
     """
     debug: dict = {}
+
+    # --- Paso 0: saludos / ayuda / gracias → respuesta fija, sin RAG ($0) ---
+    reply = smalltalk_reply(question, format=format)
+    if reply:
+        return PipelineResult(
+            question=question,
+            answer=reply,
+            sources=[],
+            rewrites=[question],
+            debug={"short_circuit": "smalltalk"},
+        )
 
     # --- Paso 1: Query rewriting (opcional) ---
     if QUERY_REWRITE:

@@ -418,6 +418,31 @@ Las otras dos destaparon #014-#016.
 
 ---
 
+## 017 — Preguntas reales de jugadores (mis hermanos, en el juego)
+
+**Contexto.** Los hermanos de Rogelio usaron el bot en su partida survival e hicieron 8 preguntas: 7 reales y un "hola?". Ninguna se usó para ajustar el sistema. Son la prueba más honesta disponible: escritura natural de jugador, sin acentos, con typos ("encatamiento") y con preguntas de diagnóstico ("¿por qué mis aldeanos no se reproducen?").
+
+**Decisión** (Rogelio): agregarlas al eval con la etiqueta `real-user`. La fuente y los términos esperados se tomaron de la wiki (ej. 0.164% para la oveja rosa, 3 panes o 12 zanahorias y camas para los aldeanos). Ojo: las etiquetas se escribieron después de leer las respuestas del log, aunque verificando cada dato contra el artículo.
+
+**Resultado** (`results_real-users_*.json`, eval de 45 preguntas):
+
+| Subconjunto | Fuente top-1 | Términos | Falsas abstenciones |
+|---|---|---|---|
+| `real-user` (hermanos) | **7/7** | 1.00 | 0 |
+| `unseen` (#011) | 5/6 | 0.83 | 0 |
+| **Preguntas nunca usadas para tunear** | **12/13** | | |
+| Eval completo | 41/42, top-5 100% | 0.87 | 0 (negativas 3/3) |
+
+La única falla independiente sigue siendo "¿Cómo llego al End?" (#011, preguntas de varios pasos).
+
+## 018 — "hola?" recibía "No encontré información"
+
+**Evidencia.** Un jugador escribió `!rag hola?` y el bot contestó con el mensaje de baja confianza. El pipeline trataba el saludo como una pregunta de la wiki: rewrite, retrieval, score bajo y "no encontré".
+
+**Decisión** (Rogelio): responder directo. [src/smalltalk.py](../src/smalltalk.py) normaliza el mensaje (minúsculas, sin acentos ni puntuación), y si es **completo** un saludo, "ayuda" o "gracias", el pipeline regresa una respuesta fija con ejemplos de uso, sin retrieval ni LLM (0 ms, $0). En el juego menciona `!rag`. "Hola, ¿cómo hago una antorcha?" sigue yendo al RAG. Tests en `tests/test_smalltalk.py`.
+
+---
+
 ## Pendientes (actualizado 2026-10-11)
 
 Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo lo de v6. Docs actualizados a v6: `README.md`, este log, `docs/pipeline.html` y `docs/timeline.html`.
@@ -433,14 +458,14 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
 7. **CV.** Falta corregir la fecha (ago 2026, no ene 2026). Versión final (2026-10-11), con un bullet grande en lenguaje simple:
    > **Minecraft Knowledge Assistant (RAG)** · github.com/argomezflores/minecraft-rag
    > - Built a RAG assistant from scratch over 1,200+ Minecraft Wiki articles (Claude, ChromaDB, cross-encoder re-ranking).
-   > - Built a 30+ question test set to measure answer quality; it exposed 5 hidden bugs, such as the index repeating the same text 19×, potion recipes lost during scraping, and a re-ranker that only understood English. Fixing them raised answers backed by the right article from 52% to 100% (5/6 on questions never used for tuning).
+   > - Built a 30+ question test set to measure answer quality; it exposed 5 hidden bugs, such as the index repeating the same text 19×, potion recipes lost during scraping, and a re-ranker that only understood English. Fixing them raised answers backed by the right article from 52% to 100%, and 12 of 13 questions never used for tuning, including real players', were answered correctly.
    > - Served via FastAPI to a Minecraft-styled web chat and an in-game bot.
 
    Qué significa cada parte:
    - El test set es el eval set.
    - "repeating the same text 19×" es #001; "recipes lost" es #002; "re-ranker that only understood English" es #003.
    - "52% → 100%" es la fuente top-1 sobre el dev set.
-   - "5/6 on questions never used for tuning" son las preguntas `unseen` de #011. Si preguntan por el 100%, esa es la respuesta honesta.
+   - "12 of 13 questions never used for tuning" son las 6 preguntas `unseen` de #011 más las 7 de los hermanos de #017. Si preguntan por el 100%, esa es la respuesta honesta.
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
 9. **Calidad del corpus (decididos "después"):** #015 (topes de items/bloques + no re-descargar lo cacheado), #016 (plantillas JE/BE/xp → requiere re-scrape completo, hacerlo junto con #015) y #014 (preguntas por descripción: `RETRIEVAL_TOP_N` 20→40 o variante "adivina el nombre").
 10. **Opcional, después del CV:**

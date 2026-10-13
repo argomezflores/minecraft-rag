@@ -42,6 +42,8 @@ Raw results are in [`data/benchmarks/`](data/benchmarks/), and every change is d
 
 **Coverage expansion.** Afterwards, 213 articles were added on mobs, bosses, structures, dimensions and biomes, for a total of 1,242 articles and 10,963 chunks. 18 April Fools, removed and Education-only pages were excluded. Six new questions (Ender Dragon, Creeper, Wither, Nether Fortress, reaching the End, Deep Dark) were written before seeing any result and were not used for tuning. They went from **1/6 to 5/6** correct sources (6/6 in the top 5), with no regressions on the original questions.
 
+**Real players.** My brothers then used the in-game bot during our survival game and asked 7 questions in their own words, including troubleshooting ones like "why won't my villagers breed?" and typos like "encatamiento". All **7/7** were answered with the right source and the expected facts. In total, **12 of 13** questions never used for tuning were answered correctly.
+
 ## How it works
 
 ```mermaid

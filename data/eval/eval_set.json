@@ -40,6 +40,14 @@
   {"question": "¿Cómo llego al End?", "expected_source_contains": ["The End", "End Portal", "Stronghold", "Eye of Ender"], "expected_answer_contains": ["Eye of Ender"], "tags": ["dimensions", "unseen"]},
   {"question": "¿Qué mob peligroso vive en el Deep Dark?", "expected_source_contains": ["Deep Dark", "Warden"], "expected_answer_contains": ["Warden"], "tags": ["biomes", "unseen"]},
 
+  {"question": "¿Qué pasa si tomamos la poción de bad omen?", "expected_source_contains": ["Pillager", "Raid", "Ominous", "Village", "Effect"], "expected_answer_contains": ["Raid"], "tags": ["real-user"]},
+  {"question": "como crafteo un pico de diamante?", "expected_source_contains": "Diamond Pickaxe", "expected_answer_contains": ["Diamond", "Stick"], "tags": ["real-user"]},
+  {"question": "como encuentro una oveja rosa?", "expected_source_contains": "Sheep", "expected_answer_contains": ["0.164"], "tags": ["real-user"]},
+  {"question": "¿Qué hace un repeater?", "expected_source_contains": "Redstone Repeater", "expected_answer_contains": ["señal"], "tags": ["real-user"]},
+  {"question": "como encuentro al warden?", "expected_source_contains": ["Warden", "Deep Dark", "Sculk Shrieker"], "expected_answer_contains": ["shrieker"], "tags": ["real-user"]},
+  {"question": "Porque mis aldeanos no se reproducen en mi granja de aldeanos??", "expected_source_contains": ["Villager", "Breeding", "Village"], "expected_answer_contains": ["Bread", "cama"], "tags": ["real-user"]},
+  {"question": "¿Qué es el encatamiento de mending?", "expected_source_contains": ["Mending", "Enchantment"], "expected_answer_contains": ["experiencia"], "tags": ["real-user"]},
+
   {"question": "¿Cómo crafteo una espada de rubí?", "expect_abstain": true, "tags": ["negative"]},
   {"question": "¿Cómo instalo mods con Forge?", "expect_abstain": true, "tags": ["negative"]},
   {"question": "¿Cómo hago una poción de vuelo?", "expect_abstain": true, "tags": ["negative"]}
