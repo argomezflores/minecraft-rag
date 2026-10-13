@@ -448,8 +448,8 @@ La única falla independiente sigue siendo "¿Cómo llego al End?" (#011, pregun
 Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo lo de v6. Docs actualizados a v6: `README.md`, este log, `docs/pipeline.html` y `docs/timeline.html`.
 
 1. **Visibilidad.** Confirmar que el repo está en **Public** (Settings → Danger Zone). Al hacerlo público, el email `argomezflores@gmail.com` queda visible en el User-Agent (`.env.example`, `src/config.py`, notebook). Opción: cambiarlo por la URL del repo, que la wiki también acepta como contacto.
-2. **`ipykernel` fuera de `requirements.txt`.** La app no lo usa (solo el notebook), y su dependencia `debugpy` tiene rutas tan largas que `pip install` falló en Windows al clonar en una carpeta anidada. Moverlo a `requirements-notebook.txt`.
-3. **Ejemplo `curl` del README.** Tiene acentos ("¿Cómo…poción") y da 400 desde Git Bash en Windows por la codificación. Cambiarlo por una pregunta sin acentos o agregar un ejemplo de PowerShell.
+2. ~~**`ipykernel` fuera de `requirements.txt`**~~ ✅ (2026-10-13): pasó a `requirements-dev.txt` junto con `pytest`.
+3. ~~**Ejemplo `curl` del README**~~ ✅ (2026-10-13): ahora usa una pregunta sin acentos.
 4. ~~**Blocklist**~~ ✅ hecho, ver #012.
 5. **Docs desactualizados.** `pipeline.html` y `timeline.html` están en v6 pero no incluyen #011/#012 (ampliación de cobertura y blocklist). `docs/GUIDE.md` sigue en v5: dice ~800 artículos, re-rank con la pregunta original, CC BY-SA y no menciona el eval. Actualizarlo con lo de v6. `docs/guide.html` es una copia vieja (v2-v3) de `GUIDE.md` que nada enlaza: borrarla.
 6. ~~**Capturas**~~ ✅ hechas (2026-10-11). La UI ya está rediseñada (2026-10-11): chat a página completa estilo Minecraft en `/widget/`, con la pestaña "Cómo funciona" en `/widget/about.html` y el modo flotante embebible intacto. Al tenerlas, enlazarlas en el README:
@@ -468,7 +468,12 @@ Estado: `main` está pusheado a GitHub (`argomezflores/minecraft-rag`) con todo 
    - "12 of 13 questions never used for tuning" son las 6 preguntas `unseen` de #011 más las 7 de los hermanos de #017. Si preguntan por el 100%, esa es la respuesta honesta.
 8. ~~**Cobertura (#011)**~~ ✅ hecho: 1,242 artículos tras quitar el contenido de broma/eliminado (#013).
 9. **Calidad del corpus (decididos "después"):** #015 (topes de items/bloques + no re-descargar lo cacheado), #016 (plantillas JE/BE/xp → requiere re-scrape completo, hacerlo junto con #015) y #014 (preguntas por descripción: `RETRIEVAL_TOP_N` 20→40 o variante "adivina el nombre").
-10. **Opcional, después del CV:**
+10. **CI y licencia** ✅ (2026-10-13):
+   - GitHub Actions (`.github/workflows/ci.yml`) corre los 15 unit tests con Python 3.12 y torch CPU. Se simuló en un contenedor Linux con `python:3.12` (15/15).
+   - El código es MIT (`LICENSE`); `data/wiki/` sigue en CC BY-NC-SA.
+   - Revisión de secretos en todo el historial (46 commits, todas las ramas): limpio.
+   - **Lint pendiente:** `ruff` 0.17 da 36 hallazgos con sus reglas por default (23 se arreglan con `--fix`; 11 son `except Exception` a propósito, 1 valor duplicado en la blocklist y 1 `except: pass`). Por eso no se agregó al CI.
+11. **Opcional, después del CV:**
    - Un eval set **independiente** de ~20 preguntas que no se use para tunear.
    - Docker de un comando (el compose está corregido pero sin probar).
    - pytest en GitHub Actions.
