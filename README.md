@@ -84,7 +84,7 @@ Open <http://localhost:8000/widget/>, or call the API directly:
 
 ```bash
 curl -X POST http://localhost:8000/query -H "Content-Type: application/json" \
-  -d '{"question": "¿Cómo hago una poción de velocidad?"}'
+  -d '{"question": "Como hago una pocion de velocidad?"}'
 ```
 
 The wiki corpus (1,242 articles) is versioned in [`data/wiki/`](data/wiki/), so you don't need to scrape anything. Run `python scripts/scrape_wiki.py` only if you want to refresh it. The first run downloads the embedding and re-ranking models (~180 MB) from Hugging Face.
