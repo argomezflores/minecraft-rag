@@ -1,5 +1,7 @@
 # Minecraft Wiki RAG Assistant
 
+[![CI](https://github.com/argomezflores/minecraft-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/argomezflores/minecraft-rag/actions/workflows/ci.yml)
+
 Ask Minecraft questions in Spanish and get answers grounded in the official [Minecraft Wiki](https://minecraft.wiki), with cited sources. The assistant can be used from a web chat widget, a REST API, or an in-game bot that replies in the Minecraft chat.
 
 It is built from scratch in Python, without LangChain. It has a wiki scraper that keeps crafting and brewing recipes, a custom chunker, local embeddings in ChromaDB, cross-encoder re-ranking, and Claude for query rewriting and answer generation. An evaluation harness drove every fix and records each one.
