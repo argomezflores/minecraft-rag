@@ -92,7 +92,7 @@ The wiki corpus (1,242 articles) is versioned in [`data/wiki/`](data/wiki/), so 
 | Task | Command |
 |---|---|
 | Run the evaluation | `python scripts/benchmark.py --eval-set data/eval/eval_set.json --version my-run` |
-| Run the unit tests | `python -m pytest tests` |
+| Run the unit tests | `pip install -r requirements-dev.txt` then `python -m pytest tests` |
 | In-game bot (Node.js + Mineflayer) | see [`minecraft_bot/README.md`](minecraft_bot/README.md) |
 | API docs (Swagger) | <http://localhost:8000/docs> |
 

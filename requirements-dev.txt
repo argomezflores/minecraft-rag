@@ -1,0 +1,5 @@
+-r requirements.txt
+
+# Dev only: tests and the exploratory notebook (not needed to run the app).
+pytest==9.1.1
+ipykernel==7.3.0
