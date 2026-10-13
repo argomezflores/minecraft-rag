@@ -139,6 +139,8 @@ minecraft_bot/  in-game bot (Node.js, Mineflayer)
 docs/           eval log + design notes from earlier versions (Spanish)
 ```
 
-## Credits
+## License and credits
 
-Wiki content © Minecraft Wiki contributors, licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/). It is redistributed in `data/wiki/` for non-commercial, educational use, and every answer links back to its source article. Minecraft is a trademark of Mojang Studios; this project is not affiliated with Mojang or Microsoft.
+- **Code:** [MIT](LICENSE), © 2026 Rogelio Gómez. This covers everything outside `data/wiki/`, including the web chat and its pixel-art textures.
+- **Wiki content:** the articles in `data/wiki/` are © Minecraft Wiki contributors and stay under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), not MIT. They are redistributed for non-commercial, educational use, and every answer links back to its source article.
+- Minecraft is a trademark of Mojang Studios. This project is not affiliated with Mojang or Microsoft.
